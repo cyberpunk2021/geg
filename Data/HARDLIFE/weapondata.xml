@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<root>
+	<PermanentStocks>
+		<item>MP5 Butt solid</item>
+	</PermanentStocks>
+	<BipodsWithoutEffect>
+		<item>AUG Integrated Bipod folded</item>
+		<item>Barret bipod folded</item>
+		<item>FALO Integrated Bipod folded</item>
+		<item>G3SG1 bipod folded</item>
+		<item>HK Integrated Bipod folded</item>
+		<item>M60 Integrated Bipod folded</item>
+		<item>Machinegun Bipod (PKM) folded</item>
+		<item>Machinegun Bipod (RPD) folded</item>
+		<item>Machinegun Bipod (RPK) folded</item>
+		<item>MG3 bipod folded</item>
+		<item>Minimi_bipod folded</item>
+		<item>Sniper Bipod (DSR-1) folded</item>
+		<item>SVU bipod folded</item>
+		<item>G36 bipod folded</item>
+		<item>L86_Bipod folded</item>
+		<item>L96A1 bipod folded</item>
+		<item>SV98 bipod folded</item>
+		<item>Sniper Bipod Series 1A2 folded</item>
+		<item>Harris Bipod WR folded</item>
+		<!--<item>Tactical grip</item>-->
+		<item>Galil bipod folded</item>
+		<item>SIG bipod folded</item>
+		<item>Famas Bipod Folded</item>
+		<item>Type 89 Bipod Folded</item>
+		<item>Type 64 Bipod Folded</item>
+		<item>Arisaka Bipod Folded</item>
+		<item>Type 96 Bipod Folded</item>
+		<item>Type 99 Bipod Folded</item>
+		<item>QBBBipod Folded</item>
+		<item>Bipod MG34 Folded</item>
+		<item>Stoner63 Bipod Folded</item>
+		<item>FN Mag Bipod Folded</item>
+		<item>Lewis Bipod Folded</item>
+		<item>RP46Bipod Folded</item>
+		<item>BAR bipod Folded</item>
+		<item>Type88Bipod Folded</item>
+		<item>NEGEV Bipod Folded</item>
+		<item>Machinegun Bipod (DP27) Folded</item>
+		<item>PZB39 Bipod Folded</item>
+		<item>HS50 bipod Folded</item>
+		<item>CheyTac bipod Folded</item>
+		<item>OSV96 Bipod Folded</item>
+		<item>KSVK Bipod Folded</item>
+		<item>AMR2 Bipod Folded</item>
+		<item>WZ35 Bipod Folded</item>
+		<item>AR7090 Bipod Folded</item>
+		<item>SIG550 Bipod Folded</item>
+		<item>QBUBipod Folded</item>
+		<item>T81 Bipod Folded</item>
+	</BipodsWithoutEffect>
+	<BayonetsWithoutEffect>
+		<item>M44_Bayonet</item>
+		<item>Sks bayonet</item>
+		<item>Type56 Neddle Bayonet</item>
+		<item>Carcano91 Bayonet FOLDED</item>
+	</BayonetsWithoutEffect>
+	<RebuildClipAction>
+		<OneBulletLoadTime>0.6</OneBulletLoadTime>
+		<OpenAmmoBoxTime>2.0</OpenAmmoBoxTime>
+		<TakeClipTime>3.0</TakeClipTime>
+	</RebuildClipAction>
+	<BurstDeviation>
+        <!--<item value="5.5">Machinegun RPK-74M (5.45mm) folded</item>-->
+		<!--Pistol section-->
+		<item value="1.5">Pistol APB (9x18mm) folded</item>
+		<item value="1.5">Pistol APS (9x18mm) folded</item>
+		<item value="2.52">Pistol M712 (7.62x25mm) folded</item>
+		<item value="2.67">Pistol Glock 18c (9mm)</item>
+		<!--SMG section-->
+	</BurstDeviation>
+	<TacticalGrip>
+		<item bipodValue="0.45" holdValue="0.75">Tactical grip</item>
+		<item bipodValue="0.45" holdValue="0.75">Frontgrip</item>
+	</TacticalGrip>
+</root>

@@ -1,0 +1,602 @@
+"Heavy Armor Bastion"
+Body  3 
+
+	  0.9 
+Steel  
+Covers  
+Front  
+Slots  1 240 90 0.22 0.06 
+
+	  0.4 
+Steel  
+Covers  
+Back  
+Slots  1 240 60 0.22 0.06 
+
+	  0.9 
+Kevlar  
+Covers  
+Full  
+Slots  0 150 100 0.1 0.05 
+
+	  
+ACTOR  "Items\bron_bastion.act"
+	  
+IMAGE  "bron_bastion.e6b"
+	  
+WEIGHT  16000 
+"Heavy Armor Predator"
+Body  3 
+
+	  0.9 
+Steel  
+Covers  
+Front  
+Slots  1 240 100 0.2 0.06 
+
+	  0.75 
+Steel  
+Covers  
+Back  
+Slots  1 240 60 0.2 0.06 
+
+	  0.6 
+Kevlar  
+Covers  
+Full  
+Slots  0 150 90 0.2 0.05 
+
+	  
+ACTOR  "Items\bron_predator.act"
+	  
+IMAGE  "bron_predator.e6b"
+	  
+WEIGHT  12000 
+"Heavy Assault Armor Vest M1000"
+Body  3 
+
+	  0.9 
+Titanium  
+Covers  
+Front  
+Slots  1 235 100 0.2 0.06 
+
+	  0.9 
+Titanium  
+Covers  
+Back  
+Slots  0 235 80 0.2 0.06 
+
+	  0.8 
+Kevlar  
+Covers  
+Full  
+Slots  0 125 45 0.1 0.05 
+
+	  
+ACTOR  "Items\heavy_armor.act"
+	  
+IMAGE  "assaultarmor.e5b"
+	  
+WEIGHT  21000 
+"Tactical Armor SWAT"
+Body  2 
+
+	  0.95 
+Steel  
+Covers  
+Front  
+Slots  0 160 80 0.16 0.06 
+
+	  0.8 
+Kevlar  
+Covers  
+Full  
+Slots  0 125 100 0.1 0.05 
+
+	  
+ACTOR  "Items\bron_swat.act"
+	  
+IMAGE  "bron_swat.e6b"
+	  
+WEIGHT  13000 
+"Tactical Armor Vest M100"
+Body  1 
+
+	  0.7 
+Kevlar  
+Covers  
+Full  
+Slots  0 70 25 0.2 0.1 
+
+	  
+ACTOR  "Items\bonus_armor3.act"
+	  
+IMAGE  "bonus_armor3.e5b"
+	  
+WEIGHT  3000 
+"Tactical Armor Vest M200"
+Body  1 
+
+	  0.7 
+Kevlar  
+Covers  
+Full  
+Slots  0 125 45 0.1 0.05 
+
+	  
+ACTOR  "Items\armor3.act"
+	  
+IMAGE  "armor3.e5b"
+	  
+WEIGHT  5000 
+"Tactical Armor Vest M300"
+Body  2 
+
+	  0.5 
+Steel  
+Covers  
+Front  
+Slots  1 150 60 0.15 0.06 
+
+	  0.7 
+Kevlar  
+Covers  
+Full  
+Slots  0 125 45 0.1 0.05 
+
+	  
+ACTOR  "Items\bonus_armor3-1.act"
+	  
+IMAGE  "bonus_armor3-1.e5b"
+	  
+WEIGHT  8000 
+"Tactical Armor Vest M500"
+Body  2 
+
+	  0.9 
+Steel  
+Covers  
+Front  
+Slots  1 180 60 0.15 0.06 
+
+	  0.4 
+Kevlar  
+Covers  
+Full  
+Slots  0 125 45 0.1 0.05 
+
+	  
+ACTOR  "Items\armorvest.act"
+	  
+IMAGE  "armor2.e5b"
+	  
+WEIGHT  12000 
+"Tactical Armor Vizov"
+Body  3 
+
+	  0.7 
+Kevlar  
+Covers  
+Front  
+Slots  1 150 50 0.1 0.06 
+
+	  0.7 
+Kevlar  
+Covers  
+Back  
+Slots  1 150 50 0.1 0.06 
+
+	  0.7 
+Kevlar  
+Covers  
+Full  
+Slots  0 150 50 0.1 0.05 
+
+	  
+ACTOR  "Items\bron_visov.act"
+	  
+IMAGE  "bron_vizov.e6b"
+	  
+WEIGHT  8000 
+"Tactical Armor Wildkat"
+Body  1 
+
+	  0.6 
+Kevlar  
+Covers  
+Full  
+Slots  1 140 40 0.1 0.05 
+
+	  
+ACTOR  "Items\bron_wildkat.act"
+	  
+IMAGE  "bron_wildkat.e6b"
+	  
+WEIGHT  4000 
+
+"Helmet 6B6-3"
+Head  1 
+
+	  0.95 
+Titanium  
+Covers  
+Full  
+Slots  0 200 300 0.1 0.05 
+
+	  
+ACTOR  "items\helmet_vitiaz_zc.act"
+	  
+IMAGE  "helmet_vitiaz_zc.e5b"
+	  
+WEIGHT  3600 
+
+"Helmet M1"
+Head  4 
+
+	  0.25 
+Steel  
+Covers  
+Front  
+Slots  0 100 100 0.2 0.08 
+
+	  0.75 
+Steel  
+Covers  
+Back  
+Slots  0 100 100 0.2 0.08 
+
+	  0.6 
+Steel  
+Covers  
+Left  
+Slots  0 100 100 0.2 0.08 
+
+	  0.6 
+Steel  
+Covers  
+Right  
+Slots  0 100 100 0.2 0.08 
+
+	  
+ACTOR  "Items\helmet_m1.act"
+	  
+IMAGE  "helmet_m1.e5b"
+	  
+WEIGHT  1550 
+
+"Helmet PASGT"
+Head  4 
+
+	  0.35 
+Kevlar  
+Covers  
+Front  
+Slots  0 100 150 0.2 0.08 
+
+	  0.85 
+Kevlar  
+Covers  
+Back  
+Slots  0 100 150 0.2 0.08 
+
+	  0.75 
+Kevlar  
+Covers  
+Left  
+Slots  0 100 150 0.2 0.08 
+
+	  0.75 
+Kevlar  
+Covers  
+Right  
+Slots  0 100 150 0.2 0.08 
+
+	  
+ACTOR  "Items\helmet_pasgt.act"
+	  
+IMAGE  "helmet_pasgt.e5b"
+	  
+WEIGHT  1550 
+
+"Helmet Sfera-S"
+Head  4 
+
+	  0.35 
+Steel  
+Covers  
+Front  
+Slots  0 150 200 0.2 0.08 
+
+	  0.75 
+Steel  
+Covers  
+Back  
+Slots  0 150 200 0.2 0.08 
+
+	  0.65 
+Steel  
+Covers  
+Left  
+Slots  0 150 200 0.2 0.08 
+
+	  0.65 
+Steel  
+Covers  
+Right  
+Slots  0 150 200 0.2 0.08 
+
+	  
+ACTOR  "Items\helmet_sfera-s.act"
+	  
+IMAGE  "helmet_sfera-s.e5b"
+	  
+WEIGHT  3500 
+
+"Helmet Vitiaz"
+Head  4 
+
+	  0.4 
+Steel  
+Covers  
+Front  
+Slots  0 170 250 0.1 0.06 
+
+	  0.95 
+Steel  
+Covers  
+Back  
+Slots  0 170 250 0.1 0.06 
+
+	  0.85 
+Steel  
+Covers  
+Left  
+Slots  0 170 250 0.1 0.06 
+
+	  0.85 
+Steel  
+Covers  
+Right  
+Slots  0 170 250 0.1 0.06 
+
+	  
+ACTOR  "Items\helmet_vitiaz_wz.act"
+	  
+IMAGE  "helmet_vitiaz_wz.e5b"
+	  
+WEIGHT  3200 
+
+"Kevlar Helmet"
+Head  4 
+
+	  0.25 
+Kevlar  
+Covers  
+Front  
+Slots  0 130 210 0.1 0.04 
+
+	  0.75 
+Kevlar  
+Covers  
+Back  
+Slots  0 130 210 0.1 0.04 
+
+	  0.65 
+Kevlar  
+Covers  
+Left  
+Slots  0 130 210 0.1 0.04 
+
+	  0.65 
+Kevlar  
+Covers  
+Right  
+Slots  0 130 210 0.1 0.04 
+
+	  
+ACTOR  "Items\helmet_ach.act"
+	  
+IMAGE  "helmet_ach.e5b"
+	  
+WEIGHT  1360 
+
+"MICH Helmet"
+Head  4 
+
+	  0.3 
+Kevlar  
+Covers  
+Front  
+Slots  0 120 175 0.1 0.05 
+
+	  0.8 
+Kevlar  
+Covers  
+Back  
+Slots  0 120 175 0.1 0.05 
+
+	  0.7 
+Kevlar  
+Covers  
+Left  
+Slots  0 120 175 0.1 0.05 
+
+	  0.7 
+Kevlar  
+Covers  
+Right  
+Slots  0 120 175 0.1 0.05 
+
+	  
+ACTOR  "Items\helmet_mich.act"
+	  
+IMAGE  "helmet_mich.e5b"
+	  
+WEIGHT  1250 
+
+"Steel Helmet"
+Head  4 
+
+	  0.3 
+Steel  
+Covers  
+Front  
+Slots  0 90 90 0.2 0.07 
+
+	  0.7 
+Steel  
+Covers  
+Back  
+Slots  0 90 90 0.2 0.07 
+
+	  0.6 
+Steel  
+Covers  
+Left  
+Slots  0 90 90 0.2 0.07 
+
+	  0.6 
+Steel  
+Covers  
+Right  
+Slots  0 90 90 0.2 0.07 
+
+	  
+ACTOR  "Items\helmet_ssh-40.act"
+	  
+IMAGE  "helmet_ssh-40.e5b"
+	  
+WEIGHT  1250 
+
+"Titanium Helmet M100"
+Head  4 
+
+	  0.35 
+Titanium  
+Covers  
+Front  
+Slots  0 150 230 0.2 0.06 
+
+	  0.85 
+Titanium  
+Covers  
+Back  
+Slots  0 150 230 0.2 0.06 
+
+	  0.75 
+Titanium  
+Covers  
+Left  
+Slots  0 150 230 0.2 0.06 
+
+	  0.75 
+Titanium  
+Covers  
+Right  
+Slots  0 150 230 0.2 0.06 
+
+	  
+ACTOR  "Items\helmet_pasgt_titan.act"
+	  
+IMAGE  "helmet_pasgt_titan.e5b"
+	  
+WEIGHT  1500 
+
+"Ceramic armor plate Lvl 3"
+Slot  
+
+	  0.5 
+Ceramics  
+Covers  
+Full  
+Slots  0 200 70 0.35 0 
+
+	  
+ACTOR  "Items\plateLVL3Ceramic.act"
+	  
+IMAGE  "CeramicArmorplateLvl3.e5b"
+	  
+WEIGHT  1500 
+
+"Ceramic armor plate Lvl 4"
+Slot  
+
+	  0.5 
+Ceramics  
+Covers  
+Full  
+Slots  0 260 110 0.35 0 
+
+	  
+ACTOR  "Items\plateLVL4Ceramic.act"
+	  
+IMAGE  "CeramicArmorplateLvl4.e5b"
+	  
+WEIGHT  2000 
+
+"Metal armor plate 1"
+Slot  
+
+	  0.5 
+Steel  
+Covers  
+Full  
+Slots  0 160 50 0.4 0 
+
+	  
+ACTOR  "Items\mplate1.act"
+	  
+IMAGE  "mplate1.e5b"
+	  
+WEIGHT  1600 
+
+"Metal armor plate 2"
+Slot  
+
+	  0.5 
+Steel  
+Covers  
+Full  
+Slots  0 150 40 0.45 0 
+
+	  
+ACTOR  "Items\mplate2.act"
+	  
+IMAGE  "mplate2.e5b"
+	  
+WEIGHT  1850 
+
+"Titanium armor plate Lvl 3"
+Slot  
+
+	  0.5 
+Titanium  
+Covers  
+Full  
+Slots  0 180 60 0.3 0 
+
+	  
+ACTOR  "Items\plateLVL3Titanium.act"
+	  
+IMAGE  "TitaniumArmorplateLvl3.e5b"
+	  
+WEIGHT  2000 
+
+"Titanium armor plate Lvl 4"
+Slot  
+
+	  0.5 
+Titanium  
+Covers  
+Full  
+Slots  0 235 100 0.3 0 
+
+	  
+ACTOR  "Items\plateLVL4Titanium.act"
+	  
+IMAGE  "TitaniumArmorplateLvl4.e5b"
+	  
+WEIGHT  3000 
+
+END  

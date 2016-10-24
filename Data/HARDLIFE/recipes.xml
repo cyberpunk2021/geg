@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!-- LockAttached: если true - нельзя использовать, когда предмет на оружии / if true - can be used while an item is mounted to a weapon -->
+<!-- Версия 0.99 -->
+<root>
+	<ModStrings>
+		<RemoveMount>lang/cfg/recipes/remove_mount</RemoveMount>
+		<RemoveNightModule>lang/cfg/recipes/remove_night_module</RemoveNightModule>
+		<RemoveOpticModule>lang/cfg/recipes/remove_optics</RemoveOpticModule>
+        <RemoveEpaulets>lang/cfg/recipes/remove_epaulets</RemoveEpaulets>
+	</ModStrings>
+	<!-- Инструменты -->
+	<Tools>
+		<Item></Item><!-- Какой-нибудь предмет, являющийся инструментом / Any item which is a tool -->
+		<Toolset Item="tool1">
+			<Tool DisplayName="lang/cfg/recipes/tool/knife">Knife</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/awl">Shilo</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/screwdriver">Otvertka</Tool>
+		</Toolset>
+		<Toolset Item="tool2">
+			<Tool DisplayName="lang/cfg/recipes/tool/knife">Knife</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/awl">Shilo</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/screwdriver">Otvertka</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/pliers">Pliers</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/saw">Pila</Tool>
+		</Toolset>
+		<Toolset Item="tool3">
+			<Tool DisplayName="lang/cfg/recipes/tool/knife">Knife</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/awl">Shilo</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/screwdriver">Otvertka</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/pliers">Pliers</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/saw">Pila</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/hacksaw">Cutter</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/file">File</Tool>
+			<Tool DisplayName="lang/cfg/recipes/tool/hammer">Molotok</Tool>
+		</Toolset>
+	</Tools>
+	<Devices>
+		<Device Item="Mount (WR-M16)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (WR-HK)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (WR-AK)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (WR-M14)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (WR-Mini14)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (WR-SIG)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="G36 Handle" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (M16-WR)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount (WR-Galil)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount TL (WR-HK)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount TL (WR-Barrel)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Mount harris (WR)" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="Gemtech Quickmount Kit" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="AAC Blackout Kit" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="AK Kit" RemoveString="RemoveMount" AttachTime="2.5" DetachTime="2.5" LockAttached="true" />
+		<Device Item="KN250" RemoveString="RemoveNightModule" AttachTime="4.8" DetachTime="3.1"/>
+		<Device Item="NSA80" RemoveString="RemoveNightModule" AttachTime="4.8" DetachTime="3.1"/>
+		<Device Item="Magnifier" RemoveString="RemoveOpticModule" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira police colonel epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira police major epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira police captain epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira police leutenant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira police sergant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+		<Device Item="Algeira soldiers colonel epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira soldiers major epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira soldiers captain epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira soldiers leutenant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira soldiers sergant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+		<Device Item="Algeira guards colonel epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira guards major epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira guards captain epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira guards leutenant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Algeira guards sergant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+		<Device Item="Palinero soldiers colonel epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Palinero soldiers major epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Palinero soldiers captain epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Palinero soldiers leutenant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+        <Device Item="Palinero soldiers sergant epaulets" RemoveString="RemoveEpaulets" AttachTime="4.8" DetachTime="3.1"/>
+	</Devices>
+
+<!-- Прицелы, ночные модули / Scopes, night modules -->
+	<Modification Item="EOTech Holosight 552 (WR)">
+		<Variant Item="EOTech Holosight 552 (M16)">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (HK)">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (AK)">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (M14)">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (Mini14)">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (SIG)">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (G36)">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="EOTech Holosight 552 (Galil)">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+		<Variant Item="Sight EOTech + Magnifier (WR)">
+			<Device>Magnifier</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="FN SSR Reflex">
+		<Variant Item="FN SSR Reflex M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="FN SSR Reflex Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Collimator Aimpoint Comp M (WR)">
+		<Variant Item="Collimator M68 CCO (M16)">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp ML XD (MP5)">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp M (AK)">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp M (M14)">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp M (Mini14)">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp M (SIG)">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp M (G36)">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint CompM High (WR)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Collimator Aimpoint Comp M (Galil)">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+		<Variant Item="Sight Aimpoint + Magnifier (WR)">
+			<Device>Magnifier</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Vision Plus Dot">
+		<Variant Item="Vision Plus Dot M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Vision Plus Dot Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="C-MORE Red Dot">
+		<Variant Item="C-MORE Red Dot M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="C-MORE Red Dot Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Barska AC">
+		<Variant Item="Barska AC M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Barska AC High MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Barska AC High AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Barska AC M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Barska AC Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Barska AC SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Barska AC G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Barska AC High WR">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Barska AC Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="M26 Mass Reflex">
+		<Variant Item="M26 Mass Reflex M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="M26 Mass Reflex Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Aimpoint Micro">
+		<Variant Item="Aimpoint Micro M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Aimpoint Micro Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Kobra WR">
+		<Variant Item="Kobra M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Kobra MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Kobra AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Kobra M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Kobra Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Kobra SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Kobra G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Kobra High WR">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Kobra Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Optical Sight Elcan 3.4x28 (C7)">
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 GREEN Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Optical Sight Elcan 3.4x28 (WR)">
+		<Variant Item="Optical Sight Elcan 3.4x28 M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Elcan 3.4x28 Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Leupold Prismatic (WR)">
+		<Variant Item="Leupold Prismatic M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Leupold Prismatic Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Docter Sight (WR)">
+		<Variant Item="Docter Sight M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Docter Sight MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Docter Sight AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Docter Sight M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Docter Sight Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Docter Sight SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Docter Sight G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Docter Sight High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Docter Sight Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+	<Modification Item="Barska Red Dot">
+		<Variant Item="Barska Red Dot M16">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot MP5">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot AK">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot M14">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot Mini14">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot SIG">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot G36">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot High">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Barska Red Dot Galil">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+	
+
+
+	<Modification Item="Optical Sight ACOG 4x32 (M16)">
+		<Variant Item="Optical Sight ACOG 4x32 (WR)">
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (MP5)">
+			<Device>Mount (WR-HK)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (AK)">
+			<Device>Mount (WR-AK)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (M14)">
+			<Device>Mount (WR-M14)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (Mini14)">
+			<Device>Mount (WR-Mini14)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (SIG)">
+			<Device>Mount (WR-SIG)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (G36)">
+			<Device>G36 Handle</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight ACOG 4x32 (Galil)">
+			<Device>Mount (WR-Galil)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight Leupold Mark 4 10x40 (M24)">
+		<Variant Item="Night Sight Leupold Mark4+KN250 (M24)">
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (M16)">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (MP5)">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (AK)">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (M14)">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (Mini14)">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG L)">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (WR)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (Galil)">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (M16)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (MP5)">
+			<Device>Mount (WR-HK)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (AK)">
+			<Device>Mount (WR-AK)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (M14)">
+			<Device>Mount (WR-M14)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (Mini14)">
+			<Device>Mount (WR-Mini14)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (SIG L)">
+			<Device>Mount (WR-SIG)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (Galil)">
+			<Device>Mount (WR-Galil)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Optical Sight Leupold Mark 4 10x40 (G36)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (WR)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (SIG)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+			<Device>Mount (WR-SIG)</Device>
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leupold Mark4+KN250 (G36)">
+			<Device>Mount (WR-M16)</Device>
+			<Device>Mount (M16-WR)</Device>
+			<Device>G36 Handle</Device>
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Night Sight AN/PVS-4 (WR)">
+		<Variant Item="Night Sight AN/PVS-4 (M16)">
+			<Device>Mount (WR-M16)</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (MP5)">
+			<Device>Mount (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (AK)">
+			<Device>Mount (WR-AK)</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (M14)">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (Mini14)">
+			<Device>Mount (WR-Mini14)</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (SIG)">
+			<Device>Mount (WR-SIG)</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (G36)">
+			<Device>G36 Handle</Device>
+		</Variant>
+		<Variant Item="Night Sight AN/PVS-4 (Galil)">
+			<Device>Mount (WR-Galil)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight ZF Hensoldt 6x42 BL (SIG)">
+		<Variant Item="Night Sight ZF Hensoldt BL+KN250 (SIG)">
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight ZF Hendsoldt 6x42 (PSG)">
+		<Variant Item="Night Sight ZF Hendsoldt 6x42+KN250 (PSG)">
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight ZF Hensoldt 10x42 (MSG)">
+		<Variant Item="Night Sight ZF Hensoldt 10x42+KN250 (MSG)">
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight 1P69 Giperon (WR)">
+		<Variant Item="Night Sight 1P69 Giperon+KN250 (WR)">
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight L1A1 Schmidt und Bender (AW)">
+		<Variant Item="Night Sight L1A1 Schmidt und Bender+KN250 (AW)">
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight SUSAT L9A1 (SA80)">
+		<Variant Item="Night Sight SUSAT L9A1+KN250 (SA80)">
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight Hendsoldt G36E 1.5x (G36)">
+		<Variant Item="Night Sight Hendsoldt G36E 1.5x+NSA80 (G36)">
+			<Device>NSA80</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight Hendsoldt G36E 3.5x (G36)">
+		<Variant Item="Night Sight Hendsoldt G36E 3.5x+NSA80 (G36)">
+			<Device>NSA80</Device>
+		</Variant>
+	</Modification>
+
+<!-- Комбинации с прицелами, которые не входят в универсальную систему крепежа.
+	Некоторых моделей для установки на другие переходники не хватает!
+	 Combinations with not standard scopes, not suitable for standard system.
+	There can be no modules for installing to certain adaptors! -->
+	<Modification Item="Optical Sight Leatherwood 3-9x (WR)">
+		<Variant Item="Optical Sight Leatherwood 3-9x (M14)">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Night Sight Leatherwood 3-9x (WR)">
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight Leatherwood 3-9x (M14)">
+			<Device>Mount (WR-M14)</Device>
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Optical Sight SN-3 5-25x TPAL (WR)">
+		<Variant Item="Optical Sight SN-3 5-25x TPAL (M14)">
+			<Device>Mount (WR-M14)</Device>
+		</Variant>
+		<Variant Item="Night Sight SN-3 5-25x TPAL (WR)">
+			<Device>KN250</Device>
+		</Variant>
+		<Variant Item="Night Sight SN-3 5-25x TPAL (M14)">
+			<Device>Mount (WR-M14)</Device>
+			<Device>KN250</Device>
+		</Variant>
+	</Modification>
+
+<!-- ТФ, ЛЦУ, сошки / Flash, Lasers, Rests -->
+	<Modification Item="Insight M3 Tactical Flashlight (WR)">
+		<Variant Item="Insight M3 Tactical Flashlight (HK)">
+			<Device>Mount TL (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Insight M3 Tactical Flashlight (BM)">
+			<Device>Mount TL (WR-Barrel)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Surefire CUS Flashlight (WR)">
+		<Variant Item="Surefire CUS Flashlight (HK)">
+			<Device>Mount TL (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Surefire CUS Flashlight (BM)">
+			<Device>Mount TL (WR-Barrel)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Beamshot 5000S (WR)">
+		<Variant Item="Beamshot 5000S (HK)">
+			<Device>Mount TL (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Beamshot 5000S (BM)">
+			<Device>Mount TL (WR-Barrel)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Surefire CUS IR-Laser Sight (WR)">
+		<Variant Item="Surefire CUS IR-Laser Sight (HK)">
+			<Device>Mount TL (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Surefire CUS IR-Laser Sight (BM)">
+			<Device>Mount TL (WR-Barrel)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Surefire CUS Laser Sight (WR)">
+		<Variant Item="Surefire CUS Laser Sight (HK)">
+			<Device>Mount TL (WR-HK)</Device>
+		</Variant>
+		<Variant Item="Surefire CUS Laser Sight (BM)">
+			<Device>Mount TL (WR-Barrel)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Sniper Bipod Series 1A2">
+		<Variant Item="Harris Bipod WR">
+			<Device>Mount harris (WR)</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Sniper Bipod Series 1A2 folded">
+		<Variant Item="Harris Bipod WR folded">
+			<Device>Mount harris (WR)</Device>
+		</Variant>
+	</Modification>
+
+<!-- Глушители, пламягасители, ПБС / Silencers
+	<Modification Item="GemtechM4-96D Suppressor (5.56 mm)">
+		<Variant Item="GemtechM4-96D Suppressor adapted">
+			<Device>Gemtech Quickmount Kit</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Suppressor M4-2000 (5.56 mm)">
+		<Variant Item="Suppressor M4-2000 adapted">
+			<Device>AAC Blackout Kit</Device>
+		</Variant>
+	</Modification>
+ -->
+<!-- Подствольные гранатометы, дробовики / Underbarrel launchers, shotguns -->
+	<Modification Item="M203B (40mm LV)">
+		<Variant Item="M203 AK (40mm LV)">
+			<Device>AK Kit</Device>
+		</Variant>
+	</Modification>
+
+	<Modification Item="Knight Masterkey Shotgun (12 ga)">
+		<Variant Item="Knight Masterkey Shotgun AK (12 ga)">
+			<Device>AK Kit</Device>
+		</Variant>
+	</Modification>
+<!-- Форма + погоны / Uniform + epaulets -->
+    <Modification Item="Algeira guards soldier uniform">
+        <Variant Item="Algeira guards colonel uniform">
+            <Device>Algeira soldiers colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira guards major uniform">
+            <Device>Algeira soldiers major epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira guards captain uniform">
+            <Device>Algeira soldiers captain epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira guards leutenant uniform">
+            <Device>Algeira soldiers leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira guards sergant uniform">
+            <Device>Algeira soldiers sergant epaulets</Device>
+        </Variant>
+    </Modification>
+    <Modification Item="Algeira police soldier uniform">
+        <Variant Item="Algeira police colonel uniform">
+            <Device>Algeira police colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira police major uniform">
+            <Device>Algeira police major epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira police captain uniform">
+            <Device>Algeira police captain epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira police leutenant uniform">
+            <Device>Algeira police leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira police sergant uniform">
+            <Device>Algeira police sergant epaulets</Device>
+        </Variant>
+    </Modification>
+    <Modification Item="Algeira carabineer soldier uniform">
+        <Variant Item="Algeira carabineer colonel uniform">
+            <Device>Algeira police colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira carabineer major uniform">
+            <Device>Algeira police major epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira carabineer captain uniform">
+            <Device>Algeira police captain epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira carabineer leutenant uniform">
+            <Device>Algeira police leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira carabineer sergant uniform">
+            <Device>Algeira police sergant epaulets</Device>
+        </Variant>
+    </Modification>
+    <Modification Item="Algeira soldiers soldier uniform">
+        <Variant Item="Algeira soldiers colonel uniform">
+            <Device>Algeira soldiers colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers major uniform">
+            <Device>Algeira soldiers major epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers captain uniform">
+            <Device>Algeira soldiers captain epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers leutenant uniform">
+            <Device>Algeira soldiers leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers sergant uniform">
+            <Device>Algeira soldiers sergant epaulets</Device>
+        </Variant>
+    </Modification>
+    <Modification Item="Algeira soldiers sz soldier uniform">
+        <Variant Item="Algeira soldiers sz colonel uniform">
+            <Device>Algeira soldiers colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers sz major uniform">
+            <Device>Algeira soldiers major epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers sz captain uniform">
+            <Device>Algeira soldiers captain epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers sz leutenant uniform">
+            <Device>Algeira soldiers leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Algeira soldiers sz sergant uniform">
+            <Device>Algeira soldiers sergant epaulets</Device>
+        </Variant>
+    </Modification>
+    <Modification Item="Palinero soldiers soldier uniform">
+        <Variant Item="Palinero soldiers colonel uniform">
+            <Device>Palinero soldiers colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero soldiers major uniform">
+            <Device>Palinero soldiers major epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero soldiers captain uniform">
+            <Device>Palinero soldiers captain epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero soldiers leutenant uniform">
+            <Device>Palinero soldiers leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero soldiers sergant uniform">
+            <Device>Palinero soldiers sergant epaulets</Device>
+        </Variant>
+    </Modification>
+    <Modification Item="Palinero specialforces soldier uniform">
+        <Variant Item="Palinero specialforces colonel uniform">
+            <Device>Palinero soldiers colonel epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero specialforces major uniform">
+            <Device>Palinero soldiers major epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero specialforces captain uniform">
+            <Device>Palinero soldiers captain epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero specialforces leutenant uniform">
+            <Device>Palinero soldiers leutenant epaulets</Device>
+        </Variant>
+        <Variant Item="Palinero specialforces sergant uniform">
+            <Device>Palinero soldiers sergant epaulets</Device>
+        </Variant>
+    </Modification>
+</root>

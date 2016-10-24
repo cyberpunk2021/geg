@@ -1,0 +1,6738 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AS VAL (9x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "Integrated Silencer (9x39 mm SP)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "as-val-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 -1 -1 -1 6 15 4 
+Name  "Titanium armor plate Lvl 4"
+SpecificData  
+ArmourInfo  
+Prob  0.5 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  1 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Item  0 0 10 
+Name  "Guerillas tt_soldiers combrigade uniform"
+SpecificData  
+OtherInfo  
+GUID  2721 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2673 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol OTs-33 Pernach (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-H-181C"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (OTs-33/18)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "PM ammo"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "Razgr_smerch"
+SpecificData  
+OtherInfo  
+GUID  532 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  5 
+Pockets  48 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 49 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 50 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  534 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  0 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (SP-6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 52 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 53 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 54 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SP-6 (9x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 55 
+Item  0 0 7 
+Name  "Rifle ammo clip (AS/VSS/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  
+RND  5000 10000 
+END_VARIANT  
+EndStage  

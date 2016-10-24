@@ -1,0 +1,323 @@
+"20K_Money"
+None  
+"money_case.e5b" "Items\money_case.act"
+UseString  "Забрать деньги себе"
+0 
+
+"album"
+None  
+"album.e5b" "Items\album.act"
+0 
+
+"car_key"
+None  
+"car_key.e5b" "Items\key.act"
+0 
+
+"case"
+None  
+"case.e5b" "Items\case.act"
+0 
+
+"cure"
+None  
+"finadurin.e5b" "Items\cure.act"
+0 
+
+"dice"
+None  
+"dice.e5b" "Items\dice.act"
+UseString  "Бросить кости"
+0 
+
+"document1"
+None  
+"dogovor.e5b" "Items\document1.act"
+0 
+
+"document2"
+None  
+"dogovor.e5b" "Items\document1.act"
+0 
+
+"dogtag_alavez"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_babu"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_cameron"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_hope"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_ivanov"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_kim"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_kurt"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"dogtag_lambert"
+None  
+"dogtag_ivanov.e5b" "Items\dogtag_ivanov.act"
+UseString  "Идентификация"
+0 
+
+"drug_pack"
+None  
+"drug_pack.e5b" "Items\drug.act"
+UseString  "Принять наркотик"
+0 
+
+"dynamite"
+None  
+"dynamite.e5b" "Items\dynamite.act"
+0 
+
+"entry_permission"
+None  
+"entry_permission.e5b" "Items\permission.act"
+0 
+
+"final_key"
+None  
+"final_key.e5b" "Items\final_key.act"
+0 
+
+"fort_dep"
+None  
+"fort_dep.e5b" "Items\fort_dep.act"
+0 
+
+"govern_foto"
+None  
+"govern_foto.e5b" "Items\govern_foto.act"
+0 
+
+"govern_money_case"
+None  
+"money_case.e5b" "Items\money_case.act"
+UseString  "Забрать деньги себе"
+0 
+
+"info_case"
+None  
+"info_case.e5b" "Items\info_case.act"
+0 
+
+"jackdaniels"
+None  
+"jackdeniels.e5b" "Items\jackie.act"
+0 
+
+"kaderas_letter"
+None  
+"kaderas_letter.e5b" "Items\kaderas_letter.act"
+0 
+
+"letter"
+None  
+"letter.e5b" "Items\letter.act"
+0 
+
+"marauder_army_id"
+None  
+"maradeur_arm.e5b" "Items\marauder.act"
+0 
+
+"medallion"
+None  
+"medalion.e5b" "Items\medallion.act"
+0 
+
+"money_case"
+None  
+"money_case.e5b" "Items\money_case.act"
+UseString  "Забрать деньги себе"
+0 
+
+"money_case_2"
+None  
+"money_case.e5b" "Items\money_case.act"
+UseString  "Забрать деньги себе"
+0 
+
+"money_case_3"
+None  
+"money_case.e5b" "Items\money_case.act"
+UseString  "Забрать деньги себе"
+0 
+
+"note"
+None  
+"writing.e5b" "Items\writing.act"
+0 
+
+"note_qmc"
+None  
+"writing.e5b" "Items\writing.act"
+13 
+
+"officer_order"
+None  
+"officer_order.e5b" "Items\officer_order.act"
+0 
+
+"parcel"
+None  
+"parcel.e5b" "Items\parcel.act"
+0 
+
+"passport"
+None  
+"passport.e5b" "Items\passport.act"
+0 
+
+"pelengator"
+None  
+"pelengator.e5b" "Items\pelengator.act"
+0 
+
+"pereira_letter"
+None  
+"pereira_letter.e5b" "Items\pereira_letter.act"
+0 
+
+"playerkey"
+None  
+"player_key.e5b" "Items\playerkey.act"
+0 
+
+"printer_portable"
+None  
+"printer_portable.e5b" "Items\printer_portable.act"
+0 
+
+"prison_key"
+None  
+"prison_key.e5b" "Items\prison_key.act"
+0 
+
+"radio-pult"
+None  
+"radio_pult.e5b" "Items\radio-pult.act"
+0 
+
+"ramon_letter"
+None  
+"ramon_letter.e5b" "Items\ramon_letter.act"
+0 
+
+"rare_alchohol"
+None  
+"wares.e5b" "Items\wares.act"
+UseString  "Заглянуть внутрь ящика"
+0 
+
+"rebel_letter"
+None  
+"rebel_letter.e5b" "Items\rebel_letter.act"
+0 
+
+"secret_map"
+None  
+"map.e5b" "Items\secret_map.act"
+0 
+
+"secret_tapes"
+None  
+"videocassette.e5b" "Items\secret_tapes.act"
+0 
+
+"secretfile"
+None  
+"top_secret.e5b" "Items\secretfile.act"
+0 
+
+"sect_drug"
+None  
+"sect_drug.e5b" "Items\sect_drug.act"
+UseString  "Принять наркотик"
+0 
+
+"severed_head"
+None  
+"head.e5b" "Items\head.act"
+0 
+
+"small_flag"
+None  
+"flag.e5b" "Items\small_flag.act"
+0 
+
+"snake_basket"
+None  
+"snake_busket.e5b" "Items\snake_basket.act"
+0 
+
+"special_rope"
+None  
+"spec_rope.e5b" "Items\special_rope.act"
+0 
+
+"taxpaper"
+None  
+"tax_paper.e5b" "Items\taxpaper.act"
+0 
+
+"tool1"
+None  
+"tool1.e5b" "Items\tool1.act"
+UseString  "Использовать инструмент"
+0 
+
+"tool2"
+None  
+"tool2.e5b" "Items\tool2.act"
+UseString  "Использовать инструмент"
+0 
+
+"vizit_card"
+None  
+"vizit_card.e5b" "Items\vizit_card.act"
+UseString  "Посмотреть"
+0 
+
+"wares"
+None  
+"wares.e5b" "Items\wares.act"
+0 
+
+"weapons_law"
+None  
+"entry_permission.e5b" "Items\permission.act"
+UseString  "Переписать в журнал"
+0 
+
+
+END  
