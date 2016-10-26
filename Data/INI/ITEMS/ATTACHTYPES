@@ -57,6 +57,7 @@ PLUG
 	  "WR"
 	  "HK"
 	  "Barrel Mount"
+	  "WRRifle"
 PLUG  
 	  "Light"
 	  "built-in"
@@ -64,6 +65,7 @@ PLUG
 	  "Barrel Mount"
 	  "WR"
 	  "HK"
+	  "WRRifle"
 PLUG  
 	  "Bipod"
 	  "built-in"
@@ -82,7 +84,7 @@ PLUG
 	  "T89Bipod"
 	  "AR70 Bipod"
 	  "BAR"
-	  "QBUBipod"
+	  "QBUBipods"
 	  "T64Bipod"
 	  "StonerBipod"
 	  "SSG08 Bipod Mount"
@@ -791,4 +793,5 @@ PLUG
 	  "Colt9MM"
 	  "ColtDB"
 	  "M213"
+	  "M213DB"
 END  

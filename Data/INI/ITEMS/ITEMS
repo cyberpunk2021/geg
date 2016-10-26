@@ -417,6 +417,11 @@ None
 None  "Items\radio_fuze.act""radio_fuze.e5b"
 70 
 
+"Fuze_grenade"
+None  
+None  "Items\m605-fuze.act""m605-fuze.e5b"
+40 
+
 "Remote Mine Controller"
 MineController  
 None  "Items\MineRemoteController.act""MineRemoteController.e5b"
@@ -1996,12 +2001,32 @@ None  "items\bigammoboxw.act""bigammoboxw.e5b"
 "BigWoodBoxIA2Cciv"
 None  
 None  "items\bigammoboxw.act""bigammoboxw.e5b"
-55000
+18000
 
 "BigWoodBoxIA2C"
 None  
 None  "items\bigammoboxw.act""bigammoboxw.e5b"
 18000
+
+"BigWoodBoxQBZ95"
+None  
+None  "items\bigammoboxw.act""bigammoboxw.e5b"
+18250
+
+"BigWoodBoxQBZ951"
+None  
+None  "items\bigammoboxw.act""bigammoboxw.e5b"
+18250
+
+"BigWoodBoxQBZ97"
+None  
+None  "items\bigammoboxw.act""bigammoboxw.e5b"
+18750
+
+"BigWoodBoxQBZ971"
+None  
+None  "items\bigammoboxw.act""bigammoboxw.e5b"
+18750
 
 "BigWoodBoxType56"
 None  
@@ -2071,7 +2096,7 @@ None  "items\bigammoboxw.act""bigammoboxw.e5b"
 "BigWoodBoxM7F"
 None  
 None  "items\bigammoboxw.act""bigammoboxw.e5b"
-60000
+22350
 
 "Algeira guards colonel epaulets"
 None  
@@ -2448,6 +2473,11 @@ CartoucheLeft  "Items\Mauserbutt.act""Belt02.e5b"
 None  
 Basic_Belt  "Items\Mauserbutt.act""Belt02.e5b"
 560
+
+"VP70 Belt"
+None  
+Basic_Belt  "Items\vp70stock.act""Belt02.e5b"
+450
 
 "Diplomat"
 None  

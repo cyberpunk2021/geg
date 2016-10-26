@@ -1181,6 +1181,12 @@ USEPREFIX  ""
 IMAGE  "mp762-tt-8.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
+CLIP  "Pistol clip (M213/14)""9υ19 μμ""M213DB"8 70 "None"500 
+ACTOR  "Items\tt33novamag.act"
+USEPREFIX  ""
+IMAGE  "mp762-tt-8.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+
 CLIP  "Pistol clip (Zastava/9)""9υ19 μμ""Zastava9"9 80 "None"500 
 ACTOR  "Items\tt33nova9mmmag.act"
 USEPREFIX  ""
@@ -2829,7 +2835,9 @@ DEFAMMO  "SP-10 (9υ21mm)"
 
 //5.8x21mm
 BOX "Ammo box DAP92 (5.8x21mm)""DAP92"50 "items\dap92_ap.act""boxpla.e5b"
+BOX "Ammo box DCV05 (5.8x21mm)""DCV05"50 "items\dap92_ap.act""boxpla.e5b"
 BOX "Ammo box DAP92 500 (5.8x21mm)""DAP92"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX "Ammo box DCV05 500 (5.8x21mm)""DCV05"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 CLIP  "Pistol clip (QSZ-92/20)""5.8x21mm""QSZ-92"20 110 "None"1000 
 ACTOR  "Items\qsz92_58mag.act"
 USEPREFIX  ""
@@ -2839,7 +2847,7 @@ CLIP  "SMG ammo clip (QCQ-05/50)""5.8x21mm""QCQ05"50 170 "None"1100
 ACTOR  "Items\qcwmag.act"
 USEPREFIX  ""
 IMAGE  "mp5-9mm-30ammo.e5b"
-DEFAMMO  "DAP92"
+DEFAMMO  "DCV05"
 //4.6x30
 BOX "Ammo box Fiocchi Frangible (4.6x30mm)""Fiocchi Frangible (4.6x30mm)"50 "items\46x30mm_frangible.act""4x30_frag_box.e5b"
 BOX "Ammo box (4.6x30mm)""Penetrator DM11 (4.6x30mm)"50 "items\46x30mm_ammobox.act""46x30mm_ammobox.e5b"
@@ -5160,7 +5168,7 @@ IMAGE  "mr762-sig-20.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 
-CLIP  "Remington 700 mag .308""7.62υ51 μμ""built-in"4 0 "None"9000 
+CLIP  "Remington 700 mag .308""7.62υ51 μμ""built-in"5 0 "None"9000 
 ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"
@@ -5988,5 +5996,16 @@ ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  "RPO-A Grenade"
+
+CLIP  "rpg-2 clip""40 mm (RPG-2)""built-in"1 0 "None"1000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "RPG-2 Grenade"
+CLIP  "GM94 mag""40 mm (RUS)""built-in"4 0 "None"6000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "VOG-25"
 
 END  

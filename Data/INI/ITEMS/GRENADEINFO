@@ -133,6 +133,11 @@ WaveAmmo  "Def Wave"
 "RPG-18 Grenade"
 RPG  "Grenade\Explosion\explosion1.wav""Grenade\LoadReadySound\None"150 8 15 20 350 0 0 -1 -1 -1 -1 
 WaveAmmo  "Def Wave"
+
+"RPG-2 Grenade"
+RPG  "Grenade\Explosion\RPG-7_explo.wav""Grenade\LoadReadySound\load_rpg7.wav"180 9 18 20 1250 0 0 -1 -1 -1 -1 
+WaveAmmo  "Def Wave"
+
 "VOG-25"
 LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"150 0.25 6 9 90 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
@@ -161,6 +166,9 @@ WaveAmmo  "VOG Wave"
 "DFS-10P"
 LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"200 0.25 7 9 100 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
+
+"DFS-10 Smoke"
+LVSmoke  "Grenade\Explosion\sm_grenade.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"0 0 0 6 180 1 100 0.184 0.355 0 0
 
 "35mm Smoke"
 LVSmoke  "Grenade\Explosion\sm_grenade.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"0 0 0 6 180 1 100 0.184 0.355 0 0 

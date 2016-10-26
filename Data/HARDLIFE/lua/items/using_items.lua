@@ -1,7 +1,7 @@
 -- Общие функции и массивы
  local BoxItems = {
  ["PackedAmmoBox M193 (5.56/1000)"] = "BigWoodAmmoBox M193 (5.56/1000)",
- ["PackedAmmoBox M80 (7.62x51/800)"] = "CajaMunicionGrande (7.62/400)",
+ ["PackedAmmoBox M80 (7.62x51/800)"] = "BigWoodAmmoBox M80 (7.62x51/800)",
  ["PackedAmmoBox 7N6 (5.45/1000)"] = "BigWoodAmmoBox 7N6 (5.45/1000)",
  ["PackedAmmoBox 57-N-231S (7.62x39/1000)"] = "BigWoodAmmoBox 57-N-231S (7.62x39/1000)",
  ["PackedAmmoBox 7N1 (7.62x54/800)"] = "BigWoodAmmoBox 7N1 (7.62x54/800)",
@@ -34,8 +34,8 @@
  ["PackedAmmoBox Norinco (7.62x39/500)"] = "Ammo box 500 HLA 7.62x39 Norinco",
  ["PackedAmmoBox Palinero (7.62x39/500)"] = "BigAmmoBox (7.62x39/500)",
  ["PackedAmmoBox Algeira (7.62x51/500)"] = "BigAmmoBox (7.62x51/400)",
- ["PackedAmmoBox CBC (7.62x51 M80/500)"] = "CajaMunicionGrande (7.62/400)",
- ["PackedAmmoBox CBC (7.62x51 M933/500)"] = "BigWoodAmmoBox M80 (7.62x51/800)",
+ ["PackedAmmoBox CBC (7.62x51 M80/500)"] = "Ammo Box 500 Noveske .308",
+ ["PackedAmmoBox CBC (7.62x51 M933/500)"] = "BigWoodAmmoBox M993 (7.62x51/800)",
  ["PackedAmmoBox Palinero (7.62x54R/500)"] = "BigAmmoBox (7.62x54/400)",
  ["PackedAmmoBox Algeira (.300 WM/500)"] = "Ammo box 500 (.300 WM SP)",
  ["PackedAmmoBox Palinero (9x39/500)"] = "Big Ammo box 500 HLA (9x39)",
@@ -45,7 +45,7 @@
  ["BigWoodBoxG3"] = "Assault Rifle G3A3 (7.62x51mm)",
  ["BigWoodBoxG36"] = "Assault Rifle G36E (5.56mm)",
  ["BigWoodBoxAK103"] = "Assault Rifle AK-103 (7.62x39mm)",
- ["BigWoodBoxM7F"] = "Assault Rifle Arsenal AR M7F M (5.56mm)",
+ ["BigWoodBoxM7F"] = "Assault Rifle AR70 90 (5.56mm)",
  ["BigWoodBoxVektorZ88"] = "Pistol Beretta 92S (9mm)",
  ["BigWoodBoxPT1911"] = "Pistol PT1911 (45)",
  ["BigWoodBoxMP59mm"] = "Submachine-gun HK MP5A5 (9mm)",

@@ -142,6 +142,7 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK)", Atta
 AddItemCombineHandler("APS Belt", "Pistol APS (9x18mm) folded", AttachStock)
 AddItemCombineHandler("Mauser Belt", "Pistol M712 (7.62x25mm) folded", AttachStock)
 AddItemCombineHandler("Mauser Belt", "Pistol Astra 900 (Largo) folded", AttachStock)
+AddItemCombineHandler("VP70 Belt", "Pistol VP70 (9x19 mm) folded", AttachStock)
 
 local action_detach_handle = _t"lang/lua/fptb/detach_handle"
 

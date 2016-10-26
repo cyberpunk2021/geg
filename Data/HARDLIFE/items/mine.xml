@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root
+        bookItem="Book_Sapper"
+        bookBoost="20"
+        tapeUsage="0.1"
+        >
+    <fuzeList>
+        <item complexity="35">Fuze_radio</item>
+        <item complexity="35">Fuze_grenade</item>
+        <item complexity="40">Fuze_m605</item>
+        <item complexity="45">Fuze_muv</item>
+        <item complexity="50">Fuze_mve72</item>
+    </fuzeList>
+    <mine item="TNT">
+        <variant item="TNT Radio" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+    <mine item="Pmr2a_contact" fuze="Fuze_m605">
+        <variant item="Pmr2a_string" fuze="Fuze_muv"/>
+        <variant item="Pmr2a_radio" fuze="Fuze_radio" useTape="true"/>
+        <variant item="Pmr2a_remact" fuze="Fuze_mve72" useTape="true"/>
+    </mine>
+    <mine item="Ozm72_contact" fuze="Fuze_m605">
+        <variant item="Ozm72_radio" fuze="Fuze_radio" useTape="true"/>
+        <variant item="Ozm72_remact" fuze="Fuze_mve72" useTape="true"/>
+    </mine>
+    <mine item="Ozm4_contact" fuze="Fuze_m605">
+        <variant item="Ozm4_radio" fuze="Fuze_radio" useTape="true"/>
+        <variant item="Ozm4_remact" fuze="Fuze_mve72" useTape="true"/>
+    </mine>
+    <mine item="Mk2_contact" fuze="Fuze_m605">
+        <variant item="Mk2_radio" fuze="Fuze_radio" useTape="true"/>
+        <variant item="Mk2_remact" fuze="Fuze_mve72" useTape="true"/>
+    </mine>
+    <mine item="M3a1_contact" fuze="Fuze_m605">
+        <variant item="M3a1_radio" fuze="Fuze_radio" useTape="true"/>
+        <variant item="M3a1_remact" fuze="Fuze_mve72" useTape="true"/>
+    </mine>
+    <mine item="M16_contact" fuze="Fuze_m605">
+        <variant item="M16_radio" fuze="Fuze_radio" useTape="true"/>
+        <variant item="M16_remact" fuze="Fuze_mve72" useTape="true"/>
+    </mine>
+	<mine item="Defensive Hand Grenade F-1" fuze="Fuze_grenade">
+        <variant item="remote_f1" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade RGD-5" fuze="Fuze_grenade">
+        <variant item="remote_rgd5" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Defensive Hand Grenade M61" fuze="Fuze_grenade">
+        <variant item="remote_m61" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade Type 97" fuze="Fuze_grenade">
+        <variant item="remote_type97" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade V40" fuze="Fuze_grenade">
+        <variant item="remote_v40" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade RG42" fuze="Fuze_grenade">
+        <variant item="remote_rg42" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+</root>

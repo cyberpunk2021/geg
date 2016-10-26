@@ -453,10 +453,10 @@
   <item level="7">m203 sight</item>
   <item level="0">m4s90_butt_closed</item>
   <item level="0">m4s90_butt_open</item>
-  <item level="7">m79 launcher</item>
-  <item level="7">m79 sight</item>
-  <item level="6">rg-6 launcher</item>
-  <item level="6">rpg-7 launcher</item>
+  <item level="3">m79 launcher</item>
+  <item level="3">m79 sight</item>
+  <item level="7">rg-6 launcher</item>
+  <item level="7">rpg-7 launcher</item>
   <item level="1">throw knive</item>
   <item level="10">Assault Rifle AEK-971 (5.45mm)</item>
   <item level="10">Assault Rifle AK-103 (7.62x39mm)</item>
@@ -904,8 +904,9 @@
   <item level="0">kc23butt</item>
   <item level="0">kc23butt_folded</item>
   <item level="0">Machinegun Bipod (RPD)</item>
-  <item level="0">Machinegun box (RPD/100)</item>
-  <item level="8">Machinegun RPD (7.62x39mm)</item>
+  <item level="5">Machinegun box (RPD/100)</item>
+  <item level="7">Machinegun RPD (7.62x39mm)</item>
+  <item level="8">Machinegun RPD Type 56 (7.62x39mm)</item>
   <item level="0">m3a1butt</item>
   <item level="0">m3a1butt_folded</item>
   <item level="1">SMG ammo clip (M3A1/30)</item>
@@ -1065,8 +1066,8 @@
   <item level="0">dogtag_alavez</item>
   <item level="0">car_key</item>
   <item level="1">Car_belt</item>
-  <item level="1">RPO-A</item>
-  <item level="1">RPO-A Grenade</item>
+  <item level="8">RPO-A</item>
+  <item level="8">RPO-A Grenade</item>
   <item level="0">RPOA Wave</item>
   <item level="0">Rpoa grenade clip</item>
   <item level="1">Car_can20_empty</item>
@@ -1968,6 +1969,7 @@
   <item level="2">Pistol SIG Sauer P228 (9mm)</item>
   <item level="2">Pistol VP70 (9x19 mm)</item>
   <item level="2">Pistol VP70 (9x19 mm) folded</item>
+  <item level="2">VP70 Belt</item>
   <item level="1">Pistol P7 (9mm)</item>
   <item level="2">Pistol Glock 19 (9mm)</item>
   <item level="2">Pistol Glock 26 (9mm)</item>
@@ -4125,6 +4127,9 @@
   <item level="5">Ammo box (DBP88)</item>
   <item level="6">Ammo box (DBP10)</item>
   <item level="1">Ammo box DAP92 (5.8x21mm)</item>
+  <item level="2">Ammo box DAP92 500 (5.8x21mm)</item>
+  <item level="2">Ammo box DCV05 (5.8x21mm)</item>
+  <item level="3">Ammo box DCV05 500 (5.8x21mm)</item>
   <item level="1">Ammo box .30 Carbine SP</item>
   <item level="2">Ammo box .30 Carbine SP 500</item>
   <item level="1">Ammo box (.22LR HV)</item>
@@ -4530,6 +4535,7 @@
   <item level="14">Sniper rifle clip (CheyTac/7)</item>
   <item level="14">Sniper Rifle Clip (AS50/.50 BMG)</item>
   <item level="1">Nagant Silencer</item>
+  <item level="1">Silencer (22 Para)</item>
   <item level="1">Silencer (32 Para)</item>
   <item level="2">Silencer (380 Para)</item>
   <item level="4">Silencer (x21 Para)</item>
@@ -4660,8 +4666,10 @@
   <item level="1">Pistol PM Type 59 (9x18mm)</item>
   <item level="6">Machinegun RP46 Type 58 (7.62x54R)</item>
   <item level="1">Pistol TT-33 M213 (7.62x25mm)</item>
+  <item level="2">Pistol TT-33 M213 WQ213B54 (9mm)</item>
   <item level="1">Pistol TT-33 M213 (9mm)</item>
   <item level="1">Pistol clip (M213/8)</item>
+  <item level="1">Pistol clip (M213/14)</item>
   <item level="1">Pistol Tokagypt 58 TU-90</item>
   <item level="1">Pistol NZ 75 (9mm)</item>
   <item level="1">Pistol Norinco M.1911 A1 (.45 ACP)</item>
@@ -4692,8 +4700,6 @@
   <item level="1">Submachine-gun Type 79 (7.62x25mm)</item>
   <item level="1">Submachine-gun Type 79 (7.62x25mm) folded</item>
   <item level="1">SMG ammo clip (Type79/20)</item>
-  <item level="5">Assault Rifle JS9 (9mm)</item>
-  <item level="2">SMG ammo clip (JS9/30)</item>
   <item level="5">QLG91B (35mm)</item>
   <item level="5">QLG10A (35mm)</item>
   <item level="5">QLG10 (35mm)</item>
@@ -4706,6 +4712,7 @@
   <item level="3">35mm HE</item>
   <item level="4">DFS-10P</item>
   <item level="3">DFS-10 HE</item>
+  <item level="2">DFS-10 Smoke</item>
   <item level="6">Assaul Rifle Type81S Civ</item>
   <item level="6">Assaul Rifle Type81 Civ</item>
   <item level="6">Assaul Rifle Type81 Civ folded</item>
@@ -4722,4 +4729,8 @@
   <item level="5">Double rifle ammo clip (T81 7.62/60)</item>
   <item level="4">Rifle ammo clip (T81 7.62/30)</item>
   <item level="3">Pistol Beretta M9A1 (9mm)</item>  
+  <item level="4">GM94</item>  
+  <item level="4">GM94 folded</item>  
+  <item level="3">rpg-2</item>  
+  <item level="3">RPG-2 Grenade</item>  
 </root>

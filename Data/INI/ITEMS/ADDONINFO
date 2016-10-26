@@ -58,7 +58,17 @@ SilencingValue  0.77
 ACTOR  "Items\nagantsil.act"
 IMAGE  "apb_silencer.e5b"
 WEIGHT  289
-Resource  2700 
+Resource  1600 
+//------------------------------------------------------  
+Addon  "Silencer (22 Para)"
+Silencer  "Std 22 Para"
+Sound  "Addon\PlugSound\silenser_on1.wav""Addon\UnplugSound\silenser_off1.wav"
+SingleUse  0 
+SilencingValue  0.79 
+ACTOR  "Items\9mmSilencer.act"
+IMAGE  "9mmSilencer.e5b"
+WEIGHT  305 
+Resource  2000 
 //------------------------------------------------------  
 Addon  "Silencer (32 Para)"
 Silencer  "Std 32 Para"
@@ -1799,7 +1809,7 @@ WEIGHT  160
 Resource  1000 
 //------------------------------------------------------  
 Addon  "ANPEQ Laser"
-Laser  "WR"
+Laser  "WRRifle"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance  45 
 Visible  1 
@@ -1810,7 +1820,7 @@ Resource  1000
 //------------------------------------------------------  
 
 Addon  "ANPEQ 15 Laser"
-Laser  "WR"
+Laser  "WRRifle"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance  45 
 Visible  1 
@@ -1821,7 +1831,7 @@ Resource  1000
 
 //------------------------------------------------------  
 Addon  "ANPEQ 15 Laser Black"
-Laser  "WR"
+Laser  "WRRifle"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance  45 
 Visible  1 
@@ -1832,7 +1842,7 @@ Resource  1000
 
 //------------------------------------------------------  
 Addon  "DBAL A2"
-Laser  "WR"
+Laser  "WRRifle"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance  65 
 Visible  1 
@@ -5781,6 +5791,32 @@ IMAGE  "rpg7_launher.e5b"
 WEIGHT  100 
 Resource  3500 
 //------------------------------------------------------  
+Addon  "rpg-2 launcher"
+ILauncher  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\RPG-7_launch_only.wav"
+GrenadeType  "40 mm (RPG-2)"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\rpg2_Mini.act"
+IMAGE  "rpg7_launher.e5b"
+WEIGHT  100 
+Resource  3500 
+//------------------------------------------------------
+Addon           "GM94 butt"
+Stock           "built-in"
+Sound  "Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR           "Items\gm_butt.act"
+IMAGE           "None"
+WEIGHT          200 
+//------------------------------------------------------
+Addon           "GM94 butt folded"
+Stock           "built-in"
+Sound  "Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR           "Items\gm_butt_folded.act"
+IMAGE           "None"
+WEIGHT          200 
+//------------------------------------------------------  
 Addon  "rpk74m-butt"
 Stock  "built-in"
 Sound  "None""None"
@@ -8228,7 +8264,7 @@ WEIGHT  200
 Resource  0 
 //------------------------------------------------------  
 Addon  "QBUBipod"
-Bipod  "QBUBipod"
+Bipod  "QBUBipods"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR  "Items\qbu88bipod.act"
 IMAGE  "minimi_bipod.e5b"
@@ -8236,7 +8272,7 @@ WEIGHT  200
 Resource  0 
 //------------------------------------------------------  
 Addon  "QBUBipod Folded"
-Bipod  "QBUBipod"
+Bipod  "QBUBipods"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR  "Items\qbu88bipodfolded.act"
 IMAGE  "minimi_bipod.e5b"
@@ -9060,7 +9096,17 @@ ACTOR  "Items\mglstockfolded.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-
+//------------------------------------------------------  
+Addon           "GM94 launcher"
+ILauncher  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+GrenadeType  "40 ÏÏ (√œ)"
+GrenadeCount  4 
+IsLauncher  1 
+ACTOR           "Items\gm_launcher.act"
+IMAGE           "gm_l.e5b"
+WEIGHT          100 
+Resource        3500 
 //------------------------------------------------------  
 Addon  "MGL sight"
 Scope  "built-in"
@@ -9072,7 +9118,17 @@ ACTOR  "Items\mglcutscope.act"
 IMAGE  "rg-6_sight.e5b"
 WEIGHT  0 
 Resource  10000 
-
+//------------------------------------------------------  
+Addon           "GM94 sight"
+Scope           "built-in"
+Sound            "Addon\PlugSound\None""Addon\UnplugSound\None"
+Scope  
+Collimator     "collimator_aimpoint_comp_M.e6b"
+Distance        50
+ACTOR           "Items\gm_sight.act"
+IMAGE           "gm_s.e5b"
+WEIGHT          15 
+Resource        15000 
 //------------------------------------------------------
 Addon  "MGL launcher"
 ILauncher  "built-in"
