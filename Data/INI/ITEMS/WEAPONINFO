@@ -99656,6 +99656,44 @@ ACTOR  		"Items\rpg2_L.act"
 IMAGE  		"rpg-7.e5b"
 HANDS  		ahtRG  
 
+ITEM  "rpg-2 Type 56"
+Class  		Rifle  
+Caliber  	"None"
+Weight  	2830 
+PrepareTime  	0.58 
+SingleFireTime  0.39 
+BurstFireTime  	0 
+SpeedModifier  	0.8 
+Resource  	1000 
+DirtResource  	300000 
+MisfireProb 	0.0003 
+HeatCapacity  	100 
+Single  	0 
+Burst  		0 
+CutOff  	0 
+BurstHitStart  	0 
+MaxRange  	250 
+EffectiveRange  70 
+RangeCurvature  1 
+Balance  	0.7 
+ClipInSound  	"Weapon\ClipIn\RPG-7_gren_in.wav"
+ClipOutSound  	"Weapon\ClipOut\RPG-7_gren_out.Wav"
+ReLockSound  	"Weapon\ReLock\None"
+ShootSound  	"Weapon\Shoot\RPG-7_launch_and_flyaway.wav"
+ATT  Laser  	0 
+ATT  Light  	0 
+ATT  Scope  	0 
+ATT  Bipod  	0 
+ATT  Silencer  	0 
+ATT  ILauncher  1 "built-in"
+ATT  Bayonet  	0 
+ATT  Magazine  	1 "built-in"
+StdPlug  	"rpg-2 clip"
+StdPlug  	"rpg-2 launcher"
+ACTOR  		"Items\rpg2_L.act"
+IMAGE  		"rpg-7.e5b"
+HANDS  		ahtRG  
+
 ITEM  "Launcher RPG-7"
 Class  
 Rifle  
@@ -99700,6 +99738,55 @@ Magazine  1 "built-in"
 StdPlug  "RG-6 mag"
 StdPlug  "rpg-7 launcher"
 ACTOR  "Items\rpg7.act"
+IMAGE  "rpg-7.e5b"
+HANDS  
+ahtRG  
+
+
+ITEM  "Launcher RPG-7 Type 69"
+Class  
+Rifle  
+Caliber  "None"
+Weight  5428 
+PrepareTime  0.3 
+SingleFireTime  0.3 
+BurstFireTime  0 
+SpeedModifier  1 
+Resource  800 
+DirtResource  260000 
+MisfireProb  0.0003 
+HeatCapacity  100 
+Single  0 
+Burst  0 
+CutOff  0 
+BurstHitStart  0 
+MaxRange  450 
+EffectiveRange  208 
+RangeCurvature  1 
+Balance  0.56
+ClipInSound  "Weapon\ClipIn\RPG-7_gren_in.wav"
+ClipOutSound  "Weapon\ClipOut\RPG-7_gren_out.wav"
+ReLockSound  "Weapon\ReLock\None"
+ShootSound  "Weapon\Shoot\RPG-7_launch_and_flyaway.wav"
+ATT  
+Laser  0 
+ATT  
+Light  0 
+ATT  
+Scope  0 
+ATT  
+Bipod  0 
+ATT  
+Silencer  0 
+ATT  
+ILauncher  1 "built-in"
+ATT  
+Bayonet  0 
+ATT  
+Magazine  1 "built-in"
+StdPlug  "RG-6 mag"
+StdPlug  "rpg-7 launcher"
+ACTOR  "Items\rpgtype69.act"
 IMAGE  "rpg-7.e5b"
 HANDS  
 ahtRG  
