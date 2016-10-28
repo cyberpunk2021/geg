@@ -195,14 +195,14 @@ ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
 ArmRadius  0 
 MaxStringLength  0 
 BurstAngle 360 
-ShiversCount  150
-ShiversMass  2.11 
-ShiversDist  16
-ExplWaveDist  20 
-ExplForce  140
-ACTOR  "Items\remote_m61.act"
-IMAGE  "m61nova.e5b"
-WEIGHT  484
+ShiversCount  170
+ShiversMass  2.2
+ShiversDist  21
+ExplWaveDist  25 
+ExplForce  220
+ACTOR  "Items\remote_pineapple.act"
+IMAGE  "mk2a1.e5b"
+WEIGHT  639
 
 Mine  "remote_mk3a2"
 Type  
@@ -215,14 +215,14 @@ ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
 ArmRadius  0 
 MaxStringLength  0 
 BurstAngle 360 
-ShiversCount  150
-ShiversMass  2.11 
+ShiversCount  80
+ShiversMass  1.8 
 ShiversDist  16
-ExplWaveDist  20 
-ExplForce  140
-ACTOR  "Items\remote_m61.act"
-IMAGE  "m61nova.e5b"
-WEIGHT  484
+ExplWaveDist  8 
+ExplForce  400
+ACTOR  "Items\remote_mk3a2.act"
+IMAGE  "mk3a2.e5b"
+WEIGHT  639
 
 Mine  "remote_m24"
 Type  
@@ -295,14 +295,14 @@ ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
 ArmRadius  0 
 MaxStringLength  0 
 BurstAngle 360 
-ShiversCount  150
+ShiversCount  180
 ShiversMass  2.11 
-ShiversDist  16
-ExplWaveDist  20 
-ExplForce  140
-ACTOR  "Items\remote_m61.act"
-IMAGE  "m61nova.e5b"
-WEIGHT  484
+ShiversDist  21
+ExplWaveDist  18 
+ExplForce  207
+ACTOR  "Items\remote_type82.act"
+IMAGE  "t82nova.e5b"
+WEIGHT  608
 
 Mine  "remote_type82-2"
 Type  
@@ -315,14 +315,14 @@ ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
 ArmRadius  0 
 MaxStringLength  0 
 BurstAngle 360 
-ShiversCount  150
-ShiversMass  2.11 
-ShiversDist  16
-ExplWaveDist  20 
-ExplForce  140
-ACTOR  "Items\remote_m61.act"
-IMAGE  "m61nova.e5b"
-WEIGHT  484
+ShiversCount  180
+ShiversMass  2.15 
+ShiversDist  6
+ExplWaveDist  15 
+ExplForce  170
+ACTOR  "Items\remote_type822.act"
+IMAGE  "Type82-2.e5b"
+WEIGHT  299
 
 Mine  "remote_m59"
 Type  

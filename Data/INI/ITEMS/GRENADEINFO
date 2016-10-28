@@ -52,7 +52,7 @@ HStdDefense  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"0 0 0 
 WaveAmmo  "Wave"
 
 "Offensive Hand Grenade Type82"
-HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"100 2.15 15 6 170 0 0 2.8 3.8 0 0 
+HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"180 2.11 18 21 207 0 0 2.8 3.8 0 0 
 WaveAmmo  "Wave"
 
 
