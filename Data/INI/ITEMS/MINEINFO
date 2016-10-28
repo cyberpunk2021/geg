@@ -27,7 +27,7 @@ WEIGHT 470
 Mine				"M-18 Claymore"
 	Type			Controlled  
 	Hidden			0 
-	ActivationTime		10 
+	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
 	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
@@ -47,12 +47,12 @@ Mine				"M-18 Claymore"
 Mine				"M-18 Claymore_contact"
 	Type			Land  
 	Hidden			0 
-	ActivationTime		10 
+	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
 	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius		1.5 
-	MaxStringLength		0 
+	ArmRadius  		3.0 
+	MaxStringLength  	2.0 
 	BurstAngle		60.0013 
 	ShiversCount		300 
 	ShiversMass		1.5 
@@ -66,7 +66,7 @@ Mine				"M-18 Claymore_contact"
 Mine				"MON-50"
 	Type			Land  
 	Hidden			0 
-	ActivationTime		10 
+	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
 	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
@@ -78,7 +78,7 @@ Mine				"MON-50"
 	ShiversDist		15 
 	ExplWaveDist		10 
 	ExplForce		0 
-	ACTOR			"Items\m18a1.act"
+	ACTOR			"Items\M18A1mon50.act"
 	IMAGE			"m18a2.e5b"
 	WEIGHT			550 
 	
@@ -86,7 +86,7 @@ Mine				"MON-50"
 Mine				"MON-50_remote"
 	Type			Controlled  
 	Hidden			0 
-	ActivationTime		10 
+	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
 	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
@@ -98,7 +98,7 @@ Mine				"MON-50_remote"
 	ShiversDist		15 
 	ExplWaveDist		10 
 	ExplForce		0 
-	ACTOR			"Items\m18a1.act"
+	ACTOR			"Items\M18A1mon50.act"
 	IMAGE			"m18a2.e5b"
 	WEIGHT			550 
 	
@@ -106,7 +106,7 @@ Mine				"MON-50_remote"
 Mine				"Type66_remote"
 	Type			Controlled  
 	Hidden			0 
-	ActivationTime		10 
+	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
 	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
@@ -118,7 +118,7 @@ Mine				"Type66_remote"
 	ShiversDist		15 
 	ExplWaveDist		10 
 	ExplForce		0 
-	ACTOR			"Items\m18a1.act"
+	ACTOR			"Items\M18A1t66.act"
 	IMAGE			"m18a2.e5b"
 	WEIGHT			550 
 	
@@ -126,7 +126,7 @@ Mine				"Type66_remote"
 Mine				"Type66_contact"
 	Type			Land  
 	Hidden			0 
-	ActivationTime		10 
+	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
 	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
@@ -138,7 +138,7 @@ Mine				"Type66_contact"
 	ShiversDist		15 
 	ExplWaveDist		10 
 	ExplForce		0 
-	ACTOR			"Items\m18a1.act"
+	ACTOR			"Items\M18A1t66.act"
 	IMAGE			"m18a2.e5b"
 	WEIGHT			550 
 
@@ -182,25 +182,7 @@ ACTOR  "Items\remote_rgd5.act"
 IMAGE  "rgd5nova.e5b"
 WEIGHT  440
 
-Mine  "remote_m59"
-Type  
-Controlled  
-Hidden  1 
-ActivationTime  0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-ShiversCount  150
-ShiversMass  2.11 
-ShiversDist  16
-ExplWaveDist  20 
-ExplForce  140
-ACTOR  "Items\remote_m61.act"
-IMAGE  "m61nova.e5b"
-WEIGHT  484
+
 
 Mine  "remote_mk2a1"
 Type  
@@ -323,6 +305,26 @@ IMAGE  "m61nova.e5b"
 WEIGHT  484
 
 Mine  "remote_type82-2"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  150
+ShiversMass  2.11 
+ShiversDist  16
+ExplWaveDist  20 
+ExplForce  140
+ACTOR  "Items\remote_m61.act"
+IMAGE  "m61nova.e5b"
+WEIGHT  484
+
+Mine  "remote_m59"
 Type  
 Controlled  
 Hidden  1 
@@ -761,6 +763,208 @@ ExplForce  1200
 ACTOR  "Items\bomb82x3_remact.act"
 IMAGE  "bomb82x3_remact.e5b"
 WEIGHT  7315 
+
+Mine  "remote_RPG2"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  180 
+ShiversMass  9 
+ShiversDist  20
+ExplWaveDist  18
+ExplForce  1250
+ACTOR  "Items\remote_rpg_rpg2.act"
+IMAGE  "rpg2_G.e5b"
+WEIGHT  1900 
+
+Mine  "remote_RPG7_tbg-7v"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  140
+ShiversMass  8
+ShiversDist  30
+ExplWaveDist  10
+ExplForce  5000
+ACTOR  "Items\remote_rpg_tgb7v.act"
+IMAGE  "tbg-7v.e5b"
+WEIGHT  4000 
+
+Mine  "remote_RPG7_type69"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  800 
+ShiversMass  20 
+ShiversDist  10
+ExplWaveDist  15
+ExplForce  1500
+ACTOR  "Items\remote_rpg_type69.act"
+IMAGE  "type69-3.e5b"
+WEIGHT  2300 
+
+
+Mine  "remote_RPG7_og-7b"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  350 
+ShiversMass  15 
+ShiversDist  21 
+ExplWaveDist 15
+ExplForce  1500 
+ACTOR  "Items\remote_rpg_og7b.act"
+IMAGE "og-7b.e5b"
+WEIGHT  1500 
+
+
+Mine  "remote_RPG7_pg-7b"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  200 
+ShiversMass  10 
+ShiversDist  19 
+ExplWaveDist  15 
+ExplForce  1400 
+ACTOR  "Items\remote_rpg_pg7b.act"
+IMAGE "pg-7b.e5b"
+WEIGHT  1700 
+
+Mine  "remote_RPG7_pg-7pm"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  300 
+ShiversMass  9 
+ShiversDist  16 
+ExplWaveDist  8 
+ExplForce  1500 
+ACTOR "Items\remote_rpg_pg7pm.ACT"
+IMAGE "pg-7pm.e5b"
+WEIGHT  1800 
+
+Mine  "remote_RPG7_ko-7v"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  270 
+ShiversMass  7
+ShiversDist  20 
+ExplWaveDist  20 
+ExplForce  1500
+ACTOR  "Items\remote_rpg_ko7v.act"
+IMAGE "ko-7v.e5b"
+WEIGHT  2460 
+
+Mine  "remote_RPG7_og-7ve"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  1000 
+ShiversMass  10 
+ShiversDist  10 
+ExplWaveDist 10 
+ExplForce  5000
+ACTOR  "Items\remote_og7ve.act"
+IMAGE "og-7ve.e5b"
+WEIGHT  3600
+
+Mine  "remote_RPG7_pg-7ei"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  180 
+ShiversMass  12 
+ShiversDist  18 
+ExplWaveDist  10 
+ExplForce  5000
+ACTOR  "Items\remote_pg7ei.act"
+IMAGE "pg-7ei.e5b"
+WEIGHT  4000 
+
+Mine  "remote_RPG7_gtb7vs"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\RPG-7_explo.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  140 
+ShiversMass  8
+ShiversDist  30 
+ExplWaveDist  10 
+ExplForce  5000
+ACTOR  "Items\remote_gtb7vs.act"
+IMAGE "gtb-7vs.e5b"
+WEIGHT  3500 
 
 Mine  "JerArmed"
 Type  

@@ -10,6 +10,8 @@
         <item complexity="40">Fuze_m605</item>
         <item complexity="45">Fuze_muv</item>
         <item complexity="50">Fuze_mve72</item>
+		<item complexity="55">Fuze_RPG2</item>
+		<item complexity="60">Fuze_RPG7</item>
     </fuzeList>
     <mine item="TNT">
         <variant item="TNT Radio" fuze="Fuze_radio" useTape="true"/>
@@ -39,6 +41,15 @@
         <variant item="M16_radio" fuze="Fuze_radio" useTape="true"/>
         <variant item="M16_remact" fuze="Fuze_mve72" useTape="true"/>
     </mine>
+	<mine item="M-18 Claymore" fuze="Fuze_radio">
+        <variant item="M-18 Claymore_contact" fuze="Fuze_m605" useTape="false"/>
+    </mine>
+	<mine item="MON-50_remote" fuze="Fuze_radio">
+        <variant item="MON-50" fuze="Fuze_m605" useTape="false"/>
+    </mine>
+	<mine item="Type66_remote" fuze="Fuze_radio">
+        <variant item="Type66_remote" fuze="Fuze_m605" useTape="false"/>
+    </mine>
 	<mine item="Defensive Hand Grenade F-1" fuze="Fuze_grenade">
         <variant item="remote_f1" fuze="Fuze_radio" useTape="true"/>
     </mine>
@@ -56,5 +67,35 @@
     </mine>
 	<mine item="Offensive Hand Grenade RG42" fuze="Fuze_grenade">
         <variant item="remote_rg42" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(tbg-7v)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_tbg-7v" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(pg-7pm)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_pg-7pm" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(pg-7ei)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_pg-7ei" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(og-7ve)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_og-7ve" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(ko-7v)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_ko-7v" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(gtb-7vs)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_gtb7vs" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade(type69-3)" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_type69" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade 2" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_og-7b" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-7 Grenade" fuze="Fuze_RPG7">
+        <variant item="remote_RPG7_pg-7b" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="RPG-2 Grenade" fuze="Fuze_RPG2">
+        <variant item="remote_RPG2" fuze="Fuze_radio" useTape="true"/>
     </mine>
 </root>

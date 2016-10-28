@@ -3291,6 +3291,50 @@ ACTOR "Items\rpg2_G.act"
 IMAGE "rpg2_G.e5b"
 WEIGHT 2200
 
+"RPG-2 Mortar 60"
+"40 mm (RPG-2)"
+2000
+120
+0.9
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\rpg7_grenade1_fly.act"
+330
+ACTOR "Items\rpg2_G.act"
+IMAGE "rpg2_G.e5b"
+WEIGHT 2200
+
+"RPG-2 Mortar 82"
+"40 mm (RPG-2)"
+2000
+120
+0.9
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\rpg7_grenade1_fly.act"
+330
+ACTOR "Items\rpg2_G.act"
+IMAGE "rpg2_G.e5b"
+WEIGHT 2200
+
 "RPG-7 Grenade(tbg-7v)"
 "40 ÏÏ (–œ√-7)"
 4500

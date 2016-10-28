@@ -420,7 +420,17 @@ None  "Items\radio_fuze.act""radio_fuze.e5b"
 "Fuze_grenade"
 None  
 None  "Items\m605-fuze.act""m605-fuze.e5b"
-40 
+40
+
+"Fuze_RPG2"
+None  
+None  "Items\shaft_rpg2.act""m605-fuze.e5b"
+300
+
+"Fuze_RPG7"
+None  
+None  "Items\shaft_rpg7.act""m605-fuze.e5b"
+500
 
 "Remote Mine Controller"
 MineController  
