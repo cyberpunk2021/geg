@@ -235,14 +235,14 @@ ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
 ArmRadius  0 
 MaxStringLength  0 
 BurstAngle 360 
-ShiversCount  150
-ShiversMass  2.11 
-ShiversDist  16
-ExplWaveDist  20 
-ExplForce  140
-ACTOR  "Items\remote_m61.act"
-IMAGE  "m61nova.e5b"
-WEIGHT  484
+ShiversCount  97
+ShiversMass  2.71 
+ShiversDist  10
+ExplWaveDist  12 
+ExplForce  160
+ACTOR  "Items\remote_m24.act"
+IMAGE  		"M24_Nade.e5b"
+WEIGHT  437
 
 Mine  "remote_rgo"
 Type  
