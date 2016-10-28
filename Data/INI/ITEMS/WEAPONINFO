@@ -1558,8 +1558,6 @@ HANDS			ahtPistol
 
 ////////-----------------------
 
-////////-----------------------
-
 ITEM "Pistol P83 .380"
 Class			Pistol
 Caliber			".380 ACP"
@@ -2895,8 +2893,6 @@ IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 /////-----------------
-
-////////////-------------------
 
 ITEM "Pistol Nambu (9mm)"
 Class			Pistol
@@ -7797,8 +7793,6 @@ HANDS			ahtPistol
 
 //////////------------------
 
-/////////////----------------------
-
 ITEM "Pistol Beretta 96FS (40)"
 Class			Pistol
 Caliber			".40 S&W"
@@ -10244,10 +10238,6 @@ IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 /////-----------------------
-
-///////--------------------
-
-/////////---------------------------
 
 ITEM "Revolver Nagant" //Mercapoca Nagant
 Class			Pistol
@@ -21184,8 +21174,6 @@ HANDS			ahtPistol
 
 //////////////////----------------
 
-/////--------------
-
 ITEM "Submachine-gun HK MP5KA4 (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
@@ -31306,8 +31294,6 @@ HANDS			ahtRifle
 
 ////---------------
 
-///////////------------------
-
 ITEM "Shotgun RTS-SBS-12 (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
@@ -32456,9 +32442,7 @@ ACTOR			"Items\m16a3risfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
-//////----------------------------------------------------
-
-//////////////////// Carabine start
+/////// ------ Carabine start
 
 //TAC 22
 
@@ -39849,8 +39833,6 @@ HANDS			ahtRifle
 
 ////////-----------
 
-////////-----------
-
 ITEM "Extra Gun 1"
 Class			Rifle
 Caliber			"7.62ץ39 לל"
@@ -40975,10 +40957,6 @@ HANDS			ahtRG
 
 ////////------------
 
-////----------------
-
-/////---------------------------
-
 ITEM "Assault Rifle Crossfire Mk-1 (5.56mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
@@ -41018,8 +40996,6 @@ IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 //////-----------
-
-/////////---------------
 
 ITEM "Carabine SKS Unique (7.62x39mm)"
 Class			Rifle
@@ -41573,8 +41549,6 @@ IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ///////-----------------------
-
-//////////----------------------
 
 ITEM "Assault Rifle HK91 (7.62x51mm)"
 Class			Rifle
@@ -42959,8 +42933,6 @@ HANDS			ahtRG
 
 ///////////-----------------
 
-///////////-----------------
-
 ITEM "Assault Rifle AR-15 (.300 BLK)"
 Class			Rifle
 Caliber			".300 AAC Blackout"
@@ -43230,8 +43202,6 @@ IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
 ///////------------
-
-////////-----------
 
 ITEM "Carabine Imbel MD-2A1 (5.56mm)"
 Class			Rifle
@@ -43980,8 +43950,6 @@ HANDS			ahtRifle
 
 /////////------------------------
 
-/////////-------------------
-
 ITEM "Rifle Mosin Sawedoff (7.62x54 mm)"
 Class			Rifle
 Caliber			"7.62ץ54R לל"
@@ -44019,11 +43987,7 @@ ACTOR			"Items\mosin_gangsta.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtBoltRifle
 
-/////////////-----------------------------
-
-///////////-----------------
-
-//BULLPUP comeco
+////////--- BULLPUP comeco
 
 ///////////---Rifle start---
 
@@ -44218,8 +44182,6 @@ IMAGE			"2x4.e5b"
 HANDS			ahtBullPup
 
 //////------------------
-
-//////--------------------
 
 ITEM "Assault Rifle L22A1 (5.56mm)"
 Class			Rifle
@@ -44937,8 +44899,6 @@ IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ////////------------
-
-//////--------------------
 
 ITEM "Assault Rifle Steyr AUG A3 (5.56mm)"
 Class			Rifle
@@ -49861,8 +49821,6 @@ HANDS			ahtRifle
 
 ////----------------------
 
-//////----------------
-
 ITEM "Assault Rifle G36KE+AG36 (5.56mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
@@ -52930,8 +52888,6 @@ IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
 //////////////--------------
-
-//////////////---------------
 
 ITEM "Assault Rifle M4A1 (5.56mm)"
 Class			Rifle
@@ -79864,8 +79820,6 @@ HANDS			ahtRifle
 
 ////////------------------------
 
-/////////--------------------
-
 ITEM "Assault Rifle HK G11 K2 (4.7mm)"
 Class			Rifle
 Caliber			"4.7ץ33 לל"
@@ -79945,11 +79899,7 @@ ACTOR			"Items\xm8.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-////////---------------------
-
-//SNIPERS COMECO
-
-//////////--------------
+///// ----- SNIPERS COMECO
 
 ITEM "Sniper Carcano91 (6.5)"
 Class			Sniper
@@ -85206,8 +85156,6 @@ ACTOR			"Items\msg90a1.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-///////////------------------
-
 ///////----------------------------------
 
 ITEM "Sniper Rifle SV98 (7.62x54mm)"
@@ -85290,8 +85238,6 @@ IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ///////////-------------------
-
-///////-------------------------------------
 
 ITEM "Hunting Rifle Marlin X7 (.30-06)"
 Class			Sniper
@@ -85612,8 +85558,6 @@ IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 //////////----------------
-
-////----------------------
 
 ITEM "Hunting Rifle Remington R-25 (7.62x51mm)"
 Class			Sniper
@@ -91533,10 +91477,6 @@ HANDS			ahtRifle
 
 ////////---------------------
 
-////////---------------------
-
-//////--------------------------------------
-
 ITEM "Machinegun MG15 (7.92x57 Mauser)"
 Class			Machinegun
 Caliber			"7.92x57 Mauser"
@@ -93938,8 +93878,6 @@ HANDS			ahtRG
 
 /////////////---------------------
 
-/////////////----------------------
-
 ITEM "Assault Rifle Arsenal AR SF (5.56mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
@@ -94019,8 +93957,6 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ///////------------------------
-
-/////////////----------------------
 
 ITEM "Assault Rifle Short-Barreled (7.62x39mm)"
 Class			Rifle
