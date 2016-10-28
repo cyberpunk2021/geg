@@ -34583,11 +34583,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -34607,7 +34607,8 @@ StdPlug  "vepr12stock"
 ACTOR  "Items\vepr12car.act"
 IMAGE  "2x4.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12K (12ga) folded"
 Class  
 Shotgun  
@@ -34635,11 +34636,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -34688,11 +34689,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -34712,7 +34713,8 @@ StdPlug  "vepr12stock"
 ACTOR  "Items\vepr12.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12 (12ga) folded"
 Class  
 Shotgun  
@@ -34740,11 +34742,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT
@@ -34793,11 +34795,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -34817,7 +34819,8 @@ StdPlug  "Krebs_butt"
 ACTOR  "Items\vepr12magpul.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12 MAGPUL (12ga) folded"
 Class  
 Shotgun  
@@ -34845,11 +34848,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -34870,11 +34873,6 @@ ACTOR  "Items\vepr12magpul.act"
 IMAGE  "2x4.e5b"
 HANDS  
 ahtRifle  
-
-
-
-
-
 
 ITEM  "Shotgun VEPR12 LB (12ga)"
 Class  
@@ -34903,11 +34901,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -34927,7 +34925,8 @@ StdPlug  "vepr12stock"
 ACTOR  "Items\vepr12lb.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12 LB (12ga) folded"
 Class  
 Shotgun  
@@ -34955,11 +34954,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT
@@ -35008,11 +35007,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -35032,7 +35031,8 @@ StdPlug  "Krebs_butt"
 ACTOR  "Items\vepr12lbmagpul.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12 LB MAGPUL (12ga) folded"
 Class  
 Shotgun  
@@ -35060,11 +35060,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT
@@ -35085,15 +35085,6 @@ ACTOR  "Items\vepr12lbmagpul.act"
 IMAGE  "2x4.e5b"
 HANDS  
 ahtRifle  
-
-
-
-
-
-
-
-
-
 
 ITEM  "Shotgun VEPR12 LB LB (12ga)"
 Class  
@@ -35122,11 +35113,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -35146,7 +35137,8 @@ StdPlug  "vepr12stock"
 ACTOR  "Items\vepr12lblb.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12 LB LB (12ga) folded"
 Class  
 Shotgun  
@@ -35174,11 +35166,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT
@@ -35227,11 +35219,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT  
@@ -35251,7 +35243,8 @@ StdPlug  "Krebs_butt"
 ACTOR  "Items\vepr12lblbmagpul.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRifle  
+ahtRifle
+
 ITEM  "Shotgun VEPR12 LB LB MAGPUL (12ga) folded"
 Class  
 Shotgun  
@@ -35279,11 +35272,11 @@ ClipOutSound  "Weapon\ClipOut\clip_out.wav"
 ReLockSound  "Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound  "Weapon\Shoot\Saiga_real.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 blocks  
 Light  
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 blocks  
 Laser
 ATT
@@ -35304,7 +35297,6 @@ ACTOR  "Items\vepr12lblbmagpul.act"
 IMAGE  "2x4.e5b"
 HANDS  
 ahtRifle  
-
 
 ITEM  "Shotgun DBV12 (12ga)"
 Class		Shotgun  
@@ -101998,15 +101990,6 @@ ahtRifle
 
 /////----------------------------
 
-
-
-////---------------------
-
-
-
-////---------------------------
-////-начало вставки AK Custom
-
 ITEM  "Assault Rifle AK Custom"
 Class  
 Rifle  
@@ -102034,9 +102017,9 @@ ClipOutSound  "Weapon\ClipOut\AK-103_mag_out.wav"
 ReLockSound  "Weapon\ReLock\AK-103_slide.wav"
 ShootSound  "Weapon\Shoot\AK47_fire.wav"
 ATT  
-Laser  1 "WR"
+Laser  2 "WR""WRRifle"
 ATT  
-Light  1 "WR"
+Light  2 "WR""WRRifle"
 ATT  
 Scope  3 "AK""WR""Scout"
 ATT  
@@ -102436,9 +102419,9 @@ ClipOutSound  "Weapon\ClipOut\AK-101_mag_out 2.wav"
 ReLockSound  "Weapon\ReLock\AK-101_slide.wav"
 ShootSound  "Weapon\Shoot\AK-101_fire.wav"
 ATT  
-Laser  1 "WR"
+Laser  1 "Barrel Mount"
 ATT  
-Light  1 "WR"
+Light  1 "Barrel Mount"
 ATT  
 Scope  2 "AK""Scout"
 ATT  
@@ -102460,7 +102443,8 @@ StdPlug  "ak101_butt"
 ACTOR  "Items\arsenal_m7f_grip.act"
 IMAGE  "2x5.e5b"
 HANDS  
-ahtRG  
+ahtRG
+ 
 ITEM  "Assault Rifle Arsenal AR M7F M (5.56mm) folded"
 Class  
 Rifle  
@@ -102488,9 +102472,9 @@ ClipOutSound  "Weapon\ClipOut\AK-101_mag_out 2.wav"
 ReLockSound  "Weapon\ReLock\AK-101_slide.wav"
 ShootSound  "Weapon\Shoot\AK-101_fire.wav"
 ATT  
-Laser  1 "WR"
+Laser  1 "Barrel Mount"
 ATT  
-Light  1 "WR"
+Light  1 "Barrel Mount"
 ATT  
 Scope  2 "AK""Scout"
 ATT  
