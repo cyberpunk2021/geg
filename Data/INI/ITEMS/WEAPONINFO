@@ -93215,7 +93215,7 @@ HANDS			ahtGrenade
 ITEM "Offensive Hand Grenade Type82"
 Class			Grenade
 Caliber			"None"
-Weight			259
+Weight			568
 PrepareTime		0.7
 SingleFireTime	0
 BurstFireTime	0
