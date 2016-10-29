@@ -3788,7 +3788,6 @@
   <item level="3">Double rifle ammo clip (T14/30)</item>
   <item level="3">Double rifle ammo clip (T14/30c)</item>
   <item level="4">Rifle ammo clip (CSLR3\10)</item>
-  <item level="4">Rifle ammo clip (QBZ03/30)</item>
   <item level="6">Double rifle ammo clip (M16/40)</item>
   <item level="4">Rifle clip (SteyrScout/5)</item>
   <item level="5">Rifle clip (SteyrScout/10)</item>
@@ -3908,7 +3907,6 @@
   <item level="1">Shotgun ammo clip (Saiga410/12)</item>
   <item level="1">Shotgun ammo clip (Saiga410/16)</item>
   <item level="6">Rifle ammo clip (QBZ/60)</item>
-  <item level="6">Rifle ammo clip (QBZ03/60)</item>
   <item level="5">Magpul PMAG Tan Window New (6.5/30)</item>
   <item level="5">Magpul PMAG Tan Window New Rub (6.5/30)</item>
   <item level="5">Magpul PMAG Tan Window BLK New (6.5/30)</item>
@@ -4690,16 +4688,12 @@
   <item level="3">Submachine-gun NR-08 RIS (9mm) folded</item>
   <item level="6">Assault Rifle CQA (5.56mm)</item>
   <item level="6">Assault Rifle CQA (5.56mm) folded</item>
-  <item level="4">Assault Rifle QCW05 (5.8)</item>
   <item level="9">Assault Rifle QBZ97B-1 (5.56)</item>
   <item level="10">Assault Rifle QBZ97-1 (5.56)</item>
   <item level="10">Assault Rifle QBZ95-1 (5.8)</item>
   <item level="9">Assault Rifle QBZ95B-1 (5.8)</item>
   <item level="11">Machinegun QBB 95-1 (5.8)</item>
   <item level="11">Machinegun QBB 97-1 (5.56)</item>
-  <item level="1">Submachine-gun Type 79 (7.62x25mm)</item>
-  <item level="1">Submachine-gun Type 79 (7.62x25mm) folded</item>
-  <item level="1">SMG ammo clip (Type79/20)</item>
   <item level="5">QLG91B (35mm)</item>
   <item level="5">QLG10A (35mm)</item>
   <item level="5">QLG10 (35mm)</item>
