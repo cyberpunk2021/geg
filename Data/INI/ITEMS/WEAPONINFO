@@ -39493,7 +39493,7 @@ PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73158,7 +73158,7 @@ PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73199,7 +73199,7 @@ PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73240,7 +73240,7 @@ PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73283,7 +73283,7 @@ PrepareTime		0.39
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73326,7 +73326,7 @@ PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73367,7 +73367,7 @@ PrepareTime		0.39
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	3000
+Resource		3000
 DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73408,7 +73408,7 @@ PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	2800
+Resource		2800
 DirtResource	300000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73448,7 +73448,7 @@ PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	2800
+Resource		2800
 DirtResource	300000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73488,7 +73488,7 @@ PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	2800
+Resource		2800
 DirtResource	300000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73529,7 +73529,7 @@ PrepareTime		0.40
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	2800
+Resource		2800
 DirtResource	300000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73570,7 +73570,7 @@ PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	2800
+Resource		2800
 DirtResource	300000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73611,7 +73611,7 @@ PrepareTime		0.40
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.06
-Resource	2800
+Resource		2800
 DirtResource	300000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73652,7 +73652,7 @@ PrepareTime		0.50
 SingleFireTime	0.84
 BurstFireTime	0.1000000
 SpeedModifier	1.08
-Resource	2800
+Resource		2800
 DirtResource	330000
 MisfireProb		0.0011
 HeatCapacity	55
@@ -73691,7 +73691,7 @@ PrepareTime		0.50
 SingleFireTime	0.84
 BurstFireTime	0.1000000
 SpeedModifier	1.08
-Resource	2800
+Resource		2800
 DirtResource	330000
 MisfireProb		0.0011
 HeatCapacity	55
@@ -73730,7 +73730,7 @@ PrepareTime		0.50
 SingleFireTime	0.84
 BurstFireTime	0.10000
 SpeedModifier	1.08
-Resource	2800
+Resource		2800
 DirtResource	330000
 MisfireProb		0.0011
 HeatCapacity	55
@@ -73770,7 +73770,7 @@ PrepareTime		0.46
 SingleFireTime	0.84
 BurstFireTime	0.10000
 SpeedModifier	1.08
-Resource	2800
+Resource		2800
 DirtResource	330000
 MisfireProb		0.0011
 HeatCapacity	55
@@ -73810,7 +73810,7 @@ PrepareTime		0.50
 SingleFireTime	0.84
 BurstFireTime	0.10000
 SpeedModifier	1.08
-Resource	2800
+Resource		2800
 DirtResource	330000
 MisfireProb		0.0011
 HeatCapacity	55
@@ -73850,7 +73850,7 @@ PrepareTime		0.46
 SingleFireTime	0.84
 BurstFireTime	0.10000
 SpeedModifier	1.08
-Resource	2800
+Resource		2800
 DirtResource	330000
 MisfireProb		0.0011
 HeatCapacity	55
@@ -73890,7 +73890,7 @@ PrepareTime		0.29
 SingleFireTime	0.72
 BurstFireTime	0.088
 SpeedModifier	0.96
-Resource	2900
+Resource		2900
 DirtResource	360000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73930,7 +73930,7 @@ PrepareTime		0.25
 SingleFireTime	0.72
 BurstFireTime	0.088
 SpeedModifier	0.96
-Resource	2900
+Resource		2900
 DirtResource	360000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -73970,7 +73970,7 @@ PrepareTime		0.29
 SingleFireTime	0.72
 BurstFireTime	0.088
 SpeedModifier	0.96
-Resource	2900
+Resource		2900
 DirtResource	360000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74010,7 +74010,7 @@ PrepareTime		0.25
 SingleFireTime	0.72
 BurstFireTime	0.088
 SpeedModifier	0.96
-Resource	2900
+Resource		2900
 DirtResource	360000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74050,7 +74050,7 @@ PrepareTime		0.32
 SingleFireTime	0.74
 BurstFireTime	0.088
 SpeedModifier	1.01
-Resource	3000
+Resource		3000
 DirtResource	370000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74091,7 +74091,7 @@ PrepareTime		0.29
 SingleFireTime	0.74
 BurstFireTime	0.088
 SpeedModifier	1.01
-Resource	3000
+Resource		3000
 DirtResource	370000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74132,7 +74132,7 @@ PrepareTime		0.32
 SingleFireTime	0.74
 BurstFireTime	0.088
 SpeedModifier	1.01
-Resource	3000
+Resource		3000
 DirtResource	370000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74173,7 +74173,7 @@ PrepareTime		0.29
 SingleFireTime	0.74
 BurstFireTime	0.088
 SpeedModifier	1.01
-Resource	3000
+Resource		3000
 DirtResource	370000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74214,7 +74214,7 @@ PrepareTime		0.41
 SingleFireTime	0.77
 BurstFireTime	0.088
 SpeedModifier	1.05
-Resource	3000
+Resource		3000
 DirtResource	380000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74255,7 +74255,7 @@ PrepareTime		0.38
 SingleFireTime	0.77
 BurstFireTime	0.088
 SpeedModifier	1.05
-Resource	3000
+Resource		3000
 DirtResource	380000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74296,7 +74296,7 @@ PrepareTime		0.41
 SingleFireTime	0.77
 BurstFireTime	0.088
 SpeedModifier	1.05
-Resource	3000
+Resource		3000
 DirtResource	380000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -74337,7 +74337,7 @@ PrepareTime		0.38
 SingleFireTime	0.77
 BurstFireTime	0.088
 SpeedModifier	1.05
-Resource	3000
+Resource		3000
 DirtResource	380000
 MisfireProb		0.0011
 HeatCapacity	85
@@ -81167,7 +81167,7 @@ PrepareTime		0.54
 SingleFireTime	0.9
 BurstFireTime	0.200000
 SpeedModifier	1.12
-Resource	1900
+Resource		1900
 DirtResource	87000
 MisfireProb		0.01
 HeatCapacity	50
@@ -81320,7 +81320,7 @@ PrepareTime		0.56
 SingleFireTime	0.93
 BurstFireTime	0.200000
 SpeedModifier	1.12
-Resource	2500
+Resource		2500
 DirtResource	120000
 MisfireProb		0.01
 HeatCapacity	50
@@ -81538,7 +81538,7 @@ PrepareTime		0.64
 SingleFireTime	1.06
 BurstFireTime	0.200000
 SpeedModifier	1.1
-Resource	2500
+Resource		2500
 DirtResource	110000
 MisfireProb		0.01
 HeatCapacity	35
@@ -81582,7 +81582,7 @@ PrepareTime		0.65
 SingleFireTime	1.02
 BurstFireTime	0.200000
 SpeedModifier	1.12
-Resource	2500
+Resource		2500
 DirtResource	95000
 MisfireProb		0.01
 HeatCapacity	35
@@ -90524,7 +90524,7 @@ PrepareTime		0.58
 SingleFireTime	0.87
 BurstFireTime	0.12
 SpeedModifier	1.08
-Resource	1600
+Resource		1600
 DirtResource	190000
 MisfireProb		0.0021
 HeatCapacity	90
@@ -90562,7 +90562,7 @@ PrepareTime		0.58
 SingleFireTime	0.87
 BurstFireTime	0.12
 SpeedModifier	1.08
-Resource	1600
+Resource		1600
 DirtResource	190000
 MisfireProb		0.0021
 HeatCapacity	90
@@ -90678,7 +90678,7 @@ PrepareTime		0.66
 SingleFireTime	0.85
 BurstFireTime	0.12
 SpeedModifier	1.11
-Resource	4700
+Resource		4700
 DirtResource	530000
 MisfireProb		0.0021
 HeatCapacity	190
@@ -90716,7 +90716,7 @@ PrepareTime		0.66
 SingleFireTime	0.83
 BurstFireTime	0.12
 SpeedModifier	1.11
-Resource	4700
+Resource		4700
 DirtResource	530000
 MisfireProb		0.0021
 HeatCapacity	190
@@ -90948,7 +90948,7 @@ PrepareTime		0.70
 SingleFireTime	0.91
 BurstFireTime	0.12
 SpeedModifier	1.14
-Resource	6500
+Resource		6500
 DirtResource	770000
 MisfireProb		0.0021
 HeatCapacity	350
@@ -90986,7 +90986,7 @@ PrepareTime		0.70
 SingleFireTime	0.92
 BurstFireTime	0.12
 SpeedModifier	1.14
-Resource	6500
+Resource		6500
 DirtResource	770000
 MisfireProb		0.0021
 HeatCapacity	350
@@ -91024,7 +91024,7 @@ PrepareTime		0.70
 SingleFireTime	0.94
 BurstFireTime	0.12
 SpeedModifier	1.14
-Resource	6500
+Resource		6500
 DirtResource	770000
 MisfireProb		0.0021
 HeatCapacity	350
