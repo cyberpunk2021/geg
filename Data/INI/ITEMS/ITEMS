@@ -417,10 +417,20 @@ None
 None  "Items\radio_fuze.act""radio_fuze.e5b"
 70 
 
+"Fuze_dynamite"
+None  
+None  "Items\mve72_fuze.act""mve72_fuze.e5b"
+15 
+
 "Fuze_grenade"
 None  
 None  "Items\m605-fuze.act""m605-fuze.e5b"
 40
+
+"Fuze_rpg40"
+None  
+None  "Items\mve72_fuze.act""mve72_fuze.e5b"
+120
 
 "Fuze_grenade_m24"
 None  
