@@ -16640,8 +16640,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
 ShootSound		"Weapon\Shoot\MAT-49.wav"
-ATT Laser		1	"Barrel Mount"	blocks	Light
-ATT Light		1	"Barrel Mount"	blocks	Laser
+ATT Laser		1	"Barrel Mount" blocks Light
+ATT Light		1	"Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -16679,8 +16679,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
 ShootSound		"Weapon\Shoot\MAT-49.wav"
-ATT Laser		1	"Barrel Mount"	blocks	Light
-ATT Light		1	"Barrel Mount"	blocks	Laser
+ATT Laser		1	"Barrel Mount" blocks Light
+ATT Light		1	"Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -27413,7 +27413,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "Airsoft_M16"
 StdPlug			"AEG magazine (M16)"
@@ -27451,10 +27451,10 @@ ShootSound		"Weapon\Shoot\airsoft.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "Airsoft_AK"
 StdPlug			"Plastic AEG magazine (AK-74)"
 ACTOR			"Items\airsoft_2.act"
@@ -32007,7 +32007,7 @@ ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "DBV12"
 StdPlug			"Shotgun ammo clip (DBV/8)"
 StdPlug			"ak12_butt"
@@ -32046,7 +32046,7 @@ ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "DBV12"
 StdPlug			"Shotgun ammo clip (DBV/8)"
 StdPlug			"ak12_butt_folded"
@@ -32194,9 +32194,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	0
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "SafirT14"
 StdPlug			"Rifle ammo clip (T14/15)"
@@ -32234,9 +32234,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	0
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "SafirT14"
 StdPlug			"Rifle ammo clip (T14/15)"
@@ -32547,10 +32547,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	1 "AK 22"
 StdPlug			"Rifle ammo clip (AK 22/30)"
 ACTOR			"Items\AK47n_Real.act"
@@ -32585,10 +32585,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	1 "AK 22"
 StdPlug			"Rifle ammo clip (AK 22/30)"
 StdPlug			"aks47novobutt"
@@ -32624,10 +32624,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	1 "AK 22"
 StdPlug			"Rifle ammo clip (AK 22/30)"
 StdPlug			"aks47novobutt_folded"
@@ -32977,10 +32977,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 22 AR15" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M1622/30)"
@@ -33017,10 +33017,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 22 AR15" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M1622/30)"
@@ -33058,9 +33058,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 22 AR15" blocks	Bayonet
+ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Frontgrip"
@@ -33099,9 +33099,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 22 AR15" blocks	Bayonet
+ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Frontgrip"
@@ -33139,7 +33139,7 @@ ATT Laser		2 "WR""WRRifle" blocks Silencer
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "L85A2 SCOPE""SA80 Handle"
 ATT Bipod		0
-ATT Silencer	1 "Supressor - 22 AR15" blocks	Laser
+ATT Silencer	1 "Supressor - 22 AR15" blocks Laser
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
@@ -33335,7 +33335,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 22 AR15"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
@@ -33374,7 +33374,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 22 AR15"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
@@ -37661,9 +37661,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"k2stock"
@@ -37700,9 +37700,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"k2stock_folded"
@@ -37738,9 +37738,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\daewoodr200.act"
@@ -37775,9 +37775,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\daewoodr200.act"
@@ -37812,9 +37812,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
-ATT Silencer	1 "PBS - 7,62x39" blocks	Bayonet
+ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\daewoodr200.act"
@@ -37849,9 +37849,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
-ATT Silencer	1 "PBS - 7,62x39" blocks	Bayonet
+ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\daewoodr200.act"
@@ -37885,10 +37885,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\AK47_Realpoly.act"
@@ -37922,10 +37922,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\AK47n_Realpoly.act"
@@ -37959,10 +37959,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod	and Silencer
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 ACTOR			"Items\AK47n_Real.act"
@@ -37996,10 +37996,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 ACTOR			"Items\AK47n_Real.act"
@@ -38033,10 +38033,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\AK47n_Real.act"
@@ -38071,10 +38071,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt"
@@ -38110,10 +38110,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt_folded"
@@ -38149,10 +38149,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt"
@@ -38188,10 +38188,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt_folded"
@@ -38633,10 +38633,10 @@ ShootSound		"Weapon\Shoot\AK-103_fire.wav"
 ATT Laser		1	"Barrel Mount"
 ATT Light		1	"Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "Type 91B" blocks	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "Type 91B" blocks Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 ACTOR			"Items\type81novaboa.act"
@@ -38671,10 +38671,10 @@ ShootSound		"Weapon\Shoot\AK-103_fire.wav"
 ATT Laser		1	"Barrel Mount"
 ATT Light		1	"Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "Type 91B" blocks	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "Type 91B" blocks Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 StdPlug			"Rk95C_butt"
@@ -38710,10 +38710,10 @@ ShootSound		"Weapon\Shoot\AK-103_fire.wav"
 ATT Laser		1	"Barrel Mount"
 ATT Light		1	"Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "Type 91B" blocks	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "Type 91B" blocks Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 StdPlug			"Rk95C_butt_folded"
@@ -38750,7 +38750,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -38787,7 +38787,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -38824,7 +38824,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -38861,7 +38861,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -38898,7 +38898,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -38935,7 +38935,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -38970,10 +38970,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\novaak63.act"
@@ -39008,10 +39008,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo"
@@ -39047,10 +39047,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo_folded"
@@ -39085,10 +39085,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 ACTOR			"Items\novaak63.act"
@@ -39123,10 +39123,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo"
@@ -39162,10 +39162,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo_folded"
@@ -39593,10 +39593,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak101novo_butt"
@@ -39632,10 +39632,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak101novo_butt_folded"
@@ -39901,7 +39901,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -39940,7 +39940,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -40057,7 +40057,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -40096,7 +40096,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -40135,7 +40135,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -40174,7 +40174,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -40592,10 +40592,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "BEOWULF Silencer" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
 StdPlug			"m4sopmod_butt"
@@ -40631,10 +40631,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "BEOWULF Silencer" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
 StdPlug			"m4sopmod_butt_folded"
@@ -40671,9 +40671,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "BEOWULF Silencer" blocks	Bayonet
+ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
 StdPlug			"m4sopmod_butt"
@@ -40711,9 +40711,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "BEOWULF Silencer" blocks	Bayonet
+ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
 StdPlug			"Frontgrip"
@@ -40750,9 +40750,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/10)"
@@ -40789,9 +40789,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/10)"
@@ -40907,10 +40907,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "BEOWULF Silencer" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/4)"
 ACTOR			"Items\m16a3ris.act"
@@ -40945,9 +40945,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "BEOWULF Silencer" blocks	Bayonet
+ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/4)"
 StdPlug			"Frontgrip"
@@ -43475,10 +43475,10 @@ ShootSound		"Weapon\Shoot\M16A1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fn_falia2556_butt"
@@ -43514,10 +43514,10 @@ ShootSound		"Weapon\Shoot\M16A1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fn_falia2556_butt_folded"
@@ -44249,7 +44249,7 @@ ATT Laser		2 "WR""WRRifle" blocks Silencer
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "L85A2 SCOPE""SA80 Handle"
 ATT Bipod		0
-ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56" blocks	Laser
+ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56" blocks Laser
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
@@ -46254,10 +46254,10 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "Vz58" blocks	Bipod	and	ILauncher
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "Vz58" blocks Bipod and ILauncher
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
 //StdPlug			"Vz58_butt"
@@ -46449,10 +46449,10 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "Vz58" blocks	Bipod	and	ILauncher
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "Vz58" blocks Bipod and ILauncher
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
 StdPlug			"Vz58_butt"
@@ -46488,10 +46488,10 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "Vz58" blocks	Bipod	and	ILauncher
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "Vz58" blocks Bipod and ILauncher
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
 StdPlug			"Vz58_butt_folded"
@@ -46605,9 +46605,9 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
@@ -46722,9 +46722,9 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
@@ -46917,9 +46917,9 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "CZ-805"
 StdPlug			"Rifle ammo clip (CZ-805/30)"
@@ -46956,9 +46956,9 @@ ShootSound		"Weapon\Shoot\VZ58.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "CZ-805"
 StdPlug			"Rifle ammo clip (CZ-805/30)"
@@ -47307,9 +47307,9 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1	"SniperBipod" blocks	ILauncher
+ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1 "HCAR Silencer"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1	"HCAR"
 StdPlug			"Rifle ammo clip (HCAR/30)"
@@ -47346,9 +47346,9 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1	"SniperBipod" blocks	ILauncher
+ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1 "HCAR Silencer"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1	"HCAR"
 StdPlug			"Rifle ammo clip (HCAR/30)"
@@ -47385,9 +47385,9 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1	"SniperBipod" blocks	ILauncher
+ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1 "HCAR Silencer"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1	"HCAR"
 StdPlug			"Rifle ammo clip (HCAR/30)"
@@ -47424,9 +47424,9 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1	"SniperBipod" blocks	ILauncher
+ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1 "HCAR Silencer"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1	"HCAR"
 StdPlug			"Rifle ammo clip (HCAR/30)"
@@ -48287,7 +48287,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks ILauncher
 ATT ILauncher	1 "hk" blocks Bipod and Silencer
 ATT Bayonet		0
@@ -48402,10 +48402,10 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "hk" blocks Bipod and Bayonet
-ATT Bayonet		1 "HK"	blocks	Silencer and ILauncher
+ATT Bayonet		1 "HK" blocks Silencer and ILauncher
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\cetme.act"
@@ -48485,9 +48485,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
 ATT Bipod		0
-ATT Silencer	1	"Supressor - 7,62"	blocks Bayonet and ILauncher
-ATT ILauncher	1 "hk"	blocks Silencer	and	Bayonet
-ATT Bayonet		1 "M96" blocks	Silencer	and	ILauncher
+ATT Silencer	1	"Supressor - 7,62" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Silencer and Bayonet
+ATT Bayonet		1 "M96" blocks Silencer and ILauncher
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\ak4b.act"
@@ -50011,9 +50011,9 @@ ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "G36_bipod" blocks	ILauncher
+ATT Bipod		1 "G36_bipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1	"G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
@@ -50051,9 +50051,9 @@ ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "G36_bipod" blocks	ILauncher
+ATT Bipod		1 "G36_bipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1	"G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
@@ -50091,10 +50091,10 @@ ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "G36_bipod"	blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56"	blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI"	blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet"	blocks	Bipod	and	Silencer	and	ILauncher
+ATT Bipod		1 "G36_bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer and ILauncher
 ATT Magazine	1	"G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
 StdPlug			"Optical Sight Hendsoldt G36E 3.5x (G36)"
@@ -50131,10 +50131,10 @@ ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "G36_bipod"	blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56"	blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI"	blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet"	blocks	Bipod	and	Silencer	and	ILauncher
+ATT Bipod		1 "G36_bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer and ILauncher
 ATT Magazine	1	"G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
 StdPlug			"Optical Sight Hendsoldt G36E 3.5x (G36)"
@@ -50407,7 +50407,7 @@ ATT Scope		0
 ATT Bipod		1 "StonerBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\stoner63.act"
@@ -50444,7 +50444,7 @@ ATT Scope		1 "WR"
 ATT Bipod		1 "StonerBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\stoner63wr.act"
@@ -50564,7 +50564,7 @@ ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"xcrstock"
@@ -52143,9 +52143,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\m651.act"
@@ -52180,9 +52180,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\m652.act"
@@ -52218,9 +52218,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt"
@@ -52257,9 +52257,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt_folded"
@@ -52296,9 +52296,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt"
@@ -52335,9 +52335,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt_folded"
@@ -53833,9 +53833,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -53873,9 +53873,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -53915,9 +53915,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
 ACTOR			"Items\m16_orig.act"
@@ -53952,9 +53952,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\m16hg.act"
@@ -53989,9 +53989,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
 ACTOR			"Items\xm16e1.act"
@@ -54026,9 +54026,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\xm16e1hg.act"
@@ -54108,9 +54108,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\m16a1hg.act"
@@ -54233,9 +54233,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\m16a2715.act"
@@ -54270,9 +54270,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
 ACTOR			"Items\m16a2hg.act"
@@ -54398,10 +54398,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -54523,9 +54523,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 ACTOR			"Items\m16a2715blk.act"
@@ -54560,10 +54560,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
@@ -54599,10 +54599,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Optical Sight Elcan 3.4x28 (WR)"
@@ -54638,10 +54638,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2_butt"
@@ -54678,10 +54678,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2_butt_folded"
@@ -54718,10 +54718,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt"
@@ -54758,10 +54758,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt_folded"
@@ -54799,9 +54799,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt"
@@ -54838,9 +54838,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer and ILauncher
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt_folded"
@@ -54876,10 +54876,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2_butt"
@@ -54916,10 +54916,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2_butt_folded"
@@ -54956,10 +54956,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt"
@@ -54996,10 +54996,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher	and	Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet	and	ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet	and	Silencer	and	Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt_folded"
@@ -55040,7 +55040,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	2 "SR25_silencer""Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
@@ -55079,7 +55079,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	2 "SR25_silencer""Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
@@ -55193,7 +55193,7 @@ ShootSound		"Weapon\Shoot\6_8_SPC.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 6,8x43"
 ATT ILauncher	1	"M203PI" blocks Bipod
 ATT Bayonet		0
@@ -55705,10 +55705,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 6.5" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"m4sopmod_butt"
@@ -55744,10 +55744,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 6.5" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"m4sopmod_butt_folded"
@@ -55784,9 +55784,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 6.5" blocks	Bayonet
+ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"m4sopmod_butt"
@@ -55824,9 +55824,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 6.5" blocks	Bayonet
+ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"Frontgrip"
@@ -55863,9 +55863,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
@@ -55902,9 +55902,9 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
@@ -56020,10 +56020,10 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 6.5" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 ACTOR			"Items\m16a3ris.act"
@@ -56058,9 +56058,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 6.5" blocks	Bayonet
+ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"Frontgrip"
@@ -57658,7 +57658,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -57697,7 +57697,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -57736,7 +57736,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -57775,7 +57775,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -57814,7 +57814,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -57853,7 +57853,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -57972,7 +57972,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "G28"
 StdPlug			"Rifle ammo clip (G28/20)"
@@ -58011,7 +58011,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "G28"
 StdPlug			"Rifle ammo clip (G28/20)"
@@ -58050,7 +58050,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "G28"
 StdPlug			"Rifle ammo clip (G28/20)"
@@ -58089,7 +58089,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "G28"
 StdPlug			"Rifle ammo clip (G28/20)"
@@ -59166,10 +59166,10 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt"
@@ -59205,10 +59205,10 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt_folded"
@@ -59324,10 +59324,10 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 6,8x43" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"Krebs_butt"
@@ -59363,10 +59363,10 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 6,8x43" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"Krebs_butt_folded"
@@ -59482,9 +59482,9 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	0
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks ILauncher
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
@@ -59521,9 +59521,9 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	0
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks ILauncher
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
@@ -60832,10 +60832,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 300 BLK" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
@@ -60871,10 +60871,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 300 BLK" blocks	Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
@@ -60911,9 +60911,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK" blocks	Bayonet
+ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
@@ -60951,9 +60951,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK" blocks	Bayonet
+ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks	Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
@@ -61550,7 +61550,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -61589,7 +61589,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -61628,7 +61628,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -61667,7 +61667,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -62018,7 +62018,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -62057,7 +62057,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -62096,7 +62096,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -62135,7 +62135,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -62252,7 +62252,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -62291,7 +62291,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -62330,7 +62330,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -62369,7 +62369,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1	"PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -62656,9 +62656,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
@@ -62695,9 +62695,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
@@ -62736,9 +62736,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
@@ -62775,9 +62775,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
@@ -62816,9 +62816,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
@@ -62855,9 +62855,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
@@ -62896,9 +62896,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
@@ -62935,9 +62935,9 @@ ShootSound		"Weapon\Shoot\wpn_acr2d.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
@@ -65004,7 +65004,7 @@ ShootSound		"Weapon\Shoot\barret_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "FAL" blocks Silencer and ILauncher
@@ -65043,7 +65043,7 @@ ShootSound		"Weapon\Shoot\barret_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "FAL" blocks Silencer and ILauncher
@@ -65901,10 +65901,10 @@ ShootSound		"Weapon\Shoot\M16A1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fn_falia2556_butt"
@@ -65940,10 +65940,10 @@ ShootSound		"Weapon\Shoot\M16A1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fn_falia2556_butt_folded"
@@ -65979,10 +65979,10 @@ ShootSound		"Weapon\Shoot\M16A1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fn_falia2556_butt"
@@ -66018,10 +66018,10 @@ ShootSound		"Weapon\Shoot\M16A1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fn_falia2556_butt_folded"
@@ -66137,8 +66137,8 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1	"Supressor - 7,62" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
 StdPlug			"fn_falia2556_butt"
@@ -66174,10 +66174,10 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
 StdPlug			"fn_falia2556_butt_folded"
@@ -66213,10 +66213,10 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
 StdPlug			"fn_falia2_butt"
@@ -66252,10 +66252,10 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"	blocks ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 7,62" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bayonet and Bipod
-ATT Bayonet		1 "M9" blocks	Silencer	and	ILauncher
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
 StdPlug			"fn_falia2_butt_folded"
@@ -66448,7 +66448,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66487,7 +66487,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66526,7 +66526,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66565,7 +66565,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66682,7 +66682,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66916,7 +66916,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66955,7 +66955,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -66994,7 +66994,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -67033,7 +67033,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1	"AssaultBipod"
-ATT Silencer	1	"Supressor - 5,56"	blocks Bayonet
+ATT Silencer	1	"Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1	"M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
@@ -68150,10 +68150,10 @@ ShootSound		"Weapon\Shoot\AK-103_fire.wav"
 ATT Laser		1	"Barrel Mount"
 ATT Light		1	"Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "Type 91B" blocks	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "Type 91B" blocks Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 ACTOR			"Items\type81novaboa.act"
@@ -68188,10 +68188,10 @@ ShootSound		"Weapon\Shoot\AK-103_fire.wav"
 ATT Laser		1	"Barrel Mount"
 ATT Light		1	"Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "Type 91B" blocks	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "Type 91B" blocks Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 StdPlug			"Rk95C_butt"
@@ -68227,10 +68227,10 @@ ShootSound		"Weapon\Shoot\AK-103_fire.wav"
 ATT Laser		1	"Barrel Mount"
 ATT Light		1	"Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "Type 91B" blocks	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "Type 91B" blocks Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 StdPlug			"Rk95C_butt_folded"
@@ -68266,9 +68266,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR"
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 ACTOR			"Items\type81novaboa_tacstocked.act"
@@ -68304,9 +68304,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR"
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 StdPlug			"Rk95C_butt"
@@ -68343,9 +68343,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR"
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (T81 7.62/30)"
 StdPlug			"Rk95C_butt"
@@ -68538,7 +68538,7 @@ ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod and Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	1 "SIG551_Mags"
 StdPlug			"Rifle ammo clip (SIG551/30)"
@@ -68575,7 +68575,7 @@ ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod and Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	1 "SIG551_Mags"
 StdPlug			"Rifle ammo clip (SIG551/30)"
@@ -68610,10 +68610,10 @@ ShootSound		"Weapon\Shoot\AK47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod and Silencer
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod and Silencer
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\ak47_real.act"
@@ -68649,10 +68649,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod and Silencer
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod and Silencer
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\AK47n_Real.act"
@@ -68687,10 +68687,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod and Silencer
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod and Silencer
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt"
@@ -68726,10 +68726,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod and Silencer
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod and Silencer
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt_folded"
@@ -68765,10 +68765,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod and Silencer
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod and Silencer
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt"
@@ -68804,10 +68804,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod and Silencer
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod and Silencer
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"aks47novobutt_folded"
@@ -68842,10 +68842,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/10)"
 ACTOR			"Items\kbkg.act"
@@ -68879,10 +68879,10 @@ ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet
+ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/10)"
 ACTOR			"Items\kbkgn.act"
@@ -70169,9 +70169,9 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -70208,9 +70208,9 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -70247,9 +70247,9 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
-ATT ILauncher	1 "GP-30" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
@@ -70286,9 +70286,9 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
-ATT ILauncher	1 "GP-30" blocks	Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
@@ -70326,7 +70326,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -70363,7 +70363,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70403,7 +70403,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70442,7 +70442,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70481,7 +70481,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70520,7 +70520,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70558,7 +70558,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70595,7 +70595,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70632,7 +70632,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70669,7 +70669,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70706,7 +70706,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70743,7 +70743,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70780,7 +70780,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -70817,7 +70817,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -70857,7 +70857,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70896,7 +70896,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70934,7 +70934,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -70971,7 +70971,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -71008,7 +71008,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -71046,7 +71046,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -71085,7 +71085,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -71123,7 +71123,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -71160,7 +71160,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -71197,7 +71197,7 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -71234,8 +71234,8 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -71273,8 +71273,8 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bipod and Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -71311,9 +71311,9 @@ ShootSound		"Weapon\Shoot\rk95_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod"	blocks	ILauncher	and	Laser	and	Light
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"	blocks	Bayonet
-ATT ILauncher	1 "GP-30"	blocks	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Laser and Light
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -71350,9 +71350,9 @@ ShootSound		"Weapon\Shoot\rk95_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod"	blocks	ILauncher	and	Laser	and	Light
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"	blocks	Bayonet
-ATT ILauncher	1 "GP-30"	blocks	Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Laser and Light
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod
 ATT Bayonet		1 "StdBayonet" blocks ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (RK95/30)"
@@ -71810,10 +71810,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 ACTOR			"Items\ak74n.act"
@@ -71848,10 +71848,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"aks74buttnovo"
@@ -71887,10 +71887,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"aks74buttnovo_folded"
@@ -72274,10 +72274,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\novaak63.act"
@@ -72312,10 +72312,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo"
@@ -72351,10 +72351,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo_folded"
@@ -72389,10 +72389,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 ACTOR			"Items\novaak63.act"
@@ -72427,10 +72427,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo"
@@ -72466,10 +72466,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo_folded"
@@ -72504,10 +72504,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 ACTOR			"Items\novaak63.act"
@@ -72542,10 +72542,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"akmsbuttnovo"
@@ -72581,10 +72581,10 @@ ShootSound		"Weapon\Shoot\garand_shoot.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"akmsbuttnovo_folded"
@@ -73215,14 +73215,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
 ATT Laser		0
 ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -73348,10 +73347,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -73389,10 +73388,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -73429,10 +73428,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73469,10 +73468,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73510,10 +73509,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73551,10 +73550,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73592,10 +73591,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73633,10 +73632,10 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73673,10 +73672,10 @@ ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 
@@ -73712,10 +73711,10 @@ ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 
@@ -73752,10 +73751,10 @@ ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
@@ -73792,10 +73791,10 @@ ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
@@ -73832,10 +73831,10 @@ ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
@@ -73872,10 +73871,10 @@ ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher	and	Bayonet
+ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher	and	Bipod and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
@@ -74072,9 +74071,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74113,9 +74112,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74154,9 +74153,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74195,9 +74194,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74236,9 +74235,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74277,9 +74276,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74318,9 +74317,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74359,9 +74358,9 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1	"WR"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1	"GP-30"	blocks Bipod
+ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 
@@ -74633,10 +74632,10 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 ACTOR			"Items\mpikm74.act"
@@ -74671,10 +74670,10 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"mpikmsstock"
@@ -74710,10 +74709,10 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"mpikmsstock_folded"
@@ -74827,10 +74826,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock"
@@ -74866,10 +74865,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock_folded"
@@ -74905,10 +74904,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock"
@@ -74944,10 +74943,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock_folded"
@@ -74983,10 +74982,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock"
@@ -75022,10 +75021,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock_folded"
@@ -75061,10 +75060,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock"
@@ -75100,10 +75099,10 @@ ShootSound		"Weapon\Shoot\AK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"tantalstock_folded"
@@ -75139,10 +75138,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"berylnovostock"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
@@ -75178,10 +75177,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"berylnovostock_folded"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
@@ -75217,10 +75216,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"berylnovostock"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
@@ -75256,10 +75255,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"berylnovostock_folded"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
@@ -75296,7 +75295,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	1 "AK 5.56"
@@ -75335,7 +75334,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	1 "AK 5.56"
@@ -75376,7 +75375,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	1 "AK 5.56"
@@ -75415,7 +75414,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	1 "AK 5.56"
@@ -75455,10 +75454,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Beryl_butt"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
@@ -75494,10 +75493,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Beryl_butt_folded"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
@@ -75532,10 +75531,10 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer and Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 ACTOR			"Items\stg940.act"
@@ -75570,10 +75569,10 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer and Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"mpikmsstock"
@@ -75609,10 +75608,10 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer and Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"mpikmsstock_folded"
@@ -77254,10 +77253,10 @@ ShootSound		"Weapon\Shoot\AK-101_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak101novo_butt"
@@ -77293,10 +77292,10 @@ ShootSound		"Weapon\Shoot\AK-101_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		1 "AssaultBipod" blocks	Bayonet	and	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks	Bayonet	and	Bipod
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer	and	Bipod
+ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak101novo_butt_folded"
@@ -77670,10 +77669,10 @@ ShootSound		"Weapon\Shoot\AK-107.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
-ATT Silencer	1	"PBS - 5,45"	blocks Bayonet and ILauncher
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet and Silencer
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 5,45" blocks Bayonet and ILauncher
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet and Silencer
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak101novo_butt"
@@ -77709,10 +77708,10 @@ ShootSound		"Weapon\Shoot\AK-107.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
-ATT Silencer	1	"PBS - 5,45"	blocks Bayonet and ILauncher
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet and Silencer
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 5,45" blocks Bayonet and ILauncher
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet and Silencer
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak101novo_butt_folded"
@@ -77748,10 +77747,10 @@ ShootSound		"Weapon\Shoot\AK-108.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56"	blocks Bayonet and ILauncher
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet and Silencer
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet and Silencer
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1	"AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak101novo_butt"
@@ -77787,10 +77786,10 @@ ShootSound		"Weapon\Shoot\AK-108.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56"	blocks Bayonet and ILauncher
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet and Silencer
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet and Silencer
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1	"AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak101novo_butt_folded"
@@ -77826,10 +77825,10 @@ ShootSound		"Weapon\Shoot\AK-107.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
-ATT Silencer	1	"PBS - 7,62x39"	blocks Bayonet and ILauncher
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet and Silencer
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 7,62x39" blocks Bayonet and ILauncher
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet and Silencer
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"ak101novo_butt"
@@ -77865,10 +77864,10 @@ ShootSound		"Weapon\Shoot\AK-107.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod"	blocks ILauncher
-ATT Silencer	1	"PBS - 7,62x39"	blocks Bayonet and ILauncher
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet and Silencer
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1	"AssaultBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 7,62x39" blocks Bayonet and ILauncher
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet and Silencer
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"ak101novo_butt_folded"
@@ -78008,10 +78007,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		2 "AssaultBipod""BM1" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"aek971-butt"
@@ -78047,10 +78046,10 @@ ShootSound		"Weapon\Shoot\AEK-972_fire 1.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		2 "AssaultBipod""BM1" blocks	ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"aek971-butt-folded"
@@ -78188,10 +78187,10 @@ ShootSound		"Weapon\Shoot\AEK971.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"a545stock"
@@ -78227,10 +78226,10 @@ ShootSound		"Weapon\Shoot\AEK971.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"a545stock_folded"
@@ -78266,10 +78265,10 @@ ShootSound		"Weapon\Shoot\AEK971.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"a545stock"
@@ -78305,10 +78304,10 @@ ShootSound		"Weapon\Shoot\AEK971.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"a545stock_folded"
@@ -78524,10 +78523,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak12_butt"
@@ -78563,10 +78562,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak12_butt_folded"
@@ -78602,10 +78601,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak12_butt"
@@ -78641,10 +78640,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1 "PBS - 5,45" blocks	Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher	and	Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"ak12_butt_folded"
@@ -78758,10 +78757,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1	"AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak12_butt"
@@ -78797,10 +78796,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1	"AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak12_butt_folded"
@@ -78836,10 +78835,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1	"AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak12_butt"
@@ -78875,10 +78874,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod	and	Bayonet
-ATT Bayonet		1 "StdBayonet" blocks	ILauncher and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1	"AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
 StdPlug			"ak12_butt_folded"
@@ -78992,10 +78991,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1	"PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"ak12_butt"
@@ -79031,10 +79030,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1	"PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"ak12_butt_folded"
@@ -79070,10 +79069,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1	"PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"ak12_butt"
@@ -79109,10 +79108,10 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
-ATT Silencer	1	"PBS - 7,62x39" blocks	Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Silencer	1	"PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"ak12_butt_folded"
@@ -79226,10 +79225,10 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"ak12_butt"
@@ -79265,10 +79264,10 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"ak12_butt_folded"
@@ -79304,10 +79303,10 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"ak12_butt"
@@ -79343,10 +79342,10 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks	ILauncher
+ATT Bipod		1 "SniperBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
-ATT ILauncher	1	"GP-30"	blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet"	blocks ILauncher and Silencer
+ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1	"StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"ak12_butt_folded"
@@ -88135,7 +88134,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -88174,7 +88173,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1	"WR"
 ATT Bipod		1	"SniperBipod" blocks ILauncher
 ATT Silencer	1	"Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks	Bipod
+ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
