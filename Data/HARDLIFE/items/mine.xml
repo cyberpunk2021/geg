@@ -5,8 +5,11 @@
         tapeUsage="0.1"
         >
     <fuzeList>
+		<item complexity="10">Fuze_dynamite</item>
         <item complexity="35">Fuze_radio</item>
         <item complexity="35">Fuze_grenade</item>
+        <item complexity="35">Fuze_grenade_m24</item>
+        <item complexity="35">Fuze_rpg40</item>
         <item complexity="40">Fuze_m605</item>
         <item complexity="45">Fuze_muv</item>
         <item complexity="50">Fuze_mve72</item>
@@ -105,7 +108,7 @@
         <variant item="remote_tnt7" fuze="Fuze_radio" useTape="true"/>
     </mine>
 	<mine item="AT RPG-40" fuze="Fuze_rpg40">
-        <variant item="remote_rpg40" fuze="Fuze_radio" useTape="true"/>
+        <variant item="remote_rpg-40" fuze="Fuze_radio" useTape="true"/>
     </mine>
 	<mine item="Pipebomb" fuze="Fuze_dynamite">
         <variant item="remote_pipebomb" fuze="Fuze_radio" useTape="true"/>
@@ -113,7 +116,7 @@
 	<mine item="Custom grenade 1">
         <variant item="remote_sodabomb" fuze="Fuze_radio" useTape="true"/>
     </mine>
-	<mine item="Offensive Hand Grenade RGO" fuze="Fuze_grenade">
+	<mine item="Defensive Hand Grenade RGO" fuze="Fuze_grenade">
         <variant item="remote_rgo" fuze="Fuze_radio" useTape="true"/>
     </mine>
 	<mine item="Offensive Hand Grenade RGN" fuze="Fuze_grenade">
