@@ -70,17 +70,17 @@ HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"50 0
 WaveAmmo  "Wave"
 
 "AT RPG-40"
-HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"250 13 100 30 1380 0 0 1.3 1.8 3.2 4.2 
+HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"250 13 30 100 1380 0 0 1.3 1.8 3.2 4.2 
 WaveAmmo  "Wave"
 "Dynamite Stick 7"
-HStdOffensive  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"180 2 20 24 1000 0 0 3 4 0 0 
+HStdOffensive  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"180 2 24 20 1400 0 0 3 4 0 0 
 WaveAmmo  "Wave"
 "Dynamite Stick"
-HStdOffensive  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"40 1.5 6 12 200 0 0 3 4 0 0 
+HStdOffensive  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"40 1.5 12 6 200 0 0 3 4 0 0 
 WaveAmmo  "Wave"
 
 "Pipebomb"
-HStdOffensive  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"53 2.6 14 5 100 0 0 2 6 0 0 
+HStdOffensive  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"83 2.9 4 18 90 0 0 2 6 0 0 
 WaveAmmo  "Wave"
 
 

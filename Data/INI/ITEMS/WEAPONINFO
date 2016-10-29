@@ -93230,7 +93230,7 @@ HANDS			ahtGrenade
 ITEM "Defensive Hand Grenade RGO"
 Class			Grenade
 Caliber			"None"
-Weight			310
+Weight			330
 PrepareTime		0.7
 SingleFireTime	0
 BurstFireTime	0
@@ -93345,7 +93345,7 @@ HANDS			ahtGrenade
 ITEM "Dynamite Stick 7"
 Class			Grenade
 Caliber			"None"
-Weight			400
+Weight			1400
 PrepareTime		2.0
 SingleFireTime	0
 BurstFireTime	0
@@ -93382,7 +93382,7 @@ HANDS			ahtGrenade
 ITEM "Pipebomb"
 Class			Grenade
 Caliber			"None"
-Weight			200
+Weight			230
 PrepareTime		2.0
 SingleFireTime	0
 BurstFireTime	0
