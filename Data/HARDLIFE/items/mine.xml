@@ -83,6 +83,42 @@
 	<mine item="Offensive Hand Grenade RG42" fuze="Fuze_grenade">
         <variant item="remote_rg42" fuze="Fuze_radio" useTape="true"/>
     </mine>
+	<mine item="Offensive Hand Grenade RGZ89" fuze="Fuze_grenade">
+        <variant item="remote_rgz89" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade Type 97" fuze="Fuze_grenade">
+        <variant item="remote_type97" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade M68" fuze="Fuze_grenade">
+        <variant item="remote_m68" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade M67" fuze="Fuze_grenade">
+        <variant item="remote_m67" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Defensive Hand Grenade M57" fuze="Fuze_grenade">
+        <variant item="remote_m59" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Dynamite Stick" fuze="Fuze_dynamite">
+        <variant item="remote_tnt" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Dynamite Stick 7" fuze="Fuze_dynamite">
+        <variant item="remote_tnt7" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="AT RPG-40" fuze="Fuze_rpg40">
+        <variant item="remote_rpg40" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Pipebomb" fuze="Fuze_dynamite">
+        <variant item="remote_pipebomb" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Custom grenade 1">
+        <variant item="remote_sodabomb" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade RGO" fuze="Fuze_grenade">
+        <variant item="remote_rgo" fuze="Fuze_radio" useTape="true"/>
+    </mine>
+	<mine item="Offensive Hand Grenade RGN" fuze="Fuze_grenade">
+        <variant item="remote_rgn" fuze="Fuze_radio" useTape="true"/>
+    </mine>
 	<mine item="RPG-7 Grenade(tbg-7v)" fuze="Fuze_RPG7">
         <variant item="remote_RPG7_tbg-7v" fuze="Fuze_radio" useTape="true"/>
     </mine>
