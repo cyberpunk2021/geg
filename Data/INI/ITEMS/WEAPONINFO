@@ -73223,11 +73223,9 @@ ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
-
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
-
-ACTOR	"Items\zastavam70n.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam70n.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 /////----------------------------------
@@ -73351,11 +73349,10 @@ ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
-
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo"
-ACTOR	"Items\zastavam70nfolding.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam70nfolding.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-70AN (7.62x39mm) folded"
@@ -73393,8 +73390,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo_folded"
-ACTOR	"Items\zastavam70nfolding.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam70nfolding.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-90 (5.56x45mm)"
@@ -73430,8 +73427,8 @@ ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-ACTOR	"Items\zastavam90.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam90.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-90N (5.56x45mm)"
@@ -73467,8 +73464,8 @@ ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-ACTOR	"Items\zastavam90n.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam90n.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-90A (5.56x45mm)"
@@ -73506,8 +73503,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo"
-ACTOR	"Items\zastavam90folding.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam90folding.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-90A (5.56x45mm) folded"
@@ -73545,8 +73542,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo_folded"
-ACTOR	"Items\zastavam90folding.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam90folding.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-90AN (5.56x45mm)"
@@ -73584,8 +73581,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo"
-ACTOR	"Items\zastavam90nfolding.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam90nfolding.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-90AN (5.56x45mm) folded"
@@ -73623,8 +73620,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo_folded"
-ACTOR	"Items\zastavam90nfolding.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam90nfolding.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-77 (7.62x51mm)"
@@ -73660,8 +73657,8 @@ ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-ACTOR	"Items\zastavam77.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam77.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-77N (7.62x51mm)"
@@ -73697,8 +73694,8 @@ ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-ACTOR	"Items\zastavam77n.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam77n.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-77A (7.62x51mm)"
@@ -73736,8 +73733,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
-ACTOR	"Items\zastavam77folding.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam77folding.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-77A (7.62x51mm) folded"
@@ -73775,8 +73772,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
-ACTOR	"Items\zastavam77folding.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam77folding.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-77AN (7.62x51mm)"
@@ -73814,8 +73811,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
-ACTOR	"Items\zastavam77nfolding.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam77nfolding.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-77AN (7.62x51mm) folded"
@@ -73853,8 +73850,8 @@ ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
-ACTOR	"Items\zastavam77nfolding.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam77nfolding.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 CQC (5.56x45mm)"
@@ -73893,8 +73890,8 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock"
-ACTOR	"Items\zastavam21cqc.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21cqc.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
 ITEM "Assault Rifle Zastava M-21 CQC (5.56x45mm) folded"
@@ -73933,8 +73930,8 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock_folded"
-ACTOR	"Items\zastavam21cqc.act"
-IMAGE	"2x3.e5b"
+ACTOR			"Items\zastavam21cqc.act"
+IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm)"
@@ -73973,8 +73970,8 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock"
-ACTOR	"Items\zastavam21cqcrailed.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21cqcrailed.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
 ITEM "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm) folded"
@@ -74013,8 +74010,8 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock_folded"
-ACTOR	"Items\zastavam21cqcrailed.act"
-IMAGE	"2x3.e5b"
+ACTOR			"Items\zastavam21cqcrailed.act"
+IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Assault Rifle Zastava M-21 CAR (5.56x45mm)"
@@ -74051,11 +74048,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock"
-ACTOR	"Items\zastavam21car.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21car.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 CAR (5.56x45mm) folded"
@@ -74092,11 +74088,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock_folded"
-ACTOR	"Items\zastavam21car.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21car.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm)"
@@ -74133,11 +74128,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock"
-ACTOR	"Items\zastavam21carrailed.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21carrailed.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm) folded"
@@ -74174,11 +74168,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock_folded"
-ACTOR	"Items\zastavam21carrailed.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21carrailed.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 (5.56x45mm)"
@@ -74215,11 +74208,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock"
-ACTOR	"Items\zastavam21.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam21.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 (5.56x45mm) folded"
@@ -74256,11 +74248,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock_folded"
-ACTOR	"Items\zastavam21.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 RIS (5.56x45mm)"
@@ -74297,11 +74288,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock"
-ACTOR	"Items\zastavam21railed.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\zastavam21railed.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle Zastava M-21 RIS (5.56x45mm) folded"
@@ -74338,11 +74328,10 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1	"GP-30" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"zastavam21stock_folded"
-ACTOR	"Items\zastavam21railed.act"
-IMAGE	"2x4.e5b"
+ACTOR			"Items\zastavam21railed.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ////---------------
@@ -81168,8 +81157,8 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"Optical Sight PSO1-M2-02 (AK)"
-ACTOR	"Items\stg940dmr.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\stg940dmr.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Sniper Rifle DPMS Bull (5.56mm)"
@@ -84312,7 +84301,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-
 StdPlug			"SR25_silencer"
 StdPlug			"Rifle ammo clip (SR25\20)"
 ACTOR			"Items\mk11.act"
@@ -84395,7 +84383,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"M110_silencer"
-
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\m110.act"
@@ -84435,7 +84422,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "RSASS"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-
 StdPlug			"Rifle ammo clip (RSASSBK/20)"
 ACTOR			"Items\rsass.act"
 IMAGE			"2x5.e5b"
@@ -84474,7 +84460,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "RSASS"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-
 StdPlug			"Rifle ammo clip (RSASSBK/20)"
 ACTOR			"Items\rsassblack.act"
 IMAGE			"2x5.e5b"
@@ -84551,7 +84536,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "m98308"
 StdPlug			"Rifle clip (M98308/5)"
-
 ACTOR			"Items\m98b.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -85834,7 +85818,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42300"
 StdPlug			"TRG-42_butt"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42300/5)"
 ACTOR			"Items\TRG42.ACT"
@@ -85875,7 +85858,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42300"
 StdPlug			"TRG-42_butt_folded"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42300/5)"
 ACTOR			"Items\TRG42.ACT"
@@ -85916,7 +85898,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42300"
 StdPlug			"TRG-42_butt2"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42300/5)"
 ACTOR			"Items\TRG42b.ACT"
@@ -85957,7 +85938,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42300"
 StdPlug			"TRG-42_butt2_folded"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42300/5)"
 ACTOR			"Items\TRG42b.ACT"
@@ -85998,7 +85978,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42300"
 StdPlug			"TRG-42_butt3"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42300/5)"
 ACTOR			"Items\TRG42t.ACT"
@@ -86039,7 +86018,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42300"
 StdPlug			"TRG-42_butt3_folded"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42300/5)"
 ACTOR			"Items\TRG42t.ACT"
@@ -86078,7 +86056,6 @@ ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "L96A1300"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Sniper rifle clip (L96A1300/20)"
 ACTOR			"Items\awmnovagreen2.act"
@@ -86347,7 +86324,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "m98300"
 StdPlug			"Rifle clip (M98300/5)"
-
 ACTOR			"Items\m98b.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -86502,7 +86478,6 @@ ATT Silencer	1 ".338 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Lapua"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Sniper rifle clip (Lapua/10)"
 ACTOR			"Items\awmnova.ACT"
@@ -86541,7 +86516,6 @@ ATT Silencer	1 ".338 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Lapua"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Sniper rifle clip (Lapua/10)"
 ACTOR			"Items\awmnovabeige.ACT"
@@ -86582,7 +86556,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
 StdPlug			"TRG-42_butt"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42/5)"
 ACTOR			"Items\TRG42.ACT"
@@ -86623,7 +86596,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
 StdPlug			"TRG-42_butt_folded"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42/5)"
 ACTOR			"Items\TRG42.ACT"
@@ -86664,7 +86636,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
 StdPlug			"TRG-42_butt2"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42/5)"
 ACTOR			"Items\TRG42b.ACT"
@@ -86705,7 +86676,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
 StdPlug			"TRG-42_butt2_folded"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42/5)"
 ACTOR			"Items\TRG42b.ACT"
@@ -86746,7 +86716,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
 StdPlug			"TRG-42_butt3"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42/5)"
 ACTOR			"Items\TRG42t.ACT"
@@ -86787,7 +86756,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
 StdPlug			"TRG-42_butt3_folded"
-
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"Rifle clip (TRG-42/5)"
 ACTOR			"Items\TRG42t.ACT"
@@ -87210,7 +87178,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "m98338"
 StdPlug			"Rifle clip (M98338/5)"
-
 ACTOR			"Items\m98b.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -90525,8 +90492,8 @@ ATT Bayonet		0
 ATT Magazine	1	"BAR"
 StdPlug			"Rifle ammo clip (BAR/20)"
 StdPlug			"BAR bipod"
-ACTOR	"Items\barwood.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\barwood.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "M1918 BAR"
@@ -90563,8 +90530,8 @@ ATT Bayonet		0
 ATT Magazine	1	"BAR"
 StdPlug			"Rifle ammo clip (BAR/20)"
 //	StdPlug			"BAR bipod"
-ACTOR	"Items\M1918_A2.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\M1918_A2.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ////////---------------------
@@ -90679,8 +90646,8 @@ ATT Bayonet		0
 ATT Magazine	1	"BrenLMG"
 StdPlug			"Machinegun clip (Bren/30)"
 StdPlug			"BAR bipod"
-ACTOR	"Items\brenlmg.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\brenlmg.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Bren .308"
@@ -90717,8 +90684,8 @@ ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
 StdPlug			"BAR bipod"
-ACTOR	"Items\brenlmg308.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\brenlmg308.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "M1941 Johnson machine gun"
@@ -90949,8 +90916,8 @@ ATT Bayonet		0
 ATT Magazine	1	"LewisLMG"
 StdPlug			"Machinegun clip (Lewis/47)"
 StdPlug			"Lewis Bipod"
-ACTOR	"Items\lewisgun.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\lewisgun.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
 
 ITEM "Lewis .3006"
@@ -90987,8 +90954,8 @@ ATT Bayonet		0
 ATT Magazine	1	"LewisLMG3006"
 StdPlug			"Machinegun clip (Lewis3006/47)"
 StdPlug			"Lewis Bipod"
-ACTOR	"Items\lewisgun.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\lewisgun.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
 
 ITEM "Lewis Mauser"
@@ -91025,8 +90992,8 @@ ATT Bayonet		0
 ATT Magazine	1	"LewisLMG8x57"
 StdPlug			"Machinegun clip (Lewis8x57/47)"
 StdPlug			"Lewis Bipod"
-ACTOR	"Items\lewisgun.act"
-IMAGE	"2x5.e5b"
+ACTOR			"Items\lewisgun.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
 
 ITEM "Machinegun DP 27 (7.62x54R)"
