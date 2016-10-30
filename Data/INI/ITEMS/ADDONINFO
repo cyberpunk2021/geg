@@ -3505,7 +3505,7 @@ WEIGHT  95
 Resource  1000 
 //------------------------------------------------------ 
 Addon  "Universal Tactical Light (Rifle)"
-Light  "WR"
+Light  "WRRifle"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance  25 
 Visible  1 
@@ -3515,7 +3515,7 @@ WEIGHT  100
 Resource  1000 
 //------------------------------------------------------ 
 Addon  "Universal Tactical Light Black (Rifle)"
-Light  "WR"
+Light  "WRRifle"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance  25 
 Visible  1 
