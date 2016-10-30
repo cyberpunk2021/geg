@@ -72941,8 +72941,8 @@ ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
 ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
 ShootSound		"Weapon\Shoot\AK47_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
@@ -72980,8 +72980,8 @@ ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
 ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
 ShootSound		"Weapon\Shoot\AK47_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
