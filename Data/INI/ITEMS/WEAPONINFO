@@ -73215,8 +73215,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
@@ -73343,14 +73343,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -73384,16 +73383,14 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
-
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"akmsbuttnovo_folded"
 ACTOR	"Items\zastavam70nfolding.act"
@@ -73424,18 +73421,15 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-
 ACTOR	"Items\zastavam90.act"
 IMAGE	"2x5.e5b"
 HANDS			ahtRifle
@@ -73464,18 +73458,15 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-
 ACTOR	"Items\zastavam90n.act"
 IMAGE	"2x5.e5b"
 HANDS			ahtRifle
@@ -73505,16 +73496,14 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo"
 ACTOR	"Items\zastavam90folding.act"
@@ -73546,16 +73535,14 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo_folded"
 ACTOR	"Items\zastavam90folding.act"
@@ -73587,16 +73574,14 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo"
 ACTOR	"Items\zastavam90nfolding.act"
@@ -73628,16 +73613,14 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod
 ATT Magazine	1 "AK 5.56"
-
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"akmsbuttnovo_folded"
 ACTOR	"Items\zastavam90nfolding.act"
@@ -73668,17 +73651,15 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
-
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-
 ACTOR	"Items\zastavam77.act"
 IMAGE	"2x5.e5b"
 HANDS			ahtRifle
@@ -73707,17 +73688,15 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-
 ACTOR	"Items\zastavam77n.act"
 IMAGE	"2x5.e5b"
 HANDS			ahtRifle
@@ -73747,14 +73726,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
-
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
@@ -73787,14 +73765,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
-
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
@@ -73827,14 +73804,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
@@ -73867,14 +73843,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Zastava_M-70.WAV"
-
-ATT Laser		0
-ATT Light		0
-ATT Scope		1	"AK"
-ATT Bipod		1	"AssaultBipod" blocks ILauncher and Bayonet
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1	"GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1	"StdBayonet" blocks ILauncher and Bipod and Silencer
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
