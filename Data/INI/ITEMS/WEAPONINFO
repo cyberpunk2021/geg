@@ -16562,8 +16562,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\smg9mm_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -16601,8 +16601,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\smg9mm_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -24344,31 +24344,11 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
 ShootSound		"Weapon\Shoot\MP5kA4.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bipod
-and
-Silencer
-ATT Light		1 "Barrel Mount"
-blocks
-Bipod
-and
-Silencer
+ATT Laser		0
+ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod"
-blocks
-Laser
-and
-Light
-and
-Silencer
+ATT Bipod		0
 ATT Silencer	1 "HandMade"
-blocks
-Laser
-and
-Light
-and
-Bipod
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Calico"
@@ -25037,18 +25017,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\Colt_SMG_fire.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bipod
-ATT Light		1 "Barrel Mount"
-blocks
-Bipod
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-blocks
-Laser
-and
-Light
 ATT Silencer	2 "Std 9mm Para""HandMade"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25084,18 +25056,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\Colt_SMG_fire.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bipod
-ATT Light		1 "Barrel Mount"
-blocks
-Bipod
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-blocks
-Laser
-and
-Light
 ATT Silencer	2 "Std 9mm Para""HandMade"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25289,8 +25253,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\Colt_SMG_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	2 "Std 45 ACP""HandMade"
@@ -25328,8 +25292,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\Colt_SMG_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	2 "Std 45 ACP""HandMade"
