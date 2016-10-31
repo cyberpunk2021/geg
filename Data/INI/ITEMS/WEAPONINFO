@@ -29264,22 +29264,10 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\Shotgun_pump.wav"
-ATT Laser		2 "WR""WRRifle"
-blocks
-Light
-and
-Bipod
-ATT Light		2 "WR""WRRifle"
-blocks
-Laser
-and
-Bipod
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-Laser
-and
-Light
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29315,22 +29303,10 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\Shotgun_pump.wav"
-ATT Laser		2 "WR""WRRifle"
-blocks
-Light
-and
-Bipod
-ATT Light		2 "WR""WRRifle"
-blocks
-Laser
-and
-Bipod
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-Laser
-and
-Light
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -32042,8 +32018,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\usas12.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	0
@@ -36710,8 +36686,8 @@ ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\fg42_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
