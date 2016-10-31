@@ -85128,8 +85128,8 @@ ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
 ShootSound		"Weapon\Shoot\SV-98_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
 ATT Bipod		1 "ัย98"
 ATT Silencer	1 "SV98 silencer"
@@ -85168,8 +85168,8 @@ ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
 ReLockSound		"Weapon\ReLock\SV-98_slide.wav"
 ShootSound		"Weapon\Shoot\SV-98_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
 ATT Bipod		1 "ัย98"
 ATT Silencer	1 "SV98 silencer"
