@@ -1540,8 +1540,10 @@ Names for 7.62 ammo box are very strange ("wood" when is a metallic box, not the
 fazer iteminfo "Chain-gun PKMN Type 86 (7.62x54mm)"
 fazer as bullpups terem ahtBullpup
 
+ajustar level dos tactical vests e belts, talvez tirar tension wire (not armed)
+iteminfo Big Ammo box (5.56) faltando
 criar mon50 e claymore, e chinese claymore
-
+parei itemlevels.xml em   <item level="8">Night Sight AN/PVS-4 (MP5)</item>
 
 12:44 - Silveryte: yes, but you can already make bombs with them
 12:46 - Silveryte: yeah not may ideas here
