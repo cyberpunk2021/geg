@@ -548,6 +548,7 @@
   <item level="4">Submachine-gun UZI (9mm)</item>
   <item level="5">Launcher M79</item>
   <item level="6">Launcher RPG-7</item>
+  <item level="4">Launcher RPG-7 Type 69</item>
   <item level="5">Defensive Hand Grenade F-1</item>
   <item level="4">Defensive Hand Grenade M61</item>
   <item level="2">Defensive Hand Grenade Mk3A2</item>
@@ -4726,5 +4727,6 @@
   <item level="4">GM94</item>  
   <item level="4">GM94 folded</item>  
   <item level="3">rpg-2</item>  
+  <item level="3">rpg-2 Type 56</item>  
   <item level="3">RPG-2 Grenade</item>  
 </root>
