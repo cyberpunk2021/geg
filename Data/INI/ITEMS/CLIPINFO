@@ -587,7 +587,7 @@ DEFAMMO  "8x22mm Nambu"
 
 //7.62x25
 
-BOX  "Ammo box (7.62x25mm Palinero)""Palinero 7.62x25"50 "Items\762x39_box.act""762x39_box.e5b"
+BOX  "Ammo box (7.62x25mm Palinero)""Palinero 7.62x25"50 "Items\palinero762x25.act""762x39_box.e5b"
 BOX  "Ammo box (7.62x25mm (7.63mm mauzer))""7.62x25mm (7.63mm mauzer)"50 "Items\763mauserprvi.act""boxprvi.e5b"
 
 BOX  "Ammo box (7.62x25mm AP)""7.62x25mm AP"50 "Items\762tokarevprvi.act""boxprvi.e5b"
@@ -722,8 +722,6 @@ USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  "PM ammo"
 
-
-
 CLIP  "Pistol clip (PA63/7)""9ץ18 לל ּֿ""PA63"7 70 "None"1200 
 ACTOR  "Items\skif_mag.act"
 USEPREFIX  ""
@@ -849,7 +847,7 @@ BOX  "Ammo box (Cor-Bon 9mm)""Cor-Bon +P(9mm)"50 "Items\9x19corbon_box.act""9x19
 BOX  "Ammo box (7N21)""7N21 (9mm)"34 "Items\9x19_7N21_box.act""9x19_7N21_box.e5b"
 BOX  "loose_ammo_box""loose_ammo"50 "Items\loose_ammo.act""loose_ammo.e5b"
 BOX  "Big Ammo box (M882)""9x19 FMJ Ball"50 "Items\algeira9mm.act""algeiraboxinv.e5b"
-BOX  "Big Ammo box (Palinero 9mm)""9x19 Palinero"50 "Items\algeira9mm.act""algeiraboxinv.e5b"
+BOX  "Big Ammo box (Palinero 9mm)""9x19 Palinero"50 "Items\palinero9mm.act""762x39_box.e5b"
 
 BOX "Big Ammo box (9x19)""M882 Ball (9mm)"500 "Items\9x19_500.act""556_500.e5b"
 

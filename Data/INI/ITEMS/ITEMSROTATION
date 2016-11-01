@@ -5555,10 +5555,6 @@ Z  0
 X  120 
 Y  0 
 Z  0 
-"BigAmmoBox (9x18/500)"
-X  120 
-Y  0 
-Z  0 
 "BigWoodAmmoBox M955 (5.56/1000)"
 X  0 
 Y  90 
@@ -16026,4 +16022,52 @@ Z  0
 X  0 
 Y  -90 
 Z  0 
+"Ammo box (.22LR HV)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box (.22LR HP)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box (.25 ACP HP)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box 500 (.25 ACP FMJ)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box (.32 ACP HP)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box 500 (.380 ACP FMJ)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box 500 (.380 ACP HP)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box FMJ 500 (8x22)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box 500 HLA (Mauser Tokarev)"
+X  0 
+Y  -90 
+Z  0 
+"Ammo box 500 (7.62x25mm FMJ)"
+X  0 
+Y  -90 
+Z  0
+"Big Ammo box (9x18)"
+X  0 
+Y  -90 
+Z  0
+"Ammo box 500 HLA (9mm JHP +P+)"
+X  0 
+Y  -90 
+Z  0
 END  

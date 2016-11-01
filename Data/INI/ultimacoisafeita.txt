@@ -1374,6 +1374,8 @@ parei de fazer stats nas snipers
 buff bch bcm foldada
 9mm jhp mais penetration
 melhorar ina smg
+aumentar 7.62x25mm penetration
+ajustar 9x18mm stats
 
 
 criar
