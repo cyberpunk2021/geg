@@ -48379,18 +48379,10 @@ ShootSound		"Weapon\Shoot\G3_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "AssaultBipod"
-blocks
-ILauncher
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
-ATT ILauncher	1 "hk"
-blocks
-Bipod
-ATT Bayonet		1 "HK"
-blocks
-Silencer
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher and Silencer
+ATT Silencer	1 "Supressor - 7,62" blocks Bipod and Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer
+ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\g3a3.act"
@@ -48424,10 +48416,10 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "Supressor - 7,62" blocks Bayonet and ILauncher
-ATT ILauncher	1 "hk" blocks Silencer and Bayonet
-ATT Bayonet		1 "M96" blocks Silencer and ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks Silencer and ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet and ILauncher and Bipod
+ATT ILauncher	1 "hk" blocks Silencer and Bayonet and Bipod
+ATT Bayonet		1 "M96" blocks Silencer and ILauncher and Bibop
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\ak4b.act"
@@ -48464,18 +48456,10 @@ ShootSound		"Weapon\Shoot\G3_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "AssaultBipod"
-blocks
-ILauncher
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
-ATT ILauncher	1 "hk"
-blocks
-Bipod
-ATT Bayonet		1 "HK"
-blocks
-Silencer
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher and Silencer
+ATT Silencer	1 "Supressor - 7,62" blocks Bipod and Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer
+ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3 Butt"
@@ -48511,18 +48495,10 @@ ShootSound		"Weapon\Shoot\G3_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "AssaultBipod"
-blocks
-ILauncher
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
-ATT ILauncher	1 "M203PI"
-blocks
-Bipod
-ATT Bayonet		1 "HK"
-blocks
-Silencer
+ATT Bipod		1 "AssaultBipod" blocks ILauncher and Silencer
+ATT Silencer	1 "Supressor - 7,62" blocks Bipod and Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer
+ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3 Butt folded"
