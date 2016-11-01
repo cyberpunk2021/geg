@@ -3922,7 +3922,7 @@ GrenadeCount  1
 IsLauncher  1 
 ACTOR  "Items\hk79.act"
 IMAGE  "hk79.e5b"
-WEIGHT  1300 
+WEIGHT  1500 
 Resource  9500 
 //------------------------------------------------------  
 Addon  "Scar launcher"
