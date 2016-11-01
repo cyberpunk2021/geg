@@ -42193,10 +42193,10 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1"
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt"
@@ -42232,10 +42232,10 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1"
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt_folded"
@@ -42271,10 +42271,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks Bipod
-ATT Bayonet		0
+ATT ILauncher	0
+ATT Bayonet		1 "M9"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
@@ -42308,13 +42308,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks Bipod
-ATT Bayonet		0
+ATT ILauncher	0
+ATT Bayonet		1 "M9"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
@@ -42521,13 +42521,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI" blocks Bipod
-ATT Bayonet		0
+ATT ILauncher	1 "M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\ar15_fix.act"
@@ -42561,10 +42561,10 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	0
-ATT Bayonet		0
+ATT ILauncher	1 "M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9"
 ATT Magazine	1 "Colt762"
 StdPlug			"Colt 7.62 10-Rnd Mag"
 ACTOR			"Items\ar15_fix.act"
