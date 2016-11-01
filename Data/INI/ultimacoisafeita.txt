@@ -1376,6 +1376,7 @@ buff bch bcm foldada
 melhorar ina smg
 aumentar 7.62x25mm penetration
 ajustar 9x18mm stats
+deixar "Carabine Zastava M70 (7.62x39mm)" semi auto
 
 
 criar
