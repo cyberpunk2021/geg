@@ -1,8 +1,198 @@
 //// Контроль русских букв Контроль русских букв 
 //// Контроль русских букв Контроль русских букв 
 
-
-
+//------------------------------------------------------  
+Addon  "Bayonet (East)"
+Bayonet  "StdBayonet"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\bayonet_rus.act"
+IMAGE  "bayonet_akm.e5b"
+WEIGHT  270 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Bayonet (QBZ)"
+Bayonet  "StdBayonet"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\qbzbayo.act"
+IMAGE  "bayonet_akm.e5b"
+WEIGHT  270 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Bayonet M9 (West)"
+Bayonet  "M9"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\bayonetM9.act"
+IMAGE  "bayonet_m9.e5b"
+WEIGHT  395 
+Resource  1000
+//------------------------------------------------------  
+Addon  "M96 Bayonet"
+Bayonet  "M96"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\M96_Bayonet.act"
+IMAGE  "Bayonet_M96.e5b"
+WEIGHT  300 
+Resource  1000
+//------------------------------------------------------  
+Addon  "SA Vz.58 Bayonet"
+Bayonet  "Vz58"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\SA58_Bayonet.act"
+IMAGE  "SA58Bayonet.e5b"
+WEIGHT  300 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Bayonet_HK"
+Bayonet  "HK"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\bayonet_hk.act"
+IMAGE  "bayonet_hk.e5b"
+WEIGHT  350 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Bayonet_fal"
+Bayonet  "FAL"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\bayonet_fal.act"
+IMAGE  "bayonet_fal.e5b"
+WEIGHT  360 
+Resource  1000
+//------------------------------------------------------
+Addon  "TrenchBayo"
+Bayonet  "TrenchBayonet"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\trenchgunbayo.act"
+IMAGE  "trenchbayo.e5b"
+WEIGHT  890 
+Resource  1000 
+//------------------------------------------------------
+Addon  "Arisaka Bayonet"
+Bayonet  "AriBayo"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\aribayo.act"
+IMAGE  "trenchbayo.e5b"
+WEIGHT  700 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Mosin_bayonet"
+Bayonet  "Mosin_Bayonet"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\mosin_bayonet.act"
+IMAGE  "bayonet_mosin.e5b"
+WEIGHT  380 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Obs_knife"
+Bayonet  "Knifes"
+Sound  "None""None"
+ACTOR  "Items\obs_knife.act"
+IMAGE  "obs_knife.e5b"
+WEIGHT  450 
+Resource  30 
+//------------------------------------------------------  
+Addon  "Machete"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\machete.act"
+IMAGE  "machete.e5b"
+WEIGHT  2500 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Shovel"
+Bayonet  "Knifes"
+Sound  "None""None"
+ACTOR  "Items\shovel.act"
+IMAGE  "shovel.e5b"
+WEIGHT  754 
+Resource  100
+//------------------------------------------------------  
+Addon  "kol"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\kol.act"
+IMAGE  "kol.e5b"
+WEIGHT  100 
+Resource  30
+//------------------------------------------------------  
+Addon  "Cuchillo"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\cuchillo.act"
+IMAGE  "cuchillo.e5b"
+WEIGHT  250 
+Resource  1000
+//------------------------------------------------------  
+Addon  "throw knive"
+Bayonet  "throw"
+Sound  "None""None"
+ACTOR  "Items\throwknive.act"
+IMAGE  "throwknive.e5b"
+WEIGHT  250 
+Resource  500
+//------------------------------------------------------
+Addon  "Cuchillo de Combate"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\cuchillo_c.act"
+IMAGE  "cuchillo_c.e5b"
+WEIGHT  275 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Cuchillo tactico"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\cuchillo_t.act"
+IMAGE  "cuchillo_t.e5b"
+WEIGHT  250 
+Resource  1000
+//------------------------------------------------------
+Addon  "Cuchillo Tora"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\cuchillo_k.act"
+IMAGE  "cuchillo_k.e5b"
+WEIGHT  280 
+Resource  1000
+//------------------------------------------------------
+Addon  "Daga"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\daga.act"
+IMAGE  "cuchillo_d.e5b"
+WEIGHT  275 
+Resource  1000
+//------------------------------------------------------  
+Addon  "kabar"
+Bayonet  "Knifes"
+Sound  "Addon\PlugSound\""Addon\UnplugSound\"
+ACTOR  "Items\kabar.act"
+IMAGE  "kabar.e5b"
+WEIGHT  290 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "sas_dagger"
+Bayonet  "Knifes"
+Sound  "None""None"
+ACTOR  "Items\sas_dagger.act"
+IMAGE  "sas_dagger.e5b"
+WEIGHT  270 
+Resource  700
+//------------------------------------------------------  
+Addon  "smersh5"
+Bayonet  "Knifes"
+Sound  "None""None"
+ACTOR  "Items\smersh5.act"
+IMAGE  "smersh5.e5b"
+WEIGHT  250 
+Resource  1000
+//------------------------------------------------------  
+Addon  "NDK"
+Bayonet  "Knifes"
+Sound  "None""None"
+ACTOR  "Items\ndk.act"
+IMAGE  "ndk.e5b"
+WEIGHT  270 
+Resource  700
 //------------------------------------------------------
 Addon           "k1a1stock"
 Stock           "built-in"
@@ -31,7 +221,6 @@ Sound  "Addon\PlugSound\None""Addon\UnplugSound\None"
 ACTOR           "Items\k2stockfolded.act"
 IMAGE           "None"
 WEIGHT          0
-
 //------------------------------------------------------  
 Addon  "MG4 Bipod"
 Bipod  "built-in"
@@ -40,7 +229,6 @@ ACTOR  "Items\mg4bipod.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  0 
 Resource  0 
-
 //------------------------------------------------------  
 Addon  "MG4 Bipod Folded"
 Bipod  "built-in"
@@ -99,7 +287,6 @@ ACTOR  "Items\9mmSilencer.act"
 IMAGE  "9mmSilencer.e5b"
 WEIGHT  321 
 Resource  2500 
-
 //------------------------------------------------------  
 Addon  "Silencer (x21 Para)"
 Silencer  "Std x21 Para"
@@ -110,7 +297,6 @@ ACTOR  "Items\qsw06sil.act"
 IMAGE  "9mmSilencer.e5b"
 WEIGHT  325 
 Resource  2300 
-
 //------------------------------------------------------  
 Addon  "Silencer (x21 QCW)"
 Silencer  "Std x21 QCW"
@@ -121,7 +307,6 @@ ACTOR  "Items\qcwsil.act"
 IMAGE  "9mmSilencer.e5b"
 WEIGHT  325 
 Resource  2300 
-
 //------------------------------------------------------  
 Addon  "sil_bottle_selfmade"
 Silencer  "HandMade"
@@ -493,8 +678,6 @@ ACTOR  "Items\tgpv.act"
 IMAGE  "sv98_sil.e5b"
 WEIGHT  750
 Resource  2100
-
-
 //------------------------------------------------------  
 Addon  ".300 Sniper Rifle Suppressor"
 Silencer  ".300WM Sniper Rifle Suppressor"
@@ -747,28 +930,234 @@ IMAGE  "za-n-m76.e5b"
 WEIGHT  861
 Resource  2500
 //------------------------------------------------------  
-Addon  "SSG08 Bipod"
-Bipod  "SSG08 Bipod Mount"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\ssg08bipod.act"
-IMAGE  "harris.e5b"
-WEIGHT  500 
-Resource  0 
+Addon  "Insight M3 Tactical Flashlight (BM)"
+Light  "Barrel Mount"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  20 
+Visible  1 
+ACTOR  "Items\m3_tf_bm.act"
+IMAGE  "m3_tf_bm.e5b"
+WEIGHT  145 
+Resource  1000 
 //------------------------------------------------------  
-Addon  "Tactical Bipod BM"
-Bipod  "BM1"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\std_bipod.act"
-IMAGE  "l96_bipod.e5b"
+Addon  "Insight M3 Tactical Flashlight (HK)"
+Light  "HK"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  20 
+Visible  1 
+ACTOR  "Items\m3_tf_hk.act"
+IMAGE  "m3_tf_hk.e5b"
+WEIGHT  115 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Insight M3 Tactical Flashlight (WR)"
+Light  "WR"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  20 
+Visible  1 
+ACTOR  "Items\m3_tf_wr.act"
+IMAGE  "m3_tf_wr.e5b"
+WEIGHT  95 
+Resource  1000 
+//------------------------------------------------------ 
+Addon  "Universal Tactical Light (Rifle)"
+Light  "WRRifle"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  25 
+Visible  1 
+ACTOR  "Items\rifle_tl.act"
+IMAGE  "RifleLight.e5b"
+WEIGHT  100 
+Resource  1000 
+//------------------------------------------------------ 
+Addon  "Universal Tactical Light Black (Rifle)"
+Light  "WRRifle"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  25 
+Visible  1 
+ACTOR  "Items\rifle_tlblk.act"
+IMAGE  "RifleLight.e5b"
+WEIGHT  100 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Surefire CUS Flashlight (BM)"
+Light  "Barrel Mount"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  30 
+Visible  1 
+ACTOR  "Items\cus_tf_bm.act"
+IMAGE  "cus_tf_bm.e5b"
+WEIGHT  270 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS Flashlight (HK)"
+Light  "HK"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  30 
+Visible  1 
+ACTOR  "Items\cus_tf_hk.act"
+IMAGE  "cus_tf_hk.e5b"
+WEIGHT  240 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS Flashlight (WR)"
+Light  "WR"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  30 
+Visible  1 
+ACTOR  "Items\cus_tf_wr.act"
+IMAGE  "cus_tf_wr.e5b"
+WEIGHT  220 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Tactical Light Module (F2000)"
+Light  "F2000 Light"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  20 
+Visible  1 
+ACTOR  "Items\f2000-tl.act"
+IMAGE  "f2000-light.e5b"
+WEIGHT  250 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Laser Aiming Module (F2000)"
+Laser  "F2000 Laser"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  50 
+Visible  1 
+ACTOR  "Items\f2000-laser.act"
+IMAGE  "f2000-laser.e5b"
+WEIGHT  210 
+Resource  800 
+//------------------------------------------------------  
+Addon  "Beamshot 5000S (BM)"
+Laser  "Barrel Mount"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  30 
+Visible  1 
+ACTOR  "Items\bs_lam_bm.act"
+IMAGE  "bs_lam_bm.e5b"
+WEIGHT  210 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Beamshot 5000S (HK)"
+Laser  "HK"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  30 
+Visible  1 
+ACTOR  "Items\bs_lam_hk.act"
+IMAGE  "bs_lam_hk.e5b"
+WEIGHT  180 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Beamshot 5000S (WR)"
+Laser  "WR"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  30 
+Visible  1 
+ACTOR  "Items\bs_lam_wr.act"
+IMAGE  "bs_lam_wr.e5b"
+WEIGHT  160 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS Laser Sight (BM)"
+Laser  "Barrel Mount"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  40 
+Visible  1 
+ACTOR  "Items\cus_lam_bm.act"
+IMAGE  "cus_lam_bm.e5b"
 WEIGHT  350 
-Resource 1000
+Resource  1000 
 //------------------------------------------------------  
-Addon  "Tactical Bipod BM folded"
-Bipod  "BM1"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\std_bipod_folded.act"
-IMAGE  "l96_bipod.e5b"
-WEIGHT  350
+Addon  "Surefire CUS Laser Sight (HK)"
+Laser  "HK"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  40 
+Visible  1 
+ACTOR  "Items\cus_lam_hk.act"
+IMAGE  "cus_lam_hk.e5b"
+WEIGHT  320 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS Laser Sight (WR)"
+Laser  "WR"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  40 
+Visible  1 
+ACTOR  "Items\cus_lam_wr.act"
+IMAGE  "cus_lam_wr.e5b"
+WEIGHT  300 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS IR-Laser Sight (BM)"
+Laser  "Barrel Mount"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  50 
+Visible  0 
+ACTOR  "Items\cus_irlam_bm.act"
+IMAGE  "cus_irlam_bm.e5b"
+WEIGHT  350 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS IR-Laser Sight (HK)"
+Laser  "HK"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  50 
+Visible  0 
+ACTOR  "Items\cus_irlam_hk.act"
+IMAGE  "cus_irlam_hk.e5b"
+WEIGHT  320 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Surefire CUS IR-Laser Sight (WR)"
+Laser  "WR"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  50 
+Visible  0 
+ACTOR  "Items\cus_irlam_wr.act"
+IMAGE  "cus_irlam_wr.e5b"
+WEIGHT  300 
+Resource  1000
+//------------------------------------------------------  
+Addon  "ANPEQ Laser"
+Laser  "WRRifle"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  45 
+Visible  1 
+ACTOR  "Items\anpeq2.act"
+IMAGE  "anpeq2.e5b"
+WEIGHT  400 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "ANPEQ 15 Laser"
+Laser  "WRRifle"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  45 
+Visible  1 
+ACTOR  "Items\anpeq15.act"
+IMAGE  "anpeq15.e5b"
+WEIGHT  200 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "ANPEQ 15 Laser Black"
+Laser  "WRRifle"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  45 
+Visible  1 
+ACTOR  "Items\anpeq15blk.act"
+IMAGE  "anpeq15blk.e5b"
+WEIGHT  200 
+Resource  1000
+//------------------------------------------------------  
+Addon  "DBAL A2"
+Laser  "WRRifle"
+Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance  65 
+Visible  1 
+ACTOR  "Items\dbala2.act"
+IMAGE  "dbala2.e5b"
+WEIGHT  300 
 Resource  1000
 //------------------------------------------------------  
 Addon  "MARS"
@@ -791,30 +1180,6 @@ ACTOR   "Items\tar21_marslaser.act"
 IMAGE   "tar21_mars.e5b"
 WEIGHT  0 
 Resource  0 
-//------------------------------------------------------  
-Addon  "IMC-40 (40mm LV)"
-ILauncher  "IMC40"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\IMC40_gal.act"
-IMAGE  "imc-40.e5b"
-WEIGHT  1180 
-Resource  9500
-//------------------------------------------------------  
-Addon  "M203 AK (40mm LV)"
-ILauncher  "GP-30"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\m203_ak.act"
-IMAGE  "m203b.e5b"
-WEIGHT  1360 
-Resource  9500
 //------------------------------------------------------  
 Addon  "imbel_butt"
 Stock  "built-in"
@@ -1119,111 +1484,7 @@ BlocksAiming  0
 ACTOR  "Items\nimrod.act"
 IMAGE  "leupold10x40_m24.e5b"
 WEIGHT  750 
-Resource  2500 
- 
-//------------------------------------------------------  
-Addon  "EOTech Holosight 552 (Galil)"
-Scope  "Galil"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "collimator_eot_552.e6b"
-Distance  110 
-ACTOR  "Items\EOTech552_gal_2.act"
-IMAGE  "EOTech552_M14.e5b"
-WEIGHT  430 
-Resource  2000 
-//------------------------------------------------------  
-Addon  "Optical Sight ACOG 4x32 (Galil)"
-Scope  "Galil"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-DayScope  "ACOG-11 4X32(WR).e6b"
-ViewAngle  7 
-Distance  350 
-ShadowImpact  0.9 
-BlocksAiming  0 
-ACTOR  "Items\acog_gal_2.act"
-IMAGE  "acog_m14.e5b"
-WEIGHT  515 
-Resource  2500 
-//------------------------------------------------------  
-Addon  "Night Sight AN/PVS-4 (Galil)"
-Scope  "Galil"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-NightScope  "AN-PVS-4 (M16).e6b"
-ViewAngle  15 
-Distance  250 
-ShadowImpact  0.15 
-BlocksAiming  1 
-ACTOR  "Items\anpvs4_gal_2.act"
-IMAGE  "anpvs4_m14.e5b"
-WEIGHT  2030 
-Resource  800 
-//------------------------------------------------------  
-Addon  "Night Sight Leupold Mark4+KN250 (Galil)"
-Scope  "Galil"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-NightScope  "scope_10x42_Leupold_Ultra_M3A(M24).e6b"
-ViewAngle  2 
-Distance  300 
-ShadowImpact  0.13 
-BlocksAiming  1 
-ACTOR  "Items\leupold10x40kn250_gal_2.act"
-IMAGE  "leupold10x40kn250_m14.e5b"
-WEIGHT  1815 
-Resource  2500 
-//------------------------------------------------------  
-Addon  "Optical Sight Leupold Mark 4 10x40 (Galil)"
-Scope  "Galil"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-DayScope  "scope_10x42_Leupold_Ultra_M3A(M24).e6b"
-ViewAngle  2 
-Distance  740 
-ShadowImpact  0.9 
-BlocksAiming  0 
-ACTOR  "Items\leupold10x40_gal_2.act"
-IMAGE  "leupold10x40_m14.e5b"
-WEIGHT  815 
-Resource  2500 
-//------------------------------------------------------  
-Addon  "Optical Sight ACOG 4x32 (Scout)"
-Scope  "Scout"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-DayScope  "ACOG-11 4X32(WR).e6b"
-ViewAngle  7 
-Distance  350 
-ShadowImpact  0.9 
-BlocksAiming  0 
-ACTOR  "Items\acog_scout.act"
-IMAGE  "acog_wr.e5b"
-WEIGHT  415 
-Resource  2500 
-//------------------------------------------------------  
-Addon  "Collimator Aimpoint Comp M (Scout)"
-Scope  "Scout"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "collimator_aimpoint_comp_M.e6b"
-Distance  100 
-ACTOR  "Items\AimpointCompM_scout.act"
-IMAGE  "AimpointCompM_wr.e5b"
-WEIGHT  295 
-Resource  5000 
-//------------------------------------------------------ 
-Addon  "EOTech Holosight 552 (Scout)"
-Scope  "Scout"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "collimator_eot_552.e6b"
-Distance  110 
-ACTOR  "Items\EOTech552_scout.act"
-IMAGE  "EOTech552_WR.e5b"
-WEIGHT  326 
-Resource  2000 
+Resource  2500
 //------------------------------------------------------  
 Addon  "Win 1886 Scope"
 Scope  "Win 1886 Scope Mount"
@@ -1320,55 +1581,7 @@ Sound  "None""None"
 ACTOR  "Items\falo rised bipod_folded.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  1000 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "G36 bipod folded"
-Bipod  "G36_bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\g36_bipod_folded.act"
-IMAGE  "g36_bipod.e5b"
-WEIGHT  150 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "G3SG1 bipod folded"
-Bipod  "built-in"
-Sound  "None""None"
-ACTOR  "Items\G3SG1bipod_folded.act"
-IMAGE  "G3SG1bipod.e5b"
-WEIGHT  300 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Harris Bipod WR folded"
-Bipod  "WR"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\harris_wr_folded.act"
-IMAGE  "harris.e5b"
-WEIGHT  550 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "HK Integrated Bipod folded"
-Bipod  "built-in"
-Sound  "None""None"
-ACTOR  "Items\hk23e-bipod_folded.act"
-IMAGE  "mg3_bipod.e5b"
-WEIGHT  300 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "L86_Bipod folded"
-Bipod  "L86_Bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\l86_bipod_folded.act"
-IMAGE  "l86_bipod.e5b"
-WEIGHT  380 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "L96A1 bipod folded"
-Bipod  "L96A1 bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\L96a1_bipod_folded.act"
-IMAGE  "l96_bipod.e5b"
-WEIGHT  470 
-Resource  1000 
+Resource  1000
 //------------------------------------------------------  
 Addon  "M44_Bayonet_unfolded"
 Bayonet  "built-in"
@@ -1434,68 +1647,12 @@ IMAGE  "None"
 WEIGHT  400 
 Resource  1000 
 //------------------------------------------------------  
-Addon  "Obs_knife"
-Bayonet  "Knifes"
-Sound  "None""None"
-ACTOR  "Items\obs_knife.act"
-IMAGE  "obs_knife.e5b"
-WEIGHT  450 
-Resource  30 
-//------------------------------------------------------  
-Addon  "Shovel"
-Bayonet  "Knifes"
-Sound  "None""None"
-ACTOR  "Items\shovel.act"
-IMAGE  "shovel.e5b"
-WEIGHT  754 
-Resource  100 
-//------------------------------------------------------  
 Addon  "Sks bayonet_unfolded"
 Bayonet  "built-in"
 Sound  "None""None"
 ACTOR  "Items\SKS_bayonet_unfolded.act"
 IMAGE  "bayonet_sks.e5b"
 WEIGHT  143 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Sniper Bipod (DSR-1) folded"
-Bipod  "built-in"
-Sound  "None""None"
-ACTOR  "Items\dsr_bipod_folded.act"
-IMAGE  "dsr_bipod.e5b"
-WEIGHT  260 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Sniper Bipod Series 1A2 folded"
-Bipod  "SniperBipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\harris_folded.act"
-IMAGE  "harris.e5b"
-WEIGHT  500 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "SV98 bipod folded"
-Bipod  "СВ98"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\sv98_bipod_folded.act"
-IMAGE  "sv98_bipod.e5b"
-WEIGHT  450 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "SVU bipod folded"
-Bipod  "built-in"
-Sound  "None""None"
-ACTOR  "Items\svu_bipod_folded.act"
-IMAGE  "svu_bipod.e5b"
-WEIGHT  1200 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Tactical grip"
-Bipod  "WR"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\assaultgrip_01.act"
-IMAGE  "assaultgrip_01.e5b"
-WEIGHT  200 
 Resource  1000 
 //------------------------------------------------------  
 Addon  "Type56 Neddle Bayonet_unfolded"
@@ -1706,152 +1863,6 @@ IMAGE  "m60-bipod.e5b"
 WEIGHT  450 
 Resource  1000 
 //------------------------------------------------------  
-Addon  "Bayonet (East)"
-Bayonet  "StdBayonet"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\bayonet_rus.act"
-IMAGE  "bayonet_akm.e5b"
-WEIGHT  270 
-Resource  1000
-//------------------------------------------------------  
-Addon  "Bayonet (QBZ)"
-Bayonet  "StdBayonet"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\qbzbayo.act"
-IMAGE  "bayonet_akm.e5b"
-WEIGHT  270 
-Resource  1000
-//------------------------------------------------------  
-Addon  "Bayonet M9 (West)"
-Bayonet  "M9"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\bayonetM9.act"
-IMAGE  "bayonet_m9.e5b"
-WEIGHT  395 
-Resource  1000
-//------------------------------------------------------  
-Addon  "M96 Bayonet"
-Bayonet  "M96"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\M96_Bayonet.act"
-IMAGE  "Bayonet_M96.e5b"
-WEIGHT  300 
-Resource  1000
-//------------------------------------------------------
-Addon  "TrenchBayo"
-Bayonet  "TrenchBayonet"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\trenchgunbayo.act"
-IMAGE  "trenchbayo.e5b"
-WEIGHT  890 
-Resource  1000 
-//------------------------------------------------------
-Addon  "Arisaka Bayonet"
-Bayonet  "AriBayo"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\aribayo.act"
-IMAGE  "trenchbayo.e5b"
-WEIGHT  700 
-Resource  1000
-//------------------------------------------------------  
-Addon  "SA Vz.58 Bayonet"
-Bayonet  "Vz58"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\SA58_Bayonet.act"
-IMAGE  "SA58Bayonet.e5b"
-WEIGHT  300 
-Resource  1000
-//------------------------------------------------------  
-Addon  "Bayonet_fal"
-Bayonet  "FAL"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\bayonet_fal.act"
-IMAGE  "bayonet_fal.e5b"
-WEIGHT  360 
-Resource  1000
-//------------------------------------------------------  
-Addon  "Bayonet_HK"
-Bayonet  "HK"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\bayonet_hk.act"
-IMAGE  "bayonet_hk.e5b"
-WEIGHT  350 
-Resource  1000
-//------------------------------------------------------  
-Addon  "Beamshot 5000S (BM)"
-Laser  "Barrel Mount"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  30 
-Visible  1 
-ACTOR  "Items\bs_lam_bm.act"
-IMAGE  "bs_lam_bm.e5b"
-WEIGHT  210 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Beamshot 5000S (HK)"
-Laser  "HK"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  30 
-Visible  1 
-ACTOR  "Items\bs_lam_hk.act"
-IMAGE  "bs_lam_hk.e5b"
-WEIGHT  180 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Beamshot 5000S (WR)"
-Laser  "WR"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  30 
-Visible  1 
-ACTOR  "Items\bs_lam_wr.act"
-IMAGE  "bs_lam_wr.e5b"
-WEIGHT  160 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "ANPEQ Laser"
-Laser  "WRRifle"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  45 
-Visible  1 
-ACTOR  "Items\anpeq2.act"
-IMAGE  "anpeq2.e5b"
-WEIGHT  400 
-Resource  1000 
-//------------------------------------------------------  
-
-Addon  "ANPEQ 15 Laser"
-Laser  "WRRifle"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  45 
-Visible  1 
-ACTOR  "Items\anpeq15.act"
-IMAGE  "anpeq15.e5b"
-WEIGHT  200 
-Resource  1000 
-
-//------------------------------------------------------  
-Addon  "ANPEQ 15 Laser Black"
-Laser  "WRRifle"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  45 
-Visible  1 
-ACTOR  "Items\anpeq15blk.act"
-IMAGE  "anpeq15blk.e5b"
-WEIGHT  200 
-Resource  1000
-
-//------------------------------------------------------  
-Addon  "DBAL A2"
-Laser  "WRRifle"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  65 
-Visible  1 
-ACTOR  "Items\dbala2.act"
-IMAGE  "dbala2.e5b"
-WEIGHT  300 
-Resource  1000
-
-//------------------------------------------------------  
 Addon  "BS-1"
 ILauncher  "built-in"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
@@ -1886,19 +1897,7 @@ Sound  "None""None"
 ACTOR  "Items\rgo-rgn-lever.act"
 IMAGE  "None"
 WEIGHT  1 
-Resource  0 
-//------------------------------------------------------ 
-Addon  "Docter Sight (Pistol)"
-Scope  "PistolDocter"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "collimator_eot_552.e6b"
-Distance  30 
-ACTOR  "Items\doctersightmini.act"
-IMAGE  "docter_pistol.e5b"
-WEIGHT  18 
-Resource  7000 
-
+Resource  0
 //------------------------------------------------------  
 Addon  "BFR Scope"
 Scope  "Revolver Scope"
@@ -1934,7 +1933,18 @@ Distance  50
 ACTOR  "Items\aek919k_scope.act"
 IMAGE  "pk23-02.e5b"
 WEIGHT  250 
-Resource  4000 
+Resource  4000
+//------------------------------------------------------  
+Addon  "Collimator Aimpoint Comp M (Scout)"
+Scope  "Scout"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "collimator_aimpoint_comp_M.e6b"
+Distance  100 
+ACTOR  "Items\AimpointCompM_scout.act"
+IMAGE  "AimpointCompM_wr.e5b"
+WEIGHT  295 
+Resource  5000 
 //------------------------------------------------------  
 Addon  "Collimator Aimpoint Comp M (AK)"
 Scope  "AK"
@@ -2034,6 +2044,17 @@ ACTOR  "Items\CompM_wrh.act"
 IMAGE  "CompM_wrh.e5b"
 WEIGHT  595 
 Resource  5000 
+//------------------------------------------------------ 
+Addon  "Docter Sight (Pistol)"
+Scope  "PistolDocter"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "collimator_eot_552.e6b"
+Distance  30 
+ACTOR  "Items\doctersightmini.act"
+IMAGE  "docter_pistol.e5b"
+WEIGHT  18 
+Resource  7000
 //------------------------------------------------------ 
 Addon  "Docter Sight (WR)"
 Scope  "WR"
@@ -3182,6 +3203,17 @@ ACTOR  "Items\CROSSFIRE_12GA.ACT"
 IMAGE  "crossfire_12ga.e5b"
 WEIGHT  0 
 Resource  10000 
+//------------------------------------------------------ 
+Addon  "EOTech Holosight 552 (Scout)"
+Scope  "Scout"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "collimator_eot_552.e6b"
+Distance  110 
+ACTOR  "Items\EOTech552_scout.act"
+IMAGE  "EOTech552_WR.e5b"
+WEIGHT  326 
+Resource  2000 
 //------------------------------------------------------  
 Addon  "EOTech Holosight 552 (AK)"
 Scope  "AK"
@@ -3214,7 +3246,18 @@ Distance  110
 ACTOR  "Items\EOTech552_HK.act"
 IMAGE  "EOTech552_HK.e5b"
 WEIGHT  426 
-Resource  2000 
+Resource  2000
+//------------------------------------------------------  
+Addon  "EOTech Holosight 552 (Galil)"
+Scope  "Galil"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "collimator_eot_552.e6b"
+Distance  110 
+ACTOR  "Items\EOTech552_gal_2.act"
+IMAGE  "EOTech552_M14.e5b"
+WEIGHT  430 
+Resource  2000
 //------------------------------------------------------  
 Addon  "EOTech Holosight 552 (M14)"
 Scope  "M14_Scope"
@@ -3329,14 +3372,6 @@ IMAGE  "None"
 WEIGHT  0 
 Resource  0 
 //------------------------------------------------------  
-Addon  "G36 bipod"
-Bipod  "G36_bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\g36_bipod.act"
-IMAGE  "g36_bipod.e5b"
-WEIGHT  150 
-Resource  0 
-//------------------------------------------------------  
 Addon  "G36 butt"
 Stock  "built-in"
 Sound  "None""None"
@@ -3353,17 +3388,6 @@ IMAGE  "None"
 WEIGHT  0 
 Resource  0 
 //------------------------------------------------------  
-Addon  "G36 Handle"
-Scope  "HK G36 Scope"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56 
-ACTOR  "Items\g36c_sight.act"
-IMAGE  "g36c_sight.e5b"
-WEIGHT  150 
-Resource  10000 
-//------------------------------------------------------  
 Addon  "G36Cbutt"
 Stock  "built-in"
 Sound  "None""None"
@@ -3379,26 +3403,6 @@ ACTOR  "Items\g36c_butt_folded.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-//------------------------------------------------------  
-Addon  "G3SG1 bipod"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\G3SG1bipod.act"
-IMAGE  "G3SG1bipod.e5b"
-WEIGHT  300 
-Resource  1000
-//------------------------------------------------------  
-Addon  "GP-30 (40mm VOG)"
-ILauncher  "GP-30"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\GP30.wav"
-GrenadeType  "40 мм (ГП)"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\gp-30.act"
-IMAGE  "GP30.e5b"
-WEIGHT  1300 
-Resource  11000
 //------------------------------------------------------  
 Addon  "Grenade Ring (East)"
 Stock  "built-in"
@@ -3456,73 +3460,6 @@ ACTOR  "Items\groza_silencer.act"
 IMAGE  "groza_silencer.e5b"
 WEIGHT  500
 Resource  2300 
-
-//------------------------------------------------------  
-Addon  "Harris Bipod WR"
-Bipod  "WR"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\harris_wr.act"
-IMAGE  "harris.e5b"
-WEIGHT  550 
-Resource  0 
-//------------------------------------------------------  
-Addon  "HK Integrated Bipod"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\hk23e-bipod.act"
-IMAGE  "mg3_bipod.e5b"
-WEIGHT  300 
-Resource  3000 
-//------------------------------------------------------  
-Addon  "Insight M3 Tactical Flashlight (BM)"
-Light  "Barrel Mount"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  20 
-Visible  1 
-ACTOR  "Items\m3_tf_bm.act"
-IMAGE  "m3_tf_bm.e5b"
-WEIGHT  145 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Insight M3 Tactical Flashlight (HK)"
-Light  "HK"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  20 
-Visible  1 
-ACTOR  "Items\m3_tf_hk.act"
-IMAGE  "m3_tf_hk.e5b"
-WEIGHT  115 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Insight M3 Tactical Flashlight (WR)"
-Light  "WR"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  20 
-Visible  1 
-ACTOR  "Items\m3_tf_wr.act"
-IMAGE  "m3_tf_wr.e5b"
-WEIGHT  95 
-Resource  1000 
-//------------------------------------------------------ 
-Addon  "Universal Tactical Light (Rifle)"
-Light  "WRRifle"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  25 
-Visible  1 
-ACTOR  "Items\rifle_tl.act"
-IMAGE  "RifleLight.e5b"
-WEIGHT  100 
-Resource  1000 
-//------------------------------------------------------ 
-Addon  "Universal Tactical Light Black (Rifle)"
-Light  "WRRifle"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  25 
-Visible  1 
-ACTOR  "Items\rifle_tlblk.act"
-IMAGE  "RifleLight.e5b"
-WEIGHT  100 
-Resource  1000 
 //------------------------------------------------------  
 Addon  "Integr M203B (40mm LV)"
 ILauncher  "built-in"
@@ -3591,94 +3528,6 @@ IMAGE  "mp5sd6silencer.e5b"
 WEIGHT  0 
 Resource  2300 
 //------------------------------------------------------  
-Addon  "Machete"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\machete.act"
-IMAGE  "machete.e5b"
-WEIGHT  2500 
-Resource  1000
-//------------------------------------------------------  
-Addon  "kol"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\kol.act"
-IMAGE  "kol.e5b"
-WEIGHT  100 
-Resource  30
-//------------------------------------------------------  
-Addon  "Cuchillo"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\cuchillo.act"
-IMAGE  "cuchillo.e5b"
-WEIGHT  250 
-Resource  1000
-//------------------------------------------------------  
-Addon  "throw knive"
-Bayonet  "throw"
-Sound  "None""None"
-ACTOR  "Items\throwknive.act"
-IMAGE  "throwknive.e5b"
-WEIGHT  250 
-Resource  500
-//------------------------------------------------------
-Addon  "Cuchillo de Combate"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\cuchillo_c.act"
-IMAGE  "cuchillo_c.e5b"
-WEIGHT  275 
-Resource  1000
-//------------------------------------------------------  
-Addon  "Cuchillo tactico"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\cuchillo_t.act"
-IMAGE  "cuchillo_t.e5b"
-WEIGHT  250 
-Resource  1000
-//------------------------------------------------------
-Addon  "Cuchillo Tora"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\cuchillo_k.act"
-IMAGE  "cuchillo_k.e5b"
-WEIGHT  280 
-Resource  1000
-//------------------------------------------------------
-Addon  "Daga"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\daga.act"
-IMAGE  "cuchillo_d.e5b"
-WEIGHT  275 
-Resource  1000
-//------------------------------------------------------  
-Addon  "kabar"
-Bayonet  "Knifes"
-Sound  "Addon\PlugSound\""Addon\UnplugSound\"
-ACTOR  "Items\kabar.act"
-IMAGE  "kabar.e5b"
-WEIGHT  290 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "sas_dagger"
-Bayonet  "Knifes"
-Sound  "None""None"
-ACTOR  "Items\sas_dagger.act"
-IMAGE  "sas_dagger.e5b"
-WEIGHT  270 
-Resource  700
-//------------------------------------------------------  
-Addon  "smersh5"
-Bayonet  "Knifes"
-Sound  "None""None"
-ACTOR  "Items\smersh5.act"
-IMAGE  "smersh5.e5b"
-WEIGHT  250 
-Resource  1000
-//------------------------------------------------------  
 Addon  "kc23butt"
 Stock  "built-in"
 Sound  "None""None"
@@ -3695,68 +3544,6 @@ IMAGE  "None"
 WEIGHT  0 
 Resource  0 
 //------------------------------------------------------  
-Addon  "Knight Masterkey Shotgun (12 ga)"
-ILauncher  "M203"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M1014.wav"
-GrenadeType  "12 калибр"
-GrenadeCount  3 
-IsLauncher  0 
-ACTOR  "Items\masterkey.act"
-IMAGE  "masterkey.e5b"
-WEIGHT  2500 
-Resource  9500 
-//------------------------------------------------------  
-Addon  "Knight Masterkey Shotgun AK (12 ga)"
-ILauncher  "GP-30"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M1014.wav"
-GrenadeType  "12 калибр"
-GrenadeCount  3 
-IsLauncher  0 
-ACTOR  "Items\masterkey_ak.act"
-IMAGE  "masterkey_ak.e5b"
-WEIGHT  2650 
-Resource  9500 
-//------------------------------------------------------  
-Addon  "L85A2 Handle"
-Scope  "SA80 Handle"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56 
-ACTOR  "Items\l85a2_scope.act"
-IMAGE  "l85-sight.e5b"
-WEIGHT  260 
-Resource  10000 
-
-//------------------------------------------------------  
-Addon  "L86_Bipod"
-Bipod  "L86_Bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\l86_bipod.act"
-IMAGE  "l86_bipod.e5b"
-WEIGHT  380 
-Resource  0 
-//------------------------------------------------------  
-Addon  "L96A1 bipod"
-Bipod  "L96A1 bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\L96a1_bipod.act"
-IMAGE  "l96_bipod.e5b"
-WEIGHT  470 
-Resource  0 
-//------------------------------------------------------  
-Addon  "Laser Aiming Module (F2000)"
-Laser  "F2000 Laser"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  50 
-Visible  1 
-ACTOR  "Items\f2000-laser.act"
-IMAGE  "f2000-laser.e5b"
-WEIGHT  210 
-Resource  800 
-//------------------------------------------------------  
 Addon  "Laser Aiming Module (Rifle)"
 Laser  "built-in"
 Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
@@ -3766,188 +3553,6 @@ ACTOR  "Items\rifle-laser.act"
 IMAGE  "rifle-laser.e5b"
 WEIGHT  150 
 Resource  1000 
-//------------------------------------------------------  
-Addon  "M16 Handle"
-Scope  "m16a3"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56
-ACTOR  "Items\m16a3sight.act"
-IMAGE  "m16handle.e5b"
-WEIGHT  230 
-Resource  10000 
-// ------------------------------------------------------  
-Addon  "M4A1 Handle"
-Scope  "m16a3"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56 
-ACTOR  "Items\M4A1_Handle.act"
-IMAGE  "m16handle.e5b"
-WEIGHT  300 
-Resource  10000 
-// ------------------------------------------------------  
-Addon  "SS2 Handle"
-Scope  "SS2"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56 
-ACTOR  "Items\ss2handle.act"
-IMAGE  "ss2handle.e5b"
-WEIGHT  300 
-Resource  10000 
-// ------------------------------------------------------  
-Addon  "T65 Handle"
-Scope  "T65H"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56 
-ACTOR  "Items\ss2handle.act"
-IMAGE  "ss2handle.e5b"
-WEIGHT  300 
-Resource  10000 
-// ------------------------------------------------------  
-Addon  "AR7090 Handle"
-Scope  "AR7090Handle"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  56 
-ACTOR  "Items\ar7090handle.act"
-IMAGE  "ss2handle.e5b"
-WEIGHT  300 
-Resource  10000 
-
-
-//------------------------------------------------------  
-Addon  "QLG91B (35mm)"
-ILauncher  "Type 91B"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "35mm GL"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\qlg91.act"
-IMAGE  "m203b.e5b"
-WEIGHT  1360 
-Resource  9500
-
-
-
-//------------------------------------------------------  
-Addon  "QLG10A (35mm)"
-ILauncher  "35mm Caseless"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "35mm GL Caseless"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\qlg10a.act"
-IMAGE  "m203b.e5b"
-WEIGHT  900 
-Resource  9500
-
-
-//------------------------------------------------------  
-Addon  "QLG10 (35mm)"
-ILauncher  "Type 91B"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "35mm GL Caseless"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\qlg10.act"
-IMAGE  "m203b.e5b"
-WEIGHT  900 
-Resource  9500
-
-//------------------------------------------------------  
-Addon  "m203 sight"
-Scope  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "M16.e6b"
-Distance  70 
-ACTOR  "Items\m203sight.act"
-IMAGE  "m203sight.e5b"
-WEIGHT  0 
-Resource  10000 
-//------------------------------------------------------  
-Addon  "M203B (40mm LV)"
-ILauncher  "M203"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\m203.act"
-IMAGE  "m203b.e5b"
-WEIGHT  1360 
-Resource  9500
-//------------------------------------------------------  
-Addon  "M203PI (40mm LV)"
-ILauncher  "M203PI"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\m203pi.act"
-IMAGE  "pi-m203.e5b"
-WEIGHT  1200 
-Resource  9500
-//------------------------------------------------------  
-Addon  "M302 (40mm)"
-ILauncher  "M203"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\M320.act"
-IMAGE  "M302.e5b"
-WEIGHT  1500 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "hk79 launcher"
-ILauncher  "hk"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\hk79.act"
-IMAGE  "hk79.e5b"
-WEIGHT  1500 
-Resource  9500 
-//------------------------------------------------------  
-Addon  "Scar launcher"
-ILauncher  "Scar"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\scar-gl.act"
-IMAGE  "scar-gl.e5b"
-WEIGHT  1600 
-Resource  9500 
-//------------------------------------------------------  
-Addon  "F2000 Launcher"
-ILauncher  "F2000 Launcher"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M203.wav"
-GrenadeType  "40 мм"
-GrenadeCount  1 
-IsLauncher  1 
-ACTOR  "Items\F2000-launcher.act"
-IMAGE  "F2000-launcher.e5b"
-WEIGHT  1100 
-Resource  9500
 //------------------------------------------------------  
 Addon  "m3a1butt"
 Stock  "built-in"
@@ -4188,14 +3793,6 @@ IMAGE  "None"
 WEIGHT  0 
 Resource  0 
 //------------------------------------------------------  
-Addon  "Mosin_bayonet"
-Bayonet  "Mosin_Bayonet"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\mosin_bayonet.act"
-IMAGE  "bayonet_mosin.e5b"
-WEIGHT  380 
-Resource  1000
-//------------------------------------------------------  
 Addon  "MP M203"
 ILauncher  "built-in"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
@@ -4238,15 +3835,7 @@ Sound  "None""None"
 ACTOR  "Items\mp5butt_folded.act"
 IMAGE  "None"
 WEIGHT  0 
-Resource  0 
-//------------------------------------------------------  
-Addon  "NDK"
-Bayonet  "Knifes"
-Sound  "None""None"
-ACTOR  "Items\ndk.act"
-IMAGE  "ndk.e5b"
-WEIGHT  270 
-Resource  700
+Resource  0
 //------------------------------------------------------  
 Addon  "Night Sight 1P69 Giperon+KN250 (WR)"
 Scope  "WR"
@@ -4260,7 +3849,7 @@ BlocksAiming  1
 ACTOR  "Items\sv98kn250_optic.act"
 IMAGE  "sv98kn250_optic.e5b"
 WEIGHT  2200 
-Resource  3000 
+Resource  3000
 //------------------------------------------------------  
 Addon  "Night Sight 1PN93-1 (AK)"
 Scope  "AK"
@@ -4316,7 +3905,21 @@ BlocksAiming  1
 ACTOR  "Items\anpvs4_g36.act"
 IMAGE  "anpvs4_g36.e5b"
 WEIGHT  2080 
-Resource  800 
+Resource  800
+//------------------------------------------------------  
+Addon  "Night Sight AN/PVS-4 (Galil)"
+Scope  "Galil"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+NightScope  "AN-PVS-4 (M16).e6b"
+ViewAngle  15 
+Distance  250 
+ShadowImpact  0.15 
+BlocksAiming  1 
+ACTOR  "Items\anpvs4_gal_2.act"
+IMAGE  "anpvs4_m14.e5b"
+WEIGHT  2030 
+Resource  800
 //------------------------------------------------------  
 Addon  "Night Sight AN/PVS-4 (M14)"
 Scope  "M14_Scope"
@@ -4485,7 +4088,21 @@ BlocksAiming  1
 ACTOR  "Items\leupold10x40kn250_g36.act"
 IMAGE  "leupold10x40kn250_g36.e5b"
 WEIGHT  1865 
-Resource  2500 
+Resource  2500
+//------------------------------------------------------  
+Addon  "Night Sight Leupold Mark4+KN250 (Galil)"
+Scope  "Galil"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+NightScope  "scope_10x42_Leupold_Ultra_M3A(M24).e6b"
+ViewAngle  2 
+Distance  300 
+ShadowImpact  0.13 
+BlocksAiming  1 
+ACTOR  "Items\leupold10x40kn250_gal_2.act"
+IMAGE  "leupold10x40kn250_m14.e5b"
+WEIGHT  1815 
+Resource  2500
 //------------------------------------------------------  
 Addon  "Night Sight Leupold Mark4+KN250 (M14)"
 Scope  "M14_Scope"
@@ -4655,17 +4272,6 @@ IMAGE  "hensoldt6x42blkn250.e5b"
 WEIGHT  1480 
 Resource  3000 
 //------------------------------------------------------  
-Addon  "Optical Sight (F2000)"
-Scope  "F2000 Scope"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-Scope  
-Collimator  "scope_F2000.e6b"
-Distance  120 
-ACTOR  "Items\f2000-sight.act"
-IMAGE  "f2000-sight.e5b"
-WEIGHT  390 
-Resource  15000 
-//------------------------------------------------------  
 Addon   "Vektor CR-21 Scope"
 Scope  "built-in"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
@@ -4717,7 +4323,21 @@ BlocksAiming  0
 ACTOR  "Items\acog_g36.act"
 IMAGE  "acog_g36.e5b"
 WEIGHT  565 
-Resource  2500 
+Resource  2500
+//------------------------------------------------------  
+Addon  "Optical Sight ACOG 4x32 (Galil)"
+Scope  "Galil"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+DayScope  "ACOG-11 4X32(WR).e6b"
+ViewAngle  7 
+Distance  350 
+ShadowImpact  0.9 
+BlocksAiming  0 
+ACTOR  "Items\acog_gal_2.act"
+IMAGE  "acog_m14.e5b"
+WEIGHT  515 
+Resource  2500
 //------------------------------------------------------  
 Addon  "Optical Sight ACOG 4x32 (M14)"
 Scope  "M14_Scope"
@@ -4802,7 +4422,20 @@ ACTOR  "Items\acog_wr.act"
 IMAGE  "acog_wr.e5b"
 WEIGHT  415 
 Resource  2500 
-
+//------------------------------------------------------  
+Addon  "Optical Sight ACOG 4x32 (Scout)"
+Scope  "Scout"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+DayScope  "ACOG-11 4X32(WR).e6b"
+ViewAngle  7 
+Distance  350 
+ShadowImpact  0.9 
+BlocksAiming  0 
+ACTOR  "Items\acog_scout.act"
+IMAGE  "acog_wr.e5b"
+WEIGHT  415 
+Resource  2500
 //------------------------------------------------------
 Addon  "Optical Sight Elcan 3.4x28 (C7)"
 Scope  "WR"
@@ -5083,7 +4716,17 @@ ACTOR  "Items\elcan_m16.act"
 IMAGE  "elcan_m16.e5b"
 WEIGHT  790 
 Resource  2500 
-//------------------------------------------------------ 
+//------------------------------------------------------  
+Addon  "Optical Sight (F2000)"
+Scope  "F2000 Scope"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "scope_F2000.e6b"
+Distance  120 
+ACTOR  "Items\f2000-sight.act"
+IMAGE  "f2000-sight.e5b"
+WEIGHT  390 
+Resource  15000
 //------------------------------------------------------  
 Addon  "Optical Sight Hendsoldt G36E 1.5x (G36)"
 Scope  "HK G36 Scope"
@@ -5386,6 +5029,20 @@ BlocksAiming  1
 ACTOR  "Items\leupold10x40_g36.act"
 IMAGE  "leupold10x40_g36.e5b"
 WEIGHT  865 
+Resource  2500
+//------------------------------------------------------  
+Addon  "Optical Sight Leupold Mark 4 10x40 (Galil)"
+Scope  "Galil"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+DayScope  "scope_10x42_Leupold_Ultra_M3A(M24).e6b"
+ViewAngle  2 
+Distance  740 
+ShadowImpact  0.9 
+BlocksAiming  0 
+ACTOR  "Items\leupold10x40_gal_2.act"
+IMAGE  "leupold10x40_m14.e5b"
+WEIGHT  815 
 Resource  2500 
 //------------------------------------------------------  
 Addon  "Optical Sight Leupold Mark 4 10x40 (M14)"
@@ -5698,7 +5355,7 @@ BlocksAiming  1
 ACTOR  "Items\hensoldt6x42bl.act"
 IMAGE  "hensoldt6x42bl.e5b"
 WEIGHT  480 
-Resource  3000 
+Resource  3000
 //------------------------------------------------------  
 Addon  "Optical Sight Zrak M89 (Z)"
 Scope  "Zrak"
@@ -5832,15 +5489,6 @@ ACTOR  "Items\rpk74m-butt folded.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-
-//------------------------------------------------------  
-Addon  "Scar_bipod"
-Bipod  "Scar"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\l86_bipod.act"
-IMAGE  "scar-bp.e5b"
-WEIGHT  290 
-Resource  1000 
 //------------------------------------------------------  
 Addon  "SD5 silencer"
 Silencer  "built-in"
@@ -5884,7 +5532,6 @@ ACTOR  "Items\sig550novastockfolded.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-
 //------------------------------------------------------  
 Addon  "Sks bayonet"
 Bayonet  "built-in"
@@ -5893,22 +5540,6 @@ ACTOR  "Items\SKS_bayonet.act"
 IMAGE  "bayonet_sks.e5b"
 WEIGHT  143
 Resource  1000
-//------------------------------------------------------  
-Addon  "Sniper Bipod (DSR-1)"
-Bipod  "built-in"
-Sound  "None""None"
-ACTOR  "Items\dsr_bipod.act"
-IMAGE  "dsr_bipod.e5b"
-WEIGHT  260 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Sniper Bipod Series 1A2"
-Bipod  "SniperBipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\harris.act"
-IMAGE  "harris.e5b"
-WEIGHT  500 
-Resource  0 
 //------------------------------------------------------  
 Addon  "SPAS12 butt"
 Stock  "built-in"
@@ -5925,7 +5556,6 @@ ACTOR  "Items\spas12_butt_closed.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-
 //------------------------------------------------------  
 Addon  "sr3butt"
 Stock  "built-in"
@@ -5953,106 +5583,6 @@ ACTOR  "Items\g11-sight.act"
 IMAGE  "g11-sight.e5b"
 WEIGHT  500 
 Resource  15000 
-
-//------------------------------------------------------  
-Addon  "Surefire CUS Flashlight (BM)"
-Light  "Barrel Mount"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  30 
-Visible  1 
-ACTOR  "Items\cus_tf_bm.act"
-IMAGE  "cus_tf_bm.e5b"
-WEIGHT  270 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS Flashlight (HK)"
-Light  "HK"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  30 
-Visible  1 
-ACTOR  "Items\cus_tf_hk.act"
-IMAGE  "cus_tf_hk.e5b"
-WEIGHT  240 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS Flashlight (WR)"
-Light  "WR"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  30 
-Visible  1 
-ACTOR  "Items\cus_tf_wr.act"
-IMAGE  "cus_tf_wr.e5b"
-WEIGHT  220 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS IR-Laser Sight (BM)"
-Laser  "Barrel Mount"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  50 
-Visible  0 
-ACTOR  "Items\cus_irlam_bm.act"
-IMAGE  "cus_irlam_bm.e5b"
-WEIGHT  350 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS IR-Laser Sight (HK)"
-Laser  "HK"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  50 
-Visible  0 
-ACTOR  "Items\cus_irlam_hk.act"
-IMAGE  "cus_irlam_hk.e5b"
-WEIGHT  320 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS IR-Laser Sight (WR)"
-Laser  "WR"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  50 
-Visible  0 
-ACTOR  "Items\cus_irlam_wr.act"
-IMAGE  "cus_irlam_wr.e5b"
-WEIGHT  300 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS Laser Sight (BM)"
-Laser  "Barrel Mount"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  40 
-Visible  1 
-ACTOR  "Items\cus_lam_bm.act"
-IMAGE  "cus_lam_bm.e5b"
-WEIGHT  350 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS Laser Sight (HK)"
-Laser  "HK"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  40 
-Visible  1 
-ACTOR  "Items\cus_lam_hk.act"
-IMAGE  "cus_lam_hk.e5b"
-WEIGHT  320 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "Surefire CUS Laser Sight (WR)"
-Laser  "WR"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  40 
-Visible  1 
-ACTOR  "Items\cus_lam_wr.act"
-IMAGE  "cus_lam_wr.e5b"
-WEIGHT  300 
-Resource  1000 
-//------------------------------------------------------  
-Addon  "SV98 bipod"
-Bipod  "СВ98"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\sv98_bipod.act"
-IMAGE  "sv98_bipod.e5b"
-WEIGHT  450 
-Resource  0 
-
 //------------------------------------------------------  
 Addon  "svds-butt"
 Stock  "built-in"
@@ -6070,14 +5600,6 @@ IMAGE  "None"
 WEIGHT  0 
 Resource  0 
 //------------------------------------------------------  
-Addon  "SVU bipod"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\svu_bipod.act"
-IMAGE  "svu_bipod.e5b"
-WEIGHT  1200 
-Resource  0 
-//------------------------------------------------------  
 Addon  "SVU Silencer"
 Silencer  "built-in"
 Sound  "Addon\PlugSound\""Addon\UnplugSound\"
@@ -6086,7 +5608,194 @@ SilencingValue  0.88
 ACTOR  "Items\svu_silencer.act"
 IMAGE  "svu_silencer.e5b"
 WEIGHT  0 
-Resource  2500 
+Resource  2500
+//------------------------------------------------------  
+Addon  "M203 AK (40mm LV)"
+ILauncher  "GP-30"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\m203_ak.act"
+IMAGE  "m203b.e5b"
+WEIGHT  1360 
+Resource  9500
+//------------------------------------------------------  
+Addon  "GP-30 (40mm VOG)"
+ILauncher  "GP-30"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\GP30.wav"
+GrenadeType  "40 мм (ГП)"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\gp-30.act"
+IMAGE  "GP30.e5b"
+WEIGHT  1300 
+Resource  11000
+//------------------------------------------------------  
+Addon  "QLG91B (35mm)"
+ILauncher  "Type 91B"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "35mm GL"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\qlg91.act"
+IMAGE  "m203b.e5b"
+WEIGHT  1360 
+Resource  9500
+//------------------------------------------------------  
+Addon  "QLG10A (35mm)"
+ILauncher  "35mm Caseless"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "35mm GL Caseless"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\qlg10a.act"
+IMAGE  "m203b.e5b"
+WEIGHT  900 
+Resource  9500
+//------------------------------------------------------  
+Addon  "QLG10 (35mm)"
+ILauncher  "Type 91B"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "35mm GL Caseless"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\qlg10.act"
+IMAGE  "m203b.e5b"
+WEIGHT  900 
+Resource  9500
+//------------------------------------------------------  
+Addon  "m203 sight"
+Scope  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  70 
+ACTOR  "Items\m203sight.act"
+IMAGE  "m203sight.e5b"
+WEIGHT  0 
+Resource  10000
+//------------------------------------------------------  
+Addon  "IMC-40 (40mm LV)"
+ILauncher  "IMC40"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\IMC40_gal.act"
+IMAGE  "imc-40.e5b"
+WEIGHT  1180 
+Resource  9500
+//------------------------------------------------------  
+Addon  "M203B (40mm LV)"
+ILauncher  "M203"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\m203.act"
+IMAGE  "m203b.e5b"
+WEIGHT  1360 
+Resource  9500
+//------------------------------------------------------  
+Addon  "M203PI (40mm LV)"
+ILauncher  "M203PI"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\m203pi.act"
+IMAGE  "pi-m203.e5b"
+WEIGHT  1200 
+Resource  9500
+//------------------------------------------------------  
+Addon  "M302 (40mm)"
+ILauncher  "M203"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\M320.act"
+IMAGE  "M302.e5b"
+WEIGHT  1500 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "hk79 launcher"
+ILauncher  "hk"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\hk79.act"
+IMAGE  "hk79.e5b"
+WEIGHT  1500 
+Resource  9500 
+//------------------------------------------------------  
+Addon  "Scar launcher"
+ILauncher  "Scar"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\scar-gl.act"
+IMAGE  "scar-gl.e5b"
+WEIGHT  1600 
+Resource  9500 
+//------------------------------------------------------  
+Addon  "F2000 Launcher"
+ILauncher  "F2000 Launcher"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M203.wav"
+GrenadeType  "40 мм"
+GrenadeCount  1 
+IsLauncher  1 
+ACTOR  "Items\F2000-launcher.act"
+IMAGE  "F2000-launcher.e5b"
+WEIGHT  1100 
+Resource  9500
+//------------------------------------------------------  
+Addon  "Knight Masterkey Shotgun (12 ga)"
+ILauncher  "M203"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M1014.wav"
+GrenadeType  "12 калибр"
+GrenadeCount  3 
+IsLauncher  0 
+ACTOR  "Items\masterkey.act"
+IMAGE  "masterkey.e5b"
+WEIGHT  2500 
+Resource  9500 
+//------------------------------------------------------  
+Addon  "Knight Masterkey Shotgun AK (12 ga)"
+ILauncher  "GP-30"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M1014.wav"
+GrenadeType  "12 калибр"
+GrenadeCount  3 
+IsLauncher  0 
+ACTOR  "Items\masterkey_ak.act"
+IMAGE  "masterkey_ak.e5b"
+WEIGHT  2650 
+Resource  9500
+//------------------------------------------------------  
+Addon  "Tactical grip"
+Bipod  "WR"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\assaultgrip_01.act"
+IMAGE  "assaultgrip_01.e5b"
+WEIGHT  200 
+Resource  1000
 //------------------------------------------------------  
 Addon  "Tactical Bipod TL-BP16"
 Bipod  "AssaultBipod"
@@ -6094,7 +5803,199 @@ Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR  "Items\assault_std_bipod.act"
 IMAGE  "AssaultBipod.e5b"
 WEIGHT  400 
+Resource  0
+//------------------------------------------------------  
+Addon  "Tactical Bipod BM"
+Bipod  "BM1"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\std_bipod.act"
+IMAGE  "l96_bipod.e5b"
+WEIGHT  350 
+Resource 1000
+//------------------------------------------------------  
+Addon  "Tactical Bipod BM folded"
+Bipod  "BM1"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\std_bipod_folded.act"
+IMAGE  "l96_bipod.e5b"
+WEIGHT  350
+Resource  1000
+//------------------------------------------------------  
+Addon  "Sniper Bipod Series 1A2"
+Bipod  "SniperBipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\harris.act"
+IMAGE  "harris.e5b"
+WEIGHT  500 
 Resource  0 
+//------------------------------------------------------  
+Addon  "Sniper Bipod Series 1A2 folded"
+Bipod  "SniperBipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\harris_folded.act"
+IMAGE  "harris.e5b"
+WEIGHT  500 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Harris Bipod WR"
+Bipod  "WR"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\harris_wr.act"
+IMAGE  "harris.e5b"
+WEIGHT  550 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Harris Bipod WR folded"
+Bipod  "WR"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\harris_wr_folded.act"
+IMAGE  "harris.e5b"
+WEIGHT  550 
+Resource  1000
+//------------------------------------------------------  
+Addon  "HK Integrated Bipod"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\hk23e-bipod.act"
+IMAGE  "mg3_bipod.e5b"
+WEIGHT  300 
+Resource  3000 
+//------------------------------------------------------  
+Addon  "HK Integrated Bipod folded"
+Bipod  "built-in"
+Sound  "None""None"
+ACTOR  "Items\hk23e-bipod_folded.act"
+IMAGE  "mg3_bipod.e5b"
+WEIGHT  300 
+Resource  1000
+//------------------------------------------------------  
+Addon  "Scar_bipod"
+Bipod  "Scar"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\l86_bipod.act"
+IMAGE  "scar-bp.e5b"
+WEIGHT  290 
+Resource  1000
+//------------------------------------------------------  
+Addon  "SSG08 Bipod"
+Bipod  "SSG08 Bipod Mount"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\ssg08bipod.act"
+IMAGE  "harris.e5b"
+WEIGHT  500 
+Resource  0 
+//------------------------------------------------------  
+Addon  "G36 bipod"
+Bipod  "G36_bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\g36_bipod.act"
+IMAGE  "g36_bipod.e5b"
+WEIGHT  150 
+Resource  0
+//------------------------------------------------------  
+Addon  "G36 bipod folded"
+Bipod  "G36_bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\g36_bipod_folded.act"
+IMAGE  "g36_bipod.e5b"
+WEIGHT  150 
+Resource  1000
+//------------------------------------------------------  
+Addon  "G3SG1 bipod"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\G3SG1bipod.act"
+IMAGE  "G3SG1bipod.e5b"
+WEIGHT  300 
+Resource  1000
+//------------------------------------------------------  
+Addon  "G3SG1 bipod folded"
+Bipod  "built-in"
+Sound  "None""None"
+ACTOR  "Items\G3SG1bipod_folded.act"
+IMAGE  "G3SG1bipod.e5b"
+WEIGHT  300 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Sniper Bipod (DSR-1)"
+Bipod  "built-in"
+Sound  "None""None"
+ACTOR  "Items\dsr_bipod.act"
+IMAGE  "dsr_bipod.e5b"
+WEIGHT  260 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "Sniper Bipod (DSR-1) folded"
+Bipod  "built-in"
+Sound  "None""None"
+ACTOR  "Items\dsr_bipod_folded.act"
+IMAGE  "dsr_bipod.e5b"
+WEIGHT  260 
+Resource  1000
+//------------------------------------------------------  
+Addon  "SV98 bipod"
+Bipod  "SV98"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\sv98_bipod.act"
+IMAGE  "sv98_bipod.e5b"
+WEIGHT  450 
+Resource  0 
+//------------------------------------------------------  
+Addon  "SV98 bipod folded"
+Bipod  "SV98"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\sv98_bipod_folded.act"
+IMAGE  "sv98_bipod.e5b"
+WEIGHT  450 
+Resource  1000
+//------------------------------------------------------  
+Addon  "SVU bipod"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\svu_bipod.act"
+IMAGE  "svu_bipod.e5b"
+WEIGHT  1200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "SVU bipod folded"
+Bipod  "built-in"
+Sound  "None""None"
+ACTOR  "Items\svu_bipod_folded.act"
+IMAGE  "svu_bipod.e5b"
+WEIGHT  1200 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "L86_Bipod"
+Bipod  "L86_Bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\l86_bipod.act"
+IMAGE  "l86_bipod.e5b"
+WEIGHT  380 
+Resource  0 
+//------------------------------------------------------  
+Addon  "L86_Bipod folded"
+Bipod  "L86_Bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\l86_bipod_folded.act"
+IMAGE  "l86_bipod.e5b"
+WEIGHT  380 
+Resource  1000 
+//------------------------------------------------------  
+Addon  "L96A1 bipod"
+Bipod  "L96A1 bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\L96a1_bipod.act"
+IMAGE  "l96_bipod.e5b"
+WEIGHT  470 
+Resource  0
+//------------------------------------------------------  
+Addon  "L96A1 bipod folded"
+Bipod  "L96A1 bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\L96a1_bipod_folded.act"
+IMAGE  "l96_bipod.e5b"
+WEIGHT  470 
+Resource  1000
 //------------------------------------------------------  
 Addon  "SIG550 Bipod"
 Bipod  "SIG550Bipod"
@@ -6103,7 +6004,6 @@ ACTOR  "Items\sig550novabipodopen.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  0 
 Resource  0
-
 //------------------------------------------------------  
 Addon  "SIG550 Bipod Folded"
 Bipod  "SIG550Bipod"
@@ -6113,15 +6013,85 @@ IMAGE  "mg3_bipod.e5b"
 WEIGHT  0 
 Resource  0
 //------------------------------------------------------  
-Addon  "Tactical Light Module (F2000)"
-Light  "F2000 Light"
-Sound  "Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
-Distance  20 
-Visible  1 
-ACTOR  "Items\f2000-tl.act"
-IMAGE  "f2000-light.e5b"
-WEIGHT  250 
-Resource  1000 
+Addon  "Type 64 Bipod"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\t64bipod.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Type 89 Bipod"
+Bipod  "T89Bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\t89bipod.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Type 64 Bipod Folded"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\t64bipodfolded.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Type 89 Bipod Folded"
+Bipod  "T89Bipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\t89bipodfolded.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Famas Bipod"
+Bipod  "FamasBipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\famasbipod.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0
+//------------------------------------------------------  
+Addon  "Famas Bipod Folded"
+Bipod  "FamasBipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\famasbipodfolded.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Arisaka Bipod"
+Bipod  "ArisakaBipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\arisakabipod.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "Arisaka Bipod Folded"
+Bipod  "ArisakaBipod"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\arisakabipodfolded.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "FG42 Bipod"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\fg42bipod.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
+//------------------------------------------------------  
+Addon  "FG42 Bipod Folded"
+Bipod  "built-in"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\fg42bipodfolded.act"
+IMAGE  "minimi_bipod.e5b"
+WEIGHT  200 
+Resource  0 
 //------------------------------------------------------  
 Addon  "Type56 Neddle Bayonet"
 Bayonet  "built-in"
@@ -6129,8 +6099,7 @@ Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR  "Items\Type63_bayonet.act"
 IMAGE  "TYPE56_BAYONET.E5B"
 WEIGHT  230 
-Resource  1000 
-
+Resource  1000
 //------------------------------------------------------  
 Addon  "Ump45butt"
 Stock  "built-in"
@@ -7980,7 +7949,6 @@ ACTOR  "Items\galil_buttfolded.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-
 //------------------------------------------------------  
 Addon  "galil_grandebuttopen"
 Stock  "built-in"
@@ -8014,98 +7982,6 @@ ACTOR  "Items\falbuttdark-folded.act"
 IMAGE  "None"
 WEIGHT  0 
 Resource  0 
-
-
-
-//------------------------------------------------------  
-Addon  "Type 64 Bipod"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\t64bipod.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-//------------------------------------------------------  
-Addon  "Type 89 Bipod"
-Bipod  "T89Bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\t89bipod.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-//------------------------------------------------------  
-Addon  "Type 64 Bipod Folded"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\t64bipodfolded.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-//------------------------------------------------------  
-Addon  "Type 89 Bipod Folded"
-Bipod  "T89Bipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\t89bipodfolded.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-//------------------------------------------------------  
-Addon  "Famas Bipod"
-Bipod  "FamasBipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\famasbipod.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-//------------------------------------------------------  
-Addon  "Famas Bipod Folded"
-Bipod  "FamasBipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\famasbipodfolded.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-
-//------------------------------------------------------  
-Addon  "Arisaka Bipod"
-Bipod  "ArisakaBipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\arisakabipod.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-//------------------------------------------------------  
-Addon  "Arisaka Bipod Folded"
-Bipod  "ArisakaBipod"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\arisakabipodfolded.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-//------------------------------------------------------  
-Addon  "FG42 Bipod"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\fg42bipod.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
-//------------------------------------------------------  
-Addon  "FG42 Bipod Folded"
-Bipod  "built-in"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR  "Items\fg42bipodfolded.act"
-IMAGE  "minimi_bipod.e5b"
-WEIGHT  200 
-Resource  0 
-
 //------------------------------------------------------  
 Addon  "fn_falia2_butt"
 Stock  "built-in"
@@ -8253,7 +8129,6 @@ ACTOR  "Items\qbb95bipod.act"
 IMAGE  "minimi_bipod.e5b"
 WEIGHT  200 
 Resource  0 
-
 //------------------------------------------------------  
 Addon  "QBBBipod Folded"
 Bipod  "QBBBipods"
@@ -8286,7 +8161,6 @@ ACTOR  "Items\MG3_bipod.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  400 
 Resource  0 
-
 //------------------------------------------------------
 Addon  "Bipod MG34 Folded"
 Bipod  "built-in"
@@ -8295,8 +8169,6 @@ ACTOR  "Items\MG3_bipodfolded.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  400 
 Resource  0 
-
-
 //------------------------------------------------------
 Addon  "Stoner63 Bipod"
 Bipod  "StonerBipod"
@@ -8305,7 +8177,6 @@ ACTOR  "Items\stoner63lmgbipod.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  400 
 Resource  0 
-
 //------------------------------------------------------
 Addon  "FN Mag Bipod"
 Bipod  "built-in"
@@ -8314,9 +8185,6 @@ ACTOR  "Items\fnmagbipod.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  400 
 Resource  0 
-
-
-
 //------------------------------------------------------
 Addon  "Lewis Bipod"
 Bipod  "built-in"
@@ -8325,8 +8193,6 @@ ACTOR  "Items\lewisgunbipod.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  400 
 Resource  0 
-
-
 //------------------------------------------------------
 Addon  "Hecate Bipod"
 Bipod  "built-in"
@@ -8335,8 +8201,6 @@ ACTOR  "Items\hecatebipod.act"
 IMAGE  "mg3_bipod.e5b"
 WEIGHT  400 
 Resource  0 
-
-
 //------------------------------------------------------
 Addon  "Stoner63 Bipod Folded"
 Bipod  "StonerBipod"
@@ -8354,12 +8218,20 @@ IMAGE  "l86_bipod.e5b"
 WEIGHT  380 
 Resource  0 
 //------------------------------------------------------  
-Addon           "BAR bipod"
-Bipod           "BAR"
+Addon  "BAR bipod"
+Bipod  "BAR"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR           "Items\barbipod.act"
-IMAGE           "barbipod.e5b"
-WEIGHT          1000
+ACTOR  "Items\barbipod.act"
+IMAGE  "barbipod.e5b"
+WEIGHT  1000
+Resource  0 
+//------------------------------------------------------  
+Addon  "BAR bipod Folded"
+Bipod  "BAR"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR  "Items\barbipodfolded.act"
+IMAGE  "barbipod.e5b"
+WEIGHT  1000
 Resource  0 
 //------------------------------------------------------  
 Addon  "Type88Bipod"
@@ -8400,14 +8272,6 @@ Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR  "Items\l86_bipod_folded.act"
 IMAGE  "l86_bipod.e5b"
 WEIGHT  380 
-Resource  0 
-//------------------------------------------------------  
-Addon           "BAR bipod Folded"
-Bipod           "BAR"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR           "Items\barbipodfolded.act"
-IMAGE           "barbipod.e5b"
-WEIGHT          1000
 Resource  0 
 //------------------------------------------------------
 Addon  "FN Mag Bipod Folded"
@@ -8942,8 +8806,84 @@ Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR  "Items\madsenbipodfolded.act"
 IMAGE  "m61-bipod.e5b"
 WEIGHT  450 
-Resource  1000 
-
+Resource  1000
+//------------------------------------------------------  
+Addon  "G36 Handle"
+Scope  "HK G36 Scope"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56 
+ACTOR  "Items\g36c_sight.act"
+IMAGE  "g36c_sight.e5b"
+WEIGHT  150 
+Resource  10000 
+//------------------------------------------------------  
+Addon  "L85A2 Handle"
+Scope  "SA80 Handle"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56 
+ACTOR  "Items\l85a2_scope.act"
+IMAGE  "l85-sight.e5b"
+WEIGHT  260 
+Resource  10000 
+//------------------------------------------------------  
+Addon  "M16 Handle"
+Scope  "m16a3"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56
+ACTOR  "Items\m16a3sight.act"
+IMAGE  "m16handle.e5b"
+WEIGHT  230 
+Resource  10000 
+// ------------------------------------------------------  
+Addon  "M4A1 Handle"
+Scope  "m16a3"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56 
+ACTOR  "Items\M4A1_Handle.act"
+IMAGE  "m16handle.e5b"
+WEIGHT  300 
+Resource  10000 
+// ------------------------------------------------------  
+Addon  "SS2 Handle"
+Scope  "SS2"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56 
+ACTOR  "Items\ss2handle.act"
+IMAGE  "ss2handle.e5b"
+WEIGHT  300 
+Resource  10000 
+// ------------------------------------------------------  
+Addon  "T65 Handle"
+Scope  "T65H"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56 
+ACTOR  "Items\ss2handle.act"
+IMAGE  "ss2handle.e5b"
+WEIGHT  300 
+Resource  10000 
+// ------------------------------------------------------  
+Addon  "AR7090 Handle"
+Scope  "AR7090Handle"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "M16.e6b"
+Distance  56 
+ACTOR  "Items\ar7090handle.act"
+IMAGE  "ss2handle.e5b"
+WEIGHT  300 
+Resource  10000
 //------------------------------------------------------  
 Addon  "cpw_stock"
 Stock  "built-in"

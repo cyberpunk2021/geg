@@ -84895,7 +84895,7 @@ ShootSound		"Weapon\Shoot\SV-98_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		1 "ัย98"
+ATT Bipod		1 "SV98"
 ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -84935,7 +84935,7 @@ ShootSound		"Weapon\Shoot\SV-98_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		1 "ัย98"
+ATT Bipod		1 "SV98"
 ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0
