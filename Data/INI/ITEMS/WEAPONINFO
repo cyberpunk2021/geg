@@ -48319,8 +48319,8 @@ ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\G3.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MP5"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
@@ -51569,7 +51569,7 @@ ShootSound		"Weapon\Shoot\AR20_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -51608,7 +51608,7 @@ ShootSound		"Weapon\Shoot\AR20_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
-ATT Bipod		1 "AssaultBipod"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -54345,13 +54345,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
-ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
@@ -54384,13 +54384,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
-ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Optical Sight Elcan 3.4x28 (WR)"
@@ -54423,13 +54423,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
-ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2_butt"
@@ -54463,13 +54463,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
-ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2_butt_folded"
@@ -54503,13 +54503,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
-ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt"
@@ -54543,13 +54543,13 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Silencer and Bipod
-ATT Bayonet		1 "M9" blocks Silencer and ILauncher and Bipod
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"C7A2blk_butt_folded"
