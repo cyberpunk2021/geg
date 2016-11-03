@@ -1355,29 +1355,17 @@ None  "items\bigammoboxw.act""bigammoboxw.e5b"
 CHECKLIST FINAL
 
 alterar law.lua (permits)
-vz58 ris attachment coordinate
-sc2026 attachs
-checar attachs das m16a1 e m16a4s
 foldar bipods das armas bsm (intervention)
-REM 700 STATS
-colocar ris em ACRs
-pegar sons bsm
 realizar check em tudo
 rpk bipod lmgs bugada
-iteminfo do resto das coisas
-fazer caixas palinero e algeira
 t65 handle modelo correto
-colocar som das grandadas
-ak47 sil
-pegar iteminfo mags bsm
-parei de fazer stats nas snipers
-buff bch bcm foldada
 9mm jhp mais penetration
 melhorar ina smg
-aumentar 7.62x25mm penetration
-ajustar 9x18mm stats
 deixar "Carabine Zastava M70 (7.62x39mm)" semi auto
-
+checar peso e preço das municoes
+fazer as bullpups terem ahtBullpup
+ajustar level dos tactical vests e belts, talvez tirar tension wire (not armed)
+iteminfo balaa parei em 40 SW
 
 criar
 
@@ -1538,15 +1526,9 @@ novos
 
 
 
-criar subsonic 5.8x21 e vp70 stock
-Names for 7.62 ammo box are very strange ("wood" when is a metallic box, not the right amount of ammo, etc).
-fazer iteminfo "Chain-gun PKMN Type 86 (7.62x54mm)"
-fazer as bullpups terem ahtBullpup
 
-ajustar level dos tactical vests e belts, talvez tirar tension wire (not armed)
-iteminfo Big Ammo box (5.56) faltando
-criar mon50 e claymore, e chinese claymore
-parei itemlevels.xml em   <item level="8">Night Sight AN/PVS-4 (MP5)</item>
+
+
 
 12:44 - Silveryte: yes, but you can already make bombs with them
 12:46 - Silveryte: yeah not may ideas here

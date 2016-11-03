@@ -987,17 +987,17 @@ Vest_Smersh  "Items\tool3.act""tool3.e5b"
 "PackedAmmoBox Palinero (9x18/500)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6000 
+6350
 
 "PackedAmmoBox Norinco (9x18/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000 
+5500 
 
 "PackedAmmoBox CBC (9x19/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000 
+6610 
 
 "PackedAmmoBox 7n21 (9x19/500)"
 None  
