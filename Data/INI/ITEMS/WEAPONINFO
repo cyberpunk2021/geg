@@ -33067,11 +33067,11 @@ ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
 ShootSound		"Weapon\Shoot\L85A2_fire.wav"
-ATT Laser		2 "WR""WRRifle" blocks Silencer
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount" blocks Silencer
+ATT Light		1 "Barrel Mount" blocks Silencer
 ATT Scope		2 "L85A2 SCOPE""SA80 Handle"
-ATT Bipod		0
-ATT Silencer	1 "Supressor - 22 AR15" blocks Laser
+ATT Bipod		1 "AssaultBipod" blocks Silencer
+ATT Silencer	1 "Supressor - 22 AR15" blocks Laser and Light and Bipod
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
@@ -40213,8 +40213,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\barret_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "Supressor - 7,62"
@@ -40250,8 +40250,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\barret_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "Supressor - 7,62"
@@ -44139,11 +44139,11 @@ ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
 ShootSound		"Weapon\Shoot\L85A2_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Silencer and Light
+ATT Light		1 "Barrel Mount" blocks Silencer and Laser
 ATT Scope		1 "L85A2 SCOPE"
 ATT Bipod		0
-ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56"
+ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56" blocks Laser and Light
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "NATO 5.56"
@@ -44177,11 +44177,11 @@ ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
 ShootSound		"Weapon\Shoot\SA80_Car_fire.wav"
-ATT Laser		2 "WR""WRRifle" blocks Silencer
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount" blocks Silencer and Light
+ATT Light		1 "Barrel Mount" blocks Silencer and Laser
 ATT Scope		2 "L85A2 SCOPE""SA80 Handle"
 ATT Bipod		0
-ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56" blocks Laser
+ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56" blocks Laser and Light
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
@@ -44215,23 +44215,11 @@ ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
 ShootSound		"Weapon\Shoot\L85A2_fire.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Silencer
-ATT Light		1 "Barrel Mount"
-blocks
-Silencer
+ATT Laser		1 "Barrel Mount" blocks Silencer
+ATT Light		1 "Barrel Mount" blocks Silencer
 ATT Scope		2 "L85A2 SCOPE""SA80 Handle"
-ATT Bipod		1 "AssaultBipod"
-blocks
-Silencer
-ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56"
-blocks
-Laser
-and
-Light
-and
-Bipod
+ATT Bipod		1 "AssaultBipod" blocks Silencer
+ATT Silencer	2 "L85A2 Silencer""Supressor - 5,56" blocks Laser and Light and Bipod
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "NATO 5.56"
@@ -83526,8 +83514,8 @@ ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\barret_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
