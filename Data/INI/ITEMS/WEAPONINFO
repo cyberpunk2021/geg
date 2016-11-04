@@ -71018,8 +71018,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\rk95_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		0
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -71057,8 +71057,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\rk95_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		0
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -71096,8 +71096,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\rk95_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		0
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
@@ -71135,8 +71135,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\rk95_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		0
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
@@ -87026,8 +87026,8 @@ ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
 ReLockSound		"Weapon\ReLock\SV-98_slide.wav"
 ShootSound		"Weapon\Shoot\barret_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		0
+ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
