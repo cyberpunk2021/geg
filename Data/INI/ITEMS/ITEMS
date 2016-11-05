@@ -429,22 +429,22 @@ None  "Items\m605-fuze.act""m605-fuze.e5b"
 
 "Fuze_rpg40"
 None  
-None  "Items\mve72_fuze.act""mve72_fuze.e5b"
+None  "Items\shaft_rpg40.act""shaft_rpg40.e5b"
 120
 
 "Fuze_grenade_m24"
 None  
-None  "Items\shaft_m24.act""m605-fuze.e5b"
+None  "Items\shaft_m24.act""shaft_m24.e5b"
 30
 
 "Fuze_RPG2"
 None  
-None  "Items\shaft_rpg2.act""m605-fuze.e5b"
+None  "Items\shaft_rpg2.act""shaft_rpg2.e5b"
 300
 
 "Fuze_RPG7"
 None  
-None  "Items\shaft_rpg7.act""m605-fuze.e5b"
+None  "Items\shaft_rpg7.act""shaft_rpg7.e5b"
 500
 
 "Remote Mine Controller"
