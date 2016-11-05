@@ -726,7 +726,7 @@ SpecificData
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -783,7 +783,7 @@ SpecificData
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -799,7 +799,7 @@ SpecificData
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -858,7 +858,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 69 70 71 72 
 Item  0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1976,7 +1976,7 @@ SpecificData
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -2033,7 +2033,7 @@ SpecificData
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -2049,7 +2049,7 @@ SpecificData
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -2108,7 +2108,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 69 70 71 72 
 Item  0 0 6 
-Name  "7.62x25לל (7.63לל לאףחונ)"
+Name  "7.62x25mm (7.63mm mauzer)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
