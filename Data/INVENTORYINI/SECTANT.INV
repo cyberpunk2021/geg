@@ -1,0 +1,10350 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  3 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  5 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  7 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  10 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Beretta 951 (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1059 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  1097 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0360825 
+Item  1 1 7 
+Name  "Pistol clip (Beretta951/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "EX-STAR (9mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 12 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  7896 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol M.1911 A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  11 8 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  8373 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Colt Commander (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  16323 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  0.0103093 3 4 5 
+Item  0 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  4552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Walther PPK (7.65x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 12 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (PPK/7.65)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  13620 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 75 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 1 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Ammo box (.380 FMJ)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Whisky"
+SpecificData  
+OtherInfo  
+GUID  16888 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  0 0 0 
+Name  "Pistol Walther PPK (9x17mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (PPK/S)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 200 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Norinco MAK-90 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 1 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  10 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (SB 7.62x39)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "SB (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  9356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  9370 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  9556 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol M712 (7.62x25mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  10 7 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 7 
+Name  "Pistol clip (m712/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_02"
+SpecificData  
+OtherInfo  
+GUID  5751 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  9 
+Pockets  64 65 66 67 
+Pins  20 21 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 7 8 6 9 10 
+Item  0 0 0 
+Name  "Submachine-gun Vz61 (7.65mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  4 10 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "vz82butt_folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "SMG ammo clip (VZ61/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.65 FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  10668 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  10870 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "BottleOfWaterMini"
+SpecificData  
+OtherInfo  
+GUID  10582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Carabine Winchester 1892 trapper (.44 Magnum)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (.44/12)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 1 7 
+Name  "Ammo box (Magnum .44)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Mag .44"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  

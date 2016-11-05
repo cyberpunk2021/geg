@@ -1,0 +1,7954 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR M7F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "ak101_butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGN"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 7 
+Name  "Double rifle ammo clip (AK 5.56/60)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  60 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M193 (5.56mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_01"
+SpecificData  
+OtherInfo  
+GUID  7964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  8 
+Pockets  61 
+Item  0 0 0 
+Name  "Pistol CZ 75B (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 62 
+Item  0 0 7 
+Name  "Pistol clip (CZ 75/16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  16 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 63 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  279185 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  18 19 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 
+Item  0 0 2 
+Name  "Steel Helmet"
+SpecificData  
+ArmourInfo  
+Prob  0.3 0.7 0.6 0.6 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 4 5 
+Item  0 0 0 
+Name  "Assault Rifle AKMN (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 0 
+Name  "Rockect Launcher RPG-18 'Muha'"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rpg18 grenade clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "RPG-18 Grenade"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M300"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0.7 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  278738 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  8573 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  278706 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "57-N-231S (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  

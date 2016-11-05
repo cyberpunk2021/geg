@@ -1,0 +1,834 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "dice"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol TT-33 (7.62x25mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (TT-33/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x25לל (7.63לל לאףחונ)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  12785 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 300 
+END_VARIANT  
+EndStage  
