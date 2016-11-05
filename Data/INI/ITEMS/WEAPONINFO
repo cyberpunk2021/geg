@@ -80945,8 +80945,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AR15.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	1 "Supressor - 5,56"
@@ -83496,8 +83496,8 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\L96_fire final.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "L96A1 optic"
 ATT Bipod		1 "L96A1 bipod"
 ATT Silencer	0
@@ -83536,8 +83536,8 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\L96_fire final.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "L96A1 optic"
 ATT Bipod		1 "L96A1 bipod"
 ATT Silencer	0
@@ -83576,8 +83576,8 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\L96_fire final.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		2 "WR""M24_Scope"
 ATT Bipod		1 "L96A1 bipod"
 ATT Silencer	0
