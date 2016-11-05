@@ -85262,7 +85262,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
@@ -85301,7 +85301,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
@@ -85340,7 +85340,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
@@ -85378,7 +85378,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
@@ -86586,7 +86586,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
@@ -86625,7 +86625,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
@@ -86663,7 +86663,7 @@ ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
 ShootSound		"Weapon\Shoot\awp_fire.wav"
-ATT Laser		2 "WR""WRRifle"
+ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
