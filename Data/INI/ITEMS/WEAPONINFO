@@ -6427,8 +6427,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
 ShootSound		"Weapon\Shoot\sigsauer_fire.wav"
-ATT Laser		1 "WR"
-ATT Light		1 "WR"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "PistolDocter"
 ATT Bipod		0
 ATT Silencer	0
@@ -73575,8 +73575,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
@@ -73614,8 +73614,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
@@ -73653,8 +73653,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
@@ -73692,8 +73692,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
@@ -73732,11 +73732,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73771,11 +73771,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73810,11 +73810,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73849,11 +73849,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73888,11 +73888,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73927,11 +73927,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -73966,11 +73966,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
@@ -74005,11 +74005,11 @@ ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "WR"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "GP-30" blocks Bipod
+ATT ILauncher	1 "GP-30" blocks Bipod and Light
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
