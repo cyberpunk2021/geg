@@ -4638,7 +4638,7 @@ ACTOR "Items\762x25.act"
 IMAGE "ammo-762x25fmj.e5b"
 WEIGHT 16
 
-"7.62x25mm (7.63mm mauzer)"
+"7.62x25mm (7.63mm mauser)"
 "7.62υ25 μμ"
 5.101
 401
@@ -4704,7 +4704,7 @@ ACTOR "Items\762x25.act"
 IMAGE "ammo-762x25fmj.e5b"
 WEIGHT 16
 
-"7.62x25mm (7.63mm mauser)"
+"7.62x25mm (7.63mm mauzer)"
 "7.62υ25 μμ"
 5.5
 430
