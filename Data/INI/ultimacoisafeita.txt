@@ -1366,6 +1366,7 @@ checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
 ajustar level dos tactical vests e belts, talvez tirar tension wire (not armed)
 iteminfo balaa parei em 40 SW
+fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
 
 criar
 

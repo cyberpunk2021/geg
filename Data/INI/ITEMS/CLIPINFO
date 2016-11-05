@@ -2429,7 +2429,7 @@ BOX  "Ammo box 500 HLA (Cor-Bon 45 ACP)""200grn JHP +P (.45 ACP)"500 "Items\gren
 
 BOX "Big Ammo box GS (.45 ACP Ball)""Golden Saber (.45 ACP)"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
-CLIP  "CajaMunicionGrande (.45/1000)"".45 ACP""BigAmmoBox"1000 2000 "None"100 
+CLIP  "CajaMunicionGrande (.45/1000)"".45 ACP""BigAmmoBox"500 2000 "None"100 
 ACTOR  "Items\cajamun_1kx045.act"
 USEPREFIX  ""
 IMAGE  "cajamun_1kx045.e5b"
