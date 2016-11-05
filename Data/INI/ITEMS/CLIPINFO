@@ -588,13 +588,13 @@ DEFAMMO  "8x22mm Nambu"
 //7.62x25
 
 BOX  "Ammo box (7.62x25mm Palinero)""Palinero 7.62x25"50 "Items\palinero762x25.act""762x39_box.e5b"
-BOX  "Ammo box (7.62x25mm (7.63mm mauzer))""7.62x25mm (7.63mm mauzer)"50 "Items\763mauserprvi.act""boxprvi.e5b"
+BOX  "Ammo box (7.62x25mm (7.63mm mauser))""7.62x25mm (7.63mm mauser)"50 "Items\763mauserprvi.act""boxprvi.e5b"
 
 BOX  "Ammo box (7.62x25mm AP)""7.62x25mm AP"50 "Items\762tokarevprvi.act""boxprvi.e5b"
 
 BOX  "Ammo box (7.62x25mm FMJ)""7.62x25mm FMJ"50 "Items\762x25norinco.act""boxnorinco.e5b"
 
-BOX  "Ammo box (7.62x25לל (7.63לל לאףחונ))""7.62x25לל (7.63לל לאףחונ)"50 "Items\762box.act""762x25fmj_box.e5b"
+BOX  "Ammo box (7.62x25mm (7.63mm mauzer))""7.62x25mm (7.63mm mauzer)"50 "Items\762box.act""762x25fmj_box.e5b"
 BOX  "Ammo box 7.62x25 Norinco""China Sport 7.62x25"50 "Items\762x25norinco_box.act""762x25norinco_box.e5b"
 
 BOX  "Ammo box 500 (7.62x25mm (7.63mm mauzer))""7.62x25mm (7.63mm mauzer)"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
@@ -603,7 +603,7 @@ BOX  "Ammo box 500 (7.62x25mm AP)""7.62x25mm AP"500 "Items\grenadecase_us.act""g
 
 BOX  "Ammo box 500 (7.62x25mm FMJ)""7.62x25mm FMJ"500 "Items\Note_closed.act""Note_closed.e5b"
 
-BOX  "Ammo box 500 HLA (Mauser Tokarev)""7.62x25לל (7.63לל לאףחונ)"500 "Items\Note_closed.act""Note_closed.e5b"
+BOX  "Ammo box 500 HLA (Mauser Tokarev)""7.62x25mm (7.63mm mauzer)"500 "Items\Note_closed.act""Note_closed.e5b"
 BOX  "Ammo box 500 HLA 7.62x25 Norinco""China Sport 7.62x25"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 
 BOX  "Ammo box 500 (7.62x25mm Palinero)""Palinero 7.62x25"500 "Items\caxa.ACT""caxa.e5b"
