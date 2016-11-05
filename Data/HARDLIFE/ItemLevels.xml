@@ -772,7 +772,7 @@
   <item level="0">vz82butt_folded</item>
   <item level="2">Submachine-gun Vz82 (9x18mm)</item>
   <item level="2">VZ82_silencer</item>
-  <item level="1">Ammo box (7.62x25לל (7.63לל לאףחונ))</item>
+  <item level="1">Ammo box (7.62x25mm (7.63mm mauser))</item>
   <item level="0">snake_basket</item>
   <item level="0">pereira_letter</item>
   <item level="0">loose_ammo</item>
@@ -825,7 +825,7 @@
   <item level="4">Double SMG ammo clip (MP5/60c)</item>
   <item level="3">Double SMG ammo clip (MP5/30)</item>
   <item level="5">Ammo box (7U1)</item>
-  <item level="1">7.62x25לל (7.63לל לאףחונ)</item>
+  <item level="1">7.62x25mm (7.63mm mauser)</item>
   <item level="2">Ammo box (SP-10)</item>
   <item level="2">Ammo box (SP-11)</item>
   <item level="1">loose_ammo_box</item>
