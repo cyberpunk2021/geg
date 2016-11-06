@@ -2958,7 +2958,7 @@ WEIGHT 25
 "Items\qlg91granadasmoke.act"
 250
 ACTOR "Items\qlg91granadasmoke.act"
-IMAGE "m406.e5b"
+IMAGE "qlg91grenadepicair.dds"
 WEIGHT 225
 
 "35mm AB"
@@ -2980,7 +2980,7 @@ WEIGHT 225
 "Items\qlg91granadaair.act"
 250
 ACTOR "Items\qlg91granadaair.act"
-IMAGE "m397a1.e5b"
+IMAGE "qlg91grenadepicsmoke.dds"
 WEIGHT 230
 
 "35mm HE"
@@ -3002,7 +3002,7 @@ WEIGHT 230
 "Items\qlg91granada.act"
 250
 ACTOR "Items\qlg91granada.act"
-IMAGE "m406.e5b"
+IMAGE "qlg91grenadepic.dds"
 WEIGHT 225
 
 "DFS-10P"
@@ -3024,7 +3024,7 @@ WEIGHT 225
 "Items\qlg10agranada.act"
 250
 ACTOR "Items\qlg10agranada.act"
-IMAGE "vog25.e5b"
+IMAGE "qlg10grenadepic.dds"
 WEIGHT 275
 
 "DFS-10 Smoke"
@@ -3046,7 +3046,7 @@ WEIGHT 275
 "Items\qlg10agranadasmoke.act"
 250
 ACTOR "Items\qlg10agranadasmoke.act"
-IMAGE "vog25.e5b"
+IMAGE "qlg10grenadepicsmoke.dds"
 WEIGHT 250
 
 "DFS-10 HE"
@@ -3068,7 +3068,7 @@ WEIGHT 250
 "Items\qlg10agranadaair.act"
 250
 ACTOR "Items\qlg10agranadaair.act"
-IMAGE "vog25.e5b"
+IMAGE "qlg10grenadepicair.dds"
 WEIGHT 250
 
 "Fiocchi Frangible (4.6x30mm)"
