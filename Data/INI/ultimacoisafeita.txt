@@ -1371,11 +1371,21 @@ fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
 criar
 
 
+
+
+
+
+
+
+
+
+
+
 "Assault Rifle Rk95 (5.56mm)"
 "Assault Rifle Rk95 (5.56mm) folded"
 colocar rk95 iteminfo
 
-
+"BigAmmoBox"
 
 "Pistol Walther PPK (7.65x17mm) chrome"
 "Pistol PM Type 59 (9x18mm)"

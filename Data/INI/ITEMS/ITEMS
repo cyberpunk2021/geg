@@ -2402,22 +2402,22 @@ None  "Items\cartouche.act""folded_cartouche.e5b"
 "Backpack"
 None  
 Bag_BackPack  "Items\backpack01.act""backpack1.e5b"
-1000 
+1100 
 
 "Backpack_reid"
 None  
 Bag_Reid  "Items\Backpack_reid.act""backpack_reid.e6b"
-1200 
+1050 
 
 "Backpack_tactic"
 None  
 Bag_Tactic  "Items\Backpack_tactic.act""backpack_tactic.e6b"
-1150 
+1200 
 
 "Backpack_tourist"
 None  
 Bag_Tourist  "Items\Backpack_tourist.act""backpack_tourist.e6b"
-1300 
+1000 
 
 "Tactical Vest"
 None  
@@ -2432,7 +2432,7 @@ Vest_Molly  "Items\Razgr_molle.act""razgr_molle.e6b"
 "Razgr_smerch"
 None  
 Vest_Smersh  "Items\Razgr_smerch.act""razgr_smersh.e6b"
-750
+650
 
 "VestNew"
 None  
@@ -2447,17 +2447,17 @@ CartoucheSmallLeft  "Items\cartouche.act""cartouche6.e5b"
 "Ammo CartoucheVert"
 None  
 CartoucheVertLeft  "Items\cartouche.act""cartouche_vert.e5b"
-200 
+250 
 
 "Ammo Cartouche"
 None  
 CartoucheLeft  "Items\cartouche.act""cartouche.e5b"
-200 
+300 
 
 "Ammo Belt"
 None  
 CartoucheSmallLeft  "Items\AMMO_BELT.ACT""Ammo_Belt.e5b"
-500 
+320 
 
 "Basic Belt"
 None  
@@ -2467,27 +2467,27 @@ Basic_Belt  "Items\belt02.act""Belt02.e5b"
 "Belt_01"
 None  
 Belt_01  "Items\Belt_01.act""Belt_02.e6b"
-350 
+500 
 
 "Belt_02"
 None  
 Belt_02  "Items\Belt_02.act""Belt_01.e6b"
-450 
+370 
 
 "Belt_03"
 None  
 CartoucheVertLeft  "Items\Belt_03.act""Belt_03.e6b"
-350 
+340 
 
 "Belt_04"
 None  
 Belt_03  "Items\Belt_04.act""Belt_04.e5b"
-0 
+5
 
 "Tactical Belt"
 None  
 Tactical_Belt  "Items\tacticalbelt01.act""Belt.e5b"
-500 
+400 
 
 "Mauser Belt"
 None  
