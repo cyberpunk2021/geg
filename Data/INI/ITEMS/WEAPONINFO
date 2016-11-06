@@ -21042,7 +21042,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "CPW4630"
 StdPlug			"SMG ammo clip (CPW 4.6x30mm/30)"
-StdPlug			"MP5 Butt"
+StdPlug			"cpw_stock"
 ACTOR			"Items\cpw46.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -21081,7 +21081,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "CPW4630"
 StdPlug			"SMG ammo clip (CPW 4.6x30mm/30)"
-StdPlug			"MP5 Butt folded"
+StdPlug			"cpw_stock_folded"
 ACTOR			"Items\cpw46.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
@@ -25692,7 +25692,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "CPW57"
 StdPlug			"SMG ammo clip (CPW 5.7x28mm/30)"
-StdPlug			"MP5 Butt"
+StdPlug			"cpw_stock"
 ACTOR			"Items\cpw.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -25731,7 +25731,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "CPW57"
 StdPlug			"SMG ammo clip (CPW 5.7x28mm/30)"
-StdPlug			"MP5 Butt folded"
+StdPlug			"cpw_stock_folded"
 ACTOR			"Items\cpw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG

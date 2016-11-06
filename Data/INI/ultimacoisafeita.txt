@@ -1356,7 +1356,6 @@ CHECKLIST FINAL
 
 alterar law.lua (permits)
 foldar bipods das armas bsm (intervention)
-realizar check em tudo
 rpk bipod lmgs bugada
 t65 handle modelo correto
 9mm jhp mais penetration
@@ -1364,7 +1363,6 @@ melhorar ina smg
 deixar "Carabine Zastava M70 (7.62x39mm)" semi auto
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-ajustar level dos tactical vests e belts, talvez tirar tension wire (not armed)
 iteminfo balaa parei em 40 SW
 fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
 

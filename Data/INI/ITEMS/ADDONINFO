@@ -8713,7 +8713,7 @@ Resource		10000
 Addon			"cpw_stock"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt.act"
+ACTOR			"Items\cpwstock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -8721,7 +8721,7 @@ Resource		0
 Addon			"cpw_stock_folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt_folded.act"
+ACTOR			"Items\cpwstock_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
