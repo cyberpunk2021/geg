@@ -15705,8 +15705,8 @@ ClipInSound		"Weapon\ClipIn\Thompson_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\Thompson_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\Thompson_slide.wav"
 ShootSound		"Weapon\Shoot\Thompson_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	1 "HandMade"
@@ -16014,8 +16014,8 @@ ClipInSound		"Weapon\ClipIn\Thompson_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\Thompson_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\Thompson_slide.wav"
 ShootSound		"Weapon\Shoot\mp-40.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	1 "HandMade"
@@ -16053,8 +16053,8 @@ ClipInSound		"Weapon\ClipIn\Thompson_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\Thompson_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\Thompson_slide.wav"
 ShootSound		"Weapon\Shoot\mp-40.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	1 "HandMade"
@@ -39374,7 +39374,7 @@ DirtResource	320000
 MisfireProb		0.0011
 HeatCapacity	85
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
@@ -54077,29 +54077,17 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AR15.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
-blocks
-ILauncher
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
-ATT ILauncher	2 "M203""M203PI"
-blocks
-Bipod
-and
-Bayonet
-ATT Bayonet		1 "M9"
-blocks
-Silencer
-and
-ILauncher
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\m16a4.act"
+ACTOR			"Items\m16a3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
