@@ -867,12 +867,8 @@ BOX "Big Ammo box (9x19 HP)""EX-STAR (9mm)"500 "Items\grenadecase_us.act""grenad
 BOX  "BigAmmoBox (9x19/500)""9x19 FMJ Ball"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 BOX "Big Ammo box 500 (Palinero)""9x19 Palinero"500 "Items\caxa.act""caxa.e5b"
 
+BOX "CajaMunicionGrande (9mm/1000)""124grn 9x19mm"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 
-CLIP  "CajaMunicionGrande (9mm/1000)""9ץ19 לל""BigAmmoBox"1000 2000 "None"100 
-ACTOR  "Items\cajamun_1kx919.act"
-USEPREFIX  ""
-IMAGE  "cajamun_1kx919.e5b"
-DEFAMMO  "124grn 9x19mm"
 
 
 
@@ -2429,11 +2425,10 @@ BOX  "Ammo box 500 HLA (Cor-Bon 45 ACP)""200grn JHP +P (.45 ACP)"500 "Items\gren
 
 BOX "Big Ammo box GS (.45 ACP Ball)""Golden Saber (.45 ACP)"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
-CLIP  "CajaMunicionGrande (.45/1000)"".45 ACP""BigAmmoBox"500 2000 "None"100 
-ACTOR  "Items\cajamun_1kx045.act"
-USEPREFIX  ""
-IMAGE  "cajamun_1kx045.e5b"
-DEFAMMO  "M1911 Ball (.45 ACP)"
+
+BOX "CajaMunicionGrande (.45/1000)""M1911 Ball (.45 ACP)"500 "Items\cajamun_1kx045.act""cajamun_1kx045.e5b"
+
+
 
 CLIP  "Pistol clip (Colt/7)"".45 ACP""Colt"7 70 "None"500 
 ACTOR  "Items\op45-m1911-8.act"
@@ -2918,12 +2913,9 @@ BOX  "Ammo box 500 HLA (Rubber)""Rubber Slug (12ga)"200 "Items\12ga_hunt_100bag.
 
 
 BOX "Big Ammo box (12 ga N4)""Buckshot N4 (12ga)"200 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX "BigAmmoBox (12ga/100)""Hunt (12ga)"200 "Items\12GA_HUNT_100BAG.act""bag.e5b"
 
-CLIP  "BigAmmoBox (12ga/100)""12 ךאכטבנ""BigAmmoBox"100 500 "None"100 
-ACTOR  "Items\12GA_HUNT_100BAG.ACT"
-USEPREFIX  ""
-IMAGE  "bag.e5b"
-DEFAMMO  "Hunt (12ga)"
+
 
 CLIP  "Pistol clip (Contender/12ga)""12 ךאכטבנ""Encore12"1 0 "None"7000 
 ACTOR  "Items\contenderbarrel.act"
@@ -4229,11 +4221,9 @@ BOX  "Ammo box 500 HLA (5.56 SN)""5.56 SN (5.56mm)"600 "Items\grenadecase_us.act
 
 BOX  "Big Ammo box (5.56x45/500 HP)""Remington JHP (5.56mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 
-CLIP  "CajaMunicionGrande (5.56/500)""5.56ץ45 לל""BigAmmoBox"600 2000 "None"100 
-ACTOR  "Items\cajamun_500x556.act"
-USEPREFIX  ""
-IMAGE  "cajamun_500x556.e5b"
-DEFAMMO  ".223Aguila FMJ"
+BOX  "CajaMunicionGrande (5.56/500)"".223Aguila FMJ"600 "Items\cajamun_500x556.act""cajamun_500x556.e5b"
+
+
 
 CLIP  "Pistol clip (Contender/223)""5.56ץ45 לל""Contender556"1 0 "None"7000 
 ACTOR  "Items\contendersmallbarrel.act"
@@ -5093,16 +5083,15 @@ BOX  "Ammo Box 500 CoreLokt .308""Core Lokt JHP .308"600 "Items\cajamun_200x762.
 
 BOX  "Ammo box 500 HLA (7.62x51SP)""PPU .308 SP"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
-CLIP  "CajaMunicionGrande (7.62/400)""7.62ץ51 לל""BigAmmoBox"600 2000 "None"100 
-ACTOR  "Items\cajamun_400x762.act"
-USEPREFIX  ""
-IMAGE  "cajamun_400x762.e5b"
-DEFAMMO  "Fabrica Militare .308"
-CLIP  "CajaMunicionGrande (7.62/200)""7.62ץ51 לל""BigAmmoBox"600 2000 "None"100 
-ACTOR  "Items\cajamun_200x762.act"
-USEPREFIX  ""
-IMAGE  "cajamun_200x762.e5b"
-DEFAMMO  "M80 (7.62x51mm)"
+
+
+BOX  "Ammo box 500 HLA (7.62x51SP)""Fabrica Militare .308"600 "Items\cajamun_400x762.act""cajamun_400x762.e5b"
+
+BOX  "CajaMunicionGrande (7.62/200)""M80 (7.62x51mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+
+
+
+
 
 CLIP  "Pistol clip (Contender/308)""7.62ץ51 לל""Encore308"1 0 "None"7000 
 ACTOR  "Items\contenderbarrel.act"
