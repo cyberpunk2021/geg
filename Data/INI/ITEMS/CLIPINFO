@@ -5085,7 +5085,7 @@ BOX  "Ammo box 500 HLA (7.62x51SP)""PPU .308 SP"600 "Items\grenadecase_us.act""g
 
 
 
-BOX  "Ammo box 500 HLA (7.62x51SP)""Fabrica Militare .308"600 "Items\cajamun_400x762.act""cajamun_400x762.e5b"
+BOX  "CajaMunicionGrande (7.62/400)""Fabrica Militare .308"600 "Items\cajamun_400x762.act""cajamun_400x762.e5b"
 
 BOX  "CajaMunicionGrande (7.62/200)""M80 (7.62x51mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 
