@@ -1352,28 +1352,15 @@ None  "items\bigammoboxw.act""bigammoboxw.e5b"
 
 ++++++++++++++++
 
-CHECKLIST FINAL
 
-alterar law.lua (permits)
-foldar bipods das armas bsm (intervention)
-rpk bipod lmgs bugada
-t65 handle modelo correto
-9mm jhp mais penetration
-melhorar ina smg
-deixar "Carabine Zastava M70 (7.62x39mm)" semi auto
-checar peso e preço das municoes
-fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em 40 SW
-fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
 
 criar
 
 
 
 
-
-
-
+"Assault Rifle M16 HG RIS (5.56mm)"
+"Assault Rifle XM16E1 HG RIS (5.56mm)"
 
 
 
@@ -1803,3 +1790,45 @@ highest quality premium guns/made for SF/top quality civ guns/modern sniper rifl
 17:12 - Auspice: although people can't see the values unless the gun is bad
 17:12 - Silveryte: yeah
 17:12 - Auspice: so there's not much reason to
+
+
+
+
+++++++++++++++++++++
+
+
+
+
+
+CHECKLIST FINAL
+
+alterar law.lua (permits)
+foldar bipods das armas bsm (intervention)
+rpk bipod lmgs bugada
+t65 handle modelo correto
+9mm jhp mais penetration
+melhorar ina smg
+deixar "Carabine Zastava M70 (7.62x39mm)" semi auto
+checar peso e preço das municoes
+fazer as bullpups terem ahtBullpup
+iteminfo balaa parei em 40 SW
+fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
+
+
+
+"CPW NOFG (9mm)"
+"CPW NOFG (9mm) folded"
+"CPW NOFG (5.7)"
+"CPW NOFG (5.7)"
+"CPW NOFG (4.6)"
+"CPW NOFG (4.6) folded"
+
+
+
+
+
+
+
+
+
+

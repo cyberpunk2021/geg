@@ -8891,7 +8891,7 @@ Addon			"MGL launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ShootSound		"Addon\ShootSound\RG6_fire.wav"
-GrenadeType		"40 mm"
+GrenadeType		"40 μμ"
 GrenadeCount	6
 IsLauncher		1
 ACTOR			"Items\mglcutlauncher.act"
