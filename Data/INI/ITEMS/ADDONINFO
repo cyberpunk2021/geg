@@ -8721,7 +8721,7 @@ Resource		0
 Addon			"cpw_stock_folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\cpwstock_folded.act"
+ACTOR			"Items\cpwstockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
