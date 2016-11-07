@@ -88813,7 +88813,7 @@ IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Machinegun Arsenal LMG-F (5.56mm) folded"
-Class			Machinegun
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4780
 PrepareTime		0.52

@@ -26,7 +26,7 @@ WEIGHT 470
 //----------------------------------------------------------
 Mine				"M-18 Claymore"
 	Type			Controlled  
-	Hidden			0 
+	Hidden			1 
 	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
@@ -46,7 +46,7 @@ Mine				"M-18 Claymore"
 //----------------------------------------------------------
 Mine				"M-18 Claymore_contact"
 	Type			Land  
-	Hidden			0 
+	Hidden			1 
 	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
@@ -65,7 +65,7 @@ Mine				"M-18 Claymore_contact"
 //----------------------------------------------------------
 Mine				"MON-50"
 	Type			Land  
-	Hidden			0 
+	Hidden			1 
 	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
@@ -85,7 +85,7 @@ Mine				"MON-50"
 //----------------------------------------------------------
 Mine				"MON-50_remote"
 	Type			Controlled  
-	Hidden			0 
+	Hidden			1 
 	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
@@ -105,7 +105,7 @@ Mine				"MON-50_remote"
 	//----------------------------------------------------------
 Mine				"Type66_remote"
 	Type			Controlled  
-	Hidden			0 
+	Hidden			1 
 	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
@@ -125,7 +125,7 @@ Mine				"Type66_remote"
 	//----------------------------------------------------------
 Mine				"Type66_contact"
 	Type			Land  
-	Hidden			0 
+	Hidden			1 
 	ActivationTime		0 
 	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
 	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
