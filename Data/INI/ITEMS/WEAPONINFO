@@ -27222,7 +27222,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle SR3 (9x39mm) folded"
-Class			Rifle
+Class			SMG
 Caliber			"9υ39 μμ"
 Weight			2000
 PrepareTime		0.23
