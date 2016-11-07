@@ -37519,7 +37519,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"k2stock"
-ACTOR			"Items\k2noris.act"
+ACTOR			"Items\k2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -37558,7 +37558,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"k2stock_folded"
-ACTOR			"Items\k2noris.act"
+ACTOR			"Items\k2.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -37595,7 +37595,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	3 "NATO 5.56""5.56 Double""M16 mag"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\daewoodr200.act"
+ACTOR			"Items\daewoodr200noris.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -37669,7 +37669,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
-ACTOR			"Items\daewoodr200.act"
+ACTOR			"Items\daewoodr200noris.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
