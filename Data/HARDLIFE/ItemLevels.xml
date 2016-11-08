@@ -1791,7 +1791,7 @@
   <item level="3">Rifle M1 Garand (.30-06)</item>
   <item level="0">30-06 Ball M2</item>
   <item level="2">Ammo box (30-06)</item>
-  <item level="2">Ammo box (30-06 Korean)</item>
+  <item level="4">Ammo box (30-06 Korean)</item>
   <item level="1">Rifle clip (Garand/8)</item>
   <item level="4">Assault Rifle Type 56C (7.62x39mm)</item>
   <item level="4">Assault Rifle Type 56C (7.62x39mm) folded</item>
@@ -4426,6 +4426,7 @@
   <item level="4">Ammo box (7.92mm Kurz/200)</item>
   <item level="2">Assault Rifle clip (StG.44/30)</item>
   <item level="4">Ammo box 200 XP3 (30-06)</item>
+  <item level="5">BigAmmoBox JHP +P (30-60/400)</item>
   <item level="1">Rifle ammo clip (BAR/20)</item>
   <item level="1">Rifle ammo clip (M1941/25)</item>
   <item level="1">Big Ammo box (8x50 FMJ)</item>

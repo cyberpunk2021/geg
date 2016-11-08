@@ -2806,34 +2806,39 @@ CLIP  "Pistol clip (FN/20)""5.7ץ28 לל""Five-seveN"20 70 "None"500
 ACTOR  "Items\fn57novamag.act"
 USEPREFIX  ""
 IMAGE  "fn-20ammo.e5b"
-DEFAMMO  "SS190 Ball (5.7mm)"
+DEFAMMO  "SS192 HP (5.7mm)"
 CLIP  "SMG ammo clip (CPW 5.7x28mm/30)""5.7ץ28 לל""CPW57"30 170 "None"1100 
 ACTOR  "Items\cpwmag.act"
 USEPREFIX  ""
 IMAGE  "cpwmag.e5b"
-DEFAMMO  "SS190 Ball (5.7mm)"
+DEFAMMO  "SS192 HP (5.7mm)"
 CLIP  "SMG ammo clip (P90/50)""5.7ץ28 לל""P90"50 160 "None"1000 
 ACTOR  "Items\p90novamag.act"
 USEPREFIX  ""
 IMAGE  "p90-50ammo.e5b"
-DEFAMMO  "SS190 Ball (5.7mm)"
+DEFAMMO  "SS192 HP (5.7mm)"
 
 
 
 //9x21 לל
 BOX  "Ammo box (SP-10)""SP-10 (9ץ21mm)"50 "Items\sp10box.act""9x21ap_box.e5b"
 BOX  "Ammo box (SP-11)""SP-11 (9x21mm)"50 "Items\sp11box.act""9x21fmj_box.e5b"
+
+BOX  "Ammo box 500 (SP-10)""SP-10 (9ץ21mm)"500 "Items\pkm_box.act""pkmag.e5b"
+BOX  "Ammo box 500 (SP-11)""SP-11 (9x21mm)"500 "Items\pkm_box.act""pkmag.e5b"
+
+
 CLIP  "Pistol clip (SPS-SR1/18)""9x21 לל""SPS/18"18 110 "None"500 
 ACTOR  "Items\sps-sr-1_clip18.act"
 USEPREFIX  ""
 IMAGE  "mp9-sr1-18.e5b"
-DEFAMMO  "SP-10 (9ץ21mm)"
+DEFAMMO  "SP-11 (9x21mm)"
 
 CLIP  "SMG ammo clip (SR2/30)""9x21 לל""SR2"30 170 "None"1100 
 ACTOR  "Items\sr2mag.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_32.e5b"
-DEFAMMO  "SP-10 (9ץ21mm)"
+DEFAMMO  "SP-11 (9x21mm)"
 
 
 
@@ -2943,7 +2948,7 @@ CLIP  "Shotgun ammo clip (CoachGun/2)""12 ךאכטבנ""built-in"2 0 "None"5000
 ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"
-DEFAMMO  "Hunt (12ga)"
+DEFAMMO  "00 Buckshot (12ga)"
 
 CLIP  "Shotgun ammo clip (m870/4)""12 ךאכטבנ""built-in"4 0 "None"8000 
 ACTOR  "None"
@@ -3276,8 +3281,8 @@ DEFAMMO  "Shrapnel-10 (23 mm)"
 //RIFLESBALAS
 
 //.458
-BOX "Ammo box (.458 socom)" ".458 socom HP"20 "items\458socom_ammobox.act""458socom_ammobox.e5b"
-BOX "Big Ammo box (.458 socom)" ".458 socom HP"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX "Ammo box (.458 socom)"".458 socom HP"20 "items\458socom_ammobox.act""458socom_ammobox.e5b"
+BOX "Big Ammo box (.458 socom)"".458 socom HP"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 CLIP "Rifle ammo clip (Socom/15)"".458 socom""Socom"11 90 "Rifle ammo clip (Socom/30)"2000 
 ACTOR  "Items\stanagnovaa.act"
 USEPREFIX  ""
@@ -3321,10 +3326,10 @@ IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  ".458 socom HP"
 
 //.50 Beowulf
-BOX "Ammo box (.50 Beowulf HP)" ".50 Beowulf HP"20 "items\50beowulfhp.act""boxbeowulf.e5b"
-BOX "Ammo box (.50 Beowulf FMJ)" ".50 Beowulf FMJ"20 "items\50beowulf.act""boxbeowulf.e5b"
-BOX "Ammo box 500 (.50 Beowulf HP)" ".50 Beowulf HP"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-BOX "Ammo box 500 (.50 Beowulf FMJ)" ".50 Beowulf FMJ"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX "Ammo box (.50 Beowulf HP)"".50 Beowulf HP"20 "items\50beowulfhp.act""boxbeowulf.e5b"
+BOX "Ammo box (.50 Beowulf FMJ)"".50 Beowulf FMJ"20 "items\50beowulf.act""boxbeowulf.e5b"
+BOX "Ammo box 500 (.50 Beowulf HP)"".50 Beowulf HP"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+BOX "Ammo box 500 (.50 Beowulf FMJ)"".50 Beowulf FMJ"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 
 CLIP  "Rifle ammo clip (Beowulf/4)"".50 Beowulf""Beowulf"4 90 "Double rifle ammo clip (Beowulf/8)"2000 
 ACTOR  "Items\stanagnova20.act"
@@ -3578,9 +3583,9 @@ BOX "Ammo box (30-06 AP/20)""30-06 AP"20 "Items\3006_M2.act""boxm2.e5b"
 BOX "Ammo box (30-06 FMJ/20)""30-06 FMJ"20 "Items\3006_M1.act""boxm1.e5b"
 
 BOX  "Ammo box (30-06 XP3)""Winchester XP3 30-06"20 "Items\30-06hp_box.act""30-06hp_box.e5b"
-BOX  "Ammo box (30-06 Korean)""30-06 Ball M2"20 "Items\3006norma.act""boxnosler.e5b"
+BOX  "Ammo box (30-06 Korean)""Nosler JHP 30-06"20 "Items\3006norma.act""boxnosler.e5b"
 BOX  "BigAmmoBox (30-60/400)""30-06 Ball M2"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-
+BOX  "BigAmmoBox JHP +P (30-60/400)""Nosler JHP 30-06"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX "Ammo box 500 (30-06 AP)""30-06 AP"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX "Ammo box 500 (30-06 FMJ)""30-06 FMJ"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 

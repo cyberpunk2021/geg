@@ -1806,15 +1806,18 @@ alterar law.lua (permits)
 foldar bipods das armas bsm (intervention)
 rpk bipod lmgs bugada
 t65 handle modelo correto
-9mm jhp mais penetration
 melhorar ina smg
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em 10mm
-fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
+iteminfo balaa parei em 7.92x57 mauser
 
 nos fgs pulei f2000 e ar15 blackout
 
+"Ammo box 500 (SP-10)"
+"Ammo box 500 (SP-11)"
+
+"Nosler JHP 30-06"
+"BigAmmoBox JHP +P (30-60/400)"
 
 
 "CPW NOFG (9mm)"
