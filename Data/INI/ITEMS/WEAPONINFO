@@ -10601,6 +10601,450 @@ ACTOR			"Items\Taurus65hammerw.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
+ITEM "Revolver Police Positive (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\coltpolicepositive.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver Police Positive B (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\coltpolicepositiveb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver Police Positive W (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\coltpolicepositivew.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver Police Positive WB (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\coltpolicepositivewb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver Police Positive BB (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\coltpolicepositivebb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver Police Positive GB (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\coltpolicepositivegb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver SW 10 (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\sw10.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver SW 10 W (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\sw10w.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver SW 10 B (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\sw10b.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver SW 10 WB (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\sw10wb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver SW 10 BB (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\sw10bb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Revolver SW 10 GB (.38 spc)"
+Class			Pistol
+Caliber			".38 Spl"
+Weight			1075
+PrepareTime		0.17
+SingleFireTime	0.60
+BurstFireTime	0.25
+SpeedModifier	1.01
+Resource		2600
+DirtResource	280000
+MisfireProb		0
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	44
+RangeCurvature	5
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\python.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Ruger Security Six (.38/6)"
+ACTOR			"Items\sw10gb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
 ITEM "Revolver Taurus 82 Stainless (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
@@ -85248,7 +85692,7 @@ ShootSound		"Weapon\Shoot\SV-98_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		1 "??98"
+ATT Bipod		1 "SV98"
 ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -85288,7 +85732,7 @@ ShootSound		"Weapon\Shoot\SV-98_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		1 "??98"
+ATT Bipod		1 "SV98"
 ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0

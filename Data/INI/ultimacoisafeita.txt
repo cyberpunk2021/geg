@@ -1824,6 +1824,31 @@ nos fgs pulei f2000 e ar15 blackout
 "CPW NOFG (4.6)"
 "CPW NOFG (4.6) folded"
 
+
+=================
+
+"Pistol Beretta 90Two (9mm)"
+"Pistol Beretta 90Two (.40)"
+"Revolver SW 10 (.38 spc)"
+"Revolver SW 10 W (.38 spc)"
+"Revolver SW 10 B (.38 spc)"
+"Revolver SW 10 WB (.38 spc)"
+"Revolver SW 10 BB (.38 spc)"
+"Revolver SW 10 GB (.38 spc)"
+
+
+"Pistol clip (Beretta 90Two/17)"
+"Pistol clip (Beretta 90Two40/15)"
+
+"Revolver Police Positive (.38 spc)"
+"Revolver Police Positive B (.38 spc)"
+"Revolver Police Positive W (.38 spc)"
+"Revolver Police Positive WB (.38 spc)"
+"Revolver Police Positive BB (.38 spc)"
+"Revolver Police Positive GB (.38 spc)"
+
+"M26 MASS shotgun (12 ga)"
+
 +++++++++++++
 
 

@@ -5753,6 +5753,18 @@ ACTOR			"Items\masterkey_ak.act"
 IMAGE			"masterkey_ak.e5b"
 WEIGHT			2650
 Resource		9500
+//------------------------------------------------------  
+Addon  "M26 MASS shotgun (12 ga)"
+ILauncher  "M203"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound  "Addon\ShootSound\M1014.wav"
+GrenadeType  "12 калибр"
+GrenadeCount  5 
+IsLauncher  0 
+ACTOR  "Items\M26_UGL.act"
+IMAGE  "M26UGL.e5b"
+WEIGHT  1220 
+Resource  4500 
 //------------------------------------------------------
 Addon			"Tactical grip"
 Bipod			"WR"
