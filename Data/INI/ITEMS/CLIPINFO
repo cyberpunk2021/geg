@@ -952,17 +952,23 @@ ACTOR  "Items\beretta92fs-clip17.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip17.e5b"
 DEFAMMO  "9x19 FMJ Ball"
+CLIP  "Pistol clip (Beretta 90Two/17)""9ץ19 לל""Beretta9mm"17 90 "None"500 
+ACTOR  "Items\beretta90twomag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip17.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+
+CLIP  "Pistol clip (BerettaElite 92FS/15)""9ץ19 לל""Beretta9mm"17 99 "None"1500 
+ACTOR  "Items\92elitemag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Pistol clip (Beretta 92FS/20)""9ץ19 לל""Beretta9mm"20 110 "None"500 
 ACTOR  "Items\beretta92fs-clip20.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip20.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
-CLIP  "Pistol clip (BerettaElite 92FS/15)""9ץ19 לל""Beretta9mmElite"15 99 "None"1500 
-ACTOR  "Items\92elitemag.act"
-USEPREFIX  ""
-IMAGE  "beretta92-clip15.e5b"
-DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "Pistol clip (M93R/20)""9ץ19 לל""M93R"20 119 "None"1500 
 ACTOR  "Items\93rnovamag.act"
@@ -1898,7 +1904,12 @@ ACTOR  "Items\beretta92fs-clip17.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip17.e5b"
 DEFAMMO  "Ammo .40 S&W"
-CLIP  "Pistol clip (BerettaElite .40/12)"".40 S&W""Beretta40Elite"12 99 "None"1500 
+CLIP  "Pistol clip (Beretta 90Two40/15)"".40 S&W""PT100"15 90 "None"500 
+ACTOR  "Items\beretta90twomag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip17.e5b"
+DEFAMMO  "Ammo .40 S&W"
+CLIP  "Pistol clip (BerettaElite .40/12)"".40 S&W""PT100"15 99 "None"1500 
 ACTOR  "Items\92elitemag.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip15.e5b"
@@ -2689,12 +2700,12 @@ DEFAMMO  ".45 ACP FMJ Ball"
 
 
 // ךאכטבנ 10 mm auto
-BOX  "Ammo box (10mm FMJ)""10 mm auto FMJ"50 "Items\10x25fmj_box.act""10x25fmj_box.e5b"
+BOX  "Ammo box (10mm FMJ)""10 mm auto FMJ"50 "Items\10mmarmscor.act""boxarmscor.e5b"
 BOX  "Ammo box (10mm HP)""Silvertip HP 10 mm"50 "Items\10x25hp_box.act""10x25hp_box.e5b"
 
 BOX  "Ammo box (10mm JHP)""10mm Auto JHP"50 "Items\10mmfederal.act""boxfederalvermelho.e5b"
 BOX  "Ammo box (10mm AP)""10mm Auto AP"50 "Items\10mmblacktalon.act""boxblacktalon.e5b"
-BOX  "Ammo box (10mm FMJ+)""10mm Auto FMJ"50 "Items\10mmarmscor.act""boxarmscor.e5b"
+BOX  "Ammo box (10mm FMJ+)""10mm Auto FMJ"50 "Items\10x25fmj_box.act""10x25fmj_box.e5b"
 BOX  "Ammo box (10mm SP)""10mm Auto Surplus"50 "Items\algeira10mm.act""algeiraboxinv.e5b"
 
 BOX  "Ammo box 500 HLA (10mm FMJ)""10 mm auto FMJ"500 "Items\Note_closed.act""Note_closed.e5b"

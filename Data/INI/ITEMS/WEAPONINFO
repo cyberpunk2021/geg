@@ -5328,6 +5328,43 @@ ACTOR			"Items\beretta92fs_inox.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
+ITEM "Pistol Beretta 90Two (9mm)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			950
+PrepareTime		0.15
+SingleFireTime	0.64
+BurstFireTime	0.1143
+SpeedModifier	1
+Resource		1200
+DirtResource	140000
+MisfireProb		0.003
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.53
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+ATT Light		1 "WR"
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Beretta9mm"
+StdPlug			"Pistol clip (Beretta 90Two/17)"
+ACTOR			"Items\beretta90two.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
 ITEM "Pistol 92G Elite (9mm)"
 Class			Pistol
 Caliber			"9υ19 μμ"
@@ -7856,6 +7893,43 @@ ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/10)"
 ACTOR			"Items\92fsnova.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Beretta 90Two (.40)"
+Class			Pistol
+Caliber			".40 S&W"
+Weight			950
+PrepareTime		0.15
+SingleFireTime	0.64
+BurstFireTime	0.1143
+SpeedModifier	1
+Resource		1200
+DirtResource	140000
+MisfireProb		0.003
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.53
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+ATT Light		1 "WR"
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 ".40 (P99)"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT100"
+StdPlug			"Pistol clip (Beretta 90Two40/15)"
+ACTOR			"Items\beretta90two.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -71467,8 +71541,8 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT Silencer	0
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	2 "AK 7.62""RPK"
@@ -71505,8 +71579,8 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT Silencer	0
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	2 "AK 7.62""RPK"
@@ -71544,8 +71618,8 @@ ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
-ATT Bipod		3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT Silencer	0
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet" blocks Silencer
 ATT Magazine	2 "AK 7.62""RPK"
@@ -85174,7 +85248,7 @@ ShootSound		"Weapon\Shoot\SV-98_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		1 "SV98"
+ATT Bipod		1 "??98"
 ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -85214,7 +85288,7 @@ ShootSound		"Weapon\Shoot\SV-98_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		1 "SV98"
+ATT Bipod		1 "??98"
 ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0

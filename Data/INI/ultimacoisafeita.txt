@@ -1808,11 +1808,12 @@ rpk bipod lmgs bugada
 t65 handle modelo correto
 9mm jhp mais penetration
 melhorar ina smg
-deixar "Carabine Zastava M70 (7.62x39mm)" semi auto
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em 40 SW
+iteminfo balaa parei em 10mm
 fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
+
+nos fgs pulei f2000 e ar15 blackout
 
 
 
@@ -1822,6 +1823,299 @@ fixar os cajamuniciongrande "CajaMunicionGrande (.45/1000)"
 "CPW NOFG (5.7)"
 "CPW NOFG (4.6)"
 "CPW NOFG (4.6) folded"
+
++++++++++++++
+
+
+
+"Submachine-gun MPX (9mm)"
+"Submachine-gun MPX (9mm) folded"
+"Submachine-gun MPX (40)"
+"Submachine-gun MPX (40) folded"
+"Submachine-gun MPX (357)"
+"Submachine-gun MPX (357) folded"
+"Submachine-gun MPX FG (9mm)"
+"Submachine-gun MPX FG (9mm) folded"
+"Submachine-gun MPX FG (40)"
+"Submachine-gun MPX FG (40) folded"
+"Submachine-gun MPX FG (357)"
+"Submachine-gun MPX FG (357) folded"
+"Submachine-gun MPXK (9mm)"
+"Submachine-gun MPXK (9mm) folded"
+"Submachine-gun MPXK (40)"
+"Submachine-gun MPXK (40) folded"
+"Submachine-gun MPXK (357)"
+"Submachine-gun MPXK (357) folded"
+"Submachine-gun MPXK FG (9mm)"
+"Submachine-gun MPXK FG (9mm) folded"
+"Submachine-gun MPXK FG (40)"
+"Submachine-gun MPXK FG (40) folded"
+"Submachine-gun MPXK FG (357)"
+"Submachine-gun MPXK FG (357) folded"
+
+"Submachine-gun Skorpion 3 (9mm)"
+"Submachine-gun Skorpion 3 (9mm) folded"
+"Submachine-gun Skorpion 3 FG (9mm)"
+"Submachine-gun Skorpion 3 FG (9mm) folded"
+
+"Submachine-gun MX4 (9mm)"
+"Submachine-gun MX4 FG (9mm)"
+"Submachine-gun MX4 (40)"
+"Submachine-gun MX4 FG (40)"
+"Submachine-gun MX4 (45)"
+"Submachine-gun MX4 FG (45)"
+"Submachine-gun CX4 (9mm)"
+"Submachine-gun CX4 FG (9mm)"
+"Submachine-gun CX4 (40)"
+"Submachine-gun CX4 FG (40)"
+"Submachine-gun CX4 (45)"
+"Submachine-gun CX4 FG (45)"
+
+"Assault Rifle Bulldog (7.62mm)"
+"Assault Rifle Bulldog FG (7.62mm)"
+
+"Assault Rifle T14 M4A1 (410)"
+"Assault Rifle T14 M4A1 (410) folded"
+"Assault Rifle T14 M4A1 FG (410)"
+"Assault Rifle T14 M4A1 FG (410) folded"
+
+"Assault Rifle T14 MWS (410)"
+"Assault Rifle T14 MWS FG (410)"
+"Small Assault Rifle M933 Beowulf (.50 BEO)"
+"Small Assault Rifle M933 Beowulf (.50 BEO) folded"
+"Small Assault Rifle M933 Beowulf FG (.50 BEO)"
+"Small Assault Rifle M933 Beowulf FG (.50 BEO) folded"
+"Assault Rifle M4 Beowulf (.50 BEO)"
+"Assault Rifle M4 Beowulf (.50 BEO) folded"
+"Assault Rifle M4 Beowulf FG (.50 BEO)"
+"Assault Rifle M4 Beowulf FG (.50 BEO) folded"
+"Assault Rifle LAC Beowulf (.50 BEO)"
+"Assault Rifle LAC Beowulf (.50 BEO) folded"
+"Assault Rifle LAC Beowulf FG (.50 BEO)"
+"Assault Rifle LAC Beowulf FG (.50 BEO) folded"
+"Assault Rifle Beowulf MWS (.50 BEO)"
+"Assault Rifle Beowulf MWS FG (.50 BEO)"
+"Small Assault Rifle M933 Grendel (6.5)"
+"Small Assault Rifle M933 Grendel (6.5) folded"
+"Small Assault Rifle M933 Grendel FG (6.5)"
+"Small Assault Rifle M933 Grendel FG (6.5) folded"
+"Assault Rifle M4 Grendel (6.5)"
+"Assault Rifle M4 Grendel (6.5) folded"
+"Assault Rifle M4 Grendel FG (6.5)"
+"Assault Rifle M4 Grendel FG (6.5) folded"
+"Assault Rifle LAC Grendel (6.5)"
+"Assault Rifle LAC Grendel (6.5) folded"
+"Assault Rifle LAC Grendel FG (6.5)"
+"Assault Rifle LAC Grendel FG (6.5) folded"
+"Assault Rifle Grendel MWS (6.5)"
+"Assault Rifle Grendel MWS FG (6.5)"
+
+
+"Assault Rifle Government Carbine (5.56mm)"
+"Assault Rifle Government Carbine (5.56mm) folded"
+"Assault Rifle XM-15-E2S (5.56mm)"
+"Assault Rifle XM-15-E2S (5.56mm) folded"
+"Assault Rifle XM-15-E2S (5.56mm) asalto"
+"Assault Rifle XM-15-E2S (5.56mm) asalto folded"
+
+"Assault Rifle Sporter Lightweight (5.56mm)"
+"Carabine Colt Sporter Lightweight (7.62x39mm)"
+
+"Assault Rifle M16A1 HG CIV (5.56mm)"
+
+"Assault Rifle M16A3 Target (5.56mm)"
+"Assault Rifle M16A3 MWS Target (5.56mm)"
+"Assault Rifle M16A3 Target FG (5.56mm)"
+
+"Assault Rifle Ash (12.7)"
+"Assault Rifle Ash FG (12.7)"
+"MSBS Bullpup"
+"MSBS Bullpup FG"
+
++++++++++++++
+
+"Submachine-gun HK MP5A5 RIS FG (9mm)"
+"Submachine-gun HK MP5A5 RIS FG (9mm) folded"
+"Submachine-gun NR-08 RIS FG (9mm)"
+"Submachine-gun NR-08 RIS FG (9mm) folded"
+"Submachine-gun HK MP5A5 RIS FG (.40 S&W)"
+"Submachine-gun HK MP5A5 RIS FG (.40 S&W) folded"
+"Submachine-gun HK MP5A5 RIS FG (10)"
+"Submachine-gun HK MP5A5 RIS FG (10) folded"
+"Assault Rifle Taurus CQC FG (9mm)"
+"Assault Rifle Taurus CQC FG (9mm) folded"
+"Assault Rifle Taurus CQC FG (.40)"
+"Assault Rifle Taurus CQC FG (.40) folded"
+
+"Submachine-gun Colt SMG HG (9mm)"
+"Submachine-gun Colt SMG HG (9mm) folded"
+"Submachine-gun Colt SMG HG FG (9mm)"
+"Submachine-gun Colt SMG HG FG (9mm) folded"
+
+"Submachine-gun Colt 635 WR FG (9mm)"
+"Submachine-gun Colt 635 WR FG (9mm) folded"
+"Submachine-gun Colt 635 WR LB FG (9mm)"
+"Submachine-gun Colt 635 WR LB FG (9mm) folded"
+
+"Submachine-gun K9 FG (9mm)"
+"Submachine-gun K9 FG (9mm) folded"
+"Submachine-gun K40 FG (.40)"
+"Submachine-gun K40 FG (.40) folded"
+"Submachine-gun K45 FG (.45ACP)"
+"Submachine-gun K45 FG (.45ACP) folded"
+"Submachine-gun K10 FG (10)"
+"Submachine-gun K10 FG (10) folded"
+
+
+
+"IWI X95 SMG FG"
+
+
+"Submachine-gun XCR Pistol FG RUSL"
+"Submachine-gun XCR Pistol FG RUSL folded"
+"Submachine-gun XCR Pistol FG NATO"
+"Submachine-gun XCR Pistol FG NATO folded"
+"Submachine-gun XCR Pistol FG SPC"
+"Submachine-gun XCR Pistol FG SPC folded"
+"Submachine-gun XCR Pistol FG RUSM"
+"Submachine-gun XCR Pistol FG RUSM folded"
+
+"Submachine-gun SCAR Pistol FG NATO"
+"Submachine-gun SCAR Pistol FG NATO folded"
+
+"Assault Rifle SIG 556 CQC CIV FG (5.56mm)"
+"Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded"
+
+"Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
+"Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
+
+"Assault Rifle SIG 556 CIV FG (5.56mm)"
+"Assault Rifle SIG 556 CIV FG (5.56mm) folded"
+
+"Assault Rifle Daewoo DR100 RIS FG (5.56mm)"
+"Assault Rifle Daewoo DR100 RIS FG (5.56mm) folded"
+
+"Assault Rifle Daewoo DR200 RIS FG (5.56mm)"
+
+"Assault Rifle Daewoo DR300 RIS FG (7.62mm)"
+
+"Assault ARX VERY LB CIV FG (5.45x39mm)"
+"Assault ARX VERY LB CIV FG (5.45x39mm) folded"
+
+"Assault ARX VERY LB CIV FG (5.56x45mm)"
+"Assault ARX VERY LB CIV FG (5.56x45mm) folded"
+
+"Assault ARX VERY LB CIV FG (6.8x43mm)"
+"Assault ARX VERY LB CIV FG (6.8x43mm) folded"
+
+"Assault ARX VERY LB CIV FG (7.62x39mm)"
+"Assault ARX VERY LB CIV FG (7.62x39mm) folded"
+
+"Assault Rifle T14 HG (410)"
+"Assault Rifle T14 HG FG (410)"
+
+"HK MC51 RIS FG S CIV (7.62x51mm)"
+"HK MC51 RIS FG CIV (7.62x51mm)"
+"HK MC51 RIS FG CIV (7.62x51mm) folded"
+
+"Assault Rifle M4A1 CIV HG (5.56mm)"
+"Assault Rifle M4A1 CIV HG (5.56mm) folded"
+
+"Assault Rifle M4A1 CIV HG FG (5.56mm)"
+"Assault Rifle M4A1 CIV HG FG (5.56mm) folded"
+
+"Assault Rifle AR-15A2 HG (5.56mm)"
+"Assault Rifle AR-15A2 HG (5.56mm) folded"
+
+"Assault Rifle AR-15A2 HG FG (5.56mm)"
+"Assault Rifle AR-15A2 HG FG (5.56mm) folded"
+
+"Assault Rifle Sporter Lightweight HG FG (5.56mm)"
+
+
+"Assault Rifle M16 CIV HG (5.56mm)"
+"Assault Rifle M16 CIV RIS (5.56mm)"
+"Assault Rifle M16 CIV RIS FG (5.56mm)"
+
+"Assault Rifle M16A1 CIV (5.56mm)"
+"Assault Rifle M16A1 RIS CIV (5.56mm)"
+"Assault Rifle M16A1 RIS FG CIV (5.56mm)"
+
+"Assault Rifle M16A1 RIS CIV 715 (5.56mm)"
+"Assault Rifle M16A1 RIS FG CIV 715 (5.56mm)"
+
+
+
+"Assault Rifle M16A2 CIV RIS (5.56mm)"
+"Assault Rifle M16A2 CIV RIS FG (5.56mm)"
+
+"Assault Rifle M16A2 Target RIS (5.56mm)"
+"Assault Rifle M16A2 Target RIS FG (5.56mm)"
+
+"Assault Rifle IMBEL IA2C CIV FG (5.56mm)"
+"Assault Rifle IMBEL IA2C CIV FG (5.56mm) folded"
+
+"Assault Rifle Taurus CT CIV FG (5.56mm)"
+"Assault Rifle Taurus CT CIV FG (5.56mm) folded"
+
+
+"Carabine IMBEL ParaFal FG (7.62x51mm)"
+"Carabine IMBEL ParaFal FG (7.62x51mm) folded"
+
+"Carabine L22A1 Tac FG (5.56mm)"
+"Carabine SA80CAR Tac FG (5.56mm)"
+"Assault Rifle L85A2 Tac FG (5.56mm)"
+
+"Assault Rifle Steyr AUG A3 FG (5.56mm)"
+
+"Assault Rifle TAR-21 FG (5.56mm)"
+
+"Assault Rifle SAR21 FG (5.56mm)"
+
+"HS VHS-K2 FG"
+"HS VHS-D2 FG"
+
+"IWI X95 NATO FG"
+"IWI X95 RUS FG"
+
+"MSBS FG"
+"MSBS FG folded"
+
+"Assault Rifle M14EBR NEW FG (7.62mm)"
+"Assault Rifle M14EBR NEW FG (7.62mm) folded"
+
+
+"Assaul Rifle SA Vz.58 Mod CQC FG"
+"Assaul Rifle SA Vz.58 Mod CQC FG folded"
+
+"Assaul Rifle SA Vz.58 Mod CAR FG"
+"Assaul Rifle SA Vz.58 Mod CAR FG folded"
+
+"Assaul Rifle SA Vz.58 Mod FG"
+"Assaul Rifle SA Vz.58 Mod FG folded"
+
+"Assaul Rifle SA Vz.58 Mod CQC NATO FG"
+"Assaul Rifle SA Vz.58 Mod CQC NATO FG folded"
+
+"Assaul Rifle SA Vz.58 Mod CAR NATO FG"
+"Assaul Rifle SA Vz.58 Mod CAR NATO FG folded"
+
+"Assaul Rifle SA Vz.58 Mod NATO FG"
+"Assaul Rifle SA Vz.58 Mod NATO FG folded"
+
+
+"Assault Rifle CZ-805 Bren A1 FG (5.56mm)"
+"Assault Rifle CZ-805 Bren A1 FG (5.56mm) folded"
+
+
+
+
+
+
+
+
+
+
 
 
 
