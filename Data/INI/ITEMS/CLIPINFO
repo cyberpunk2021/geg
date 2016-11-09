@@ -1160,7 +1160,12 @@ USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Pistol clip (P2000/13)""9υ19 μμ""P2000"13 40 "None"500 
-ACTOR  "Items\p2000mag.act"
+ACTOR  "Items\p2000armamag.act"
+USEPREFIX  ""
+IMAGE  "usp9_clip.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "Pistol clip (P30/15)""9υ19 μμ""P30"15 40 "None"500 
+ACTOR  "Items\p30mag.act"
 USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"

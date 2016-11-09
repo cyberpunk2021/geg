@@ -1864,6 +1864,9 @@ nos fgs pulei f2000 e ar15 blackout
 
 
 "Shotgun clip (SPAS-15Tan/8)"
+
+"Pistol P30 (9mm)"
+"Pistol clip (P30/15)"
 +++++++++++++
 
 

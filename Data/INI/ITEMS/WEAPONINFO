@@ -4427,7 +4427,48 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "P2000"
 StdPlug			"Pistol clip (P2000/13)"
-ACTOR			"Items\p2000.act"
+ACTOR			"Items\p2000arma.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol P30 (9mm)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			620
+PrepareTime		0.14
+SingleFireTime	0.59
+BurstFireTime	0.05
+SpeedModifier	0.95
+Resource		1000
+DirtResource	120000
+MisfireProb		0.0025
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	39
+RangeCurvature	6
+Balance			0.62
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Glock.wav"
+ATT Laser		1 "HK"
+blocks
+Light
+ATT Light		1 "HK"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "P2000"
+StdPlug			"Pistol clip (P30/15)"
+ACTOR			"Items\p30.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
