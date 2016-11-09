@@ -3,11 +3,14 @@
 function GetStdAddon(item, addon_type)
 	local addons = item:GetStdPlugs()
 	if addons == nil then return nil end
-	for i = 1, #addons do
-		if GetItem(addons[i]):GetAddonInfo():GetType() == addon_type then
-			return addons[i]
-		end
-	end
+    for _,addon in ipairs(addons) do
+
+        if addon:GetFamily() == Family.ifAddon and addon:GetAddonInfo():GetType() == addon_type then
+            return addon:GetName()
+        end
+
+
+    end
 	return nil
 end
 

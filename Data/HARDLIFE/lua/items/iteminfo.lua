@@ -6,14 +6,15 @@ local UpgradesDescriptions = {}
 function GetStdPlug(item, itemFamily)
 	local plugs = item:GetStdPlugs()
 	if plugs == nil then return nil end
-	for i = 1, #plugs do
-            local itemName = tostring(plugs[i])
-            local plug = GetItem(itemName)
-            if plug ~= nil then
+	for _,plug in ipairs(plugs) do
+
+
+
+
 		if (plug:GetFamily() == itemFamily) then
 			return plug
 		end
-            end
+
 	end
 	return nil
 end
@@ -177,7 +178,7 @@ local function buildItemInfo(item)
         if #upgrades > 0 then
             show(_t"lang/lua/iteminfo/upgrades")
             for _, upgrade in ipairs(upgrades) do
-                show("  - " .. (UpgradesDescriptions[upgrade.id] or upgrade.id))
+                show("  - " .. upgrade.desc)
             end
         end
         show("")
@@ -293,11 +294,12 @@ end
 local function buildItemSpecificInfo()
     local items = Engine.GetAllItems()
     local maxPlugIndex = Engine.PlugTypesCount(AddonTypes.adSilencer) - 1
+    local builtInIndex = Engine.BuiltInPlugType(AddonTypes.adSilencer)
 
     local plugTypeSilencers = {}
     for _,item in ipairs(items) do
         -- also ignoring built-in (0)
-        if item:GetFamily() == Family.ifAddon and item:GetAddonType() == AddonTypes.adSilencer and item:GetPlugType() ~= 0 then
+        if item:GetFamily() == Family.ifAddon and item:GetAddonType() == AddonTypes.adSilencer and not item:IsBuiltIn() then
             tablePush(plugTypeSilencers, item:GetPlugType(), item:GetRealName() .. string.format(" (%.0f%%)", item:GetSilencingValue() * 100))
         end
     end
@@ -307,9 +309,9 @@ local function buildItemSpecificInfo()
         if family == Family.ifWeapon then
             local info = item:GetSpecificInfo()
             for i = 0, maxPlugIndex do
-                if item:CanPlugAddon(AddonTypes.adSilencer, i) then
+                if i ~= builtInIndex and item:CanPlugAddon(AddonTypes.adSilencer, i) then
                     -- if weapon unfolded
-                    if info["FoldButtIndex"] == info["RiseButtIndex"] or info["FoldButtIndex"] ~= -1 then
+                    if info["FoldButtItem"] == info["RiseButtItem"] or info["FoldButtItem"] ~= nil then
                         tablePush(PlugTypeToWeaponMap, i, item:GetRealName())
                     end
 
@@ -340,23 +342,6 @@ local function SetItemHint(cmd, value)
         item:SetHint(value or "")
     end
 end
-
-local function LoadUpgradesInfo()
-    local config = Config("items/weapon_upgrades")
-    local list = config:XPath("/root/upgrade")
-    for _, upgrade in ipairs(list) do
-        local id = upgrade:AttrStr("id")
-        local descr = upgrade:XPath("description")
-        if #descr > 0 then
-            UpgradesDescriptions[id] = _t(tostring(descr[1]))
-            --Log("Upgrade[" .. tostring(id) .. "] = " .. UpgradesDescriptions[id])
-        end
-    end
-
-    config:close()
-end
-
-LoadUpgradesInfo()
 
 buildItemSpecificInfo()
 

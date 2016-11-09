@@ -129,6 +129,7 @@ local function AdoptBoxForItem(box, item)
 end
 
 local function CacheBoxesForAdoptation()
+    --todo do not use this config directly, it's deprecated
     local conf = Config("containers")
     local items = conf:XPath("/root/Container")
     for _, node in ipairs(items) do
