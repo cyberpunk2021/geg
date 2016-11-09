@@ -53066,7 +53066,7 @@ ACTOR			"Items\m652.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle M653 (5.56mm)" //M653
+ITEM "Assault Rifle M653 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2676
@@ -53091,8 +53091,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -53105,7 +53105,7 @@ ACTOR			"Items\m653.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle M653 (5.56mm) folded" //M653
+ITEM "Assault Rifle M653 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2676
@@ -53130,8 +53130,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -53144,7 +53144,7 @@ ACTOR			"Items\m653.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle M654 (5.56mm)" //M654
+ITEM "Assault Rifle M654 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2576
@@ -53169,8 +53169,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -53183,7 +53183,7 @@ ACTOR			"Items\m654.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle M654 (5.56mm) folded" //M654
+ITEM "Assault Rifle M654 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2576
@@ -53208,8 +53208,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -55700,8 +55700,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -55739,8 +55739,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -78409,8 +78409,8 @@ ClipInSound		"Weapon\ClipIn\AK-102_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
 ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
 ShootSound		"Weapon\Shoot\AK-102_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
@@ -78448,8 +78448,8 @@ ClipInSound		"Weapon\ClipIn\AK-102_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
 ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
 ShootSound		"Weapon\Shoot\AK-102_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
