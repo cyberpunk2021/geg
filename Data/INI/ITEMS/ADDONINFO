@@ -8866,6 +8866,22 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"spas15_stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\spas15stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"spas15_stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\spas15stockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
 Addon			"GM94 launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"

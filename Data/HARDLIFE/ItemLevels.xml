@@ -2469,9 +2469,16 @@
   <item level="3">TOZ194 (12ga) folded</item>
   <item level="3">SPAS12 NS (12ga)</item>
   <item level="4">SPAS12 F (12ga)</item>
-  <item level="4">SPAS15 (12ga)</item>
+  <item level="3">SPAS15 (12ga)</item>
   <item level="4">SPAS15 F (12ga)</item>
   <item level="4">SPAS15 F (12ga) folded</item>
+  <item level="4">SPAS15 FS (12ga)</item>
+  <item level="4">SPAS15 FS (12ga) folded</item>
+  <item level="3">SPAS15 Tan (12ga)</item>
+  <item level="4">SPAS15 Tan F (12ga)</item>
+  <item level="4">SPAS15 Tan F (12ga) folded</item>
+  <item level="4">SPAS15 Tan FS (12ga)</item>
+  <item level="4">SPAS15 Tan FS (12ga) folded</item>
   <item level="4">Shotgun Hawk Pump (12ga)</item>
   <item level="4">Shotgun Hawk Pump (12ga) folded</item>
   <item level="4">Shotgun Saiga12K (20ga)</item>
@@ -4015,6 +4022,7 @@
   <item level="2">Shotgun ammo clip (M26/5)</item>
   <item level="3">Shotgun ammo clip (DBV/8)</item>
   <item level="3">Shotgun clip (SPAS-15/8)</item>
+  <item level="3">Shotgun clip (SPAS-15Tan/8)</item>
   <item level="4">Rifle clip (Scout Elite223/10)</item>
   <item level="5">Rifle clip (Scout Elite308/10)</item>
   <item level="1">Pistol clip (FEG3732/7)</item>

@@ -31060,7 +31060,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		200
-EffectiveRange	46
+EffectiveRange	26
 RangeCurvature	6
 Balance			0.58
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31097,7 +31097,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		200
-EffectiveRange	26
+EffectiveRange	46
 RangeCurvature	6
 Balance			0.58
 Unfold			"TOZ194 (12ga) folded"
@@ -31351,6 +31351,43 @@ ACTOR			"Items\spas15fix.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
+ITEM "SPAS15 Tan (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.37
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.49
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15Tan/8)"
+ACTOR			"Items\spas15tanstocked.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "SPAS15 F (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
@@ -31426,6 +31463,240 @@ ATT Magazine	1 "SPAS15"
 StdPlug			"Shotgun clip (SPAS-15/8)"
 StdPlug			"fn_faldark_butt_folded"
 ACTOR			"Items\spas15fixfolding.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "SPAS15 Tan F (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.37
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.49
+Unfold "SPAS15 Tan F (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15/8)"
+StdPlug			"fn_faldark_butt"
+ACTOR			"Items\spas15tanfold.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "SPAS15 Tan F (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.33
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	40
+RangeCurvature	5
+Balance			0.49
+Unfold "SPAS15 Tan F (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15/8)"
+StdPlug			"fn_faldark_butt_folded"
+ACTOR			"Items\spas15tanfold.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "SPAS15 FS (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.37
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.49
+Unfold "SPAS15 FS (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15/8)"
+StdPlug			"spas15_stock"
+ACTOR			"Items\spas15fixfoldingfull.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "SPAS15 FS (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.33
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	40
+RangeCurvature	5
+Balance			0.49
+Unfold "SPAS15 FS (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15/8)"
+StdPlug			"spas15_stock_folded"
+ACTOR			"Items\spas15fixfoldingfull.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "SPAS15 Tan FS (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.37
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.49
+Unfold "SPAS15 Tan FS (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15Tan/8)"
+StdPlug			"spas15_stock"
+ACTOR			"Items\spas15tan.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "SPAS15 Tan FS (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3900
+PrepareTime		0.33
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1400
+DirtResource	160000
+MisfireProb		0.002
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	40
+RangeCurvature	5
+Balance			0.49
+Unfold "SPAS15 Tan FS (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "SPAS15"
+StdPlug			"Shotgun clip (SPAS-15Tan/8)"
+StdPlug			"spas15_stock_folded"
+ACTOR			"Items\spas15tan.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -36117,6 +36388,43 @@ ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"rem3006 mag"
 ACTOR			"Items\M1903_Springfieldnoscope.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Rifle M1917 Enfield (.30-06)"
+Class			Rifle
+Caliber			"30-06 Springfield"
+Weight			3900
+PrepareTime		0.65
+SingleFireTime	1.26
+BurstFireTime	0
+SpeedModifier	1.06
+Resource		1300
+DirtResource	88000
+MisfireProb		0.0039
+HeatCapacity	70
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	195
+RangeCurvature	1.5
+Balance			0.43
+ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
+ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
+ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
+ShootSound		"Weapon\Shoot\M1903_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"M1917 mag"
+ACTOR			"Items\m1917enfield.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 

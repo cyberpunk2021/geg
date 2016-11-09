@@ -3059,6 +3059,12 @@ USEPREFIX  ""
 IMAGE  "spas15mag.e5b"
 DEFAMMO  "00 Buckshot (12ga)"
 
+CLIP  "Shotgun clip (SPAS-15Tan/8)""12 калибр""SPAS15"8 140 "None"1200 
+ACTOR  "Items\spas15tanmag.act"
+USEPREFIX  ""
+IMAGE  "spas15mag.e5b"
+DEFAMMO  "00 Buckshot (12ga)"
+
 CLIP  "Shotgun ammo clip (Keltec/15)""12 калибр""built-in"15 0 "None"8000 
 ACTOR  "None"
 USEPREFIX  ""
@@ -3614,6 +3620,12 @@ IMAGE "barmag.e5b"
 DEFAMMO  "30-06 Ball M2"
 
 CLIP  "rem3006 mag""30-06 Springfield""built-in"5 0 "None"9000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "30-06 Ball M2"
+
+CLIP  "M1917 mag""30-06 Springfield""built-in"6 0 "None"9000 
 ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"

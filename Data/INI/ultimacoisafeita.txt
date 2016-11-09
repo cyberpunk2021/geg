@@ -1852,6 +1852,18 @@ nos fgs pulei f2000 e ar15 blackout
 
 "M26 MASS shotgun (12 ga)"
 
+
+"SPAS15 FS (12ga)"
+"SPAS15 FS (12ga) folded"
+"Rifle M1917 Enfield (.30-06)"
+"SPAS15 Tan (12ga)"
+"SPAS15 Tan F (12ga)"
+"SPAS15 Tan F (12ga) folded"
+"SPAS15 Tan FS (12ga)"
+"SPAS15 Tan FS (12ga) folded"
+
+
+"Shotgun clip (SPAS-15Tan/8)"
 +++++++++++++
 
 
