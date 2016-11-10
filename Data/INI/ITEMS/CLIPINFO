@@ -1160,7 +1160,7 @@ USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Pistol clip (P2000/13)""9х19 мм""P2000"13 40 "None"500 
-ACTOR  "Items\p2000armamag.act"
+ACTOR  "Items\p2000mag.act"
 USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"
@@ -1898,6 +1898,11 @@ CLIP  "Pistol clip (P200040/12)"".40 S&W""USP40"12 53 "None"500
 ACTOR  "Items\p2000mag.act"
 USEPREFIX  ""
 IMAGE  "usp40_clip.e5b"
+DEFAMMO  "Ammo .40 S&W"
+CLIP  "Pistol clip (P30/12)"".40 S&W""P3040"12 40 "None"500 
+ACTOR  "Items\p30mag.act"
+USEPREFIX  ""
+IMAGE  "usp9_clip.e5b"
 DEFAMMO  "Ammo .40 S&W"
 CLIP  "Pistol clip (PT100/10)"".40 S&W""PT100"10 70 "None"500 
 ACTOR  "Items\beretta92fs-clip15.act"
@@ -2944,7 +2949,7 @@ USEPREFIX  ""
 IMAGE  "encorebarrel.e5b"
 DEFAMMO  "00 Buckshot (12ga)"
 
-CLIP  "Shotgun ammo clip (BI/7)""12 калибр""built-in"6 0 "None"7000 
+CLIP  "Shotgun ammo clip (BI/7)""12 калибр""built-in"7 0 "None"7000 
 ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"
@@ -3095,6 +3100,18 @@ IMAGE  "None"
 DEFAMMO  "00 Buckshot (12ga)"
 
 CLIP  "Shotgun ammo clip (Serbu/3)""12 калибр""built-in"3 0 "None"8000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "00 Buckshot (12ga)"
+
+CLIP  "Shotgun ammo clip (m590a1/8)""12 калибр""built-in"8 0 "None"8000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "00 Buckshot (12ga)"
+
+CLIP  "Shotgun ammo clip (m590a1/9)""12 калибр""built-in"9 0 "None"8000 
 ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"
@@ -3783,8 +3800,8 @@ DEFAMMO  "7.7x58mm Arisaka SURPLUS"
 BOX  "Ammo box (7.92x57 HP)""7.92x57 Mauser HP"20 "Items\8mmhornady.act""boxhornady.e5b"
 
 BOX  "Ammo box (7.92x57)""7.92x57 FMJ"20 "Items\8x57_box.act""8x57_box.e5b"
-BOX  "Ammo box (8mm FMJ BT)""Prvi Partizan 8mm FMJ BT"20 "Items\8x57PPU_box.act""8x57PPU_box.e5b"
-BOX  "Ammo box (8mm SP)""PPU 8mm SP"20 "Items\8mmfmj.act""boxprvi.e5b"
+BOX  "Ammo box (8mm FMJ BT)""Prvi Partizan 8mm FMJ BT"20 "Items\8mmfmj.act""boxprvi.e5b"
+BOX  "Ammo box (8mm SP)""PPU 8mm SP"20 "Items\8x57PPU_box.act""8x57PPU_box.e5b"
 
 BOX "BigAmmoBox (7.92x57 HP/200)""7.92x57 Mauser HP"400 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 

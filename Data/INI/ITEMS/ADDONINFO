@@ -8882,6 +8882,22 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"mp153stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\mp153stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"mp153stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\mp153stockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
 Addon			"GM94 launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"

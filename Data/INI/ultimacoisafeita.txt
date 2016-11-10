@@ -1809,7 +1809,9 @@ t65 handle modelo correto
 melhorar ina smg
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em 7.92x57 mauser
+iteminfo balaa parei em 300 blackout
+mudar "Prvi Partizan 8mm FMJ BT" pra AP
+mudar WPA 5.45x39 pra HP
 
 nos fgs pulei f2000 e ar15 blackout
 
@@ -1866,7 +1868,29 @@ nos fgs pulei f2000 e ar15 blackout
 "Shotgun clip (SPAS-15Tan/8)"
 
 "Pistol P30 (9mm)"
+"Pistol P30 (.40)"
 "Pistol clip (P30/15)"
+"Pistol clip (P30/12)"
+"Shotgun TOZ 87 (12ga)"
+"Shotgun TOZ 87 Ext (12ga)"
+"Shotgun Mossberg 590A1 (12ga)"
+"Shotgun Mossberg 590A1 LB (12ga)"
+"Shotgun ammo clip (m590a1/8)"
+"Shotgun ammo clip (m590a1/9)"
+
+"Shotgun Remington 11-87 SB (12ga)"
+"Shotgun Remington 11-87 LB (12ga)"
+"Shotgun Remington 11-87 (12ga)"
+
+"Baikal 153 SB (12ga)"
+"Baikal 153 SB (12ga) folded"
+"Baikal 153 (12ga)"
+"Baikal 153 (12ga) folded"
+"Baikal 153 LB (12ga)"
+"Baikal 153 LB (12ga) folded"
+
+"mp153stock"
+"mp153stock_folded"
 +++++++++++++
 
 
