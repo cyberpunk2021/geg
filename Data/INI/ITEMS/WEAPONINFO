@@ -5518,8 +5518,9 @@ ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta9mm"
-StdPlug			"Pistol clip (Beretta 92FS/17)"
-ACTOR			"Items\TaurusPT92.act"
+//StdPlug			"Pistol clip (Beretta 92FS/17)"
+//ACTOR			"Items\TaurusPT92.act"
+ACTOR			"Items\pt92mp3.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -9847,6 +9848,88 @@ ATT Bayonet		0
 ATT Magazine	1 "USP"
 StdPlug			"Pistol clip (USP/12)"
 ACTOR			"Items\Usp_Match.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol HK45 (45)"
+Class			Pistol
+Caliber			".45 ACP"
+Weight			620
+PrepareTime		0.14
+SingleFireTime	0.59
+BurstFireTime	0.05
+SpeedModifier	0.95
+Resource		1000
+DirtResource	120000
+MisfireProb		0.0025
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	39
+RangeCurvature	6
+Balance			0.62
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Glock.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 45 ACP"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK45"
+StdPlug			"Pistol clip (HK45/10)"
+ACTOR			"Items\p3045.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol HK45C (45)"
+Class			Pistol
+Caliber			".45 ACP"
+Weight			620
+PrepareTime		0.14
+SingleFireTime	0.59
+BurstFireTime	0.05
+SpeedModifier	0.95
+Resource		1000
+DirtResource	120000
+MisfireProb		0.0025
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	39
+RangeCurvature	6
+Balance			0.62
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Glock.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 45 ACP"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK45C"
+StdPlug			"Pistol clip (HK45C/10)"
+ACTOR			"Items\hk45c.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -17126,6 +17209,84 @@ ATT Magazine	1 "PPS-43"
 StdPlug			"SMG ammo clip (PPS/35)"
 StdPlug			"type54_buttfolded"
 ACTOR			"Items\type54.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun Type 79 (7.62x25mm)"
+Class			SMG
+Caliber			"7.62υ25 μμ"
+Weight			3040
+PrepareTime		0.30
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.1
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0015
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	80
+RangeCurvature	1
+Balance			0.32
+Unfold			"Submachine-gun Type 79 (7.62x25mm) folded"
+ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
+ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
+ReLockSound		"Weapon\ReLock\PPSh_slide.wav"
+ShootSound		"Weapon\Shoot\PPSh_fire_1.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Type79"
+StdPlug			"SMG ammo clip (Type79/20)"
+StdPlug			"type79stock"
+ACTOR			"Items\type79.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun Type 79 (7.62x25mm) folded"
+Class			SMG
+Caliber			"7.62υ25 μμ"
+Weight			3040
+PrepareTime		0.27
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.1
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0015
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	1
+Balance			0.32
+Unfold			"Submachine-gun Type 79 (7.62x25mm)"
+ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
+ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
+ReLockSound		"Weapon\ReLock\PPSh_slide.wav"
+ShootSound		"Weapon\Shoot\PPSh_fire_1.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Type79"
+StdPlug			"SMG ammo clip (Type79/20)"
+StdPlug			"type79stock_folded"
+ACTOR			"Items\type79.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -92850,6 +93011,80 @@ StdPlug			"HK Integrated Bipod"
 ACTOR			"Items\hk21e.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
+
+ITEM "Machinegun HK121 (7.62x51mm)"
+Class			Machinegun
+Caliber			"7.62υ51 μμ"
+Weight			8332
+PrepareTime		0.65
+SingleFireTime	0.6857
+BurstFireTime	0.06857
+SpeedModifier	1.13
+Resource		4800
+DirtResource	500000
+MisfireProb		0.0019
+HeatCapacity	240
+Single			0
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	235
+RangeCurvature	0.5
+Balance			0.28
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\MK48_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK121"
+StdPlug			"Chain-gun ammo box (HK121 7.62x51/120)"
+ACTOR			"Items\hk121.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Machinegun HK121 BK (7.62x51mm)"
+Class			Machinegun
+Caliber			"7.62υ51 μμ"
+Weight			8332
+PrepareTime		0.65
+SingleFireTime	0.6857
+BurstFireTime	0.06857
+SpeedModifier	1.13
+Resource		4800
+DirtResource	500000
+MisfireProb		0.0019
+HeatCapacity	240
+Single			0
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	235
+RangeCurvature	0.5
+Balance			0.28
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\MK48_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK121"
+StdPlug			"Chain-gun ammo box (HK121BK 7.62x51/120)"
+ACTOR			"Items\hk121bk.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
 
 ////////---------------------
 

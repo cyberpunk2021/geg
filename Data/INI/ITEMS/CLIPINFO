@@ -667,7 +667,11 @@ ACTOR  "Items\pps43_mag.act"
 USEPREFIX  ""
 IMAGE  "pps43_mag.e5b"
 DEFAMMO  "Palinero 7.62x25"
-
+CLIP  "SMG ammo clip (Type79/20)""7.62υ25 μμ""Type79"20 70 "None"1000 
+ACTOR  "Items\type79mag.act"
+USEPREFIX  ""
+IMAGE  "pps43_mag.e5b"
+DEFAMMO  "Palinero 7.62x25"
 
 
 CLIP  "SMG ammo clip (T82/20)""7.62υ25 μμ""T82"15 110 "None"2000 
@@ -2579,6 +2583,18 @@ USEPREFIX  ""
 IMAGE  "usp_clip.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
 
+CLIP  "Pistol clip (HK45/10)"".45 ACP""HK45"10 40 "None"500 
+ACTOR  "Items\p30mag.act"
+USEPREFIX  ""
+IMAGE  "usp9_clip.e5b"
+DEFAMMO  ".45 ACP FMJ Ball"
+
+CLIP  "Pistol clip (HK45C/10)"".45 ACP""HK45C"10 40 "None"500 
+ACTOR  "Items\hk45cmag.act"
+USEPREFIX  ""
+IMAGE  "usp9_clip.e5b"
+DEFAMMO  ".45 ACP FMJ Ball"
+
 CLIP  "Pistol clip (Px4 45/10)"".45 ACP""PX4_45"10 110 "None"1300 
 ACTOR  "Items\beretta_px4-clip.act"
 USEPREFIX  ""
@@ -4257,6 +4273,9 @@ BOX  "Ammo box (M193)""M193 (5.56mm)"20 "Items\cbcbox556ss109.act""cbcboxinv.e5b
 BOX  "Ammo box (M955)""M955 AP (5.56mm)"20 "Items\m955-box.act""m955-box.e5b"
 BOX  "Ammo box (5.56x45JHP)""Remington JHP (5.56mm)"20 "Items\556remingtonhp.ACT""boxremingtonhp.E5B"
 BOX  "Big Ammo box (5.56)""5.56 FMJ Ball"20 "Items\algeira556.act""algeiraboxinv.e5b"
+
+
+
 BOX  "BigWoodAmmoBox M193 (5.56/1000)""M193 (5.56mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "BigWoodAmmoBox M955 (5.56/1000)""M955 AP (5.56mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "BigAmmoBox (5.56/500)""5.56 FMJ Ball"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
@@ -5510,7 +5529,17 @@ USEPREFIX  ""
 IMAGE  "762x51-ammobox-100.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
+CLIP  "Chain-gun ammo box (HK121 7.62x51/120)""7.62υ51 μμ""HK121"120 730 "None"2500 
+ACTOR  "Items\hk121mag.act"
+USEPREFIX  ""
+IMAGE  "762x51-ammobox-100.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
 
+CLIP  "Chain-gun ammo box (HK121BK 7.62x51/120)""7.62υ51 μμ""HK121"120 730 "None"2500 
+ACTOR  "Items\hk121magbk.act"
+USEPREFIX  ""
+IMAGE  "762x51-ammobox-100.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Machinegun clip (NG7/100)""7.62υ51 μμ""NEGEV762"100 640 "None"3500 
 ACTOR  "Items\negevmag.act"

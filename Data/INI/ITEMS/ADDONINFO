@@ -8898,6 +8898,22 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"type79stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\type79stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"type79stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\type79stockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
 Addon			"GM94 launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"

@@ -1809,7 +1809,7 @@ t65 handle modelo correto
 melhorar ina smg
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em 300 blackout
+iteminfo balaa parei em //6.5 Grendel
 mudar "Prvi Partizan 8mm FMJ BT" pra AP
 mudar WPA 5.45x39 pra HP
 
@@ -1891,6 +1891,20 @@ nos fgs pulei f2000 e ar15 blackout
 
 "mp153stock"
 "mp153stock_folded"
+
+"Pistol HK45 (45)"
+"Pistol HK45C (45)"
+"Machinegun HK121 (7.62x51mm)"
+"Machinegun HK121 BK (7.62x51mm)"
+"Chain-gun ammo box (HK121 7.62x51/120)"
+"Chain-gun ammo box (HK121BK 7.62x51/120)"
+"Pistol clip (HK45/10)"
+"Pistol clip (HK45C/10)"
+"SMG ammo clip (Type79/20)"
+"Submachine-gun Type 79 (7.62x25mm)"
+"Submachine-gun Type 79 (7.62x25mm) folded"
+"type79stock"
+"type79stock_folded"
 +++++++++++++
 
 
