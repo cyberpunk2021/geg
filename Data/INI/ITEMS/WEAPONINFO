@@ -17134,6 +17134,84 @@ HANDS			ahtRifle
 
 ////////----------------
 
+ITEM "Submachine-gun K50M (7.62x25mm)"
+Class			SMG
+Caliber			"7.62υ25 μμ"
+Weight			3040
+PrepareTime		0.30
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.1
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0015
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	80
+RangeCurvature	1
+Balance			0.32
+Unfold			"Submachine-gun K50M (7.62x25mm) folded"
+ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
+ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
+ReLockSound		"Weapon\ReLock\PPSh_slide.wav"
+ShootSound		"Weapon\Shoot\PPSh_fire_1.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "K50M"
+StdPlug			"SMG ammo clip (K50M/35)"
+StdPlug			"k50mstock"
+ACTOR			"Items\k50m.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun K50M (7.62x25mm) folded"
+Class			SMG
+Caliber			"7.62υ25 μμ"
+Weight			3040
+PrepareTime		0.27
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.1
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0015
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	1
+Balance			0.32
+Unfold			"Submachine-gun K50M (7.62x25mm)"
+ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
+ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
+ReLockSound		"Weapon\ReLock\PPSh_slide.wav"
+ShootSound		"Weapon\Shoot\PPSh_fire_1.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "K50M"
+StdPlug			"SMG ammo clip (K50M/35)"
+StdPlug			"k50mstock_folded"
+ACTOR			"Items\k50m.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
 ITEM "Submachine-gun Type 54 (7.62x25mm)"
 Class			SMG
 Caliber			"7.62υ25 μμ"

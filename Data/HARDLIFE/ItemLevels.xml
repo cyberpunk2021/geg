@@ -4316,8 +4316,8 @@
   <item level="1">skif clip</item>
   <item level="1">Pistol clip (OTs-33/18)</item>
   <item level="2">Pistol clip (OTs-33/27)</item>
-  <item level="2">SMG ammo clip (PM63/15)</item>
-  <item level="3">SMG ammo clip (PM63/25)</item>
+  <item level="1">SMG ammo clip (PM63/15)</item>
+  <item level="1">SMG ammo clip (PM63/25)</item>
   <item level="2">SMG ammo clip (Kiparis/30)</item>
   <item level="1">kedr clip</item>
   <item level="2">Ammo box CBC (M882)</item>
@@ -4771,7 +4771,11 @@
   <item level="2">Pistol clip (HK45/10)</item>
   <item level="2">Pistol clip (HK45C/10)</item>
   <item level="1">Submachine-gun Type 79 (7.62x25mm)</item>
+  <item level="1">Submachine-gun Type 85 (7.62x25mm)</item>
+  <item level="1">Submachine-gun Type 85 (7.62x25mm) folded</item>
   <item level="1">Submachine-gun Type 79 (7.62x25mm) folded</item>
+  <item level="1">SMG ammo clip (Type79/20)</item>
+  <item level="1">SMG ammo clip (Type85/30)</item>
   <item level="3">rpg-2</item>
   <item level="3">rpg-2 Type 56</item>
   <item level="3">RPG-2 Grenade</item>
@@ -4793,4 +4797,19 @@
   <item level="3">Baikal 153 (12ga) folded</item>
   <item level="4">Baikal 153 LB (12ga)</item>
   <item level="4">Baikal 153 LB (12ga) folded</item>
+  <item level="3">Submachine-gun PM98 (9mm)</item>
+  <item level="3">Submachine-gun PM84 (9mm)</item>
+  <item level="3">Submachine-gun PM84P (9mm)</item>
+  <item level="3">Submachine-gun PM84P (9mm) folded</item>
+  <item level="3">Submachine-gun PM84 (9mm) folded</item>
+  <item level="3">Submachine-gun PM98 (9mm) folded</item>
+  <item level="1">SMG ammo clip (PM84/15)</item>
+  <item level="1">SMG ammo clip (PM84/25)</item>
+  <item level="1">SMG ammo clip (PM84P/15)</item>
+  <item level="1">SMG ammo clip (PM84P/25)</item>
+  <item level="1">SMG ammo clip (PM98/15)</item>
+  <item level="1">SMG ammo clip (PM98/25)</item>
+  <item level="1">SMG ammo clip (K50M/35)</item>
+  <item level="2">Submachine-gun K50M (7.62x25mm)</item>
+  <item level="2">Submachine-gun K50M (7.62x25mm) folded</item>
 </root>

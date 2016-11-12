@@ -8962,6 +8962,22 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"k50mstock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\k50mstock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"k50mstock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\k50mstockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
 Addon			"PM98 Flashlight"
 Light			"built-in"
 Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"

@@ -662,6 +662,12 @@ USEPREFIX  ""
 IMAGE  "ms762-ppsh-71.e5b"
 DEFAMMO  "Palinero 7.62x25"
 
+CLIP  "SMG ammo clip (K50M/35)""7.62υ25 μμ""K50M"35 150 "None"1000 
+ACTOR  "Items\k50mmag.act"
+USEPREFIX  ""
+IMAGE  "ms762-ppsh-35.e5b"
+DEFAMMO  "Palinero 7.62x25"
+
 CLIP  "SMG ammo clip (PPS/35)""7.62υ25 μμ""PPS-43"35 150 "None"1000 
 ACTOR  "Items\pps43_mag.act"
 USEPREFIX  ""
@@ -1592,6 +1598,17 @@ IMAGE  "uzi_clip_20.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "SMG ammo clip (PM84P/25)""9υ19 μμ""PM84P"25 130 "None"1000 
 ACTOR  "Items\pm84mag25.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_25.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+
+CLIP  "SMG ammo clip (PM98/15)""9υ19 μμ""PM98"15 110 "None"1000 
+ACTOR  "Items\pm98mag15.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_20.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "SMG ammo clip (PM98/25)""9υ19 μμ""PM98"25 130 "None"1000 
+ACTOR  "Items\pm98mag25.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_25.e5b"
 DEFAMMO  "9x19 FMJ Ball"

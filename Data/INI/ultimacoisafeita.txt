@@ -1931,6 +1931,16 @@ nos fgs pulei f2000 e ar15 blackout
 "pm84stock_folded"
 "PM98 Flashlight"
 "SMG ammo clip (Type85/30)"
+"SMG ammo clip (PM98/15)"
+"SMG ammo clip (PM98/25)"
+
+
+"Submachine-gun K50M (7.62x25mm)"
+"Submachine-gun K50M (7.62x25mm) folded"
+"SMG ammo clip (K50M/35)"
+"k50mstock"
+"k50mstock_folded"
+
 +++++++++++++
 
 
