@@ -2610,7 +2610,7 @@ IMAGE  "usp_clip.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
 
 CLIP  "Pistol clip (HK45/10)"".45 ACP""HK45C"10 40 "None"500 
-ACTOR  "Items\hk45cbk.act"
+ACTOR  "Items\hk45cmagbk.act"
 USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
