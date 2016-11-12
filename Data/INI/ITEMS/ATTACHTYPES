@@ -741,6 +741,7 @@ PLUG
 	  "PM63"
 	  "PM84"
 	  "PM84P"
+	  "PM98"
 	  "Garand"
 	  "Mini-68_Clip"
 	  "AUG68"
@@ -802,4 +803,5 @@ PLUG
 	  "HK121"
 	  "Type79"
 	  "Type85"
+	  "K50M"
 END  
