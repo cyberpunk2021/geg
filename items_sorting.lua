@@ -80,11 +80,6 @@ local function compare_items(a, b)
             return a.caliber < b.caliber
         end
     end
-    if a.family == ifWeapon then
-        if a.range ~= b.range then
-            return a.range < b.range
-        end
-    end
     if a.family == ifAddon or a.family == ifClip and b.family ~= ifAmmo then
         if a.plug ~= b.plug then
             return a.plug < b.plug
