@@ -18690,7 +18690,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84"
-StdPlug			"SMG ammo clip (PM84/25)"
+StdPlug			"SMG ammo clip (PM84P/25)"
 StdPlug			"pm84stock_folded"
 ACTOR			"Items\pm84foldada.act"
 IMAGE			"2x2.e5b"

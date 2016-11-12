@@ -804,12 +804,12 @@ IMAGE  "uzi_clip_25.e5b"
 DEFAMMO  "PM ammo"
 
 CLIP  "SMG ammo clip (PM84/15)""9ץ18 לל ּֿ""PM84"15 110 "None"1000 
-ACTOR  "Items\pm63mag.act"
+ACTOR  "Items\pm84mag15.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_20.e5b"
 DEFAMMO  "PM ammo"
 CLIP  "SMG ammo clip (PM84/25)""9ץ18 לל ּֿ""PM84"25 130 "None"1000 
-ACTOR  "Items\pm63maggrande.act"
+ACTOR  "Items\pm84mag25.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_25.e5b"
 DEFAMMO  "PM ammo"
