@@ -9886,9 +9886,9 @@ ATT Bipod		0
 ATT Silencer	1 "Std 45 ACP"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "HK45"
+ATT Magazine	1 "HK45C"
 StdPlug			"Pistol clip (HK45/10)"
-ACTOR			"Items\p3045.act"
+ACTOR			"Items\hk45cbk.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -17290,6 +17290,84 @@ ACTOR			"Items\type79.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
+ITEM "Submachine-gun Type 85 (7.62x25mm)"
+Class			SMG
+Caliber			"7.62ץ25 לל"
+Weight			3040
+PrepareTime		0.30
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.1
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0015
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	80
+RangeCurvature	1
+Balance			0.32
+Unfold			"Submachine-gun Type 85 (7.62x25mm) folded"
+ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
+ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
+ReLockSound		"Weapon\ReLock\PPSh_slide.wav"
+ShootSound		"Weapon\Shoot\PPSh_fire_1.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Type85"
+StdPlug			"SMG ammo clip (Type85/30)"
+StdPlug			"type85stock"
+ACTOR			"Items\type85.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun Type 85 (7.62x25mm) folded"
+Class			SMG
+Caliber			"7.62ץ25 לל"
+Weight			3040
+PrepareTime		0.27
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.1
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0015
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	1
+Balance			0.32
+Unfold			"Submachine-gun Type 85 (7.62x25mm)"
+ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
+ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
+ReLockSound		"Weapon\ReLock\PPSh_slide.wav"
+ShootSound		"Weapon\Shoot\PPSh_fire_1.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Type85"
+StdPlug			"SMG ammo clip (Type85/30)"
+StdPlug			"type85stock_folded"
+ACTOR			"Items\type85.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
 ITEM "Submachine-gun MAT49 (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
@@ -18381,6 +18459,242 @@ ATT Magazine	1 "T82"
 StdPlug			"SMG ammo clip (T82/30)"
 StdPlug			"pm63stock_folded"
 ACTOR			"Items\pm63folded.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun PM84 (9mm)"
+Class			SMG
+Caliber			"9ץ18 לל ּֿ"
+Weight			1600
+PrepareTime		0.22
+SingleFireTime	0.55
+BurstFireTime	0.067
+SpeedModifier	1.06
+Resource		1600
+DirtResource	160000
+MisfireProb		0.0035
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.46
+Unfold			"Submachine-gun PM84 (9mm) folded"
+ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AEK919k_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AEK919k_slide.wav"
+ShootSound		"Weapon\Shoot\AEK919k_shot.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PM84"
+StdPlug			"SMG ammo clip (PM84/25)"
+StdPlug			"pm84stock"
+ACTOR			"Items\pm84.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun PM84 (9mm) folded"
+Class			SMG
+Caliber			"9ץ18 לל ּֿ"
+Weight			1600
+PrepareTime		0.18
+SingleFireTime	0.55
+BurstFireTime	0.067
+SpeedModifier	1.06
+Resource		1600
+DirtResource	160000
+MisfireProb		0.0035
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	40
+RangeCurvature	5
+Balance			0.46
+Unfold			"Submachine-gun PM84 (9mm)"
+ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AEK919k_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AEK919k_slide.wav"
+ShootSound		"Weapon\Shoot\AEK919k_shot.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PM84"
+StdPlug			"SMG ammo clip (PM84/25)"
+StdPlug			"pm84stock_folded"
+ACTOR			"Items\pm84foldada.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun PM84P (9mm)"
+Class			SMG
+Caliber			"9ץ19 לל"
+Weight			1600
+PrepareTime		0.22
+SingleFireTime	0.55
+BurstFireTime	0.067
+SpeedModifier	1.06
+Resource		1600
+DirtResource	160000
+MisfireProb		0.0035
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.46
+Unfold			"Submachine-gun PM84P (9mm) folded"
+ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AEK919k_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AEK919k_slide.wav"
+ShootSound		"Weapon\Shoot\AEK919k_shot.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PM84P"
+StdPlug			"SMG ammo clip (PM84P/25)"
+StdPlug			"pm84stock"
+ACTOR			"Items\pm84.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun PM84P (9mm) folded"
+Class			SMG
+Caliber			"9ץ19 לל"
+Weight			1600
+PrepareTime		0.18
+SingleFireTime	0.55
+BurstFireTime	0.067
+SpeedModifier	1.06
+Resource		1600
+DirtResource	160000
+MisfireProb		0.0035
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	40
+RangeCurvature	5
+Balance			0.46
+Unfold			"Submachine-gun PM84P (9mm)"
+ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AEK919k_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AEK919k_slide.wav"
+ShootSound		"Weapon\Shoot\AEK919k_shot.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PM84"
+StdPlug			"SMG ammo clip (PM84/25)"
+StdPlug			"pm84stock_folded"
+ACTOR			"Items\pm84foldada.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun PM98 (9mm)"
+Class			SMG
+Caliber			"9ץ19 לל"
+Weight			1600
+PrepareTime		0.22
+SingleFireTime	0.55
+BurstFireTime	0.067
+SpeedModifier	1.06
+Resource		1600
+DirtResource	160000
+MisfireProb		0.0035
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.46
+Unfold			"Submachine-gun PM98 (9mm) folded"
+ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AEK919k_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AEK919k_slide.wav"
+ShootSound		"Weapon\Shoot\AEK919k_shot.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PM84P"
+StdPlug			"SMG ammo clip (PM84P/25)"
+StdPlug			"pm98stock"
+StdPlug			"PM98 Flashlight"
+ACTOR			"Items\pm98.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun PM98 (9mm) folded"
+Class			SMG
+Caliber			"9ץ19 לל"
+Weight			1600
+PrepareTime		0.18
+SingleFireTime	0.55
+BurstFireTime	0.067
+SpeedModifier	1.06
+Resource		1600
+DirtResource	160000
+MisfireProb		0.0035
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	40
+RangeCurvature	5
+Balance			0.46
+Unfold			"Submachine-gun PM98 (9mm)"
+ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AEK919k_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AEK919k_slide.wav"
+ShootSound		"Weapon\Shoot\AEK919k_shot.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PM84P"
+StdPlug			"SMG ammo clip (PM84P/25)"
+StdPlug			"pm98stock_folded"
+StdPlug			"PM98 Flashlight"
+ACTOR			"Items\pm98.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 

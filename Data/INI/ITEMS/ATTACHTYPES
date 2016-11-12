@@ -739,6 +739,8 @@ PLUG
 	  "P2000"
 	  "P2000357"
 	  "PM63"
+	  "PM84"
+	  "PM84P"
 	  "Garand"
 	  "Mini-68_Clip"
 	  "AUG68"
@@ -796,7 +798,8 @@ PLUG
 	  "M213DB"
 	  "P30"
 	  "P3040"
-	  "HK45"
 	  "HK45C"
 	  "HK121"
+	  "Type79"
+	  "Type85"
 END  

@@ -672,7 +672,11 @@ ACTOR  "Items\type79mag.act"
 USEPREFIX  ""
 IMAGE  "pps43_mag.e5b"
 DEFAMMO  "Palinero 7.62x25"
-
+CLIP  "SMG ammo clip (Type85/30)""7.62ץ25 לל""Type85"30 110 "None"1000 
+ACTOR  "Items\type85mag.act"
+USEPREFIX  ""
+IMAGE  "pps43_mag.e5b"
+DEFAMMO  "Palinero 7.62x25"
 
 CLIP  "SMG ammo clip (T82/20)""7.62ץ25 לל""T82"15 110 "None"2000 
 ACTOR  "Items\pm63mag.act"
@@ -788,6 +792,17 @@ USEPREFIX  ""
 IMAGE  "uzi_clip_20.e5b"
 DEFAMMO  "PM ammo"
 CLIP  "SMG ammo clip (PM63/25)""9ץ18 לל ּֿ""PM63"25 130 "None"1000 
+ACTOR  "Items\pm63maggrande.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_25.e5b"
+DEFAMMO  "PM ammo"
+
+CLIP  "SMG ammo clip (PM84/15)""9ץ18 לל ּֿ""PM84"15 110 "None"1000 
+ACTOR  "Items\pm63mag.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_20.e5b"
+DEFAMMO  "PM ammo"
+CLIP  "SMG ammo clip (PM84/25)""9ץ18 לל ּֿ""PM84"25 130 "None"1000 
 ACTOR  "Items\pm63maggrande.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_25.e5b"
@@ -1568,6 +1583,17 @@ CLIP  "SMG ammo clip (PP2000/44)""9ץ19 לל""PP2000"44 210 "None"1000
 ACTOR  "Items\pp2000mag.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_32.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+
+CLIP  "SMG ammo clip (PM84P/15)""9ץ19 לל""PM84P"15 110 "None"1000 
+ACTOR  "Items\pm84mag15.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_20.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "SMG ammo clip (PM84P/25)""9ץ19 לל""PM84P"25 130 "None"1000 
+ACTOR  "Items\pm84mag25.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_25.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "SMG ammo clip (M5/15)""9ץ19 לל""HK MP 9mm"15 120 "Double SMG ammo clip (MP5/30)"1000 
@@ -2583,8 +2609,8 @@ USEPREFIX  ""
 IMAGE  "usp_clip.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
 
-CLIP  "Pistol clip (HK45/10)"".45 ACP""HK45"10 40 "None"500 
-ACTOR  "Items\p30mag.act"
+CLIP  "Pistol clip (HK45/10)"".45 ACP""HK45C"10 40 "None"500 
+ACTOR  "Items\hk45cbk.act"
 USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"

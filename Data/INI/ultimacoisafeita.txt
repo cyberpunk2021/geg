@@ -1809,9 +1809,10 @@ t65 handle modelo correto
 melhorar ina smg
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em //6.5 Grendel
+iteminfo balaa parei em "Ammo box (M67)"
 mudar "Prvi Partizan 8mm FMJ BT" pra AP
 mudar WPA 5.45x39 pra HP
+criar BPZ 7.62x39
 
 nos fgs pulei f2000 e ar15 blackout
 
@@ -1905,6 +1906,31 @@ nos fgs pulei f2000 e ar15 blackout
 "Submachine-gun Type 79 (7.62x25mm) folded"
 "type79stock"
 "type79stock_folded"
+
+
+
+
+
+"Submachine-gun Type 85 (7.62x25mm)"
+"Submachine-gun Type 85 (7.62x25mm) folded"
+"Submachine-gun PM84 (9mm)"
+"Submachine-gun PM98 (9mm)"
+"Submachine-gun PM98 (9mm) folded"
+"Submachine-gun PM84 (9mm) folded"
+"Submachine-gun PM84P (9mm)"
+"Submachine-gun PM84P (9mm) folded"
+"SMG ammo clip (PM84/15)"
+"SMG ammo clip (PM84P/15)"
+"SMG ammo clip (PM84/25)"
+"SMG ammo clip (PM84P/25)"
+"type85stock"
+"type85stock_folded"
+"pm84stock"
+"pm98stock"
+"pm98stock_folded"
+"pm84stock_folded"
+"PM98 Flashlight"
+"SMG ammo clip (Type85/30)"
 +++++++++++++
 
 

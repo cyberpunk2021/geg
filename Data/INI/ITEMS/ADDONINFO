@@ -8914,6 +8914,64 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"type85stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\type85stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"type85stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\type85stockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"pm84stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\pm84stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"pm84stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\pm84stockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"pm98stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\pm98stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"pm98stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\pm98stockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"PM98 Flashlight"
+Light			"built-in"
+Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance		20
+Visible			1
+ACTOR			"Items\pm98flash.act"
+IMAGE			"m3_tf_bm.e5b"
+WEIGHT			145
+Resource		1000
+//------------------------------------------------------
 Addon			"GM94 launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
