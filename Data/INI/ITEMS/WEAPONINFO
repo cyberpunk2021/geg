@@ -55979,8 +55979,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -56016,8 +56016,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A1.WAV"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -56277,8 +56277,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
