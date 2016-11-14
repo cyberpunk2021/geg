@@ -48246,12 +48246,12 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\VZ58.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30"
+ATT ILauncher	1 "GP-30" blocks Light
 ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
@@ -48401,12 +48401,12 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\VZ58.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30"
+ATT ILauncher	1 "GP-30" blocks Light
 ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
@@ -48440,12 +48440,12 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\VZ58.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	1 "GP-30"
+ATT ILauncher	1 "GP-30" blocks Light
 ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/30)"
@@ -48479,8 +48479,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\VZ58.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
@@ -48518,8 +48518,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\VZ58.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod" blocks Bayonet and ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
@@ -70595,8 +70595,8 @@ ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
 ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
 ShootSound		"Weapon\Shoot\AK47_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
@@ -70634,8 +70634,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\ak47_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
@@ -70672,8 +70672,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\ak47_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
@@ -70711,8 +70711,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\ak47_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
@@ -70750,8 +70750,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\ak47_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
@@ -70789,8 +70789,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\ak47_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod" blocks Bayonet
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet and ILauncher
