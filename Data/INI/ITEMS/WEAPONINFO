@@ -5518,9 +5518,8 @@ ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta9mm"
-//StdPlug			"Pistol clip (Beretta 92FS/17)"
-//ACTOR			"Items\TaurusPT92.act"
-ACTOR			"Items\pt92mp3.act"
+StdPlug			"Pistol clip (Beretta 92FS/17)"
+ACTOR			"Items\TaurusPT92.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
