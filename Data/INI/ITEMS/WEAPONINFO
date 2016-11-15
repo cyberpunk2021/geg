@@ -4434,13 +4434,13 @@ HANDS			ahtPistol
 ITEM "Pistol P30 (9mm)"
 Class			Pistol
 Caliber			"9ץ19 לל"
-Weight			620
+Weight			647
 PrepareTime		0.14
-SingleFireTime	0.59
+SingleFireTime	0.57
 BurstFireTime	0.05
-SpeedModifier	0.95
-Resource		1000
-DirtResource	120000
+SpeedModifier	0.97
+Resource		1200
+DirtResource	150000
 MisfireProb		0.0025
 HeatCapacity	45
 Single			1
@@ -4448,7 +4448,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	39
+EffectiveRange	44
 RangeCurvature	6
 Balance			0.62
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -5845,13 +5845,13 @@ HANDS			ahtPistol
 ITEM "Pistol WIST94L (9mm)"
 Class			Pistol
 Caliber			"9ץ19 לל"
-Weight			970
-PrepareTime		0.16
-SingleFireTime	0.66
+Weight			705
+PrepareTime		0.15
+SingleFireTime	0.68
 BurstFireTime	0.1143
-SpeedModifier	1.01
-Resource		900
-DirtResource	110000
+SpeedModifier	1.02
+Resource		1300
+DirtResource	140000
 MisfireProb		0.003
 HeatCapacity	40
 Single			1
@@ -5859,9 +5859,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	45
+EffectiveRange	47
 RangeCurvature	6
-Balance			0.49
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
@@ -7903,11 +7903,11 @@ HANDS			ahtPistol
 ITEM "Pistol P30 (.40)"
 Class			Pistol
 Caliber			".40 S&W"
-Weight			620
+Weight			669
 PrepareTime		0.14
-SingleFireTime	0.59
+SingleFireTime	0.63
 BurstFireTime	0.05
-SpeedModifier	0.95
+SpeedModifier	0.97
 Resource		1000
 DirtResource	120000
 MisfireProb		0.0025
@@ -7917,7 +7917,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	39
+EffectiveRange	44
 RangeCurvature	6
 Balance			0.62
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -9892,13 +9892,13 @@ HANDS			ahtPistol
 ITEM "Pistol HK45 (45)"
 Class			Pistol
 Caliber			".45 ACP"
-Weight			620
+Weight			720
 PrepareTime		0.14
-SingleFireTime	0.59
+SingleFireTime	0.57
 BurstFireTime	0.05
-SpeedModifier	0.95
-Resource		1000
-DirtResource	120000
+SpeedModifier	0.97
+Resource		1200
+DirtResource	150000
 MisfireProb		0.0025
 HeatCapacity	45
 Single			1
@@ -9906,7 +9906,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	39
+EffectiveRange	44
 RangeCurvature	6
 Balance			0.62
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -9933,13 +9933,13 @@ HANDS			ahtPistol
 ITEM "Pistol HK45C (45)"
 Class			Pistol
 Caliber			".45 ACP"
-Weight			620
+Weight			720
 PrepareTime		0.14
-SingleFireTime	0.59
+SingleFireTime	0.57
 BurstFireTime	0.05
-SpeedModifier	0.95
-Resource		1000
-DirtResource	120000
+SpeedModifier	0.97
+Resource		1200
+DirtResource	150000
 MisfireProb		0.0025
 HeatCapacity	45
 Single			1
@@ -9947,7 +9947,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	39
+EffectiveRange	44
 RangeCurvature	6
 Balance			0.62
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -14673,12 +14673,12 @@ ITEM "Pistol Five-seveN Tactical (5.7mm)"
 Class			Pistol
 Caliber			"5.7ץ28 לל"
 Weight			610
-PrepareTime		0.15
-SingleFireTime	0.63
+PrepareTime		0.14
+SingleFireTime	0.61
 BurstFireTime	0.09
 SpeedModifier	0.91
-Resource		900
-DirtResource	130000
+Resource		1300
+DirtResource	140000
 MisfireProb		0.001
 HeatCapacity	50
 Single			1
@@ -17175,15 +17175,15 @@ HANDS			ahtRifle
 ITEM "Submachine-gun K50M (7.62x25mm)"
 Class			SMG
 Caliber			"7.62ץ25 לל"
-Weight			3040
-PrepareTime		0.30
-SingleFireTime	0.69
-BurstFireTime	0.085
-SpeedModifier	1.1
-Resource		2500
-DirtResource	250000
+Weight			4400
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.071
+SpeedModifier	1.11
+Resource		2700
+DirtResource	270000
 MisfireProb		0.0015
-HeatCapacity	65
+HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
@@ -17214,21 +17214,21 @@ HANDS			ahtRG
 ITEM "Submachine-gun K50M (7.62x25mm) folded"
 Class			SMG
 Caliber			"7.62ץ25 לל"
-Weight			3040
-PrepareTime		0.27
-SingleFireTime	0.69
-BurstFireTime	0.085
-SpeedModifier	1.1
-Resource		2500
-DirtResource	250000
+Weight			4400
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.071
+SpeedModifier	1.11
+Resource		2700
+DirtResource	270000
 MisfireProb		0.0015
-HeatCapacity	65
+HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	68
+EffectiveRange	60
 RangeCurvature	1
 Balance			0.32
 Unfold			"Submachine-gun K50M (7.62x25mm)"
@@ -17331,15 +17331,15 @@ HANDS			ahtRG
 ITEM "Submachine-gun Type 79 (7.62x25mm)"
 Class			SMG
 Caliber			"7.62ץ25 לל"
-Weight			3040
-PrepareTime		0.30
-SingleFireTime	0.69
+Weight			1750
+PrepareTime		0.26
+SingleFireTime	0.66
 BurstFireTime	0.085
-SpeedModifier	1.1
-Resource		2500
-DirtResource	250000
+SpeedModifier	1.08
+Resource		1900
+DirtResource	190000
 MisfireProb		0.0015
-HeatCapacity	65
+HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
@@ -17347,7 +17347,7 @@ BurstHitStart	1
 MaxRange		150
 EffectiveRange	80
 RangeCurvature	1
-Balance			0.32
+Balance			0.59
 Unfold			"Submachine-gun Type 79 (7.62x25mm) folded"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
 ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
@@ -17370,23 +17370,23 @@ HANDS			ahtRG
 ITEM "Submachine-gun Type 79 (7.62x25mm) folded"
 Class			SMG
 Caliber			"7.62ץ25 לל"
-Weight			3040
-PrepareTime		0.27
-SingleFireTime	0.69
+Weight			1750
+PrepareTime		0.22
+SingleFireTime	0.66
 BurstFireTime	0.085
-SpeedModifier	1.1
-Resource		2500
-DirtResource	250000
+SpeedModifier	1.08
+Resource		1900
+DirtResource	190000
 MisfireProb		0.0015
-HeatCapacity	65
+HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	68
+EffectiveRange	60
 RangeCurvature	1
-Balance			0.32
+Balance			0.59
 Unfold			"Submachine-gun Type 79 (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
 ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
@@ -17409,23 +17409,23 @@ HANDS			ahtRG
 ITEM "Submachine-gun Type 85 (7.62x25mm)"
 Class			SMG
 Caliber			"7.62ץ25 לל"
-Weight			3040
-PrepareTime		0.30
+Weight			1900
+PrepareTime		0.27
 SingleFireTime	0.69
 BurstFireTime	0.085
-SpeedModifier	1.1
-Resource		2500
-DirtResource	250000
+SpeedModifier	1.09
+Resource		2700
+DirtResource	270000
 MisfireProb		0.0015
-HeatCapacity	65
+HeatCapacity	60
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	80
+EffectiveRange	75
 RangeCurvature	1
-Balance			0.32
+Balance			0.63
 Unfold			"Submachine-gun Type 85 (7.62x25mm) folded"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
 ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
@@ -17448,23 +17448,23 @@ HANDS			ahtRG
 ITEM "Submachine-gun Type 85 (7.62x25mm) folded"
 Class			SMG
 Caliber			"7.62ץ25 לל"
-Weight			3040
-PrepareTime		0.27
+Weight			1900
+PrepareTime		0.23
 SingleFireTime	0.69
 BurstFireTime	0.085
-SpeedModifier	1.1
-Resource		2500
-DirtResource	250000
+SpeedModifier	1.09
+Resource		2700
+DirtResource	270000
 MisfireProb		0.0015
-HeatCapacity	65
+HeatCapacity	60
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	68
+EffectiveRange	55
 RangeCurvature	1
-Balance			0.32
+Balance			0.63
 Unfold			"Submachine-gun Type 85 (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
 ClipOutSound	"Weapon\ClipOut\PPSh_disk_out.wav"
@@ -18581,21 +18581,21 @@ HANDS			ahtRifle
 ITEM "Submachine-gun PM84 (9mm)"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
-Weight			1600
+Weight			1840
 PrepareTime		0.22
-SingleFireTime	0.55
+SingleFireTime	0.56
 BurstFireTime	0.067
 SpeedModifier	1.06
-Resource		1600
-DirtResource	160000
+Resource		1900
+DirtResource	190000
 MisfireProb		0.0035
-HeatCapacity	40
+HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
+EffectiveRange	66
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84 (9mm) folded"
@@ -18620,21 +18620,21 @@ HANDS			ahtRG
 ITEM "Submachine-gun PM84 (9mm) folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
-Weight			1600
+Weight			1840
 PrepareTime		0.18
-SingleFireTime	0.55
+SingleFireTime	0.56
 BurstFireTime	0.067
 SpeedModifier	1.06
-Resource		1600
-DirtResource	160000
+Resource		1900
+DirtResource	190000
 MisfireProb		0.0035
-HeatCapacity	40
+HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
+EffectiveRange	46
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84 (9mm)"
@@ -18659,21 +18659,21 @@ HANDS			ahtRifle
 ITEM "Submachine-gun PM84P (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
-Weight			1600
-PrepareTime		0.22
-SingleFireTime	0.55
+Weight			2170
+PrepareTime		0.23
+SingleFireTime	0.58
 BurstFireTime	0.067
 SpeedModifier	1.06
-Resource		1600
-DirtResource	160000
+Resource		2100
+DirtResource	210000
 MisfireProb		0.0035
-HeatCapacity	40
+HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
+EffectiveRange	66
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84P (9mm) folded"
@@ -18698,21 +18698,21 @@ HANDS			ahtRG
 ITEM "Submachine-gun PM84P (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
-Weight			1600
-PrepareTime		0.18
-SingleFireTime	0.55
+Weight			2170
+PrepareTime		0.19
+SingleFireTime	0.58
 BurstFireTime	0.067
 SpeedModifier	1.06
-Resource		1600
-DirtResource	160000
+Resource		2100
+DirtResource	210000
 MisfireProb		0.0035
-HeatCapacity	40
+HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
+EffectiveRange	46
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84P (9mm)"
@@ -18737,21 +18737,21 @@ HANDS			ahtRifle
 ITEM "Submachine-gun PM98 (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
-Weight			1600
-PrepareTime		0.22
-SingleFireTime	0.55
+Weight			2300
+PrepareTime		0.24
+SingleFireTime	0.6
 BurstFireTime	0.067
 SpeedModifier	1.06
-Resource		1600
-DirtResource	160000
+Resource		2300
+DirtResource	230000
 MisfireProb		0.0035
-HeatCapacity	40
+HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
+EffectiveRange	68
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM98 (9mm) folded"
@@ -18777,21 +18777,21 @@ HANDS			ahtRifle
 ITEM "Submachine-gun PM98 (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
-Weight			1600
-PrepareTime		0.18
-SingleFireTime	0.55
+Weight			2300
+PrepareTime		0.20
+SingleFireTime	0.6
 BurstFireTime	0.067
 SpeedModifier	1.06
-Resource		1600
-DirtResource	160000
+Resource		2300
+DirtResource	230000
 MisfireProb		0.0035
-HeatCapacity	40
+HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
+EffectiveRange	48
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM98 (9mm)"
@@ -18819,7 +18819,7 @@ Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1830
 PrepareTime		0.3
-SingleFireTime	0.69
+SingleFireTime	0.58
 BurstFireTime	0.066
 SpeedModifier	1.08
 Resource		1300
@@ -30496,13 +30496,13 @@ HANDS			ahtBoltRifle
 ITEM "Shotgun TOZ 87 (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			4100
-PrepareTime		0.38
-SingleFireTime	0.93
+Weight			3300
+PrepareTime		0.36
+SingleFireTime	0.91
 BurstFireTime	0.4
-SpeedModifier	1.025
-Resource		1600
-DirtResource	180000
+SpeedModifier	1.03
+Resource		1800
+DirtResource	200000
 MisfireProb		0.0027
 HeatCapacity	35
 Single			1
@@ -30510,9 +30510,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	61
+EffectiveRange	56
 RangeCurvature	5
-Balance			0.58
+Balance			0.64
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -30533,13 +30533,13 @@ HANDS			ahtBoltRifle
 ITEM "Shotgun TOZ 87 Ext (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			4100
-PrepareTime		0.38
+Weight			3300
+PrepareTime		0.37
 SingleFireTime	0.93
 BurstFireTime	0.4
-SpeedModifier	1.025
-Resource		1600
-DirtResource	180000
+SpeedModifier	1.03
+Resource		1700
+DirtResource	190000
 MisfireProb		0.0027
 HeatCapacity	35
 Single			1
@@ -30547,9 +30547,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	61
+EffectiveRange	56
 RangeCurvature	5
-Balance			0.58
+Balance			0.64
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -30915,12 +30915,12 @@ HANDS			ahtShotgun
 ITEM "Shotgun Remington 11-87 SB (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3600
-PrepareTime		0.37
-SingleFireTime	1.3
+Weight			3300
+PrepareTime		0.35
+SingleFireTime	0.9
 BurstFireTime	0.9
-SpeedModifier	1.02
-Resource		1200
+SpeedModifier	0.98
+Resource		1100
 DirtResource	100000
 MisfireProb		0.0012
 HeatCapacity	20
@@ -30929,7 +30929,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	70
+EffectiveRange	42
 RangeCurvature	5
 Balance			0.53
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -30952,13 +30952,13 @@ HANDS			ahtBoltRifle
 ITEM "Shotgun Remington 11-87 (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3600
+Weight			3500
 PrepareTime		0.37
-SingleFireTime	1.3
+SingleFireTime	0.92
 BurstFireTime	0.9
-SpeedModifier	1.02
+SpeedModifier	1.01
 Resource		1200
-DirtResource	100000
+DirtResource	110000
 MisfireProb		0.0012
 HeatCapacity	20
 Single			1
@@ -30966,7 +30966,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	70
+EffectiveRange	50
 RangeCurvature	5
 Balance			0.53
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -30989,13 +30989,13 @@ HANDS			ahtBoltRifle
 ITEM "Shotgun Remington 11-87 LB (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3600
-PrepareTime		0.37
-SingleFireTime	1.3
+Weight			3700
+PrepareTime		0.39
+SingleFireTime	0.94
 BurstFireTime	0.9
-SpeedModifier	1.02
-Resource		1200
-DirtResource	100000
+SpeedModifier	1.04
+Resource		1400
+DirtResource	130000
 MisfireProb		0.0012
 HeatCapacity	20
 Single			1
@@ -31003,7 +31003,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	70
+EffectiveRange	59
 RangeCurvature	5
 Balance			0.53
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31026,21 +31026,21 @@ HANDS			ahtBoltRifle
 ITEM "Baikal 153 SB (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3450
-PrepareTime		0.40
-SingleFireTime	0.94
+Weight			3300
+PrepareTime		0.36
+SingleFireTime	0.89
 BurstFireTime	0.3
-SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
+SpeedModifier	0.98
+Resource		1700
+DirtResource	160000
 MisfireProb		0.0015
-HeatCapacity	25
+HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	68
+EffectiveRange	42
 RangeCurvature	5
 Balance			0.43
 Unfold		"Baikal 153 SB (12ga) folded"
@@ -31065,21 +31065,21 @@ HANDS			ahtRifle
 ITEM "Baikal 153 SB (12ga) folded"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3450
-PrepareTime		0.40
-SingleFireTime	0.94
+Weight			3300
+PrepareTime		0.32
+SingleFireTime	0.89
 BurstFireTime	0.3
-SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
+SpeedModifier	0.98
+Resource		1700
+DirtResource	160000
 MisfireProb		0.0015
-HeatCapacity	25
+HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	68
+EffectiveRange	22
 RangeCurvature	5
 Balance			0.43
 Unfold		"Baikal 153 SB (12ga)"
@@ -31105,21 +31105,21 @@ HANDS			ahtRifle
 ITEM "Baikal 153 (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3450
-PrepareTime		0.40
-SingleFireTime	0.94
+Weight			3500
+PrepareTime		0.38
+SingleFireTime	0.91
 BurstFireTime	0.3
-SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
+SpeedModifier	1.02
+Resource		1800
+DirtResource	170000
 MisfireProb		0.0015
-HeatCapacity	25
+HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	68
+EffectiveRange	51
 RangeCurvature	5
 Balance			0.43
 Unfold		"Baikal 153 (12ga) folded"
@@ -31144,21 +31144,21 @@ HANDS			ahtRifle
 ITEM "Baikal 153 (12ga) folded"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3450
-PrepareTime		0.40
-SingleFireTime	0.94
+Weight			3500
+PrepareTime		0.34
+SingleFireTime	0.91
 BurstFireTime	0.3
-SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
+SpeedModifier	1.02
+Resource		1800
+DirtResource	170000
 MisfireProb		0.0015
-HeatCapacity	25
+HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	68
+EffectiveRange	31
 RangeCurvature	5
 Balance			0.43
 Unfold		"Baikal 153 (12ga)"
@@ -31184,21 +31184,21 @@ HANDS			ahtRifle
 ITEM "Baikal 153 LB (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3450
+Weight			3700
 PrepareTime		0.40
 SingleFireTime	0.94
 BurstFireTime	0.3
 SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0015
-HeatCapacity	25
+HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	68
+EffectiveRange	63
 RangeCurvature	5
 Balance			0.43
 Unfold		"Baikal 153 LB (12ga) folded"
@@ -31223,21 +31223,21 @@ HANDS			ahtRifle
 ITEM "Baikal 153 LB (12ga) folded"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3450
-PrepareTime		0.40
+Weight			3700
+PrepareTime		0.36
 SingleFireTime	0.94
 BurstFireTime	0.3
 SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0015
-HeatCapacity	25
+HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange	68
+EffectiveRange	43
 RangeCurvature	5
 Balance			0.43
 Unfold		"Baikal 153 LB (12ga)"
@@ -31263,13 +31263,13 @@ HANDS			ahtRifle
 ITEM "Shotgun Mossberg 590A1 (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3300
-PrepareTime		0.37
-SingleFireTime	0.90
+Weight			3170
+PrepareTime		0.34
+SingleFireTime	0.88
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		1800
-DirtResource	150000
+SpeedModifier	1.01
+Resource		2300
+DirtResource	260000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -31277,7 +31277,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	53
+EffectiveRange	64
 RangeCurvature	5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31300,13 +31300,13 @@ HANDS			ahtRifle
 ITEM "Shotgun Mossberg 590A1 LB (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			3300
-PrepareTime		0.37
-SingleFireTime	0.90
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
 BurstFireTime	0.4615
 SpeedModifier	1.03
-Resource		1800
-DirtResource	150000
+Resource		2200
+DirtResource	250000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -31314,7 +31314,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	53
+EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -93397,23 +93397,23 @@ HANDS			ahtRifle
 ITEM "Machinegun HK121 (7.62x51mm)"
 Class			Machinegun
 Caliber			"7.62ץ51 לל"
-Weight			8332
-PrepareTime		0.65
-SingleFireTime	0.6857
-BurstFireTime	0.06857
-SpeedModifier	1.13
-Resource		4800
-DirtResource	500000
+Weight			9900
+PrepareTime		0.64
+SingleFireTime	0.66
+BurstFireTime	0.08
+SpeedModifier	1.11
+Resource		6800
+DirtResource	700000
 MisfireProb		0.0019
-HeatCapacity	240
+HeatCapacity	280
 Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	235
+EffectiveRange	245
 RangeCurvature	0.5
-Balance			0.28
+Balance			0.37
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
@@ -93434,23 +93434,23 @@ HANDS			ahtRG
 ITEM "Machinegun HK121 BK (7.62x51mm)"
 Class			Machinegun
 Caliber			"7.62ץ51 לל"
-Weight			8332
-PrepareTime		0.65
-SingleFireTime	0.6857
-BurstFireTime	0.06857
-SpeedModifier	1.13
-Resource		4800
-DirtResource	500000
+Weight			9900
+PrepareTime		0.64
+SingleFireTime	0.66
+BurstFireTime	0.08
+SpeedModifier	1.11
+Resource		6800
+DirtResource	700000
 MisfireProb		0.0019
-HeatCapacity	240
+HeatCapacity	280
 Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	235
+EffectiveRange	245
 RangeCurvature	0.5
-Balance			0.28
+Balance			0.37
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
