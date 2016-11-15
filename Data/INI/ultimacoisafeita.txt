@@ -1941,6 +1941,15 @@ nos fgs pulei f2000 e ar15 blackout
 "k50mstock"
 "k50mstock_folded"
 
+
+
+"Defensive Hand Grenade DM51"
+"Grenade Ring (dm51)"
+"remote_dm51"
+
+"Pistol WIST94L (9mm)"
+"Pistol clip (WIST94/16)"
+"WIST94 Laser"
 +++++++++++++
 
 

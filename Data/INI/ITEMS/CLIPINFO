@@ -1007,7 +1007,11 @@ USEPREFIX  ""
 IMAGE  "beretta_px4-clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
-
+CLIP  "Pistol clip (WIST94/16)""9υ19 μμ""WIST94"15 70 "None"500 
+ACTOR  "Items\wist94mag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "Pistol clip (XDM9Compact/13)""9υ19 μμ""XDM9Compact"13 50 "None"500 
 ACTOR  "Items\xdmcompactmag.act"

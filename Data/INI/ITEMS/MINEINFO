@@ -284,6 +284,26 @@ ACTOR  "Items\remote_rgo.act"
 IMAGE	"remote_rgo.dds"
 WEIGHT  330
 
+Mine  "remote_dm51"
+Type  
+Controlled  
+Hidden  1 
+ActivationTime  0 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
+ShiversCount  180
+ShiversMass  2.11 
+ShiversDist  21
+ExplWaveDist  18 
+ExplForce  207
+ACTOR  "Items\remote_type82.act"
+IMAGE  "remote_type82.dds"
+WEIGHT  520
+
 Mine  "remote_type82"
 Type  
 Controlled  

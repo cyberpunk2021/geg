@@ -3391,6 +3391,14 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"Grenade Ring (dm51)"
+Stock			"built-in"
+Sound			"None""Addon\UnplugSound\grenade_ready.wav"
+ACTOR			"Items\dm51pin.act"
+IMAGE			"GrenadeRing.e5b"
+WEIGHT			1
+Resource		0
+//------------------------------------------------------
 Addon			"Grenade Ring (East)"
 Stock			"built-in"
 Sound			"None""Addon\UnplugSound\grenade_ready.wav"
@@ -8986,6 +8994,16 @@ Visible			1
 ACTOR			"Items\pm98flash.act"
 IMAGE			"m3_tf_bm.e5b"
 WEIGHT			145
+Resource		1000
+//------------------------------------------------------
+Addon			"WIST94 Laser"
+Laser			"built-in"
+Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance		25
+Visible			1
+ACTOR			"Items\wist94laser.act"
+IMAGE			"m3_tf_bm.e5b"
+WEIGHT			70
 Resource		1000
 //------------------------------------------------------
 Addon			"GM94 launcher"

@@ -5372,13 +5372,13 @@ HANDS			ahtPistol
 ITEM "Pistol Beretta 90Two (9mm)"
 Class			Pistol
 Caliber			"9υ19 μμ"
-Weight			950
+Weight			921
 PrepareTime		0.15
-SingleFireTime	0.64
+SingleFireTime	0.63
 BurstFireTime	0.1143
 SpeedModifier	1
-Resource		1200
-DirtResource	140000
+Resource		1400
+DirtResource	160000
 MisfireProb		0.003
 HeatCapacity	40
 Single			1
@@ -5386,9 +5386,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	45
+EffectiveRange	48
 RangeCurvature	6
-Balance			0.53
+Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
@@ -5839,6 +5839,44 @@ ATT Bayonet		0
 ATT Magazine	1 "Bul_Cherokee"
 StdPlug			"Pistol clip (Cherokee/17)"
 ACTOR			"Items\Bul_Cherokee.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol WIST94L (9mm)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			970
+PrepareTime		0.16
+SingleFireTime	0.66
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		900
+DirtResource	110000
+MisfireProb		0.003
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.49
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "WIST94"
+StdPlug			"Pistol clip (WIST94/16)"
+StdPlug			"WIST94 Laser"
+ACTOR			"Items\wist94.ACT"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -7982,13 +8020,13 @@ HANDS			ahtPistol
 ITEM "Pistol Beretta 90Two (.40)"
 Class			Pistol
 Caliber			".40 S&W"
-Weight			950
+Weight			941
 PrepareTime		0.15
-SingleFireTime	0.64
+SingleFireTime	0.66
 BurstFireTime	0.1143
 SpeedModifier	1
-Resource		1200
-DirtResource	140000
+Resource		1300
+DirtResource	150000
 MisfireProb		0.003
 HeatCapacity	40
 Single			1
@@ -7996,9 +8034,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	45
+EffectiveRange	48
 RangeCurvature	6
-Balance			0.53
+Balance			0.58
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
@@ -10769,13 +10807,13 @@ HANDS			ahtPistol
 ITEM "Revolver Police Positive (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
-SingleFireTime	0.60
+Weight			861
+PrepareTime		0.15
+SingleFireTime	0.61
 BurstFireTime	0.25
-SpeedModifier	1.01
-Resource		2600
-DirtResource	280000
+SpeedModifier	1.0
+Resource		3000
+DirtResource	320000
 MisfireProb		0
 HeatCapacity	50
 Single			1
@@ -10783,7 +10821,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	33
 RangeCurvature	5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10806,13 +10844,13 @@ HANDS			ahtPistol
 ITEM "Revolver Police Positive B (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
-SingleFireTime	0.60
+Weight			861
+PrepareTime		0.15
+SingleFireTime	0.61
 BurstFireTime	0.25
-SpeedModifier	1.01
-Resource		2600
-DirtResource	280000
+SpeedModifier	1.0
+Resource		3000
+DirtResource	320000
 MisfireProb		0
 HeatCapacity	50
 Single			1
@@ -10820,7 +10858,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	33
 RangeCurvature	5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10843,13 +10881,13 @@ HANDS			ahtPistol
 ITEM "Revolver Police Positive W (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
-SingleFireTime	0.60
+Weight			861
+PrepareTime		0.15
+SingleFireTime	0.61
 BurstFireTime	0.25
-SpeedModifier	1.01
-Resource		2600
-DirtResource	280000
+SpeedModifier	1.0
+Resource		3000
+DirtResource	320000
 MisfireProb		0
 HeatCapacity	50
 Single			1
@@ -10857,7 +10895,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	33
 RangeCurvature	5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10880,13 +10918,13 @@ HANDS			ahtPistol
 ITEM "Revolver Police Positive WB (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
-SingleFireTime	0.60
+Weight			861
+PrepareTime		0.15
+SingleFireTime	0.61
 BurstFireTime	0.25
-SpeedModifier	1.01
-Resource		2600
-DirtResource	280000
+SpeedModifier	1.0
+Resource		3000
+DirtResource	320000
 MisfireProb		0
 HeatCapacity	50
 Single			1
@@ -10894,7 +10932,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	33
 RangeCurvature	5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10917,13 +10955,13 @@ HANDS			ahtPistol
 ITEM "Revolver Police Positive BB (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
-SingleFireTime	0.60
+Weight			861
+PrepareTime		0.15
+SingleFireTime	0.61
 BurstFireTime	0.25
-SpeedModifier	1.01
-Resource		2600
-DirtResource	280000
+SpeedModifier	1.0
+Resource		3000
+DirtResource	320000
 MisfireProb		0
 HeatCapacity	50
 Single			1
@@ -10931,7 +10969,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	33
 RangeCurvature	5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10954,13 +10992,13 @@ HANDS			ahtPistol
 ITEM "Revolver Police Positive GB (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
-SingleFireTime	0.60
+Weight			861
+PrepareTime		0.15
+SingleFireTime	0.61
 BurstFireTime	0.25
-SpeedModifier	1.01
-Resource		2600
-DirtResource	280000
+SpeedModifier	1.0
+Resource		3000
+DirtResource	320000
 MisfireProb		0
 HeatCapacity	50
 Single			1
@@ -10968,7 +11006,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	33
 RangeCurvature	5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10991,8 +11029,8 @@ HANDS			ahtPistol
 ITEM "Revolver SW 10 (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
+Weight			907
+PrepareTime		0.15
 SingleFireTime	0.60
 BurstFireTime	0.25
 SpeedModifier	1.01
@@ -11005,9 +11043,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	36
 RangeCurvature	5
-Balance			0.4
+Balance			0.46
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -11028,8 +11066,8 @@ HANDS			ahtPistol
 ITEM "Revolver SW 10 W (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
+Weight			907
+PrepareTime		0.15
 SingleFireTime	0.60
 BurstFireTime	0.25
 SpeedModifier	1.01
@@ -11042,9 +11080,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	36
 RangeCurvature	5
-Balance			0.4
+Balance			0.46
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -11065,8 +11103,8 @@ HANDS			ahtPistol
 ITEM "Revolver SW 10 B (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
+Weight			907
+PrepareTime		0.15
 SingleFireTime	0.60
 BurstFireTime	0.25
 SpeedModifier	1.01
@@ -11079,9 +11117,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	36
 RangeCurvature	5
-Balance			0.4
+Balance			0.46
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -11102,8 +11140,8 @@ HANDS			ahtPistol
 ITEM "Revolver SW 10 WB (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
+Weight			907
+PrepareTime		0.15
 SingleFireTime	0.60
 BurstFireTime	0.25
 SpeedModifier	1.01
@@ -11116,9 +11154,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	36
 RangeCurvature	5
-Balance			0.4
+Balance			0.46
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -11139,8 +11177,8 @@ HANDS			ahtPistol
 ITEM "Revolver SW 10 BB (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
+Weight			907
+PrepareTime		0.15
 SingleFireTime	0.60
 BurstFireTime	0.25
 SpeedModifier	1.01
@@ -11153,9 +11191,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	36
 RangeCurvature	5
-Balance			0.4
+Balance			0.46
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -11176,8 +11214,8 @@ HANDS			ahtPistol
 ITEM "Revolver SW 10 GB (.38 spc)"
 Class			Pistol
 Caliber			".38 Spl"
-Weight			1075
-PrepareTime		0.17
+Weight			907
+PrepareTime		0.15
 SingleFireTime	0.60
 BurstFireTime	0.25
 SpeedModifier	1.01
@@ -11190,9 +11228,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	36
 RangeCurvature	5
-Balance			0.4
+Balance			0.46
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -11217,7 +11255,7 @@ Weight			1075
 PrepareTime		0.17
 SingleFireTime	0.60
 BurstFireTime	0.25
-SpeedModifier	1.01
+SpeedModifier	1.04
 Resource		2600
 DirtResource	280000
 MisfireProb		0
@@ -11254,7 +11292,7 @@ Weight			1075
 PrepareTime		0.17
 SingleFireTime	0.60
 BurstFireTime	0.25
-SpeedModifier	1.01
+SpeedModifier	1.04
 Resource		2600
 DirtResource	280000
 MisfireProb		0
@@ -18569,7 +18607,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Bizon 9x18"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84"
@@ -18608,7 +18646,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Bizon 9x18"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84"
@@ -18647,7 +18685,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84P"
@@ -18686,7 +18724,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84"
@@ -18725,7 +18763,7 @@ ATT Laser		0
 ATT Light		1 "built-in"
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84P"
@@ -18734,7 +18772,7 @@ StdPlug			"pm98stock"
 StdPlug			"PM98 Flashlight"
 ACTOR			"Items\pm98.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun PM98 (9mm) folded"
 Class			SMG
@@ -18765,7 +18803,7 @@ ATT Laser		0
 ATT Light		1 "built-in"
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PM84P"
@@ -37526,13 +37564,13 @@ HANDS			ahtBoltRifle
 ITEM "Rifle M1917 Enfield (.30-06)"
 Class			Rifle
 Caliber			"30-06 Springfield"
-Weight			3900
-PrepareTime		0.65
+Weight			4100
+PrepareTime		0.63
 SingleFireTime	1.26
 BurstFireTime	0
-SpeedModifier	1.06
-Resource		1300
-DirtResource	88000
+SpeedModifier	1.05
+Resource		1100
+DirtResource	81000
 MisfireProb		0.0039
 HeatCapacity	70
 Single			1
@@ -37540,9 +37578,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	195
+EffectiveRange	191
 RangeCurvature	1.5
-Balance			0.43
+Balance			0.53
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
@@ -94950,6 +94988,43 @@ ATT Magazine	0
 StdPlug			"Grenade Ring (West)"
 ACTOR			"Items\Type82-2.act"
 IMAGE			"Type82-2.e5b"
+HANDS			ahtGrenade
+
+ITEM "Defensive Hand Grenade DM51"
+Class			Grenade
+Caliber			"None"
+Weight			440
+PrepareTime		0.7
+SingleFireTime	0
+BurstFireTime	0
+SpeedModifier	1
+Resource		0
+DirtResource	0
+MisfireProb		0
+HeatCapacity	100
+Single			0
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		0
+EffectiveRange	0
+RangeCurvature	0
+Balance			0
+ClipInSound		"Weapon\ClipIn\None"
+ClipOutSound	"Weapon\ClipOut\None"
+ReLockSound		"Weapon\ReLock\None"
+ShootSound		"Weapon\Shoot\None"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	0
+StdPlug			"Grenade Ring (dm51)"
+ACTOR			"Items\dm51.act"
+IMAGE			"m61nova.e5b"
 HANDS			ahtGrenade
 
 ///---------------
