@@ -3247,6 +3247,28 @@ ACTOR "Items\m407-onepart.act"
 IMAGE "m407.e5b"
 WEIGHT 215
 
+"Pallad 40x47"
+"40x47"
+170
+76
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\M203.wav"
+"None"
+"Items\m406-head.act"
+250
+ACTOR "Items\m406-onepart.act"
+IMAGE "m406.e5b"
+WEIGHT 225
+
 "VOG-25P"
 "40 ÏÏ (√œ)"
 275

@@ -1956,9 +1956,13 @@ nos fgs pulei f2000 e ar15 blackout
 "SIG551 Standalone Launcher"
 "SIG550 Launcher"
 "SIG551 Launcher"
+"Pallad 40x47"
+"Pallad Standalone"
+"Pallad GL Standalone"
+"SIG550GL Standalone"
+"SIG551GL Standalone"
 
 
-"LAUNCHER" -0.000000 -0.000000 -1.000000 0.0  -0.000001 1.000000 -0.000000 0.0  -1.000000 -0.000001 0.000000 0.0  0.000000 0.09279 0.2722 1.0
 
 +++++++++++++
 

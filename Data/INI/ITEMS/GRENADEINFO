@@ -162,6 +162,9 @@ WaveAmmo  "VOG Wave"
 LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"140 0.18 7 7 140 0 0 0.184 0.335 10 10 
 WaveAmmo  "VOG Wave"
 
+"Pallad 40x47"
+LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"150 0.25 6 9 90 0 0 0.131 0.394 14 14 
+WaveAmmo  "VOG Wave"
 
 "DFS-10 HE"
 LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"150 0.25 6 9 90 0 0 0.131 0.394 14 14 

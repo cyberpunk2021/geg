@@ -5774,6 +5774,18 @@ IMAGE			"m203b.e5b"
 WEIGHT			1250
 Resource		9500
 //------------------------------------------------------
+Addon			"Pallad GL Standalone"
+ILauncher		"built-in"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound		"Addon\ShootSound\M203.wav"
+GrenadeType		"40x47"
+GrenadeCount	1
+IsLauncher		1
+ACTOR			"Items\pallad.act"
+IMAGE			"m203b.e5b"
+WEIGHT			1250
+Resource		9500
+//------------------------------------------------------
 Addon			"SIG550 Standalone Launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
