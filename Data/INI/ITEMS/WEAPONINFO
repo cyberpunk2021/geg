@@ -33526,8 +33526,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33565,8 +33565,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33604,8 +33604,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33643,8 +33643,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33682,8 +33682,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33721,8 +33721,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33760,8 +33760,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33799,8 +33799,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33838,8 +33838,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33877,8 +33877,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33916,8 +33916,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33955,8 +33955,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -33994,8 +33994,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -34033,8 +34033,8 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
