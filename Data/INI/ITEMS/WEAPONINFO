@@ -94184,9 +94184,9 @@ HANDS			ahtRG
 ITEM "Pallad Standalone"
 Class			Rifle
 Caliber			"None"
-Weight			2680
-PrepareTime		0.1
-SingleFireTime	0.2
+Weight			2300
+PrepareTime		0.09
+SingleFireTime	0.19
 BurstFireTime	0
 SpeedModifier	1
 Resource		3000
@@ -94198,9 +94198,10 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	105
-RangeCurvature	6
-Balance			0.56
+EffectiveRange	126
+RangeCurvature	7
+Balance			0.51
+Unfold		"Pallad Standalone folded"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
@@ -94214,17 +94215,18 @@ ATT ILauncher	1 "built-in"
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"RG-6 mag"
+StdPlug			"akmsbuttnovo"
 StdPlug			"Pallad GL Standalone"
 ACTOR			"Items\palladstandalone.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "SIG550GL Standalone"
+ITEM "Pallad Standalone folded"
 Class			Rifle
 Caliber			"None"
-Weight			2680
-PrepareTime		0.1
-SingleFireTime	0.2
+Weight			2300
+PrepareTime		0.05
+SingleFireTime	0.19
 BurstFireTime	0
 SpeedModifier	1
 Resource		3000
@@ -94236,9 +94238,10 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	105
-RangeCurvature	6
-Balance			0.56
+EffectiveRange	76
+RangeCurvature	7
+Balance			0.51
+Unfold		"Pallad Standalone"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
@@ -94252,17 +94255,58 @@ ATT ILauncher	1 "built-in"
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"RG-6 mag"
+StdPlug			"akmsbuttnovo_folded"
+StdPlug			"Pallad GL Standalone"
+ACTOR			"Items\palladstandalone.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "SIG550GL Standalone"
+Class			Rifle
+Caliber			"None"
+Weight			2500
+PrepareTime		0.11
+SingleFireTime	0.21
+BurstFireTime	0
+SpeedModifier	1
+Resource		3000
+DirtResource	300000
+MisfireProb		0.0003
+HeatCapacity	100
+Single			0
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	150
+RangeCurvature	7
+Balance			0.51
+Unfold		"SIG550GL Standalone folded"
+ClipInSound		"Weapon\ClipIn\gren_in.wav"
+ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
+ReLockSound		"Weapon\ReLock\None"
+ShootSound		"Weapon\Shoot\M79_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	1 "built-in"
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"RG-6 mag"
+StdPlug			"sig550Butt"
 StdPlug			"SIG550 Standalone Launcher"
 ACTOR			"Items\sig550glstandalone.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "SIG551GL Standalone"
+ITEM "SIG550GL Standalone folded"
 Class			Rifle
 Caliber			"None"
-Weight			2680
-PrepareTime		0.1
-SingleFireTime	0.2
+Weight			2500
+PrepareTime		0.07
+SingleFireTime	0.21
 BurstFireTime	0
 SpeedModifier	1
 Resource		3000
@@ -94274,9 +94318,10 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	105
-RangeCurvature	6
-Balance			0.56
+EffectiveRange	100
+RangeCurvature	7
+Balance			0.51
+Unfold		"SIG550GL Standalone"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
@@ -94290,8 +94335,9 @@ ATT ILauncher	1 "built-in"
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"RG-6 mag"
-StdPlug			"SIG551 Standalone Launcher"
-ACTOR			"Items\sig551glstandalone.act"
+StdPlug			"sig550Butt_folded"
+StdPlug			"SIG550 Standalone Launcher"
+ACTOR			"Items\sig550glstandalone.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 

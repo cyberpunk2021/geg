@@ -300,7 +300,7 @@ ShiversMass  2.11
 ShiversDist  21
 ExplWaveDist  18 
 ExplForce  207
-ACTOR  "Items\remote_type82.act"
+ACTOR  "Items\remote_dm51.act"
 IMAGE  "remote_type82.dds"
 WEIGHT  520
 

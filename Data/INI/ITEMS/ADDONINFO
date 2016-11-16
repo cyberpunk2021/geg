@@ -5727,7 +5727,7 @@ WEIGHT			1600
 Resource		9500
 //------------------------------------------------------
 Addon			"SIG550 Launcher"
-ILauncher		"SIG550 GL"
+ILauncher		"SIG550GL"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ShootSound		"Addon\ShootSound\M203.wav"
 GrenadeType		"40 μμ"
@@ -5739,7 +5739,7 @@ WEIGHT			1300
 Resource		9500
 //------------------------------------------------------
 Addon			"SIG551 Launcher"
-ILauncher		"SIG551 GL"
+ILauncher		"SIG551GL"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ShootSound		"Addon\ShootSound\M203.wav"
 GrenadeType		"40 μμ"
@@ -5781,7 +5781,7 @@ ShootSound		"Addon\ShootSound\M203.wav"
 GrenadeType		"40x47"
 GrenadeCount	1
 IsLauncher		1
-ACTOR			"Items\pallad.act"
+ACTOR			"Items\palladstandalonelauncher.act"
 IMAGE			"m203b.e5b"
 WEIGHT			1250
 Resource		9500
@@ -5796,18 +5796,6 @@ IsLauncher		1
 ACTOR			"Items\sig550gllauncherstandalone.act"
 IMAGE			"m203b.e5b"
 WEIGHT			1300
-Resource		9500
-//------------------------------------------------------
-Addon			"SIG551 Standalone Launcher"
-ILauncher		"built-in"
-Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound		"Addon\ShootSound\M203.wav"
-GrenadeType		"40 μμ"
-GrenadeCount	1
-IsLauncher		1
-ACTOR			"Items\sig551gllauncherstandalone.act"
-IMAGE			"pi-m203.e5b"
-WEIGHT			1100
 Resource		9500
 //------------------------------------------------------
 Addon			"Knight Masterkey Shotgun (12 ga)"

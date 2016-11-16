@@ -68,6 +68,9 @@
 	<mine item="Offensive Hand Grenade Type82-2" fuze="Fuze_grenade">
         <variant item="remote_type82-2" fuze="Fuze_radio" useTape="true"/>
     </mine>
+	<mine item="Defensive Hand Grenade DM51" fuze="Fuze_grenade">
+        <variant item="remote_dm51" fuze="Fuze_radio" useTape="true"/>
+    </mine>
 	<mine item="Defensive Hand Grenade Mk2A1" fuze="Fuze_grenade">
         <variant item="remote_mk2a1" fuze="Fuze_radio" useTape="true"/>
     </mine>
