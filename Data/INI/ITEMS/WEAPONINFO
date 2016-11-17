@@ -66909,47 +66909,6 @@ ACTOR			"Items\fnfalnova_fn.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle FN FAL 50.00 (7.62x51mm)"
-Class			Rifle
-Caliber			"7.62υ51 μμ"
-Weight			4205
-PrepareTime		0.49
-SingleFireTime	0.85
-BurstFireTime	0.0889
-SpeedModifier	1.04
-Resource		2000
-DirtResource	200000
-MisfireProb		0.007
-HeatCapacity	50
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		300
-EffectiveRange	230
-RangeCurvature	0.6
-Balance			0.54
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\FN FAL.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
-ATT Magazine	2 "FNFAL""DSA-58OSW"
-StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
 ITEM "Assault Rifle FN FAL 50.61 (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
