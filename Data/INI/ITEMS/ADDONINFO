@@ -3327,6 +3327,22 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"fnfalnova_dsa_stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\fnfalnova_dsastock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"fnfalnova_dsa_stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\fnfalnova_dsastockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
 Addon			"fnc_butt"
 Stock			"built-in"
 Sound			"None""None"
