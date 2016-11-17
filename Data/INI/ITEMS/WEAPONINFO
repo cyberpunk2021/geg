@@ -28161,7 +28161,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28200,7 +28200,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28239,7 +28239,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28278,7 +28278,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28317,7 +28317,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28356,7 +28356,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28395,7 +28395,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -28434,7 +28434,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
