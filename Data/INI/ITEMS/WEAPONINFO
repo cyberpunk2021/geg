@@ -58747,10 +58747,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\t65.act"
@@ -58784,10 +58784,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\t65bk.act"
@@ -58821,10 +58821,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\t65.act"
@@ -58858,10 +58858,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\t65bk.act"
@@ -58895,10 +58895,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\t65k2.act"
@@ -58932,10 +58932,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\t65k2bk.act"
@@ -58970,10 +58970,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"t65k2carstock"
@@ -59009,10 +59009,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"t65k2carstock_folded"
@@ -59048,10 +59048,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"t65k2bkcarstock"
@@ -59087,10 +59087,10 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Bayonet
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Bipod and Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"t65k2bkcarstock_folded"
