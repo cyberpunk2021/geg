@@ -5307,12 +5307,12 @@ IMAGE  "fal 40 metal.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Rifle ammo clip (IMBEL/20)""7.62υ51 μμ""FNFAL"20 220 "Double rifle ammo clip (IMBEL/40)"800 
-ACTOR  "Items\762_imbel_20.act"
+ACTOR  "Items\fnfalnova_mag20imb.act"
 USEPREFIX  ""
 IMAGE  "762_imbel_20.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 CLIP  "Double rifle ammo clip (IMBEL/40)""7.62υ51 μμ""FNFAL"40 440 "None"800 
-ACTOR  "Items\762_imbel_40.act"
+ACTOR  "Items\fnfalnova_mag20imbdb.act"
 USEPREFIX  ""
 IMAGE  "762_imbel_40.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"

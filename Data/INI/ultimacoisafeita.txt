@@ -1989,11 +1989,16 @@ contrast -22
 "Assault Rifle FN FAL Argentina (7.62x51mm)"
 "Assault Rifle 1A1 (7.62x51mm)"
 "Assault Rifle 1C (7.62x51mm)"
+"fnfalnova_modern_stock"
+"fnfalnova_modern_stock_folded"
+"fnfalnova_modernimb_stock"
+"fnfalnova_modernimb_stock_folded"
 
 
+imbel rec
 
-
-
+-115 bright
+-37 contrast
 
 
 

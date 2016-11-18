@@ -45817,7 +45817,7 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-ACTOR			"Items\fn fal 5000imb.act"
+ACTOR			"Items\fnfalnova_imbel.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45859,8 +45859,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt"
-ACTOR			"items\IMBEL_M964A1md2.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelfolding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45902,8 +45902,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"items\IMBEL_M964A1md2.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelfolding.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -45944,7 +45944,7 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-ACTOR			"items\IMBEL_M964md3.act"
+ACTOR			"items\fnfalnova_imbelcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45986,8 +45986,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt"
-ACTOR			"items\IMBEL_M964A1.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelfoldingcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -46029,8 +46029,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"items\IMBEL_M964A1.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelfoldingcar.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 ///////////-----------------
@@ -46073,8 +46073,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt"
-ACTOR			"items\imbel_m964_ris.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelparafal.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -46116,8 +46116,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"items\imbel_m964_ris.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelparafal.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -66947,7 +66947,8 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
+StdPlug			"fnfalnova_modern_stock"
+ACTOR			"Items\fnfalnova_fnfolding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -66989,7 +66990,8 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
+StdPlug			"fnfalnova_modern_stock_folded"
+ACTOR			"Items\fnfalnova_fnfolding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67031,7 +67033,8 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
+StdPlug			"fnfalnova_modern_stock"
+ACTOR			"Items\fnfalnova_fnfoldingcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67073,7 +67076,8 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
+StdPlug			"fnfalnova_modern_stock_folded"
+ACTOR			"Items\fnfalnova_fnfoldingcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67115,7 +67119,8 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
+StdPlug			"fnfalnova_modern_stock"
+ACTOR			"Items\fnfalnova_fnfoldingcqc.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67157,7 +67162,8 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_fn.act"
+StdPlug			"fnfalnova_modern_stock_folded"
+ACTOR			"Items\fnfalnova_fnfoldingcqc.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67195,7 +67201,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
-StdPlug			"fnfalnova_dsa_stock"
+StdPlug			"fnfalnova_modern_stock"
 ACTOR			"Items\fnfalnova_dsa.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -67234,7 +67240,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
-StdPlug			"fnfalnova_dsa_stock_folded"
+StdPlug			"fnfalnova_modern_stock_folded"
 ACTOR			"Items\fnfalnova_dsa.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -67877,7 +67883,7 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-ACTOR			"Items\fn fal 5000imb.act"
+ACTOR			"Items\fnfalnova_imbel.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67919,8 +67925,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt"
-ACTOR			"items\IMBEL_M964A1md2.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelfolding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67962,8 +67968,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"items\IMBEL_M964A1md2.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelfolding.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -68004,7 +68010,7 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-ACTOR			"items\IMBEL_M964md3.act"
+ACTOR			"items\fnfalnova_imbelcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -68046,8 +68052,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt"
-ACTOR			"items\IMBEL_M964A1.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelfoldingcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -68089,8 +68095,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"items\IMBEL_M964A1.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelfoldingcar.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 ///////////-----------------
@@ -68133,8 +68139,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt"
-ACTOR			"items\imbel_m964_ris.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelparafal.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -68176,8 +68182,8 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"items\imbel_m964_ris.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelparafal.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 

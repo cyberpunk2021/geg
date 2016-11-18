@@ -3343,6 +3343,38 @@ IMAGE			"None"
 WEIGHT			0
 Resource		0
 //------------------------------------------------------
+Addon			"fnfalnova_modern_stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\fnfalnova_modernstock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"fnfalnova_modern_stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\fnfalnova_modernstockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"fnfalnova_modernimb_stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\fnfalnova_modernimbstock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"fnfalnova_modernimb_stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\fnfalnova_modernimbstockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
 Addon			"fnc_butt"
 Stock			"built-in"
 Sound			"None""None"
