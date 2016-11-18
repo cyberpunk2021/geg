@@ -34,7 +34,7 @@ Material brebreb {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_recfix.dds";
+  "fnfal_imbelrecfix.dds";
  }
 }
 
@@ -54,7 +54,7 @@ Material slinngg {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_dsabarrel.dds";
+  "fnfal_dsabarrelimbel.dds";
  }
 }
 
@@ -64,7 +64,7 @@ Material fsightt {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_fsight.dds";
+  "fnfal_fsight2imbel.dds";
  }
 }
 
@@ -84,7 +84,7 @@ Material brbre {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_handguarddz.dds";
+  "fnfal_handguarddzimbel.dds";
  }
 }
 
