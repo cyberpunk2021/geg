@@ -1401,8 +1401,7 @@ HANDS			ahtPistol
 
 ////-----------------------
 
-ITEM "claive_pistol"
-//// RealName	"Ïטסעמכוע Colt Mustang (.380 ACP)"
+ITEM "Pistol Colt Mustang (.380 ACP)"
 Class			Pistol
 Caliber			".380 ACP"
 Weight			350
@@ -1420,6 +1419,43 @@ CutOff			0
 BurstHitStart	1
 MaxRange		150
 EffectiveRange	34
+RangeCurvature	6
+Balance			0.55
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Bizon_9mm.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Mustang"
+StdPlug			"Pistol clip (Mustang/6)"
+ACTOR			"Items\Colt_Mustang.act"
+IMAGE			"m67.e5b"
+HANDS			ahtPistol
+
+ITEM "claive_pistol"
+Class			Pistol
+Caliber			".380 ACP"
+Weight			350
+PrepareTime		0.11
+SingleFireTime	0.56
+BurstFireTime	0.09
+SpeedModifier	0.9
+Resource		1000
+DirtResource	110000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	40
 RangeCurvature	6
 Balance			0.55
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -5518,8 +5554,213 @@ ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta9mm"
+StdPlug			"Pistol clip (PT92/15)"
+ACTOR			"Items\pt92mp3.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 92 B (9mm)"
+Class			Pistol
+Caliber			"9ץ19 לל"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.6
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Beretta9mm"
+StdPlug			"Pistol clip (PT92B/15)"
+ACTOR			"Items\pt92mp3b.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 92 W (9mm)"
+Class			Pistol
+Caliber			"9ץ19 לל"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.6
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Beretta9mm"
+StdPlug			"Pistol clip (PT92W/15)"
+ACTOR			"Items\pt92mp3w.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 92 Rail (9mm)"
+Class			Pistol
+Caliber			"9ץ19 לל"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.6
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Beretta9mm"
 StdPlug			"Pistol clip (Beretta 92FS/17)"
 ACTOR			"Items\pt92mp3rail.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 92 Rail B (9mm)"
+Class			Pistol
+Caliber			"9ץ19 לל"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.6
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Beretta9mm"
+StdPlug			"Pistol clip (Beretta 92FS/17)"
+ACTOR			"Items\pt92mp3railb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 92 Rail W (9mm)"
+Class			Pistol
+Caliber			"9ץ19 לל"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.6
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Beretta9mm"
+StdPlug			"Pistol clip (Beretta 92FS/17)"
+ACTOR			"Items\pt92mp3railw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -8123,10 +8364,83 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/10)"
-ACTOR			"Items\TaurusPT100.act"
+ACTOR			"Items\pt92mp3.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
+ITEM "Pistol Taurus PT100 B (.40 SW)"
+Class			Pistol
+Caliber			".40 S&W"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.67
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT100"
+StdPlug			"Pistol clip (PT100/10)"
+ACTOR			"Items\pt92mp3b.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT100 W (.40 SW)"
+Class			Pistol
+Caliber			".40 S&W"
+Weight			890
+PrepareTime		0.16
+SingleFireTime	0.67
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT100"
+StdPlug			"Pistol clip (PT100/10)"
+ACTOR			"Items\pt92mp3w.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
 //////////-----------------------
 
 ITEM "Pistol Taurus PT100 TB (.40 S&W)"
@@ -8161,8 +8475,82 @@ ATT Silencer	1 ".40 (P99)"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
-StdPlug			"Pistol clip (PT100/10)"
-ACTOR			"Items\TaurusPT100_tb.act"
+StdPlug			"Pistol clip (PT100/15)"
+ACTOR			"Items\pt92mp3rail.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT100 Rail B (.40 SW)"
+Class			Pistol
+Caliber			".40 S&W"
+Weight			905
+PrepareTime		0.16
+SingleFireTime	0.67
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 ".40 (P99)"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT100"
+StdPlug			"Pistol clip (PT100/15)"
+ACTOR			"Items\pt92mp3railb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT100 Rail W (.40 SW)"
+Class			Pistol
+Caliber			".40 S&W"
+Weight			905
+PrepareTime		0.16
+SingleFireTime	0.67
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 ".40 (P99)"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT100"
+StdPlug			"Pistol clip (PT100/15)"
+ACTOR			"Items\pt92mp3railw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -9313,7 +9701,7 @@ HANDS			ahtPistol
 ////----------------------------------
 
 ITEM "pistol_name"
-/// RealName	"Ïטסעמכוע Nighthawk Custom AAC Edition (.45 ACP)"
+/// RealName	"Nighthawk Custom AAC Edition (.45 ACP)"
 Class			Pistol
 Caliber			".45 ACP"
 Weight			1035
@@ -43502,8 +43890,50 @@ HANDS			ahtBoltRifle
 
 ///////////-------------------
 
+
+
+ITEM "Assault Rifle L1A1 (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62ץ51 לל"
+Weight			4250
+PrepareTime		0.49
+SingleFireTime	0.8
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2200
+DirtResource	220000
+MisfireProb		0.006
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	244
+RangeCurvature	0.61
+Balance			0.54
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		2 "WR""M24_Scope"
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	1 "Supressor - 7,62"
+blocks
+Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "FAL"
+blocks
+Silencer
+ATT Magazine	2 "FNFAL""DSA-58OSW"
+StdPlug			"Rifle ammo clip (FN FAL/20)"
+ACTOR			"Items\l1a1.ACT"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Assault Rifle L1A1 Para (7.62x51mm)"
-////RealName	"Øעףנלמגאÿ גטםעמגךא FN FAL 50.63 (7.62ץ51 לל)"
 Class			Rifle
 Caliber			"7.62ץ51 לל"
 Weight			4250
@@ -43587,47 +44017,6 @@ StdPlug			"Rifle ammo clip (FN FAL/20)"
 StdPlug			"fn_fal_butt_folded"
 ACTOR			"items\l1a1 para.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle L1A1 (7.62x51mm)"
-Class			Rifle
-Caliber			"7.62ץ51 לל"
-Weight			4250
-PrepareTime		0.49
-SingleFireTime	0.8
-BurstFireTime	0.08
-SpeedModifier	1.05
-Resource		2200
-DirtResource	220000
-MisfireProb		0.006
-HeatCapacity	50
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	1
-MaxRange		300
-EffectiveRange	244
-RangeCurvature	0.61
-Balance			0.54
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\FN FAL.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		2 "WR""M24_Scope"
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
-ATT Magazine	2 "FNFAL""DSA-58OSW"
-StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\l1a1.ACT"
-IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle L1A1 Australia (7.62x51mm)"

@@ -285,14 +285,14 @@ BOX  "Ammo box (7.65 FMJ)""7.65 FMJ"50 "Items\765_box.act""320ap_box.e5b"
 BOX  "Ammo box (.32 ACP HP)"".32 ACP HP"50 "Items\cbc32boxmelhor.act""cbcboxinv.e5b"
 BOX  "Ammo box (.32 ACP AP)"".32 ACP AP"50 "Items\32aguila.act""box32aguila.e5b"
 BOX  "Ammo box (.32 ACP FMJ)"".32 ACP FMJ"50 "Items\32federal.act""boxfederalvermelho.e5b"
-BOX  "Ammo box (.32 ACP SP)"".32 ACP Surplus"50 "Items\cbc32box.act""cbcboxinv.e5b"
+BOX  "Ammo box (.32 ACP SP)"".32 ACP Surplus"50 "Items\algeira9mm.act""algeiraboxinv.e5b"
 
 BOX  "Ammo box 500 HLA (7.65 FMJ)""7.65 FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
 BOX  "Ammo box 500 (.32 ACP HP)"".32 ACP HP"500 "Items\Note_closed.act""Note_closed.e5b"
 BOX  "Ammo box 500 (.32 ACP AP)"".32 ACP AP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (.32 ACP FMJ)"".32 ACP FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
-BOX  "Ammo box 500 (.32 ACP SP)"".32 ACP Surplus"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX  "Ammo box 500 (.32 ACP SP)"".32 ACP Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 CLIP  "Pistol clip (Guardian/6)""7.65x17""Guardian32"6 70 "None"1200 
 ACTOR  "Items\guardian32mag.act"
@@ -396,14 +396,14 @@ BOX  "Ammo box (.380 FMJ)"".380 FMJ"50 "Items\380ap_box.act""380ap_box.e5b"
 BOX  "Ammo box (.380 ACP HP)"".380 ACP HP"50 "Items\cbc380boxmelhor.act""cbcboxinv.e5b"
 BOX  "Ammo box (.380 ACP AP)"".380 ACP AP"50 "Items\380rws.act""box380acprws.e5b"
 BOX  "Ammo box (.380 ACP FMJ)"".380 ACP FMJ"50 "Items\380geco.act""box380acp.e5b"
-BOX  "Ammo box (.380 ACP SP)"".380 ACP Surplus"50 "Items\cbc380box.act""cbcboxinv.e5b"
+BOX  "Ammo box (.380 ACP SP)"".380 ACP Surplus"50 "Items\algeira9mm.act""algeiraboxinv.e5b"
 
 BOX  "Ammo box 500 HLA (.380 FMJ)"".380 FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
 BOX  "Ammo box 500 (.380 ACP HP)"".380 ACP HP"500 "Items\Note_closed.act""Note_closed.e5b"
 BOX  "Ammo box 500 (.380 ACP AP)"".380 ACP AP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (.380 ACP FMJ)"".380 ACP FMJ"500 "Items\Note_closed.act""Note_closed.e5b"
-BOX  "Ammo box 500 (.380 ACP SP)"".380 ACP Surplus"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
+BOX  "Ammo box 500 (.380 ACP SP)"".380 ACP Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 ////------
 CLIP  "Pistol clip (Mustang/6)"".380 ACP""Mustang"6 55 "None"500 
@@ -966,6 +966,21 @@ CLIP  "Pistol clip (Beretta M9A1/15)""9υ19 μμ""Beretta9mm"15 70 "None"100
 ACTOR  "Items\m9a1_mag.act"
 USEPREFIX  ""
 IMAGE  "beretta92M9-clip15.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "Pistol clip (PT92/15)""9υ19 μμ""Beretta9mm"15 70 "None"500 
+ACTOR  "Items\pt92mp3mag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "Pistol clip (PT92B/15)""9υ19 μμ""Beretta9mm"15 70 "None"500 
+ACTOR  "Items\pt92mp3magb.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "Pistol clip (PT92W/15)""9υ19 μμ""Beretta9mm"15 70 "None"500 
+ACTOR  "Items\pt92mp3magb.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Pistol clip (Beretta 92FS/15)""9υ19 μμ""Beretta9mm"15 70 "None"500 
 ACTOR  "Items\beretta92fs-clip15.act"
@@ -1956,6 +1971,21 @@ USEPREFIX  ""
 IMAGE  "usp9_clip.e5b"
 DEFAMMO  "Ammo .40 S&W"
 CLIP  "Pistol clip (PT100/10)"".40 S&W""PT100"10 70 "None"500 
+ACTOR  "Items\beretta92fs-clip15.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "Ammo .40 S&W"
+CLIP  "Pistol clip (PT100B/10)"".40 S&W""PT100"10 70 "None"500 
+ACTOR  "Items\beretta92fs-clip15.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "Ammo .40 S&W"
+CLIP  "Pistol clip (PT100BK/10)"".40 S&W""PT100"10 70 "None"500 
+ACTOR  "Items\beretta92fs-clip15.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  "Ammo .40 S&W"
+CLIP  "Pistol clip (PT100W/10)"".40 S&W""PT100"10 70 "None"500 
 ACTOR  "Items\beretta92fs-clip15.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip15.e5b"
