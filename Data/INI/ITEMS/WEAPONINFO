@@ -42939,7 +42939,7 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44536,7 +44536,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44574,7 +44574,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44613,7 +44613,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -51376,7 +51376,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -51414,7 +51414,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -51453,7 +51453,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -79635,7 +79635,7 @@ ShootSound		"Weapon\Shoot\galil_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -79674,7 +79674,7 @@ ShootSound		"Weapon\Shoot\galil_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
