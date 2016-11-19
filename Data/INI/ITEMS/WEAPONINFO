@@ -44040,7 +44040,7 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\l1a1.ACT"
+ACTOR			"Items\fnfalnova_l1a1.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -44167,7 +44167,7 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\l1a1.ACT"
+ACTOR			"Items\fnfalnova_l1a1aus.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45914,8 +45914,8 @@ blocks
 Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"imbel_butt"
-ACTOR			"Items\imbel_md2.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"Items\fnfalnova_md2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45957,8 +45957,8 @@ blocks
 Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"Items\imbel_md2.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"Items\fnfalnova_md2.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -45999,7 +45999,7 @@ blocks
 Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\imbel_md3.act"
+ACTOR			"Items\fnfalnova_md3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67784,7 +67784,7 @@ blocks
 Silencer
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
-ACTOR			"Items\fnfalnova_vektor.act"
+ACTOR			"Items\fnfalnova_argentina.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67904,8 +67904,8 @@ blocks
 Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"imbel_butt"
-ACTOR			"Items\imbel_md2.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"Items\fnfalnova_md2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -67947,8 +67947,8 @@ blocks
 Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"Items\imbel_md2.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"Items\fnfalnova_md2.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -67989,7 +67989,7 @@ blocks
 Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\imbel_md3.act"
+ACTOR			"Items\fnfalnova_md3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -68027,8 +68027,8 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"imbel_butt"
-ACTOR			"Items\imbel_md4.act"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"Items\fnfalnova_md4.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -68066,8 +68066,8 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"imbel_butt_folded"
-ACTOR			"Items\imbel_md4.act"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"Items\fnfalnova_md4.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
