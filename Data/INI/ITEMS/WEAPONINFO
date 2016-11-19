@@ -87299,7 +87299,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -87491,7 +87491,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -87567,7 +87567,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -87605,7 +87605,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -88313,7 +88313,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -88505,7 +88505,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -88898,7 +88898,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -88936,7 +88936,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -88974,7 +88974,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -89012,7 +89012,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle" blocks Light
 ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -89790,7 +89790,7 @@ ShootSound		"Weapon\Shoot\awp_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 ".338 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
