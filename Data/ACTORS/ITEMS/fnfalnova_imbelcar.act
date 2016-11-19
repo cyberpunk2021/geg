@@ -44,7 +44,7 @@ Material ffffsight {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_dsafrontsight.dds";
+  "fnfal_dsafrontsightbk.dds";
  }
 }
 

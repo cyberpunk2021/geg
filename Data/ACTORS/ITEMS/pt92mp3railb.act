@@ -34,7 +34,7 @@ Material bdfbdb {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "pt92mp3.dds";
+  "pt92mp3black.dds";
  }
 }
 
@@ -44,7 +44,7 @@ Material nrtntrn {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "pt92mp3nomark.dds";
+  "pt92mp3black_nomark.dds";
  }
 }
 
@@ -54,7 +54,7 @@ Material Material_0 {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "m9a1pt92blue.dds";
+  "m9a1pt92black.dds";
  }
 }
 

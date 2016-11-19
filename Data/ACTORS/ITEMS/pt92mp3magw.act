@@ -34,7 +34,7 @@ Material bdfbdb {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "pt92mp3.dds";
+  "pt92mp3_stainless.dds";
  }
 }
 
