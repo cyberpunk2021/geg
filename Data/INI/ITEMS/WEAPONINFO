@@ -85373,7 +85373,7 @@ ShootSound		"Weapon\Shoot\T850.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -85413,7 +85413,7 @@ ShootSound		"Weapon\Shoot\T850.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -87027,7 +87027,7 @@ ShootSound		"Weapon\Shoot\SR-25_fire 2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "SR25_silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -87109,7 +87109,7 @@ ShootSound		"Weapon\Shoot\SR-25_fire 2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "SR25_silencer"
 ATT ILauncher	0
 ATT Bayonet		0
