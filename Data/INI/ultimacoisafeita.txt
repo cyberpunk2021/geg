@@ -2007,6 +2007,10 @@ fazer 32 acp e 380 acp algeira box
 "Pistol Taurus PT100 Rail W (.40 SW)"
 "Pistol Colt Mustang (.380 ACP)"
 
+
+"Pistol Automag 50"
+"Pistol clip (Automag50)"
+
 "Pistol clip (PT92/15)"
 "Pistol clip (PT92B/15)"
 "Pistol clip (PT92W/15)"

@@ -13661,6 +13661,43 @@ ACTOR			"Items\de44.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
+ITEM "Pistol Automag 50"
+Class			Pistol
+Caliber			".50AE"
+Weight			1310
+PrepareTime		0.21
+SingleFireTime	0.82
+BurstFireTime	0.12
+SpeedModifier	1.06
+Resource		1100
+DirtResource	100000
+MisfireProb		0.004
+HeatCapacity	27
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	58
+RangeCurvature	8.2
+Balance			0.33
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\desert_slide.wav"
+ShootSound		"Weapon\Shoot\desert.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Automag50"
+StdPlug			"Pistol clip (Automag50)"
+ACTOR			"Items\AMTAutomagV.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
 ///-----------------------------------
 
 ITEM "Revolver Colt SAA 45_4 (.44-40)"

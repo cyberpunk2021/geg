@@ -2336,6 +2336,12 @@ USEPREFIX  ""
 IMAGE  "de_clip.e5b"
 DEFAMMO  ".50AE FMJ"
 
+CLIP  "Pistol clip (Automag50)"".50AE""Automag50"7 116 "None"1000 
+ACTOR  "Items\AMTAutomagVmag3.act"
+USEPREFIX  ""
+IMAGE  "de_clip.e5b"
+DEFAMMO  ".50AE FMJ"
+
 CLIP  "BFR (.50AE/5)"".50AE""built-in"5 0 "None"7000 
 ACTOR  "None"
 USEPREFIX  ""
