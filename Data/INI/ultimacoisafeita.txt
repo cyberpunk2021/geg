@@ -2009,7 +2009,11 @@ fazer 32 acp e 380 acp algeira box
 
 
 "Pistol Automag 50"
+"Pistol Automag 10"
+"Pistol Automag 30"
 "Pistol clip (Automag50)"
+"Pistol clip (Automag10)"
+"Pistol clip (Automag30)"
 
 "Pistol clip (PT92/15)"
 "Pistol clip (PT92B/15)"

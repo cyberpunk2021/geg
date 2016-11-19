@@ -2104,6 +2104,8 @@
   <item level="3">Revolver Taurus 44 B (.44 Magnum)</item>
   <item level="4">Pistol Desert Eagle 50</item>
   <item level="4">Pistol Automag 50</item>
+  <item level="3">Pistol Automag 30</item>
+  <item level="3">Pistol Automag 10</item>
   <item level="1">Revolver Colt SAA 45_4 BK (.45 Colt)</item>
   <item level="1">Revolver Colt SAA 45_5 BK (.45 Colt)</item>
   <item level="2">Revolver Colt SAA 45_7 BK (.45 Colt)</item>
@@ -4852,4 +4854,6 @@
   <item level="7">SIG550 Launcher</item>
   <item level="6">SIG551 Launcher</item>
   <item level="3">Pistol clip (Automag50)</item>
+  <item level="2">Pistol clip (Automag30)</item>
+  <item level="2">Pistol clip (Automag10)</item>
 </root>

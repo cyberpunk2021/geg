@@ -2336,7 +2336,7 @@ USEPREFIX  ""
 IMAGE  "de_clip.e5b"
 DEFAMMO  ".50AE FMJ"
 
-CLIP  "Pistol clip (Automag50)"".50AE""Automag50"7 116 "None"1000 
+CLIP  "Pistol clip (Automag50)"".50AE""Automag50"5 116 "None"1000 
 ACTOR  "Items\AMTAutomagVmag3.act"
 USEPREFIX  ""
 IMAGE  "de_clip.e5b"
@@ -2835,7 +2835,14 @@ CLIP  "Pistol clip (Megastar10/14)""10mm Auto""Megastar"14 95 "None"1500
 ACTOR  "Items\megastarmag.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip15.e5b"
-DEFAMMO  ".45 ACP FMJ Ball"
+DEFAMMO  "10mm Auto Surplus"
+
+CLIP  "Pistol clip (Automag10)""10mm Auto""Automag10"8 116 "None"1000 
+ACTOR  "Items\AMTAutomagVmag3.act"
+USEPREFIX  ""
+IMAGE  "de_clip.e5b"
+DEFAMMO  "10mm Auto Surplus"
+
 CLIP  "Pistol clip (Glock 20/15)""10mm Auto""Glock20"15 85 "None"500 
 ACTOR  "Items\glock_clip_20.act"
 USEPREFIX  ""
@@ -3637,6 +3644,13 @@ BOX "Ammo box .30 Carbine FMJ""Ammo .30 Carbine FMJ"50 "Items\cbcbox30carbinemel
 BOX "Ammo box .30 Carbine SP""Ammo .30 Carbine Surplus"50 "Items\cbcbox30carbine.act""cbcboxinv.e5b"
 BOX "Ammo box .30 Carbine SP 500""Ammo .30 Carbine Surplus"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX "Ammo box .30 Carbine FMJ 500""Ammo .30 Carbine FMJ"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+
+CLIP  "Pistol clip (Automag30)""30 Carbine""Automag30"8 116 "None"1000 
+ACTOR  "Items\AMTAutomagVmag3.act"
+USEPREFIX  ""
+IMAGE  "de_clip.e5b"
+DEFAMMO  "Ammo .30 Carbine FMJ"
+
 CLIP  "Rifle clip (M1/15)""30 Carbine""M1Car"15 130 "None"500 
 ACTOR  "Items\M1CarClip.act"
 USEPREFIX  ""

@@ -14676,6 +14676,43 @@ ACTOR			"Items\megastar.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
+ITEM "Pistol Automag 10"
+Class			Pistol
+Caliber			"10mm Auto"
+Weight			1310
+PrepareTime		0.21
+SingleFireTime	0.82
+BurstFireTime	0.12
+SpeedModifier	1.06
+Resource		1100
+DirtResource	100000
+MisfireProb		0.004
+HeatCapacity	27
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	58
+RangeCurvature	8.2
+Balance			0.33
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\desert_slide.wav"
+ShootSound		"Weapon\Shoot\desert.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Automag10"
+StdPlug			"Pistol clip (Automag10)"
+ACTOR			"Items\AMTAutomagV.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
 ITEM "Pistol SW1006 (10mm)"
 Class			Pistol
 Caliber			"10mm Auto"
@@ -15088,6 +15125,43 @@ ATT Bayonet		0
 ATT Magazine	1 "SPS/18"
 StdPlug			"Pistol clip (SPS-SR1/18)"
 ACTOR			"Items\sps-sr-1.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Automag 30"
+Class			Pistol
+Caliber			"30 Carbine"
+Weight			1310
+PrepareTime		0.21
+SingleFireTime	0.82
+BurstFireTime	0.12
+SpeedModifier	1.06
+Resource		1100
+DirtResource	100000
+MisfireProb		0.004
+HeatCapacity	27
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	58
+RangeCurvature	8.2
+Balance			0.33
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\desert_slide.wav"
+ShootSound		"Weapon\Shoot\desert.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Automag30"
+StdPlug			"Pistol clip (Automag30)"
+ACTOR			"Items\AMTAutomagV.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
