@@ -2022,6 +2022,16 @@ fazer 32 acp e 380 acp algeira box
 "Pistol clip (PT100BK/10)"
 "Pistol clip (PT100W/10)"
 
+"Rifle ammo clip (L1A1/20)"
+"Double rifle ammo clip (L1A1/40)"
+"Rifle ammo clip (L1A1/30)"
+"Double rifle ammo clip (L1A1/60)"
+"Rifle ammo clip (ROMAT/20)"
+"Double rifle ammo clip (ROMAT/40)"
+
+"Assault Rifle L1A1 ST (7.62x51mm)"
+"Assault Rifle L1A1 Para ST (7.62x51mm)"
+"Assault Rifle L1A1 Para ST (7.62x51mm) folded"
 
 imbel rec
 
@@ -2029,8 +2039,13 @@ imbel rec
 -37 contrast
 
 
+pt92fix
 
+Z rotation
+0.928
 
+x location
+-0.00127
 
 +++++++++++++
 

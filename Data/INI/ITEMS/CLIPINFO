@@ -5341,7 +5341,7 @@ USEPREFIX  ""
 IMAGE  "dsr_mag.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 CLIP  "Rifle ammo clip (DSA/10)""7.62υ51 μμ""FNFAL"10 150 "None"1000
-ACTOR  "Items\762_dsa_10.act"
+ACTOR  "Items\fnfalnova_mag10.act"
 USEPREFIX  ""
 IMAGE  "dsa_clip10.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
@@ -5369,12 +5369,12 @@ DEFAMMO  "7.62x51 FMJ Ball"
 
 
 CLIP  "Rifle ammo clip (FN FAL/30)""7.62υ51 μμ""FNFAL"30 275 "Double rifle ammo clip (FN FAL/60)"1000 
-ACTOR  "Items\762 falo mag 30.act"
+ACTOR  "Items\fnfalnova_mag30str.act"
 USEPREFIX  ""
 IMAGE  "fal 30 metal.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 CLIP  "Double rifle ammo clip (FN FAL/60)""7.62υ51 μμ""FNFAL"60 550 "None"1000 
-ACTOR  "Items\762 falo mag 60.act"
+ACTOR  "Items\fnfalnova_mag30strdb.act"
 USEPREFIX  ""
 IMAGE  "fal 60 metal.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
@@ -5392,6 +5392,39 @@ CLIP  "C-MAG (FN FAL/100)""7.62υ51 μμ""FNFAL"100 2300 "None"750
 ACTOR  "Items\cmag_fal.act"
 USEPREFIX  ""
 IMAGE  "c-mag.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+
+CLIP  "Rifle ammo clip (L1A1/20)""7.62υ51 μμ""L1A1"20 209 "Double rifle ammo clip (L1A1/40)"1000 
+ACTOR  "Items\fnfalnova_mag20.act"
+USEPREFIX  ""
+IMAGE  "fal 20 metal.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+CLIP  "Double rifle ammo clip (L1A1/40)""7.62υ51 μμ""L1A1"40 418 "None"1000 
+ACTOR  "Items\fnfalnova_mag20db.act"
+USEPREFIX  ""
+IMAGE  "fal 40 metal.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+
+CLIP  "Rifle ammo clip (ROMAT/20)""7.62υ51 μμ""L1A1"20 209 "Double rifle ammo clip (ROMAT/40)"1000 
+ACTOR  "Items\fnfalnova_mag20imb.act"
+USEPREFIX  ""
+IMAGE  "fal 20 metal.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+CLIP  "Double rifle ammo clip (ROMAT/40)""7.62υ51 μμ""L1A1"40 418 "None"1000 
+ACTOR  "Items\fnfalnova_mag20imbdb.act"
+USEPREFIX  ""
+IMAGE  "fal 40 metal.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+
+CLIP  "Rifle ammo clip (L1A1/30)""7.62υ51 μμ""L1A1"30 275 "Double rifle ammo clip (L1A1/60)"1000 
+ACTOR  "Items\fnfalnova_mag30str.act"
+USEPREFIX  ""
+IMAGE  "fal 30 metal.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+CLIP  "Double rifle ammo clip (L1A1/60)""7.62υ51 μμ""L1A1"60 550 "None"1000 
+ACTOR  "Items\fnfalnova_mag30strdb.act"
+USEPREFIX  ""
+IMAGE  "fal 60 metal.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Rifle ammo clip (HK/5)""7.62υ51 μμ""MSG-90"5 190 "None"1000 
