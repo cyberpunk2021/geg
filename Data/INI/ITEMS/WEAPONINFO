@@ -17666,7 +17666,7 @@ ATT Magazine	2 "PPSH-41/35""PPSH-41/71"
 StdPlug			"SMG ammo clip (PPSH-41/35)"
 ACTOR			"Items\ppsh-41.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtBoltRifle
 
 ////////----------------
 
