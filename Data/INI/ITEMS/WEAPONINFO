@@ -96570,6 +96570,44 @@ USEPREFIX	"_used"
 IMAGE			"rpg18.e5b"
 HANDS			ahtGrenadeLauncher
 
+ITEM "Launcher M202A1 FLASH"
+Class			Rifle
+Caliber			"None"
+Weight			5728
+PrepareTime		0.3
+SingleFireTime	0.3
+BurstFireTime	0
+SpeedModifier	1
+Resource		1000
+DirtResource	300000
+MisfireProb		0.0003
+HeatCapacity	100
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		450
+EffectiveRange	225
+RangeCurvature	1
+Balance			0.7
+ClipInSound		"Weapon\ClipIn\RPG-7_gren_in.wav"
+ClipOutSound	"Weapon\ClipOut\RPG-7_gren_out.wav"
+ReLockSound		"Weapon\ReLock\None"
+ShootSound		"Weapon\Shoot\RPG-7_launch_and_flyaway.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	1 "built-in"
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"rg-6 mag"
+StdPlug			"m202a1 launcher"
+ACTOR			"Items\M202A1.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Rockect Launcher RPG-18 'Muha'"
 Class			Launcher
 Caliber			"64 ÏÏ (–œ√-18)"

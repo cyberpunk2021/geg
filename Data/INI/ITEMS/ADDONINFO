@@ -5470,6 +5470,18 @@ IMAGE			"rpg7_launher.e5b"
 WEIGHT			100
 Resource		3500
 //------------------------------------------------------
+Addon			"m202a1 launcher"
+ILauncher		"built-in"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound		"Weapon\Shoot\m72law.wav"
+GrenadeType		"66mm (M202A1)"
+GrenadeCount	4
+IsLauncher		1
+ACTOR			"Items\rpg7_launcher.act"
+IMAGE			"rpg7_launher.e5b"
+WEIGHT			100
+Resource		3500
+//------------------------------------------------------
 Addon			"rpg-2 launcher"
 ILauncher		"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"

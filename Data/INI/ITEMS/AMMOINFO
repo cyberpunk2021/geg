@@ -4616,6 +4616,29 @@ USEPREFIX "_used"
 IMAGE "rpg18_grenade.e5b"
 WEIGHT 2000
 
+"M202A1 Grenade"
+"66mm (M202A1)"
+2000
+115
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\gtb-7vs_used.act"
+330
+ACTOR "Items\dummy.act"
+USEPREFIX "_used"
+IMAGE "rpg18_grenade.e5b"
+WEIGHT 1200
+
 "6x35mm FMJ"
 "6x35mm"
 4.2119
