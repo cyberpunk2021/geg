@@ -27853,7 +27853,7 @@ HANDS			ahtRifle
 //AR PISTOL comeca aqui
 
 ITEM "Submachine-gun AR Pistol (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1700
 PrepareTime		0.24
@@ -27893,7 +27893,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun AR Pistol (5.56mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1700
 PrepareTime		0.19
@@ -27933,7 +27933,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun AR Pistol AUTO (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1700
 PrepareTime		0.24
@@ -27973,7 +27973,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun AR Pistol AUTO (5.56mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1700
 PrepareTime		0.19
@@ -28013,7 +28013,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle C7FT PDW (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1900
 PrepareTime		0.25
@@ -28053,7 +28053,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle C7FT PDW (5.56mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1900
 PrepareTime		0.20
@@ -28093,7 +28093,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle C7FT PDW B (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1900
 PrepareTime		0.25
@@ -28133,7 +28133,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle C7FT PDW B (5.56mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1900
 PrepareTime		0.20
@@ -28173,7 +28173,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M85 Pistol No Stock (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1800
 PrepareTime		0.25
@@ -28210,7 +28210,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M85 Pistol AUTO No Stock (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1800
 PrepareTime		0.25
@@ -28247,7 +28247,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M85 Pistol (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2000
 PrepareTime		0.26
@@ -28286,7 +28286,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M85 Pistol (5.56mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2000
 PrepareTime		0.22
@@ -28325,7 +28325,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M85 Pistol AUTO (5.56mm)"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2000
 PrepareTime		0.26
@@ -28364,7 +28364,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M85 Pistol AUTO (5.56mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2000
 PrepareTime		0.22
@@ -28403,7 +28403,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M92 Pistol No Stock (7.62mm)"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			1800
 PrepareTime		0.25
@@ -28440,7 +28440,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M92 Pistol AUTO No Stock (7.62mm)"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			1800
 PrepareTime		0.25
@@ -28477,7 +28477,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M92 Pistol (7.62mm)"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			2000
 PrepareTime		0.26
@@ -28516,7 +28516,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M92 Pistol (7.62mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			2000
 PrepareTime		0.22
@@ -28555,7 +28555,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M92 Pistol AUTO (7.62mm)"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			2000
 PrepareTime		0.26
@@ -28594,7 +28594,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun M92 Pistol AUTO (7.62mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			2000
 PrepareTime		0.22
@@ -28633,7 +28633,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol RUSL"
-Class			SMG
+Class			Rifle
 Caliber			"5.45υ39 μμ"
 Weight			1950
 PrepareTime		0.25
@@ -28672,7 +28672,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol RUSL folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.45υ39 μμ"
 Weight			1950
 PrepareTime		0.21
@@ -28711,7 +28711,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol NATO"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1950
 PrepareTime		0.25
@@ -28750,7 +28750,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol NATO folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1950
 PrepareTime		0.21
@@ -28789,7 +28789,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol SPC"
-Class			SMG
+Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			1950
 PrepareTime		0.25
@@ -28828,7 +28828,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol SPC folded"
-Class			SMG
+Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			1950
 PrepareTime		0.21
@@ -28867,7 +28867,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol RUSM"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			1950
 PrepareTime		0.25
@@ -28906,7 +28906,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun XCR Pistol RUSM folded"
-Class			SMG
+Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			1950
 PrepareTime		0.21
@@ -28945,7 +28945,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun SCAR Pistol NATO"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1750
 PrepareTime		0.24
@@ -28985,7 +28985,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Submachine-gun SCAR Pistol NATO folded"
-Class			SMG
+Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1750
 PrepareTime		0.19
@@ -29027,7 +29027,7 @@ HANDS			ahtRG
 //AR PISTOL acaba aqui
 
 ITEM "Assault Rifle 9A91 (9x39mm)"
-Class			SMG
+Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2100
 PrepareTime		0.27
@@ -29067,7 +29067,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle 9A91 (9x39mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2100
 PrepareTime		0.24
@@ -29107,7 +29107,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle SR3 (9x39mm)"
-Class			SMG
+Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2000
 PrepareTime		0.26
@@ -29146,7 +29146,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle SR3 (9x39mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2000
 PrepareTime		0.23
@@ -29185,7 +29185,7 @@ IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle SR3M (9x39mm)"
-Class			SMG
+Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2200
 PrepareTime		0.26
@@ -29224,7 +29224,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "Assault Rifle SR3M (9x39mm) folded"
-Class			SMG
+Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2200
 PrepareTime		0.23
@@ -43579,7 +43579,7 @@ HANDS			ahtRifle
 //////-----------
 
 ITEM "Carabine SKS Unique (7.62x39mm)"
-Class			Rifle
+Class			Sniper
 Caliber			"7.62υ39 μμ"
 Weight			3900
 PrepareTime		0.65
