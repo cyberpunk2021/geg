@@ -70006,8 +70006,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		2 "WR""SS2"
 ATT Bipod		1 "built-in"
 ATT Silencer	1 "Supressor - 5,56"
@@ -70088,10 +70088,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light and Bipod
+ATT Light		1 "Barrel Mount" blocks Laser and Bipod
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks Laser and Light and ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -70128,10 +70128,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light and Bipod
+ATT Light		1 "Barrel Mount" blocks Laser and Bipod
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks Laser and Light and ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -70171,7 +70171,7 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -70211,7 +70211,7 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -86476,7 +86476,7 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -86516,7 +86516,7 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "SniperBipod"
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
