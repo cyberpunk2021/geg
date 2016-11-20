@@ -83933,7 +83933,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "HCAR Silencer"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Vepr"
@@ -85262,7 +85262,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "built-in"
 ATT Bipod		1 "Galil"
-ATT Silencer	2 "Galil""Supressor - 7,62"
+ATT Silencer	1 "Galil"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Galil762"
@@ -85345,7 +85345,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
@@ -85385,7 +85385,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
@@ -85461,7 +85461,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
@@ -86083,7 +86083,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""M24_Scope"
 ATT Bipod		1 "WR"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "DSA-58OSW""FNFAL"
@@ -87772,7 +87772,7 @@ ATT Laser		1 "built-in"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""M24_Scope"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "DSR1"
@@ -87877,7 +87877,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MP5"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 blocks
 Bayonet
 ATT ILauncher	0
@@ -87962,7 +87962,7 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MSG-90"
 ATT Bipod		1 "SniperBipod"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
@@ -88242,13 +88242,13 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M24_Scope"
 ATT Bipod		1 "SniperBipod"
-ATT Silencer	2 "5)8-24""Supressor - 7,62"
+ATT Silencer	2 "5)8-24""7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag .308"
 StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
-StdPlug			"Silencer CYCLONE-K (7.62x51mm)"
+StdPlug			"7,62 Sniper Rifle Suppressor"
 ACTOR			"Items\remington700spst.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
