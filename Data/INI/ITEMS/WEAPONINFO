@@ -44326,15 +44326,11 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		2 "WR""M24_Scope"
+ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		1 "FAL" blocks Silencer
 ATT Magazine	1 "L1A1"
 StdPlug			"Rifle ammo clip (L1A1/20)"
 ACTOR			"Items\fnfalnova_india.ACT"
@@ -44367,15 +44363,11 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		2 "WR""M24_Scope"
+ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		1 "FAL" blocks Silencer
 ATT Magazine	1 "L1A1"
 StdPlug			"Rifle ammo clip (L1A1/20)"
 ACTOR			"Items\fnfalnova_india.ACT"
@@ -67755,15 +67747,11 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		2 "WR""M24_Scope"
+ATT Scope		1 "WR"
 ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
 StdPlug			"fnfalnova_modern_stock"
@@ -67798,15 +67786,11 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		2 "WR""M24_Scope"
+ATT Scope		1 "WR"
 ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
-blocks
-Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
 StdPlug			"fnfalnova_modern_stock_folded"
