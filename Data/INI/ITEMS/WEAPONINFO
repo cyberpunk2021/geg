@@ -52611,7 +52611,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		1 "HK G36 Scope"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -52651,7 +52651,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		1 "HK G36 Scope"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -52691,7 +52691,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		1 "HK G36 Scope"
 ATT Bipod		1 "G36_bipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
@@ -52731,7 +52731,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		1 "HK G36 Scope"
 ATT Bipod		1 "G36_bipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
@@ -52771,7 +52771,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		1 "HK G36 Scope"
 ATT Bipod		1 "G36_bipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
@@ -52811,7 +52811,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\G36.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		1 "HK G36 Scope"
 ATT Bipod		1 "G36_bipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
