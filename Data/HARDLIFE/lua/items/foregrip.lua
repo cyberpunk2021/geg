@@ -8,7 +8,6 @@
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
  ["Pistol Glock 21 (.45 ACP)"] = "Pistol Glock 21 TB (.45 ACP)",
  ["Pistol Glock 22 (.40 S&W)"] = "Pistol Glock 22 TB (.40 S&W)",
- ["Pistol Taurus PT100 (.40 S&W)"] = "Pistol Taurus PT100 TB (.40 S&W)",
  ["Submachine-gun UMP9 FG (9mm)"] = "Submachine-gun UMP9 (9mm)",
  ["Submachine-gun UMP9 FG (9mm) folded"] = "Submachine-gun UMP9 (9mm) folded",
  ["Submachine-gun UMP45 FG (.45ACP)"] = "Submachine-gun HK UMP45 (.45 ACP)",
@@ -85,8 +84,7 @@ end
 local Pistols4Barrels = {
 ["Pistol Glock 17 TB (9mm)"] = "Glock-17 threaded barrel",
 ["Pistol Glock 21 TB (.45 ACP)"] ="Glock-21 threaded barrel",
-["Pistol Glock 22 TB (.40 S&W)"] = "Glock-22 threaded barrel", 
-["Pistol Taurus PT100 TB (.40 S&W)"] = "Taurus PT100 threaded barrel", 
+["Pistol Glock 22 TB (.40 S&W)"] = "Glock-22 threaded barrel",  
 }
 
 function CanDetachPistolTB(item)
@@ -138,14 +136,12 @@ end
 AddItemCombineHandler("Glock-17 threaded barrel", "Pistol Glock 17 (9mm)", AttachForegrip)
 AddItemCombineHandler("Glock-21 threaded barrel", "Pistol Glock 21 (.45 ACP)", AttachForegrip)
 AddItemCombineHandler("Glock-22 threaded barrel", "Pistol Glock 22 (.40 S&W)", AttachForegrip)
-AddItemCombineHandler("Taurus PT100 threaded barrel", "Pistol Taurus PT100 (.40 S&W)", AttachForegrip)
 
 local action_detach_barrel = _t"lang/lua/fptb/detach_barrel"
 
 AddItemContextMenu("Pistol Glock 17 TB (9mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Pistol Glock 21 TB (.45 ACP)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Pistol Glock 22 TB (.40 S&W)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
-AddItemContextMenu("Pistol Taurus PT100 TB (.40 S&W)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 
 -- установка тактической рукоятки
 AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933", AttachForegrip)

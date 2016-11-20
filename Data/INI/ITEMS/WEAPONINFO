@@ -8352,7 +8352,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/10)"
-ACTOR			"Items\pt92mp3.act"
+ACTOR			"Items\pt100mp3.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -8389,7 +8389,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/10)"
-ACTOR			"Items\pt92mp3b.act"
+ACTOR			"Items\pt100mp3b.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -8426,7 +8426,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/10)"
-ACTOR			"Items\pt92mp3w.act"
+ACTOR			"Items\pt100mp3w.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 //////////-----------------------
@@ -8468,7 +8468,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/15)"
-ACTOR			"Items\pt92mp3rail.act"
+ACTOR			"Items\pt100mp3rail.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -8509,7 +8509,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/15)"
-ACTOR			"Items\pt92mp3railb.act"
+ACTOR			"Items\pt100mp3railb.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -8550,7 +8550,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (PT100/15)"
-ACTOR			"Items\pt92mp3railw.act"
+ACTOR			"Items\pt100mp3railw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
