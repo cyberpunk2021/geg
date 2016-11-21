@@ -20326,7 +20326,7 @@ StdPlug			"SMG ammo clip (SR2/30)"
 StdPlug			"HK417 buttT folded"
 ACTOR			"Items\sr2folded.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtRG
+HANDS			ahtPistol
 
 ////----------------------------
 
@@ -31256,7 +31256,7 @@ ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\Shotgun_pump.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		1 "WR"
+ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
@@ -31295,7 +31295,7 @@ ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\Shotgun_pump.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		1 "WR"
+ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
