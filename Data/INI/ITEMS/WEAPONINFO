@@ -35318,7 +35318,7 @@ StdPlug			"Rifle ammo clip (AK 22/30)"
 StdPlug			"Beryl_butt"
 ACTOR			"Items\berylnova.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Beryl wz.1996(22) folded"
 Class			Rifle
@@ -35357,7 +35357,7 @@ StdPlug			"Rifle ammo clip (AK 22/30)"
 StdPlug			"Beryl_butt_folded"
 ACTOR			"Items\berylnova.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XM177 (22)"
 Class			Rifle
