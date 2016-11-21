@@ -13613,7 +13613,7 @@ ReLockSound		"Weapon\ReLock\desert_slide.wav"
 ShootSound		"Weapon\Shoot\Deagle.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "WR"
+ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
@@ -32091,7 +32091,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m870/7)"
 ACTOR			"Items\BenM3_Tac.ACT"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun m3_super90 (20ga)"
 Class			Shotgun
@@ -32128,7 +32128,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (BenelliM1/7)"
 ACTOR			"Items\BenM3_Tac.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ////////--------------------
 
@@ -57723,7 +57723,7 @@ StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"Craner_butt2_folded"
 ACTOR			"Items\laruepredatar.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle LR300 (5.56mm)"
 Class			Rifle
