@@ -32663,7 +32663,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\Saiga_real.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "M16A1-A2"
+ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
@@ -47996,7 +47996,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "M16A1-A2"
+ATT Scope		0
 ATT Bipod		1 "built-in"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -48034,7 +48034,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "M16A1-A2"
+ATT Scope		0
 ATT Bipod		1 "built-in"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -50227,7 +50227,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\LR300_fire.WAV"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "M16A1-A2"
+ATT Scope		0
 ATT Bipod		1 "built-in"
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
@@ -97131,7 +97131,7 @@ ReLockSound		"Weapon\ReLock\AK-103_slide.wav"
 ShootSound		"Weapon\Shoot\AK47_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		3 "AK""WR""Scout"
+ATT Scope		1 "AK"
 ATT Bipod		1 "WR" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -97170,7 +97170,7 @@ ReLockSound		"Weapon\ReLock\AK-103_slide.wav"
 ShootSound		"Weapon\Shoot\AK47_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		3 "AK""WR""Scout"
+ATT Scope		1 "AK"
 ATT Bipod		1 "WR" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
