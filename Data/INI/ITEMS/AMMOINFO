@@ -2271,6 +2271,28 @@ ACTOR "Items\m2.act"
 IMAGE "ammo-m80.e5b"
 WEIGHT 114
 
+"700 Nitro Round"
+"700 Nitro"
+64.8
+850
+0.7
+0.082
+0.071
+0.07
+0.01
+0.0035
+0.0015
+0.1
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\700nitro_casing.act"
+"Items\700nitro_bullet.act"
+800
+ACTOR "Items\700nitro_ammo.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 154
+
 "12.7x108mm OSV"
 "12.7x108mm"
 55.403

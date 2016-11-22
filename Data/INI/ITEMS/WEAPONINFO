@@ -96602,7 +96602,7 @@ ATT Silencer	0
 ATT ILauncher	1 "built-in"
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"rg-6 mag"
+StdPlug			"RG-6 mag"
 StdPlug			"m202a1 launcher"
 ACTOR			"Items\M202A1.act"
 IMAGE			"2x4.e5b"
@@ -97583,5 +97583,153 @@ StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\AKM_egypt.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
+
+ITEM "Rifle Elephant Gun"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			6110
+PrepareTime		0.91
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	420
+RangeCurvature	0.75
+Balance			0.40
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitro.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Unique"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			6110
+PrepareTime		0.91
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	420
+RangeCurvature	0.75
+Balance			0.40
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitrounique.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Sawnoff"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			4950
+PrepareTime		0.75
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	380
+RangeCurvature	0.68
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitro_sawnoff.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Unique Sawnoff"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			4950
+PrepareTime		0.75
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	380
+RangeCurvature	0.68
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitrounique_sawnoff.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtAutoShotgun
 
 END

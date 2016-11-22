@@ -6097,6 +6097,15 @@ USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  "M33 Ball .50 BMG (12.7x99 mm)"
 
+//700 nitro
+BOX  "Ammo Box (700 nitro)""700 Nitro Round"10 "Items\ammoboxgeneric.act""boxgeneric.e5b"
+
+CLIP  "Rifle ammo clip (700nitro/2)""700 Nitro""built-in"2 0 "None"1000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "700 Nitro Round"
+
 //7.92x94mm Patronen
 BOX  "Ammo Box (Patronen AP)""7.92x94mm Patronen AP"15 "Items\ammoboxgeneric.act""boxgeneric.e5b"
 BOX  "Ammo Box 500 (Patronen AP)""7.92x94mm Patronen AP"150 "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.E5B"
