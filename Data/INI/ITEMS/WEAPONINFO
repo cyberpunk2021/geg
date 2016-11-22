@@ -75,6 +75,45 @@ HANDS			ahtPistol
 
 ///////---------------------------
 
+ITEM "Pistol Liberator"
+Class			Pistol
+Caliber			".45 ACP"
+Weight			450
+PrepareTime		0.08
+SingleFireTime	0.29
+BurstFireTime	0.01
+SpeedModifier	0.65
+Resource		200
+DirtResource	20000
+MisfireProb		0.0008
+HeatCapacity	15
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		100
+EffectiveRange	10
+RangeCurvature	5
+Balance			0.33
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Luger_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Pistol clip (Liberator45/1)"
+ACTOR			"Items\liberatorpistol.act"
+IMAGE			"m67.e5b"
+HANDS			ahtPistol
+
+///////---------------------------
+
 ITEM "Pistol Ruger 2245 Target" //Mercapoca Ruger Target
 Class			Pistol
 Caliber			".22LR"

@@ -224,6 +224,12 @@ USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  ".22LR Surplus"
 
+CLIP  "Pistol clip (Liberator45/1)"".45 ACP""built-in"1 0 "None"7000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  ".45 ACP FMJ Ball"
+
 CLIP  "Pistol clip (SAA22LR/6)"".22LR""built-in"6 0 "None"7000 
 ACTOR  "None"
 USEPREFIX  ""
