@@ -5949,7 +5949,7 @@ Resource		1000
 Addon			"HK Integrated Bipod"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\hk23e-bipod.act"
+ACTOR			"Items\hk23bipod.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			300
 Resource		3000
@@ -5957,7 +5957,7 @@ Resource		3000
 Addon			"HK Integrated Bipod folded"
 Bipod			"built-in"
 Sound			"None""None"
-ACTOR			"Items\hk23e-bipod_folded.act"
+ACTOR			"Items\hk23bipodfolded.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			300
 Resource		1000

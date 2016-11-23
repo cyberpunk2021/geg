@@ -16855,7 +16855,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MP522"
 StdPlug			"SMG ammo clip (M522/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -16894,7 +16894,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MP522"
 StdPlug			"SMG ammo clip (M522/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -16934,7 +16934,7 @@ ATT Magazine	1 "MP522"
 StdPlug			"SMG ammo clip (M522/30)"
 StdPlug			"SD5 silencer"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5sd6_r.act"
+ACTOR			"Items\hkmp5sd.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -16974,7 +16974,7 @@ ATT Magazine	1 "MP522"
 StdPlug			"SMG ammo clip (M522/30)"
 StdPlug			"SD5 silencer"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5sd6_r.act"
+ACTOR			"Items\hkmp5sd.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -17013,7 +17013,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MP522"
 StdPlug			"SMG ammo clip (M522/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -17052,7 +17052,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MP522"
 StdPlug			"SMG ammo clip (M522/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -23279,7 +23279,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
-ACTOR			"Items\mp5ka4.act"
+ACTOR			"Items\hkmp5k.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
@@ -23318,7 +23318,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"PDW Butt"
-ACTOR			"Items\mp5pdw.act"
+ACTOR			"Items\hkmp5kpdw.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -23357,7 +23357,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"PDW Butt folded"
-ACTOR			"Items\mp5pdw.act"
+ACTOR			"Items\hkmp5kpdw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
@@ -23398,7 +23398,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -23437,7 +23437,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -23478,7 +23478,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -23517,7 +23517,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -23556,7 +23556,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -23595,7 +23595,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -23636,7 +23636,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -23675,7 +23675,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -23717,7 +23717,7 @@ ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"SD5 silencer"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5sd6_r.act"
+ACTOR			"Items\hkmp5sd.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -23757,7 +23757,7 @@ ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"SD5 silencer"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5sd6_r.act"
+ACTOR			"Items\hkmp5sd.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -23880,7 +23880,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-40"
 StdPlug			"SMG ammo clip (MP5-40/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -23919,7 +23919,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-40"
 StdPlug			"SMG ammo clip (MP5-40/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -24040,7 +24040,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-40"
 StdPlug			"SMG ammo clip (MP5-40/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -24079,7 +24079,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-40"
 StdPlug			"SMG ammo clip (MP5-40/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -24118,7 +24118,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-10"
 StdPlug			"SMG ammo clip (MP5-10/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -24157,7 +24157,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-10"
 StdPlug			"SMG ammo clip (MP5-10/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\mp5a3.act"
+ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -24276,7 +24276,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-10"
 StdPlug			"SMG ammo clip (MP5-10/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -24315,7 +24315,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP5-10"
 StdPlug			"SMG ammo clip (MP5-10/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\MP5A5RIS.ACT"
+ACTOR			"Items\hkmp5ris.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -44635,7 +44635,7 @@ blocks
 Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
-ACTOR			"Items\g3a3.act"
+ACTOR			"Items\hkg3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45020,7 +45020,7 @@ and
 Light
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
-ACTOR			"Items\hk33a2.act"
+ACTOR			"Items\hk33.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -51372,7 +51372,7 @@ ATT ILauncher	1 "hk" blocks Bipod and Silencer
 ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
-ACTOR			"Items\g3a3.act"
+ACTOR			"Items\hkg3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -51862,7 +51862,7 @@ and
 Light
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
-ACTOR			"Items\hk33a2.act"
+ACTOR			"Items\hk33.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -52349,7 +52349,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\hk53a3.act"
+ACTOR			"Items\hk53.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52388,7 +52388,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\hk53a3.act"
+ACTOR			"Items\hk53.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -52429,7 +52429,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\hk53_ris.act"
+ACTOR			"Items\hk53ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52468,7 +52468,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\hk53_ris.act"
+ACTOR			"Items\hk53ris.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -92794,7 +92794,7 @@ ATT Bayonet		0
 ATT Magazine	1 "hk23"
 StdPlug			"Ammo box (HK 5.56/150)"
 StdPlug			"HK Integrated Bipod"
-ACTOR			"Items\hk23e.act"
+ACTOR			"Items\hk23.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -94500,7 +94500,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HK21"
 StdPlug			"Ammo box (HK 7.62/150)"
 StdPlug			"HK Integrated Bipod"
-ACTOR			"Items\hk21e.act"
+ACTOR			"Items\hk23.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
