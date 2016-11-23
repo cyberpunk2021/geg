@@ -1970,12 +1970,10 @@ rpk bipod lmgs bugada
 t65 handle modelo correto
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em "Ammo Box Noveske .308"
-mudar "Prvi Partizan 8mm FMJ BT" pra AP
 verificar caixa "Ammo box (7N23)"
-mudar WPA 5.45x39 pra HP
-criar BPZ 7.62x39
 fazer 32 acp e 380 acp algeira box
+fazer lapua ammo boxes
+faltando parei em 'Double rifle ammo clip (AK 5.56/60)'
 
 
 "fnfalnova_dsa_stock"
@@ -2032,6 +2030,22 @@ fazer 32 acp e 380 acp algeira box
 "Assault Rifle L1A1 ST (7.62x51mm)"
 "Assault Rifle L1A1 Para ST (7.62x51mm)"
 "Assault Rifle L1A1 Para ST (7.62x51mm) folded"
+
+
+"Pistol clip (PT59/17)"
+"Pistol clip (PT59B/17)"
+"Pistol clip (PT59W/17)"
+"Pistol clip (BerettaElite380/19)"
+
+"Pistol Taurus PT 59 (.380)"
+"Pistol Taurus PT 59 W (.380)"
+"Pistol Taurus PT 59 B (.380)"
+"Pistol Taurus PT 59 Rail (.380)"
+"Pistol Taurus PT 59 Rail W (.380)"
+"Pistol Taurus PT 59 Rail B (.380)"
+
+"BPZ 7.62x39"
+"Ammo box 500 HLA (BPZ 7.62x39)"
 
 imbel rec
 

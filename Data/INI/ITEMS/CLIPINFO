@@ -515,7 +515,26 @@ USEPREFIX  ""
 IMAGE  "glock_clip_19.e5b"
 DEFAMMO  ".380 ACP Surplus"
 
-
+CLIP  "Pistol clip (PT59/17)"".380 ACP""Taurus380"17 70 "None"500 
+ACTOR  "Items\pt92mp3mag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  ".380 ACP Surplus"
+CLIP  "Pistol clip (PT59B/17)"".380 ACP""Taurus380"17 70 "None"500 
+ACTOR  "Items\pt92mp3magb.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  ".380 ACP Surplus"
+CLIP  "Pistol clip (PT59W/17)"".380 ACP""Taurus380"17 70 "None"500 
+ACTOR  "Items\pt92mp3magw.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  ".380 ACP Surplus"
+CLIP  "Pistol clip (BerettaElite380/19)"".380 ACP""Taurus380"19 99 "None"1500 
+ACTOR  "Items\92elitemag.act"
+USEPREFIX  ""
+IMAGE  "beretta92-clip15.e5b"
+DEFAMMO  ".380 ACP Surplus"
 
 
 CLIP  "Pistol clip (BR1911380/19)"".380 ACP""BR1911380"19 110 "None"1000 
@@ -1633,29 +1652,29 @@ IMAGE  "uzi_clip_25.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "SMG ammo clip (M5/15)""9υ19 μμ""HK MP 9mm"15 120 "Double SMG ammo clip (MP5/30)"1000 
-ACTOR  "Items\mr9_mp5_15.act"
+ACTOR  "Items\hkmp5novamag15.act"
 USEPREFIX  ""
 IMAGE  "mp5-9mm-15ammo.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "SMG ammo clip (M5/30)""9υ19 μμ""HK MP 9mm"30 170 "Double SMG ammo clip (MP5/60c)"1000 
-ACTOR  "Items\mr9_mp5_30.act"
+ACTOR  "Items\hkmp5novamag30.act"
 USEPREFIX  ""
 IMAGE  "mp5-9mm-30ammo.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "Double SMG ammo clip (MP5/30)""9υ19 μμ""HK MP 9mm"30 240 "None"1000 
-ACTOR  "Items\ms9_mp5_15x2t.act"
+ACTOR  "Items\hkmp5novamag15db.act"
 USEPREFIX  ""
 IMAGE  "ms9-mp5-15x2t.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Double SMG ammo clip (MP5/60)""9υ19 μμ""HK MP 9mm"60 340 "None"
 ForceDouble  1000 
-ACTOR  "Items\mr9_mp5_30-double.act"
+ACTOR  "Items\hkmp5novamag30db2.act"
 USEPREFIX  ""
 IMAGE  "mp5-9mm-30ammo-double.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Double SMG ammo clip (MP5/60c)""9υ19 μμ""HK MP 9mm"60 340 "None"1000 
-ACTOR  "Items\ms9_mp5_30x2t.act"
+ACTOR  "Items\hkmp5novamag30db.act"
 USEPREFIX  ""
 IMAGE  "ms9-mp5-30x2t.e5b"
 DEFAMMO  "9x19 FMJ Ball"
@@ -5014,6 +5033,8 @@ BOX  "BigWoodAmmoBox 7N6 (5.45/1000)""M67 (7.62x39mm)"600 "Items\BIGAMMOBOXM67.A
 BOX  "Ammo box 500 HLA (7.62x39JHP)""Barnaul JHP (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (7.62x39 PDX JHP)""Winchester PDX JHP (7.62x39mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 
+BOX  "Ammo box 500 HLA (BPZ 7.62x39)""57-N-231S (7.62x39mm)"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
+
 BOX  "Ammo box 500 HLA (SB 7.62x39)""SB (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 HLA (US)""US (7.62x39mm)"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
 BOX  "Ammo box 500 HLA 7.62x39 Norinco""Norinco (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
@@ -5236,8 +5257,8 @@ BOX  "Big Ammo box (7.62x51)""7.62x51 FMJ Ball"20 "Items\algeira762.act""algeira
 BOX  "BigWoodAmmoBox M80 (7.62x51/800)""M80 (7.62x51mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "BigWoodAmmoBox M993 (7.62x51/800)""M993 (7.62x51mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "BigAmmoBox (7.62x51/400)""7.62x51 FMJ Ball"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-BOX  "Ammo pack (M80)""M80 (7.62x51mm)"80 "Items\zink.act""556_500.e5b"
-BOX  "Ammo pack (M993)""M993 (7.62x51mm)"80 "Items\zink.act""556_500.e5b"
+BOX  "Ammo pack (M80)""M80 (7.62x51mm)"120 "Items\zink.act""556_500.e5b"
+BOX  "Ammo pack (M993)""M993 (7.62x51mm)"120 "Items\zink.act""556_500.e5b"
 
 BOX  "Ammo Box 500 Duplex .308""7.62x51 Duplex"600 "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.E5B"
 
@@ -5428,17 +5449,17 @@ IMAGE  "fal 60 metal.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Rifle ammo clip (HK/5)""7.62υ51 μμ""MSG-90"5 190 "None"1000 
-ACTOR  "Items\mr762-psg-5.act"
+ACTOR  "Items\hkg3mag5.act"
 USEPREFIX  ""
 IMAGE  "psg1-5ammo.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 CLIP  "Rifle ammo clip (HK/20)""7.62υ51 μμ""MSG-90"20 280 "None"1000 
-ACTOR  "Items\mr762-msg-20.act"
+ACTOR  "Items\hkg3mag.act"
 USEPREFIX  ""
 IMAGE  "msg90-20ammo.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
-CLIP  "Double rifle ammo clip (HK/40)""7.62υ51 μμ""MSG-90"40 260 "None"1000 
-ACTOR  "Items\mr762-msg-20-double.act"
+CLIP  "Double rifle ammo clip (HK/40)""7.62υ51 μμ""MSG-90"40 460 "None"1000 
+ACTOR  "Items\hkg3magdb.act"
 USEPREFIX  ""
 IMAGE  "msg90-20ammo-double.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"

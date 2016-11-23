@@ -2216,6 +2216,240 @@ ACTOR			"Items\coltdefender_w.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
+ITEM "Pistol Taurus PT 59 (.380)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			890
+PrepareTime		0.15
+SingleFireTime	0.56
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 380 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Taurus380"
+StdPlug			"Pistol clip (PT59/17)"
+ACTOR			"Items\pt92mp3.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 59 B (.380)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			890
+PrepareTime		0.15
+SingleFireTime	0.56
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 380 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Taurus380"
+StdPlug			"Pistol clip (PT59B/17)"
+ACTOR			"Items\pt92mp3b.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 59 W (.380)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			890
+PrepareTime		0.15
+SingleFireTime	0.56
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 380 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Taurus380"
+StdPlug			"Pistol clip (PT59W/17)"
+ACTOR			"Items\pt92mp3w.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 59 Rail (.380)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			890
+PrepareTime		0.15
+SingleFireTime	0.56
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 380 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Taurus380"
+StdPlug			"Pistol clip (BerettaElite380/19)"
+ACTOR			"Items\pt92mp3rail.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 59 Rail B (.380)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			890
+PrepareTime		0.15
+SingleFireTime	0.56
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 380 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Taurus380"
+StdPlug			"Pistol clip (BerettaElite380/19)"
+ACTOR			"Items\pt92mp3railb.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol Taurus PT 59 Rail W (.380)"
+Class			Pistol
+Caliber			"9υ19 μμ"
+Weight			890
+PrepareTime		0.15
+SingleFireTime	0.56
+BurstFireTime	0.1143
+SpeedModifier	1.01
+Resource		1450
+DirtResource	140000
+MisfireProb		0.0008
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	45
+RangeCurvature	6
+Balance			0.52
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\Beretta92.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		1 "PistolDocter"
+ATT Bipod		0
+ATT Silencer	1 "Std 380 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Taurus380"
+StdPlug			"Pistol clip (BerettaElite380/19)"
+ACTOR			"Items\pt92mp3railw.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
 ////////----------------
 
 ITEM "Pistol TT-33 (7.62x25mm)"

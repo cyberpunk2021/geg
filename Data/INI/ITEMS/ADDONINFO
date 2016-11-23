@@ -1636,7 +1636,7 @@ Resource		1000
 Addon			"MP5 Butt solid"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt_solid.act"
+ACTOR			"Items\hkmp5solidstock.act"
 IMAGE			"None"
 WEIGHT			400
 Resource		1000
@@ -3866,7 +3866,7 @@ Resource		0
 Addon			"MP5 Butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt.act"
+ACTOR			"Items\hkmp5stock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -3874,7 +3874,7 @@ Resource		0
 Addon			"MP5 Butt folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt_folded.act"
+ACTOR			"Items\hkmp5stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -5517,7 +5517,7 @@ Silencer		"built-in"
 Sound			"Addon\PlugSound\""Addon\UnplugSound\"
 SingleUse		0
 SilencingValue	0.96
-ACTOR			"Items\mp5sd6_r_silencer.act"
+ACTOR			"Items\hkmp5sdsil.act"
 IMAGE			"mp5sd6silencer.e5b"
 WEIGHT			0
 Resource		2300
