@@ -2218,7 +2218,7 @@ HANDS			ahtPistol
 
 ITEM "Pistol Taurus PT 59 (.380)"
 Class			Pistol
-Caliber			"9υ19 μμ"
+Caliber			".380 ACP"
 Weight			890
 PrepareTime		0.15
 SingleFireTime	0.56
@@ -2249,13 +2249,13 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Taurus380"
 StdPlug			"Pistol clip (PT59/17)"
-ACTOR			"Items\pt92mp3.act"
+ACTOR			"Items\pt59mp3.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 ITEM "Pistol Taurus PT 59 B (.380)"
 Class			Pistol
-Caliber			"9υ19 μμ"
+Caliber			".380 ACP"
 Weight			890
 PrepareTime		0.15
 SingleFireTime	0.56
@@ -2286,13 +2286,13 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Taurus380"
 StdPlug			"Pistol clip (PT59B/17)"
-ACTOR			"Items\pt92mp3b.act"
+ACTOR			"Items\pt59mp3b.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 ITEM "Pistol Taurus PT 59 W (.380)"
 Class			Pistol
-Caliber			"9υ19 μμ"
+Caliber			".380 ACP"
 Weight			890
 PrepareTime		0.15
 SingleFireTime	0.56
@@ -2323,13 +2323,13 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Taurus380"
 StdPlug			"Pistol clip (PT59W/17)"
-ACTOR			"Items\pt92mp3w.act"
+ACTOR			"Items\pt59mp3w.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 ITEM "Pistol Taurus PT 59 Rail (.380)"
 Class			Pistol
-Caliber			"9υ19 μμ"
+Caliber			".380 ACP"
 Weight			890
 PrepareTime		0.15
 SingleFireTime	0.56
@@ -2364,13 +2364,13 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Taurus380"
 StdPlug			"Pistol clip (BerettaElite380/19)"
-ACTOR			"Items\pt92mp3rail.act"
+ACTOR			"Items\pt59mp3rail.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 ITEM "Pistol Taurus PT 59 Rail B (.380)"
 Class			Pistol
-Caliber			"9υ19 μμ"
+Caliber			".380 ACP"
 Weight			890
 PrepareTime		0.15
 SingleFireTime	0.56
@@ -2405,13 +2405,13 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Taurus380"
 StdPlug			"Pistol clip (BerettaElite380/19)"
-ACTOR			"Items\pt92mp3railb.act"
+ACTOR			"Items\pt59mp3railb.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
 ITEM "Pistol Taurus PT 59 Rail W (.380)"
 Class			Pistol
-Caliber			"9υ19 μμ"
+Caliber			".380 ACP"
 Weight			890
 PrepareTime		0.15
 SingleFireTime	0.56
@@ -2446,7 +2446,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Taurus380"
 StdPlug			"Pistol clip (BerettaElite380/19)"
-ACTOR			"Items\pt92mp3railw.act"
+ACTOR			"Items\pt59mp3railw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
