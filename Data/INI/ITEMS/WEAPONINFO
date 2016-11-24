@@ -48367,7 +48367,7 @@ ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "M203"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
