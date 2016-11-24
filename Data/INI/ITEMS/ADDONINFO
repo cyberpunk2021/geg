@@ -9103,6 +9103,17 @@ ACTOR			"Items\pm98flash.act"
 IMAGE			"m3_tf_bm.e5b"
 WEIGHT			145
 Resource		1000
+
+//------------------------------------------------------
+Addon			"MP5 Flashlight"
+Light			"built-in"
+Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance		25
+Visible			1
+ACTOR			"Items\hkmp5integralflash.act"
+IMAGE			"m3_tf_bm.e5b"
+WEIGHT			145
+Resource		1000
 //------------------------------------------------------
 Addon			"WIST94 Laser"
 Laser			"built-in"

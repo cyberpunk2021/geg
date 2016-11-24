@@ -16898,6 +16898,86 @@ ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
+ITEM "HK MP5A3 FL (22)"
+Class			SMG
+Caliber			".22LR"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.35
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	800
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"HK MP5A3 FL (22) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Std 22 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MP522"
+StdPlug			"SMG ammo clip (M522/30)"
+StdPlug			"MP5 Flashlight"
+StdPlug			"MP5 Butt"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "HK MP5A3 FL (22) folded"
+Class			SMG
+Caliber			".22LR"
+Weight			3100
+PrepareTime		0.20
+SingleFireTime	0.35
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	800
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"HK MP5A3 FL (22)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Std 22 Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MP522"
+StdPlug			"SMG ammo clip (M522/30)"
+StdPlug			"MP5 Flashlight"
+StdPlug			"MP5 Butt folded"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
 ITEM "HK MP5SD5 22"
 Class			SMG
 Caliber			".22LR"
@@ -23441,6 +23521,86 @@ ACTOR			"Items\hkmp5.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
+ITEM "Submachine-gun HK MP5A5 FL (9mm)"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun HK MP5A5 FL (9mm) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"MP5 Butt"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun HK MP5A5 FL (9mm) folded"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun HK MP5A5 FL (9mm)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"MP5 Butt folded"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
 ////----------------
 
 ITEM "Submachine-gun HK MP5A5 RIS (9mm)"
@@ -23596,6 +23756,86 @@ ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"MP5 Butt folded"
 ACTOR			"Items\hkmp5.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun NR-08 FL (9mm)"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.12
+Resource		1500
+DirtResource	150000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	90
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun NR-08 FL (9mm) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"MP5 Butt"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun NR-08 FL (9mm) folded"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.12
+Resource		1500
+DirtResource	150000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	70
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun NR-08 FL (9mm)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"MP5 Butt folded"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -24003,6 +24243,86 @@ ACTOR			"Items\mp5+m203.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
+ITEM "Submachine-gun HK MP5A5 FL (.40 S&W)"
+Class			SMG
+Caliber			".40 S&W"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun HK MP5A5 FL (.40 S&W) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "HK MP5-40 Silencer"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP5-40"
+StdPlug			"SMG ammo clip (MP5-40/30)"
+StdPlug			"MP5 Butt"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun HK MP5A5 FL (.40 S&W) folded"
+Class			SMG
+Caliber			".40 S&W"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun HK MP5A5 FL (.40 S&W)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "HK MP5-40 Silencer"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP5-40"
+StdPlug			"SMG ammo clip (MP5-40/30)"
+StdPlug			"MP5 Butt folded"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
 //////////---------------------
 
 ITEM "Submachine-gun HK MP5A5 RIS (.40 S&W)"
@@ -24238,6 +24558,86 @@ StdPlug			"SMG ammo clip (MP5-10/30)"
 StdPlug			"MP M203"
 StdPlug			"MP5 Butt folded"
 ACTOR			"Items\mp5+m203.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "HK MP5A3 FL (10)"
+Class			SMG
+Caliber			"10mm Auto"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"HK MP5A3 FL (10) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "HK MP5-10 Silencer"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP5-10"
+StdPlug			"SMG ammo clip (MP5-10/30)"
+StdPlug			"MP5 Butt"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "HK MP5A3 FL (10) folded"
+Class			SMG
+Caliber			"10mm Auto"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"HK MP5A3 FL (10)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "HK MP5-10 Silencer"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP5-10"
+StdPlug			"SMG ammo clip (MP5-10/30)"
+StdPlug			"MP5 Butt folded"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hkmp5flash.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -45019,7 +45419,7 @@ Laser
 and
 Light
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"Rifle ammo clip (HK/40)"
 ACTOR			"Items\hk33.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -45081,9 +45481,9 @@ Laser
 and
 Light
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
-StdPlug			"G3 Butt"
-ACTOR			"Items\hk33a3.act"
+StdPlug			"Rifle ammo clip (HK/40)"
+StdPlug			"MP5 Butt"
+ACTOR			"Items\hk33folding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -45144,9 +45544,9 @@ Laser
 and
 Light
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
-StdPlug			"G3 Butt folded"
-ACTOR			"Items\hk33a3.act"
+StdPlug			"Rifle ammo clip (HK/40)"
+StdPlug			"MP5 Butt"
+ACTOR			"Items\hk33folding.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -51450,7 +51850,7 @@ ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3 Butt"
-ACTOR			"Items\g3a4.act"
+ACTOR			"Items\hkg3a4.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -51489,7 +51889,7 @@ ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3 Butt folded"
-ACTOR			"Items\g3a4.act"
+ACTOR			"Items\hkg3a4.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -51530,7 +51930,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3 Butt"
-ACTOR			"Items\g3ka4.act"
+ACTOR			"Items\hkg3ka4.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -51569,7 +51969,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3 Butt folded"
-ACTOR			"Items\g3ka4.act"
+ACTOR			"Items\hkg3ka4.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -51861,7 +52261,7 @@ Laser
 and
 Light
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"Rifle ammo clip (HK/40)"
 ACTOR			"Items\hk33.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -51925,9 +52325,9 @@ Laser
 and
 Light
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
-StdPlug			"G3 Butt"
-ACTOR			"Items\hk33a3.act"
+StdPlug			"Rifle ammo clip (HK/40)"
+StdPlug			"MP5 Butt"
+ACTOR			"Items\hk33folding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -51988,9 +52388,9 @@ Laser
 and
 Light
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
-StdPlug			"G3 Butt folded"
-ACTOR			"Items\hk33a3.act"
+StdPlug			"Rifle ammo clip (HK/40)"
+StdPlug			"MP5 Butt"
+ACTOR			"Items\hk33folding.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52029,9 +52429,9 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"Rifle ammo clip (HK/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\hk33ka3.act"
+ACTOR			"Items\hk33foldingk.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52068,9 +52468,9 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"Rifle ammo clip (HK/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\hk33ka3.act"
+ACTOR			"Items\hk33foldingk.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -52191,7 +52591,7 @@ ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\hkg41.act"
+ACTOR			"Items\hkg41nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -52230,7 +52630,7 @@ ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\hkg41.act"
+ACTOR			"Items\hkg41nova.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52269,7 +52669,7 @@ ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"MP5 Butt"
-ACTOR			"Items\hkg41k.act"
+ACTOR			"Items\hkg41novacar.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52308,7 +52708,7 @@ ATT Bayonet		1 "HK"
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"MP5 Butt folded"
-ACTOR			"Items\hkg41k.act"
+ACTOR			"Items\hkg41novacar.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -52392,6 +52792,86 @@ ACTOR			"Items\hk53.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle HK53A3 FL (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3300
+PrepareTime		0.28
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2200
+DirtResource	240000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	98
+RangeCurvature	3.1
+Balance			0.65
+Unfold			"Assault Rifle HK53A3 FL (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\HK53_fire.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK 5.56"
+StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"MP5 Flashlight"
+StdPlug			"MP5 Butt"
+ACTOR			"Items\hk53flash.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle HK53A3 FL (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3300
+PrepareTime		0.24
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2200
+DirtResource	240000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	78
+RangeCurvature	3.1
+Balance			0.65
+Unfold			"Assault Rifle HK53A3 FL (5.56mm)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\HK53_fire.wav"
+ATT Laser		0
+ATT Light		1 "built-in"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK 5.56"
+StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"MP5 Butt folded"
+StdPlug			"MP5 Flashlight"
+ACTOR			"Items\hk53flash.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
 /////------------
 
 ITEM "Assault Rifle HK53A3 RIS (5.56mm)"
@@ -52427,7 +52907,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"Rifle ammo clip (HK/30)"
 StdPlug			"MP5 Butt"
 ACTOR			"Items\hk53ris.act"
 IMAGE			"2x4.e5b"
@@ -52466,7 +52946,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"Rifle ammo clip (HK/30)"
 StdPlug			"MP5 Butt folded"
 ACTOR			"Items\hk53ris.act"
 IMAGE			"2x3.e5b"
@@ -88067,7 +88547,7 @@ ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
 StdPlug			"Tactical Bipod TL-BP16"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
-ACTOR			"Items\hk33a2.act"
+ACTOR			"Items\hk33sg1.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -88110,7 +88590,7 @@ ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3SG1 bipod folded"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
-ACTOR			"Items\g3sg1.act"
+ACTOR			"Items\hkg3sg1.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -88150,7 +88630,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/5)"
 StdPlug			"Optical Sight ZF Hendsoldt 6x42 (PSG)"
-ACTOR			"Items\psg1.act"
+ACTOR			"Items\hkpsg1.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -88190,7 +88670,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/5)"
 StdPlug			"Optical Sight ZF Hensoldt 10x42 (MSG)"
-ACTOR			"Items\msg90a1.act"
+ACTOR			"Items\hkmsg90.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 

@@ -4483,30 +4483,35 @@ ACTOR  "Items\aug556_42ammo.act"
 USEPREFIX  ""
 IMAGE  "aug556_ammo42.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Rifle ammo clip (HK/25)""5.56υ45 μμ""HK 5.56"25 250 "Double rifle ammo clip (HK/50)"1000 
+CLIP  "Rifle ammo clip (HK/25)""5.56υ45 μμ""HK 5.56"25 120 "Double rifle ammo clip (HK/50)"1000 
 ACTOR  "Items\hk53mag.act"
 USEPREFIX  ""
 IMAGE  "hk33mag25.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Rifle ammo clip (HK/30)""5.56υ45 μμ""HK 5.56"30 270 "Double rifle ammo clip (HK/60)"1000
+CLIP  "Rifle ammo clip (HK/30)""5.56υ45 μμ""HK 5.56"30 140 "Double rifle ammo clip (HK/60)"1000
 ACTOR  "Items\hk53mag30.act"
 USEPREFIX  ""
 IMAGE  "hk33mag30.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Rifle ammo clip (HK/40)""5.56υ45 μμ""HK 5.56"40 157 "None"350 
+CLIP  "Rifle ammo clip (HK/40)""5.56υ45 μμ""HK 5.56"40 180 "Double rifle ammo clip (HK/80)"350 
 ACTOR  "Items\hk53mag40.act"
 USEPREFIX  ""
 IMAGE  "hk33mag40.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Double rifle ammo clip (HK/50)""5.56υ45 μμ""HK 5.56"50 500 "None"1000 
+CLIP  "Double rifle ammo clip (HK/50)""5.56υ45 μμ""HK 5.56"50 240 "None"1000 
 ACTOR  "Items\hk53magdb.act"
 USEPREFIX  ""
 IMAGE  "hk33mag50.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Double rifle ammo clip (HK/60)""5.56υ45 μμ""HK 5.56"60 540 "None"1000
+CLIP  "Double rifle ammo clip (HK/60)""5.56υ45 μμ""HK 5.56"60 280 "None"1000
 ACTOR  "Items\hk53mag30db.act"
 USEPREFIX  ""
 IMAGE  "hk33mag60.e5b"
+DEFAMMO  "5.56 FMJ Ball"
+CLIP  "Double rifle ammo clip (HK/80)""5.56υ45 μμ""HK 5.56"80 320 "None"1000
+ACTOR  "Items\hk53mag40db.act"
+USEPREFIX  ""
+IMAGE  "ms545-rpk-90_double.e5b"
 DEFAMMO  "5.56 FMJ Ball"
 CLIP "Assault Rifle clip (FAMAS/25)""5.56υ45 μμ""famas"25 80 "None"3000 
 ACTOR "Items\famasf1mag.act"

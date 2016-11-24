@@ -1973,7 +1973,7 @@ fazer as bullpups terem ahtBullpup
 verificar caixa "Ammo box (7N23)"
 fazer 32 acp e 380 acp algeira box
 fazer lapua ammo boxes
-faltando parei em 'Double rifle ammo clip (AK 5.56/60)'
+faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 
 
 "fnfalnova_dsa_stock"
@@ -2046,6 +2046,30 @@ faltando parei em 'Double rifle ammo clip (AK 5.56/60)'
 
 "BPZ 7.62x39"
 "Ammo box 500 HLA (BPZ 7.62x39)"
+
+
+"Double rifle ammo clip (HK/80)"
+
+++++++++++++++++++++
+
+"Submachine-gun HK MP5A5 FL (9mm)"
+"Submachine-gun HK MP5A5 FL (9mm) folded"
+"HK MP5A3 FL (22)"
+"HK MP5A3 FL (22) folded"
+"Submachine-gun NR-08 FL (9mm)"
+"Submachine-gun NR-08 FL (9mm) folded"
+"Submachine-gun HK MP5A5 FL (.40 S&W)"
+"Submachine-gun HK MP5A5 FL (.40 S&W) folded"
+"HK MP5A3 FL (10)"
+"HK MP5A3 FL (10) folded"
+"Assault Rifle HK53A3 FL (5.56mm)"
+"Assault Rifle HK53A3 FL (5.56mm) folded"
+
+"MP5 Flashlight"
+
+ATT Light		1 "built-in"
+StdPlug			"MP5 Flashlight"
+++++++++++++++++++++
 
 imbel rec
 
