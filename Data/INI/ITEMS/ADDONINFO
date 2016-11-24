@@ -3394,7 +3394,7 @@ Resource		0
 Addon			"G3 Butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\g3butt.act"
+ACTOR			"Items\hkg3stock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -3402,7 +3402,7 @@ Resource		0
 Addon			"G3 Butt folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\g3butt_folded.act"
+ACTOR			"Items\hkg3stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -4294,7 +4294,7 @@ ViewAngle		2.5
 Distance		300
 ShadowImpact	0.13
 BlocksAiming	1
-ACTOR			"Items\hensoldt10x42kn250.act"
+ACTOR			"Items\hkmsg90scopenv.act"
 IMAGE			"hensoldt10x42kn250.e5b"
 WEIGHT			1595
 Resource		2500
@@ -5360,7 +5360,7 @@ ViewAngle		2.5
 Distance		750
 ShadowImpact	0.9
 BlocksAiming	1
-ACTOR			"Items\hensoldt10x42.act"
+ACTOR			"Items\hkmsg90scope.act"
 IMAGE			"hensoldt10x42.e5b"
 WEIGHT			595
 Resource		2500
@@ -5997,7 +5997,7 @@ Resource		1000
 Addon			"G3SG1 bipod"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\G3SG1bipod.act"
+ACTOR			"Items\hkg3sg1bipod.act"
 IMAGE			"G3SG1bipod.e5b"
 WEIGHT			300
 Resource		1000
@@ -6005,7 +6005,7 @@ Resource		1000
 Addon			"G3SG1 bipod folded"
 Bipod			"built-in"
 Sound			"None""None"
-ACTOR			"Items\G3SG1bipod_folded.act"
+ACTOR			"Items\hkg3sg1bipodfolded.act"
 IMAGE			"G3SG1bipod.e5b"
 WEIGHT			300
 Resource		1000

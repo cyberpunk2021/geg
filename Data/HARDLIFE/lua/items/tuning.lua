@@ -43,8 +43,11 @@ end
  local ForestockItems = {
 --std weapons
  ["Submachine-gun HK MP5A5 (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",
+
  ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 RIS (9mm) folded",
- 
+  ["Submachine-gun HK MP5A5 (9mm)"] = "Submachine-gun HK MP5A5 FL (9mm)",
+  ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 FL (9mm) folded",
+  
   ["Submachine-gun NR-08 (9mm)"] = "Submachine-gun NR-08 RIS (9mm)",
  ["Submachine-gun NR-08 (9mm) folded"] = "Submachine-gun NR-08 RIS (9mm) folded",
  
@@ -498,6 +501,7 @@ local action_replace_for_end = _t"lang/lua/tuning/replace_for-end"
 local action_replace_butt = _t"lang/lua/tuning/replace_butt"
 
 AddItemContextMenu("MP5 forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
+AddItemContextMenu("HKMP5Flashlight Handguard", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("MP5 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("HK53 forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("HK53 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)

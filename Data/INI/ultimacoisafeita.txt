@@ -2048,6 +2048,8 @@ faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 "Ammo box 500 HLA (BPZ 7.62x39)"
 
 
+
+
 "Double rifle ammo clip (HK/80)"
 
 ++++++++++++++++++++
@@ -2066,6 +2068,7 @@ faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 "Assault Rifle HK53A3 FL (5.56mm) folded"
 
 "MP5 Flashlight"
+"HKMP5Flashlight Handguard"
 
 ATT Light		1 "built-in"
 StdPlug			"MP5 Flashlight"
