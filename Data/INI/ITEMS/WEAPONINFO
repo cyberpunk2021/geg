@@ -51335,7 +51335,7 @@ ATT ILauncher	1 "hk" blocks Bipod and Bayonet
 ATT Bayonet		1 "HK" blocks Silencer and ILauncher
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
-ACTOR			"Items\cetme.act"
+ACTOR			"Items\hkcetme.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
