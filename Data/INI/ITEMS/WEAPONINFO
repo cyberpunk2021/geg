@@ -70473,7 +70473,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		1 "HK MP5"
+ATT Scope		0
 ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
