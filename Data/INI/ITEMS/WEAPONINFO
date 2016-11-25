@@ -23952,7 +23952,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
 ATT Bipod		0
-ATT Silencer	1 "HK MP5-40 Silencer"
+ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP5-40"
@@ -23992,7 +23992,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
 ATT Bipod		0
-ATT Silencer	1 "HK MP5-40 Silencer"
+ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP5-40"
@@ -24190,7 +24190,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
 ATT Bipod		0
-ATT Silencer	1 "HK MP5-10 Silencer"
+ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP5-10"
@@ -24230,7 +24230,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
 ATT Bipod		0
-ATT Silencer	1 "HK MP5-10 Silencer"
+ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP5-10"
