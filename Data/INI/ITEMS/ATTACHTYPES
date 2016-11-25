@@ -66,6 +66,7 @@ PLUG
 	  "WR"
 	  "HK"
 	  "WRRifle"
+	  "MP5TL"
 PLUG  
 	  "Bipod"
 	  "built-in"
@@ -92,6 +93,7 @@ PLUG
 	  "MadsenBipod"
 	  "SIG550Bipod"
 	  "NEGEVBipod"
+	  "G3Bipod"
 PLUG  
 	  "Silencer"
 	  "built-in"

@@ -1974,7 +1974,9 @@ verificar caixa "Ammo box (7N23)"
 fazer 32 acp e 380 acp algeira box
 fazer lapua ammo boxes
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
-
+remover '6.5mm Grendel Surplus'
+criar Prvi (7.62x39mm)
+converstar iteminfo sealed crate, 600 balas ao inves de 500
 
 "fnfalnova_dsa_stock"
 "fnfalnova_dsa_stock_folded"
@@ -2054,21 +2056,16 @@ faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 
 ++++++++++++++++++++
 
-"Submachine-gun HK MP5A5 FL (9mm)"
-"Submachine-gun HK MP5A5 FL (9mm) folded"
-"HK MP5A3 FL (22)"
-"HK MP5A3 FL (22) folded"
-"Submachine-gun NR-08 FL (9mm)"
-"Submachine-gun NR-08 FL (9mm) folded"
-"Submachine-gun HK MP5A5 FL (.40 S&W)"
-"Submachine-gun HK MP5A5 FL (.40 S&W) folded"
-"HK MP5A3 FL (10)"
-"HK MP5A3 FL (10) folded"
-"Assault Rifle HK53A3 FL (5.56mm)"
-"Assault Rifle HK53A3 FL (5.56mm) folded"
 
 "MP5 Flashlight"
-"HKMP5Flashlight Handguard"
+
+++++++++++
+
+"Ammo box (7.62x39 FMJ Prvi)"
+"Ammo box 500 (7.62x39 FMJ Prvi)"
+
+"Sniper Rifle HK SR9 (7.62x51mm)"
+"Sniper Rifle HK PSG-1A1 (7.62x51mm)"
 
 ATT Light		1 "built-in"
 StdPlug			"MP5 Flashlight"

@@ -5995,7 +5995,7 @@ WEIGHT			150
 Resource		1000
 //------------------------------------------------------
 Addon			"G3SG1 bipod"
-Bipod			"built-in"
+Bipod			"G3Bipod"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR			"Items\hkg3sg1bipod.act"
 IMAGE			"G3SG1bipod.e5b"
@@ -6003,7 +6003,7 @@ WEIGHT			300
 Resource		1000
 //------------------------------------------------------
 Addon			"G3SG1 bipod folded"
-Bipod			"built-in"
+Bipod			"G3Bipod"
 Sound			"None""None"
 ACTOR			"Items\hkg3sg1bipodfolded.act"
 IMAGE			"G3SG1bipod.e5b"
@@ -9106,7 +9106,7 @@ Resource		1000
 
 //------------------------------------------------------
 Addon			"MP5 Flashlight"
-Light			"built-in"
+Light			"MP5TL"
 Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance		25
 Visible			1

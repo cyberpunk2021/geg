@@ -133,6 +133,8 @@
   <item level="1">Ammo box (FM9x19)</item>
   <item level="4">Ammo box (M67)</item>
   <item level="2">Ammo box 7.62x39 Norinco</item>
+  <item level="4">Ammo box (7.62x39 FMJ Prvi)</item>
+  <item level="5">Ammo box 500 (7.62x39 FMJ Prvi)</item>
   <item level="0">Algeira soldiers sz soldier uniform</item> 
   <item level="0">Algeira soldiers sz sergant uniform</item> 
   <item level="0">Algeira soldiers sz leutenant uniform</item> 
@@ -173,6 +175,7 @@
   <item level="1">Ammo box (PPU 7.62x54R)</item>
   <item level="3">Ammo box (SB 7.62x39)</item>
   <item level="3">Ammo box (BPZ 7.62x39)</item>
+  <item level="4">Ammo box 500 HLA (BPZ 7.62x39)</item>
   <item level="5">BigWoodBoxAKM</item>
   <item level="6">BigWoodBoxAKMN</item>
   <item level="7">BigWoodBoxGalil</item>
@@ -525,8 +528,10 @@
   <item level="6">Assault Rifle CAR-15 (5.56mm)</item>
   <item level="9">Sniper Rifle Dragunov SVD (7.62x54mm)</item>
   <item level="9">Sniper Rifle HK G3SG1 (7.62x51mm)</item>
-  <item level="10">Sniper Rifle HK MSG-90A1 (7.62x51mm)</item>
-  <item level="10">Sniper Rifle HK PSG-1 (7.62x51mm)</item>
+  <item level="10">Sniper Rifle HK SR9 (7.62x51mm)</item>
+  <item level="11">Sniper Rifle HK MSG-90A1 (7.62x51mm)</item>
+  <item level="11">Sniper Rifle HK PSG-1 (7.62x51mm)</item>
+  <item level="12">Sniper Rifle HK PSG-1A1 (7.62x51mm)</item>
   <item level="9">Sniper Rifle SVU-AS (7.62x54mm)</item>
   <item level="5">Submachine-gun Steyr AUG (9mm)</item>
   <item level="5">Submachine-gun Steyr AUG SR (9mm)</item>
@@ -4876,4 +4881,5 @@
   <item level="8">Double rifle ammo clip (L1A1/60)</item>
   <item level="5">Rifle ammo clip (ROMAT/20)</item>
   <item level="6">Double rifle ammo clip (ROMAT/40)</item>
+  <item level="2">MP5 Flashlight</item>
 </root>
