@@ -52182,12 +52182,12 @@ ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AR556_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks ILauncher
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "HK MSG-90"
-ATT Bipod		1 "G3Bipod" blocks ILauncher and Silencer
-ATT Silencer	1 "Supressor - 5,56" blocks Bipod and Bayonet and ILauncher
-ATT ILauncher	1 "hk" blocks Bipod and Silencer
+ATT Bipod		1 "G3Bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer and Laser and Light
 ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -52221,12 +52221,12 @@ ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AR556_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks ILauncher
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "HK MSG-90"
-ATT Bipod		1 "G3Bipod" blocks ILauncher and Silencer
-ATT Silencer	1 "Supressor - 5,56" blocks Bipod and Bayonet and ILauncher
-ATT ILauncher	1 "hk" blocks Bipod and Silencer
+ATT Bipod		1 "G3Bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer and Laser and Light
 ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -52263,7 +52263,7 @@ ShootSound		"Weapon\Shoot\AR556_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MSG-90"
-ATT Bipod		0
+ATT Bipod		1 "G3Bipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -52302,7 +52302,7 @@ ShootSound		"Weapon\Shoot\AR556_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MSG-90"
-ATT Bipod		0
+ATT Bipod		1 "G3Bipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
