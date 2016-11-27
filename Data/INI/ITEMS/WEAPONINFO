@@ -17828,6 +17828,43 @@ ACTOR			"Items\suomi.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtBoltRifle
 
+ITEM  "Carabine M712 (7.63mm)"
+Class  Rifle  
+Caliber			"7.62υ25 μμ"
+Weight  2330 
+PrepareTime  0.28
+SingleFireTime  0.81
+BurstFireTime  0.07 
+SpeedModifier  1.05
+Resource  2400 
+DirtResource  160000 
+MisfireProb  0.005 
+HeatCapacity  35 
+Single  1 
+Burst  1 
+CutOff  0 
+BurstHitStart  1 
+MaxRange		150
+EffectiveRange	52
+RangeCurvature	1
+Balance  0.63 
+ClipInSound  "Weapon\ClipIn\Mauser_M712_clip_IN.wav"
+ClipOutSound  "Weapon\ClipOut\Mauser_M712_clip_OUT.wav"
+ReLockSound  "Weapon\ReLock\Mauser_M712_slide.wav"
+ShootSound  "Weapon\Shoot\Mauser_M712_fire.wav"
+ATT  Laser  0 
+ATT  Light  0 
+ATT  Scope  0 
+ATT  Bipod  0 
+ATT  Silencer  0 
+ATT  ILauncher  0 
+ATT  Bayonet  0 
+ATT  Magazine  1 "M712"
+StdPlug  "Pistol clip (m712/30)"
+ACTOR  "Items\m712car.act"
+IMAGE  "2X4.E5B"
+HANDS  ahtRifle  
+
 ITEM "Submachine-gun PPD-40 (7.62x25mm)"
 Class			SMG
 Caliber			"7.62υ25 μμ"
@@ -22738,85 +22775,6 @@ ACTOR			"Items\cpw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
-
-ITEM "CPW NOFG (9mm)"
-Class			SMG
-Caliber			"9υ19 μμ"
-Weight			1500
-PrepareTime		0.23
-SingleFireTime	0.59
-BurstFireTime	0.063
-SpeedModifier	1.08
-Resource		1400
-DirtResource	150000
-MisfireProb		0.0031
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
-Balance			0.62
-Unfold			"CPW NOFG (9mm) folded"
-ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
-ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
-ShootSound		"Weapon\Shoot\Uzi_v2.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "Std 9mm Para"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "CPW9MM"
-StdPlug			"SMG ammo clip (CPW 9x19mm/30)"
-StdPlug			"cpw_stock"
-ACTOR			"Items\cpw.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRifle
-
-ITEM "CPW NOFG (9mm) folded"
-Class			SMG
-Caliber			"9υ19 μμ"
-Weight			1500
-PrepareTime		0.19
-SingleFireTime	0.59
-BurstFireTime	0.063
-SpeedModifier	1.08
-Resource		1400
-DirtResource	150000
-MisfireProb		0.0031
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
-Balance			0.62
-Unfold			"CPW NOFG (9mm)"
-ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
-ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
-ShootSound		"Weapon\Shoot\Uzi_v2.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "Std 9mm Para"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "CPW9MM"
-StdPlug			"SMG ammo clip (CPW 9x19mm/30)"
-StdPlug			"cpw_stock_folded"
-ACTOR			"Items\cpw.act"
-IMAGE			"2x2.e5b"
-HANDS			ahtRifle
-
 ITEM "Folded Steyr TMP (9x19)"
 Class			SMG
 Caliber			"9υ19 μμ"
@@ -23087,84 +23045,6 @@ StdPlug			"cpw_stock_folded"
 ACTOR			"Items\cpw46.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
-
-ITEM "CPW NOFG (4.6)"
-Class			SMG
-Caliber			"4.6x30 mm"
-Weight			1500
-PrepareTime		0.23
-SingleFireTime	0.59
-BurstFireTime	0.063
-SpeedModifier	1.08
-Resource		1400
-DirtResource	150000
-MisfireProb		0.0031
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
-Balance			0.62
-Unfold			"CPW NOFG (4.6) folded"
-ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
-ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
-ShootSound		"Weapon\Shoot\Uzi_v2.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "MP7 Silencer"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "CPW4630"
-StdPlug			"SMG ammo clip (CPW 4.6x30mm/30)"
-StdPlug			"cpw_stock"
-ACTOR			"Items\cpw46.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRifle
-
-ITEM "CPW NOFG (4.6) folded"
-Class			SMG
-Caliber			"4.6x30 mm"
-Weight			1500
-PrepareTime		0.19
-SingleFireTime	0.59
-BurstFireTime	0.063
-SpeedModifier	1.08
-Resource		1400
-DirtResource	150000
-MisfireProb		0.0031
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
-Balance			0.62
-Unfold			"CPW NOFG (4.6)"
-ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
-ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
-ShootSound		"Weapon\Shoot\Uzi_v2.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "MP7 Silencer"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "CPW4630"
-StdPlug			"SMG ammo clip (CPW 4.6x30mm/30)"
-StdPlug			"cpw_stock_folded"
-ACTOR			"Items\cpw46.act"
-IMAGE			"2x2.e5b"
-HANDS			ahtRifle
 
 ITEM "MP7"
 Class			SMG
@@ -27815,84 +27695,6 @@ StdPlug			"cpw_stock_folded"
 ACTOR			"Items\cpw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
-
-ITEM "CPW NOFG (5.7)"
-Class			SMG
-Caliber			"5.7υ28 μμ"
-Weight			1500
-PrepareTime		0.23
-SingleFireTime	0.58
-BurstFireTime	0.063
-SpeedModifier	0.97
-Resource		1400
-DirtResource	150000
-MisfireProb		0.0031
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
-Balance			0.62
-Unfold			"CPW NOFG (5.7) folded"
-ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
-ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
-ShootSound		"Weapon\Shoot\Uzi_v2.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "5,7mm (P90)"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "CPW57"
-StdPlug			"SMG ammo clip (CPW 5.7x28mm/30)"
-StdPlug			"cpw_stock"
-ACTOR			"Items\cpw.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRifle
-
-ITEM "CPW NOFG (5.7) folded"
-Class			SMG
-Caliber			"5.7υ28 μμ"
-Weight			1500
-PrepareTime		0.19
-SingleFireTime	0.58
-BurstFireTime	0.063
-SpeedModifier	0.97
-Resource		1400
-DirtResource	150000
-MisfireProb		0.0031
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
-Balance			0.62
-Unfold			"CPW NOFG (5.7)"
-ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
-ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
-ShootSound		"Weapon\Shoot\Uzi_v2.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "5,7mm (P90)"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "CPW57"
-StdPlug			"SMG ammo clip (CPW 5.7x28mm/30)"
-StdPlug			"cpw_stock_folded"
-ACTOR			"Items\cpw.act"
-IMAGE			"2x2.e5b"
-HANDS			ahtRifle
 
 ///////////-----------------
 
@@ -56561,80 +56363,6 @@ ACTOR			"Items\m16hg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle M16 HG RIS (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			2871
-PrepareTime		0.42
-SingleFireTime	0.75
-BurstFireTime	0.0706
-SpeedModifier	1.05
-Resource		800
-DirtResource	90000
-MisfireProb		0.005
-HeatCapacity	30
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	158
-RangeCurvature	2
-Balance			0.58
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M16A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Silencer
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\m16hg.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle M16 HG RIS FG (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			2871
-PrepareTime		0.42
-SingleFireTime	0.75
-BurstFireTime	0.0706
-SpeedModifier	1.05
-Resource		800
-DirtResource	90000
-MisfireProb		0.005
-HeatCapacity	30
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	158
-RangeCurvature	2
-Balance			0.58
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M16A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Silencer
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\m16hg.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRG
-
 ITEM "Assault Rifle XM16E1 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
@@ -56708,80 +56436,6 @@ StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\xm16e1hg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
-
-ITEM "Assault Rifle XM16E1 HG RIS (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			2971
-PrepareTime		0.42
-SingleFireTime	0.75
-BurstFireTime	0.0706
-SpeedModifier	1.05
-Resource		1000
-DirtResource	110000
-MisfireProb		0.005
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	158
-RangeCurvature	2
-Balance			0.58
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M16A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Silencer
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\xm16e1hg.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle XM16E1 HG RIS FG (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			2971
-PrepareTime		0.42
-SingleFireTime	0.75
-BurstFireTime	0.0706
-SpeedModifier	1.05
-Resource		1000
-DirtResource	110000
-MisfireProb		0.005
-HeatCapacity	35
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	158
-RangeCurvature	2
-Balance			0.58
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M16A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Silencer
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\xm16e1hg.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRG
 
 ITEM "Assault Rifle M16A1 (5.56mm)"
 Class			Rifle
@@ -56891,7 +56545,6 @@ ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Integr M203B (40mm LV)"
-//StdPlug			"m203 sight"
 ACTOR			"Items\m16a1m203.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle

@@ -2284,16 +2284,12 @@
   <item level="4">CBJMS (6.25) folded</item>
   <item level="4">CPW (9mm)</item>
   <item level="4">CPW (9mm) folded</item>
-  <item level="4">CPW NOFG (9mm)</item>
-  <item level="4">CPW NOFG (9mm) folded</item>
   <item level="3">Folded Steyr TMP (9x19)</item>
   <item level="4">Submachine-gun BT MP9 (9mm)</item>
   <item level="4">Submachine-gun BT MP9 (9mm) folded</item>
   <item level="4">Submachine-gun Type CF05 (9mm)</item>
   <item level="4">Submachine-gun Type CF05 (9mm) folded</item>
   <item level="4">CPW (4.6)</item>
-  <item level="4">CPW NOFG (4.6)</item>
-  <item level="4">CPW NOFG (4.6) folded</item>
   <item level="4">CPW (4.6) folded</item>
   <item level="4">MP7</item>
   <item level="4">MP7 folded</item>
@@ -2378,9 +2374,7 @@
   <item level="6">Submachine-gun K10 (10) folded</item>
   <item level="6">IWI X95 SMG</item>
   <item level="4">CPW (5.7)</item>
-  <item level="4">CPW NOFG (5.7)</item>
   <item level="4">CPW (5.7) folded</item>
-  <item level="4">CPW NOFG (5.7) folded</item>
   <item level="3">Submachine-gun FN PS90 (5.7mm)</item>
   <item level="3">Submachine-gun FN PS90 TR (5.7mm)</item>
   <item level="5">Assault Rifle QCQ05 (5.8)</item>
@@ -2972,6 +2966,7 @@
   <item level="9">HCAR folded</item>
   <item level="9">HCAR BK</item>
   <item level="9">HCAR BK folded</item>
+  <item level="10">30-06 Silencer</item>
   <item level="7">Assault Rifle Type 64 (7.62mm)</item>
   <item level="7">Assault Rifle Type 89O (5.56mm)</item>
   <item level="8">Assault Rifle Type 89 (5.56mm)</item>
@@ -3086,12 +3081,8 @@
   <item level="9">Assault Rifle LAC (5.56mm) folded</item>
   <item level="6">Assault Rifle M16 (5.56mm)</item>
   <item level="6">Assault Rifle M16 HG (5.56mm)</item>
-  <item level="6">Assault Rifle M16 HG RIS (5.56mm)</item>
-  <item level="6">Assault Rifle M16 HG RIS FG (5.56mm)</item>
   <item level="7">Assault Rifle XM16E1 (5.56mm)</item>
   <item level="7">Assault Rifle XM16E1 HG (5.56mm)</item>
-  <item level="7">Assault Rifle XM16E1 HG RIS (5.56mm)</item>
-  <item level="7">Assault Rifle XM16E1 HG RIS FG (5.56mm)</item>
   <item level="8">Assault Rifle M16A1 HG (5.56mm)</item>
   <item level="8">Assault Rifle M16A1+M203 (5.56mm)</item>
   <item level="9">Assault Rifle M16A2 715 (5.56mm)</item>
@@ -4883,4 +4874,5 @@
   <item level="5">Rifle ammo clip (ROMAT/20)</item>
   <item level="6">Double rifle ammo clip (ROMAT/40)</item>
   <item level="2">MP5 Flashlight</item>
+  <item level="2">Carabine M712 (7.63mm)</item>
 </root>

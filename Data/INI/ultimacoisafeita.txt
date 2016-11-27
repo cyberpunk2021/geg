@@ -2067,6 +2067,9 @@ converstar iteminfo sealed crate, 600 balas ao inves de 500
 "Sniper Rifle HK SR9TC (7.62x51mm)"
 "Sniper Rifle HK PSG-1A1 (7.62x51mm)"
 
+"30-06 Silencer"
+"Carabine M712 (7.63mm)"
+
 ATT Light		1 "built-in"
 StdPlug			"MP5 Flashlight"
 ++++++++++++++++++++

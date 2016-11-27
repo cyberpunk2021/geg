@@ -16134,42 +16134,6 @@ Z  0
 X  0 
 Y  -90 
 Z  0
-"Assault Rifle M16 HG RIS (5.56mm)"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle XM16E1 HG RIS (5.56mm)"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle XM16E1 HG RIS FG (5.56mm)"
-X  0 
-Y  -90 
-Z  0
-"CPW NOFG (9mm)"
-X  0 
-Y  -90 
-Z  0
-"CPW NOFG (9mm) folded"
-X  0 
-Y  -90 
-Z  0
-"CPW NOFG (5.7)"
-X  0 
-Y  -90 
-Z  0
-"CPW NOFG (5.7) folded"
-X  0 
-Y  -90 
-Z  0
-"CPW NOFG (4.6)"
-X  0 
-Y  -90 
-Z  0
-"CPW NOFG (4.6) folded"
-X  0 
-Y  -90 
-Z  0
 "Pistol Beretta 90Two (9mm)"
 X  0 
 Y  -90 
@@ -16547,6 +16511,10 @@ X  0
 Y  -90 
 Z  0 
 "Sniper Rifle HK SR9TC (7.62x51mm)"
+X  0 
+Y  -90 
+Z  0 
+"Carabine M712 (7.63mm)"
 X  0 
 Y  -90 
 Z  0 
