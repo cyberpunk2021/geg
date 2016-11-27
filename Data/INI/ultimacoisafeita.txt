@@ -1974,7 +1974,6 @@ verificar caixa "Ammo box (7N23)"
 fazer 32 acp e 380 acp algeira box
 fazer lapua ammo boxes
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
-remover '6.5mm Grendel Surplus'
 criar Prvi (7.62x39mm)
 converstar iteminfo sealed crate, 600 balas ao inves de 500
 
@@ -2065,6 +2064,7 @@ converstar iteminfo sealed crate, 600 balas ao inves de 500
 "Ammo box 500 (7.62x39 FMJ Prvi)"
 
 "Sniper Rifle HK SR9 (7.62x51mm)"
+"Sniper Rifle HK SR9TC (7.62x51mm)"
 "Sniper Rifle HK PSG-1A1 (7.62x51mm)"
 
 ATT Light		1 "built-in"

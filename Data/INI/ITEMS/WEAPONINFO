@@ -51928,7 +51928,7 @@ ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/30)"
 StdPlug			"MP5 Butt folded"
 ACTOR			"Items\hk33foldingk.act"
-IMAGE			"2x3.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ////////-----------
@@ -51967,7 +51967,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK32"
 StdPlug			"Rifle ammo clip (HK32/30)"
-StdPlug			"G3 Butt"
+StdPlug			"MP5 Butt"
 ACTOR			"Items\hk32.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -52006,9 +52006,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK32"
 StdPlug			"Rifle ammo clip (HK32/30)"
-StdPlug			"G3 Butt folded"
+StdPlug			"MP5 Butt folded"
 ACTOR			"Items\hk32.act"
-IMAGE			"2x3.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ////////-----------
@@ -87999,18 +87999,53 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "HK MP5"
 ATT Bipod		1 "G3Bipod"
-ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
-blocks
-Bayonet
+ATT Silencer	0
 ATT ILauncher	0
-ATT Bayonet		1 "HK"
-blocks
-Silencer
+ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3SG1 bipod folded"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
 ACTOR			"Items\hksr9.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Sniper Rifle HK SR9TC (7.62x51mm)"
+Class			Sniper
+Caliber			"7.62υ51 μμ"
+Weight			4800
+PrepareTime		0.61
+SingleFireTime	0.89
+BurstFireTime	0.066
+SpeedModifier	1.07
+Resource		2000
+DirtResource	70000
+MisfireProb		0.0019
+HeatCapacity	30
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	214
+RangeCurvature	2
+Balance			0.27
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "G3Bipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3SG1 bipod folded"
+StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
+ACTOR			"Items\hksr9tc.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -88080,15 +88115,15 @@ ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
 ShootSound		"Weapon\Shoot\HK MSG-90A1.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		1 "PSG"
+ATT Scope		1 "HK MSG-90"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/5)"
-StdPlug			"Optical Sight ZF Hendsoldt 6x42 (PSG)"
-ACTOR			"Items\hkpsg1.act"
+StdPlug			"Optical Sight ZF Hensoldt 10x42 (MSG)"
+ACTOR			"Items\hkpsg1a1.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 

@@ -145,18 +145,18 @@ DEFAMMO  ".22LR Surplus"
 
 
 CLIP  "SMG ammo clip (M522/30)"".22LR""MP522"30 170 "Double SMG ammo clip (MP522/60c)"1100 
-ACTOR  "Items\mr9_mp5_30.act"
+ACTOR  "Items\hkmp5novamag30.act"
 USEPREFIX  ""
 IMAGE  "mp5-9mm-30ammo.e5b"
 DEFAMMO  ".22LR Surplus"
 CLIP  "Double SMG ammo clip (MP522/60c)"".22LR""MP522"60 340 "None"
 ForceDouble  1100 
-ACTOR  "Items\ms9_mp5_30x2t.act"
+ACTOR  "Items\hkmp5novamag30db2.act"
 IMAGE  "ms9-mp5-30x2t.e5b"
 DEFAMMO  ".22LR Surplus"
 CLIP  "Double SMG ammo clip (MP522/60)"".22LR""MP522"60 340 "None"
 ForceDouble  1100 
-ACTOR  "Items\mr9_mp5_30-double.act"
+ACTOR  "Items\hkmp5novamag30db.act"
 USEPREFIX  ""
 IMAGE  "mp5-9mm-30ammo-double.e5b"
 DEFAMMO  ".22LR Surplus"

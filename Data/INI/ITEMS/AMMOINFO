@@ -3615,10 +3615,10 @@ WEIGHT 2200
 0
 "Weapon\Shoot\Silencer\M203.wav"
 "None"
-"Items\m406-head.act"
+"Items\qlg91granadaair.act"
 250
-ACTOR "Items\m406-onepart.act"
-IMAGE "m406.e5b"
+ACTOR "Items\qlg91granadaair.act"
+IMAGE "qlg91grenadepicsmoke.dds"
 WEIGHT 225
 
 ".410 Bore Buckshot N4"
@@ -4328,27 +4328,6 @@ ACTOR "Items\ss190.act"
 IMAGE "ammo-ss190.e5b"
 WEIGHT 10
 
-"6.5mm Grendel Surplus"
-"6.5mm Grendel"
-7.1
-816
-1.3
-0.0721
-0.0699
-0.072
-0.04
-0.02
-0.004
-0.34
-2
-1
-"Weapon\Shoot\Silencer\acrSil2d.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-780
-ACTOR "Items\TTSX68955.act"
-IMAGE "ammo-M955.e5b"
-WEIGHT 20.3
 
 "6.5mm Grendel HP"
 "6.5mm Grendel"
