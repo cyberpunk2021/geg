@@ -658,7 +658,7 @@ ACTOR  "Items\m712_clip20x2.act"
 USEPREFIX  ""
 IMAGE  "mp762-m712-20x2.e5b"
 DEFAMMO  "Palinero 7.62x25"
-CLIP  "Double pistol clip (m712/60)""7.62υ25 μμ""M712"40 400 "None"1000 
+CLIP  "Double pistol clip (m712/60)""7.62υ25 μμ""M712"60 400 "None"1000 
 ACTOR  "Items\m712_clip30x2.act"
 USEPREFIX  ""
 IMAGE  "mp762-m712-30x2.e5b"
