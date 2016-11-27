@@ -17828,42 +17828,42 @@ ACTOR			"Items\suomi.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtBoltRifle
 
-ITEM  "Carabine M712 (7.63mm)"
-Class  Rifle  
+ITEM "Carabine M712 (7.63mm)"
+Class			Rifle
 Caliber			"7.62υ25 μμ"
-Weight  2330 
-PrepareTime  0.28
-SingleFireTime  0.81
-BurstFireTime  0.07 
-SpeedModifier  1.05
-Resource  2400 
-DirtResource  160000 
-MisfireProb  0.005 
-HeatCapacity  35 
-Single  1 
-Burst  1 
-CutOff  0 
-BurstHitStart  1 
+Weight			2330
+PrepareTime		0.28
+SingleFireTime	0.81
+BurstFireTime	0.07 
+SpeedModifier	1.05
+Resource		2400
+DirtResource	160000
+MisfireProb		0.005
+HeatCapacity	35
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
 MaxRange		150
 EffectiveRange	52
 RangeCurvature	1
-Balance  0.63 
-ClipInSound  "Weapon\ClipIn\Mauser_M712_clip_IN.wav"
-ClipOutSound  "Weapon\ClipOut\Mauser_M712_clip_OUT.wav"
-ReLockSound  "Weapon\ReLock\Mauser_M712_slide.wav"
-ShootSound  "Weapon\Shoot\Mauser_M712_fire.wav"
-ATT  Laser  0 
-ATT  Light  0 
-ATT  Scope  0 
-ATT  Bipod  0 
-ATT  Silencer  0 
-ATT  ILauncher  0 
-ATT  Bayonet  0 
-ATT  Magazine  1 "M712"
-StdPlug  "Pistol clip (m712/30)"
-ACTOR  "Items\m712car.act"
-IMAGE  "2X4.E5B"
-HANDS  ahtRifle  
+Balance			0.63
+ClipInSound		"Weapon\ClipIn\Mauser_M712_clip_IN.wav"
+ClipOutSound	"Weapon\ClipOut\Mauser_M712_clip_OUT.wav"
+ReLockSound		"Weapon\ReLock\Mauser_M712_slide.wav"
+ShootSound		"Weapon\Shoot\Mauser_M712_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "M712"
+StdPlug			"Pistol clip (m712/30)"
+ACTOR			"Items\m712car.act"
+IMAGE			"2X4.E5B"
+HANDS			ahtRifle
 
 ITEM "Submachine-gun PPD-40 (7.62x25mm)"
 Class			SMG
