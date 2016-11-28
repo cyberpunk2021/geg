@@ -87581,7 +87581,7 @@ DirtResource	70000
 MisfireProb		0.0019
 HeatCapacity	30
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		300
@@ -87620,7 +87620,7 @@ DirtResource	70000
 MisfireProb		0.0019
 HeatCapacity	30
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		300
@@ -87672,8 +87672,8 @@ ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
 ShootSound		"Weapon\Shoot\HK MSG-90A1.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "PSG"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	0
