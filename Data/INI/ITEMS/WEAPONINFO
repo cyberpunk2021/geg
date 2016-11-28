@@ -57351,7 +57351,7 @@ HANDS			ahtRifle
 
 ///////------------
 
-ITEM "Assault Rifle AR-10B"
+ITEM "Assault Rifle Predatar"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3500
@@ -57371,7 +57371,7 @@ MaxRange		275
 EffectiveRange	136
 RangeCurvature	2
 Balance			0.7
-Unfold			"Assault Rifle AR-10B FG"
+Unfold			"Assault Rifle Predatar folded"
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SR-25_slide.wav"
@@ -57390,7 +57390,7 @@ ACTOR			"Items\laruepredatar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Assault Rifle AR-10B FG"
+ITEM "Assault Rifle Predatar folded"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3500
@@ -57410,7 +57410,7 @@ MaxRange		275
 EffectiveRange	121
 RangeCurvature	2
 Balance			0.7
-Unfold			"Assault Rifle AR-10B"
+Unfold			"Assault Rifle Predatar"
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SR-25_slide.wav"
