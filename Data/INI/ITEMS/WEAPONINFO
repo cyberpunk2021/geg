@@ -51052,13 +51052,13 @@ ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\G3.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks ILauncher
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "HK MP5"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
-ATT ILauncher	1 "hk" blocks Bipod and Bayonet
-ATT Bayonet		1 "HK" blocks Silencer and ILauncher
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Laser and Light and Silencer
+ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "MSG-90"
 StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\hkcetme.act"
@@ -51759,7 +51759,7 @@ ShootSound		"Weapon\Shoot\HK53_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		1 "G3Bipod"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -51798,7 +51798,7 @@ ShootSound		"Weapon\Shoot\HK53_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		1 "G3Bipod"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
