@@ -51225,7 +51225,7 @@ ShootSound		"Weapon\Shoot\G3_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		1 "G3Bipod"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -51264,7 +51264,7 @@ ShootSound		"Weapon\Shoot\G3_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		1 "G3Bipod"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
