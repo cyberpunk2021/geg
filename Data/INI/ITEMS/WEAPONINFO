@@ -68708,7 +68708,7 @@ StdPlug			"Rifle ammo clip (IMBEL/20)"
 StdPlug			"fn_falia2556_butt"
 ACTOR			"Items\ia2CQC762.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle IMBEL IA2 CQC (7.62mm) folded"
 Class			Rifle
@@ -68747,7 +68747,7 @@ StdPlug			"Rifle ammo clip (IMBEL/20)"
 StdPlug			"fn_falia2556_butt_folded"
 ACTOR			"Items\ia2CQC762.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle IMBEL IA2C (7.62mm)"
 Class			Rifle
