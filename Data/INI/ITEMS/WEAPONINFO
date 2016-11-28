@@ -88033,7 +88033,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M24_Scope"
 ATT Bipod		1 "SniperBipod"
-ATT Silencer	2 "5)8-24""7,62 Sniper Rifle Suppressor"
+ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
