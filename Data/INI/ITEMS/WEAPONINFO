@@ -87514,37 +87514,13 @@ ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\HK53_fire.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bayonet
-and
-ILauncher
-ATT Light		1 "Barrel Mount"
-blocks
-Bayonet
-and
-ILauncher
+ATT Laser		1 "Barrel Mount" blocks ILauncher
+ATT Light		1 "Barrel Mount" blocks ILauncher
 ATT Scope		1 "HK MP5"
-ATT Bipod		1 "G3Bipod"
-blocks
-ILauncher
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
-ATT ILauncher	1 "hk"
-blocks
-Bipod
-and
-Laser
-and
-Light
-ATT Bayonet		1 "HK"
-blocks
-Silencer
-and
-Laser
-and
-Light
+ATT Bipod		1 "G3Bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer and Laser and Light
+ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "HK 5.56"
 StdPlug			"Rifle ammo clip (HK/25)"
 StdPlug			"G3SG1 bipod folded"
