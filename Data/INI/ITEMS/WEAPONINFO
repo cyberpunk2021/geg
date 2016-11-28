@@ -2592,12 +2592,8 @@ ClipInSound		"Weapon\ClipIn\Mauser_M712_clip_IN.wav"
 ClipOutSound	"Weapon\ClipOut\Mauser_M712_clip_OUT.wav"
 ReLockSound		"Weapon\ReLock\Mauser_M712_slide.wav"
 ShootSound		"Weapon\Shoot\Mauser_M712_fire.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Light
-ATT Light		1 "Barrel Mount"
-blocks
-Laser
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	1 "HandMade"
@@ -17852,11 +17848,11 @@ ClipInSound		"Weapon\ClipIn\Mauser_M712_clip_IN.wav"
 ClipOutSound	"Weapon\ClipOut\Mauser_M712_clip_OUT.wav"
 ReLockSound		"Weapon\ReLock\Mauser_M712_slide.wav"
 ShootSound		"Weapon\Shoot\Mauser_M712_fire.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "HandMade"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M712"
