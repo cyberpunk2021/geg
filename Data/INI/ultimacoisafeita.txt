@@ -1975,7 +1975,7 @@ fazer 32 acp e 380 acp algeira box
 fazer lapua ammo boxes
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 criar Prvi (7.62x39mm)
-converstar iteminfo sealed crate, 600 balas ao inves de 500
+consertar iteminfo sealed crate, 600 balas ao inves de 500
 
 "fnfalnova_dsa_stock"
 "fnfalnova_dsa_stock_folded"
@@ -2070,8 +2070,23 @@ converstar iteminfo sealed crate, 600 balas ao inves de 500
 "30-06 Silencer"
 "Carabine M712 (7.63mm)"
 
-ATT Light		1 "built-in"
-StdPlug			"MP5 Flashlight"
+
+
+
+
+++++++++++++++++++++
+
+"Sniper Rifle HK SR9 TB (7.62x51mm)"
+"Sniper Rifle HK SR9TC TB (7.62x51mm)"
+"Chain-gun HK21e TB (7.62x51mm)"
+"Chain-gun HK23e TB (5.56x45mm)"
+"Assault Rifle AK 4 (7.62x51mm)"
+"Rifle ammo clip (CETME/20)"
+
+
+"SR9 threaded barrel"
+"HK21 threaded barrel"
+"HK23 threaded barrel"
 ++++++++++++++++++++
 
 imbel rec

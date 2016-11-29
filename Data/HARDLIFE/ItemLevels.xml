@@ -528,7 +528,9 @@
   <item level="6">Assault Rifle CAR-15 (5.56mm)</item>
   <item level="9">Sniper Rifle Dragunov SVD (7.62x54mm)</item>
   <item level="9">Sniper Rifle HK G3SG1 (7.62x51mm)</item>
+  <item level="9">Sniper Rifle HK SR9 TB (7.62x51mm)</item>
   <item level="9">Sniper Rifle HK SR9 (7.62x51mm)</item>
+  <item level="9">Sniper Rifle HK SR9TC TB (7.62x51mm)</item>
   <item level="9">Sniper Rifle HK SR9TC (7.62x51mm)</item>
   <item level="11">Sniper Rifle HK MSG-90A1 (7.62x51mm)</item>
   <item level="11">Sniper Rifle HK PSG-1 (7.62x51mm)</item>
@@ -1381,7 +1383,9 @@
   <item level="1">HK Integrated Bipod</item>
   <item level="8">Ammo box (HK 7.62/150)</item>
   <item level="7">Ammo box (HK 5.56/150)</item>
+  <item level="10">Chain-gun HK21e TB (7.62x51mm)</item>
   <item level="10">Chain-gun HK21e (7.62x51mm)</item>
+  <item level="9">Chain-gun HK23e TB (5.56x45mm)</item>
   <item level="9">Chain-gun HK23e (5.56x45mm)</item>
   <item level="9">HK23 barrel</item>
   <item level="9">HK21 barrel</item>
@@ -2986,10 +2990,12 @@
   <item level="9">Assault Rifle DaewooK2 (5.56mm) folded</item>
   <item level="10">Assault Rifle DaewooK2R (5.56mm)</item>
   <item level="10">Assault Rifle DaewooK2R (5.56mm) folded</item>
-  <item level="5">Assault Rifle CETME L (5.56)</item>
-  <item level="6">Assault Rifle CETME LC (5.56)</item>
-  <item level="6">Assault Rifle CETME LC (5.56) folded</item>
+  <item level="6">Assault Rifle CETME L (5.56)</item>
+  <item level="5">Assault Rifle CETME LC (5.56)</item>
+  <item level="5">Assault Rifle CETME LC (5.56) folded</item>
+  <item level="4">Rifle ammo clip (CETME/20)</item>
   <item level="6">Assault Rifle CETME (7.62x51mm)</item>
+  <item level="7">Assault Rifle AK 4 (7.62x51mm)</item>
   <item level="7">Assault Rifle AK 4B (7.62x51mm)</item>
   <item level="6">HK MC51 S (7.62x51mm)</item>
   <item level="6">HK MC51 (7.62x51mm)</item>
@@ -4874,5 +4880,8 @@
   <item level="5">Rifle ammo clip (ROMAT/20)</item>
   <item level="6">Double rifle ammo clip (ROMAT/40)</item>
   <item level="2">MP5 Flashlight</item>
+  <item level="10">SR9 threaded barrel</item>
+  <item level="10">HK23 threaded barrel</item>
+  <item level="10">HK21 threaded barrel</item>
   <item level="2">Carabine M712 (7.63mm)</item>
 </root>

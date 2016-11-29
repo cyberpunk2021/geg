@@ -5474,6 +5474,12 @@ USEPREFIX  ""
 IMAGE  "msg90-20ammo-double.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
+CLIP  "Rifle ammo clip (CETME/20)""7.62υ51 μμ""CETME"20 280 "None"1000 
+ACTOR  "Items\hkg3mag.act"
+USEPREFIX  ""
+IMAGE  "msg90-20ammo.e5b"
+DEFAMMO  "7.62x51 FMJ Ball"
+
 CLIP  "Rifle ammo clip (M14/10)""7.62υ51 μμ""M14"10 204 "None"1000 
 ACTOR  "Items\m14_clip10.act"
 USEPREFIX  ""

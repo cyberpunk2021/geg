@@ -51035,8 +51035,8 @@ ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet and ILauncher
 ATT ILauncher	1 "hk" blocks Bipod and Laser and Light and Silencer
 ATT Bayonet		1 "HK" blocks Silencer
-ATT Magazine	1 "MSG-90"
-StdPlug			"Rifle ammo clip (HK/20)"
+ATT Magazine	1 "CETME"
+StdPlug			"Rifle ammo clip (CETME/20)"
 ACTOR			"Items\hkcetme.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -51078,18 +51078,55 @@ ACTOR			"Items\hkg3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle AK 4 (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			4500
+PrepareTime		0.46
+SingleFireTime	0.84
+BurstFireTime	0.068
+SpeedModifier	1.04
+Resource		2000
+DirtResource	210000
+MisfireProb		0.0022
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	180
+RangeCurvature	1.5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3_fire.wav"
+ATT Laser		1 "Barrel Mount" blocks ILauncher
+ATT Light		1 "Barrel Mount" blocks ILauncher
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "G3Bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Laser and Light and Silencer
+ATT Bayonet		1 "HK" blocks Silencer
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+ACTOR			"Items\hkg3.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Assault Rifle AK 4B (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
-Weight			4250
+Weight			4650
 PrepareTime		0.46
-SingleFireTime	0.81
+SingleFireTime	0.86
 BurstFireTime	0.068
-SpeedModifier	1.05
-Resource		2100
-DirtResource	200000
+SpeedModifier	1.04
+Resource		2000
+DirtResource	210000
 MisfireProb		0.0022
-HeatCapacity	60
+HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
@@ -87607,6 +87644,45 @@ ACTOR			"Items\hksr9.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
+ITEM "Sniper Rifle HK SR9 TB (7.62x51mm)"
+Class			Sniper
+Caliber			"7.62υ51 μμ"
+Weight			4800
+PrepareTime		0.61
+SingleFireTime	0.89
+BurstFireTime	0.066
+SpeedModifier	1.07
+Resource		2000
+DirtResource	70000
+MisfireProb		0.0019
+HeatCapacity	30
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	214
+RangeCurvature	2
+Balance			0.27
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "G3Bipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3SG1 bipod folded"
+StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
+ACTOR			"Items\hksr9tb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Sniper Rifle HK SR9TC (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
@@ -87643,6 +87719,45 @@ StdPlug			"Rifle ammo clip (HK/20)"
 StdPlug			"G3SG1 bipod folded"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
 ACTOR			"Items\hksr9tc.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Sniper Rifle HK SR9TC TB (7.62x51mm)"
+Class			Sniper
+Caliber			"7.62υ51 μμ"
+Weight			4800
+PrepareTime		0.61
+SingleFireTime	0.89
+BurstFireTime	0.066
+SpeedModifier	1.07
+Resource		2000
+DirtResource	70000
+MisfireProb		0.0019
+HeatCapacity	30
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	214
+RangeCurvature	2
+Balance			0.27
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "G3Bipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3SG1 bipod folded"
+StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
+ACTOR			"Items\hksr9tctb.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -92367,6 +92482,44 @@ ACTOR			"Items\hk23.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
+ITEM "Chain-gun HK23e TB (5.56x45mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			8790
+PrepareTime		0.60
+SingleFireTime	0.75
+BurstFireTime	0.08
+SpeedModifier	1.12
+Resource		5100
+DirtResource	570000
+MisfireProb		0.003
+HeatCapacity	200
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		270
+EffectiveRange	164
+RangeCurvature	3.1
+Balance			0.4
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\Mini-14_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "built-in"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "hk23"
+StdPlug			"Ammo box (HK 5.56/150)"
+StdPlug			"HK Integrated Bipod"
+ACTOR			"Items\hk23tb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Machinegun L86 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
@@ -94070,6 +94223,44 @@ ATT Magazine	1 "HK21"
 StdPlug			"Ammo box (HK 7.62/150)"
 StdPlug			"HK Integrated Bipod"
 ACTOR			"Items\hk23.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Chain-gun HK21e TB (7.62x51mm)"
+Class			Machinegun
+Caliber			"7.62υ51 μμ"
+Weight			9120
+PrepareTime		0.64
+SingleFireTime	0.83
+BurstFireTime	0.090
+SpeedModifier	1.08
+Resource		5000
+DirtResource	540000
+MisfireProb		0.003
+HeatCapacity	160
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		300
+EffectiveRange	165
+RangeCurvature	3.0
+Balance			0.39
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\G3_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "built-in"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK21"
+StdPlug			"Ammo box (HK 7.62/150)"
+StdPlug			"HK Integrated Bipod"
+ACTOR			"Items\hk23tb.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 

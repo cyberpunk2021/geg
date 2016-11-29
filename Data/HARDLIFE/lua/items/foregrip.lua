@@ -15,12 +15,7 @@
  ["Submachine-gun UMP40 FG (.40 S&W)"] = "Submachine-gun UMP40 (.40 S&W)",
  ["Submachine-gun UMP40 FG (.40 S&W) folded"] = "Submachine-gun UMP40 (.40 S&W) folded",
  
- ["CPW NOFG (9mm)"] = "CPW (9mm)",
- ["CPW NOFG (9mm) folded"] = "CPW (9mm) folded",
- ["CPW NOFG (4.6)"] = "CPW (4.6)",
- ["CPW NOFG (4.6) folded"] = "CPW (4.6) folded",
- ["CPW NOFG (5.7)"] = "CPW (5.7)",
- ["CPW NOFG (5.7) folded"] = "CPW (5.7) folded",
+
  
 
 }
@@ -85,6 +80,10 @@ local Pistols4Barrels = {
 ["Pistol Glock 17 TB (9mm)"] = "Glock-17 threaded barrel",
 ["Pistol Glock 21 TB (.45 ACP)"] ="Glock-21 threaded barrel",
 ["Pistol Glock 22 TB (.40 S&W)"] = "Glock-22 threaded barrel",  
+["Sniper Rifle HK SR9 TB (7.62x51mm)"] = "SR9 threaded barrel",
+["Sniper Rifle HK SR9TC TB (7.62x51mm)"] = "SR9 threaded barrel",
+["Chain-gun HK21e TB (7.62x51mm)"] = "HK21 threaded barrel",
+["Chain-gun HK23e TB (5.56x45mm)"] = "HK23 threaded barrel",
 }
 
 function CanDetachPistolTB(item)
@@ -136,12 +135,20 @@ end
 AddItemCombineHandler("Glock-17 threaded barrel", "Pistol Glock 17 (9mm)", AttachForegrip)
 AddItemCombineHandler("Glock-21 threaded barrel", "Pistol Glock 21 (.45 ACP)", AttachForegrip)
 AddItemCombineHandler("Glock-22 threaded barrel", "Pistol Glock 22 (.40 S&W)", AttachForegrip)
+AddItemCombineHandler("SR9 threaded barrel", "Sniper Rifle HK SR9 (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("SR9 threaded barrel", "Sniper Rifle HK SR9TC (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("HK21 threaded barrel", "Chain-gun HK21e (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("HK23 threaded barrel", "Chain-gun HK23e (5.56x45mm)", AttachForegrip)
 
 local action_detach_barrel = _t"lang/lua/fptb/detach_barrel"
 
 AddItemContextMenu("Pistol Glock 17 TB (9mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Pistol Glock 21 TB (.45 ACP)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Pistol Glock 22 TB (.40 S&W)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
+AddItemContextMenu("Sniper Rifle HK SR9 TB (7.62x51mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
+AddItemContextMenu("Sniper Rifle HK SR9TC TB (7.62x51mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
+AddItemContextMenu("Chain-gun HK21e TB (7.62x51mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
+AddItemContextMenu("Chain-gun HK23e TB (5.56x45mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 
 -- установка тактической рукоятки
 AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933", AttachForegrip)
@@ -159,12 +166,7 @@ AddItemCombineHandler("Tactical grip", "Submachine-gun UMP45 FG (.45ACP) folded"
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 FG (.40 S&W)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 FG (.40 S&W) folded", AttachForegrip)
 
-AddItemCombineHandler("Tactical grip", "CPW (9mm)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "CPW (9mm) folded", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "CPW (4.6)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "CPW (4.6) folded", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "CPW (5.7)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "CPW (5.7) folded", AttachForegrip)
+
 
 
 AddItemCombineHandler("APS Belt", "Pistol APS (9x18mm) folded", AttachStock)
@@ -188,9 +190,4 @@ AddItemContextMenu("Submachine-gun UMP40 (.40 S&W)", action_detach_handle, Detac
 AddItemContextMenu("Submachine-gun UMP40 (.40 S&W) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun HK UMP45 (.45 ACP)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun HK UMP45 (.45 ACP) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("CPW (5.7)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("CPW (5.7) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("CPW (4.6)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("CPW (4.6) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("CPW (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("CPW (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+

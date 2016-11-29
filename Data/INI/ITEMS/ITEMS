@@ -964,7 +964,22 @@ None  "Items\glock22_barell.act""threaded_barrel.e5b"
 130
 
 "Taurus PT100 threaded barrel"
-None  
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+140
+
+"SR9 threaded barrel"
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+140
+
+"HK23 threaded barrel"
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+110
+
+"HK21 threaded barrel"
+None
 None  "Items\pt100_barell.act""threaded_barrel.e5b"
 140
 
@@ -982,7 +997,6 @@ None  "Items\aac_kit.act""aac_kit.e5b"
 None  
 Vest_Smersh  "Items\tool3.act""tool3.e5b"
 10000
-
 
 "PackedAmmoBox Palinero (9x18/500)"
 None  
