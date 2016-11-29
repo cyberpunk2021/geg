@@ -5,6 +5,7 @@
  ["Assault Rifle XM-15-E2S (5.56mm)"] = "Assault Rifle XM-15-E2S (5.56mm) asalto",
  ["Assault Rifle AR-15 CQB (.300 BLK)"] = "Assault Rifle AR-15 CQB AG (.300 BLK)",
  ["Assault Rifle M4A1 CQB (.300 BLK)"] = "Assault Rifle M4A1 CQB AG (.300 BLK)",
+ ["Assault Rifle DSA-58OSW (7.62x51mm)"] = "Assault Rifle DSA-58OSW FG (7.62x51mm)",
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
  ["Pistol Glock 21 (.45 ACP)"] = "Pistol Glock 21 TB (.45 ACP)",
  ["Pistol Glock 22 (.40 S&W)"] = "Pistol Glock 22 TB (.40 S&W)",
@@ -157,6 +158,7 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", Attac
 AddItemCombineHandler("Tactical grip", "Assault Rifle XM-15-E2S (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm)", AttachForegrip)
 
 
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 FG (9mm)", AttachForegrip)
@@ -182,6 +184,7 @@ AddItemContextMenu("Assault Rifle M16A4 (5.56mm) asalto", action_detach_handle, 
 AddItemContextMenu("Assault Rifle XM-15-E2S (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 
 
 AddItemContextMenu("Submachine-gun UMP9 (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
