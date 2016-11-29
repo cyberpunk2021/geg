@@ -1657,9 +1657,13 @@ X  0
 Y  0 
 Z  0 
 "Assault Rifle XM-15-E2S (5.56mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"Assault Rifle XM-15-E2S (5.56mm) folded"
+X  0
+Y  -90
+Z  0
 "Assault Rifle XM-15-E2S (5.56mm) asalto"
 X  0 
 Y  -90 
@@ -3956,9 +3960,17 @@ X  0
 Y  0 
 Z  0 
 "Assault Rifle Type 56 (7.62x39mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"Assault Rifle Type 56 D (7.62x39mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle Type 56 D (7.62x39mm) folded"
+X  0
+Y  -90
+Z  0
 "Submachine-gun AEK919K (9x18mm)"
 X  0 
 Y  0 
@@ -6768,9 +6780,13 @@ X  0
 Y  -90 
 Z  0 
 "Submachine-gun Colt SMG (.45 ACP)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"Submachine-gun Colt SMG (.45 ACP) folded"
+X  0
+Y  -90
+Z  0
 "Assault Rifle AKMN (7.62x39mm)"
 X  0 
 Y  -90 
@@ -6820,9 +6836,17 @@ X  0
 Y  0 
 Z  0 
 "Submachine-gun MAT49 (9mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"Submachine-gun M3A1 (9mm)"
+X  0
+Y  -90
+Z  0
+"Submachine-gun M3A1 (9mm) folded"
+X  0
+Y  -90
+Z  0
 "mat"
 X  0 
 Y  0 
@@ -7795,9 +7819,17 @@ X  0
 Y  -90 
 Z  0 
 "Assault Rifle G41 (5.56mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"Assault Rifle G41 (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"slr"
+X  0
+Y  -90
+Z  0
 "Revolver Colt Python SB (.357 Magnum)"
 X  0 
 Y  -90 
@@ -8354,8 +8386,12 @@ Y  -90
 Z  0
 
 "Sniper Rifle SVK-12 (7.62x54mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Sniper Rifle SVK-12 (7.62x54mm) folded"
+X  0
+Y  -90
 Z  0
 
 "Sniper Rifle SVK-12 (308)"
