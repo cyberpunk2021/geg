@@ -484,6 +484,9 @@
   <item level="11">Chain-gun M-60 (7.62x51mm)</item>
   <item level="1">Colt Python</item>
   <item level="6">Assault Rifle DSA-58OSW (7.62x51mm)</item>
+  <item level="6">Assault Rifle DSA-58OSW (7.62x51mm) folded</item>
+  <item level="6">Assault Rifle DSA-58OSW FG (7.62x51mm)</item>
+  <item level="6">Assault Rifle DSA-58OSW FG (7.62x51mm) folded</item>
   <item level="8">Assault Rifle FN FAL 50.00 (7.62x51mm)</item>
   <item level="6">Assault Rifle G36C (5.56mm)</item>
   <item level="9">Assault Rifle G36E (5.56mm)</item>
@@ -1675,7 +1678,6 @@
   <item level="8">Assault Rifle G36KE (5.56mm) folded</item>
   <item level="9">Assault Rifle G36E (5.56mm) folded</item>
   <item level="6">Assault Rifle G36C (5.56mm) folded</item>
-  <item level="6">Assault Rifle DSA-58OSW (7.62x51mm) folded</item>
   <item level="6">Assault Rifle AK-104 (7.62x39mm) folded</item>
   <item level="5">Assault Rifle AKS-74U (5.45mm) folded</item>
   <item level="6">Assault Rifle AKSB-74U (5.45mm) folded</item>

@@ -67523,6 +67523,84 @@ ACTOR			"Items\fnfalnova_dsa.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle DSA-58OSW FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3400
+PrepareTime		0.29
+SingleFireTime	0.74
+BurstFireTime	0.075
+SpeedModifier	0.96
+Resource		1700
+DirtResource	170000
+MisfireProb		0.007
+HeatCapacity	44
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	100
+RangeCurvature	3
+Balance			0.62
+Unfold			"Assault Rifle DSA-58OSW (7.62x51mm) FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "FNFAL""DSA-58OSW"
+StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
+StdPlug			"fnfalnova_modern_stock"
+ACTOR			"Items\fnfalnova_dsafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle DSA-58OSW FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3400
+PrepareTime		0.25
+SingleFireTime	0.74
+BurstFireTime	0.075
+SpeedModifier	0.96
+Resource		1700
+DirtResource	170000
+MisfireProb		0.007
+HeatCapacity	44
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	80
+RangeCurvature	3
+Balance			0.62
+Unfold			"Assault Rifle DSA-58OSW (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "FNFAL""DSA-58OSW"
+StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
+StdPlug			"fnfalnova_modern_stock_folded"
+ACTOR			"Items\fnfalnova_dsafg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
 ITEM "Assault Rifle Vektor R1 (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"

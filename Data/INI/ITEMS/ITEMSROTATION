@@ -2911,9 +2911,21 @@ X  0
 Y  -90 
 Z  0 
 "Assault Rifle DSA-58OSW (7.62x51mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"Assault Rifle DSA-58OSW (7.62x51mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle DSA-58OSW FG (7.62x51mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle DSA-58OSW FG (7.62x51mm) folded"
+X  0
+Y  -90
+Z  0
 "Assault Rifle FN FAL 50.00 (7.62x51mm)"
 X  0 
 Y  -90 
@@ -7031,11 +7043,7 @@ Z  0
 "Assault Rifle AK-104 (7.62x39mm) folded"
 X  0 
 Y  -90 
-Z  0 
-"Assault Rifle DSA-58OSW (7.62x51mm) folded"
-X  0 
-Y  -90 
-Z  0 
+Z  0
 "Assault Rifle G36C (5.56mm) folded"
 X  0 
 Y  -90 
