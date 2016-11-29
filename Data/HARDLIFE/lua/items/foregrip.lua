@@ -6,19 +6,16 @@
  ["Assault Rifle AR-15 CQB (.300 BLK)"] = "Assault Rifle AR-15 CQB AG (.300 BLK)",
  ["Assault Rifle M4A1 CQB (.300 BLK)"] = "Assault Rifle M4A1 CQB AG (.300 BLK)",
  ["Assault Rifle DSA-58OSW (7.62x51mm)"] = "Assault Rifle DSA-58OSW FG (7.62x51mm)",
+ ["Assault Rifle DSA-58OSW (7.62x51mm) folded"] = "Assault Rifle DSA-58OSW FG (7.62x51mm) folded",
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
  ["Pistol Glock 21 (.45 ACP)"] = "Pistol Glock 21 TB (.45 ACP)",
  ["Pistol Glock 22 (.40 S&W)"] = "Pistol Glock 22 TB (.40 S&W)",
- ["Submachine-gun UMP9 FG (9mm)"] = "Submachine-gun UMP9 (9mm)",
- ["Submachine-gun UMP9 FG (9mm) folded"] = "Submachine-gun UMP9 (9mm) folded",
- ["Submachine-gun UMP45 FG (.45ACP)"] = "Submachine-gun HK UMP45 (.45 ACP)",
- ["Submachine-gun UMP45 FG (.45ACP) folded"] = "Submachine-gun HK UMP45 (.45 ACP) folded",
- ["Submachine-gun UMP40 FG (.40 S&W)"] = "Submachine-gun UMP40 (.40 S&W)",
- ["Submachine-gun UMP40 FG (.40 S&W) folded"] = "Submachine-gun UMP40 (.40 S&W) folded",
- 
-
- 
-
+ ["Submachine-gun UMP9 (9mm)"] = "Submachine-gun UMP9 FG (9mm)",
+ ["Submachine-gun UMP9 (9mm) folded"] = "Submachine-gun UMP9 FG (9mm) folded",
+ ["Submachine-gun HK UMP45 (.45 ACP)"] = "Submachine-gun UMP45 FG (.45ACP)",
+ ["Submachine-gun HK UMP45 (.45 ACP) folded"] = "Submachine-gun UMP45 FG (.45ACP) folded",
+ ["Submachine-gun UMP40 (.40 S&W)"] = "Submachine-gun UMP40 FG (.40 S&W)",
+ ["Submachine-gun UMP40 (.40 S&W) folded"] = "Submachine-gun UMP40 FG (.40 S&W) folded",
 }
 
 -- проверяем что доступно снятие тактической рукоятки
@@ -152,6 +149,7 @@ AddItemContextMenu("Chain-gun HK21e TB (7.62x51mm)", action_detach_barrel, Detac
 AddItemContextMenu("Chain-gun HK23e TB (5.56x45mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 
 -- установка тактической рукоятки
+-- Attach Frontgrip / Rifle
 AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", AttachForegrip)
@@ -159,18 +157,17 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle XM-15-E2S (5.56mm)", Attac
 AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm) folded", AttachForegrip)
 
+-- Attach Frontgrip / SMG
+AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK UMP45 (.45 ACP)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK UMP45 (.45 ACP) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 (.40 S&W)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 (.40 S&W) folded", AttachForegrip)
 
-AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 FG (9mm)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 FG (9mm) folded", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Submachine-gun UMP45 FG (.45ACP)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Submachine-gun UMP45 FG (.45ACP) folded", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 FG (.40 S&W)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 FG (.40 S&W) folded", AttachForegrip)
-
-
-
-
+-- Pistol with holster stock
 AddItemCombineHandler("APS Belt", "Pistol APS (9x18mm) folded", AttachStock)
 AddItemCombineHandler("Mauser Belt", "Pistol M712 (7.62x25mm) folded", AttachStock)
 AddItemCombineHandler("Mauser Belt", "Pistol Astra 900 (Largo) folded", AttachStock)
@@ -178,6 +175,7 @@ AddItemCombineHandler("VP70 Belt", "Pistol VP70 (9x19 mm) folded", AttachStock)
 
 local action_detach_handle = _t"lang/lua/fptb/detach_handle"
 
+-- Detach Frontgrip / Rifle
 AddItemContextMenu("Assault Rifle Colt Commando 933 asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A4 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
@@ -185,12 +183,12 @@ AddItemContextMenu("Assault Rifle XM-15-E2S (5.56mm) asalto", action_detach_hand
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 
-
-AddItemContextMenu("Submachine-gun UMP9 (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Submachine-gun UMP9 (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Submachine-gun UMP40 (.40 S&W)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Submachine-gun UMP40 (.40 S&W) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Submachine-gun HK UMP45 (.45 ACP)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Submachine-gun HK UMP45 (.45 ACP) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-
+-- Detach Frontgrip / SMG
+AddItemContextMenu("Submachine-gun UMP9 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun UMP9 FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun UMP40 FG (.40 S&W)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun UMP40 FG (.40 S&W) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun UMP45 FG (.45ACP)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun UMP45 FG (.45ACP) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)

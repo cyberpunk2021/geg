@@ -24200,7 +24200,7 @@ Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2300
 PrepareTime		0.27
-SingleFireTime	0.62
+SingleFireTime	0.60
 BurstFireTime	0.092
 SpeedModifier	1.11
 Resource		2100
@@ -24210,7 +24210,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			2
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	94
 RangeCurvature	3
@@ -24230,16 +24230,16 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"Ump45butt"
-ACTOR			"Items\umpnova9.act"
+ACTOR			"Items\umpnova9fg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun UMP9 FG (9mm) folded"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2300
 PrepareTime		0.22
-SingleFireTime	0.62
+SingleFireTime	0.60
 BurstFireTime	0.092
 SpeedModifier	1.11
 Resource		2100
@@ -24249,7 +24249,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			2
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	74
 RangeCurvature	3
@@ -24269,9 +24269,9 @@ ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"Ump45butt_folded"
-ACTOR			"Items\umpnova9.act"
+ACTOR			"Items\umpnova9fg.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun UMP9 (9mm)"
 Class			SMG
@@ -24301,17 +24301,16 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Ump45butt"
 ACTOR			"Items\umpnova9.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun UMP9 (9mm) folded"
 Class			SMG
@@ -24341,24 +24340,23 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Ump45butt_folded"
 ACTOR			"Items\umpnova9.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun UMP40 FG (.40 S&W)"
 Class			SMG
 Caliber			".40 S&W"
 Weight			2300
 PrepareTime		0.28
-SingleFireTime	0.66
+SingleFireTime	0.64
 BurstFireTime	0.092
 SpeedModifier	1.11
 Resource		2100
@@ -24368,7 +24366,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			2
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	94
 RangeCurvature	3
@@ -24388,16 +24386,16 @@ ATT Bayonet		0
 ATT Magazine	1 "UMP40/30"
 StdPlug			"SMG ammo clip (UMP40/30)"
 StdPlug			"Ump45butt"
-ACTOR			"Items\umpnova.act"
+ACTOR			"Items\umpnovafg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun UMP40 FG (.40 S&W) folded"
 Class			SMG
 Caliber			".40 S&W"
 Weight			2300
 PrepareTime		0.23
-SingleFireTime	0.66
+SingleFireTime	0.64
 BurstFireTime	0.092
 SpeedModifier	1.11
 Resource		2100
@@ -24407,7 +24405,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			2
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	74
 RangeCurvature	3
@@ -24427,9 +24425,9 @@ ATT Bayonet		0
 ATT Magazine	1 "UMP40/30"
 StdPlug			"SMG ammo clip (UMP40/30)"
 StdPlug			"Ump45butt_folded"
-ACTOR			"Items\umpnova.act"
+ACTOR			"Items\umpnovafg.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun UMP40 (.40 S&W)"
 Class			SMG
@@ -24459,17 +24457,16 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "UMP40"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "UMP40/30"
 StdPlug			"SMG ammo clip (UMP40/30)"
 StdPlug			"Ump45butt"
-StdPlug			"Frontgrip"
 ACTOR			"Items\umpnova.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun UMP40 (.40 S&W) folded"
 Class			SMG
@@ -24499,24 +24496,23 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "UMP40"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "UMP40/30"
 StdPlug			"SMG ammo clip (UMP40/30)"
 StdPlug			"Ump45butt_folded"
-StdPlug			"Frontgrip"
 ACTOR			"Items\umpnova.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun UMP45 FG (.45ACP)"
 Class			SMG
 Caliber			".45 ACP"
 Weight			2500
 PrepareTime		0.28
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.1
 SpeedModifier	1.11
 Resource		2100
@@ -24526,7 +24522,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			2
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	94
 RangeCurvature	3
@@ -24546,16 +24542,16 @@ ATT Bayonet		0
 ATT Magazine	1 "UMP45/30"
 StdPlug			"SMG ammo clip (UMP45/30)"
 StdPlug			"Ump45butt"
-ACTOR			"Items\umpnova.act"
+ACTOR			"Items\umpnovafg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun UMP45 FG (.45ACP) folded"
 Class			SMG
 Caliber			".45 ACP"
 Weight			2500
 PrepareTime		0.23
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.1
 SpeedModifier	1.11
 Resource		2100
@@ -24565,7 +24561,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			2
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	74
 RangeCurvature	3
@@ -24585,9 +24581,9 @@ ATT Bayonet		0
 ATT Magazine	1 "UMP45/30"
 StdPlug			"SMG ammo clip (UMP45/30)"
 StdPlug			"Ump45butt_folded"
-ACTOR			"Items\umpnova.act"
+ACTOR			"Items\umpnovafg.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 /////--------------
 
@@ -24619,15 +24615,14 @@ ShootSound		"Weapon\Shoot\mac10.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "UMP45"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "UMP45/30"
 StdPlug			"SMG ammo clip (UMP45/30)"
 StdPlug			"Ump45butt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\ump45.act"
+ACTOR			"Items\umpnova.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -24659,15 +24654,14 @@ ShootSound		"Weapon\Shoot\mac10.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod 1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "UMP45"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "UMP45/30"
 StdPlug			"SMG ammo clip (UMP45/30)"
 StdPlug			"Ump45butt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\ump45.act"
+ACTOR			"Items\umpnova.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
