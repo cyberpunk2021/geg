@@ -62534,6 +62534,84 @@ ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "SW MP15 FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2500
+PrepareTime		0.32
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		19000
+DirtResource	190000
+MisfireProb		0.003
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	113
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\SWMP15PSXFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "SW MP15 FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2500
+PrepareTime		0.32
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		19000
+DirtResource	190000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	98
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\SWMP15PSXFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "SW MP15 LB"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
@@ -63009,6 +63087,84 @@ StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "SW MP15 300BLK FG"
+Class			Rifle
+Caliber			".300 AAC Blackout"
+Weight			2500
+PrepareTime		0.32
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		19000
+DirtResource	190000
+MisfireProb		0.003
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	113
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 300BLK FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 ".300 BLK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "BADGER"
+StdPlug			"Magpul PMAG Window (Badger/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\SWMP15PSXFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "SW MP15 300BLK FG folded"
+Class			Rifle
+Caliber			".300 AAC Blackout"
+Weight			2500
+PrepareTime		0.32
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		19000
+DirtResource	190000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	98
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 300BLK FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 ".300 BLK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "BADGER"
+StdPlug			"Magpul PMAG Window (Badger/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\SWMP15PSXFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "MOE Warrior 300BLK"
 Class			Rifle

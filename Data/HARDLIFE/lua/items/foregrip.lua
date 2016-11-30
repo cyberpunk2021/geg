@@ -7,8 +7,12 @@
  ["Assault Rifle M4A1 CQB (.300 BLK)"] = "Assault Rifle M4A1 CQB AG (.300 BLK)",
  ["Assault Rifle DSA-58OSW (7.62x51mm)"] = "Assault Rifle DSA-58OSW FG (7.62x51mm)",
  ["Assault Rifle DSA-58OSW (7.62x51mm) folded"] = "Assault Rifle DSA-58OSW FG (7.62x51mm) folded",
+ ["SW MP15 300BLK"] = "SW MP15 300BLK FG",
+ ["SW MP15 300BLK folded"] = "SW MP15 300BLK FG folded",
  ["SW MP15 300BLK CQC"] = "SW MP15 300BLK CQC FG",
  ["SW MP15 300BLK CQC folded"] = "SW MP15 300BLK CQC FG folded",
+ ["SW MP15"] = "SW MP15 FG",
+ ["SW MP15 folded"] = "SW MP15 FG folded",
  ["SW MP15 CQC"] = "SW MP15 CQC FG",
  ["SW MP15 CQC folded"] = "SW MP15 CQC FG folded",
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
@@ -166,8 +170,12 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK)", Att
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "SW MP15 300BLK", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "SW MP15 300BLK folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "SW MP15", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "SW MP15 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 CQC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 CQC folded", AttachForegrip)
 
@@ -196,8 +204,12 @@ AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK)", action_detach_handle
 AddItemContextMenu("Assault Rifle M4A1 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("SW MP15 300BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("SW MP15 300BLK FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("SW MP15 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("SW MP15 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 

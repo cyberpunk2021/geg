@@ -9216,12 +9216,20 @@ X  0
 Y  -90
 Z  0
 "SW MP15"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "SW MP15 folded"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"SW MP15 FG"
+X  0
+Y  -90
+Z  0
+"SW MP15 FG folded"
+X  0
+Y  -90
 Z  0
 "SW MP15 LB"
 X  0 
@@ -13020,13 +13028,21 @@ X  0
 Y  -90
 Z  0
 "SW MP15 300BLK"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
 "SW MP15 300BLK folded"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"SW MP15 300BLK FG"
+X  0
+Y  -90
+Z  0
+"SW MP15 300BLK FG folded"
+X  0
+Y  -90
+Z  0
 "MOE Warrior 300BLK" 
 X  0 
 Y  -90 
