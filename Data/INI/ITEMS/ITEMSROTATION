@@ -12996,13 +12996,21 @@ Y  -90
 Z  0 
 
 "SW MP15 300BLK CQC"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
 "SW MP15 300BLK CQC folded"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
+"SW MP15 300BLK CQC FG"
+X  0
+Y  -90
+Z  0
+"SW MP15 300BLK CQC FG folded"
+X  0
+Y  -90
+Z  0
 "SW MP15 300BLK"
 X  0 
 Y  -90 

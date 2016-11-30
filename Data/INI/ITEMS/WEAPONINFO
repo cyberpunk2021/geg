@@ -62705,7 +62705,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2300
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	0.95
 Resource		1800
@@ -62728,24 +62728,23 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Bipod		1 "WR"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "SW MP15 300BLK CQC folded"
 Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2300
 PrepareTime		0.25
-SingleFireTime	0.67
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	0.95
 Resource		1800
@@ -62768,15 +62767,92 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Bipod		1 "WR"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\swmp15psxCQC.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "SW MP15 300BLK CQC FG"
+Class			Rifle
+Caliber			".300 AAC Blackout"
+Weight			2300
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		1800
+DirtResource	180000
+MisfireProb		0.003
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	98
+RangeCurvature	4
+Balance			0.57
+Unfold			"SW MP15 300BLK CQC FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 ".300 BLK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "BADGER"
+StdPlug			"Magpul PMAG Window (Badger/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\swmp15psxCQCFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "SW MP15 300BLK CQC FG folded"
+Class			Rifle
+Caliber			".300 AAC Blackout"
+Weight			2300
+PrepareTime		0.25
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		1800
+DirtResource	180000
+MisfireProb		0.003
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	83
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 300BLK FG CQC"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 ".300 BLK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "BADGER"
+StdPlug			"Magpul PMAG Window (Badger/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\swmp15psxCQCFG.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -62809,7 +62885,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -62848,7 +62924,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -62887,7 +62963,7 @@ ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -62927,7 +63003,7 @@ ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -62967,7 +63043,7 @@ ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -63007,7 +63083,7 @@ ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -63047,7 +63123,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -63086,7 +63162,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -63125,7 +63201,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -63165,7 +63241,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
@@ -63205,7 +63281,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
+ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "BADGER"
@@ -63244,7 +63320,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
+ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "BADGER"
@@ -63283,7 +63359,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
+ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "BADGER"
@@ -63323,7 +63399,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 300 BLK" blocks Bayonet
+ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "BADGER"
@@ -63363,7 +63439,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
 ATT Bipod		0
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK300"
@@ -63402,7 +63478,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "AK"
 ATT Bipod		0
-ATT Silencer	1 "Supressor - 300 BLK"
+ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK300"
