@@ -285,7 +285,7 @@ BOX  "Ammo box (7.65 FMJ)""7.65 FMJ"50 "Items\765_box.act""320ap_box.e5b"
 BOX  "Ammo box (.32 ACP HP)"".32 ACP HP"50 "Items\cbc32boxmelhor.act""cbcboxinv.e5b"
 BOX  "Ammo box (.32 ACP AP)"".32 ACP AP"50 "Items\32aguila.act""box32aguila.e5b"
 BOX  "Ammo box (.32 ACP FMJ)"".32 ACP FMJ"50 "Items\32federal.act""boxfederalvermelho.e5b"
-BOX  "Ammo box (.32 ACP SP)"".32 ACP Surplus"50 "Items\algeira9mm.act""algeiraboxinv.e5b"
+BOX  "Ammo box (.32 ACP SP)"".32 ACP Surplus"50 "Items\algeira32acp.act""algeiraboxinv.e5b"
 
 BOX  "Ammo box 500 HLA (7.65 FMJ)""7.65 FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
@@ -396,7 +396,7 @@ BOX  "Ammo box (.380 FMJ)"".380 FMJ"50 "Items\380ap_box.act""380ap_box.e5b"
 BOX  "Ammo box (.380 ACP HP)"".380 ACP HP"50 "Items\cbc380boxmelhor.act""cbcboxinv.e5b"
 BOX  "Ammo box (.380 ACP AP)"".380 ACP AP"50 "Items\380rws.act""box380acprws.e5b"
 BOX  "Ammo box (.380 ACP FMJ)"".380 ACP FMJ"50 "Items\380geco.act""box380acp.e5b"
-BOX  "Ammo box (.380 ACP SP)"".380 ACP Surplus"50 "Items\algeira9mm.act""algeiraboxinv.e5b"
+BOX  "Ammo box (.380 ACP SP)"".380 ACP Surplus"50 "Items\algeira380acp.act""algeiraboxinv.e5b"
 
 BOX  "Ammo box 500 HLA (.380 FMJ)"".380 FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
@@ -5995,12 +5995,12 @@ DEFAMMO  "9.3x64mm Brenneke Surplus"
 
 
 //.338
-BOX  "Ammo box FMJ-BT (Lapua/20)"".338 Lapua FMJ-BT"20 "Items\LAPUA_AMMOBOX.ACT""LAPUA_AMMOBOX.E5B"
+BOX  "Ammo box FMJ-BT (Lapua/20)"".338 Lapua FMJ-BT"20 "Items\338lapuaprvi.ACT""boxprvi.E5B"
 
 
-BOX  "Ammo box HP (Lapua/20)"".338 Lapua HP"20 "Items\LAPUA_AMMOBOX.ACT""LAPUA_AMMOBOX.E5B"
+BOX  "Ammo box HP (Lapua/20)"".338 Lapua HP"20 "Items\338lapuanosler.ACT""boxtrophy.E5B"
 
-BOX  "Ammo box AP (Lapua/20)"".338 Lapua AP"20 "Items\LAPUA_AMMOBOX.ACT""LAPUA_AMMOBOX.E5B"
+BOX  "Ammo box AP (Lapua/20)"".338 Lapua AP"20 "Items\338lapuablackhills.ACT""boxblackhills.E5B"
 
 BOX  "Ammo box Surplus (Lapua/20)"".338 Lapua Surplus"20 "Items\algeira338lapua.act""algeiraboxinv.e5b"
 BOX  "Big Ammo box Surplus (LAPUA)"".338 Lapua Surplus"200 "Items\grenadebox_ru.act""grenadebox_ru.e5b"

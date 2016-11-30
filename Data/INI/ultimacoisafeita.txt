@@ -1971,8 +1971,6 @@ t65 handle modelo correto
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
 verificar caixa "Ammo box (7N23)"
-fazer 32 acp e 380 acp algeira box
-fazer lapua ammo boxes
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 criar Prvi (7.62x39mm)
 consertar iteminfo sealed crate, 600 balas ao inves de 500
