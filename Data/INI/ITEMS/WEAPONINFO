@@ -67537,7 +67537,7 @@ MaxRange		250
 EffectiveRange	100
 RangeCurvature	3
 Balance			0.62
-Unfold			"Assault Rifle DSA-58OSW (7.62x51mm) FG folded"
+Unfold			"Assault Rifle DSA-58OSW FG (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
