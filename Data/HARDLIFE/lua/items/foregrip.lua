@@ -9,6 +9,8 @@
  ["Assault Rifle DSA-58OSW (7.62x51mm) folded"] = "Assault Rifle DSA-58OSW FG (7.62x51mm) folded",
  ["SW MP15 300BLK CQC"] = "SW MP15 300BLK CQC FG",
  ["SW MP15 300BLK CQC folded"] = "SW MP15 300BLK CQC FG folded",
+ ["SW MP15 CQC"] = "SW MP15 CQC FG",
+ ["SW MP15 CQC folded"] = "SW MP15 CQC FG folded",
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
  ["Pistol Glock 21 (.45 ACP)"] = "Pistol Glock 21 TB (.45 ACP)",
  ["Pistol Glock 22 (.40 S&W)"] = "Pistol Glock 22 TB (.40 S&W)",
@@ -166,6 +168,8 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm)", At
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "SW MP15 CQC", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "SW MP15 CQC folded", AttachForegrip)
 
 -- Attach Frontgrip / SMG
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm)", AttachForegrip)
@@ -194,6 +198,8 @@ AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm)", action_detach_handl
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("SW MP15 CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("SW MP15 CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 
 -- Detach Frontgrip / SMG
 AddItemContextMenu("Submachine-gun UMP9 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

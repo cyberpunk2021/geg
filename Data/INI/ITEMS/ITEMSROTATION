@@ -9200,12 +9200,20 @@ X  0
 Y  -90 
 Z  0
 "SW MP15 CQC"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "SW MP15 CQC folded"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"SW MP15 CQC FG"
+X  0
+Y  -90
+Z  0
+"SW MP15 CQC FG folded"
+X  0
+Y  -90
 Z  0
 "SW MP15"
 X  0 

@@ -62305,7 +62305,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2300
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	0.95
 Resource		1800
@@ -62328,24 +62328,23 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Frontgrip"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "SW MP15 CQC folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2300
 PrepareTime		0.25
-SingleFireTime	0.67
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	0.95
 Resource		1800
@@ -62368,15 +62367,92 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Frontgrip"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\swmp15psxCQC.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "SW MP15 CQC FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2300
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		1800
+DirtResource	180000
+MisfireProb		0.003
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	98
+RangeCurvature	4
+Balance			0.57
+Unfold			"SW MP15 CQC FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\SWMP15PSXCQCFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "SW MP15 CQC FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2300
+PrepareTime		0.25
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		1800
+DirtResource	180000
+MisfireProb		0.003
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	83
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 CQC FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\SWMP15PSXCQCFG.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
