@@ -62690,6 +62690,84 @@ ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "SW MP15 LB FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2800
+PrepareTime		0.37
+SingleFireTime	0.71
+BurstFireTime	0.08
+SpeedModifier	1.03
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	127
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 LB FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\SWMP15PSXLBFG.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "SW MP15 LB FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2800
+PrepareTime		0.33
+SingleFireTime	0.71
+BurstFireTime	0.08
+SpeedModifier	1.03
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	107
+RangeCurvature	5
+Balance			0.57
+Unfold			"SW MP15 LB FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\SWMP15PSXLBFG.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ///////------------------------
 
 ITEM "AAC Honey Badger"
