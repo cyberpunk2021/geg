@@ -45834,7 +45834,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2440
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -45844,7 +45844,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	99
 RangeCurvature	4
@@ -45874,7 +45874,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2440
 PrepareTime		0.24
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -45884,7 +45884,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	79
 RangeCurvature	4
@@ -55973,7 +55973,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2440
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -55983,7 +55983,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	99
 RangeCurvature	4
@@ -56013,7 +56013,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2440
 PrepareTime		0.25
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -56023,7 +56023,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	84
 RangeCurvature	4
