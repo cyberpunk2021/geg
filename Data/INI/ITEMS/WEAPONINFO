@@ -43024,7 +43024,7 @@ Class			Rifle
 Caliber			".50 Beowulf"
 Weight			2720
 PrepareTime		0.30
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1000
@@ -43034,7 +43034,7 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		145
 EffectiveRange	84
 RangeCurvature	2
@@ -43047,13 +43047,12 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "BEOWULF Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt"
 ACTOR			"Items\colt_933_gripbeo.act"
 IMAGE			"2x4.e5b"
@@ -43064,7 +43063,7 @@ Class			Rifle
 Caliber			".50 Beowulf"
 Weight			2720
 PrepareTime		0.26
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1000
@@ -43074,7 +43073,7 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		145
 EffectiveRange	64
 RangeCurvature	2
@@ -43087,13 +43086,12 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "BEOWULF Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\colt_933_gripbeo.act"
 IMAGE			"2x3.e5b"

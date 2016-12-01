@@ -7,6 +7,8 @@
  ["Assault Rifle AR-15 CQB (.300 BLK) folded"] = "Assault Rifle AR-15 CQB AG (.300 BLK) folded",
  ["Assault Rifle M4A1 CQB (.300 BLK)"] = "Assault Rifle M4A1 CQB AG (.300 BLK)",
  ["Assault Rifle M4A1 CQB (.300 BLK) folded"] = "Assault Rifle M4A1 CQB AG (.300 BLK) folded",
+ ["Small Assault Rifle M933 Beowulf (.50 BEO)"] = "Small Assault Rifle M933 Beowulf FG (.50 BEO)",
+ ["Small Assault Rifle M933 Beowulf (.50 BEO) folded"] = "Small Assault Rifle M933 Beowulf FG (.50 BEO) folded",
  ["Assault Rifle DSA-58OSW (7.62x51mm)"] = "Assault Rifle DSA-58OSW FG (7.62x51mm)",
  ["Assault Rifle DSA-58OSW (7.62x51mm) folded"] = "Assault Rifle DSA-58OSW FG (7.62x51mm) folded",
  ["SW MP15 300BLK"] = "SW MP15 300BLK FG",
@@ -174,6 +176,8 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK)", Att
 AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Small Assault Rifle M933 Beowulf (.50 BEO)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Small Assault Rifle M933 Beowulf (.50 BEO) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK", AttachForegrip)
@@ -212,6 +216,8 @@ AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK)", action_detach_handle
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 CQB AG (.300 BLK) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Small Assault Rifle M933 Beowulf FG (.50 BEO)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Small Assault Rifle M933 Beowulf FG (.50 BEO) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
