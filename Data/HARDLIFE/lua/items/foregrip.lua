@@ -1,5 +1,6 @@
  local WeponsWithForegrip = {
  ["Assault Rifle Colt Commando 933"] = "Assault Rifle Colt Commando 933 asalto",
+ ["Assault Rifle Colt Commando 933 folded"] = "Assault Rifle Colt Commando 933 asalto folded",
  ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 (5.56mm) asalto",
  ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A4 (5.56mm) asalto",
  ["Assault Rifle XM-15-E2S (5.56mm)"] = "Assault Rifle XM-15-E2S (5.56mm) asalto",
@@ -169,6 +170,7 @@ AddItemContextMenu("Chain-gun HK23e TB (5.56x45mm)", action_detach_barrel, Detac
 -- установка тактической рукоятки
 -- Attach Frontgrip / Rifle
 AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle XM-15-E2S (5.56mm)", AttachForegrip)
@@ -209,6 +211,7 @@ local action_detach_handle = _t"lang/lua/fptb/detach_handle"
 
 -- Detach Frontgrip / Rifle
 AddItemContextMenu("Assault Rifle Colt Commando 933 asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Colt Commando 933 asalto folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A4 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle XM-15-E2S (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)

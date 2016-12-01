@@ -55311,7 +55311,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2440
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -55321,7 +55321,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	99
 RangeCurvature	4
@@ -55334,7 +55334,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "AssaultBipod"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -55351,7 +55351,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2440
 PrepareTime		0.24
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -55361,7 +55361,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	79
 RangeCurvature	4
@@ -55374,7 +55374,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "AssaultBipod"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
