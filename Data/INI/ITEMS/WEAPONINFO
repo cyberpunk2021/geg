@@ -57972,7 +57972,7 @@ Class			Rifle
 Caliber			"6.5mm Grendel"
 Weight			2720
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -57982,7 +57982,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		360
 EffectiveRange	98
 RangeCurvature	3
@@ -57995,13 +57995,12 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6.5"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x4.e5b"
@@ -58012,7 +58011,7 @@ Class			Rifle
 Caliber			"6.5mm Grendel"
 Weight			2720
 PrepareTime		0.24
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -58022,7 +58021,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		360
 EffectiveRange	73
 RangeCurvature	3
@@ -58035,13 +58034,12 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6.5"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x3.e5b"
