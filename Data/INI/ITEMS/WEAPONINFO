@@ -81900,6 +81900,84 @@ ACTOR			"Items\ak12.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle AK-12 FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3370
+PrepareTime		0.42
+SingleFireTime	0.72
+BurstFireTime	0.096
+SpeedModifier	1.04
+Resource		3300
+DirtResource	380000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	156
+RangeCurvature	3.0
+Balance			0.54
+Unfold			"Assault Rifle AK-12 FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak12_butt"
+ACTOR			"Items\ak12fg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle AK-12 FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3370
+PrepareTime		0.38
+SingleFireTime	0.72
+BurstFireTime	0.096
+SpeedModifier	1.04
+Resource		3300
+DirtResource	380000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	131
+RangeCurvature	3.0
+Balance			0.54
+Unfold			"Assault Rifle AK-12 FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak12_butt_folded"
+ACTOR			"Items\ak12fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Assault Rifle AK-12U (7.62mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
