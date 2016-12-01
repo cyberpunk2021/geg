@@ -63483,7 +63483,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2440
 PrepareTime		0.28
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -63493,7 +63493,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	99
 RangeCurvature	4
@@ -63506,13 +63506,12 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x4.e5b"
@@ -63523,7 +63522,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2440
 PrepareTime		0.24
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
@@ -63533,7 +63532,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	79
 RangeCurvature	4
@@ -63546,13 +63545,12 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x3.e5b"
