@@ -63065,7 +63065,7 @@ MaxRange		250
 EffectiveRange	83
 RangeCurvature	5
 Balance			0.57
-Unfold			"SW MP15 300BLK FG CQC"
+Unfold			"SW MP15 300BLK CQC FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"

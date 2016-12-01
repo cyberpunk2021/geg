@@ -292,7 +292,7 @@ BOX  "Ammo box 500 HLA (7.65 FMJ)""7.65 FMJ"500 "Items\grenadecase_us.act""grena
 BOX  "Ammo box 500 (.32 ACP HP)"".32 ACP HP"500 "Items\Note_closed.act""Note_closed.e5b"
 BOX  "Ammo box 500 (.32 ACP AP)"".32 ACP AP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (.32 ACP FMJ)"".32 ACP FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
-BOX  "Ammo box 500 (.32 ACP SP)"".32 ACP Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (.32 ACP SP)"".32 ACP Surplus"500 "Items\algeirabox500_32.act""algeira500box.e5b"
 
 CLIP  "Pistol clip (Guardian/6)""7.65x17""Guardian32"6 70 "None"1200 
 ACTOR  "Items\guardian32mag.act"
@@ -403,7 +403,7 @@ BOX  "Ammo box 500 HLA (.380 FMJ)"".380 FMJ"500 "Items\grenadecase_us.act""grena
 BOX  "Ammo box 500 (.380 ACP HP)"".380 ACP HP"500 "Items\Note_closed.act""Note_closed.e5b"
 BOX  "Ammo box 500 (.380 ACP AP)"".380 ACP AP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (.380 ACP FMJ)"".380 ACP FMJ"500 "Items\Note_closed.act""Note_closed.e5b"
-BOX  "Ammo box 500 (.380 ACP SP)"".380 ACP Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (.380 ACP SP)"".380 ACP Surplus"500 "Items\algeirabox500_380.act""algeira500box.e5b"
 
 ////------
 CLIP  "Pistol clip (Mustang/6)"".380 ACP""Mustang"6 55 "None"500 
@@ -908,7 +908,7 @@ BOX  "Ammo box 500 HLA (7N21)""7N21 (9mm)"500 "Items\cajamun_200x762.act""cajamu
 
 BOX "Big Ammo box (9x19 HP)""EX-STAR (9mm)"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
-BOX  "BigAmmoBox (9x19/500)""9x19 FMJ Ball"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "BigAmmoBox (9x19/500)""9x19 FMJ Ball"500 "Items\algeirabox500_9mm.act""algeira500box.e5b"
 BOX "Big Ammo box 500 (Palinero)""9x19 Palinero"500 "Items\caxa.act""caxa.e5b"
 
 BOX "CajaMunicionGrande (9mm/1000)""124grn 9x19mm"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
@@ -1757,7 +1757,7 @@ BOX  "Ammo box (.38 spc)""Ammo .38 spc"50 "Items\38spceagle.act""boxeagle.e5b"
 BOX  "Ammo box (.38 Spl Algeira)""Ammo .38 spc Algeira"50 "Items\algeira38spc.ACT""algeiraboxinv.E5B"
 
 BOX  "Ammo box 500 HLA (.38 Spl SJHP)"".38 Spl SJHP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
-BOX  "Ammo box 500 (.38 Spl Algeira)""Ammo .38 spc Algeira"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (.38 Spl Algeira)""Ammo .38 spc Algeira"500 "Items\algeirabox500_38.act""algeira500box.e5b"
 BOX "Big Ammo box (.38 spc HP)""Ammo .38 spc HP"500 "Items\Note_closed.act""Note_closed.e5b"
 BOX "Big Ammo box (.38 spc FMJ)""Ammo .38 spc"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
@@ -1828,7 +1828,7 @@ BOX  "Ammo box 500 HLA (Buffalo 40 S&W)""Buffalo .40 S&W +P"500 "Items\cajamun_1
 BOX  "Ammo box 500 HLA (.40 S&W JHP)"".40 S&W JHP"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 BOX  "Ammo box 500 HLA (Cor-Bon 40 S&W)""135grn JHP .40 S&W"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 
-BOX  "Ammo box 500 (Algeira 40 S&W)""Ammo .40 S&W Algeira"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (Algeira 40 S&W)""Ammo .40 S&W Algeira"500 "Items\algeirabox500_40.act""algeira500box.e5b"
 
 
 CLIP  "Pistol clip (CZ 75/15)"".40 S&W""CZ"12 100 "None"500 
@@ -2113,7 +2113,7 @@ BOX  "Ammo Box (.357 SIG SP)"".357 SIG Surplus"50 "Items\algeira357sig.ACT""alge
 BOX  "Ammo Box 500 (.357 SIG HP)"".357 SIG HP"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "Ammo Box 500 (.357 SIG AP)"".357 SIG AP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo Box 500 (.357 SIG FMJ)"".357 SIG FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
-BOX  "Ammo Box 500 (.357 SIG SP)"".357 SIG Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo Box 500 (.357 SIG SP)"".357 SIG Surplus"500 "Items\algeirabox500_357sig.act""algeira500box.e5b"
 
 CLIP  "Pistol clip (Glock 31/15)"".357 SIG""Glock31"15 78 "None"1500 
 ACTOR  "Items\glock_clip_17.act"
@@ -2191,7 +2191,7 @@ BOX  "Ammo Box (.357 Algeira)""357 Algeira"50 "Items\algeira357mag.ACT""algeirab
 BOX  "silver_ammo_box""silver bullets"30 "Items\357silver.act""357sil_box.e5b"
 BOX  "Ammo box 500 HLA (.357 SP)""357 SP"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX "Big Ammo box CBC (.357 SP)""357 SP CBC"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
-BOX  "Ammo Box 500 (.357 Algeira)""357 Algeira"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo Box 500 (.357 Algeira)""357 Algeira"500 "Items\algeirabox500_357.act""algeira500box.e5b"
 CLIP  "Colt Python (.357 SW/6)"".357 Magnum""built-in"6 0 "None"7000 
 ACTOR  "None"
 USEPREFIX  ""
@@ -2272,8 +2272,8 @@ DEFAMMO  "357 SP"
 BOX  "Ammo box (Magnum .44)""Mag .44"50 "Items\44MagBox.act""magnum44.e5b"
 BOX  "Ammo Box 44 MAG JHP""Ammo 44 MAG JHP"50 "Items\44pdx1.ACT""box357pdx.E5B"
 BOX  "Ammo Box 44 MAG Algeira""Mag .44 Algeira"50 "Items\algeira357sig.ACT""algeiraboxinv.E5B"
-BOX "Big Ammo box Algeira (Magnum .44)""Mag .44 Algeira"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
-BOX "Big Ammo box JHP (Magnum .44)""Ammo 44 MAG JHP"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX "Big Ammo box Algeira (Magnum .44)""Mag .44 Algeira"500 "Items\algeirabox500_44.act""algeira500box.e5b"
+BOX "Big Ammo box JHP (Magnum .44)""Ammo 44 MAG JHP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 HLA (Magnum .44)""Mag .44"500 "Items\Note_closed.act""Note_closed.e5b"
 
 CLIP  "Pistol clip (Contender/44)"".44 Magnum""Contender44"1 0 "None"7000 
@@ -2553,7 +2553,7 @@ BOX  "Ammo box 500 HLA (Cor-Bon 45 ACP)""200grn JHP +P (.45 ACP)"500 "Items\gren
 BOX "Big Ammo box GS (.45 ACP Ball)""Golden Saber (.45 ACP)"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
 
-BOX "CajaMunicionGrande (.45/1000)""M1911 Ball (.45 ACP)"500 "Items\cajamun_1kx045.act""cajamun_1kx045.e5b"
+BOX "CajaMunicionGrande (.45/1000)""M1911 Ball (.45 ACP)"500 "Items\algeirabox500_45.act""algeira500box.e5b"
 
 
 
@@ -2842,7 +2842,7 @@ BOX  "Ammo box 500 HLA (10mm HP)""Silvertip HP 10 mm"500 "Items\cajamun_1kx919.a
 BOX  "Ammo box 500 (10mm HP)""10mm Auto JHP"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 BOX  "Ammo box 500 (10mm AP)""10mm Auto AP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (10mm FMJ)""10mm Auto FMJ"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
-BOX  "Ammo box 500 (10mm SP)""10mm Auto Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (10mm SP)""10mm Auto Surplus"500 "Items\algeirabox500_10mm.act""algeira500box.e5b"
 
 
 CLIP  "Pistol clip (Delta Elite/8)""10mm Auto""Delta Elite"8 75 "None"500 
@@ -3051,7 +3051,7 @@ BOX  "Ammo box (Slug)""Slug (12ga)"10 "Items\12gaslug_box.act""12gaslug_box.e5b"
 BOX  "Ammo box 500 HLA (00 Buckshot)""00 Buckshot (12ga)"200 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
 BOX  "Ammo box 500 (00 Palinero)""00 Buckshot Palinero (12ga)"200 "Items\caxa.ACT""caxa.e5b"
-BOX  "Ammo box 500 (00 Algeira)""00 Buckshot Algeira (12ga)"200 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (00 Algeira)""00 Buckshot Algeira (12ga)"200 "Items\algeirabox500_12.act""algeira500box.e5b"
 
 BOX "Big Ammo box MAGNUM (12 ga)""00 Buckshot MAGNUM (12ga)"200 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
@@ -3744,7 +3744,7 @@ BOX "Ammo box (30-06 FMJ/20)""30-06 FMJ"20 "Items\3006_M1.act""boxm1.e5b"
 
 BOX  "Ammo box (30-06 XP3)""Winchester XP3 30-06"20 "Items\30-06hp_box.act""30-06hp_box.e5b"
 BOX  "Ammo box (30-06 Korean)""Nosler JHP 30-06"20 "Items\3006norma.act""boxnosler.e5b"
-BOX  "BigAmmoBox (30-60/400)""30-06 Ball M2"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "BigAmmoBox (30-60/400)""30-06 Ball M2"600 "Items\algeirabox500_3006.act""algeira500box.e5b"
 BOX  "BigAmmoBox JHP +P (30-60/400)""Nosler JHP 30-06"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX "Ammo box 500 (30-06 AP)""30-06 AP"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX "Ammo box 500 (30-06 FMJ)""30-06 FMJ"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
@@ -4252,7 +4252,7 @@ BOX  "Ammo box 500 HLA (.300 PNW 147grn)"".300 FMJ-BT"600 "Items\cajamun_200x762
 BOX  "Ammo box 500 HLA (.300 PNW 220grn)""PNW.300 220grn"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "Ammo box 500 HLA (.300 T-DPX)""T-DPX.300"600 "Items\Note_closed.act""Note_closed.e5b"
 BOX  "Ammo box 500 HLA (Zombie VMAX)""Zombie VMAX .300"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
-BOX  "Ammo box 500 HLA (.300 Rem 220grn)""Rem.300 220grn"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 HLA (.300 Rem 220grn)""Rem.300 220grn"600 "Items\algeirabox500_300blk.act""algeira500box.e5b"
 
 BOX  "Big Ammo box 500 (300 AAC HP)""300 AAC Blackout HP"600 "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.E5B"
 
@@ -4394,7 +4394,7 @@ BOX  "Big Ammo box (5.56)""5.56 FMJ Ball"20 "Items\algeira556.act""algeiraboxinv
 
 BOX  "BigWoodAmmoBox M193 (5.56/1000)""M193 (5.56mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "BigWoodAmmoBox M955 (5.56/1000)""M955 AP (5.56mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
-BOX  "BigAmmoBox (5.56/500)""5.56 FMJ Ball"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "BigAmmoBox (5.56/500)""5.56 FMJ Ball"600 "Items\algeirabox500_223.act""algeira500box.e5b"
 BOX  "Ammo pack (M855)""M193 (5.56mm)"120 "Items\zink.act""556_500.e5b"
 BOX  "Ammo pack (M995)""M955 AP (5.56mm)"120 "Items\zink.act""556_500.e5b"
 
@@ -4907,7 +4907,7 @@ BOX  "Ammo Box 6.8 SPC HPBT""Ammo 6.8 SPC HPBT"20 "Items\68_BTHP_box.ACT""68_BTH
 BOX  "Ammo Box 6.8 SPC TTSX""Ammo 6.8 SPC TTSX"20 "Items\68_TTSX_box.ACT""68_TTSX_box.E5B"
 BOX  "Ammo box 6.8x43 AP""6.8x43 AP ammo"20 "Items\68X43AP.ACT""68X43AP.E5B"
 BOX  "Ammo box 6.8x43 FMJ""6.8x43 FMJ Ball ammo"20 "Items\algeiraspc.ACT""algeiraboxinv.E5B"
-BOX  "Big Ammo box FMJ (6.8x43/500)""6.8x43 FMJ Ball ammo"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Big Ammo box FMJ (6.8x43/500)""6.8x43 FMJ Ball ammo"600 "Items\algeirabox500_68spc.act""algeira500box.e5b"
 BOX  "Big Ammo box AP(6.8x43/500)""6.8x43 AP ammo"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Big Ammo box HP (6.8x43/500)""Ammo 6.8 SPC HPBT"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "Big Ammo box TTSX (6.8x43/500)""Ammo 6.8 SPC TTSX"600 "Items\Note_closed.act""Note_closed.e5b"
@@ -5266,7 +5266,7 @@ BOX  "Ammo box (7.62x51SP)""PPU .308 SP"20 "Items\762x51sp_box.act""boxprvi.e5b"
 BOX  "Big Ammo box (7.62x51)""7.62x51 FMJ Ball"20 "Items\algeira762.act""algeiraboxinv.e5b"
 BOX  "BigWoodAmmoBox M80 (7.62x51/800)""M80 (7.62x51mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "BigWoodAmmoBox M993 (7.62x51/800)""M993 (7.62x51mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
-BOX  "BigAmmoBox (7.62x51/400)""7.62x51 FMJ Ball"600 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "BigAmmoBox (7.62x51/400)""7.62x51 FMJ Ball"600 "Items\algeirabox500_308.act""algeira500box.e5b"
 BOX  "Ammo pack (M80)""M80 (7.62x51mm)"120 "Items\zink.act""556_500.e5b"
 BOX  "Ammo pack (M993)""M993 (7.62x51mm)"120 "Items\zink.act""556_500.e5b"
 
@@ -5835,7 +5835,7 @@ BOX  "Ammo box (.300 WM SP)"".300 WM Surplus"20 "Items\algeira300.act""algeirabo
 BOX  "Ammo box 500 (.300 WM HP)"".300 WM HP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (.300 WM AP)"".300 WM AP"500 "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.E5B"
 BOX  "Ammo box 500 (.300 WM FMJ)"".300 WM FMJ"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-BOX  "Ammo box 500 (.300 WM SP)"".300 WM Surplus"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Ammo box 500 (.300 WM SP)"".300 WM Surplus"500 "Items\algeirabox500_300winmag.act""algeira500box.e5b"
 CLIP  "Pistol clip (Contender/300)"".300 WM""Encore300"1 0 "None"7000 
 ACTOR  "Items\contenderbarrel.act"
 USEPREFIX  ""
@@ -6003,7 +6003,7 @@ BOX  "Ammo box HP (Lapua/20)"".338 Lapua HP"20 "Items\338lapuanosler.ACT""boxtro
 BOX  "Ammo box AP (Lapua/20)"".338 Lapua AP"20 "Items\338lapuablackhills.ACT""boxblackhills.E5B"
 
 BOX  "Ammo box Surplus (Lapua/20)"".338 Lapua Surplus"20 "Items\algeira338lapua.act""algeiraboxinv.e5b"
-BOX  "Big Ammo box Surplus (LAPUA)"".338 Lapua Surplus"200 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "Big Ammo box Surplus (LAPUA)"".338 Lapua Surplus"200 "Items\algeirabox500_338.act""algeira500box.e5b"
 
 BOX  "Big Ammo box AP (LAPUA)"".338 Lapua AP"200 "Items\secretweapon.act""secret.e5b"
 
