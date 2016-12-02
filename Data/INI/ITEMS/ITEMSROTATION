@@ -8359,8 +8359,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12U (5.45mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U (5.45mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (5.45mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (5.45mm) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12 (5.56mm)"
 X  0
@@ -8395,8 +8407,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12U (5.56mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (5.56mm) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12 (7.62mm)"
 X  0
@@ -8431,8 +8455,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12U (7.62mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U (7.62mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (7.62mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (7.62mm) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12 (308)"
 X  0
@@ -8467,10 +8503,21 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12U (308)"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
-
+"Assault Rifle AK-12U (308) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (308)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12U FG (308) folded"
+X  0
+Y  -90
+Z  0
 
 "Machinegun RPK-12 (5.45mm)"
 X  0 
@@ -8489,30 +8536,10 @@ Z  0
 X  0
 Y  -90
 Z  0
-
 "Sniper Rifle SVK-12 (308)"
 X  0 
 Y  -90 
 Z  0
-
-"Assault Rifle AK-12U (5.45mm) folded"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle AK-12U (5.56mm) folded"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle AK-12U (7.62mm) folded"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle AK-12U (308) folded"
-X  0 
-Y  -90 
-Z  0
-
-
 
 "Machinegun RPK-12 (5.56mm)"
 X  0 
