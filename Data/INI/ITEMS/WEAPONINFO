@@ -46023,13 +46023,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		1 "FAL" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\fnfalnova_md3.act"
@@ -68291,13 +68287,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		1 "FAL" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\fnfalnova_md3.act"
@@ -68406,8 +68398,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\MD97_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -68444,8 +68436,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\MD97_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -68483,8 +68475,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\MD97_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		0
 ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -68528,13 +68520,9 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
 ATT Bipod		0
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Silencer
+ATT Bayonet		1 "FAL" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"fnfalnova_modern_stock"
