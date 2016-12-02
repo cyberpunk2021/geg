@@ -81588,6 +81588,84 @@ ACTOR			"Items\ak12c.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle AK-12C FG (5.45mm)"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			3100
+PrepareTime		0.32
+SingleFireTime	0.68
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		3400
+DirtResource	390000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	115
+RangeCurvature	2.5
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (5.45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"ak12_butt"
+ACTOR			"Items\ak12cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle AK-12C FG (5.45mm) folded"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			3100
+PrepareTime		0.28
+SingleFireTime	0.68
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		3400
+DirtResource	390000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	2.5
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (5.45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"ak12_butt_folded"
+ACTOR			"Items\ak12cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Assault Rifle AK-12 (5.45mm)"
 Class			Rifle
 Caliber			"5.45υ39 μμ"
@@ -81899,6 +81977,84 @@ StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12c.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle AK-12C FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3100
+PrepareTime		0.32
+SingleFireTime	0.70
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		3200
+DirtResource	370000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	115
+RangeCurvature	2.5
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak12_butt"
+ACTOR			"Items\ak12cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle AK-12C FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3100
+PrepareTime		0.29
+SingleFireTime	0.70
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		3200
+DirtResource	370000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	2.5
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak12_butt_folded"
+ACTOR			"Items\ak12cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle AK-12 (5.56mm)"
 Class			Rifle
@@ -82212,6 +82368,84 @@ ACTOR			"Items\ak12c.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle AK-12C FG (7.62mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3100
+PrepareTime		0.32
+SingleFireTime	0.72
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		3400
+DirtResource	390000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	115
+RangeCurvature	2.5
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (7.62mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"ak12_butt"
+ACTOR			"Items\ak12cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle AK-12C FG (7.62mm) folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3100
+PrepareTime		0.28
+SingleFireTime	0.72
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		3400
+DirtResource	390000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	2.5
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (7.62mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\Pernach_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"ak12_butt_folded"
+ACTOR			"Items\ak12cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Assault Rifle AK-12 (7.62mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
@@ -82475,7 +82709,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
@@ -82514,7 +82748,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
@@ -82523,6 +82757,84 @@ StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12c308.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle AK-12C FG (308)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3300
+PrepareTime		0.36
+SingleFireTime	0.80
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		2400
+DirtResource	290000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		275
+EffectiveRange	128
+RangeCurvature	2
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (308) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 308"
+StdPlug			"Rifle ammo clip (AK 308/20)"
+StdPlug			"ak12_butt"
+ACTOR			"Items\ak12c308fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle AK-12C FG (308) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3300
+PrepareTime		0.32
+SingleFireTime	0.80
+BurstFireTime	0.096
+SpeedModifier	0.99
+Resource		2400
+DirtResource	290000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		275
+EffectiveRange	108
+RangeCurvature	2
+Balance			0.54
+Unfold			"Assault Rifle AK-12C FG (308)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 308"
+StdPlug			"Rifle ammo clip (AK 308/20)"
+StdPlug			"ak12_butt_folded"
+ACTOR			"Items\ak12c308fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle AK-12 (308)"
 Class			Rifle
@@ -82553,7 +82865,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"
@@ -82592,7 +82904,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	1 "Supressor - 7,62" blocks ILauncher and Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
 ATT Magazine	1 "AK 308"

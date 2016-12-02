@@ -24,6 +24,14 @@
  ["Assault Rifle AK-12 (7.62mm) folded"] = "Assault Rifle AK-12 FG (7.62mm) folded",
  ["Assault Rifle AK-12 (308)"] = "Assault Rifle AK-12 FG (308)",
  ["Assault Rifle AK-12 (308) folded"] = "Assault Rifle AK-12 FG (308) folded",
+ ["Assault Rifle AK-12C (5.45mm)"] = "Assault Rifle AK-12C FG (5.45mm)",
+ ["Assault Rifle AK-12C (5.45mm) folded"] = "Assault Rifle AK-12C FG (5.45mm) folded",
+ ["Assault Rifle AK-12C (5.56mm)"] = "Assault Rifle AK-12C FG (5.56mm)",
+ ["Assault Rifle AK-12C (5.56mm) folded"] = "Assault Rifle AK-12C FG (5.56mm) folded",
+ ["Assault Rifle AK-12C (7.62mm)"] = "Assault Rifle AK-12C FG (7.62mm)",
+ ["Assault Rifle AK-12C (7.62mm) folded"] = "Assault Rifle AK-12C FG (7.62mm) folded",
+ ["Assault Rifle AK-12C (308)"] = "Assault Rifle AK-12C FG (308)",
+ ["Assault Rifle AK-12C (308) folded"] = "Assault Rifle AK-12C FG (308) folded",
  ["SW MP15 300BLK"] = "SW MP15 300BLK FG",
  ["SW MP15 300BLK folded"] = "SW MP15 300BLK FG folded",
  ["SW MP15 300BLK CQC"] = "SW MP15 300BLK CQC FG",
@@ -206,6 +214,14 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (7.62mm)", AttachFor
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (7.62mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (308)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (308) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (5.45mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (5.45mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (7.62mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (7.62mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (308)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12C (308) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC", AttachForegrip)
@@ -259,6 +275,14 @@ AddItemContextMenu("Assault Rifle AK-12 FG (7.62mm)", action_detach_handle, Deta
 AddItemContextMenu("Assault Rifle AK-12 FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12 FG (308)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12 FG (308) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (5.45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (5.45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (308)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AK-12C FG (308) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)

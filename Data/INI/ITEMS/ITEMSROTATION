@@ -8343,8 +8343,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12C (5.45mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C (5.45mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (5.45mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (5.45mm) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12U (5.45mm)"
 X  0 
@@ -8367,8 +8379,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12C (5.56mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (5.56mm) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12U (5.56mm)"
 X  0 
@@ -8391,8 +8415,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12C (7.62mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C (7.62mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (7.62mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (7.62mm) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12U (7.62mm)"
 X  0 
@@ -8415,8 +8451,20 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle AK-12C (308)"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C (308) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (308)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle AK-12C FG (308) folded"
+X  0
+Y  -90
 Z  0
 "Assault Rifle AK-12U (308)"
 X  0 
@@ -8447,15 +8495,7 @@ X  0
 Y  -90 
 Z  0
 
-"Assault Rifle AK-12C (5.45mm) folded"
-X  0 
-Y  -90 
-Z  0
 "Assault Rifle AK-12U (5.45mm) folded"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle AK-12C (5.56mm) folded"
 X  0 
 Y  -90 
 Z  0
@@ -8463,15 +8503,7 @@ Z  0
 X  0 
 Y  -90 
 Z  0
-"Assault Rifle AK-12C (7.62mm) folded"
-X  0 
-Y  -90 
-Z  0
 "Assault Rifle AK-12U (7.62mm) folded"
-X  0 
-Y  -90 
-Z  0
-"Assault Rifle AK-12C (308) folded"
 X  0 
 Y  -90 
 Z  0
