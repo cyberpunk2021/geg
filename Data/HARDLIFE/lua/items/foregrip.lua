@@ -50,6 +50,8 @@
  ["SW MP15 CQC folded"] = "SW MP15 CQC FG folded",
  ["SW MP15 LB"] = "SW MP15 LB FG",
  ["SW MP15 LB folded"] = "SW MP15 LB FG folded",
+ ["HS VHS-D2"] = "HS VHS-D2 FG",
+ ["HS VHS-K2"] = "HS VHS-K2 FG",
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
  ["Pistol Glock 21 (.45 ACP)"] = "Pistol Glock 21 TB (.45 ACP)",
  ["Pistol Glock 22 (.40 S&W)"] = "Pistol Glock 22 TB (.40 S&W)",
@@ -248,6 +250,8 @@ AddItemCombineHandler("Tactical grip", "SW MP15 CQC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 CQC folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 LB", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 LB folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HS VHS-D2", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HS VHS-K2", AttachForegrip)
 
 -- Attach Frontgrip / SMG
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm)", AttachForegrip)
@@ -317,6 +321,8 @@ AddItemContextMenu("SW MP15 CQC FG", action_detach_handle, DetachForegrip, CanDe
 AddItemContextMenu("SW MP15 CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 LB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 LB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HS VHS-D2 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HS VHS-K2 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 
 -- Detach Frontgrip / SMG
 AddItemContextMenu("Submachine-gun UMP9 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

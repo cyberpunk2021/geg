@@ -8600,12 +8600,20 @@ X  0
 Y  -90 
 Z  0
 "HS VHS-K2"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"HS VHS-K2 FG"
+X  0
+Y  -90
 Z  0
 "HS VHS-D2"
-X  0 
-Y  -90 
+X  0
+Y  -90
+Z  0
+"HS VHS-D2 FG"
+X  0
+Y  -90
 Z  0
 "Assault Rifle KH2002"
 X  0 

@@ -48345,7 +48345,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3647
 PrepareTime		0.33
-SingleFireTime	0.52
+SingleFireTime	0.54
 BurstFireTime	0.07
 SpeedModifier	1
 Resource		2000
@@ -48367,14 +48367,50 @@ ShootSound		"Weapon\Shoot\famas.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\vhsnovacar.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "HS VHS-K2 FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3647
+PrepareTime		0.33
+SingleFireTime	0.52
+BurstFireTime	0.07
+SpeedModifier	1
+Resource		2000
+DirtResource	240000
+MisfireProb		0.0020
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	130
+RangeCurvature	4
+Balance			0.62
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\famas.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G36 mag"
+StdPlug			"Rifle ammo clip_T (G36/30)"
+ACTOR			"Items\vhsnovacarfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -48383,7 +48419,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3647
 PrepareTime		0.39
-SingleFireTime	0.52
+SingleFireTime	0.54
 BurstFireTime	0.07
 SpeedModifier	1.05
 Resource		2000
@@ -48405,14 +48441,51 @@ ShootSound		"Weapon\Shoot\famas.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G36 mag"
+StdPlug			"Rifle ammo clip_T (G36/30)"
+ACTOR			"Items\vhsnova.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "HS VHS-D2 FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3647
+PrepareTime		0.39
+SingleFireTime	0.52
+BurstFireTime	0.07
+SpeedModifier	1.05
+Resource		2000
+DirtResource	240000
+MisfireProb		0.0020
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	162
+RangeCurvature	2.5
+Balance			0.6
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\famas.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
 StdPlug			"Frontgrip"
-ACTOR			"Items\vhsnova.act"
+ACTOR			"Items\vhsnovafg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
