@@ -536,16 +536,16 @@ ACTOR			"Items\pbs-1.act"
 IMAGE			"pbs-1.e5b"
 WEIGHT			603
 Resource		2400
-//------------------------------------------------------  
-Addon  "30-06 Silencer"
-Silencer  "HCAR Silencer"
-Sound  "Addon\PlugSound\SG-551_Sil_on.wav""Addon\UnplugSound\SG-551_Sil_off 2.wav"
-SingleUse  0 
-SilencingValue  0.7 
-ACTOR  "Items\sig551_silencer.act"
-IMAGE  "sig-sil.e5b"
-WEIGHT  788 
-Resource  2000 
+//------------------------------------------------------
+Addon			"30-06 Silencer"
+Silencer		"HCAR Silencer"
+Sound			"Addon\PlugSound\SG-551_Sil_on.wav""Addon\UnplugSound\SG-551_Sil_off 2.wav"
+SingleUse		0
+SilencingValue	0.7
+ACTOR			"Items\sig551_silencer.act"
+IMAGE			"sig-sil.e5b"
+WEIGHT			788
+Resource		2000
 //------------------------------------------------------
 Addon			"Silencer PBS-1 M24x1.5 (7.62x39 mm)"
 Silencer		"M24x1,5"
@@ -5879,18 +5879,18 @@ ACTOR			"Items\masterkey_ak.act"
 IMAGE			"masterkey_ak.e5b"
 WEIGHT			2650
 Resource		9500
-//------------------------------------------------------  
-Addon  "M26 MASS shotgun (12 ga)"
-ILauncher  "M203"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M1014.wav"
-GrenadeType  "12 калибр"
-GrenadeCount  5 
-IsLauncher  0 
-ACTOR  "Items\M26_UGL.act"
-IMAGE  "M26UGL.e5b"
-WEIGHT  1220 
-Resource  4500 
+//------------------------------------------------------
+Addon			"M26 MASS shotgun (12 ga)"
+ILauncher		"M203"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound		"Addon\ShootSound\M1014.wav"
+GrenadeType		"12 калибр"
+GrenadeCount	5
+IsLauncher		0
+ACTOR			"Items\M26_UGL.act"
+IMAGE			"M26UGL.e5b"
+WEIGHT			1220
+Resource		4500
 //------------------------------------------------------
 Addon			"Tactical grip"
 Bipod			"WRFG"
