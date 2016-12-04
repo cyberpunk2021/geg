@@ -65,6 +65,18 @@
  ["Submachine-gun HK UMP45 (.45 ACP) folded"] = "Submachine-gun UMP45 FG (.45ACP) folded",
  ["Submachine-gun UMP40 (.40 S&W)"] = "Submachine-gun UMP40 FG (.40 S&W)",
  ["Submachine-gun UMP40 (.40 S&W) folded"] = "Submachine-gun UMP40 FG (.40 S&W) folded",
+ ["Submachine-gun MPX (9mm)"] = "Submachine-gun MPX FG (9mm)",
+ ["Submachine-gun MPX (9mm) folded"] = "Submachine-gun MPX FG (9mm) folded",
+ ["Submachine-gun MPX (40)"] = "Submachine-gun MPX FG (40)",
+ ["Submachine-gun MPX (40) folded"] = "Submachine-gun MPX FG (40) folded",
+ ["Submachine-gun MPX (357)"] = "Submachine-gun MPX FG (357)",
+ ["Submachine-gun MPX (357) folded"] = "Submachine-gun MPX FG (357) folded",
+ ["Submachine-gun MPXK (9mm)"] = "Submachine-gun MPXK FG (9mm)",
+ ["Submachine-gun MPXK (9mm) folded"] = "Submachine-gun MPXK FG (9mm) folded",
+ ["Submachine-gun MPXK (40)"] = "Submachine-gun MPXK FG (40)",
+ ["Submachine-gun MPXK (40) folded"] = "Submachine-gun MPXK FG (40) folded",
+ ["Submachine-gun MPXK (357)"] = "Submachine-gun MPXK FG (357)",
+ ["Submachine-gun MPXK (357) folded"] = "Submachine-gun MPXK FG (357) folded",
 }
 
 -- проверяем что доступно снятие тактической рукоятки
@@ -260,6 +272,18 @@ AddItemCombineHandler("Tactical grip", "Submachine-gun HK UMP45 (.45 ACP)", Atta
 AddItemCombineHandler("Tactical grip", "Submachine-gun HK UMP45 (.45 ACP) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 (.40 S&W)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP40 (.40 S&W) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPX (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPX (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPX (40)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPX (40) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPX (357)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPX (357) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (40)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (40) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (357)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (357) folded", AttachForegrip)
 
 -- Pistol with holster stock
 AddItemCombineHandler("APS Belt", "Pistol APS (9x18mm) folded", AttachStock)
@@ -331,3 +355,15 @@ AddItemContextMenu("Submachine-gun UMP40 FG (.40 S&W)", action_detach_handle, De
 AddItemContextMenu("Submachine-gun UMP40 FG (.40 S&W) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun UMP45 FG (.45ACP)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun UMP45 FG (.45ACP) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPX FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPX FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPX FG (40)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPX FG (40) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPX FG (357)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPX FG (357) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPXK FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPXK FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPXK FG (40)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPXK FG (40) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPXK FG (357)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MPXK FG (357) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
