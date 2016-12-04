@@ -5893,7 +5893,7 @@ WEIGHT  1220
 Resource  4500 
 //------------------------------------------------------
 Addon			"Tactical grip"
-Bipod			"WR"
+Bipod			"WRFG"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR			"Items\assaultgrip_01.act"
 IMAGE			"assaultgrip_01.e5b"

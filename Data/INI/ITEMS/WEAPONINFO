@@ -24693,7 +24693,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24732,7 +24732,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24849,7 +24849,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25005,7 +25005,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "357 Sil"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25044,7 +25044,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "357 Sil"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25161,7 +25161,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25200,7 +25200,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25317,7 +25317,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25356,7 +25356,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25473,7 +25473,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "357 Sil"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25512,7 +25512,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "357 Sil"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56843,7 +56843,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3540
 PrepareTime		0.43
-SingleFireTime	0.74
+SingleFireTime	0.72
 BurstFireTime	0.075
 SpeedModifier	1.06
 Resource		1700
@@ -56853,7 +56853,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	163
 RangeCurvature	2.5
@@ -56866,13 +56866,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "WR"
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9"
-blocks
-Silencer
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
