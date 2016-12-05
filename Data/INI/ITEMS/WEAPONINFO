@@ -56836,9 +56836,7 @@ ACTOR			"Items\m16a3ris.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-//////--------------------
-
-ITEM "Assault Rifle M16A4 (5.56mm) asalto"
+ITEM "Assault Rifle M16A3 MWS FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3540
@@ -56872,7 +56870,7 @@ ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\m16a4_grip.act"
+ACTOR			"Items\m16a3risfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 

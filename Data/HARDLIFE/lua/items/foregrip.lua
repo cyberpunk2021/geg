@@ -2,7 +2,7 @@
  ["Assault Rifle Colt Commando 933"] = "Assault Rifle Colt Commando 933 asalto",
  ["Assault Rifle Colt Commando 933 folded"] = "Assault Rifle Colt Commando 933 asalto folded",
  ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 (5.56mm) asalto",
- ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A4 (5.56mm) asalto",
+ ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A3 MWS FG (5.56mm)",
  ["Assault Rifle XM-15-E2S (5.56mm)"] = "Assault Rifle XM-15-E2S (5.56mm) asalto",
  ["Assault Rifle AR-15 CQB (.300 BLK)"] = "Assault Rifle AR-15 CQB AG (.300 BLK)",
  ["Assault Rifle AR-15 CQB (.300 BLK) folded"] = "Assault Rifle AR-15 CQB AG (.300 BLK) folded",
@@ -297,7 +297,7 @@ local action_detach_handle = _t"lang/lua/fptb/detach_handle"
 AddItemContextMenu("Assault Rifle Colt Commando 933 asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Colt Commando 933 asalto folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Assault Rifle M16A4 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle XM-15-E2S (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)

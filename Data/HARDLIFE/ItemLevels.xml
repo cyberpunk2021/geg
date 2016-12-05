@@ -166,7 +166,6 @@
   <item level="6">AAC Blackout Kit</item>
   <item level="7">Assault Rifle Colt Commando 933 asalto</item>
   <item level="8">Assault Rifle M4A1 (5.56mm) asalto</item>
-  <item level="10">Assault Rifle M16A4 (5.56mm) asalto</item>
   <item level="1">Ammo box (8mm FMJ BT)</item>
   <item level="2">Ammo box (8mm SP)</item>
   <item level="3">9x39 FMJ Ball</item>
@@ -3096,6 +3095,7 @@
   <item level="9">Assault Rifle M16A2 715 (5.56mm)</item>
   <item level="9">Assault Rifle M16A2 HG (5.56mm)</item>
   <item level="10">Assault Rifle M16A3 MWS (5.56mm)</item>
+  <item level="10">Assault Rifle M16A3 MWS FG (5.56mm)</item>
   <item level="10">Assault Rifle M16A3+M203 (5.56mm)</item>
   <item level="7">Assault Rifle C7 (5.56mm)</item>
   <item level="8">Assault Rifle C7FT F (5.56mm)</item>

@@ -1602,10 +1602,6 @@ Z  0
 X  0
 Y  -90
 Z  0
-"Assault Rifle M16A4 (5.56mm) asalto"
-X  0
-Y  -90
-Z  0
 "Tactical grip"
 X  0
 Y  0
@@ -11253,6 +11249,10 @@ Y  -90
 Z  0
 
 "Assault Rifle M16A3 MWS (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle M16A3 MWS FG (5.56mm)"
 X  0
 Y  -90
 Z  0
