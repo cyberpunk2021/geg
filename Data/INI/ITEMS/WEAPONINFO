@@ -56176,7 +56176,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2340
 PrepareTime		0.27
-SingleFireTime	0.66
+SingleFireTime	0.64
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1300
@@ -56186,7 +56186,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	93
 RangeCurvature	4
@@ -56199,16 +56199,15 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt"
 StdPlug			"M16 Handle"
-ACTOR			"Items\m4cqbr.act"
+ACTOR			"Items\m4cqbrfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -56217,7 +56216,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2340
 PrepareTime		0.23
-SingleFireTime	0.66
+SingleFireTime	0.64
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1300
@@ -56227,7 +56226,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	73
 RangeCurvature	4
@@ -56240,16 +56239,15 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt_folded"
 StdPlug			"M16 Handle"
-ACTOR			"Items\m4cqbr.act"
+ACTOR			"Items\m4cqbrfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
