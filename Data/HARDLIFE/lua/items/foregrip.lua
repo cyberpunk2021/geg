@@ -1,6 +1,6 @@
  local WeponsWithForegrip = {
- ["Assault Rifle Colt Commando 933"] = "Assault Rifle Colt Commando 933 asalto",
- ["Assault Rifle Colt Commando 933 folded"] = "Assault Rifle Colt Commando 933 asalto folded",
+ ["Assault Rifle Colt Commando 933"] = "Assault Rifle Colt Commando 933 FG",
+ ["Assault Rifle Colt Commando 933 folded"] = "Assault Rifle Colt Commando 933 FG folded",
  ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 RIS FG (5.56mm)",
  ["Assault Rifle M4A1 RIS (5.56mm) folded"] = "Assault Rifle M4A1 RIS FG (5.56mm) folded",
  ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A3 MWS FG (5.56mm)",
@@ -304,8 +304,8 @@ AddItemCombineHandler("VP70 Belt", "Pistol VP70 (9x19 mm) folded", AttachStock)
 local action_detach_handle = _t"lang/lua/fptb/detach_handle"
 
 -- Detach Frontgrip / Rifle
-AddItemContextMenu("Assault Rifle Colt Commando 933 asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Assault Rifle Colt Commando 933 asalto folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Colt Commando 933 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Colt Commando 933 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

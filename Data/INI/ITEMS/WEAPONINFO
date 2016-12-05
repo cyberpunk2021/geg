@@ -55361,7 +55361,7 @@ HANDS			ahtRifle
 
 ///////-----------------------
 
-ITEM "Assault Rifle Colt Commando 933 asalto"
+ITEM "Assault Rifle Colt Commando 933 FG"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2440
@@ -55381,7 +55381,7 @@ MaxRange		250
 EffectiveRange	99
 RangeCurvature	4
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 933 asalto folded"
+Unfold			"Assault Rifle Colt Commando 933 FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -55401,7 +55401,7 @@ ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
-ITEM "Assault Rifle Colt Commando 933 asalto folded"
+ITEM "Assault Rifle Colt Commando 933 FG folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2440
@@ -55421,7 +55421,7 @@ MaxRange		250
 EffectiveRange	79
 RangeCurvature	4
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 933 asalto"
+Unfold			"Assault Rifle Colt Commando 933 FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
