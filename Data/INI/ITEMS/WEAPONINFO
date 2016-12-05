@@ -34990,7 +34990,7 @@ Class			Shotgun
 Caliber			"410 caliber"
 Weight			3300
 PrepareTime		0.41
-SingleFireTime	0.79
+SingleFireTime	0.77
 BurstFireTime	0.10
 SpeedModifier	1.05
 Resource		1300
@@ -35000,7 +35000,7 @@ HeatCapacity	35
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	106
 RangeCurvature	5
@@ -35012,13 +35012,12 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		1 "M9"
 ATT Magazine	1 "SafirT14"
 StdPlug			"Rifle ammo clip (T14/15)"
-StdPlug			"Frontgrip"
 StdPlug			"M16 Handle"
 ACTOR			"Items\m16a3risfg.act"
 IMAGE			"2x5.e5b"
@@ -43443,7 +43442,7 @@ Class			Rifle
 Caliber			".50 Beowulf"
 Weight			3740
 PrepareTime		0.46
-SingleFireTime	0.74
+SingleFireTime	0.72
 BurstFireTime	0.075
 SpeedModifier	1.06
 Resource		1500
@@ -43453,7 +43452,7 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	160
 RangeCurvature	1
@@ -43465,13 +43464,12 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/4)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\m16a3risfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -58454,7 +58452,7 @@ Class			Rifle
 Caliber			"6.5mm Grendel"
 Weight			3540
 PrepareTime		0.44
-SingleFireTime	0.77
+SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
 Resource		1700
@@ -58464,7 +58462,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		360
 EffectiveRange	180
 RangeCurvature	3
@@ -58476,13 +58474,12 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\m16a3risfg.act"
 IMAGE			"m16a3.e5b"
 HANDS			ahtRG
