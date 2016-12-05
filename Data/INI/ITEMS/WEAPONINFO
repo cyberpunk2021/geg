@@ -55682,10 +55682,90 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4_butt"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle M4A1 RIS FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2676
+PrepareTime		0.32
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		1500
+DirtResource	160000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	110
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle M4A1 RIS FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AR15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"M16 Handle"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4_butt"
+ACTOR			"Items\m4a1risfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle M4A1 RIS FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2676
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		1500
+DirtResource	160000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle M4A1 RIS FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AR15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"M16 Handle"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4_butt_folded"
+ACTOR			"Items\m4a1risfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle CQA (5.56mm)"
 Class			Rifle
@@ -55766,96 +55846,6 @@ StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
-
-///////////////--------------
-
-ITEM "Assault Rifle M4A1 (5.56mm) asalto"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			2676
-PrepareTime		0.32
-SingleFireTime	0.69
-BurstFireTime	0.08
-SpeedModifier	1
-Resource		1500
-DirtResource	160000
-MisfireProb		0.021
-HeatCapacity	45
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	110
-RangeCurvature	5
-Balance			0.51
-Unfold			"Assault Rifle M4A1 (5.56mm) asalto folded"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\AR15.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		2 "WR""m16a3"
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9"
-blocks
-Silencer
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"M16 Handle"
-StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4_butt"
-ACTOR			"Items\m4a1_grip.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRG
-
-ITEM "Assault Rifle M4A1 (5.56mm) asalto folded"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			2676
-PrepareTime		0.28
-SingleFireTime	0.69
-BurstFireTime	0.08
-SpeedModifier	1
-Resource		1500
-DirtResource	160000
-MisfireProb		0.0021
-HeatCapacity	45
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	95
-RangeCurvature	5
-Balance			0.51
-Unfold			"Assault Rifle M4A1 (5.56mm) asalto"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\AR15.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		2 "WR""m16a3"
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 5,56"
-blocks
-Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9"
-blocks
-Silencer
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"M16 Handle"
-StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4_butt"
-ACTOR			"Items\m4a1_grip.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRG
 
 ///////////////--------------
 

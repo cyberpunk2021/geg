@@ -1,7 +1,8 @@
  local WeponsWithForegrip = {
  ["Assault Rifle Colt Commando 933"] = "Assault Rifle Colt Commando 933 asalto",
  ["Assault Rifle Colt Commando 933 folded"] = "Assault Rifle Colt Commando 933 asalto folded",
- ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 (5.56mm) asalto",
+ ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 RIS FG (5.56mm)",
+ ["Assault Rifle M4A1 RIS (5.56mm) folded"] = "Assault Rifle M4A1 RIS FG (5.56mm) folded",
  ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A3 MWS FG (5.56mm)",
  ["Assault Rifle Grendel MWS (6.5)"] = "Assault Rifle Grendel MWS FG (6.5)",
  ["Assault Rifle T14 MWS (410)"] = "Assault Rifle T14 MWS FG (410)",
@@ -217,6 +218,7 @@ AddItemContextMenu("Chain-gun HK23e TB (5.56x45mm)", action_detach_barrel, Detac
 AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Colt Commando 933 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Grendel MWS (6.5)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T14 MWS (410)", AttachForegrip)
@@ -302,7 +304,8 @@ local action_detach_handle = _t"lang/lua/fptb/detach_handle"
 -- Detach Frontgrip / Rifle
 AddItemContextMenu("Assault Rifle Colt Commando 933 asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Colt Commando 933 asalto folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Assault Rifle M4A1 (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Grendel MWS FG (6.5)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T14 MWS FG (410)", action_detach_handle, DetachForegrip, CanDetachForegrip)
