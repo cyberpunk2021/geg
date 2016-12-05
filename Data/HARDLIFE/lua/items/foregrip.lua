@@ -7,7 +7,8 @@
  ["Assault Rifle Grendel MWS (6.5)"] = "Assault Rifle Grendel MWS FG (6.5)",
  ["Assault Rifle T14 MWS (410)"] = "Assault Rifle T14 MWS FG (410)",
  ["Assault Rifle Beowulf MWS (.50 BEO)"] = "Assault Rifle Beowulf MWS FG (.50 BEO)",
- ["Assault Rifle XM-15-E2S (5.56mm)"] = "Assault Rifle XM-15-E2S (5.56mm) asalto",
+ ["Assault Rifle XM-15-E2S (5.56mm)"] = "Assault Rifle XM-15-E2S FG (5.56mm)",
+ ["Assault Rifle XM-15-E2S (5.56mm) folded"] = "Assault Rifle XM-15-E2S FG (5.56mm) folded",
  ["Assault Rifle AR-15 CQB (.300 BLK)"] = "Assault Rifle AR-15 CQB AG (.300 BLK)",
  ["Assault Rifle AR-15 CQB (.300 BLK) folded"] = "Assault Rifle AR-15 CQB AG (.300 BLK) folded",
  ["Assault Rifle M4A1 CQB (.300 BLK)"] = "Assault Rifle M4A1 CQB AG (.300 BLK)",
@@ -224,6 +225,7 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle Grendel MWS (6.5)", Attach
 AddItemCombineHandler("Tactical grip", "Assault Rifle T14 MWS (410)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Beowulf MWS (.50 BEO)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle XM-15-E2S (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XM-15-E2S (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AR-15 CQB (.300 BLK) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 CQB (.300 BLK)", AttachForegrip)
@@ -310,7 +312,8 @@ AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, 
 AddItemContextMenu("Assault Rifle Grendel MWS FG (6.5)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T14 MWS FG (410)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Beowulf MWS FG (.50 BEO)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Assault Rifle XM-15-E2S (5.56mm) asalto", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XM-15-E2S FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XM-15-E2S FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AR-15 CQB AG (.300 BLK) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4A1 CQB AG (.300 BLK)", action_detach_handle, DetachForegrip, CanDetachForegrip)

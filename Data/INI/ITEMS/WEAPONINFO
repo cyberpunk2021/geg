@@ -45143,7 +45143,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
-StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Rifle ammo clip (M16/20)"
 StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4lac.act"
 IMAGE			"2x5.e5b"
@@ -45183,7 +45183,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
-StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Rifle ammo clip (M16/20)"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4lac.act"
 IMAGE			"2x4.e5b"
@@ -45191,12 +45191,12 @@ HANDS			ahtRifle
 
 ///////////-----------------
 
-ITEM "Assault Rifle XM-15-E2S (5.56mm) asalto"
+ITEM "Assault Rifle XM-15-E2S FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2800
 PrepareTime		0.36
-SingleFireTime	0.70
+SingleFireTime	0.68
 BurstFireTime	0.08
 SpeedModifier	1.02
 Resource		1500
@@ -45206,12 +45206,12 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	134
 RangeCurvature	3
 Balance			0.51
-Unfold			"Assault Rifle XM-15-E2S (5.56mm) asalto folded"
+Unfold			"Assault Rifle XM-15-E2S FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -45219,24 +45219,24 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
-StdPlug			"Rifle ammo clip (AR-15/10)"
+StdPlug			"Rifle ammo clip (M16/20)"
 StdPlug			"m4sopmod_butt"
-ACTOR			"Items\m4lacfg.act"
+ACTOR			"Items\m4a1risfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
-ITEM "Assault Rifle XM-15-E2S (5.56mm) asalto folded"
+ITEM "Assault Rifle XM-15-E2S FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2800
 PrepareTime		0.32
-SingleFireTime	0.70
+SingleFireTime	0.68
 BurstFireTime	0.08
 SpeedModifier	1.02
 Resource		1500
@@ -45246,12 +45246,12 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	114
 RangeCurvature	3
 Balance			0.51
-Unfold			"Assault Rifle XM-15-E2S (5.56mm) asalto"
+Unfold			"Assault Rifle XM-15-E2S FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -45259,15 +45259,15 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		1 "AssaultBipod"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
-StdPlug			"Rifle ammo clip (AR-15/10)"
+StdPlug			"Rifle ammo clip (M16/20)"
 StdPlug			"m4sopmod_butt_folded"
-ACTOR			"Items\m4lac.act"
+ACTOR			"Items\m4a1risfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
