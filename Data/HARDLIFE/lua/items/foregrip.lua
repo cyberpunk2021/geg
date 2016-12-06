@@ -7,6 +7,7 @@
  ["Assault Rifle M4A1 RIS (5.56mm) folded"] = "Assault Rifle M4A1 RIS FG (5.56mm) folded",
  ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A3 MWS FG (5.56mm)",
  ["Assault Rifle Grendel MWS (6.5)"] = "Assault Rifle Grendel MWS FG (6.5)",
+ ["Shotgun AA12 (12ga)"] = "Shotgun AA12 FG (12ga)",
  ["Assault Rifle T14 MWS (410)"] = "Assault Rifle T14 MWS FG (410)",
  ["Assault Rifle Beowulf MWS (.50 BEO)"] = "Assault Rifle Beowulf MWS FG (.50 BEO)",
  ["Assault Rifle XM-15-E2S (5.56mm)"] = "Assault Rifle XM-15-E2S FG (5.56mm)",
@@ -234,6 +235,7 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm)", Attach
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Grendel MWS (6.5)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Shotgun AA12 (12ga)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T14 MWS (410)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Beowulf MWS (.50 BEO)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle XM-15-E2S (5.56mm)", AttachForegrip)
@@ -332,6 +334,7 @@ AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm)", action_detach_handle, D
 AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Grendel MWS FG (6.5)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Shotgun AA12 FG (12ga)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T14 MWS FG (410)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Beowulf MWS FG (.50 BEO)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle XM-15-E2S FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
