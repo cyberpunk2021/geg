@@ -25668,7 +25668,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25723,7 +25723,7 @@ Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2100
 PrepareTime		0.27
-SingleFireTime	0.63
+SingleFireTime	0.61
 BurstFireTime	0.052
 SpeedModifier	1.11
 Resource		1500
@@ -25733,7 +25733,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			3
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	92
 RangeCurvature	3
@@ -25746,15 +25746,14 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Skorpion3"
 StdPlug			"SMG ammo clip (Skorpion 3/30)"
-StdPlug			"Frontgrip"
 StdPlug			"skorpion3stock"
-ACTOR			"Items\skorpion3.act"
+ACTOR			"Items\skorpion3fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -25763,7 +25762,7 @@ Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2100
 PrepareTime		0.23
-SingleFireTime	0.63
+SingleFireTime	0.61
 BurstFireTime	0.052
 SpeedModifier	1.11
 Resource		1500
@@ -25773,7 +25772,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			3
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	72
 RangeCurvature	3
@@ -25786,15 +25785,14 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Skorpion3"
 StdPlug			"SMG ammo clip (Skorpion 3/30)"
-StdPlug			"Frontgrip"
 StdPlug			"skorpion3stock_folded"
-ACTOR			"Items\skorpion3.act"
+ACTOR			"Items\skorpion3fg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
