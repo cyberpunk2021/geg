@@ -25823,7 +25823,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25838,7 +25838,7 @@ Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2450
 PrepareTime		0.29
-SingleFireTime	0.62
+SingleFireTime	0.60
 BurstFireTime	0.092
 SpeedModifier	1.12
 Resource		2100
@@ -25848,7 +25848,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	106
 RangeCurvature	3
@@ -25860,14 +25860,13 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MX49mm"
 StdPlug			"SMG ammo clip (MX4/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\mx4.act"
+ACTOR			"Items\mx4fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -25898,7 +25897,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25913,7 +25912,7 @@ Class			SMG
 Caliber			".40 S&W"
 Weight			2450
 PrepareTime		0.29
-SingleFireTime	0.66
+SingleFireTime	0.64
 BurstFireTime	0.092
 SpeedModifier	1.12
 Resource		2100
@@ -25923,7 +25922,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	106
 RangeCurvature	3
@@ -25935,14 +25934,13 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MX440"
 StdPlug			"SMG ammo clip (MX440/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\mx4.act"
+ACTOR			"Items\mx4fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -25973,7 +25971,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 45 Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25988,7 +25986,7 @@ Class			SMG
 Caliber			".45 ACP"
 Weight			2450
 PrepareTime		0.29
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.092
 SpeedModifier	1.12
 Resource		2100
@@ -25998,7 +25996,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	106
 RangeCurvature	3
@@ -26010,14 +26008,13 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Std 45 Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MX445"
 StdPlug			"SMG ammo clip (MX445/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\mx4.act"
+ACTOR			"Items\mx4fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -26048,7 +26045,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -26063,7 +26060,7 @@ Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2575
 PrepareTime		0.32
-SingleFireTime	0.66
+SingleFireTime	0.64
 BurstFireTime	0.092
 SpeedModifier	1.18
 Resource		2200
@@ -26073,7 +26070,7 @@ HeatCapacity	50
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	116
 RangeCurvature	3
@@ -26085,14 +26082,13 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MX49mm"
 StdPlug			"SMG ammo clip (MX4/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\cx4.act"
+ACTOR			"Items\cx4fg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -26123,7 +26119,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -26138,7 +26134,7 @@ Class			SMG
 Caliber			".40 S&W"
 Weight			2575
 PrepareTime		0.32
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.092
 SpeedModifier	1.18
 Resource		2200
@@ -26148,7 +26144,7 @@ HeatCapacity	50
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	116
 RangeCurvature	3
@@ -26160,14 +26156,13 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MX440"
 StdPlug			"SMG ammo clip (MX440/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\cx4.act"
+ACTOR			"Items\cx4fg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -26198,7 +26193,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 45 Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -26213,7 +26208,7 @@ Class			SMG
 Caliber			".45 ACP"
 Weight			2575
 PrepareTime		0.32
-SingleFireTime	0.68
+SingleFireTime	0.66
 BurstFireTime	0.092
 SpeedModifier	1.18
 Resource		2200
@@ -26223,7 +26218,7 @@ HeatCapacity	50
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	116
 RangeCurvature	3
@@ -26235,14 +26230,13 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Std 45 Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MX445"
 StdPlug			"SMG ammo clip (MX445/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\cx4.act"
+ACTOR			"Items\cx4fg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 

@@ -86,6 +86,12 @@
  ["Submachine-gun MPXK (40) folded"] = "Submachine-gun MPXK FG (40) folded",
  ["Submachine-gun MPXK (357)"] = "Submachine-gun MPXK FG (357)",
  ["Submachine-gun MPXK (357) folded"] = "Submachine-gun MPXK FG (357) folded",
+ ["Submachine-gun MX4 (9mm)"] = "Submachine-gun MX4 FG (9mm)",
+ ["Submachine-gun MX4 (40)"] = "Submachine-gun MX4 FG (40)",
+ ["Submachine-gun MX4 (45)"] = "Submachine-gun MX4 FG (45)",
+ ["Submachine-gun CX4 (9mm)"] = "Submachine-gun CX4 FG (9mm)",
+ ["Submachine-gun CX4 (40)"] = "Submachine-gun CX4 FG (40)",
+ ["Submachine-gun CX4 (45)"] = "Submachine-gun CX4 FG (45)",
 }
 
 -- проверяем что доступно снятие тактической рукоятки
@@ -302,6 +308,12 @@ AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (40)", AttachForegri
 AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (40) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (357)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun MPXK (357) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MX4 (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MX4 (40)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun MX4 (45)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun CX4 (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun CX4 (40)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun CX4 (45)", AttachForegrip)
 
 -- Pistol with holster stock
 AddItemCombineHandler("APS Belt", "Pistol APS (9x18mm) folded", AttachStock)
@@ -394,3 +406,9 @@ AddItemContextMenu("Submachine-gun MPXK FG (40)", action_detach_handle, DetachFo
 AddItemContextMenu("Submachine-gun MPXK FG (40) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun MPXK FG (357)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun MPXK FG (357) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MX4 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MX4 FG (40)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun MX4 FG (45)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun CX4 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun CX4 FG (40)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun CX4 FG (45)", action_detach_handle, DetachForegrip, CanDetachForegrip)
