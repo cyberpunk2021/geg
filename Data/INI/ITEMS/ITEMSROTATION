@@ -13148,6 +13148,14 @@ Z  0
 X  0
 Y  -90
 Z  0
+"HK416 14DRS FG"
+X  0
+Y  -90
+Z  0
+"HK416 14DRS FG folded"
+X  0
+Y  -90
+Z  0
 
 "Assault Rifle Stoner 63 CAR (5.56mm)"
 X  0
@@ -14065,11 +14073,35 @@ Z  0
 X  0
 Y  -90
 Z  0
+"HK416CQB"
+X  0
+Y  -90
+Z  0
 "HK416CQB folded"
 X  0
 Y  -90
 Z  0
+"HK416CQB FG"
+X  0
+Y  -90
+Z  0
+"HK416CQB FG folded"
+X  0
+Y  -90
+Z  0
+"HK416"
+X  0
+Y  -90
+Z  0
 "HK416 folded"
+X  0
+Y  -90
+Z  0
+"HK416 FG"
+X  0
+Y  -90
+Z  0
+"HK416 FG folded"
 X  0
 Y  -90
 Z  0
@@ -14195,14 +14227,6 @@ X  0
 Y  -90
 Z  0
 "HK417 20Inch"
-X  0
-Y  -90
-Z  0
-"HK416"
-X  0
-Y  -90
-Z  0
-"HK416CQB"
 X  0
 Y  -90
 Z  0

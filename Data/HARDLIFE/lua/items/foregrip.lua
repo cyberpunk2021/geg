@@ -64,6 +64,12 @@
  ["Assault Rifle AK-12U (7.62mm) folded"] = "Assault Rifle AK-12U FG (7.62mm) folded",
  ["Assault Rifle AK-12U (308)"] = "Assault Rifle AK-12U FG (308)",
  ["Assault Rifle AK-12U (308) folded"] = "Assault Rifle AK-12U FG (308) folded",
+ ["HK416CQB"] = "HK416CQB FG",
+ ["HK416CQB folded"] = "HK416CQB FG folded",
+ ["HK416 14DRS"] = "HK416 14DRS FG",
+ ["HK416 14DRS folded"] = "HK416 14DRS FG folded",
+ ["HK416"] = "HK416 FG",
+ ["HK416 folded"] = "HK416 FG folded",
  ["SW MP15 300BLK"] = "SW MP15 300BLK FG",
  ["SW MP15 300BLK folded"] = "SW MP15 300BLK FG folded",
  ["SW MP15 300BLK CQC"] = "SW MP15 300BLK CQC FG",
@@ -308,6 +314,12 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (7.62mm)", AttachFo
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (7.62mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (308)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (308) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416CQB", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416CQB folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416 14DRS", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416 14DRS folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC", AttachForegrip)
@@ -423,6 +435,12 @@ AddItemContextMenu("Assault Rifle AK-12U FG (7.62mm)", action_detach_handle, Det
 AddItemContextMenu("Assault Rifle AK-12U FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12U FG (308)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12U FG (308) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416CQB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416CQB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416 14DRS FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416 14DRS FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
