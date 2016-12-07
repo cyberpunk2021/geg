@@ -14032,7 +14032,39 @@ Z  0
 X  0
 Y  -90
 Z  0
+"HK417 12Inch CQB"
+X  0
+Y  -90
+Z  0
 "HK417 12Inch CQB folded"
+X  0
+Y  -90
+Z  0
+"HK417 12Inch CQB FG"
+X  0
+Y  -90
+Z  0
+"HK417 12Inch CQB FG folded"
+X  0
+Y  -90
+Z  0
+"HK417 16Inch"
+X  0
+Y  -90
+Z  0
+"HK417 16Inch folded"
+X  0
+Y  -90
+Z  0
+"HK417 16Inch FG"
+X  0
+Y  -90
+Z  0
+"HK417 16Inch FG folded"
+X  0
+Y  -90
+Z  0
+"HK417 20Inch"
 X  0
 Y  -90
 Z  0
@@ -14040,7 +14072,11 @@ Z  0
 X  0
 Y  -90
 Z  0
-"HK417 16Inch folded"
+"HK417 20Inch FG"
+X  0
+Y  -90
+Z  0
+"HK417 20Inch FG folded"
 X  0
 Y  -90
 Z  0
@@ -14215,18 +14251,6 @@ X  0
 Y  -90
 Z  0
 "FAMAS G2 Sniper"
-X  0
-Y  -90
-Z  0
-"HK417 12Inch CQB"
-X  0
-Y  -90
-Z  0
-"HK417 16Inch"
-X  0
-Y  -90
-Z  0
-"HK417 20Inch"
 X  0
 Y  -90
 Z  0

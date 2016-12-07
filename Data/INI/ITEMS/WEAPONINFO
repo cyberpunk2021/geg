@@ -60478,7 +60478,7 @@ Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3933
 PrepareTime		0.30
-SingleFireTime	0.77
+SingleFireTime	0.79
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		2000
@@ -60501,24 +60501,23 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "G28"
 StdPlug			"Rifle ammo clip (G28/20)"
 StdPlug			"g28stockgrey"
-StdPlug			"Frontgrip"
 ACTOR			"Items\hk417newcqc.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "HK417 12Inch CQB folded"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3933
 PrepareTime		0.26
-SingleFireTime	0.77
+SingleFireTime	0.79
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		2000
@@ -60541,15 +60540,92 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "G28"
 StdPlug			"Rifle ammo clip (G28/20)"
 StdPlug			"g28stockgrey_folded"
-StdPlug			"Frontgrip"
 ACTOR			"Items\hk417newcqc.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "HK417 12Inch CQB FG"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3933
+PrepareTime		0.30
+SingleFireTime	0.77
+BurstFireTime	0.08
+SpeedModifier	0.97
+Resource		2000
+DirtResource	230000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	4.6
+Balance			0.49
+Unfold			"HK417 12Inch CQB FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G28"
+StdPlug			"Rifle ammo clip (G28/20)"
+StdPlug			"g28stockgrey"
+ACTOR			"Items\hk417newcqcfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "HK417 12Inch CQB FG folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3933
+PrepareTime		0.26
+SingleFireTime	0.77
+BurstFireTime	0.08
+SpeedModifier	0.97
+Resource		2000
+DirtResource	230000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	4.6
+Balance			0.49
+Unfold			"HK417 12Inch CQB FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G28"
+StdPlug			"Rifle ammo clip (G28/20)"
+StdPlug			"g28stockgrey_folded"
+ACTOR			"Items\hk417newcqcfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -60631,6 +60707,84 @@ ACTOR			"items\hk417new.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "HK417 16Inch FG"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3965
+PrepareTime		0.39
+SingleFireTime	0.78
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2300
+DirtResource	230000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	135
+RangeCurvature	4.5
+Balance			0.47
+Unfold			"HK417 16Inch FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G28"
+StdPlug			"Rifle ammo clip (G28/20)"
+StdPlug			"g28stockgrey"
+ACTOR			"items\hk417newfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "HK417 16Inch FG folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3965
+PrepareTime		0.35
+SingleFireTime	0.78
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2300
+DirtResource	230000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	115
+RangeCurvature	4.5
+Balance			0.47
+Unfold			"HK417 16Inch FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G28"
+StdPlug			"Rifle ammo clip (G28/20)"
+StdPlug			"g28stockgrey_folded"
+ACTOR			"items\hk417newfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "HK417 20Inch"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
@@ -60708,6 +60862,84 @@ StdPlug			"g28stockgrey_folded"
 ACTOR			"items\hk417newdmr.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "HK417 20Inch FG"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			4146
+PrepareTime		0.47
+SingleFireTime	0.82
+BurstFireTime	0.08
+SpeedModifier	1.06
+Resource		2300
+DirtResource	260000
+MisfireProb		0.0019
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	172
+RangeCurvature	2.5
+Balance			0.44
+Unfold			"HK417 20Inch FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G28"
+StdPlug			"Rifle ammo clip (G28/20)"
+StdPlug			"g28stockgrey"
+ACTOR			"items\hk417newdmrfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "HK417 20Inch FG folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			4146
+PrepareTime		0.43
+SingleFireTime	0.82
+BurstFireTime	0.08
+SpeedModifier	1.06
+Resource		2300
+DirtResource	260000
+MisfireProb		0.0019
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	132
+RangeCurvature	2.5
+Balance			0.44
+Unfold			"HK417 20Inch FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "G28"
+StdPlug			"Rifle ammo clip (G28/20)"
+StdPlug			"g28stockgrey_folded"
+ACTOR			"items\hk417newdmrfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle MK18 CQC (5.56mm)"
 Class			Rifle

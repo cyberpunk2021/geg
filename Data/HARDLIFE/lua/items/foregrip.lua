@@ -70,6 +70,12 @@
  ["HK416 14DRS folded"] = "HK416 14DRS FG folded",
  ["HK416"] = "HK416 FG",
  ["HK416 folded"] = "HK416 FG folded",
+ ["HK417 12Inch CQB"] = "HK417 12Inch CQB FG",
+ ["HK417 12Inch CQB folded"] = "HK417 12Inch CQB FG folded",
+ ["HK417 16Inch"] = "HK417 16Inch FG",
+ ["HK417 16Inch folded"] = "HK417 16Inch FG folded",
+ ["HK417 20Inch"] = "HK417 20Inch FG",
+ ["HK417 20Inch folded"] = "HK417 20Inch FG folded",
  ["SW MP15 300BLK"] = "SW MP15 300BLK FG",
  ["SW MP15 300BLK folded"] = "SW MP15 300BLK FG folded",
  ["SW MP15 300BLK CQC"] = "SW MP15 300BLK CQC FG",
@@ -320,6 +326,12 @@ AddItemCombineHandler("Tactical grip", "HK416 14DRS", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416 14DRS folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416 folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK417 12Inch CQB", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK417 12Inch CQB folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK417 16Inch", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK417 16Inch folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK417 20Inch", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK417 20Inch folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 300BLK CQC", AttachForegrip)
@@ -441,6 +453,12 @@ AddItemContextMenu("HK416 14DRS FG", action_detach_handle, DetachForegrip, CanDe
 AddItemContextMenu("HK416 14DRS FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK417 12Inch CQB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK417 12Inch CQB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK417 16Inch FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK417 16Inch FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK417 20Inch FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK417 20Inch FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 300BLK CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
