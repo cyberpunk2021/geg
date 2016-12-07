@@ -58485,7 +58485,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58524,7 +58524,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58540,7 +58540,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2940
 PrepareTime		0.27
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -58550,7 +58550,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	2
@@ -58563,15 +58563,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Krebs_butt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsd.act"
+ACTOR			"Items\lwrcpsdfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -58580,7 +58579,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2940
 PrepareTime		0.23
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -58590,7 +58589,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	90
 RangeCurvature	2
@@ -58603,15 +58602,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Krebs_butt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsd.act"
+ACTOR			"Items\lwrcpsdfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -58643,7 +58641,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58682,7 +58680,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58698,7 +58696,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2940
 PrepareTime		0.27
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -58708,7 +58706,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	2
@@ -58721,15 +58719,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Krebs_butt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsdblk.act"
+ACTOR			"Items\lwrcpsdblkfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -58738,7 +58735,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2940
 PrepareTime		0.23
-SingleFireTime	0.65
+SingleFireTime	0.63
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -58748,7 +58745,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	90
 RangeCurvature	2
@@ -58761,15 +58758,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Krebs_butt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsdblk.act"
+ACTOR			"Items\lwrcpsdblkfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -58801,7 +58797,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58840,7 +58836,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58856,7 +58852,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2940
 PrepareTime		0.28
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -58866,7 +58862,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	2
@@ -58879,15 +58875,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
 StdPlug			"Krebs_butt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsd.act"
+ACTOR			"Items\lwrcpsdfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -58896,7 +58891,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2940
 PrepareTime		0.24
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -58906,7 +58901,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	90
 RangeCurvature	2
@@ -58919,15 +58914,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
 StdPlug			"Krebs_butt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsd.act"
+ACTOR			"Items\lwrcpsdfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -58959,7 +58953,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58998,7 +58992,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59014,7 +59008,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2940
 PrepareTime		0.28
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -59024,7 +59018,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	2
@@ -59037,15 +59031,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
 StdPlug			"Krebs_butt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsdblk.act"
+ACTOR			"Items\lwrcpsdblkfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -59054,7 +59047,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2940
 PrepareTime		0.24
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	0.94
 Resource		1600
@@ -59064,7 +59057,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	90
 RangeCurvature	2
@@ -59077,15 +59070,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Tan Window BLK New (SPC/30)"
 StdPlug			"Krebs_butt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\lwrcpsdblk.act"
+ACTOR			"Items\lwrcpsdblkfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
