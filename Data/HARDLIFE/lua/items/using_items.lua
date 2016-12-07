@@ -251,7 +251,7 @@ function UnpackWeaponBox(item)
  local new_item = BoxItems[item:GetName()]
 
    if new_item ~= nil and monster:DeleteItem(item) then
-     for i = 1, 10 do
+     for i = 1, 5 do
        weapon = CreateItem(new_item)
        DropItem(weapon)
      end
