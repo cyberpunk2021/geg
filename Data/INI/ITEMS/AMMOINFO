@@ -2042,7 +2042,7 @@ WEIGHT 16.99
 50
 ACTOR "Items\12GA_HUNT.ACT"
 IMAGE "12ga_hunt_6.e5b"
-WEIGHT 48
+WEIGHT 51.63
 SHOTGUN 27 2 2
 
 "Slug (12ga)"
@@ -2065,7 +2065,7 @@ SHOTGUN 27 2 2
 250
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 55
+WEIGHT 62.81
 
 "Buckshot N4 (12ga)"
 "12 ךאכטבנ"
@@ -2087,7 +2087,7 @@ WEIGHT 55
 70
 ACTOR "Items\12ga_sabot.act"
 IMAGE "12ga_sabot_6.e5b"
-WEIGHT 46
+WEIGHT 58.11
 SHOTGUN 27 2 2
 
 "Flechette (12ga)"
@@ -2110,7 +2110,7 @@ SHOTGUN 27 2 2
 200
 ACTOR "Items\12gaflechette.act"
 IMAGE "ammo-Flechette.e5b"
-WEIGHT 50
+WEIGHT 59.36
 SHOTGUN 19 1 1
 
 "Rubber Slug (12ga)"
@@ -2133,7 +2133,7 @@ SHOTGUN 19 1 1
 50
 ACTOR "Items\12GA_Rubber.act"
 IMAGE "12ga_rubber_6.e5b"
-WEIGHT 20
+WEIGHT 30.87
 
 "00 Buckshot Palinero (12ga)"
 "12 ךאכטבנ"
@@ -2155,7 +2155,7 @@ WEIGHT 20
 70
 ACTOR "Items\12ga00buckshot.act"
 IMAGE "ammo-Buckshot.e5b"
-WEIGHT 49
+WEIGHT 61.79
 SHOTGUN 8 2 2
 
 "00 Buckshot Algeira (12ga)"
@@ -2178,7 +2178,7 @@ SHOTGUN 8 2 2
 70
 ACTOR "Items\12ga00buckshot.act"
 IMAGE "ammo-Buckshot.e5b"
-WEIGHT 48
+WEIGHT 60.77
 SHOTGUN 8 2 2
 
 "00 Buckshot (12ga)"
@@ -2201,7 +2201,7 @@ SHOTGUN 8 2 2
 80
 ACTOR "Items\12ga00buckshot.act"
 IMAGE "ammo-Buckshot.e5b"
-WEIGHT 47.7
+WEIGHT 64.22
 SHOTGUN 9 2 2
 
 "00 Buckshot MAGNUM (12ga)"
@@ -2224,7 +2224,7 @@ SHOTGUN 9 2 2
 90
 ACTOR "Items\12ga00buckshot.act"
 IMAGE "ammo-Buckshot.e5b"
-WEIGHT 50
+WEIGHT 71.82
 SHOTGUN 9 2 2
 
 "Sabot (12ga)"
@@ -2247,7 +2247,7 @@ SHOTGUN 9 2 2
 350
 ACTOR "Items\12ga_sabot.act"
 IMAGE "12ga_sabot_6.e5b"
-WEIGHT 50
+WEIGHT 73.66
 
 "M33 Ball .50 BMG (12.7x99 mm)"
 "12.7 לל"
@@ -2624,7 +2624,7 @@ WEIGHT 191.32
 60
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 38
+WEIGHT 37.33
 SHOTGUN 24 2 2
 
 "Flechette (20 ga)"
@@ -2647,7 +2647,7 @@ SHOTGUN 24 2 2
 190
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 39
+WEIGHT 41.93
 SHOTGUN 13 1 1
 
 "Buckshot (20 ga)"
@@ -2670,7 +2670,7 @@ SHOTGUN 13 1 1
 65
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 40
+WEIGHT 40.82
 SHOTGUN 6 2 2
 
 "Slug (20 ga)"
@@ -2693,7 +2693,7 @@ SHOTGUN 6 2 2
 180
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 46
+WEIGHT 43.69
 
 "Barricada (23 mm)"
 "23 לל"
@@ -3641,7 +3641,7 @@ WEIGHT 250
 130
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 23
+WEIGHT 17.22
 SHOTGUN 9 1 1
 
 ".410 Bore Flechette"
@@ -3664,7 +3664,7 @@ SHOTGUN 9 1 1
 150
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 26
+WEIGHT 22.32
 SHOTGUN 7 2 2
 
 ".410 Bore Slug"
@@ -3687,7 +3687,7 @@ SHOTGUN 7 2 2
 140
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 27
+WEIGHT 23.71
 
 ".410 Bore Buckshot"
 "410 caliber"
@@ -3709,7 +3709,7 @@ WEIGHT 27
 130
 ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
-WEIGHT 25
+WEIGHT 19.22
 SHOTGUN 3 1 1
 
 "WPA (5x45mm)"
@@ -4018,7 +4018,7 @@ WEIGHT 11.96
 800
 ACTOR "Items\M193.act"
 IMAGE "ammo-M193.e5b"
-WEIGHT 11.53
+WEIGHT 11.23
 
 "M955 AP (5.56mm)"
 "5.56ץ45 לל"
@@ -4216,7 +4216,7 @@ WEIGHT 6.92
 860
 ACTOR "Items\7u1.act"
 IMAGE "ammo-7N22.e5b"
-WEIGHT 12.12
+WEIGHT 12.89
 
 "DBP87"
 "5.8x42mm"

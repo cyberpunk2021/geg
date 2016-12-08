@@ -908,7 +908,7 @@ BOX  "Ammo box 500 HLA (7N21)""7N21 (9mm)"500 "Items\cajamun_200x762.act""cajamu
 
 BOX "Big Ammo box (9x19 HP)""EX-STAR (9mm)"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
-BOX  "BigAmmoBox (9x19/500)""9x19 FMJ Ball"500 "Items\algeirabox500_9mm.act""algeira500box.e5b"
+BOX "BigAmmoBox (9x19/500)""9x19 FMJ Ball"500 "Items\algeirabox500_9mm.act""algeira500box.e5b"
 BOX "Big Ammo box 500 (Palinero)""9x19 Palinero"500 "Items\caxa.act""caxa.e5b"
 
 BOX "CajaMunicionGrande (9mm/1000)""124grn 9x19mm"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
@@ -5022,7 +5022,7 @@ DEFAMMO  "6.8x43 FMJ Ball ammo"
 
 
 BOX  "Ammo box (SB 7.62x39)""SB (7.62x39mm)"20 "Items\762x39sb_box.act""762x39sb_box.e5b"
-BOX  "Ammo box (BPZ 7.62x39)""57-N-231S (7.62x39mm)"20 "Items\762x39bpz_box.act""762x39bpz_box.e5b"
+BOX  "Ammo box (BPZ 7.62x39)""BPZ 7.62x39"20 "Items\762x39bpz_box.act""762x39bpz_box.e5b"
 BOX  "Ammo box (57-N-231S)""57-N-231S (7.62x39mm)"20 "Items\57-n-231s-box.act""57-n-231s-box.e5b"
 BOX  "Ammo box (7N23)""7N23 (7.62x39mm)"20 "Items\7n23-box.act""7n23-box.e5b"
 BOX  "Ammo box (US)""US (7.62x39mm)"20 "Items\762us-box.act""762us-box.e5b"
@@ -5036,14 +5036,13 @@ BOX  "Ammo box 7.62x39 Norinco""Norinco (7.62x39mm)"20 "Items\762x39norinco.act"
 BOX  "Big Ammo box (7.62x39)""7.62x39 FMJ Ball"20 "Items\762x39_box.act""762x39_box.e5b"
 BOX  "BigWoodAmmoBox 57-N-231S (7.62x39/1000)""57-N-231S (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "BigWoodAmmoBox 7N23 (7.62x39/1000)""7N23 (7.62x39mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-/// ARM перенос ящика BigWoodAmmoBox 7N6 калибра 5.45 мм в калибр 7.62х39 мм как югосл. М67
 BOX  "BigWoodAmmoBox 7N6 (5.45/1000)""M67 (7.62x39mm)"600 "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.E5B"
 BOX  "Ammo box 500 HLA (7.62x39JHP)""Barnaul JHP (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (7.62x39 PDX JHP)""Winchester PDX JHP (7.62x39mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 
 BOX  "Ammo box 500 (7.62x39 FMJ Prvi)""Prvi (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 
-BOX  "Ammo box 500 HLA (BPZ 7.62x39)""57-N-231S (7.62x39mm)"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
+BOX  "Ammo box 500 HLA (BPZ 7.62x39)""BPZ 7.62x39"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
 BOX  "Ammo box 500 HLA (SB 7.62x39)""SB (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 HLA (US)""US (7.62x39mm)"600 "Items\grenadecase_us.act""grenadecase_us.e5b"
@@ -5264,7 +5263,7 @@ BOX  "Ammo box (M80)""M80 (7.62x51mm)"20 "Items\cbcbox762.act""cbcboxinv.e5b"
 BOX  "Ammo box (M993)""M993 (7.62x51mm)"20 "Items\cbcbox762AP.act""cbcboxinv.e5b"
 BOX  "Ammo box (7.62x51SP)""PPU .308 SP"20 "Items\762x51sp_box.act""boxprvi.e5b"
 BOX  "Big Ammo box (7.62x51)""7.62x51 FMJ Ball"20 "Items\algeira762.act""algeiraboxinv.e5b"
-BOX  "BigWoodAmmoBox M80 (7.62x51/800)""M80 (7.62x51mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+BOX  "BigWoodAmmoBox M80 (7.62x51/800)""M80 (7.62x51mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "BigWoodAmmoBox M993 (7.62x51/800)""M993 (7.62x51mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "BigAmmoBox (7.62x51/400)""7.62x51 FMJ Ball"600 "Items\algeirabox500_308.act""algeira500box.e5b"
 BOX  "Ammo pack (M80)""M80 (7.62x51mm)"120 "Items\zink.act""556_500.e5b"

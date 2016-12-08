@@ -29,7 +29,7 @@
  ["PackedAmmoBox Palinero (5.45x39/500)"] = "BigAmmoBox (5.45/500)",
  ["PackedAmmoBox Algeira (300 BLK/500)"] = "Ammo box 500 HLA (.300 Rem 220grn)",
  ["PackedAmmoBox Algeira (5.56/500)"] = "BigAmmoBox (5.56/500)",
- ["PackedAmmoBox CBC (5.56/500)"] = "BigWoodAmmoBox M193 (5.56/1000)",
+ ["PackedAmmoBox CBC (5.56/500)"] = "Ammo box 500 (5.56 Noveske)",
  ["PackedAmmoBox Algeira (6.8 SPC/500)"] = "Big Ammo box FMJ (6.8x43/500)",
  ["PackedAmmoBox Norinco (7.62x39/500)"] = "Ammo box 500 HLA 7.62x39 Norinco",
  ["PackedAmmoBox Palinero (7.62x39/500)"] = "BigAmmoBox (7.62x39/500)",
@@ -85,6 +85,23 @@
  ["BigWoodBoxM964"] = "IMBEL M964",
  ["BigWoodBoxAUGA1"] = "Assault Rifle Steyr AUG A1 (5.56mm)",
  ["BigWoodBoxAUGA2"] = "Assault Rifle Steyr AUG A2 SR (5.56mm)",
+ 
+ ["MEGABOX Algeira (9mm/2500)"] = "BigAmmoBox (9x19/500)",
+ ["MEGABOX CBC (9mm/2500)"] = "Big Ammo box 500 (9x19)",
+ ["MEGABOX FM (9mm/2500)"] = "CajaMunicionGrande (9mm/1000)",
+ ["MEGABOX Algeira (5.56/3000)"] = "BigAmmoBox (5.56/500)",
+ ["MEGABOX CBC (5.56/3000)"] = "Ammo box 500 (5.56 Noveske)",
+ ["MEGABOX CBC AP (5.56/3000)"] = "BigWoodAmmoBox M955 (5.56/1000)",
+ ["MEGABOX Norinco (5.56/3000)"] = "Ammo box 500 (223 Norinco)",
+ ["MEGABOX Palinero (5.45x39/3000)"] = "BigAmmoBox (5.45/500)",
+ ["MEGABOX Palinero (7.62x39/3000)"] = "BigAmmoBox (7.62x39/500)",
+ ["MEGABOX Norinco (7.62x39/3000)"] = "Ammo box 500 HLA 7.62x39 Norinco",
+ ["MEGABOX Palinero (7.62x54R/3000)"] = "BigAmmoBox (7.62x54/400)",
+ ["MEGABOX Algeira (7.62/3000)"] = "BigAmmoBox (7.62x51/400)",
+ ["MEGABOX CBC (7.62/3000)"] = "BigWoodAmmoBox M80 (7.62x51/800)",
+ ["MEGABOX CBC AP (7.62/3000)"] = "BigWoodAmmoBox M993 (7.62x51/800)",
+ ["MEGABOX FM (7.62/3000)"] = "CajaMunicionGrande (7.62/400)",
+ ["MEGABOX Norinco (7.62/3000)"] = "Ammo Box 500 Duplex .308",
 }
 
  local SimilarItems = {
@@ -698,3 +715,19 @@ AddItemContextMenu("BigWoodBoxM964", 		action_unpack_box, UnpackWeaponBox, CanUn
 AddItemContextMenu("BigWoodBoxAUGA1", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxAUGA2", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxHK33", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Algeira (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX CBC (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX FM (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Algeira (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX CBC (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX CBC M193 (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Norinco (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Palinero (5.45x39/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Palinero (7.62x39/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Norinco (7.62x39/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Palinero (7.62x54R/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Algeira (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX CBC (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX CBC AP (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX FM (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX Norinco (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
