@@ -72,6 +72,10 @@
  ["Assault Rifle AK-12U (7.62mm) folded"] = "Assault Rifle AK-12U FG (7.62mm) folded",
  ["Assault Rifle AK-12U (308)"] = "Assault Rifle AK-12U FG (308)",
  ["Assault Rifle AK-12U (308) folded"] = "Assault Rifle AK-12U FG (308) folded",
+ ["Assault Rifle SIG 556 CQC (5.56mm)"] = "Assault Rifle SIG 556 CQC FG (5.56mm)",
+ ["Assault Rifle SIG 556 CQC (5.56mm) folded"] = "Assault Rifle SIG 556 CQC FG (5.56mm) folded",
+ ["Assault Rifle SIG 556 CQC CIV (5.56mm)"] = "Assault Rifle SIG 556 CQC CIV FG (5.56mm)",
+ ["Assault Rifle SIG 556 CQC CIV (5.56mm) folded"] = "Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded",
  ["HK416CQB"] = "HK416CQB FG",
  ["HK416CQB folded"] = "HK416CQB FG folded",
  ["HK416 14DRS"] = "HK416 14DRS FG",
@@ -336,6 +340,10 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (7.62mm)", AttachFo
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (7.62mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (308)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (308) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC CIV (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC CIV (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416 14DRS", AttachForegrip)
@@ -471,6 +479,10 @@ AddItemContextMenu("Assault Rifle AK-12U FG (7.62mm)", action_detach_handle, Det
 AddItemContextMenu("Assault Rifle AK-12U FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12U FG (308)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12U FG (308) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CQC CIV FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416 14DRS FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
