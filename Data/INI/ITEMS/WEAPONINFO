@@ -34855,7 +34855,7 @@ ATT Magazine	1 "SafirT14"
 StdPlug			"Rifle ammo clip (T14/15)"
 StdPlug			"m4sopmod_butt"
 StdPlug			"M16 Handle"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -34895,7 +34895,7 @@ ATT Magazine	1 "SafirT14"
 StdPlug			"Rifle ammo clip (T14/15)"
 StdPlug			"m4sopmod_butt_folded"
 StdPlug			"M16 Handle"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -43416,7 +43416,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/10)"
 StdPlug			"m4sopmod_butt"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -43455,7 +43455,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Beowulf"
 StdPlug			"Rifle ammo clip (Beowulf/10)"
 StdPlug			"m4sopmod_butt_folded"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -45286,7 +45286,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/20)"
 StdPlug			"m4sopmod_butt"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -45326,7 +45326,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/20)"
 StdPlug			"m4sopmod_butt_folded"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -58410,7 +58410,7 @@ ATT Bayonet		0
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"m4sopmod_butt"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -58449,7 +58449,7 @@ ATT Bayonet		0
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"m4sopmod_butt_folded"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4lacfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
