@@ -55782,7 +55782,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4_butt"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -55822,7 +55822,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"M16 Handle"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4_butt_folded"
-ACTOR			"Items\m4a1risfg.act"
+ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
