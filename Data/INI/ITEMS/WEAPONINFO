@@ -35604,7 +35604,7 @@ Class			Rifle
 Caliber			".22LR"
 Weight			2676
 PrepareTime		0.32
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
@@ -35614,7 +35614,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -35627,25 +35627,24 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"M16 Handle"
-StdPlug			"Frontgrip"
 StdPlug			"Rifle ammo clip (M1622/30)"
 StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Assault Rifle M4 SOPMOD FG (22) folded"
 Class			Rifle
 Caliber			".22LR"
 Weight			2676
 PrepareTime		0.29
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
@@ -35655,7 +35654,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -35668,18 +35667,17 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"M16 Handle"
-StdPlug			"Frontgrip"
 StdPlug			"Rifle ammo clip (M1622/30)"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Assault Rifle L85A2 (22)"
 Class			Rifle
@@ -43156,7 +43154,7 @@ Class			Rifle
 Caliber			".50 Beowulf"
 Weight			2876
 PrepareTime		0.34
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1300
@@ -43166,7 +43164,7 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		185
 EffectiveRange	100
 RangeCurvature	2
@@ -43179,14 +43177,13 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
 StdPlug			"m4sopmod_butt"
-StdPlug			"Frontgrip"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -43196,7 +43193,7 @@ Class			Rifle
 Caliber			".50 Beowulf"
 Weight			2876
 PrepareTime		0.30
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1300
@@ -43206,7 +43203,7 @@ HeatCapacity	45
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		185
 EffectiveRange	80
 RangeCurvature	2
@@ -43219,13 +43216,12 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Beowulf"
 StdPlug			"Magpul PMAG Window (Beowulf/10)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
@@ -58152,7 +58148,7 @@ Class			Rifle
 Caliber			"6.5mm Grendel"
 Weight			2676
 PrepareTime		0.32
-SingleFireTime	0.71
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
@@ -58162,7 +58158,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		360
 EffectiveRange	123
 RangeCurvature	3
@@ -58175,14 +58171,13 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
 StdPlug			"m4sopmod_butt"
-StdPlug			"Frontgrip"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -58192,7 +58187,7 @@ Class			Rifle
 Caliber			"6.5mm Grendel"
 Weight			2676
 PrepareTime		0.29
-SingleFireTime	0.71
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
@@ -58202,7 +58197,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		360
 EffectiveRange	98
 RangeCurvature	3
@@ -58215,13 +58210,12 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "GRENDELMAG""GRENDELMAGDB"
 StdPlug			"Rifle ammo clip PMAG (6.5/30)"
-StdPlug			"Frontgrip"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
@@ -64114,7 +64108,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2676
 PrepareTime		0.32
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
@@ -64124,7 +64118,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -64137,13 +64131,12 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
@@ -64154,7 +64147,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2676
 PrepareTime		0.29
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
@@ -64164,7 +64157,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -64177,13 +64170,12 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
