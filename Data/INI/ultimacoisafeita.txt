@@ -1973,7 +1973,10 @@ fazer as bullpups terem ahtBullpup
 verificar caixa "Ammo box (7N23)"
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 criar Prvi (7.62x39mm)
-consertar iteminfo sealed crate, 600 balas ao inves de 500
+fazer m955 cbc
+
+(balapreço * qtdade) / 1,25 = packed box
+(balapreço * qtdade) / 1,5 = megabox
 
 "fnfalnova_dsa_stock"
 "fnfalnova_dsa_stock_folded"
@@ -2103,7 +2106,24 @@ x location
 
 +++++++++++++
 
+"Assault Rifle Norinco CQ (5.56mm)"
+"Assault Rifle Norinco CQ CIV (5.56mm)"
+"Assault Rifle DIO S (5.56mm)"
+"Assault Rifle Terab (5.56mm)"
 
-
-
-
+"MEGABOX Algeira (9mm/2500)"
+"MEGABOX CBC (9mm/2500)"
+"MEGABOX FM (9mm/2500)"
+"MEGABOX Algeira (5.56/3000)"
+"MEGABOX CBC (5.56/3000)"
+"MEGABOX CBC AP (5.56/3000)"
+"MEGABOX Norinco (5.56/3000)"
+"MEGABOX Palinero (5.45x39/3000)"
+"MEGABOX Palinero (7.62x39/3000)"
+"MEGABOX Norinco (7.62x39/3000)"
+"MEGABOX Palinero (7.62x54R/3000)"
+"MEGABOX Algeira (7.62/3000)"
+"MEGABOX CBC (7.62/3000)"
+"MEGABOX CBC AP (7.62/3000)"
+"MEGABOX FM (7.62/3000)"
+"MEGABOX Norinco (7.62/3000)"

@@ -45480,6 +45480,43 @@ ACTOR			"Items\m16a1hg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle Norinco CQ CIV (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2971
+PrepareTime		0.44
+SingleFireTime	0.75
+BurstFireTime	0.0706
+SpeedModifier	1.06
+Resource		1100
+DirtResource	120000
+MisfireProb		0.005
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	155
+RangeCurvature	2
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AR15.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "M16A1-A2"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\norincocq_311.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Assault Rifle M16A1 HG CIV 715 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
@@ -48529,7 +48566,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "G36 mag"
 StdPlug			"Rifle ammo clip_T (G36/30)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\vhsnovafg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -56611,6 +56647,117 @@ ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\m16a1hg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Norinco CQ (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2971
+PrepareTime		0.44
+SingleFireTime	0.75
+BurstFireTime	0.0706
+SpeedModifier	1.06
+Resource		1100
+DirtResource	120000
+MisfireProb		0.005
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	155
+RangeCurvature	2
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AR15.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "M16A1-A2"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\norincocq_311.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle DIO S (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3171
+PrepareTime		0.45
+SingleFireTime	0.76
+BurstFireTime	0.0706
+SpeedModifier	1.06
+Resource		1000
+DirtResource	110000
+MisfireProb		0.005
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	158
+RangeCurvature	2
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AR15.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "M16A1-A2"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\norincocq_311.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Terab (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2971
+PrepareTime		0.44
+SingleFireTime	0.75
+BurstFireTime	0.0706
+SpeedModifier	1.05
+Resource		900
+DirtResource	100000
+MisfireProb		0.005
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	155
+RangeCurvature	2
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AR15.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "M16A1-A2"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\norincocq_311.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 

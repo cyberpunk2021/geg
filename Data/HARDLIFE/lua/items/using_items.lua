@@ -720,7 +720,7 @@ AddItemContextMenu("MEGABOX CBC (9mm/2500)", 		action_unpack_box, UnpackWeaponBo
 AddItemContextMenu("MEGABOX FM (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX Algeira (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX CBC (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
-AddItemContextMenu("MEGABOX CBC M193 (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("MEGABOX CBC AP (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX Norinco (5.56/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX Palinero (5.45x39/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX Palinero (7.62x39/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
