@@ -48864,7 +48864,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Ash Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -48879,7 +48879,7 @@ Class			Rifle
 Caliber			"12.7x55mm Ash"
 Weight			6000
 PrepareTime		0.45
-SingleFireTime	0.86
+SingleFireTime	0.84
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1300
@@ -48901,14 +48901,13 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Ash Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Ash127"
 StdPlug			"Rifle clip (Ash/10)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\ash12.act"
+ACTOR			"Items\ash12fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
