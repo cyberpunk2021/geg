@@ -80,6 +80,14 @@
  ["Assault Rifle SIG 556 CQC (5.56mm) folded"] = "Assault Rifle SIG 556 CQC FG (5.56mm) folded",
  ["Assault Rifle SIG 556 CQC CIV (5.56mm)"] = "Assault Rifle SIG 556 CQC CIV FG (5.56mm)",
  ["Assault Rifle SIG 556 CQC CIV (5.56mm) folded"] = "Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded",
+ ["Assault Rifle SIG 556 CAR (5.56mm)"] = "Assault Rifle SIG 556 CAR FG (5.56mm)",
+ ["Assault Rifle SIG 556 CAR (5.56mm) folded"] = "Assault Rifle SIG 556 CAR FG (5.56mm) folded",
+ ["Assault Rifle SIG 556 CAR CIV (5.56mm)"] = "Assault Rifle SIG 556 CAR CIV FG (5.56mm)",
+ ["Assault Rifle SIG 556 CAR CIV (5.56mm) folded"] = "Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded",
+ ["Assault Rifle SIG 556 (5.56mm)"] = "Assault Rifle SIG 556 FG (5.56mm)",
+ ["Assault Rifle SIG 556 (5.56mm) folded"] = "Assault Rifle SIG 556 FG (5.56mm) folded",
+ ["Assault Rifle SIG 556 CIV (5.56mm)"] = "Assault Rifle SIG 556 CIV FG (5.56mm)",
+ ["Assault Rifle SIG 556 CIV (5.56mm) folded"] = "Assault Rifle SIG 556 CIV FG (5.56mm) folded",
  ["HK416CQB"] = "HK416CQB FG",
  ["HK416CQB folded"] = "HK416CQB FG folded",
  ["HK416 14DRS"] = "HK416 14DRS FG",
@@ -352,6 +360,14 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC (5.56mm)", Att
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC CIV (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC CIV (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CAR (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CAR (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CAR CIV (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CAR CIV (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CIV (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CIV (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416 14DRS", AttachForegrip)
@@ -495,6 +511,14 @@ AddItemContextMenu("Assault Rifle SIG 556 CQC FG (5.56mm)", action_detach_handle
 AddItemContextMenu("Assault Rifle SIG 556 CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CQC CIV FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CAR FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CAR FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CAR CIV FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CIV FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SIG 556 CIV FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416 14DRS FG", action_detach_handle, DetachForegrip, CanDetachForegrip)

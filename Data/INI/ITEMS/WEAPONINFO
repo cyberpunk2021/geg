@@ -39912,7 +39912,7 @@ HeatCapacity	60
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		250
 EffectiveRange	93
 RangeCurvature	6
@@ -39951,7 +39951,7 @@ HeatCapacity	60
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		250
 EffectiveRange	73
 RangeCurvature	6
@@ -40053,6 +40053,84 @@ ACTOR			"Items\sig556nova.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.39
+SingleFireTime	0.68
+BurstFireTime	0.085
+SpeedModifier	1.01
+Resource		2500
+DirtResource	250000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	137
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray"
+ACTOR			"Items\sig556novafg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4010
+PrepareTime		0.34
+SingleFireTime	0.68
+BurstFireTime	0.085
+SpeedModifier	1.01
+Resource		2500
+DirtResource	250000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	107
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray_folded"
+ACTOR			"Items\sig556novafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Assault Rifle SIG 556 CIV (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
@@ -40130,6 +40208,84 @@ StdPlug			"m4sopmod_buttgray_folded"
 ACTOR			"Items\sig556novalb.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle SIG 556 CIV FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3900
+PrepareTime		0.43
+SingleFireTime	0.70
+BurstFireTime	0.085
+SpeedModifier	1.05
+Resource		2600
+DirtResource	260000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	155
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray"
+ACTOR			"Items\sig556novalbfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SIG 556 CIV FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4010
+PrepareTime		0.38
+SingleFireTime	0.70
+BurstFireTime	0.085
+SpeedModifier	1.05
+Resource		2600
+DirtResource	260000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	135
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray_folded"
+ACTOR			"Items\sig556novalbfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle SIG751 SAPR (7.62mm)"
 Class			Rifle
@@ -68118,7 +68274,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "SniperBipod" blocks ILauncher
+ATT Bipod		1 "WR" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -68128,6 +68284,84 @@ StdPlug			"m4sopmod_buttgray_folded"
 ACTOR			"Items\sig556nova.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle SIG 556 CAR FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.39
+SingleFireTime	0.68
+BurstFireTime	0.085
+SpeedModifier	1.01
+Resource		2500
+DirtResource	250000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	137
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray"
+ACTOR			"Items\sig556novafg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SIG 556 CAR FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4010
+PrepareTime		0.34
+SingleFireTime	0.68
+BurstFireTime	0.085
+SpeedModifier	1.01
+Resource		2500
+DirtResource	250000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	107
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray_folded"
+ACTOR			"Items\sig556novafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle SIG 556 (5.56mm)"
 Class			Rifle
@@ -68206,6 +68440,84 @@ StdPlug			"m4sopmod_buttgray_folded"
 ACTOR			"Items\sig556novalb.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle SIG 556 FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3900
+PrepareTime		0.43
+SingleFireTime	0.70
+BurstFireTime	0.085
+SpeedModifier	1.05
+Resource		2600
+DirtResource	260000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	155
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray"
+ACTOR			"Items\sig556novalbfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SIG 556 FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4010
+PrepareTime		0.38
+SingleFireTime	0.70
+BurstFireTime	0.085
+SpeedModifier	1.05
+Resource		2600
+DirtResource	260000
+MisfireProb		0.007
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	135
+RangeCurvature	3
+Balance			0.6
+Unfold			"Assault Rifle SIG 556 FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
+ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
+ShootSound		"Weapon\Shoot\SG-551_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"m4sopmod_buttgray_folded"
+ACTOR			"Items\sig556novalbfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle Taurus CQC (5.56mm)"
 Class			Rifle
