@@ -17,6 +17,7 @@
  ["LWRC PSD BLK folded"] = "LWRC PSD BLK FG folded",
  ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A3 MWS FG (5.56mm)",
  ["Assault Rifle M16A3 MWS Target (5.56mm)"] = "Assault Rifle M16A3 Target FG (5.56mm)",
+ ["Assault Rifle SAR21 (5.56mm)"] = "Assault Rifle SAR21 FG (5.56mm)",
  ["Assault Rifle T91 (5.56mm)"] = "Assault Rifle T91 FG (5.56mm)",
  ["Assault Rifle T91 (5.56mm) folded"] = "Assault Rifle T91 FG (5.56mm) folded",
  ["REC7 PDW NATO"] = "REC7 PDW NATO FG",
@@ -298,6 +299,7 @@ AddItemCombineHandler("Tactical grip", "LWRC PSD BLK", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD BLK folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS Target (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SAR21 (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T91 (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T91 (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 PDW NATO", AttachForegrip)
@@ -448,6 +450,7 @@ AddItemContextMenu("LWRC PSD FG", action_detach_handle, DetachForegrip, CanDetac
 AddItemContextMenu("LWRC PSD FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD BLK FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SAR21 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T91 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T91 FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("REC7 PDW NATO FG", action_detach_handle, DetachForegrip, CanDetachForegrip)

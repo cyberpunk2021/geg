@@ -48098,7 +48098,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3500
 PrepareTime		0.35
-SingleFireTime	0.66
+SingleFireTime	0.68
 BurstFireTime	0.0882
 SpeedModifier	1.04
 Resource		1400
@@ -48120,14 +48120,50 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\sar21.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle SAR21 FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3500
+PrepareTime		0.35
+SingleFireTime	0.66
+BurstFireTime	0.0882
+SpeedModifier	1.04
+Resource		1400
+DirtResource	140000
+MisfireProb		0.01
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	152
+RangeCurvature	2
+Balance			0.69
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
+ShootSound		"Weapon\Shoot\AUG.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\sar21fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
