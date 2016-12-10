@@ -49109,7 +49109,7 @@ Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3978
 PrepareTime		0.47
-SingleFireTime	0.81
+SingleFireTime	0.83
 BurstFireTime	0.08
 SpeedModifier	1.02
 Resource		1900
@@ -49132,24 +49132,23 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
-StdPlug			"Frontgrip"
 StdPlug			"m14ebrstock"
 ACTOR			"Items\m14ebr.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle M14EBR NEW (7.62mm) folded"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3978
 PrepareTime		0.43
-SingleFireTime	0.81
+SingleFireTime	0.83
 BurstFireTime	0.08
 SpeedModifier	1.02
 Resource		1900
@@ -49172,15 +49171,92 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
-StdPlug			"Frontgrip"
 StdPlug			"m14ebrstock_folded"
 ACTOR			"Items\m14ebr.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle M14EBR NEW FG (7.62mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3978
+PrepareTime		0.47
+SingleFireTime	0.81
+BurstFireTime	0.08
+SpeedModifier	1.02
+Resource		1900
+DirtResource	200000
+MisfireProb		0.009
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	1
+Balance			0.56
+Unfold			"Assault Rifle M14EBR NEW FG (7.62mm) folded"
+ClipInSound		"Weapon\ClipIn\M1A_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\M1A_mag_out.wav"
+ReLockSound		"Weapon\ReLock\M1A_slide.wav"
+ShootSound		"Weapon\Shoot\M14_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "M14"
+StdPlug			"Rifle ammo clip (M14/20)"
+StdPlug			"m14ebrstock"
+ACTOR			"Items\m14ebrfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle M14EBR NEW FG (7.62mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3978
+PrepareTime		0.43
+SingleFireTime	0.81
+BurstFireTime	0.08
+SpeedModifier	1.02
+Resource		1900
+DirtResource	200000
+MisfireProb		0.009
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	190
+RangeCurvature	1
+Balance			0.56
+Unfold			"Assault Rifle M14EBR NEW FG (7.62mm)"
+ClipInSound		"Weapon\ClipIn\M1A_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\M1A_mag_out.wav"
+ReLockSound		"Weapon\ReLock\M1A_slide.wav"
+ShootSound		"Weapon\Shoot\M14_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "M14"
+StdPlug			"Rifle ammo clip (M14/20)"
+StdPlug			"m14ebrstock_folded"
+ACTOR			"Items\m14ebrfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 

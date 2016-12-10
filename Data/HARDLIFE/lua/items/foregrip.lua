@@ -54,6 +54,8 @@
  ["Assault Rifle M4 SOPMOD (300BLK) folded"] = "Assault Rifle M4 SOPMOD FG (300BLK) folded",
  ["Assault Rifle DSA-58OSW (7.62x51mm)"] = "Assault Rifle DSA-58OSW FG (7.62x51mm)",
  ["Assault Rifle DSA-58OSW (7.62x51mm) folded"] = "Assault Rifle DSA-58OSW FG (7.62x51mm) folded",
+ ["Assault Rifle M14EBR NEW (7.62mm)"] = "Assault Rifle M14EBR NEW FG (7.62mm)",
+ ["Assault Rifle M14EBR NEW (7.62mm) folded"] = "Assault Rifle M14EBR NEW FG (7.62mm) folded",
  ["Assault Rifle AK-12 (5.45mm)"] = "Assault Rifle AK-12 FG (5.45mm)",
  ["Assault Rifle AK-12 (5.45mm) folded"] = "Assault Rifle AK-12 FG (5.45mm) folded",
  ["Assault Rifle AK-12 (5.56mm)"] = "Assault Rifle AK-12 FG (5.56mm)",
@@ -338,6 +340,8 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle M4 SOPMOD (300BLK)", Attac
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4 SOPMOD (300BLK) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DSA-58OSW (7.62x51mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle M14EBR NEW (7.62mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle M14EBR NEW (7.62mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (5.45mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (5.45mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12 (5.56mm)", AttachForegrip)
@@ -493,6 +497,8 @@ AddItemContextMenu("Assault Rifle M4 SOPMOD FG (300BLK)", action_detach_handle, 
 AddItemContextMenu("Assault Rifle M4 SOPMOD FG (300BLK) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle DSA-58OSW FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle M14EBR NEW FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle M14EBR NEW FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12 FG (5.45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12 FG (5.45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
