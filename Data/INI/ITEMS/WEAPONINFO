@@ -58152,7 +58152,6 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x3.e5b"
