@@ -3028,26 +3028,26 @@ X  0
 Y  -90
 Z  0
 "Pistol PM (9x18mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
 
 "Pistol Fort 17 (9x18mm)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
 "Pistol clip (Fort17/15)"
-X  0 
-Y  0 
-Z  0 
+X  0
+Y  0
+Z  0
 "Pistol Fort 17 (380)"
-X  0 
-Y  -90 
-Z  0 
+X  0
+Y  -90
+Z  0
 "Pistol clip (Fort17380/16)"
-X  0 
-Y  0 
-Z  0 
+X  0
+Y  0
+Z  0
 
 "Pistol PSS (7.62x42mm)"
 X  0
@@ -6467,23 +6467,17 @@ X  0
 Y  0
 Z  -90
 "M72 LAW grenade clip"
-<<<<<<< HEAD
-X  0 
-Y  0 
-Z  -90 
-"Launcher M202A1 FLASH"
-X  0 
-Y  -90 
-Z  0 
-"M202A1 Grenade"
-X  0 
-Y  0 
-Z  0
-=======
 X  0
 Y  0
 Z  -90
->>>>>>> refs/heads/master
+"Launcher M202A1 FLASH"
+X  0
+Y  -90
+Z  0
+"M202A1 Grenade"
+X  0
+Y  0
+Z  0
 "Ammo box (12.7x99)"
 X  0
 Y  0
@@ -10417,12 +10411,12 @@ Y  -90
 Z  0
 
 "Shotgun M1216 (12ga)"
-X  0 
+X  0
 Y  -90
 Z  0
 "Shotgun ammo clip (M1216/16)"
-X  0 
-Y  0 
+X  0
+Y  0
 Z  0
 "SPAS15 (12ga)"
 X  0
@@ -10967,9 +10961,9 @@ Y  -90
 Z  0
 
 "Pistol Liberator"
-X  0 
+X  0
 Y  -90
-Z  0 
+Z  0
 
 "Pistol FEG37 (32)"
 X  0
@@ -13915,25 +13909,26 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle M4A1 Real (5.56mm) folded"
-<<<<<<< HEAD
-X  0 
-Y  -90 
-Z  0 
-
-"Assault Rifle LVOAS (5.56x45mm)"
-X  0 
-Y  -90 
-Z  0 
-"Assault Rifle LVOAS (5.56x45mm) folded"
-X  0 
-Y  -90 
-Z  0 
-
-=======
 X  0
 Y  -90
 Z  0
->>>>>>> refs/heads/master
+
+"Assault Rifle LVOAS (5.56x45mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle LVOAS (5.56x45mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle LVOAS FG (5.56x45mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle LVOAS FG (5.56x45mm) folded"
+X  0
+Y  -90
+Z  0
 
 "Shotgun Silverhawk (12ga)"
 X  0
@@ -15605,12 +15600,12 @@ X  0
 Y  -90 
 Z  0
 "Assault Rifle SIG 556 CQC CIV FG (5.56mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "Assault Rifle SIG 556 CAR CIV (5.56mm)"
 X  0 
@@ -15621,12 +15616,12 @@ X  0
 Y  -90 
 Z  0
 "Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "Assault Rifle SIG 556 CIV (5.56mm)"
 X  0 
@@ -15637,12 +15632,12 @@ X  0
 Y  -90 
 Z  0
 "Assault Rifle SIG 556 CIV FG (5.56mm)"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "Assault Rifle SIG 556 CIV FG (5.56mm) folded"
-X  0 
-Y  -90 
+X  0
+Y  -90
 Z  0
 "Carabine IMBEL MD-97LF (5.56mm)"
 X  0 
@@ -16740,46 +16735,35 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle L1A1 Para ST (7.62x51mm) folded"
-<<<<<<< HEAD
-X  0 
-Y  -90 
-Z  0 
-
-"Rifle Elephant Gun"
-X  0 
-Y  -90 
-Z  0 
-
-"Rifle Elephant Gun Sawnoff"
-X  0 
-Y  -90
-Z  0 
-
-"Rifle Elephant Gun Unique"
-X  0 
-Y  -90 
-Z  0 
-
-"Rifle Elephant Gun Unique Sawnoff"
-X  0 
-Y  -90
-Z  0 
-
-"700 Nitro Round"
-X  0 
-Y  -90 
-Z  0 
-
-"Ammo Box (700 nitro)"
-X  0 
-Y  0 
-Z  0 
-
-END  
-=======
 X  0
 Y  -90
 Z  0
+
+"Rifle Elephant Gun"
+X  0
+Y  -90
+Z  0
+"Rifle Elephant Gun Sawnoff"
+X  0
+Y  -90
+Z  0
+"Rifle Elephant Gun Unique"
+X  0
+Y  -90
+Z  0
+"Rifle Elephant Gun Unique Sawnoff"
+X  0
+Y  -90
+Z  0
+"700 Nitro Round"
+X  0
+Y  -90
+Z  0
+"Ammo Box (700 nitro)"
+X  0
+Y  0
+Z  0
+
 "Pistol Taurus PT 59 (.380)"
 X  0
 Y  -90
@@ -16857,4 +16841,3 @@ X  0
 Y  -90
 Z  0
 END
->>>>>>> refs/heads/master

@@ -100740,7 +100740,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -100779,7 +100779,85 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock_folded"
+ACTOR			"Items\LVOAS.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle LVOAS FG (5.56x45mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3062
+PrepareTime		0.30
+SingleFireTime	0.65
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2100
+DirtResource	210000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	113
+RangeCurvature	5
+Balance			0.60
+Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock"
+ACTOR			"Items\LVOAS.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle LVOAS FG (5.56x45mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3062
+PrepareTime		0.27
+SingleFireTime	0.65
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2100
+DirtResource	210000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	97
+RangeCurvature	5
+Balance			0.60
+Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
