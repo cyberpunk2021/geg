@@ -58521,7 +58521,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2700
 PrepareTime		0.28
-SingleFireTime	0.7
+SingleFireTime	0.72
 BurstFireTime	0.08
 SpeedModifier	0.96
 Resource		2000
@@ -58544,24 +58544,23 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "REC7 PDW SPC folded"
 Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2700
 PrepareTime		0.25
-SingleFireTime	0.7
+SingleFireTime	0.72
 BurstFireTime	0.08
 SpeedModifier	0.96
 Resource		2000
@@ -58584,15 +58583,92 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"Frontgrip"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\rec7pdw.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "REC7 PDW SPC FG"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			2700
+PrepareTime		0.28
+SingleFireTime	0.70
+BurstFireTime	0.08
+SpeedModifier	0.96
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	98
+RangeCurvature	4
+Balance			0.57
+Unfold			"REC7 PDW SPC FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\rec7pdwfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "REC7 PDW SPC FG folded"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			2700
+PrepareTime		0.25
+SingleFireTime	0.70
+BurstFireTime	0.08
+SpeedModifier	0.96
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	82
+RangeCurvature	4
+Balance			0.57
+Unfold			"REC7 PDW SPC FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -58624,7 +58700,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -58663,7 +58739,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -58673,6 +58749,84 @@ StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "REC7 SPC FG"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			3460
+PrepareTime		0.32
+SingleFireTime	0.71
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2100
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	112
+RangeCurvature	5
+Balance			0.57
+Unfold			"REC7 SPC FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"M4MOD_butt"
+ACTOR			"Items\rec7fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "REC7 SPC FG folded"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			3460
+PrepareTime		0.29
+SingleFireTime	0.71
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2100
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	92
+RangeCurvature	5
+Balance			0.57
+Unfold			"REC7 SPC FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\hk417.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"M4MOD_butt_folded"
+ACTOR			"Items\rec7fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Small Assault Rifle M933 Grendel (6.5)"
 Class			Rifle
