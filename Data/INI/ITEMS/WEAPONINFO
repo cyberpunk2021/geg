@@ -48953,7 +48953,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
 PrepareTime		0.36
-SingleFireTime	0.68
+SingleFireTime	0.66
 BurstFireTime	0.075
 SpeedModifier	1.03
 Resource		1900
@@ -48963,7 +48963,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		280
 EffectiveRange	155
 RangeCurvature	2.2
@@ -48975,14 +48975,13 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
-ACTOR			"Items\msbsbullpupnogrip.act"
+ACTOR			"Items\msbsbullpupnogripfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -49013,7 +49012,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
