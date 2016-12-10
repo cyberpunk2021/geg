@@ -24426,7 +24426,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24465,7 +24465,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24582,7 +24582,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "UMP40"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24621,7 +24621,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "UMP40"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24740,7 +24740,7 @@ ShootSound		"Weapon\Shoot\mac10.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "UMP45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -24779,7 +24779,7 @@ ShootSound		"Weapon\Shoot\mac10.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "UMP45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -25832,7 +25832,7 @@ ShootSound		"Weapon\Shoot\UMP_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -34817,7 +34817,7 @@ ShootSound		"Weapon\Shoot\wpn_caws.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		0
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -34892,7 +34892,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	0
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -34932,7 +34932,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	0
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -35088,7 +35088,7 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		1 "M9"
@@ -35672,7 +35672,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -35712,7 +35712,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 22 AR15" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -39972,7 +39972,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -40011,7 +40011,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -40128,7 +40128,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -40167,7 +40167,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -40284,7 +40284,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -40323,7 +40323,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -43300,7 +43300,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "BEOWULF Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -43339,7 +43339,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "BEOWULF Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -43456,7 +43456,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -43495,7 +43495,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -43612,7 +43612,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -43651,7 +43651,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -43767,7 +43767,7 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "BEOWULF Silencer" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -45477,7 +45477,7 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -45517,7 +45517,7 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -45974,7 +45974,7 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -46135,7 +46135,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -46175,7 +46175,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -48245,7 +48245,7 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -48765,7 +48765,7 @@ ShootSound		"Weapon\Shoot\famas.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -48839,7 +48839,7 @@ ShootSound		"Weapon\Shoot\famas.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -48989,7 +48989,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Ash Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -49257,7 +49257,7 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -49296,7 +49296,7 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -53276,7 +53276,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6x35"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -53315,7 +53315,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6x35"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -55790,7 +55790,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -55830,7 +55830,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56118,7 +56118,7 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -56158,7 +56158,7 @@ ShootSound		"Weapon\Shoot\AR15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -56440,7 +56440,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56480,7 +56480,7 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56602,7 +56602,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56642,7 +56642,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -57405,7 +57405,7 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -58232,7 +58232,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58271,7 +58271,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58388,7 +58388,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -58427,7 +58427,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -58856,7 +58856,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6.5"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -58895,7 +58895,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6.5"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59012,7 +59012,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -59051,7 +59051,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -59168,7 +59168,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -59207,7 +59207,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -59323,7 +59323,7 @@ ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6.5" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -59398,7 +59398,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59437,7 +59437,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59554,7 +59554,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59593,7 +59593,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59710,7 +59710,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59749,7 +59749,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59866,7 +59866,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -59905,7 +59905,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -60552,7 +60552,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -60592,7 +60592,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -60868,7 +60868,7 @@ ShootSound		"Weapon\shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -60907,7 +60907,7 @@ ShootSound		"Weapon\shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -61024,7 +61024,7 @@ ShootSound		"Weapon\shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61063,7 +61063,7 @@ ShootSound		"Weapon\shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61180,7 +61180,7 @@ ShootSound		"Weapon\shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61219,7 +61219,7 @@ ShootSound		"Weapon\shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61414,7 +61414,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -61453,7 +61453,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -61570,7 +61570,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61609,7 +61609,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61726,7 +61726,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -61765,7 +61765,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -63712,7 +63712,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -63751,7 +63751,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -63868,7 +63868,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -63907,7 +63907,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -64024,7 +64024,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -64063,7 +64063,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -64344,7 +64344,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64383,7 +64383,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64500,7 +64500,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -64539,7 +64539,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -64816,7 +64816,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64855,7 +64855,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64972,7 +64972,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -65011,7 +65011,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -68464,7 +68464,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -68503,7 +68503,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -68620,7 +68620,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -68659,7 +68659,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -68776,7 +68776,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -68815,7 +68815,7 @@ ShootSound		"Weapon\Shoot\SG-551_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -69465,7 +69465,7 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -69504,7 +69504,7 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -83070,7 +83070,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -83109,7 +83109,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -83226,7 +83226,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83265,7 +83265,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83382,7 +83382,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83421,7 +83421,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83538,7 +83538,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -83577,7 +83577,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -83694,7 +83694,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83733,7 +83733,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83850,7 +83850,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -83889,7 +83889,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84006,7 +84006,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -84045,7 +84045,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -84162,7 +84162,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84201,7 +84201,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84318,7 +84318,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84357,7 +84357,7 @@ ShootSound		"Weapon\Shoot\Pernach_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 7,62x39" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84474,7 +84474,7 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -84513,7 +84513,7 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -84630,7 +84630,7 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84669,7 +84669,7 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84786,7 +84786,7 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
@@ -84825,7 +84825,7 @@ ShootSound		"Weapon\Shoot\scar762mm_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
