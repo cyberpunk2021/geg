@@ -508,6 +508,8 @@
   <item level="3">Pistol Five-seveN Tactical (5.7mm)</item>
   <item level="1">Pistol M.1911 A1 (.45 ACP)</item>
   <item level="1">Pistol PM (9x18mm)</item>
+  <item level="1">Pistol Fort 17 (9x18mm)</item>
+  <item level="1">Pistol Fort 17 (380)</item>
   <item level="1">Pistol PSS (7.62x42mm)</item>
   <item level="2">Pistol Walther P99 (.40 S&amp;W)</item>
   <item level="8">Launcher RG-6</item>
@@ -661,6 +663,8 @@
   <item level="1">Pistol clip (Glock 18/19)</item>
   <item level="1">Pistol clip (Glock 18/31)</item>
   <item level="1">Pistol clip (PM/8)</item>
+  <item level="1">Pistol clip (Fort17/15)</item>
+  <item level="1">Pistol clip (Fort17380/16)</item>
   <item level="1">Pistol clip (PSS/6)</item>
   <item level="1">Pistol clip (USP/12)</item>
   <item level="1">Pistol clip (p99/12)</item>

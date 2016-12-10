@@ -436,6 +436,12 @@ USEPREFIX  ""
 IMAGE  "ppks_clip.e5b"
 DEFAMMO  ".380 ACP Surplus"
 
+CLIP  "Pistol clip (Fort17380/16)"".380 ACP""fort17380"16 80 "None"500 
+ACTOR  "Items\fort17mag.act"
+USEPREFIX  ""
+IMAGE  "pm_mag.e5b"
+DEFAMMO  ".380 ACP Surplus"
+
 
 CLIP  "Pistol clip (p7m380/8)"".380 ACP""P7380"8 100 "None"20000 
 ACTOR  "Items\browning-hp_clip13.act"
@@ -738,6 +744,12 @@ DEFAMMO  "PM ammo"
 
 CLIP  "Pistol clip (PMM/12)""9ץ18 לל ּֿ""PMM"12 70 "None"1200 
 ACTOR  "Items\makarovnovamag.act"
+USEPREFIX  ""
+IMAGE  "pm_mag.e5b"
+DEFAMMO  "PM ammo"
+
+CLIP  "Pistol clip (Fort17/15)""9ץ18 לל ּֿ""fort17"15 80 "None"500 
+ACTOR  "Items\fort17mag.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  "PM ammo"

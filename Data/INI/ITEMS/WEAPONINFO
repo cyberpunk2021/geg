@@ -2653,6 +2653,92 @@ HANDS			ahtPistol
 
 ////////////-------------------
 
+ITEM "Pistol Fort 17 (9x18mm)"
+Class			Pistol
+Caliber			"9ץ18 לל ּֿ"
+Weight			610
+PrepareTime		0.12
+SingleFireTime	0.55
+BurstFireTime	0.0882
+SpeedModifier	0.93
+Resource		900
+DirtResource	120000
+MisfireProb		0.0005
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	35
+RangeCurvature	4
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Bizon_9mm.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "fort17"
+StdPlug			"Pistol clip (Fort17/15)"
+ACTOR			"Items\fort17.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+////////////-------------------
+
+ITEM "Pistol Fort 17 (380)"
+Class			Pistol
+Caliber			".380 ACP"
+Weight			610
+PrepareTime		0.11
+SingleFireTime	0.52
+BurstFireTime	0.0882
+SpeedModifier	0.93
+Resource		900
+DirtResource	120000
+MisfireProb		0.0005
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	35
+RangeCurvature	4
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Bizon_9mm.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "fort17380"
+StdPlug			"Pistol clip (Fort17380/16)"
+ACTOR			"Items\fort17.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+////////////-------------------
+
 ITEM "Pistol PA-63"
 Class			Pistol
 Caliber			"9ץ18 לל ּֿ"
