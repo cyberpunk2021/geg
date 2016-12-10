@@ -66,6 +66,7 @@ PLUG
 	  "WR"
 	  "HK"
 	  "WRRifle"
+	  "MP5TL"
 PLUG  
 	  "Bipod"
 	  "built-in"
@@ -92,6 +93,7 @@ PLUG
 	  "MadsenBipod"
 	  "SIG550Bipod"
 	  "NEGEVBipod"
+	  "G3Bipod"
 PLUG  
 	  "Silencer"
 	  "built-in"
@@ -157,7 +159,6 @@ PLUG
 	  "Supressor - 300 BLK"
 	  "BEOWULF Silencer"
 	  "Ash Silencer"
-	  "HCAR Silencer"
 	  "SVD Suppressor"
 	  "Brenneke Suppressor"
 	  "Std 22 Para"
@@ -815,4 +816,6 @@ PLUG
 	  "M1216"
 	  "fort17"
 	  "fort17380"
+	  "Taurus380"
+	  "CETME"
 END  

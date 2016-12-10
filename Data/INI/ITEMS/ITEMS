@@ -964,7 +964,22 @@ None  "Items\glock22_barell.act""threaded_barrel.e5b"
 130
 
 "Taurus PT100 threaded barrel"
-None  
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+140
+
+"SR9 threaded barrel"
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+140
+
+"HK23 threaded barrel"
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+110
+
+"HK21 threaded barrel"
+None
 None  "Items\pt100_barell.act""threaded_barrel.e5b"
 140
 
@@ -983,220 +998,297 @@ None
 Vest_Smersh  "Items\tool3.act""tool3.e5b"
 10000
 
-
 "PackedAmmoBox Palinero (9x18/500)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6350
+6580
 
 "PackedAmmoBox Norinco (9x18/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-5500 
+6445 
 
 "PackedAmmoBox CBC (9x19/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6610 
+6645 
 
 "PackedAmmoBox 7n21 (9x19/500)"
 None  
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
-6000 
+7190 
 
 "PackedAmmoBox Algeira (9x19/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+6730 
 
 "PackedAmmoBox Algeira (.38/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+9320 
 
 "PackedAmmoBox CBC (.38/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000 
+9410 
 
 "PackedAmmoBox Algeira (.357 SIG/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+7310 
 
 "PackedAmmoBox Algeira (.40 SW/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+8745
 
 "PackedAmmoBox CBC (.40 SW/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000 
+8875 
 
 "PackedAmmoBox Algeira (.357 Magnum/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+10440
 
 "PackedAmmoBox CBC (.357 Magnum/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000  
+10460  
 
 "PackedAmmoBox Algeira (.45 ACP/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+11145
 
 "PackedAmmoBox Eagle (.45 ACP/500)"
 None  
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
-6000
+11465
 
 "PackedAmmoBox (5.8x21/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000
+4575
 
 "PackedAmmoBox Algeira (10mm/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+9605
 
 "PackedAmmoBox Algeira (12ga/200)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+14154
 
 "PackedAmmoBox Palinero (12ga/200)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6000
+14358
 
 "PackedAmmoBox Algeira (300 BLK/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+12404
 
 "PackedAmmoBox Algeira (30-06/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+20390
 
 "PackedAmmoBox DBP87 (5.8x42/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000
+8762
 
 "PackedAmmoBox DBP88 (5.8x42/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000
+9734
 
 "PackedAmmoBox DBP10 (5.8x42/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000
+8936
 
 "PackedAmmoBox Palinero (5.45x39/500)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6000
+8408
 
 "PackedAmmoBox 7N6 (5.45/1000)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-16000 
+8444 
 
 
 
 "PackedAmmoBox Algeira (5.56/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+8918
 
 "PackedAmmoBox CBC (5.56/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000
+9134
 
 "PackedAmmoBox M193 (5.56/1000)"
 None  
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
-13000 
+8738 
 
 "PackedAmmoBox Norinco (5.56x45/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000
+8852
 
 "PackedAmmoBox Algeira (6.8 SPC/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+11672
 
 "PackedAmmoBox Norinco (7.62x39/500)"
 None  
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-6000
+13958
 
 "PackedAmmoBox Palinero (7.62x39/500)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6000
+13634
 
 "PackedAmmoBox 57-N-231S (7.62x39/1000)"
 None  
 None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.e5b"
-16000 
+13550 
 
 "PackedAmmoBox Algeira (7.62x51/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+17198
 
 "PackedAmmoBox CBC (7.62x51 M80/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000
+17264
 
 "PackedAmmoBox CBC (7.62x51 M933/500)"
 None  
 None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-6000
+17702
 
 "PackedAmmoBox M80 (7.62x51/800)"
 None  
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
-20000 
+16850 
 
 "PackedAmmoBox Palinero (7.62x54R/500)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6000
+20366
 
 "PackedAmmoBox 7N1 (7.62x54/800)"
 None  
 None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.e5b"
-17600 
+20564 
 
 "PackedAmmoBox Algeira (.300 WM/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+18115
 
 "PackedAmmoBox Palinero (9x39/500)"
 None  
 None  "Items\caxa.ACT""caxa.e5b"
-6000
+18134
 
 "PackedAmmoBox Algeira (.338 Lapua/500)"
 None  
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000
+10172
 
+"MEGABOX Algeira (9mm/2500)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+36150
 
+"MEGABOX CBC (9mm/2500)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+35725
+
+"MEGABOX FM (9mm/2500)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+36550
+
+"MEGABOX Algeira (5.56/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+44590
+
+"MEGABOX CBC (5.56/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+45670
+
+"MEGABOX CBC AP (5.56/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+46750
+
+"MEGABOX Norinco (5.56/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+44260
+
+"MEGABOX Palinero (5.45x39/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+42040
+
+"MEGABOX Palinero (7.62x39/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+68170
+
+"MEGABOX Norinco (7.62x39/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+69790
+
+"MEGABOX Palinero (7.62x54R/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+101830
+
+"MEGABOX Algeira (7.62/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+85990
+
+"MEGABOX CBC (7.62/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+84250
+
+"MEGABOX CBC AP (7.62/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+88510
+
+"MEGABOX FM (7.62/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+85660
+
+"MEGABOX Norinco (7.62/3000)"
+None  
+None  "Items\megabox.act""grenadebox_ru.e5b"
+86110
 
 "Scar Kits"
 Toolkit  

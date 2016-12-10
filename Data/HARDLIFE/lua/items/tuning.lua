@@ -43,8 +43,10 @@ end
  local ForestockItems = {
 --std weapons
  ["Submachine-gun HK MP5A5 (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",
+
  ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 RIS (9mm) folded",
- 
+
+  
   ["Submachine-gun NR-08 (9mm)"] = "Submachine-gun NR-08 RIS (9mm)",
  ["Submachine-gun NR-08 (9mm) folded"] = "Submachine-gun NR-08 RIS (9mm) folded",
  
@@ -136,6 +138,10 @@ end
  ["Assault Rifle HK53A3 (5.56mm) folded"] = "Assault Rifle HK53A3 (5.56mm)",
  ["HK MC51 (7.62x51mm)"] = "HK MC51 (7.62x51mm)",
  ["HK MC51 (7.62x51mm) folded"] = "HK MC51 (7.62x51mm)",
+ ["Assault Rifle G41 (5.56mm)"] = "Assault Rifle G41 (5.56mm)",
+ ["Assault Rifle G41 (5.56mm) folded"] = "Assault Rifle G41 (5.56mm)",
+ ["Assault Rifle G41K (5.56mm)"] = "Assault Rifle G41K (5.56mm)",
+ ["Assault Rifle G41K (5.56mm) folded"] = "Assault Rifle G41K (5.56mm)",
  
 --with RIS
  ["Submachine-gun HK MP5A5 RIS (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",

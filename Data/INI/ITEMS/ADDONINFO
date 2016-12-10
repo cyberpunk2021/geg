@@ -551,6 +551,16 @@ IMAGE			"pbs-1.e5b"
 WEIGHT			603
 Resource		2400
 //------------------------------------------------------
+Addon			"30-06 Silencer"
+Silencer		"HCAR Silencer"
+Sound			"Addon\PlugSound\SG-551_Sil_on.wav""Addon\UnplugSound\SG-551_Sil_off 2.wav"
+SingleUse		0
+SilencingValue	0.7
+ACTOR			"Items\sig551_silencer.act"
+IMAGE			"sig-sil.e5b"
+WEIGHT			788
+Resource		2000
+//------------------------------------------------------
 Addon			"Silencer PBS-1 M24x1.5 (7.62x39 mm)"
 Silencer		"M24x1,5"
 Sound			"Addon\PlugSound\silenser_on2.wav""Addon\UnplugSound\silenser_off1.wav"
@@ -1650,7 +1660,7 @@ Resource		1000
 Addon			"MP5 Butt solid"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt_solid.act"
+ACTOR			"Items\hkmp5solidstock.act"
 IMAGE			"None"
 WEIGHT			400
 Resource		1000
@@ -3408,7 +3418,7 @@ Resource		0
 Addon			"G3 Butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\g3butt.act"
+ACTOR			"Items\hkg3stock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -3416,7 +3426,7 @@ Resource		0
 Addon			"G3 Butt folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\g3butt_folded.act"
+ACTOR			"Items\hkg3stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -3880,7 +3890,7 @@ Resource		0
 Addon			"MP5 Butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt.act"
+ACTOR			"Items\hkmp5stock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -3888,7 +3898,7 @@ Resource		0
 Addon			"MP5 Butt folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\mp5butt_folded.act"
+ACTOR			"Items\hkmp5stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -4308,7 +4318,7 @@ ViewAngle		2.5
 Distance		300
 ShadowImpact	0.13
 BlocksAiming	1
-ACTOR			"Items\hensoldt10x42kn250.act"
+ACTOR			"Items\hkmsg90scopenv.act"
 IMAGE			"hensoldt10x42kn250.e5b"
 WEIGHT			1595
 Resource		2500
@@ -5374,7 +5384,7 @@ ViewAngle		2.5
 Distance		750
 ShadowImpact	0.9
 BlocksAiming	1
-ACTOR			"Items\hensoldt10x42.act"
+ACTOR			"Items\hkmsg90scope.act"
 IMAGE			"hensoldt10x42.e5b"
 WEIGHT			595
 Resource		2500
@@ -5543,7 +5553,7 @@ Silencer		"built-in"
 Sound			"Addon\PlugSound\""Addon\UnplugSound\"
 SingleUse		0
 SilencingValue	0.96
-ACTOR			"Items\mp5sd6_r_silencer.act"
+ACTOR			"Items\hkmp5sdsil.act"
 IMAGE			"mp5sd6silencer.e5b"
 WEIGHT			0
 Resource		2300
@@ -5895,21 +5905,21 @@ ACTOR			"Items\masterkey_ak.act"
 IMAGE			"masterkey_ak.e5b"
 WEIGHT			2650
 Resource		9500
-//------------------------------------------------------  
-Addon  "M26 MASS shotgun (12 ga)"
-ILauncher  "M203"
-Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ShootSound  "Addon\ShootSound\M1014.wav"
-GrenadeType  "12 калибр"
-GrenadeCount  5 
-IsLauncher  0 
-ACTOR  "Items\M26_UGL.act"
-IMAGE  "M26UGL.e5b"
-WEIGHT  1220 
-Resource  4500 
+//------------------------------------------------------
+Addon			"M26 MASS shotgun (12 ga)"
+ILauncher		"M203"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound		"Addon\ShootSound\M1014.wav"
+GrenadeType		"12 калибр"
+GrenadeCount	5
+IsLauncher		0
+ACTOR			"Items\M26_UGL.act"
+IMAGE			"M26UGL.e5b"
+WEIGHT			1220
+Resource		4500
 //------------------------------------------------------
 Addon			"Tactical grip"
-Bipod			"WR"
+Bipod			"WRFG"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ACTOR			"Items\assaultgrip_01.act"
 IMAGE			"assaultgrip_01.e5b"
@@ -5975,7 +5985,7 @@ Resource		1000
 Addon			"HK Integrated Bipod"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\hk23e-bipod.act"
+ACTOR			"Items\hk23bipod.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			300
 Resource		3000
@@ -5983,7 +5993,7 @@ Resource		3000
 Addon			"HK Integrated Bipod folded"
 Bipod			"built-in"
 Sound			"None""None"
-ACTOR			"Items\hk23e-bipod_folded.act"
+ACTOR			"Items\hk23bipodfolded.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			300
 Resource		1000
@@ -6021,17 +6031,17 @@ WEIGHT			150
 Resource		1000
 //------------------------------------------------------
 Addon			"G3SG1 bipod"
-Bipod			"built-in"
+Bipod			"G3Bipod"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\G3SG1bipod.act"
+ACTOR			"Items\hkg3sg1bipod.act"
 IMAGE			"G3SG1bipod.e5b"
 WEIGHT			300
 Resource		1000
 //------------------------------------------------------
 Addon			"G3SG1 bipod folded"
-Bipod			"built-in"
+Bipod			"G3Bipod"
 Sound			"None""None"
-ACTOR			"Items\G3SG1bipod_folded.act"
+ACTOR			"Items\hkg3sg1bipodfolded.act"
 IMAGE			"G3SG1bipod.e5b"
 WEIGHT			300
 Resource		1000
@@ -9126,6 +9136,17 @@ Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
 Distance		20
 Visible			1
 ACTOR			"Items\pm98flash.act"
+IMAGE			"m3_tf_bm.e5b"
+WEIGHT			145
+Resource		1000
+
+//------------------------------------------------------
+Addon			"MP5 Flashlight"
+Light			"MP5TL"
+Sound			"Addon\PlugSound\attach_on2.wav""Addon\UnplugSound\attach_off.wav"
+Distance		25
+Visible			1
+ACTOR			"Items\hkmp5integralflash.act"
 IMAGE			"m3_tf_bm.e5b"
 WEIGHT			145
 Resource		1000

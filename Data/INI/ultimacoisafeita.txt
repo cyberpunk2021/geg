@@ -1970,13 +1970,13 @@ rpk bipod lmgs bugada
 t65 handle modelo correto
 checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-iteminfo balaa parei em "Ammo Box Noveske .308"
-mudar "Prvi Partizan 8mm FMJ BT" pra AP
 verificar caixa "Ammo box (7N23)"
-mudar WPA 5.45x39 pra HP
-criar BPZ 7.62x39
-fazer 32 acp e 380 acp algeira box
+faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
+criar Prvi (7.62x39mm)
+fazer m955 cbc
 
+(balapreço * qtdade) / 1,25 = packed box
+(balapreço * qtdade) / 1,5 = megabox
 
 "fnfalnova_dsa_stock"
 "fnfalnova_dsa_stock_folded"
@@ -2033,6 +2033,63 @@ fazer 32 acp e 380 acp algeira box
 "Assault Rifle L1A1 Para ST (7.62x51mm)"
 "Assault Rifle L1A1 Para ST (7.62x51mm) folded"
 
+
+"Pistol clip (PT59/17)"
+"Pistol clip (PT59B/17)"
+"Pistol clip (PT59W/17)"
+"Pistol clip (BerettaElite380/19)"
+
+"Pistol Taurus PT 59 (.380)"
+"Pistol Taurus PT 59 W (.380)"
+"Pistol Taurus PT 59 B (.380)"
+"Pistol Taurus PT 59 Rail (.380)"
+"Pistol Taurus PT 59 Rail W (.380)"
+"Pistol Taurus PT 59 Rail B (.380)"
+
+"BPZ 7.62x39"
+"Ammo box 500 HLA (BPZ 7.62x39)"
+
+
+
+
+"Double rifle ammo clip (HK/80)"
+
+++++++++++++++++++++
+
+
+"MP5 Flashlight"
+
+++++++++++
+
+"Ammo box (7.62x39 FMJ Prvi)"
+"Ammo box 500 (7.62x39 FMJ Prvi)"
+
+"Sniper Rifle HK SR9 (7.62x51mm)"
+"Sniper Rifle HK SR9TC (7.62x51mm)"
+"Sniper Rifle HK PSG-1A1 (7.62x51mm)"
+
+"30-06 Silencer"
+"Carabine M712 (7.63mm)"
+
+
+
+
+
+++++++++++++++++++++
+
+"Sniper Rifle HK SR9 TB (7.62x51mm)"
+"Sniper Rifle HK SR9TC TB (7.62x51mm)"
+"Chain-gun HK21e TB (7.62x51mm)"
+"Chain-gun HK23e TB (5.56x45mm)"
+"Assault Rifle AK 4 (7.62x51mm)"
+"Rifle ammo clip (CETME/20)"
+
+
+"SR9 threaded barrel"
+"HK21 threaded barrel"
+"HK23 threaded barrel"
+++++++++++++++++++++
+
 imbel rec
 
 -115 bright
@@ -2049,7 +2106,24 @@ x location
 
 +++++++++++++
 
+"Assault Rifle Norinco CQ (5.56mm)"
+"Assault Rifle Norinco CQ CIV (5.56mm)"
+"Assault Rifle DIO S (5.56mm)"
+"Assault Rifle Terab (5.56mm)"
 
-
-
-
+"MEGABOX Algeira (9mm/2500)"
+"MEGABOX CBC (9mm/2500)"
+"MEGABOX FM (9mm/2500)"
+"MEGABOX Algeira (5.56/3000)"
+"MEGABOX CBC (5.56/3000)"
+"MEGABOX CBC AP (5.56/3000)"
+"MEGABOX Norinco (5.56/3000)"
+"MEGABOX Palinero (5.45x39/3000)"
+"MEGABOX Palinero (7.62x39/3000)"
+"MEGABOX Norinco (7.62x39/3000)"
+"MEGABOX Palinero (7.62x54R/3000)"
+"MEGABOX Algeira (7.62/3000)"
+"MEGABOX CBC (7.62/3000)"
+"MEGABOX CBC AP (7.62/3000)"
+"MEGABOX FM (7.62/3000)"
+"MEGABOX Norinco (7.62/3000)"
