@@ -224,6 +224,12 @@ USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  ".22LR Surplus"
 
+CLIP  "Pistol clip (Liberator45/1)"".45 ACP""built-in"1 0 "None"7000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  ".45 ACP FMJ Ball"
+
 CLIP  "Pistol clip (SAA22LR/6)"".22LR""built-in"6 0 "None"7000 
 ACTOR  "None"
 USEPREFIX  ""
@@ -428,6 +434,12 @@ CLIP  "Pistol clip (PPK/S)"".380 ACP""PPK9mm"7 60 "None"500
 ACTOR  "Items\PPKS_CLIP.ACT"
 USEPREFIX  ""
 IMAGE  "ppks_clip.e5b"
+DEFAMMO  ".380 ACP Surplus"
+
+CLIP  "Pistol clip (Fort17380/16)"".380 ACP""fort17380"16 80 "None"500 
+ACTOR  "Items\fort17mag.act"
+USEPREFIX  ""
+IMAGE  "pm_mag.e5b"
 DEFAMMO  ".380 ACP Surplus"
 
 
@@ -751,6 +763,12 @@ DEFAMMO  "PM ammo"
 
 CLIP  "Pistol clip (PMM/12)""9ץ18 לל ÏÌ""PMM"12 70 "None"1200 
 ACTOR  "Items\makarovnovamag.act"
+USEPREFIX  ""
+IMAGE  "pm_mag.e5b"
+DEFAMMO  "PM ammo"
+
+CLIP  "Pistol clip (Fort17/15)""9ץ18 לל ÏÌ""fort17"15 80 "None"500 
+ACTOR  "Items\fort17mag.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  "PM ammo"
@@ -3242,7 +3260,10 @@ USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  "00 Buckshot (12ga)"
 
-
+CLIP  "Shotgun ammo clip (M1216/16)""12 ךאכטבנ""M1216"16 40 "None"600 
+ACTOR  "Items\m1216mag.act"
+IMAGE  "spas15mag.e5b"
+DEFAMMO  "00 Buckshot (12ga)"
 
 //12ga MAG7
 BOX  "Ammo box (00 Buckshot MAG7)""12x60mm MAG7 Buckshot"25 "Items\mag7_buck.act""boxmag7buck.e5b"
@@ -6132,6 +6153,15 @@ ACTOR  "None"
 USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  "M33 Ball .50 BMG (12.7x99 mm)"
+
+//700 nitro
+BOX  "Ammo Box (700 nitro)""700 Nitro Round"10 "Items\ammoboxgeneric.act""boxgeneric.e5b"
+
+CLIP  "Rifle ammo clip (700nitro/2)""700 Nitro""built-in"2 0 "None"1000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  "700 Nitro Round"
 
 //7.92x94mm Patronen
 BOX  "Ammo Box (Patronen AP)""7.92x94mm Patronen AP"15 "Items\ammoboxgeneric.act""boxgeneric.e5b"

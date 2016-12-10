@@ -514,6 +514,8 @@
   <item level="3">Pistol Five-seveN Tactical (5.7mm)</item>
   <item level="1">Pistol M.1911 A1 (.45 ACP)</item>
   <item level="1">Pistol PM (9x18mm)</item>
+  <item level="1">Pistol Fort 17 (9x18mm)</item>
+  <item level="1">Pistol Fort 17 (380)</item>
   <item level="1">Pistol PSS (7.62x42mm)</item>
   <item level="2">Pistol Walther P99 (.40 S&amp;W)</item>
   <item level="8">Launcher RG-6</item>
@@ -672,6 +674,8 @@
   <item level="1">Pistol clip (Glock 18/19)</item>
   <item level="1">Pistol clip (Glock 18/31)</item>
   <item level="1">Pistol clip (PM/8)</item>
+  <item level="1">Pistol clip (Fort17/15)</item>
+  <item level="1">Pistol clip (Fort17380/16)</item>
   <item level="1">Pistol clip (PSS/6)</item>
   <item level="1">Pistol clip (USP/12)</item>
   <item level="1">Pistol clip (p99/12)</item>
@@ -1292,6 +1296,13 @@
   <item level="12">Sniper Rifle Barret M82A4 (12.7mm)</item>
   <item level="9">Sniper rifle clip (Barret/10)</item>
   <item level="0">M33 Ball .50 BMG (12.7x99 mm)</item>
+  <item level="10">Rifle Elephant Gun</item>
+  <item level="10">Rifle Elephant Gun Sawnoff</item>
+  <item level="11">Rifle Elephant Gun Unique</item>
+  <item level="11">Rifle Elephant Gun Unique Sawnoff</item>
+  <item level="0">Rifle ammo clip (700nitro/2)</item>
+  <item level="0">700 Nitro Round</item>
+  <item level="10">Ammo Box (700 nitro)</item>
   <item level="0">Barret bipod</item>
   <item level="4">Metal armor plate 1</item>
   <item level="3">Metal armor plate 2</item>
@@ -1334,6 +1345,8 @@
   <item level="6">Rockect Launcher M72 LAW</item>
   <item level="6">M72 LAW Grenade</item>
   <item level="0">M72 LAW grenade clip</item>
+  <item level="6">Launcher M202A1 FLASH</item>
+  <item level="6">M202A1 Grenade</item>
   <item level="5">Ammo box (12.7x99)</item>
   <item level="1">Gold_ore</item>
   <item level="0">Helmet Sfera-S</item>
@@ -1904,6 +1917,7 @@
   <item level="1">Pistol Derringer (40)</item>
   <item level="1">Pistol Derringer (38)</item>
   <item level="1">Pistol Derringer (357)</item>
+  <item level="1">Pistol Liberator</item>
   <item level="1">Pistol Ruger 2245 Target</item>
   <item level="1">Pistol P7 (22)</item>
   <item level="1">Pistol M.1911 A1 (22)</item>
@@ -2477,6 +2491,8 @@
   <item level="2">TOZ194 unstock (12ga)</item>
   <item level="3">TOZ194 (12ga)</item>
   <item level="3">TOZ194 (12ga) folded</item>
+  <item level="5">Shotgun M1216 (12ga)</item>
+  <item level="5">Shotgun ammo clip (M1216/16)</item>
   <item level="3">SPAS12 NS (12ga)</item>
   <item level="4">SPAS12 F (12ga)</item>
   <item level="3">SPAS15 (12ga)</item>
@@ -3165,6 +3181,8 @@
   <item level="12">Assault Rifle M4A1 Real (5.56mm) folded</item>
   <item level="12">Assault Rifle M4A1 Old (5.56mm)</item>
   <item level="12">Assault Rifle M4A1 Old (5.56mm) folded</item>
+  <item level="12">Assault Rifle LVOAS (5.56x45mm)</item>
+  <item level="12">Assault Rifle LVOAS (5.56x45mm) folded</item>
   <item level="10">HK416CQB</item>
   <item level="10">HK416CQB folded</item>
   <item level="11">HK416 14DRS</item>

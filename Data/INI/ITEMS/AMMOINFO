@@ -2271,6 +2271,28 @@ ACTOR "Items\m2.act"
 IMAGE "ammo-m80.e5b"
 WEIGHT 131.91
 
+"700 Nitro Round"
+"700 Nitro"
+64.8
+850
+0.7
+0.082
+0.071
+0.07
+0.01
+0.0035
+0.0015
+0.1
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\700nitro_casing.act"
+"Items\700nitro_bullet.act"
+800
+ACTOR "Items\700nitro_ammo.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 154
+
 "12.7x108mm Surplus"
 "12.7x108mm"
 51.769
@@ -4594,6 +4616,29 @@ ACTOR "Items\law_grenade.act"
 USEPREFIX "_used"
 IMAGE "rpg18_grenade.e5b"
 WEIGHT 2000
+
+"M202A1 Grenade"
+"66mm (M202A1)"
+2000
+115
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\law_grenade_used.act"
+330
+ACTOR "Items\dummy.act"
+USEPREFIX "_used"
+IMAGE "rpg18_grenade.e5b"
+WEIGHT 1200
 
 "6x35mm FMJ"
 "6x35mm"

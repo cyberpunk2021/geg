@@ -137,6 +137,10 @@ WaveAmmo  "Def Wave"
 RPG  "Grenade\Explosion\explosion1.wav""Grenade\LoadReadySound\None"150 8 15 20 1350 0 0 -1 -1 -1 -1 
 WaveAmmo  "Def Wave"
 
+"M202A1 Grenade"
+RPG  "Grenade\Explosion\RPG-7_explo.wav""Grenade\LoadReadySound\load_rpg7.wav"200 10 15 18 1400 0 0 -1 -1 -1 -1 
+WaveAmmo  "Def Wave"
+
 "RPG-2 Grenade"
 RPG  "Grenade\Explosion\RPG-7_explo.wav""Grenade\LoadReadySound\load_rpg7.wav"180 9 18 20 1000 0 0 -1 -1 -1 -1 
 WaveAmmo  "Def Wave"

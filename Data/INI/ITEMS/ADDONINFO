@@ -207,6 +207,20 @@ ACTOR			"Items\k1a1stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 //------------------------------------------------------
+Addon			"LVOASstock"
+Stock			"built-in"
+Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR			"Items\LVOASstock.act"
+IMAGE			"None"
+WEIGHT			0
+//------------------------------------------------------
+Addon			"LVOASstock_folded"
+Stock			"built-in"
+Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR			"Items\LVOASstockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+//------------------------------------------------------
 Addon			"k2stock"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
@@ -5474,6 +5488,18 @@ Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 ShootSound		"Addon\ShootSound\RPG-7_launch_only.wav"
 GrenadeType		"40 ÏÏ (–œ√-7)"
 GrenadeCount	1
+IsLauncher		1
+ACTOR			"Items\rpg7_launcher.act"
+IMAGE			"rpg7_launher.e5b"
+WEIGHT			100
+Resource		3500
+//------------------------------------------------------
+Addon			"m202a1 launcher"
+ILauncher		"built-in"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ShootSound		"Weapon\Shoot\m72law.wav"
+GrenadeType		"66mm (M202A1)"
+GrenadeCount	4
 IsLauncher		1
 ACTOR			"Items\rpg7_launcher.act"
 IMAGE			"rpg7_launher.e5b"

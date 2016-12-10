@@ -75,6 +75,45 @@ HANDS			ahtPistol
 
 ///////---------------------------
 
+ITEM "Pistol Liberator"
+Class			Pistol
+Caliber			".45 ACP"
+Weight			450
+PrepareTime		0.08
+SingleFireTime	0.29
+BurstFireTime	0.01
+SpeedModifier	0.65
+Resource		200
+DirtResource	20000
+MisfireProb		0.0008
+HeatCapacity	15
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		100
+EffectiveRange	10
+RangeCurvature	5
+Balance			0.33
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Luger_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Pistol clip (Liberator45/1)"
+ACTOR			"Items\liberatorpistol.act"
+IMAGE			"m67.e5b"
+HANDS			ahtPistol
+
+///////---------------------------
+
 ITEM "Pistol Ruger 2245 Target" //Mercapoca Ruger Target
 Class			Pistol
 Caliber			".22LR"
@@ -2839,6 +2878,92 @@ ATT Bayonet		0
 ATT Magazine	1 "skif"
 StdPlug			"skif clip"
 ACTOR			"Items\skif.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+////////////-------------------
+
+ITEM "Pistol Fort 17 (9x18mm)"
+Class			Pistol
+Caliber			"9ץ18 לל ÏÌ"
+Weight			610
+PrepareTime		0.12
+SingleFireTime	0.55
+BurstFireTime	0.0882
+SpeedModifier	0.93
+Resource		900
+DirtResource	120000
+MisfireProb		0.0005
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	35
+RangeCurvature	4
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Bizon_9mm.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "fort17"
+StdPlug			"Pistol clip (Fort17/15)"
+ACTOR			"Items\fort17.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+////////////-------------------
+
+ITEM "Pistol Fort 17 (380)"
+Class			Pistol
+Caliber			".380 ACP"
+Weight			610
+PrepareTime		0.11
+SingleFireTime	0.52
+BurstFireTime	0.0882
+SpeedModifier	0.93
+Resource		900
+DirtResource	120000
+MisfireProb		0.0005
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	35
+RangeCurvature	4
+Balance			0.58
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\Bizon_9mm.wav"
+ATT Laser		1 "WR"
+blocks
+Light
+ATT Light		1 "WR"
+blocks
+Laser
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "fort17380"
+StdPlug			"Pistol clip (Fort17380/16)"
+ACTOR			"Items\fort17.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -99271,6 +99396,44 @@ USEPREFIX	"_used"
 IMAGE			"rpg18.e5b"
 HANDS			ahtGrenadeLauncher
 
+ITEM "Launcher M202A1 FLASH"
+Class			Rifle
+Caliber			"None"
+Weight			5728
+PrepareTime		0.3
+SingleFireTime	0.3
+BurstFireTime	0
+SpeedModifier	1
+Resource		1000
+DirtResource	300000
+MisfireProb		0.0003
+HeatCapacity	100
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		450
+EffectiveRange	225
+RangeCurvature	1
+Balance			0.7
+ClipInSound		"Weapon\ClipIn\RPG-7_gren_in.wav"
+ClipOutSound	"Weapon\ClipOut\RPG-7_gren_out.wav"
+ReLockSound		"Weapon\ReLock\None"
+ShootSound		"Weapon\Shoot\RPG-7_launch_and_flyaway.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	1 "built-in"
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"RG-6 mag"
+StdPlug			"m202a1 launcher"
+ACTOR			"Items\M202A1.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Rockect Launcher RPG-18 'Muha'"
 Class			Launcher
 Caliber			"64 לל (ÐÏÃ-18)"
@@ -100244,6 +100407,269 @@ Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 ACTOR			"Items\AKM_egypt.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Rifle Elephant Gun"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			6110
+PrepareTime		0.91
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	420
+RangeCurvature	0.75
+Balance			0.40
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitro.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Unique"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			6110
+PrepareTime		0.91
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	420
+RangeCurvature	0.75
+Balance			0.40
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitrounique.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Sawnoff"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			4950
+PrepareTime		0.75
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	380
+RangeCurvature	0.68
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitro_sawnoff.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Unique Sawnoff"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			4950
+PrepareTime		0.75
+SingleFireTime	1.25
+BurstFireTime	0.001
+SpeedModifier	0.97
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		550
+EffectiveRange	380
+RangeCurvature	0.68
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitrounique_sawnoff.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Assault Rifle LVOAS (5.56x45mm)"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3062
+PrepareTime		0.30
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2100
+DirtResource	210000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	113
+RangeCurvature	5
+Balance			0.60
+Unfold			"Assault Rifle LVOAS (5.56x45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock"
+ACTOR			"Items\LVOAS.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle LVOAS (5.56x45mm) folded"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3062
+PrepareTime		0.27
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	1.01
+Resource		2100
+DirtResource	210000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	97
+RangeCurvature	5
+Balance			0.60
+Unfold			"Assault Rifle LVOAS (5.56x45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock_folded"
+ACTOR			"Items\LVOAS.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Shotgun M1216 (12ga)"
+Class			Shotgun
+Caliber			"12 ךאכטבנ"
+Weight			3290
+PrepareTime		0.39
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		2000
+DirtResource	140000
+MisfireProb		0.03
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.42
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "M1216"
+StdPlug			"Shotgun ammo clip (M1216/16)"
+ACTOR			"Items\m1216.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
