@@ -3229,7 +3229,10 @@ USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  "00 Buckshot (12ga)"
 
-
+CLIP  "Shotgun ammo clip (M1216/16)""12 калибр""M1216"16 40 "None"600 
+ACTOR  "Items\m1216mag.act"
+IMAGE  "spas15mag.e5b"
+DEFAMMO  "00 Buckshot (12ga)"
 
 //12ga MAG7
 BOX  "Ammo box (00 Buckshot MAG7)""12x60mm MAG7 Buckshot"25 "Items\mag7_buck.act""boxmag7buck.e5b"

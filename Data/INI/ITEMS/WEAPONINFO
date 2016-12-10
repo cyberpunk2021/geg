@@ -97849,4 +97849,41 @@ ACTOR			"Items\LVOAS.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Shotgun M1216 (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3290
+PrepareTime		0.39
+SingleFireTime	0.93
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		2000
+DirtResource	140000
+MisfireProb		0.03
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	60
+RangeCurvature	5
+Balance			0.42
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "M1216"
+StdPlug			"Shotgun ammo clip (M1216/16)"
+ACTOR			"Items\m1216.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 END
