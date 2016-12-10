@@ -114,6 +114,8 @@
  ["SW MP15 CQC folded"] = "SW MP15 CQC FG folded",
  ["SW MP15 LB"] = "SW MP15 LB FG",
  ["SW MP15 LB folded"] = "SW MP15 LB FG folded",
+ ["KAC PDW"] = "KAC PDW FG",
+ ["KAC PDW folded"] = "KAC PDW FG folded",
  ["HS VHS-D2"] = "HS VHS-D2 FG",
  ["HS VHS-K2"] = "HS VHS-K2 FG",
  ["Assault Rifle Ash (12.7)"] = "Assault Rifle Ash FG (12.7)",
@@ -400,6 +402,8 @@ AddItemCombineHandler("Tactical grip", "SW MP15 CQC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 CQC folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 LB", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "SW MP15 LB folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "KAC PDW", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "KAC PDW folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HS VHS-D2", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HS VHS-K2", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Ash (12.7)", AttachForegrip)
@@ -557,6 +561,8 @@ AddItemContextMenu("SW MP15 CQC FG", action_detach_handle, DetachForegrip, CanDe
 AddItemContextMenu("SW MP15 CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 LB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("SW MP15 LB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("KAC PDW FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("KAC PDW FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HS VHS-D2 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HS VHS-K2 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Ash FG (12.7)", action_detach_handle, DetachForegrip, CanDetachForegrip)

@@ -53151,7 +53151,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6x35"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -53190,7 +53190,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 6x35"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -53206,7 +53206,7 @@ Class			Rifle
 Caliber			"6x35mm"
 Weight			2000
 PrepareTime		0.27
-SingleFireTime	0.62
+SingleFireTime	0.60
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1900
@@ -53216,7 +53216,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	105
 RangeCurvature	4
@@ -53229,15 +53229,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6x35"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "KACPDW"
 StdPlug			"Rifle ammo clip (KACPDW/30)"
 StdPlug			"kacpdw_butt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\kacpdw.act"
+ACTOR			"Items\kacpdwfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -53246,7 +53245,7 @@ Class			Rifle
 Caliber			"6x35mm"
 Weight			2000
 PrepareTime		0.23
-SingleFireTime	0.62
+SingleFireTime	0.60
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1900
@@ -53256,7 +53255,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	85
 RangeCurvature	4
@@ -53269,15 +53268,14 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6x35"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "KACPDW"
 StdPlug			"Rifle ammo clip (KACPDW/30)"
 StdPlug			"kacpdw_butt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\kacpdw.act"
+ACTOR			"Items\kacpdwfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
