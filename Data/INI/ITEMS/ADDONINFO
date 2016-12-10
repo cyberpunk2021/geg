@@ -207,6 +207,20 @@ ACTOR			"Items\k1a1stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 //------------------------------------------------------
+Addon			"LVOASstock"
+Stock			"built-in"
+Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR			"Items\LVOASstock.act"
+IMAGE			"None"
+WEIGHT			0
+//------------------------------------------------------
+Addon			"LVOASstock_folded"
+Stock			"built-in"
+Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR			"Items\LVOASstockfolded.act"
+IMAGE			"None"
+WEIGHT			0
+//------------------------------------------------------
 Addon			"k2stock"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"

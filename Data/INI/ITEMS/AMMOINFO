@@ -4654,7 +4654,7 @@ WEIGHT 2000
 0
 "Weapon\Shoot\Silencer\None"
 "None"
-"Items\gtb-7vs_used.act"
+"Items\law_grenade_used.act"
 330
 ACTOR "Items\dummy.act"
 USEPREFIX "_used"
