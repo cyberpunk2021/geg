@@ -294,13 +294,13 @@ None  "Items\cooler.act""cooler.e5b"
 
 "Food_irpb"
 None  
-None  "Items\irpb1.act""irpb1.e5b"
-1500 
+None  "Items\mre.act""mreicon.e5b"
+600 
 
 "Food_ration"
 None  
 None  "Items\ration.act""ration.e5b"
-300 
+500 
 
 "Food_bread"
 None  
@@ -1005,12 +1005,12 @@ None  "Items\caxa.ACT""caxa.e5b"
 
 "PackedAmmoBox Norinco (9x18/500)"
 None  
-None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
+None  "Items\caixa_nori_9x18.act""nori500box.e5b"
 6445 
 
 "PackedAmmoBox CBC (9x19/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 6645 
 
 "PackedAmmoBox 7n21 (9x19/500)"
@@ -1030,7 +1030,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (.38/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 9410 
 
 "PackedAmmoBox Algeira (.357 SIG/500)"
@@ -1045,7 +1045,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (.40 SW/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 8875 
 
 "PackedAmmoBox Algeira (.357 Magnum/500)"
@@ -1055,7 +1055,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (.357 Magnum/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 10460  
 
 "PackedAmmoBox Algeira (.45 ACP/500)"
@@ -1132,17 +1132,17 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (5.56/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 9134
 
 "PackedAmmoBox M193 (5.56/1000)"
 None  
-None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 8738 
 
 "PackedAmmoBox Norinco (5.56x45/500)"
 None  
-None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
+None  "Items\caixa_nori_556.act""nori500box.e5b"
 8852
 
 "PackedAmmoBox Algeira (6.8 SPC/500)"
@@ -1152,7 +1152,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox Norinco (7.62x39/500)"
 None  
-None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
+None  "Items\caixa_nori_762x39.act""nori500box.e5b"
 13958
 
 "PackedAmmoBox Palinero (7.62x39/500)"
@@ -1172,12 +1172,12 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (7.62x51 M80/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 17264
 
 "PackedAmmoBox CBC (7.62x51 M933/500)"
 None  
-None  "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
+None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 17702
 
 "PackedAmmoBox M80 (7.62x51/800)"
@@ -1935,6 +1935,41 @@ None
 None  "Items\caja_a.act""caja_a.e5b"
 10000
 
+"PackedCamoBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+3000
+
+"PackedCleaningKitBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+9000
+
+"PackedContactFuzeBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+1000
+
+"PackedRadioFuzeBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+1300
+
+"PackedMREBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+7500
+
+"PackedRationBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+7200
+
+"PackedSmershBox"
+None  
+None  "Items\caja_a.act""caja_a.e5b"
+4750
+
 "Uniform Bundle Algeira"
 None  
 None  "items\uniformbundle.act""uniformbundle.e5b"
@@ -1952,267 +1987,267 @@ None  "items\uniformbundle.act""uniformbundle.e5b"
 
 "BigWoodBoxAKM"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 17500
 
 "BigWoodBoxAKMN"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 17500
 
 "BigWoodBoxGalil"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 22500
 
 "BigWoodBoxRifles"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 50500
 
 "BigWoodBoxM4A1"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 15380
 
 "BigWoodBoxVektorZ88"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_pist.act""bigammoboxw.e5b"
 5850
 
 "BigWoodBoxPT1911"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_pist.act""bigammoboxw.e5b"
 6100
 
 "BigWoodBoxMP59mm"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 17000
 
 "BigWoodBoxSAF9"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 16350
 
 "BigWoodBoxMT40"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 16350
 
 "BigWoodBoxSMT40"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 16500
 
 "BigWoodBox9A91"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 12000
 
 "BigWoodBoxP90"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 14200
 
 "BigWoodBoxKiparis"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 9350
 
 "BigWoodBoxBizon"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 16000
 
 "BigWoodBoxVityaz"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 16000
 
 "BigWoodBoxBTMP9"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 8500
 
 "BigWoodBoxFEGAK63"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 17350
 
 "BigWoodBoxFEGAK63D"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 17350
 
 "BigWoodBoxM964Civ"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_gra.act""bigammoboxw.e5b"
 24500
 
 "BigWoodBoxSAFIRT14Classic"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18500
 
 "BigWoodBoxAUGPARA"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18500
 
 "BigWoodBoxMosquefal"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_gra.act""bigammoboxw.e5b"
 21500
 
 "BigWoodBoxSPAS15"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_gra.act""bigammoboxw.e5b"
 21500
 
 "BigWoodBoxM16A2"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 19700
 
 "BigWoodBoxVZ58"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 16550
 
 "BigWoodBoxK1A1"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 15850
 
 "BigWoodBoxK2"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18300
 
 "BigWoodBoxSIG540"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 19750
 
 "BigWoodBoxSIG542"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 19750
 
 "BigWoodBoxGalil556"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 21750
 
 "BigWoodBoxGalilACE556"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 19200
 
 "BigWoodBoxMD97"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18550
 
 "BigWoodBoxIA2Cciv"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18000
 
 "BigWoodBoxIA2C"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18000
 
 "BigWoodBoxQBZ95"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18250
 
 "BigWoodBoxQBZ951"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18250
 
 "BigWoodBoxQBZ97"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18750
 
 "BigWoodBoxQBZ971"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18750
 
 "BigWoodBoxType56"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 22000
 
 "BigWoodBoxType56i"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 22000
 
 "BigWoodBoxType56ii"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 21000
 
 "BigWoodBoxGovCarbine"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 15500
 
 "BigWoodBoxTacticalCarbine"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 15500
 
 "BigWoodBoxM964"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_gra.act""bigammoboxw.e5b"
 24500
 
 "BigWoodBoxAUGA1"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 20000
 
 "BigWoodBoxAUGA2"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 19750
 
 "BigWoodBoxHK33"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 20250
 
 "BigWoodBoxG3"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 24500
 
 "BigWoodBoxG36"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 20150
 
 "BigWoodBoxAK103"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 18850
 
 "BigWoodBoxPSL"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_gra.act""bigammoboxw.e5b"
 21995
 
 "BigWoodBoxM7F"
 None  
-None  "items\bigammoboxw.act""bigammoboxw.e5b"
+None  "items\caixa_armas_peq.act""bigammoboxw.e5b"
 22350
 
 "Algeira guards colonel epaulets"
@@ -2484,12 +2519,12 @@ None  "Items\cartouche.act""folded_cartouche_vert.e5b"
 "Folded Ammo CartoucheVert"
 None  
 None  "Items\cartouche.act""folded_cartouche_vert.e5b"
-200 
+250 
 
 "Folded Ammo Cartouche"
 None  
 None  "Items\cartouche.act""folded_cartouche.e5b"
-200  
+300  
 
 "Backpack"
 None  

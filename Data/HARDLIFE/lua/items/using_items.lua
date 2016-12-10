@@ -226,11 +226,316 @@ function UnpackMedBox(item)
  if IsBattle() then monster:AddChangeItemAction(10) end
 end
 
+function UnpackMedBox2(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ DropItem("Field Paramedic Kit5")
+ DropItem("Field Paramedic Kit4")
+ DropItem("Field Paramedic Kit3")
+ DropItem("Field Paramedic Kit3")
+ DropItem("Field Paramedic Kit2")
+ DropItem("Field Paramedic Kit2")
+ DropItem("Field Paramedic Kit2")
+ DropItem("Field Paramedic Kit1")
+ DropItem("Field Paramedic Kit1")
+ DropItem("Field Paramedic Kit1")
+ DropItem("Field Paramedic Kit1")
+ if IsBattle() then monster:AddChangeItemAction(10) end
+end
+
 function UnpackTushBox(item)
  local monster = GetCurrentMerc()
  monster:DeleteItem(item)
  for i = 1, 24 do
    DropItem("Food_tush_gov")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackCamoBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 15 do
+   DropItem("Camo Kit")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackCleaningKitBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 10 do
+   DropItem("Cleaning Kit")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackContactFuzeBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 10 do
+   DropItem("Fuze_m605")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackRemoteFuzeBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 10 do
+   DropItem("Fuze_radio")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackMREBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 24 do
+   DropItem("Food_irpb")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackRationBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 24 do
+   DropItem("Food_ration")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackSmershBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Razgr_smerch")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackTacVestBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded VestNew")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackYellowTacVestBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Tactical Vest")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackMolleTacVestBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Razgr_molle")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackVestBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Tactical Armor Vest M100")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackVestM200Box(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Tactical Armor Vest M200")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackWildcatVestBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Tactical Armor Wildkat")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackKevlarBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Tactical Armor Vest M300")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackVyzovBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Tactical Armor Vizov")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackMetalPlateBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Titanium armor plate Lvl 3")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackMetalPlateStrongBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Titanium armor plate Lvl 4")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackCeramicPlateBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Ceramic armor plate Lvl 3")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackCeramicPlateStrongBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Ceramic armor plate Lvl 4")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackSteelHelmetBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Steel Helmet")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackPASGTBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Helmet PASGT")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackACHBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Kevlar Helmet")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackMICHBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("MICH Helmet")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackPASGTSWATBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Titanium Helmet M100")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackBasicBeltBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Ammo Belt")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackHolsterBeltBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Basic Belt")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackTacticalBeltBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Belt_01")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackButtpackBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Ammo Cartouche6")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackBigButtpackBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Ammo CartoucheVert")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackVeryBigButtpackBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Folded Ammo Cartouche")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function Unpack60MortarBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Bomb60")
+ end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function Unpack82MortarBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ for i = 1, 5 do
+   DropItem("Bomb82")
  end
  if IsBattle() then monster:AddChangeItemAction(5) end
 end
@@ -566,7 +871,9 @@ AddItemContextMenu("PVS-7B", 					_t"lang/lua/using_items/raise_nvg", ChangeItem
 AddItemContextMenu("PVS-7B_up", 				_t"lang/lua/using_items/lower_nvg", ChangeItem, CanUseItem)
 AddItemContextMenu("Field Paramedic Kit2", 			action_unpack, UnpackParamedicKit2, CanUseItem)
 AddItemContextMenu("Car_can5", 					_t"lang/lua/using_items/pour", AddEmptyCan, CanUseItem)
+AddItemContextMenu("PackedCamoBox", 				action_unpack, UnpackCamoBox, CanUseItem)
 AddItemContextMenu("PackedMedBox", 				action_unpack, UnpackMedBox, CanUseItem)
+AddItemContextMenu("Caja con medicamentos", 				action_unpack, UnpackMedBox2, CanUseItem)
 AddItemContextMenu("PackedTushBox", 				action_unpack, UnpackTushBox, CanUseItem)
 AddItemContextMenu("PackedAmmoBox M193 (5.56/1000)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
 AddItemContextMenu("PackedAmmoBox M80 (7.62x51/800)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)

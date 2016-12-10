@@ -5594,14 +5594,6 @@ Z  0
 X  0
 Y  90
 Z  0
-"BigWoodAmmoBox M80 (7.62x51/800)"
-X  0
-Y  90
-Z  0
-"BigWoodAmmoBox M993 (7.62x51/800)"
-X  0
-Y  90
-Z  0
 "BigWoodAmmoBox 7N6 (5.45/1000)"
 X  0
 Y  90
@@ -6763,10 +6755,6 @@ Y  0
 Z  0
 "Food_banan"
 X  0
-Y  0
-Z  90
-"Food_irpb"
-X  50
 Y  0
 Z  90
 "Pistol Beretta 92S (9mm)"
