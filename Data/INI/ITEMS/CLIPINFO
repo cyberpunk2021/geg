@@ -2998,8 +2998,8 @@ DEFAMMO  "SP-11 (9x21mm)"
 //5.8x21mm
 BOX "Ammo box DAP92 (5.8x21mm)""DAP92"50 "items\dap92_ap.act""boxpla.e5b"
 BOX "Ammo box DCV05 (5.8x21mm)""DCV05"50 "items\dcv05.act""boxpla.e5b"
-BOX "Ammo box DAP92 500 (5.8x21mm)""DAP92"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
-BOX "Ammo box DCV05 500 (5.8x21mm)""DCV05"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX "Ammo box DAP92 500 (5.8x21mm)""DAP92"500 "Items\caixa_nori_dap92.act""nori500box.e5b"
+BOX "Ammo box DCV05 500 (5.8x21mm)""DCV05"500 "Items\caixa_nori_dcv05.act""nori500box.e5b"
 CLIP  "Pistol clip (QSZ-92/20)""5.8x21mm""QSZ-92"20 110 "None"1000 
 ACTOR  "Items\qsz92_58mag.act"
 USEPREFIX  ""
@@ -4084,9 +4084,9 @@ DEFAMMO  "6x35mm FMJ"
 BOX  "Ammo box (DBP87)""DBP87"20 "Items\58x42dbp87.act""boxpla.e5b"
 BOX  "Ammo box (DBP88)""DBP88"20 "Items\58x42dbp88.act""boxpla.e5b"
 BOX  "Ammo box (DBP10)""DBP10"20 "Items\58x42dbp10.act""boxpla.e5b"
-BOX  "Ammo box 500 (DBP87)""DBP87"600 "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.E5B"
-BOX  "Ammo box 500 (DBP88)""DBP88"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
-BOX  "Ammo box 500 (DBP10)""DBP10"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX  "Ammo box 500 (DBP87)""DBP87"600 "Items\caixa_nori_dbp87.ACT""nori500box.E5B"
+BOX  "Ammo box 500 (DBP88)""DBP88"600 "Items\caixa_nori_dbp88.act""nori500box.e5b"
+BOX  "Ammo box 500 (DBP10)""DBP10"600 "Items\caixa_nori_dbp10.act""nori500box.e5b"
 
 
 CLIP  "Rifle ammo clip (CSLR3\10)""5.8x42mm""CSLR3"10 140 "None"300 

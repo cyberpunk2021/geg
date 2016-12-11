@@ -291,9 +291,17 @@ end
 function UnpackMREBox(item)
  local monster = GetCurrentMerc()
  monster:DeleteItem(item)
- for i = 1, 24 do
+ for i = 1, 12 do
    DropItem("Food_irpb")
  end
+ if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+function UnpackMREHUGEBox(item)
+ local monster = GetCurrentMerc()
+ monster:DeleteItem(item)
+ DropItem("PackedMREBox")
+ DropItem("PackedMREBox")
  if IsBattle() then monster:AddChangeItemAction(5) end
 end
 
