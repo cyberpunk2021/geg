@@ -1030,7 +1030,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (.38/500)"
 None  
-None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
+None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 9410 
 
 "PackedAmmoBox Algeira (.357 SIG/500)"
@@ -1045,7 +1045,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (.40 SW/500)"
 None  
-None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
+None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 8875 
 
 "PackedAmmoBox Algeira (.357 Magnum/500)"
@@ -1055,7 +1055,7 @@ None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 "PackedAmmoBox CBC (.357 Magnum/500)"
 None  
-None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
+None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 10460  
 
 "PackedAmmoBox Algeira (.45 ACP/500)"
@@ -1955,23 +1955,148 @@ None  "Items\caja_a.act""caja_a.e5b"
 
 "PackedMREBox"
 None  
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\mre_box.act""mrebox.e5b"
 7500
 
 "PackedMREHUGEBox"
 None  
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\box_util.act""boxutil.e5b"
 16500
 
 "PackedRationBox"
 None  
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\box_util.act""boxutil.e5b"
 7200
 
 "PackedSmershBox"
 None  
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\box_util.act""boxutil.e5b"
 4750
+
+"PackedTacVestBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+5500
+
+"PackedYellowTacVestBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+5500
+
+"PackedMolleVestBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+6000
+
+"PackedVestBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+18000
+
+"PackedVestM200Box"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+28000
+
+"PackedWildcatVestBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+23000
+
+"PackedKevlarVestBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+43000
+
+"PackedVyzovBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+43000
+
+"PackedMetalPlateBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+12000
+
+"PackedMetalPlateStrongBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+17000
+
+"PackedCeramicPlateBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+9500
+
+"PackedCeramicPlateStrongBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+12000
+
+"PackedSteelHelmetBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+8750
+
+"PackedPASGTBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+10250
+
+"PackedACHBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+9300
+
+"PackedMICHBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+8750
+
+"PackedPASGTSWATBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+10000
+
+"PackedBasicBeltBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+4000
+
+"PackedHolsterBeltBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+3500
+
+"PackedTacticalBeltBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+3250
+
+"PackedButtpackBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+2000
+
+"PackedBigButtpackBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+2250
+
+"PackedVeryBigButtpackBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+2500
+
+"Packed60MortarBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+11300
+
+"Packed82MortarBox"
+None  
+None  "Items\box_util.act""boxutil.e5b"
+20000
 
 "Uniform Bundle Algeira"
 None  
