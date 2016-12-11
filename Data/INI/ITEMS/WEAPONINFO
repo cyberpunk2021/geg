@@ -100818,16 +100818,16 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WRFG"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window New (M16/30)"
 StdPlug			"LVOASstock"
-ACTOR			"Items\LVOAS.act"
+ACTOR			"Items\lvoasfg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Assault Rifle LVOAS FG (5.56x45mm) folded"
 Class			Rifle
@@ -100857,16 +100857,16 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WRFG"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Magpul PMAG Tan Window New (M16/30)"
 StdPlug			"LVOASstock_folded"
-ACTOR			"Items\LVOAS.act"
+ACTOR			"Items\lvoasfg.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Shotgun M1216 (12ga)"
 Class			Shotgun

@@ -7,6 +7,8 @@
  ["Assault Rifle M4A1 RIS (5.56mm) folded"] = "Assault Rifle M4A1 RIS FG (5.56mm) folded",
  ["Assault Rifle M4 SOPMOD (22)"] = "Assault Rifle M4 SOPMOD FG (22)",
  ["Assault Rifle M4 SOPMOD (22) folded"] = "Assault Rifle M4 SOPMOD FG (22) folded",
+ ["Assault Rifle LVOAS (5.56x45mm)"] = "Assault Rifle LVOAS FG (5.56x45mm)",
+ ["Assault Rifle LVOAS (5.56x45mm) folded"] = "Assault Rifle LVOAS FG (5.56x45mm) folded",
  ["LWRC PSD 556"] = "LWRC PSD 556 FG",
  ["LWRC PSD 556 folded"] = "LWRC PSD 556 FG folded",
  ["LWRC PSD 556 BLK"] = "LWRC PSD 556 BLK FG",
@@ -299,6 +301,8 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm)", Attach
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4A1 RIS (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4 SOPMOD (22)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4 SOPMOD (22) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle LVOAS (5.56x45mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle LVOAS (5.56x45mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556 BLK", AttachForegrip)
@@ -462,6 +466,8 @@ AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm)", action_detach_handle, D
 AddItemContextMenu("Assault Rifle M4A1 RIS FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4 SOPMOD FG (22)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M4 SOPMOD FG (22) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle LVOAS FG (5.56x45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle LVOAS FG (5.56x45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
