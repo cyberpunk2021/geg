@@ -63150,7 +63150,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -63189,7 +63189,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -63205,7 +63205,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2800
 PrepareTime		0.32
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		2300
@@ -63215,7 +63215,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -63228,13 +63228,12 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -63245,7 +63244,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2800
 PrepareTime		0.28
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		2300
@@ -63255,7 +63254,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -63268,13 +63267,12 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -63308,7 +63306,7 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -63347,7 +63345,7 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
@@ -63363,7 +63361,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2800
 PrepareTime		0.32
-SingleFireTime	0.71
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		2200
@@ -63373,7 +63371,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -63386,13 +63384,12 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -63403,7 +63400,7 @@ Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2800
 PrepareTime		0.28
-SingleFireTime	0.71
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		2200
@@ -63413,7 +63410,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -63426,13 +63423,12 @@ ShootSound		"Weapon\shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -63466,7 +63462,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	0
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks ILauncher
@@ -63505,7 +63501,7 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	0
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks ILauncher
@@ -63521,7 +63517,7 @@ Class			Rifle
 Caliber			".458 socom"
 Weight			3100
 PrepareTime		0.35
-SingleFireTime	0.75
+SingleFireTime	0.73
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		2100
@@ -63531,7 +63527,7 @@ HeatCapacity	30
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	115
 RangeCurvature	4.5
@@ -63544,13 +63540,12 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		1 "M9"
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -63561,7 +63556,7 @@ Class			Rifle
 Caliber			".458 socom"
 Weight			3100
 PrepareTime		0.31
-SingleFireTime	0.75
+SingleFireTime	0.73
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		2100
@@ -63571,7 +63566,7 @@ HeatCapacity	30
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	90
 RangeCurvature	4.5
@@ -63584,13 +63579,12 @@ ShootSound		"Weapon\shoot\hk417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		1 "M9"
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"

@@ -15,6 +15,12 @@
  ["Assault Rifle MK18 CAR (5.56mm) folded"] = "Assault Rifle MK18 CAR FG (5.56mm) folded",
  ["Assault Rifle MK18 CQC (5.56mm)"] = "Assault Rifle MK18 CQC FG (5.56mm)",
  ["Assault Rifle MK18 CQC (5.56mm) folded"] = "Assault Rifle MK18 CQC FG (5.56mm) folded",
+ ["Wilson NATO"] = "Wilson NATO FG",
+ ["Wilson NATO folded"] = "Wilson NATO FG folded",
+ ["Wilson SPC"] = "Wilson SPC FG",
+ ["Wilson SPC folded"] = "Wilson SPC FG folded",
+ ["Wilson458"] = "Wilson458 FG",
+ ["Wilson458 folded"] = "Wilson458 FG folded",
  ["LWRC PSD 556"] = "LWRC PSD 556 FG",
  ["LWRC PSD 556 folded"] = "LWRC PSD 556 FG folded",
  ["LWRC PSD 556 BLK"] = "LWRC PSD 556 BLK FG",
@@ -315,6 +321,12 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CAR (5.56mm)", Attach
 AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CAR (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CQC (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CQC (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Wilson NATO", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Wilson NATO folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Wilson SPC", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Wilson SPC folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Wilson458", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Wilson458 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556 BLK", AttachForegrip)
@@ -486,6 +498,12 @@ AddItemContextMenu("Assault Rifle MK18 CAR FG (5.56mm)", action_detach_handle, D
 AddItemContextMenu("Assault Rifle MK18 CAR FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle MK18 CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle MK18 CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Wilson NATO FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Wilson NATO FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Wilson SPC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Wilson SPC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Wilson458 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Wilson458 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
