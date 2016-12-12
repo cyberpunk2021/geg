@@ -31,6 +31,10 @@
  ["LWRC PSD BLK folded"] = "LWRC PSD BLK FG folded",
  ["Assault Rifle M16A3 MWS (5.56mm)"] = "Assault Rifle M16A3 MWS FG (5.56mm)",
  ["Assault Rifle M16A3 MWS Target (5.56mm)"] = "Assault Rifle M16A3 Target FG (5.56mm)",
+ ["Assault Rifle AR15 5.56x45 no FG"] = "Assault Rifle AR15 5.56x45",
+ ["Assault Rifle AR15 5.56x45 no FG folded"] = "Assault Rifle AR15 5.56x45 folded",
+ ["Assault Rifle DPMS 308 no FG"] = "Assault Rifle DPMS 308",
+ ["Assault Rifle DPMS 308 no FG folded"] = "Assault Rifle DPMS 308 folded",
  ["Assault Rifle SAR21 (5.56mm)"] = "Assault Rifle SAR21 FG (5.56mm)",
  ["Assault Rifle T91 (5.56mm)"] = "Assault Rifle T91 FG (5.56mm)",
  ["Assault Rifle T91 (5.56mm) folded"] = "Assault Rifle T91 FG (5.56mm) folded",
@@ -337,6 +341,10 @@ AddItemCombineHandler("Tactical grip", "LWRC PSD BLK", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD BLK folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle M16A3 MWS Target (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AR15 5.56x45 no FG", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle AR15 5.56x45 no FG folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle DPMS 308 no FG", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle DPMS 308 no FG folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SAR21 (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T91 (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T91 (5.56mm) folded", AttachForegrip)
@@ -526,6 +534,10 @@ AddItemContextMenu("REC7 SPC FG folded", action_detach_handle, DetachForegrip, C
 AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A3 Target FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Grendel MWS FG (6.5)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AR15 5.56x45", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle AR15 5.56x45 folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle DPMS 308", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle DPMS 308 folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Shotgun AA12 FG (12ga)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T14 M4A1 FG (410)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle T14 M4A1 FG (410) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)

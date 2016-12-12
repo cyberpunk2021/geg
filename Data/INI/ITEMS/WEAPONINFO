@@ -63618,7 +63618,7 @@ ShootSound		"Weapon\Shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -63657,7 +63657,7 @@ ShootSound		"Weapon\Shoot\HK416.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -63673,7 +63673,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2550
 PrepareTime		0.36
-SingleFireTime	0.71
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1.03
 Resource		2200
@@ -63683,7 +63683,7 @@ HeatCapacity	60
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	124
 RangeCurvature	5
@@ -63696,14 +63696,13 @@ ShootSound		"Weapon\Shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Craner_butt4"
-StdPlug			"Frontgrip"
 ACTOR			"Items\mk12fg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -63713,7 +63712,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2550
 PrepareTime		0.32
-SingleFireTime	0.71
+SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1.03
 Resource		2200
@@ -63736,14 +63735,13 @@ ShootSound		"Weapon\Shoot\Shoot_ColtCommando.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Craner_butt4_folded"
-StdPlug			"Frontgrip"
 ACTOR			"Items\mk12fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -63776,7 +63774,7 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -63815,7 +63813,7 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -63831,7 +63829,7 @@ Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			2550
 PrepareTime		0.37
-SingleFireTime	0.81
+SingleFireTime	0.79
 BurstFireTime	0.08
 SpeedModifier	1.03
 Resource		2000
@@ -63841,7 +63839,7 @@ HeatCapacity	60
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	124
 RangeCurvature	5
@@ -63854,14 +63852,13 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"Craner_butt4"
-StdPlug			"Frontgrip"
 ACTOR			"Items\mk12308fg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -63871,7 +63868,7 @@ Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			2550
 PrepareTime		0.33
-SingleFireTime	0.81
+SingleFireTime	0.79
 BurstFireTime	0.08
 SpeedModifier	1.03
 Resource		2000
@@ -63881,7 +63878,7 @@ HeatCapacity	60
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	109
 RangeCurvature	5
@@ -63894,14 +63891,13 @@ ShootSound		"Weapon\Shoot\HK417.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"Craner_butt4_folded"
-StdPlug			"Frontgrip"
 ACTOR			"Items\mk12308fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
