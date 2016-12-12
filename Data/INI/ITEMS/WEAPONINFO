@@ -61859,7 +61859,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2400
 PrepareTime		0.28
-SingleFireTime	0.68
+SingleFireTime	0.70
 BurstFireTime	0.08
 SpeedModifier	0.96
 Resource		1800
@@ -61882,24 +61882,23 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\mk18cqc.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle MK18 CQC (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2400
 PrepareTime		0.25
-SingleFireTime	0.68
+SingleFireTime	0.70
 BurstFireTime	0.08
 SpeedModifier	0.96
 Resource		1800
@@ -61922,24 +61921,101 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
 ACTOR			"Items\mk18cqc.act"
 IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle MK18 CQC FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2400
+PrepareTime		0.28
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	0.96
+Resource		1800
+DirtResource	190000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	4
+Balance			0.56
+Unfold			"Assault Rifle MK18 CQC FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Krebs_butt"
+ACTOR			"Items\mk18cqcfg.act"
+IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
-ITEM "Assault Rifle MK18 (5.56mm)"
+ITEM "Assault Rifle MK18 CQC FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2400
+PrepareTime		0.25
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	0.96
+Resource		1800
+DirtResource	190000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	80
+RangeCurvature	5
+Balance			0.56
+Unfold			"Assault Rifle MK18 CQC FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Krebs_butt_folded"
+ACTOR			"Items\mk18cqcfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle MK18 CAR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2676
 PrepareTime		0.31
-SingleFireTime	0.7
+SingleFireTime	0.72
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1800
@@ -61954,7 +62030,7 @@ MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
 Balance			0.56
-Unfold			"Assault Rifle MK18 (5.56mm) folded"
+Unfold			"Assault Rifle MK18 CAR (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -61962,24 +62038,23 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\mk18car.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
-ITEM "Assault Rifle MK18 (5.56mm) folded"
+ITEM "Assault Rifle MK18 CAR (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			2676
 PrepareTime		0.29
-SingleFireTime	0.7
+SingleFireTime	0.72
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1800
@@ -61994,6 +62069,162 @@ MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
 Balance			0.56
+Unfold			"Assault Rifle MK18 CAR (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Krebs_butt_folded"
+ACTOR			"Items\mk18car.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle MK18 CAR FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2676
+PrepareTime		0.31
+SingleFireTime	0.7
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		1800
+DirtResource	190000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	110
+RangeCurvature	5
+Balance			0.56
+Unfold			"Assault Rifle MK18 CAR FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Krebs_butt"
+ACTOR			"Items\mk18carfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle MK18 CAR FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2676
+PrepareTime		0.29
+SingleFireTime	0.7
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		1800
+DirtResource	190000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	5
+Balance			0.56
+Unfold			"Assault Rifle MK18 CAR FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Krebs_butt_folded"
+ACTOR			"Items\mk18carfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle MK18 (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2800
+PrepareTime		0.35
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	1.02
+Resource		1800
+DirtResource	190000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	133
+RangeCurvature	3
+Balance			0.56
+Unfold			"Assault Rifle MK18 (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""m16a3"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Krebs_butt"
+ACTOR			"Items\mk18.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle MK18 (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2800
+PrepareTime		0.32
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	1.02
+Resource		1800
+DirtResource	190000
+MisfireProb		0.021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	111
+RangeCurvature	3
+Balance			0.56
 Unfold			"Assault Rifle MK18 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -62002,17 +62233,16 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\mk18car.act"
+ACTOR			"Items\mk18.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle MK18 FG (5.56mm)"
 Class			Rifle
@@ -62029,7 +62259,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	133
 RangeCurvature	3
@@ -62042,15 +62272,14 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\mk18.act"
+ACTOR			"Items\mk18fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -62069,7 +62298,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	111
 RangeCurvature	3
@@ -62082,15 +62311,14 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "built-in"
+ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\mk18.act"
+ACTOR			"Items\mk18fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 

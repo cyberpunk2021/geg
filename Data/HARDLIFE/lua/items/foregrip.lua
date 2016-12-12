@@ -9,6 +9,12 @@
  ["Assault Rifle M4 SOPMOD (22) folded"] = "Assault Rifle M4 SOPMOD FG (22) folded",
  ["Assault Rifle LVOAS (5.56x45mm)"] = "Assault Rifle LVOAS FG (5.56x45mm)",
  ["Assault Rifle LVOAS (5.56x45mm) folded"] = "Assault Rifle LVOAS FG (5.56x45mm) folded",
+ ["Assault Rifle MK18 (5.56mm)"] = "Assault Rifle MK18 FG (5.56mm)",
+ ["Assault Rifle MK18 (5.56mm) folded"] = "Assault Rifle MK18 FG (5.56mm) folded",
+ ["Assault Rifle MK18 CAR (5.56mm)"] = "Assault Rifle MK18 CAR FG (5.56mm)",
+ ["Assault Rifle MK18 CAR (5.56mm) folded"] = "Assault Rifle MK18 CAR FG (5.56mm) folded",
+ ["Assault Rifle MK18 CQC (5.56mm)"] = "Assault Rifle MK18 CQC FG (5.56mm)",
+ ["Assault Rifle MK18 CQC (5.56mm) folded"] = "Assault Rifle MK18 CQC FG (5.56mm) folded",
  ["LWRC PSD 556"] = "LWRC PSD 556 FG",
  ["LWRC PSD 556 folded"] = "LWRC PSD 556 FG folded",
  ["LWRC PSD 556 BLK"] = "LWRC PSD 556 BLK FG",
@@ -303,6 +309,12 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle M4 SOPMOD (22)", AttachFor
 AddItemCombineHandler("Tactical grip", "Assault Rifle M4 SOPMOD (22) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle LVOAS (5.56x45mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle LVOAS (5.56x45mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CAR (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CAR (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CQC (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CQC (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556 folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "LWRC PSD 556 BLK", AttachForegrip)
@@ -468,6 +480,12 @@ AddItemContextMenu("Assault Rifle M4 SOPMOD FG (22)", action_detach_handle, Deta
 AddItemContextMenu("Assault Rifle M4 SOPMOD FG (22) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle LVOAS FG (5.56x45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle LVOAS FG (5.56x45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle MK18 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle MK18 FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle MK18 CAR FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle MK18 CAR FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle MK18 CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle MK18 CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD 556 BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)

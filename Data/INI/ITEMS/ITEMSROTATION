@@ -9807,14 +9807,6 @@ X  0
 Y  -90
 Z  0
 
-"Assault Rifle MK18 FG (5.56mm)"
-X  0
-Y  -90
-Z  0
-"Assault Rifle MK18 FG (5.56mm) folded"
-X  0
-Y  -90
-Z  0
 "Assault Rifle MK18 (5.56mm)"
 X  0
 Y  -90
@@ -9823,11 +9815,43 @@ Z  0
 X  0
 Y  -90
 Z  0
+"Assault Rifle MK18 FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 FG (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 CAR (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 CAR (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 CAR FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 CAR FG (5.56mm) folded"
+X  0
+Y  -90
+Z  0
 "Assault Rifle MK18 CQC (5.56mm)"
 X  0
 Y  -90
 Z  0
 "Assault Rifle MK18 CQC (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 CQC FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle MK18 CQC FG (5.56mm) folded"
 X  0
 Y  -90
 Z  0
