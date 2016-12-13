@@ -128,6 +128,12 @@
  ["Assault Rifle SCAR-H Std (7.62x51mm) folded"] = "Assault Rifle SCAR-H Std FG (7.62x51mm) folded",
  ["Assault Rifle SCAR-H LB (7.62x51mm)"] = "Assault Rifle SCAR-H LB FG (7.62x51mm)",
  ["Assault Rifle SCAR-H LB (7.62x51mm) folded"] = "Assault Rifle SCAR-H LB FG (7.62x51mm) folded",
+ ["AK 5C CQC"] = "AK 5C CQC FG",
+ ["AK 5C CQC folded"] = "AK 5C CQC FG folded",
+ ["AK 5C CAR"] = "AK 5C CAR FG",
+ ["AK 5C CAR folded"] = "AK 5C CAR FG folded",
+ ["AK 5C"] = "AK 5C FG",
+ ["AK 5C folded"] = "AK 5C FG folded",
  ["HK416CQB"] = "HK416CQB FG",
  ["HK416CQB folded"] = "HK416CQB FG folded",
  ["HK416 14DRS"] = "HK416 14DRS FG",
@@ -452,6 +458,12 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H Std (7.62x51mm)", A
 AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H Std (7.62x51mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H LB (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H LB (7.62x51mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AK 5C CQC", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AK 5C CQC folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AK 5C CAR", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AK 5C CAR folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AK 5C", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AK 5C folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416 14DRS", AttachForegrip)
@@ -647,6 +659,12 @@ AddItemContextMenu("Assault Rifle SCAR-H Std FG (7.62x51mm)", action_detach_hand
 AddItemContextMenu("Assault Rifle SCAR-H Std FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SCAR-H LB FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SCAR-H LB FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AK 5C CQC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AK 5C CQC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AK 5C CAR FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AK 5C CAR FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AK 5C FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AK 5C FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416 14DRS FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
