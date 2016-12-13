@@ -27688,7 +27688,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		170
 EffectiveRange	96
 RangeCurvature	3
@@ -29090,7 +29090,7 @@ HeatCapacity	37
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		150
 EffectiveRange	72
 RangeCurvature	6
@@ -29130,7 +29130,7 @@ HeatCapacity	37
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		150
 EffectiveRange	52
 RangeCurvature	6
@@ -47376,7 +47376,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	86
 RangeCurvature	6
@@ -47967,7 +47967,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		280
 EffectiveRange	155
 RangeCurvature	2.2
@@ -48307,7 +48307,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	125
 RangeCurvature	4
@@ -48345,7 +48345,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	157
 RangeCurvature	2.5
@@ -48901,7 +48901,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
@@ -48939,7 +48939,7 @@ HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
@@ -62337,7 +62337,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
@@ -62377,7 +62377,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	80
 RangeCurvature	4
@@ -62417,7 +62417,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
@@ -62457,7 +62457,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	80
 RangeCurvature	4
@@ -62497,7 +62497,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -62537,7 +62537,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -62577,7 +62577,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -62617,7 +62617,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -62657,7 +62657,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	128
 RangeCurvature	3
@@ -62697,7 +62697,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	108
 RangeCurvature	3
@@ -62737,7 +62737,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	128
 RangeCurvature	3
@@ -62777,7 +62777,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	108
 RangeCurvature	3
@@ -62817,7 +62817,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -62857,7 +62857,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -62897,7 +62897,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -62937,7 +62937,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -62977,7 +62977,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	131
 RangeCurvature	3
@@ -63017,7 +63017,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	111
 RangeCurvature	3
@@ -63057,7 +63057,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	131
 RangeCurvature	3
@@ -63097,7 +63097,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	111
 RangeCurvature	3
@@ -64859,7 +64859,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -64899,7 +64899,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -64939,7 +64939,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	110
 RangeCurvature	5
@@ -64979,7 +64979,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	5
@@ -66833,7 +66833,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	90
 RangeCurvature	5
@@ -66873,7 +66873,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	70
 RangeCurvature	5
@@ -66915,7 +66915,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	90
 RangeCurvature	5
@@ -66955,7 +66955,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		200
 EffectiveRange	70
 RangeCurvature	5
@@ -72015,7 +72015,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
