@@ -72348,17 +72348,16 @@ ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"ak5c_butt"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\ak5cCQC.ACT"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "AK 5C CQC folded"
 Class			Rifle
@@ -72388,15 +72387,92 @@ ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"ak5c_butt_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\ak5cCQC.ACT"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "AK 5C CQC FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2900
+PrepareTime		0.28
+SingleFireTime	0.66
+BurstFireTime	0.08
+SpeedModifier	0.96
+Resource		2700
+DirtResource	300000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	93
+RangeCurvature	4
+Balance			0.46
+Unfold			"AK 5C CQC FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AK5_fire.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"ak5c_butt"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\ak5cCQCfg.ACT"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "AK 5C CQC FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2900
+PrepareTime		0.24
+SingleFireTime	0.66
+BurstFireTime	0.08
+SpeedModifier	0.96
+Resource		2700
+DirtResource	300000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	73
+RangeCurvature	4
+Balance			0.46
+Unfold			"AK 5C CQC FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AK5_fire.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"ak5c_butt_folded"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\ak5cCQCfg.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -72428,7 +72504,7 @@ ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -72467,7 +72543,7 @@ ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -72477,6 +72553,84 @@ StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\ak5c.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "AK 5C CAR FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.35
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	1.03
+Resource		2800
+DirtResource	310000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	128
+RangeCurvature	3
+Balance			0.46
+Unfold			"AK 5C CAR FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AK5_fire.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"ak5c_butt"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\ak5cfg.ACT"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "AK 5C CAR FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.32
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	1.03
+Resource		2800
+DirtResource	310000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	108
+RangeCurvature	3
+Balance			0.46
+Unfold			"AK 5C CAR FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AK5_fire.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"ak5c_butt_folded"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\ak5cfg.ACT"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "AK 5C"
 Class			Rifle
@@ -72506,7 +72660,7 @@ ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -72545,7 +72699,7 @@ ShootSound		"Weapon\Shoot\AK5_fire.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -72555,6 +72709,84 @@ StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\ak5cLB.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "AK 5C FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3600
+PrepareTime		0.43
+SingleFireTime	0.73
+BurstFireTime	0.08
+SpeedModifier	1.06
+Resource		2800
+DirtResource	310000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	156
+RangeCurvature	3
+Balance			0.46
+Unfold			"AK 5C FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AK5_fire.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"ak5c_butt"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\ak5cLBfg.ACT"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "AK 5C FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3600
+PrepareTime		0.40
+SingleFireTime	0.73
+BurstFireTime	0.08
+SpeedModifier	1.06
+Resource		2800
+DirtResource	310000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	126
+RangeCurvature	3
+Balance			0.46
+Unfold			"AK 5C FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AK5_fire.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"ak5c_butt_folded"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\ak5cLBfg.ACT"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ////////-----------------
 
