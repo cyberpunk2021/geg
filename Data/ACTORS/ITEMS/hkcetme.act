@@ -34,7 +34,7 @@ Material rebdfer {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "hkg3_1.dds";
+  "hkg3_1cetme.dds";
  }
 }
 
@@ -44,7 +44,7 @@ Material wefwsdwe {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "hkg3_2.dds";
+  "hkg3_2cetme.dds";
  }
 }
 
