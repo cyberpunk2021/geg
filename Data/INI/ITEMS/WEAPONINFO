@@ -72586,13 +72586,9 @@ ShootSound		"Weapon\Shoot\SCAR-L.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "Scar"
-blocks
-Bipod
+ATT ILauncher	1 "Scar" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -72629,13 +72625,9 @@ ShootSound		"Weapon\Shoot\SCAR-L.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "Scar"
-blocks
-Bipod
+ATT ILauncher	1 "Scar" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -72643,6 +72635,84 @@ StdPlug			"scarnovostock_folded"
 ACTOR			"Items\scarnovacqcl.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle SCAR-L CQC FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.27
+SingleFireTime	0.63
+BurstFireTime	0.085
+SpeedModifier	0.97
+Resource		2200
+DirtResource	220000
+MisfireProb		0.0009
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	93
+RangeCurvature	4
+Balance			0.47
+Unfold			"Assault Rifle SCAR-L CQC FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
+ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
+ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
+ShootSound		"Weapon\Shoot\SCAR-L.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "5.56 Double""NATO 5.56"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"scarnovostock"
+ACTOR			"Items\scarnovacqclfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SCAR-L CQC FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.23
+SingleFireTime	0.63
+BurstFireTime	0.085
+SpeedModifier	0.97
+Resource		2200
+DirtResource	220000
+MisfireProb		0.0009
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	73
+RangeCurvature	4
+Balance			0.47
+Unfold			"Assault Rifle SCAR-L CQC FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
+ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
+ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
+ShootSound		"Weapon\Shoot\SCAR-L.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "5.56 Double""NATO 5.56"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"scarnovostock_folded"
+ACTOR			"Items\scarnovacqclfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle SCAR-L Std (5.56mm)"
 Class			Rifle
@@ -72672,13 +72742,9 @@ ShootSound		"Weapon\Shoot\SCAR-L.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "Scar"
-blocks
-Bipod
+ATT ILauncher	1 "Scar" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -72715,13 +72781,9 @@ ShootSound		"Weapon\Shoot\SCAR-L.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "Scar"
-blocks
-Bipod
+ATT ILauncher	1 "Scar" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -72729,6 +72791,84 @@ StdPlug			"scarnovostock_folded"
 ACTOR			"Items\scarnoval.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle SCAR-L Std FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3650
+PrepareTime		0.32
+SingleFireTime	0.67
+BurstFireTime	0.085
+SpeedModifier	1.0
+Resource		2400
+DirtResource	240000
+MisfireProb		0.0009
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	116
+RangeCurvature	5
+Balance			0.57
+Unfold			"Assault Rifle SCAR-L Std FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
+ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
+ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
+ShootSound		"Weapon\Shoot\SCAR-L.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "5.56 Double""NATO 5.56"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"scarnovostock"
+ACTOR			"Items\scarnovalfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SCAR-L Std FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3650
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.085
+SpeedModifier	1.0
+Resource		2400
+DirtResource	240000
+MisfireProb		0.0009
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	86
+RangeCurvature	5
+Balance			0.57
+Unfold			"Assault Rifle SCAR-L Std FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
+ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
+ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
+ShootSound		"Weapon\Shoot\SCAR-L.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "5.56 Double""NATO 5.56"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"scarnovostock_folded"
+ACTOR			"Items\scarnovalfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle SCAR-L LB (5.56mm)"
 Class			Rifle
@@ -72758,13 +72898,9 @@ ShootSound		"Weapon\Shoot\SCAR-L.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
-blocks
-ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "Scar"
-blocks
-Bipod
+ATT ILauncher	1 "Scar" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "5.56 Double""NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -72801,7 +72937,7 @@ ShootSound		"Weapon\Shoot\SCAR-L.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	1 "Scar" blocks Bipod
 ATT Bayonet		0
@@ -72811,6 +72947,84 @@ StdPlug			"scarnovostock_folded"
 ACTOR			"Items\scarnovalbl.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Assault Rifle SCAR-L LB FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4050
+PrepareTime		0.41
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.04
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0009
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	159
+RangeCurvature	2.5
+Balance			0.42
+Unfold			"Assault Rifle SCAR-L LB FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
+ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
+ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
+ShootSound		"Weapon\Shoot\SCAR-L.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "5.56 Double""NATO 5.56"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"scarnovostock"
+ACTOR			"Items\scarnovalblfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle SCAR-L LB FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4050
+PrepareTime		0.37
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	1.04
+Resource		2500
+DirtResource	250000
+MisfireProb		0.0009
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	134
+RangeCurvature	2.5
+Balance			0.42
+Unfold			"Assault Rifle SCAR-L LB FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
+ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
+ReLockSound		"Weapon\ReLock\L85A2_slide.wav"
+ShootSound		"Weapon\Shoot\SCAR-L.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "5.56 Double""NATO 5.56"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"scarnovostock_folded"
+ACTOR			"Items\scarnovalblfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle SCAR-H CQC (7.62x51mm)"
 Class			Rifle

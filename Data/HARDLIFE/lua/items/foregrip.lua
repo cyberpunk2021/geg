@@ -116,6 +116,12 @@
  ["Assault Rifle SIG 556 (5.56mm) folded"] = "Assault Rifle SIG 556 FG (5.56mm) folded",
  ["Assault Rifle SIG 556 CIV (5.56mm)"] = "Assault Rifle SIG 556 CIV FG (5.56mm)",
  ["Assault Rifle SIG 556 CIV (5.56mm) folded"] = "Assault Rifle SIG 556 CIV FG (5.56mm) folded",
+ ["Assault Rifle SCAR-L CQC (5.56mm)"] = "Assault Rifle SCAR-L CQC FG (5.56mm)",
+ ["Assault Rifle SCAR-L CQC (5.56mm) folded"] = "Assault Rifle SCAR-L CQC FG (5.56mm) folded",
+ ["Assault Rifle SCAR-L Std (5.56mm)"] = "Assault Rifle SCAR-L Std FG (5.56mm)",
+ ["Assault Rifle SCAR-L Std (5.56mm) folded"] = "Assault Rifle SCAR-L Std FG (5.56mm) folded",
+ ["Assault Rifle SCAR-L LB (5.56mm)"] = "Assault Rifle SCAR-L LB FG (5.56mm)",
+ ["Assault Rifle SCAR-L LB (5.56mm) folded"] = "Assault Rifle SCAR-L LB FG (5.56mm) folded",
  ["Assault Rifle SCAR-H CQC (7.62x51mm)"] = "Assault Rifle SCAR-H CQC FG (7.62x51mm)",
  ["Assault Rifle SCAR-H CQC (7.62x51mm) folded"] = "Assault Rifle SCAR-H CQC FG (7.62x51mm) folded",
  ["Assault Rifle SCAR-H Std (7.62x51mm)"] = "Assault Rifle SCAR-H Std FG (7.62x51mm)",
@@ -434,6 +440,12 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 (5.56mm)", AttachF
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CIV (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CIV (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-L CQC (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-L CQC (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-L Std (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-L Std (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-L LB (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-L LB (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H CQC (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H CQC (7.62x51mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SCAR-H Std (7.62x51mm)", AttachForegrip)
@@ -623,6 +635,12 @@ AddItemContextMenu("Assault Rifle SIG 556 FG (5.56mm)", action_detach_handle, De
 AddItemContextMenu("Assault Rifle SIG 556 FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CIV FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CIV FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SCAR-L CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SCAR-L CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SCAR-L Std FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SCAR-L Std FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SCAR-L LB FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle SCAR-L LB FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SCAR-H CQC FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SCAR-H CQC FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SCAR-H Std FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

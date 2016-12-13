@@ -7792,6 +7792,18 @@ Z  0
 X  0
 Y  -90
 Z  0
+"Assault Rifle SCAR-L CQC (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L CQC FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L CQC FG (5.56mm) folded"
+X  0
+Y  -90
+Z  0
 "Assault Rifle SCAR-H CQC (7.62x51mm)"
 X  0
 Y  -90
@@ -7809,6 +7821,18 @@ X  0
 Y  -90
 Z  0
 "Assault Rifle SCAR-H Std (7.62x51mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-H Std (7.62x51mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-H Std FG (7.62x51mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-H Std FG (7.62x51mm) folded"
 X  0
 Y  -90
 Z  0
@@ -7832,7 +7856,31 @@ Z  0
 X  0
 Y  -90
 Z  0
+"Assault Rifle SCAR-L Std (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L Std FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L Std FG (5.56mm) folded"
+X  0
+Y  -90
+Z  0
 "Assault Rifle SCAR-L LB (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L LB (5.56mm) folded"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L LB FG (5.56mm)"
+X  0
+Y  -90
+Z  0
+"Assault Rifle SCAR-L LB FG (5.56mm) folded"
 X  0
 Y  -90
 Z  0
@@ -14444,22 +14492,6 @@ X  0
 Y  -90
 Z  0
 "Carabine Mini14 AC (5.56mm)"
-X  0
-Y  -90
-Z  0
-"Assault Rifle SCAR-L CQC (5.56mm) folded"
-X  0
-Y  -90
-Z  0
-"Assault Rifle SCAR-L Std (5.56mm) folded"
-X  0
-Y  -90
-Z  0
-"Assault Rifle SCAR-H Std (7.62x51mm) folded"
-X  0
-Y  -90
-Z  0
-"Assault Rifle SCAR-L LB (5.56mm) folded"
 X  0
 Y  -90
 Z  0
