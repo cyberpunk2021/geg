@@ -46,6 +46,8 @@
  ["REC7 PDW SPC folded"] = "REC7 PDW SPC FG folded",
  ["REC7 SPC"] = "REC7 SPC FG",
  ["REC7 SPC folded"] = "REC7 SPC FG folded",
+ ["AAC Honey Badger"] = "AAC Honey Badger FG",
+ ["AAC Honey Badger folded"] = "AAC Honey Badger FG folded",
  ["Assault Rifle Grendel MWS (6.5)"] = "Assault Rifle Grendel MWS FG (6.5)",
  ["Shotgun AA12 (12ga)"] = "Shotgun AA12 FG (12ga)",
  ["Assault Rifle T14 M4A1 (410)"] = "Assault Rifle T14 M4A1 FG (410)",
@@ -356,6 +358,8 @@ AddItemCombineHandler("Tactical grip", "REC7 PDW SPC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 PDW SPC folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 SPC", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 SPC folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AAC Honey Badger", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "AAC Honey Badger folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Grendel MWS (6.5)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Shotgun AA12 (12ga)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle T14 M4A1 (410)", AttachForegrip)
@@ -531,6 +535,8 @@ AddItemContextMenu("REC7 PDW SPC FG", action_detach_handle, DetachForegrip, CanD
 AddItemContextMenu("REC7 PDW SPC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("REC7 SPC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("REC7 SPC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AAC Honey Badger FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("AAC Honey Badger FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A3 MWS FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle M16A3 Target FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Grendel MWS FG (6.5)", action_detach_handle, DetachForegrip, CanDetachForegrip)

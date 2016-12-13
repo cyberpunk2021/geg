@@ -64400,7 +64400,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64440,7 +64440,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64457,7 +64457,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2940
 PrepareTime		0.28
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1600
@@ -64467,7 +64467,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	103
 RangeCurvature	2
@@ -64480,7 +64480,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64488,8 +64488,7 @@ ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Integrated Silencer (AAC Honey Badger)"
 StdPlug			"honeybadgerbutt"
-StdPlug			"Frontgrip"
-ACTOR			"Items\badger.act"
+ACTOR			"Items\badgerfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -64498,7 +64497,7 @@ Class			Rifle
 Caliber			".300 AAC Blackout"
 Weight			2940
 PrepareTime		0.24
-SingleFireTime	0.69
+SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	1
 Resource		1600
@@ -64508,7 +64507,7 @@ HeatCapacity	40
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		250
 EffectiveRange	83
 RangeCurvature	2
@@ -64521,7 +64520,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64529,8 +64528,7 @@ ATT Magazine	1 "BADGER"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Integrated Silencer (AAC Honey Badger)"
 StdPlug			"honeybadgerbutt_folded"
-StdPlug			"Frontgrip"
-ACTOR			"Items\badger.act"
+ACTOR			"Items\badgerfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
