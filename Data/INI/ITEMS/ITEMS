@@ -1020,12 +1020,12 @@ None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
 
 "PackedAmmoBox Algeira (9x19/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_9mm.act""algeira500box.e5b"
 6730 
 
 "PackedAmmoBox Algeira (.38/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_38.act""algeira500box.e5b"
 9320 
 
 "PackedAmmoBox CBC (.38/500)"
@@ -1035,12 +1035,12 @@ None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 
 "PackedAmmoBox Algeira (.357 SIG/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_357sig.act""algeira500box.e5b"
 7310 
 
 "PackedAmmoBox Algeira (.40 SW/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_40.act""algeira500box.e5b"
 8745
 
 "PackedAmmoBox CBC (.40 SW/500)"
@@ -1050,7 +1050,7 @@ None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 
 "PackedAmmoBox Algeira (.357 Magnum/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_357.act""algeira500box.e5b"
 10440
 
 "PackedAmmoBox CBC (.357 Magnum/500)"
@@ -1060,7 +1060,7 @@ None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 
 "PackedAmmoBox Algeira (.45 ACP/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_45.act""algeira500box.e5b"
 11145
 
 "PackedAmmoBox Eagle (.45 ACP/500)"
@@ -1075,12 +1075,12 @@ None  "Items\caixa_nori_dap92.ACT""nori500box.e5b"
 
 "PackedAmmoBox Algeira (10mm/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_10mm.act""algeira500box.e5b"
 9605
 
 "PackedAmmoBox Algeira (12ga/200)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_12.act""algeira500box.e5b"
 14154
 
 "PackedAmmoBox Palinero (12ga/200)"
@@ -1090,12 +1090,12 @@ None  "Items\caxa.ACT""caxa.e5b"
 
 "PackedAmmoBox Algeira (300 BLK/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_300blk.act""algeira500box.e5b"
 12404
 
 "PackedAmmoBox Algeira (30-06/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_3006.act""algeira500box.e5b"
 20390
 
 "PackedAmmoBox DBP87 (5.8x42/500)"
@@ -1125,7 +1125,7 @@ None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
 
 "PackedAmmoBox Algeira (5.56/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_223.act""algeira500box.e5b"
 8918
 
 "PackedAmmoBox CBC (5.56/500)"
@@ -1145,7 +1145,7 @@ None  "Items\caixa_nori_556.act""nori500box.e5b"
 
 "PackedAmmoBox Algeira (6.8 SPC/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_68spc.act""algeira500box.e5b"
 11672
 
 "PackedAmmoBox Norinco (7.62x39/500)"
@@ -1165,7 +1165,7 @@ None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.e5b"
 
 "PackedAmmoBox Algeira (7.62x51/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_308.act""algeira500box.e5b"
 17198
 
 "PackedAmmoBox CBC (7.62x51 M80/500)"
@@ -1195,7 +1195,7 @@ None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.e5b"
 
 "PackedAmmoBox Algeira (.300 WM/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_300winmag.act""algeira500box.e5b"
 18115
 
 "PackedAmmoBox Palinero (9x39/500)"
@@ -1205,7 +1205,7 @@ None  "Items\caxa.ACT""caxa.e5b"
 
 "PackedAmmoBox Algeira (.338 Lapua/500)"
 None  
-None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+None  "Items\algeirabox500_338.act""algeira500box.e5b"
 10172
 
 "MEGABOX Algeira (9mm/2500)"
@@ -1960,22 +1960,22 @@ None  "Items\mre_box.act""mrebox.e5b"
 
 "PackedMREHUGEBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 16500
 
 "PackedRationBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_blue.act""boxutil_blue.e5b"
 7200
 
 "PackedSmershBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_brown.act""boxutil_brown.e5b"
 4750
 
 "PackedTacVestBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_green.act""boxutil_green.e5b"
 5500
 
 "PackedYellowTacVestBox"
@@ -1985,27 +1985,27 @@ None  "Items\box_util.act""boxutil.e5b"
 
 "PackedMolleVestBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 6000
 
 "PackedVestBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_brown.act""boxutil_brown.e5b"
 18000
 
 "PackedVestM200Box"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_green.act""boxutil_green.e5b"
 28000
 
 "PackedWildcatVestBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_blue.act""boxutil_blue.e5b"
 23000
 
 "PackedKevlarVestBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_green.act""boxutil_green.e5b"
 43000
 
 "PackedVyzovBox"
@@ -2015,12 +2015,12 @@ None  "Items\box_util.act""boxutil.e5b"
 
 "PackedMetalPlateBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_brown.act""boxutil_brown.e5b"
 12000
 
 "PackedMetalPlateStrongBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 17000
 
 "PackedCeramicPlateBox"
@@ -2030,12 +2030,12 @@ None  "Items\box_util.act""boxutil.e5b"
 
 "PackedCeramicPlateStrongBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 12000
 
 "PackedSteelHelmetBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_green.act""boxutil_green.e5b"
 8750
 
 "PackedPASGTBox"
@@ -2045,32 +2045,32 @@ None  "Items\box_util.act""boxutil.e5b"
 
 "PackedACHBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_brown.act""boxutil_brown.e5b"
 9300
 
 "PackedMICHBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 8750
 
 "PackedPASGTSWATBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 10000
 
 "PackedBasicBeltBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_red.act""boxutil_red.e5b"
 4000
 
 "PackedHolsterBeltBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_brown.act""boxutil_brown.e5b"
 3500
 
 "PackedTacticalBeltBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_green.act""boxutil_green.e5b"
 3250
 
 "PackedButtpackBox"
@@ -2080,22 +2080,22 @@ None  "Items\box_util.act""boxutil.e5b"
 
 "PackedBigButtpackBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_blue.act""boxutil_blue.e5b"
 2250
 
 "PackedVeryBigButtpackBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_dark.act""boxutil_grey.e5b"
 2500
 
 "Packed60MortarBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_red.act""boxutil_red.e5b"
 11300
 
 "Packed82MortarBox"
 None  
-None  "Items\box_util.act""boxutil.e5b"
+None  "Items\box_util_brown.act""boxutil_brown.e5b"
 20000
 
 "Uniform Bundle Algeira"

@@ -73280,7 +73280,7 @@ MaxRange		275
 EffectiveRange	138
 RangeCurvature	2
 Balance			0.55
-Unfold			"Assault Rifle SCAR-H Std (7.62x51mm) FG folded"
+Unfold			"Assault Rifle SCAR-H Std FG (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
 ReLockSound		"Weapon\ReLock\L85A2_slide.wav"

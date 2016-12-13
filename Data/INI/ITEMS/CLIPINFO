@@ -2561,7 +2561,7 @@ BOX  "Ammo box (Golden Saber)""Golden Saber (.45 ACP)"50 "Items\45acpeagle.act""
 BOX  "Ammo box (Hornady +P)""Hornady +P (.45 ACP)"50 "Items\45hornady_box.act""45acp_box4.e5b"
 BOX  "Ammo box (Cor-Bon 45 ACP)""200grn JHP +P (.45 ACP)"50 "Items\45acpgolddot.ACT""boxgoldot.E5B"
 BOX  "Ammo box (FMJ Ball)"".45 ACP FMJ Ball"50 "Items\algeira45.act""algeiraboxinv.e5b"
-BOX  "BigAmmoBox (.45 ACP/500)"".45 ACP FMJ Ball"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
+BOX  "BigAmmoBox (.45 ACP/500)"".45 ACP FMJ Ball"500 "Items\algeirabox500_45.act""algeira500box.e5b"
 
 BOX  "Ammo box 500 HLA (Federal 230grn)""Federal 230grn (.45 ACP)"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 
@@ -2571,7 +2571,7 @@ BOX  "Ammo box 500 HLA (Cor-Bon 45 ACP)""200grn JHP +P (.45 ACP)"500 "Items\gren
 BOX "Big Ammo box GS (.45 ACP Ball)""Golden Saber (.45 ACP)"500 "Items\grenadecase_us.act""grenadecase_us.e5b"
 
 
-BOX "CajaMunicionGrande (.45/1000)""M1911 Ball (.45 ACP)"500 "Items\algeirabox500_45.act""algeira500box.e5b"
+BOX "CajaMunicionGrande (.45/1000)""M1911 Ball (.45 ACP)"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
 
 
@@ -5495,7 +5495,7 @@ IMAGE  "msg90-20ammo-double.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Rifle ammo clip (CETME/20)""7.62υ51 μμ""CETME"20 280 "None"1000 
-ACTOR  "Items\hkg3mag.act"
+ACTOR  "Items\hkcetmemag.act"
 USEPREFIX  ""
 IMAGE  "msg90-20ammo.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
