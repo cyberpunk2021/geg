@@ -44,7 +44,7 @@ Material M14_Stock_Wood_A {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "m14nova_7.dds";
+  "m14nova_10.dds";
  }
 }
 
