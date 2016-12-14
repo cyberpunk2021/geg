@@ -5501,17 +5501,17 @@ IMAGE  "msg90-20ammo.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Rifle ammo clip (M14/10)""7.62υ51 μμ""M14"10 204 "None"1000 
-ACTOR  "Items\m14_clip10.act"
+ACTOR  "Items\m14nova_mag10.act"
 USEPREFIX  ""
 IMAGE  "mr762-m14-10.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 CLIP  "Rifle ammo clip (M14/20)""7.62υ51 μμ""M14"20 240 "Double rifle ammo clip (M14/40)"1000 
-ACTOR  "Items\m14_clip20.act"
+ACTOR  "Items\m14nova_mag20.act"
 USEPREFIX  ""
 IMAGE  "mr762-m14-20.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 CLIP  "Double rifle ammo clip (M14/40)""7.62υ51 μμ""M14"40 480 "None"1000 
-ACTOR  "Items\m14_mag20x2.act"
+ACTOR  "Items\m14nova_mag20db.act"
 USEPREFIX  ""
 IMAGE  "mr762-m14-20x2.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"

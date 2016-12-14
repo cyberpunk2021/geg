@@ -2150,3 +2150,9 @@ x location
 "RPK Bipod Nova Folded"
 "rpknova74stock"
 "rpknova74stock_folded"
+
+
+m14
+
+brilho 52
+contraste -21
