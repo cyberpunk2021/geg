@@ -17795,6 +17795,84 @@ ACTOR			"Items\sterling.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
+ITEM "Submachine-gun CETME C2 (9mm)"
+Class			SMG
+Caliber			"9x23mm Largo"
+Weight			2700
+PrepareTime		0.27
+SingleFireTime	0.66
+BurstFireTime	0.11
+SpeedModifier	1.1
+Resource		2100
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	83
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.52
+Unfold			"Submachine-gun CETME C2 (9mm) folded"
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\smg9mm_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Sterling"
+StdPlug			"SMG ammo clip (L2A3/34)"
+StdPlug			"sterling_buttopen"
+ACTOR			"Items\sterling.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun CETME C2 (9mm) folded"
+Class			SMG
+Caliber			"9x23mm Largo"
+Weight			2700
+PrepareTime		0.22
+SingleFireTime	0.66
+BurstFireTime	0.11
+SpeedModifier	1.1
+Resource		2100
+DirtResource	220000
+MisfireProb		0.0032
+HeatCapacity	83
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	50
+RangeCurvature	2
+Balance			0.54
+Unfold			"Submachine-gun CETME C2 (9mm)"
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide.wav"
+ShootSound		"Weapon\Shoot\smg9mm_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Sterling"
+StdPlug			"SMG ammo clip (L2A3/34)"
+StdPlug			"sterling_buttfolded"
+ACTOR			"Items\sterling.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
 ITEM "Submachine-gun Owen (9mm)"
 Class			SMG
 Caliber			"9υ19 μμ"
@@ -43237,23 +43315,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle Bulldog FG (7.62mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
-Weight			4420
-PrepareTime		0.59
-SingleFireTime	0.85
-BurstFireTime	0.08
-SpeedModifier	1.06
-Resource		1900
-DirtResource	200000
+Weight			5000
+PrepareTime		0.39
+SingleFireTime	0.79
+BurstFireTime	0.0906
+SpeedModifier	1
+Resource		1500
+DirtResource	160000
 MisfireProb		0.009
-HeatCapacity	40
+HeatCapacity	50
 Single			1
-Burst			1
+Burst			0
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		300
-EffectiveRange	225
-RangeCurvature	1
-Balance			0.68
+EffectiveRange	176
+RangeCurvature	1.5
+Balance			0.72
 ClipInSound		"Weapon\ClipIn\M14_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M14_mag_out.wav"
 ReLockSound		"Weapon\ReLock\M14_slide.wav"
@@ -43261,13 +43339,12 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
+ATT Bipod		2 "WRFG""WR"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
-StdPlug			"Frontgrip"
 ACTOR			"Items\bulldogfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -44131,7 +44208,7 @@ ITEM "Carabine M1A Scout (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3820
-PrepareTime		0.44
+PrepareTime		0.42
 SingleFireTime	0.81
 BurstFireTime	0.0906
 SpeedModifier	1
@@ -44170,7 +44247,7 @@ ITEM "Carabine M1A (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			4420
-PrepareTime		0.59
+PrepareTime		0.52
 SingleFireTime	0.85
 BurstFireTime	0.08
 SpeedModifier	1.06
@@ -44207,7 +44284,7 @@ ITEM "Carabine M305 (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			4520
-PrepareTime		0.59
+PrepareTime		0.52
 SingleFireTime	0.85
 BurstFireTime	0.08
 SpeedModifier	1.07
@@ -44244,7 +44321,7 @@ ITEM "Assault Rifle M-14 (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			4420
-PrepareTime		0.59
+PrepareTime		0.52
 SingleFireTime	0.85
 BurstFireTime	0.08
 SpeedModifier	1.06
@@ -44727,7 +44804,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	180
+EffectiveRange	188
 RangeCurvature	1.5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
@@ -44764,7 +44841,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	180
+EffectiveRange	188
 RangeCurvature	1.5
 Balance			0.57
 Unfold			"Assault Rifle HK91A3 (7.62x51mm) folded"
@@ -44803,7 +44880,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	160
+EffectiveRange	168
 RangeCurvature	1.5
 Balance			0.55
 Unfold			"Assault Rifle HK91A3 (7.62x51mm)"
@@ -51590,7 +51667,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	180
+EffectiveRange	188
 RangeCurvature	1.5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
@@ -51627,7 +51704,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	180
+EffectiveRange	188
 RangeCurvature	1.5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
@@ -51664,7 +51741,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	180
+EffectiveRange	188
 RangeCurvature	1.5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
@@ -51703,7 +51780,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	180
+EffectiveRange	188
 RangeCurvature	1.5
 Balance			0.57
 Unfold			"Assault Rifle G3A4 (7.62x51mm) folded"
@@ -51742,7 +51819,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	160
+EffectiveRange	168
 RangeCurvature	1.5
 Balance			0.55
 Unfold			"Assault Rifle G3A4 (7.62x51mm)"
@@ -51770,10 +51847,10 @@ ITEM "Assault Rifle G3KA4 (7.62x51mm)"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3540
-PrepareTime		0.33
+PrepareTime		0.38
 SingleFireTime	0.82
 BurstFireTime	0.068
-SpeedModifier	0.98
+SpeedModifier	1
 Resource		2200
 DirtResource	220000
 MisfireProb		0.006
@@ -51783,8 +51860,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	105
-RangeCurvature	4.85
+EffectiveRange	137
+RangeCurvature	3
 Balance			0.52
 Unfold			"Assault Rifle G3KA4 (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
@@ -51809,10 +51886,10 @@ ITEM "Assault Rifle G3KA4 (7.62x51mm) folded"
 Class			Rifle
 Caliber			"7.62υ51 μμ"
 Weight			3540
-PrepareTime		0.29
+PrepareTime		0.34
 SingleFireTime	0.82
 BurstFireTime	0.091
-SpeedModifier	0.98
+SpeedModifier	1
 Resource		2200
 DirtResource	220000
 MisfireProb		0.006
@@ -51822,8 +51899,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	88
-RangeCurvature	4.85
+EffectiveRange	117
+RangeCurvature	3
 Balance			0.52
 Unfold			"Assault Rifle G3KA4 (7.62x51mm)"
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"

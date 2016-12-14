@@ -490,7 +490,7 @@
   <item level="6">Assault Rifle G36C (5.56mm)</item>
   <item level="9">Assault Rifle G36E (5.56mm)</item>
   <item level="8">Assault Rifle G36KE (5.56mm)</item>
-  <item level="6">Assault Rifle G3KA4 (7.62x51mm)</item>
+  <item level="7">Assault Rifle G3KA4 (7.62x51mm)</item>
   <item level="2">Pistol Glock 17 (9mm)</item>
   <item level="3">Pistol Glock 18c (9mm)</item>
   <item level="4">Submachine-gun HK MP5A5 (9mm)</item>
@@ -1686,7 +1686,7 @@
   <item level="8">Launcher RG-6 folded</item>
   <item level="6">Assault Rifle AS VAL (9x39mm) folded</item>
   <item level="9">Assault Rifle AK-74M (5.45mm) folded</item>
-  <item level="6">Assault Rifle G3KA4 (7.62x51mm) folded</item>
+  <item level="7">Assault Rifle G3KA4 (7.62x51mm) folded</item>
   <item level="8">Assault Rifle G36KE (5.56mm) folded</item>
   <item level="9">Assault Rifle G36E (5.56mm) folded</item>
   <item level="6">Assault Rifle G36C (5.56mm) folded</item>
@@ -4942,4 +4942,6 @@
   <item level="6">PackedVeryBigButtpackBox</item>
   <item level="4">Packed60MortarBox</item>
   <item level="8">Packed82MortarBox</item>
+  <item level="2">Submachine-gun CETME C2 (9mm)</item>
+  <item level="2">Submachine-gun CETME C2 (9mm) folded</item>
 </root>
