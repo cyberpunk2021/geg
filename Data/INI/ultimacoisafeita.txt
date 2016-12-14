@@ -2138,3 +2138,15 @@ x location
 "MEGABOX CBC AP (7.62/3000)"
 "MEGABOX FM (7.62/3000)"
 "MEGABOX Norinco (7.62/3000)"
+
+
+
+
+
+
+
+"Machinegun RPK-74N (5.45mm)"
+"RPK Bipod Nova"
+"RPK Bipod Nova Folded"
+"rpknova74stock"
+"rpknova74stock_folded"

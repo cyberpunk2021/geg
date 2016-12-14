@@ -9206,4 +9206,39 @@ IMAGE			"rg6_launher.e5b"
 WEIGHT			100
 Resource		3500
 
+//------------------------------------------------------
+Addon			"rpknova74stock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpknova74m_stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"rpknova74stock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpknova74m_stock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
+Addon			"RPK Bipod Nova"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpknova_bipod.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"RPK Bipod Nova Folded"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpknova_bipod_folded.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
 END

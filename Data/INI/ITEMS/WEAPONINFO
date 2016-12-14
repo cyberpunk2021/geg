@@ -44273,7 +44273,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
-ACTOR			"Items\m14.act"
+ACTOR			"Items\m14nova_wood.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -95251,8 +95251,8 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/45)"
-StdPlug			"Machinegun Bipod (RPK)"
-ACTOR			"Items\rpk.act"
+StdPlug			"RPK Bipod Nova"
+ACTOR			"Items\rpknova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -95289,8 +95289,8 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Ammo drum clip (AK 7.62/75)"
-StdPlug			"Machinegun Bipod (RPK)"
-ACTOR			"Items\rpkn.act"
+StdPlug			"RPK Bipod Nova"
+ACTOR			"Items\rpknnova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -95872,9 +95872,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"Machinegun Bipod (RPK)"
-StdPlug			"rpk74m-butt"
-ACTOR			"Items\rpk74m-body.act"
+StdPlug			"RPK Bipod Nova"
+StdPlug			"rpknova74stock"
+ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -95912,9 +95912,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"Machinegun Bipod (RPK)"
-StdPlug			"rpk74m-butt folded"
-ACTOR			"Items\rpk74m-body.act"
+StdPlug			"RPK Bipod Nova"
+StdPlug			"rpknova74stock_folded"
+ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -95982,6 +95982,44 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK74.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
+ATT Scope		0
+ATT Bipod		1 "built-in"
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/45)"
+StdPlug			"RPK Bipod Nova"
+ACTOR			"Items\rpknova74.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Machinegun RPK-74N (5.45mm)"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			4780
+PrepareTime		0.57
+SingleFireTime	0.73
+BurstFireTime	0.066
+SpeedModifier	1.12
+Resource		6000
+DirtResource	700000
+MisfireProb		0.0029
+HeatCapacity	260
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	143
+RangeCurvature	3
+Balance			0.28
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\RPK74.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	1 "PBS - 5,45"
@@ -95989,8 +96027,8 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"Machinegun Bipod (RPK)"
-ACTOR			"Items\rpkn.act"
+StdPlug			"RPK Bipod Nova"
+ACTOR			"Items\rpknova74n.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -96028,9 +96066,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"Machinegun Bipod (RPK)"
-StdPlug			"rpk74m-butt"
-ACTOR			"Items\rpk74m-body.act"
+StdPlug			"RPK Bipod Nova"
+StdPlug			"rpknova74stock"
+ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -96068,9 +96106,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"Machinegun Bipod (RPK)"
-StdPlug			"rpk74m-butt folded"
-ACTOR			"Items\rpk74m-body.act"
+StdPlug			"RPK Bipod Nova"
+StdPlug			"rpknova74stock_folded"
+ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
