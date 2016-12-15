@@ -44,7 +44,7 @@ Material Furniture_RPK {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "akrpk_2.dds";
+  "akrpk_274.dds";
  }
 }
 
