@@ -896,8 +896,14 @@
   <item level="7">Assault Rifle M-14 (7.62x51mm)</item>
   <item level="9">Sniper Rifle M14 SE (7.62x51mm)</item>
   <item level="6">Carabine M1A (7.62x51mm)</item>
+  <item level="6">Carabine M1A WOOD (7.62x51mm)</item>
+  <item level="7">Carabine M1A RIS (7.62x51mm)</item>
+  <item level="7">Carabine M1A WOOD RIS (7.62x51mm)</item>
   <item level="10">Sniper Rifle M14 DMR (7.62x51mm)</item>
   <item level="5">Carabine M1A Scout (7.62x51mm)</item>
+  <item level="6">Carabine M1A Scout RIS (7.62x51mm)</item>
+  <item level="6">Carabine M1A Scout POLY RIS (7.62x51mm)</item>
+  <item level="5">Carabine M1A Scout POLY (7.62x51mm)</item>
   <item level="11">Sniper Rifle M21 (7.62x51mm)</item>
   <item level="7">Optical Sight Leatherwood 3-9x (M14)</item>
   <item level="3">Carabine Mini14 (5.56mm)</item>
@@ -909,6 +915,9 @@
   <item level="2">Double rifle ammo clip (Mini-14/80)</item>
   <item level="3">Rifle ammo clip (Mini-14/40)</item>
   <item level="4">Carabine SOCOM16 (7.62x51mm)</item>
+  <item level="4">Carabine SOCOM16 WOOD RIS (7.62x51mm)</item>
+  <item level="3">Carabine SOCOM16 WOOD NO RIS (7.62x51mm)</item>
+  <item level="3">Carabine SOCOM16 NO RIS (7.62x51mm)</item>
   <item level="11">Sniper Rifle SR25 (7.62x51mm)</item>
   <item level="5">Rifle ammo clip (SR25\20)</item>
   <item level="10">SR25_silencer</item>
@@ -4944,4 +4953,5 @@
   <item level="8">Packed82MortarBox</item>
   <item level="2">Submachine-gun CETME C2 (9mm)</item>
   <item level="2">Submachine-gun CETME C2 (9mm) folded</item>
+  <item level="1">SMG ammo clip (CETMEC2/32)</item>
 </root>

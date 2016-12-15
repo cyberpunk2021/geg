@@ -1968,21 +1968,13 @@ alterar law.lua (permits)
 foldar bipods das armas bsm (intervention)
 rpk bipod lmgs bugada
 t65 handle modelo correto
-checar peso e preço das municoes
 fazer as bullpups terem ahtBullpup
-verificar caixa "Ammo box (7N23)"
+verificar caixa "Ammo box (7N23)" = wolf
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
-criar Prvi (7.62x39mm)
+criar Prvi (7.62x39mm) e criar iteminfos
 fazer m955 cbc
+fixar "BPZ 7.62x39"
 
-camobox
-cleaning kit box
-fuze boxes
-package vests
-mre box
-field ration box
-nv gogles box
-whiskey
 
 
 
@@ -2160,3 +2152,17 @@ contraste -21
 "Submachine-gun CETME C2 (9mm)"
 "Submachine-gun CETME C2 (9mm) folded"
 "SMG ammo clip (CETMEC2/32)"
+
+
+m1a scout
+"Assault Rifle M-14 POLY (7.62x51mm)"
+"Assault Rifle M-14 WOOD (7.62x51mm)"
+"Carabine M1A RIS (7.62x51mm)"
+"Carabine M1A WOOD RIS (7.62x51mm)"
+"Carabine M1A WOOD (7.62x51mm)"
+"Carabine M1A Scout POLY RIS (7.62x51mm)"
+"Carabine M1A Scout POLY (7.62x51mm)"
+"Carabine M1A Scout RIS (7.62x51mm)"
+"Carabine SOCOM16 NO RIS (7.62x51mm)"
+"Carabine SOCOM16 WOOD RIS (7.62x51mm)"
+"Carabine SOCOM16 WOOD NO RIS (7.62x51mm)"

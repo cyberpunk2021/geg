@@ -1767,7 +1767,7 @@ IMAGE  "sig_p220_mag7.e5b"
 DEFAMMO  "9x23mm FMJ"
 
 CLIP  "SMG ammo clip (CETMEC2/32)""9x23mm Largo""CETMEC2"32 150 "None"900 
-ACTOR  "Items\sterling_mag.act"
+ACTOR  "Items\cetmec2mag.act"
 USEPREFIX  ""
 IMAGE  "pps43_mag.e5b"
 DEFAMMO  "9x23mm FMJ"
@@ -5186,7 +5186,7 @@ USEPREFIX  ""
 IMAGE  "762x39_45_metal_double.e5b"
 DEFAMMO  "7.62x39 FMJ Ball"
 CLIP  "Ammo drum clip (AK 7.62/75)""7.62υ39 μμ""RPK"75 900 "None"700 
-ACTOR  "Items\md762-rpk-75.act"
+ACTOR  "Items\novamagakdrum.act"
 USEPREFIX  ""
 IMAGE  "rpk-762-75ammo.e5b"
 DEFAMMO  "7.62x39 FMJ Ball"
