@@ -162,6 +162,7 @@
  ["HS VHS-K2"] = "HS VHS-K2 FG",
  ["Assault Rifle Ash (12.7)"] = "Assault Rifle Ash FG (12.7)",
  ["MSBS Bullpup NOFG"] = "MSBS Bullpup FG",
+ ["Assault Rifle Bulldog (7.62mm)"] = "Assault Rifle Bulldog FG (7.62mm)",
  ["Pistol Glock 17 (9mm)"] = "Pistol Glock 17 TB (9mm)",
  ["Pistol Glock 21 (.45 ACP)"] = "Pistol Glock 21 TB (.45 ACP)",
  ["Pistol Glock 22 (.40 S&W)"] = "Pistol Glock 22 TB (.40 S&W)",
@@ -492,6 +493,7 @@ AddItemCombineHandler("Tactical grip", "HS VHS-D2", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HS VHS-K2", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Ash (12.7)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "MSBS Bullpup NOFG", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle Bulldog (7.62mm)", AttachForegrip)
 
 -- Attach Frontgrip / SMG
 AddItemCombineHandler("Tactical grip", "Submachine-gun Skorpion 3 (9mm)", AttachForegrip)
@@ -693,6 +695,7 @@ AddItemContextMenu("HS VHS-D2 FG", action_detach_handle, DetachForegrip, CanDeta
 AddItemContextMenu("HS VHS-K2 FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle Ash FG (12.7)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("MSBS Bullpup FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Bulldog FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 
 -- Detach Frontgrip / SMG
 AddItemContextMenu("Submachine-gun Skorpion 3 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

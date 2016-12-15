@@ -43302,7 +43302,7 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -43327,7 +43327,7 @@ HeatCapacity	50
 Single			1
 Burst			0
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		300
 EffectiveRange	176
 RangeCurvature	1.5
@@ -43339,7 +43339,7 @@ ShootSound		"Weapon\Shoot\M14_fire.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		2 "WRFG""WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
