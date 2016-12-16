@@ -4420,7 +4420,7 @@ BOX  "Big Ammo box (5.56)""5.56 FMJ Ball"20 "Items\algeira556.act""algeiraboxinv
 
 
 BOX  "BigWoodAmmoBox M193 (5.56/1000)""M193 (5.56mm)"600 "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
-BOX  "BigWoodAmmoBox M955 (5.56/1000)""M955 AP (5.56mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
+BOX  "BigWoodAmmoBox M955 (5.56/1000)""M955 AP (5.56mm)"600 "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 BOX  "BigAmmoBox (5.56/500)""5.56 FMJ Ball"600 "Items\algeirabox500_223.act""algeira500box.e5b"
 BOX  "Ammo pack (M855)""M193 (5.56mm)"120 "Items\zink.act""556_500.e5b"
 BOX  "Ammo pack (M995)""M955 AP (5.56mm)"120 "Items\zink.act""556_500.e5b"
