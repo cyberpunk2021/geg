@@ -44191,10 +44191,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\SOCOM16_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M14_Scope"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44228,10 +44228,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\SOCOM16_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		2 "M14_Scope""WR"
-ATT Bipod		1 "WR"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44265,10 +44265,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\SOCOM16_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M14_Scope"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44302,10 +44302,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\SOCOM16_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		2 "M14_Scope""WR"
-ATT Bipod		1 "WR"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
@@ -44339,8 +44339,8 @@ ClipInSound		"Weapon\ClipIn\M1A_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M1A_mag_out.wav"
 ReLockSound		"Weapon\ReLock\M1A_slide.wav"
 ShootSound		"Weapon\Shoot\M14_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 7,62"
@@ -44376,9 +44376,9 @@ ClipInSound		"Weapon\ClipIn\M1A_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M1A_mag_out.wav"
 ReLockSound		"Weapon\ReLock\M1A_slide.wav"
 ShootSound		"Weapon\Shoot\M14_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		2 "M14_Scope""WR"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
 ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
@@ -44413,8 +44413,8 @@ ClipInSound		"Weapon\ClipIn\M1A_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M1A_mag_out.wav"
 ReLockSound		"Weapon\ReLock\M1A_slide.wav"
 ShootSound		"Weapon\Shoot\M14_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 7,62"
@@ -44450,9 +44450,9 @@ ClipInSound		"Weapon\ClipIn\M1A_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M1A_mag_out.wav"
 ReLockSound		"Weapon\ReLock\M1A_slide.wav"
 ShootSound		"Weapon\Shoot\M14_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		2 "M14_Scope""WR"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
 ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
@@ -44493,9 +44493,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/10)"
 ACTOR			"Items\m14nova_semiwood.act"
@@ -44528,11 +44528,11 @@ ReLockSound		"Weapon\ReLock\M1A_slide.wav"
 ShootSound		"Weapon\Shoot\M1A_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		2 "M14_Scope""WR"
+ATT Scope		1 "WR"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
 ACTOR			"Items\m14nova_semiwoodris.act"
@@ -44567,9 +44567,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/10)"
 ACTOR			"Items\m14nova_synth.act"
@@ -44602,11 +44602,11 @@ ReLockSound		"Weapon\ReLock\M1A_slide.wav"
 ShootSound		"Weapon\Shoot\M1A_fire.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		2 "M14_Scope""WR"
+ATT Scope		1 "WR"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
 ACTOR			"Items\m14nova_polyris.act"
@@ -44641,9 +44641,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/10)"
 ACTOR			"Items\m14nova_synth.act"
@@ -44678,9 +44678,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
 ACTOR			"Items\m14nova_wood.act"
@@ -44715,9 +44715,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
 ACTOR			"Items\m14nova_brightwood.act"
@@ -44752,9 +44752,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M14_Scope"
 ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "Supressor - 7,62"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "M14"
 StdPlug			"Rifle ammo clip (M14/20)"
 ACTOR			"Items\m14nova_autopoly.act"
