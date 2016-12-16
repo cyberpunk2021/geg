@@ -1971,10 +1971,7 @@ t65 handle modelo correto
 fazer as bullpups terem ahtBullpup
 verificar caixa "Ammo box (7N23)" = wolf
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
-criar Prvi (7.62x39mm) e criar iteminfos
-fazer m955 cbc
-fixar "BPZ 7.62x39"
-
+Norinco 7.62x39 transformar em AP
 
 
 
@@ -2166,3 +2163,5 @@ m1a scout
 "Carabine SOCOM16 NO RIS (7.62x51mm)"
 "Carabine SOCOM16 WOOD RIS (7.62x51mm)"
 "Carabine SOCOM16 WOOD NO RIS (7.62x51mm)"
+
+

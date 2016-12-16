@@ -227,6 +227,7 @@ local FoldBipodItems = {
 	["AR7090 Bipod"] = "AR7090 Bipod Folded",
 	["SIG550 Bipod"] = "SIG550 Bipod Folded",
 	["QBUBipod"] = "QBUBipod Folded",
+	["RPK Bipod Nova"] = "RPK Bipod Nova Folded",
 
 }
 local UnFoldBipodItems = {}
@@ -241,6 +242,8 @@ end
  ["Rifle Mosin_m91-30 (7.62x54mm)"] = "Rifle Mosin Sawedoff (7.62x54 mm)",
  ["Shotgun CoachGun (12ga)"] = "Shotgun CoachGun SawedOff (12ga)",
  ["Shotgun CoachGun (20ga)"] = "Sgun2Bs (20ga)",
+ ["Rifle Elephant Gun"] = "Rifle Elephant Gun Sawnoff",
+ ["Rifle Elephant Gun Unique"] = "Rifle Elephant Gun Unique Sawnoff",
 }
 
 -- Функции проверки, можно ли отобразить пункт меню
@@ -499,6 +502,8 @@ AddItemContextMenu("Carabine Winchester 1892 trapper (.44 Magnum)", action_cut_b
 AddItemContextMenu("Rifle Mosin_m91-30 (7.62x54mm)", action_cut_barrel, CutBarrel, CanCutBarrel)
 AddItemContextMenu("Shotgun CoachGun (12ga)", action_cut_barrel, CutBarrel, CanCutBarrel)
 AddItemContextMenu("Shotgun CoachGun (20ga)", action_cut_barrel, CutBarrel, CanCutBarrel)
+AddItemContextMenu("Rifle Elephant Gun", action_cut_barrel, CutBarrel, CanCutBarrel)
+AddItemContextMenu("Rifle Elephant Gun Unique", action_cut_barrel, CutBarrel, CanCutBarrel)
 
 local action_replace_for_end = _t"lang/lua/tuning/replace_for-end"
 local action_replace_butt = _t"lang/lua/tuning/replace_butt"
@@ -576,6 +581,7 @@ AddItemContextMenu("WZ35 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("AR7090 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("SIG550 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("QBUBipod", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("RPK Bipod Nova", action_fold, FoldBipod, CanFoldBipod)
 
 AddItemContextMenu("AUG Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("FALO Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
@@ -625,6 +631,7 @@ AddItemContextMenu("WZ35 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("AR7090 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("SIG550 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("QBUBipod Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("RPK Bipod Nova Folded", action_unfold, FoldBipod, CanFoldBipod)
 
 AddContextMenu(_t"lang/lua/tuning/fold_bipods", FoldWeaponBipod, CanFoldWeaponBipod)
 AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWeaponBipod)

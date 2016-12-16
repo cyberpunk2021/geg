@@ -4413,7 +4413,7 @@ BOX  "Ammo box (.223 Norinco)""5.56x45 Duplex"20 "Items\223norinco.act""boxnorin
 BOX  "Ammo box (.223ASR)"".223ASR (5.56mm)"20 "Items\223asr-box.act""223asr-box.e5b"
 BOX  "Ammo box (5.56 SN)""5.56 SN (5.56mm)"20 "Items\556x45_10box.ACT""556_oly_box.e5b"
 BOX  "Ammo box (M193)""M193 (5.56mm)"20 "Items\cbcbox556ss109.act""cbcboxinv.e5b"
-BOX  "Ammo box (M955)""M955 AP (5.56mm)"20 "Items\m955-box.act""m955-box.e5b"
+BOX  "Ammo box (M955)""M955 AP (5.56mm)"20 "Items\cbc556ap.act""cbcboxinv.e5b"
 BOX  "Ammo box (5.56x45JHP)""Remington JHP (5.56mm)"20 "Items\556remingtonhp.ACT""boxremingtonhp.E5B"
 BOX  "Big Ammo box (5.56)""5.56 FMJ Ball"20 "Items\algeira556.act""algeiraboxinv.e5b"
 
@@ -5057,7 +5057,7 @@ BOX  "Ammo box (M67)""M67 (7.62x39mm)"20 "Items\m67_box.act""m67_box.e5b"
 BOX  "Ammo box (7.62x39JHP)""Barnaul JHP (7.62x39mm)"20 "Items\762x39HP_box.act""762x39hp_box.e5b"
 BOX  "Ammo box (7.62x39 PDX JHP)""Winchester PDX JHP (7.62x39mm)"20 "Items\762x39pdx1.act""box357pdx.e5b"
 
-BOX  "Ammo box (7.62x39 FMJ Prvi)""Prvi (7.62x39mm)"20 "Items\25acpprvi.act""boxprvi.e5b"
+BOX  "Ammo box (7.62x39 FMJ Prvi)""Prvi (7.62x39mm)"20 "Items\762x39prvi.act""boxprvi.e5b"
 
 BOX  "Ammo box 7.62x39 Norinco""Norinco (7.62x39mm)"20 "Items\762x39norinco.act""boxnorinco.e5b"
 BOX  "Big Ammo box (7.62x39)""7.62x39 FMJ Ball"20 "Items\762x39_box.act""762x39_box.e5b"

@@ -1,47 +1,3 @@
-".22LR High Velocity"
-".22LR"
-2.5919
-370
-1.9
-0.28
-0.24
-0.25
-0.023
-0.002
-0.0021
-0.1
-1
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm2_bullet.act"
-350
-ACTOR "Items\9x18pmm2_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 3.62
-
-".22LR Hyper Velocity"
-".22LR"
-2.0735
-521
-1.7
-0.19
-0.23
-0.31
-0.02
-0.0031
-0.0019
-0.32
-2
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm2_bullet.act"
-380
-ACTOR "Items\9x18pmm2_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 3.88
-
 ".22LR HP"
 ".22LR"
 2.0945
@@ -86,49 +42,49 @@ ACTOR "Items\9x18pmm2_a.act"
 IMAGE "9mmpm.e5b"
 WEIGHT 3.71
 
-".25 ACP HP"
-".25 ACP"
-2.9159
-248
-2
-0.7
-0.72
-0.17
-0.028
-0.0024
-0.0022
-0.15
-1
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm2_bullet.act"
-250
-ACTOR "Items\9x18pmm2_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 4.34
-
-".25 ACP Surplus"
-".25 ACP"
-2.8345
-240
-2.3
-0.32
-0.35
-0.32
+".22LR High Velocity"
+".22LR"
+2.5919
+370
+1.9
+0.28
 0.24
-0.0023
-0.0025
-0.4
+0.25
+0.023
+0.002
+0.0021
+0.1
+1
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm2_bullet.act"
+350
+ACTOR "Items\9x18pmm2_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 3.62
+
+".22LR Hyper Velocity"
+".22LR"
+2.0735
+521
+1.7
+0.19
+0.23
+0.31
+0.02
+0.0031
+0.0019
+0.32
 2
 1
 "Weapon\Shoot\Silencer\Silencer_9mm.wav"
 "Items\9mmPM_case.act"
 "Items\9x18pmm2_bullet.act"
-230
+380
 ACTOR "Items\9x18pmm2_a.act"
 IMAGE "9mmpm.e5b"
-WEIGHT 4.82
+WEIGHT 3.88
 
 ".25 ACP FMJ"
 ".25 ACP"
@@ -174,93 +130,49 @@ ACTOR "Items\9x18pmm2_a.act"
 IMAGE "9mmpm.e5b"
 WEIGHT 4.54
 
-"PNW.300 220grn"
-".300 AAC Blackout"
-14.25
-312
+".25 ACP HP"
+".25 ACP"
+2.9159
+248
 2
-0.177
-0.2
-0.09
-0.2
-0.002
-0.002
+0.7
+0.72
+0.17
+0.028
+0.0024
+0.0022
 0.15
 1
 1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\762x39-case.act"
-"Items\762x39-bullet.act"
-800
-ACTOR "Items\762x39-ammo.act"
-IMAGE "762x39-ammo.e5b"
-WEIGHT 17.63
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm2_bullet.act"
+250
+ACTOR "Items\9x18pmm2_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 4.34
 
-"300 AAC Blackout FMJ"
-".300 AAC Blackout"
-14.1921
-309
-1.9
-0.171
-0.19
-0.12
-0.027
-0.003
-0.0021
-0.25
+".25 ACP Surplus"
+".25 ACP"
+2.8345
+240
+2.3
+0.32
+0.35
+0.32
+0.24
+0.0023
+0.0025
+0.4
+2
 1
-1
-"Weapon\Shoot\Silencer\Silencer545.wav"
-"Items\39mm-case.act"
-"Items\7n6-bullet.act"
-620
-ACTOR "Items\7n6.act"
-IMAGE "ammo-7N6.e5b"
-WEIGHT 17.14
-
-".300 FMJ-BT"
-".300 AAC Blackout"
-9.52
-610
-1.6
-0.0852
-0.103
-0.085
-0.2
-0.002
-0.002
-0.25
-1
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\762x39-case.act"
-"Items\762x39-bullet.act"
-800
-ACTOR "Items\762x39-ammo.act"
-IMAGE "762x39-ammo.e5b"
-WEIGHT 17.85
-
-"Zombie VMAX .300"
-".300 AAC Blackout"
-7.12
-724
-1.5
-0.0762
-0.094
-0.0847
-0.2
-0.002
-0.002
-0.3
-1
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\762x39-case.act"
-"Items\762x39-bullet.act"
-800
-ACTOR "Items\762x39-ammo.act"
-IMAGE "762x39-ammo.e5b"
-WEIGHT 18.12
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm2_bullet.act"
+230
+ACTOR "Items\9x18pmm2_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 4.82
 
 "Rem.300 220grn"
 ".300 AAC Blackout"
@@ -328,49 +240,93 @@ ACTOR "Items\762x39-ammo.act"
 IMAGE "762x39-ammo.e5b"
 WEIGHT 17.29
 
-".300 WM FMJ"
-".300 WM"
-11.786
-959
-0.4
-0.057
-0.063
-0.0481
-0.021
-0.0022
-0.001
+"Zombie VMAX .300"
+".300 AAC Blackout"
+7.12
+724
+1.5
+0.0762
+0.094
+0.0847
+0.2
+0.002
+0.002
+0.3
+1
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\762x39-case.act"
+"Items\762x39-bullet.act"
+800
+ACTOR "Items\762x39-ammo.act"
+IMAGE "762x39-ammo.e5b"
+WEIGHT 18.12
+
+"PNW.300 220grn"
+".300 AAC Blackout"
+14.25
+312
+2
+0.177
+0.2
+0.09
+0.2
+0.002
+0.002
 0.15
 1
 1
-"Weapon\Shoot\Silencer\762R_SD.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-820
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 32.78
-
-".300 WM Surplus"
-".300 WM"
-12.1174
-932
-0.7
-0.056
-0.059
-0.044
-0.02
-0.0021
-0.0015
-0.3
-2
-1
-"Weapon\Shoot\Silencer\762R_SD.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\762x39-case.act"
+"Items\762x39-bullet.act"
 800
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 32.23
+ACTOR "Items\762x39-ammo.act"
+IMAGE "762x39-ammo.e5b"
+WEIGHT 17.63
+
+"300 AAC Blackout FMJ"
+".300 AAC Blackout"
+14.1921
+309
+1.9
+0.171
+0.19
+0.12
+0.027
+0.003
+0.0021
+0.25
+1
+1
+"Weapon\Shoot\Silencer\Silencer545.wav"
+"Items\39mm-case.act"
+"Items\7n6-bullet.act"
+620
+ACTOR "Items\7n6.act"
+IMAGE "ammo-7N6.e5b"
+WEIGHT 17.14
+
+".300 FMJ-BT"
+".300 AAC Blackout"
+9.52
+610
+1.6
+0.0852
+0.103
+0.085
+0.2
+0.002
+0.002
+0.25
+1
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\762x39-case.act"
+"Items\762x39-bullet.act"
+800
+ACTOR "Items\762x39-ammo.act"
+IMAGE "762x39-ammo.e5b"
+WEIGHT 17.85
 
 ".300 WM HP"
 ".300 WM"
@@ -416,18 +372,40 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 32.69
 
-".303 British +P"
-".303 British"
-11.3398
-783
-1.2
-0.0726
-0.075
-0.068
-0.03
-0.0033
-0.0018
-0.28
+".300 WM FMJ"
+".300 WM"
+11.786
+959
+0.4
+0.057
+0.063
+0.0481
+0.021
+0.0022
+0.001
+0.15
+1
+1
+"Weapon\Shoot\Silencer\762R_SD.wav"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+820
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 32.78
+
+".300 WM Surplus"
+".300 WM"
+12.1174
+932
+0.7
+0.056
+0.059
+0.044
+0.02
+0.0021
+0.0015
+0.3
 2
 1
 "Weapon\Shoot\Silencer\762R_SD.wav"
@@ -436,29 +414,7 @@ WEIGHT 32.69
 800
 ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
-WEIGHT 29.65
-
-".303 British AP"
-".303 British"
-9.7198
-809
-1.3
-0.0662
-0.0602
-0.103
-0.017
-0.0029
-0.0022
-0.27
-1.5
-1
-"Weapon\Shoot\Silencer\762R_SD.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-790
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 28.42
+WEIGHT 32.23
 
 ".303 British FMJ"
 ".303 British"
@@ -482,49 +438,49 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 28.14
 
-".30-30 +P"
-".30-30"
-10.3678
-731
+".303 British AP"
+".303 British"
+9.7198
+809
+1.3
+0.0662
+0.0602
+0.103
+0.017
+0.0029
+0.0022
+0.27
 1.5
-0.0842
-0.097
-0.054
-0.026
+1
+"Weapon\Shoot\Silencer\762R_SD.wav"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+790
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 28.42
+
+".303 British +P"
+".303 British"
+11.3398
+783
+1.2
+0.0726
+0.075
+0.068
+0.03
+0.0033
 0.0018
-0.0018
-0.19
+0.28
 2
 1
-"Weapon\Shoot\Silencer\None"
+"Weapon\Shoot\Silencer\762R_SD.wav"
 "Items\54R-case.act"
 "Items\7n1-bullet.act"
 800
 ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
-WEIGHT 21.23
-
-".30-30 HP"
-".30-30"
-9.7198
-711
-1.6
-0.086
-0.098
-0.054
-0.021
-0.0023
-0.002
-0.23
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-800
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 20.74
+WEIGHT 29.65
 
 ".30-30 Surplus"
 ".30-30"
@@ -570,49 +526,49 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 20.15
 
-".338 Lapua Surplus"
-".338 Lapua"
-19.72
-801
-0.7
-0.063
-0.064
-0.048
-0.05
-0.003
-0.0026
-0.12
+".30-30 +P"
+".30-30"
+10.3678
+731
+1.5
+0.0842
+0.097
+0.054
+0.026
+0.0018
+0.0018
+0.19
 2
 1
 "Weapon\Shoot\Silencer\None"
 "Items\54R-case.act"
-"Items\m80-bullet.act"
-880
-ACTOR "Items\m80.act"
-IMAGE "AMMO-M85.E5B"
-WEIGHT 40.86
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 21.23
 
-".338 Lapua AP"
-".338 Lapua"
-19.4
-830
-0.4
-0.06
-0.061
-0.073
-0.05
-0.0035
-0.0015
-0.1
-1.5
+".30-30 HP"
+".30-30"
+9.7198
+711
+1.6
+0.086
+0.098
+0.054
+0.021
+0.0023
+0.002
+0.23
+1
 1
 "Weapon\Shoot\Silencer\None"
 "Items\54R-case.act"
-"Items\m80-bullet.act"
-900
-ACTOR "Items\m80.act"
-IMAGE "AMMO-M85.E5B"
-WEIGHT 41.34
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 20.74
 
 ".338 Lapua FMJ-BT"
 ".338 Lapua"
@@ -658,71 +614,49 @@ ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
 WEIGHT 41.84
 
-"357 Algeira"
-".357 Magnum"
-10.74
-380
-1.9
-0.201
-0.212
-0.106
-0.017
-0.0024
-0.0029
-0.15
-2
-1
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\357sp_g.act"
-400
-ACTOR "Items\357sp_ammo.act"
-IMAGE "357sp_ammo.e5b"
-WEIGHT 17.88
-
-"silver bullets"
-".357 Magnum"
-8
-380
-2
-0.25
-0.271
-0.1
+".338 Lapua Surplus"
+".338 Lapua"
+19.72
+801
+0.7
+0.063
+0.064
+0.048
+0.05
+0.003
+0.0026
 0.12
-0.002
-0.002
-0.15
 2
 1
 "Weapon\Shoot\Silencer\None"
-"None"
-"Items\357sp_g.act"
-400
-ACTOR "Items\357sp_ammo.act"
-IMAGE "357sp_ammo.e5b"
-WEIGHT 18.87
+"Items\54R-case.act"
+"Items\m80-bullet.act"
+880
+ACTOR "Items\m80.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 40.86
 
-"357 SP"
-".357 Magnum"
-10.44
-393
-1.7
-0.2
-0.214
-0.127
-0.03
-0.0021
-0.0028
-0.15
-1
+".338 Lapua AP"
+".338 Lapua"
+19.4
+830
+0.4
+0.06
+0.061
+0.073
+0.05
+0.0035
+0.0015
+0.1
+1.5
 1
 "Weapon\Shoot\Silencer\None"
-"None"
-"Items\357sp_g.act"
-400
-ACTOR "Items\357sp_ammo.act"
-IMAGE "357sp_ammo.e5b"
-WEIGHT 17.43
+"Items\54R-case.act"
+"Items\m80-bullet.act"
+900
+ACTOR "Items\m80.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 41.34
 
 "Ammo Corbon HCLA (.357 Magnum)"
 ".357 Magnum"
@@ -768,49 +702,71 @@ ACTOR "Items\357sp_ammo.act"
 IMAGE "357sp_ammo.e5b"
 WEIGHT 17.92
 
-".357 SIG Surplus"
-".357 SIG"
-7.0231
-459
-1.58
-0.178
-0.218
-0.102
-0.019
-0.0026
+"357 SP"
+".357 Magnum"
+10.44
+393
+1.7
+0.2
+0.214
+0.127
+0.03
 0.0021
-0.3
-2
-1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\762x25_case.act"
-"Items\762x25_bullet.act"
-620
-ACTOR "Items\762x25.act"
-IMAGE "ammo-762x25fmj.e5b"
-WEIGHT 11.62
-
-".357 SIG HP"
-".357 SIG"
-8.099
-435
-1.5
-0.217
-0.262
-0.115
-0.016
-0.003
-0.0016
+0.0028
 0.15
 1
 1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\762x25_case.act"
-"Items\762x25_bullet.act"
-630
-ACTOR "Items\762x25.act"
-IMAGE "ammo-762x25fmj.e5b"
-WEIGHT 11.98
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\357sp_g.act"
+400
+ACTOR "Items\357sp_ammo.act"
+IMAGE "357sp_ammo.e5b"
+WEIGHT 17.43
+
+"357 Algeira"
+".357 Magnum"
+10.74
+380
+1.9
+0.201
+0.212
+0.106
+0.017
+0.0024
+0.0029
+0.15
+2
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\357sp_g.act"
+400
+ACTOR "Items\357sp_ammo.act"
+IMAGE "357sp_ammo.e5b"
+WEIGHT 17.88
+
+"silver bullets"
+".357 Magnum"
+8
+380
+2
+0.25
+0.271
+0.1
+0.12
+0.002
+0.002
+0.15
+2
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\357sp_g.act"
+400
+ACTOR "Items\357sp_ammo.act"
+IMAGE "357sp_ammo.e5b"
+WEIGHT 18.87
 
 ".357 SIG FMJ"
 ".357 SIG"
@@ -856,49 +812,49 @@ ACTOR "Items\762x25.act"
 IMAGE "ammo-762x25fmj.e5b"
 WEIGHT 11.42
 
-".375 HH H"
-".375 H&H"
-19.3124
-777
-0.8
-0.074
-0.086
-0.0376
-0.03
-0.0029
+".357 SIG Surplus"
+".357 SIG"
+7.0231
+459
+1.58
+0.178
+0.218
+0.102
+0.019
 0.0026
-0.29
-1.5
-0
-"Weapon\Shoot\Silencer\None"
-"Items\51mm-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\3006bullet.act"
-IMAGE "ammo-m80.e5b"
-WEIGHT 54.86
-
-".375 HH FMJ"
-".375 H&H"
-19.4396
-770
-0.9
-0.0699
-0.082
-0.044
-0.023
-0.0031
-0.0027
-0.26
+0.0021
+0.3
+2
 1
-0
-"Weapon\Shoot\Silencer\None"
-"Items\51mm-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\3006bullet.act"
-IMAGE "ammo-m80.e5b"
-WEIGHT 52.79
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"Items\762x25_case.act"
+"Items\762x25_bullet.act"
+620
+ACTOR "Items\762x25.act"
+IMAGE "ammo-762x25fmj.e5b"
+WEIGHT 11.62
+
+".357 SIG HP"
+".357 SIG"
+8.099
+435
+1.5
+0.217
+0.262
+0.115
+0.016
+0.003
+0.0016
+0.15
+1
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"Items\762x25_case.act"
+"Items\762x25_bullet.act"
+630
+ACTOR "Items\762x25.act"
+IMAGE "ammo-762x25fmj.e5b"
+WEIGHT 11.98
 
 ".375 HH L"
 ".375 H&H"
@@ -922,49 +878,49 @@ ACTOR "Items\3006bullet.act"
 IMAGE "ammo-m80.e5b"
 WEIGHT 51.34
 
-".38 Spl SJHP"
-".38 Spl"
-10.24
-272
-1.6
-0.369
-0.443
-0.068
-0.037
-0.0037
-0.0026
-0.1
+".375 HH FMJ"
+".375 H&H"
+19.4396
+770
+0.9
+0.0699
+0.082
+0.044
+0.023
+0.0031
+0.0027
+0.26
 1
-1
+0
 "Weapon\Shoot\Silencer\None"
-"None"
-"Items\357sp_g.act"
-400
-ACTOR "Items\ex-star.act"
-IMAGE "357sp_ammo.e5b"
-WEIGHT 15.28
+"Items\51mm-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\3006bullet.act"
+IMAGE "ammo-m80.e5b"
+WEIGHT 52.79
 
-"Ammo .38 spc HP"
-".38 Spl"
-8.41111
-300
-1.8
-0.361
-0.423
+".375 HH H"
+".375 H&H"
+19.3124
+777
+0.8
+0.074
 0.086
-0.035
-0.003
-0.0022
-0.2
-1
-1
+0.0376
+0.03
+0.0029
+0.0026
+0.29
+1.5
+0
 "Weapon\Shoot\Silencer\None"
-"None"
-"Items\357sp_g.act"
-400
-ACTOR "Items\ex-star.act"
-IMAGE "357sp_ammo.e5b"
-WEIGHT 15.82
+"Items\51mm-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\3006bullet.act"
+IMAGE "ammo-m80.e5b"
+WEIGHT 54.86
 
 "Ammo .38 spc Algeira"
 ".38 Spl"
@@ -1010,71 +966,49 @@ ACTOR "Items\m882.act"
 IMAGE "ammo-M882.e5b"
 WEIGHT 15.47
 
-".380 ACP HP"
-".380 ACP"
-5.8412
-340
+".38 Spl SJHP"
+".38 Spl"
+10.24
+272
 1.6
-0.38
-0.49
-0.2
-0.021
-0.002
-0.002
-0.22
-1.5
+0.369
+0.443
+0.068
+0.037
+0.0037
+0.0026
+0.1
 1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm_bullet.act"
-390
-ACTOR "Items\9x18pmm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 9.82
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\357sp_g.act"
+400
+ACTOR "Items\ex-star.act"
+IMAGE "357sp_ammo.e5b"
+WEIGHT 15.28
 
-".380 FMJ"
-".380 ACP"
-6.15
-292
-1.7
-0.402
-0.52
-0.41
-0.05
-0.003
-0.002
-0.32
-1
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pm_bullet.act"
-370
-ACTOR "Items\9x18pm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 9.13
-
-".380 ACP Surplus"
-".380 ACP"
-5.184
-310
+"Ammo .38 spc HP"
+".38 Spl"
+8.41111
+300
 1.8
-0.389
-0.511
-0.36
-0.022
-0.0016
+0.361
+0.423
+0.086
+0.035
+0.003
 0.0022
-0.36
-2
+0.2
 1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm_bullet.act"
-380
-ACTOR "Items\9x18pmm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 9.77
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\357sp_g.act"
+400
+ACTOR "Items\ex-star.act"
+IMAGE "357sp_ammo.e5b"
+WEIGHT 15.82
 
 ".380 ACP FMJ"
 ".380 ACP"
@@ -1120,71 +1054,71 @@ ACTOR "Items\9x18ap_a.act"
 IMAGE "pbm_all.e5b"
 WEIGHT 9.52
 
-".40 S&W JHP"
-".40 S&W"
-10.69
-356
-1.6
-0.2481
-0.304
-0.1
-0.042
-0.002
-0.0015
-0.1
-1
-1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\45acp_case.act"
-"Items\45acp_hp_bullet.act"
-630
-ACTOR "Items\45acp_hp.act"
-IMAGE "ammo-GoldenSaber.e5b"
-WEIGHT 14.83
-
-"Ammo .40 S&W"
-".40 S&W"
-11.67
-324
-1.7
-0.242
-0.318
-0.14
-0.028
-0.0023
+".380 ACP Surplus"
+".380 ACP"
+5.184
+310
+1.8
+0.389
+0.511
+0.36
+0.022
+0.0016
 0.0022
-0.35
+0.36
+2
 1
-1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\45acp_case.act"
-"Items\45acp_hp_bullet.act"
-620
-ACTOR "Items\45acp_ap.act"
-IMAGE "ammo-M1911.e5b"
-WEIGHT 14.18
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm_bullet.act"
+380
+ACTOR "Items\9x18pmm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 9.77
 
-"Ammo .40 S&W CBC"
-".40 S&W"
-10.1
-360
-1.65
-0.2165
-0.2908
-0.1394
-0.025
-0.0027
-0.0015
-0.1
+".380 ACP HP"
+".380 ACP"
+5.8412
+340
+1.6
+0.38
+0.49
+0.2
+0.021
+0.002
+0.002
+0.22
+1.5
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm_bullet.act"
+390
+ACTOR "Items\9x18pmm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 9.82
+
+".380 FMJ"
+".380 ACP"
+6.15
+292
+1.7
+0.402
+0.52
+0.41
+0.05
+0.003
+0.002
+0.32
 1
 1
-"Weapon\Shoot\Silencer\SILENCER_40.wav"
-"Items\45acp_case.act"
-"Items\45acp_hp_bullet.act"
-640
-ACTOR "Items\45acp_hp.act"
-IMAGE "ammo-GoldenSaber.e5b"
-WEIGHT 14.75
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pm_bullet.act"
+370
+ACTOR "Items\9x18pm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 9.13
 
 "135grn JHP .40 S&W"
 ".40 S&W"
@@ -1252,49 +1186,71 @@ ACTOR "Items\45acp_hp.act"
 IMAGE "ammo-GoldenSaber.e5b"
 WEIGHT 14.49
 
-"Mag .44 Algeira"
-".44 Magnum"
-14.76
-373
+".40 S&W JHP"
+".40 S&W"
+10.69
+356
 1.6
-0.18
-0.1862
+0.2481
+0.304
 0.1
-0.09
-0.0027
-0.0028
-0.25
-2
-1
-"Weapon\Shoot\Silencer\None"
-"Items\45acp_case.act"
-"Items\45acp_ap_bullet.act"
-475
-ACTOR "Items\357sp_ammo.act"
-IMAGE "ammo-M1911.e5b"
-WEIGHT 25.92
-
-"Mag .44"
-".44 Magnum"
-15.5
-396
-1.4
-0.16
-0.17
-0.1
-0.018
+0.042
 0.002
-0.0017
+0.0015
 0.1
 1
 1
-"Weapon\Shoot\Silencer\None"
+"Weapon\Shoot\Silencer\Silencer_45.wav"
 "Items\45acp_case.act"
-"Items\45acp_ap_bullet.act"
-475
-ACTOR "Items\357sp_ammo.act"
+"Items\45acp_hp_bullet.act"
+630
+ACTOR "Items\45acp_hp.act"
+IMAGE "ammo-GoldenSaber.e5b"
+WEIGHT 14.83
+
+"Ammo .40 S&W"
+".40 S&W"
+11.67
+324
+1.7
+0.242
+0.318
+0.14
+0.028
+0.0023
+0.0022
+0.35
+1
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"Items\45acp_case.act"
+"Items\45acp_hp_bullet.act"
+620
+ACTOR "Items\45acp_ap.act"
 IMAGE "ammo-M1911.e5b"
-WEIGHT 25.21
+WEIGHT 14.18
+
+"Ammo .40 S&W CBC"
+".40 S&W"
+10.1
+360
+1.65
+0.2165
+0.2908
+0.1394
+0.025
+0.0027
+0.0015
+0.1
+1
+1
+"Weapon\Shoot\Silencer\SILENCER_40.wav"
+"Items\45acp_case.act"
+"Items\45acp_hp_bullet.act"
+640
+ACTOR "Items\45acp_hp.act"
+IMAGE "ammo-GoldenSaber.e5b"
+WEIGHT 14.75
 
 "Ammo 44 MAG JHP"
 ".44 Magnum"
@@ -1318,49 +1274,49 @@ ACTOR "Items\45acp_hp.act"
 IMAGE "ammo-M1911.e5b"
 WEIGHT 25.87
 
-".44-40 (LFN)"
-".44-40"
-16.22
-303
-1.8
-0.1761
-0.207
-0.096
-0.016
-0.0021
-0.0015
-0.15
-0.5
+"Mag .44"
+".44 Magnum"
+15.5
+396
+1.4
+0.16
+0.17
+0.1
+0.018
+0.002
+0.0017
+0.1
 1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"None"
-"Items\45LC_lfn_bullet.act"
-570
-ACTOR "Items\45LC_lfn.act"
-IMAGE "45Colt_LFN_6.e5b"
-WEIGHT 25.63
+1
+"Weapon\Shoot\Silencer\None"
+"Items\45acp_case.act"
+"Items\45acp_ap_bullet.act"
+475
+ACTOR "Items\357sp_ammo.act"
+IMAGE "ammo-M1911.e5b"
+WEIGHT 25.21
 
-".44-40 Surplus"
-".44-40"
-12.1682
-376
-1.9
-0.176
-0.206
-0.106
-0.02
-0.0025
-0.003
-0.32
+"Mag .44 Algeira"
+".44 Magnum"
+14.76
+373
+1.6
+0.18
+0.1862
+0.1
+0.09
+0.0027
+0.0028
+0.25
 2
 1
 "Weapon\Shoot\Silencer\None"
-"Items\45LC_h_case.act"
-"Items\45LC_h_bullet.act"
-600
-ACTOR "Items\45LC_h.act"
-IMAGE "45LC_h.e5b"
-WEIGHT 25.23
+"Items\45acp_case.act"
+"Items\45acp_ap_bullet.act"
+475
+ACTOR "Items\357sp_ammo.act"
+IMAGE "ammo-M1911.e5b"
+WEIGHT 25.92
 
 ".44-40 FMJ"
 ".44-40"
@@ -1406,93 +1362,49 @@ ACTOR "Items\45LC_h.act"
 IMAGE "45LC_h.e5b"
 WEIGHT 26.17
 
-".45 ACP FMJ Ball"
-".45 ACP"
-15.025
-250
+".44-40 (LFN)"
+".44-40"
+16.22
+303
+1.8
+0.1761
+0.207
+0.096
+0.016
+0.0021
+0.0015
+0.15
+0.5
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"None"
+"Items\45LC_lfn_bullet.act"
+570
+ACTOR "Items\45LC_lfn.act"
+IMAGE "45Colt_LFN_6.e5b"
+WEIGHT 25.63
+
+".44-40 Surplus"
+".44-40"
+12.1682
+376
 1.9
-0.308
-0.34
-0.21
+0.176
+0.206
+0.106
 0.02
-0.003
 0.0025
-0.25
-2
-1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\45acp_case.act"
-"Items\45acp_ap_bullet.act"
-400
-ACTOR "Items\45acp_ap.act"
-IMAGE "ammo-M1911.e5b"
-WEIGHT 19.29
-
-"Ammo Corbon JHP (.45 ACP)"
-".45 ACP"
-12.01
-350
-1.8
-0.2424
-0.292
-0.09428
-0.042
-0.004
-0.0035
-0.25
-1.3
-1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\45acp_case.act"
-"Items\45acp_hp_bullet.act"
-400
-ACTOR "Items\45acp_hp.act"
-IMAGE "ammo-GoldenSaber.e5b"
-WEIGHT 19.82
-
-"Hornady +P (.45 ACP)"
-".45 ACP"
-15.27
-329
-1.7
-0.195
-0.23
-0.134
-0.041
 0.003
-0.005
-0.1
+0.32
 2
 1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\45acp_case.act"
-"Items\45acp_hp_bullet.act"
-400
-ACTOR "Items\45acp_hp.act"
-IMAGE "ammo-GoldenSaber.e5b"
-WEIGHT 20.24
-
-"Golden Saber (.45 ACP)"
-".45 ACP"
-15.017
-270
-1.8
-0.27828
-0.33
-0.198
-0.042
-0.004
-0.0035
-0.25
-1
-1
-"Weapon\Shoot\Silencer\Silencer_45.wav"
-"Items\45acp_case.act"
-"Items\45acp_hp_bullet.act"
-400
-ACTOR "Items\45acp_hp.act"
-IMAGE "ammo-GoldenSaber.e5b"
-WEIGHT 19.93
+"Weapon\Shoot\Silencer\None"
+"Items\45LC_h_case.act"
+"Items\45LC_h_bullet.act"
+600
+ACTOR "Items\45LC_h.act"
+IMAGE "45LC_h.e5b"
+WEIGHT 25.23
 
 "Federal 230grn (.45 ACP)"
 ".45 ACP"
@@ -1560,49 +1472,93 @@ ACTOR "Items\45acp_ap.act"
 IMAGE "ammo-M1911.e5b"
 WEIGHT 19.17
 
-".45 Colt (LHP)"
-".45 Colt"
-14.58
-280
-2
-0.292462817147857
-0.3328
-0.1139
-0.02
-0.002
-0.002
-0.2
+"Golden Saber (.45 ACP)"
+".45 ACP"
+15.017
+270
+1.8
+0.27828
+0.33
+0.198
+0.042
+0.004
+0.0035
+0.25
 1
 1
 "Weapon\Shoot\Silencer\Silencer_45.wav"
-"None"
-"Items\45LC_LHP_bullet.act"
-600
-ACTOR "Items\45LC_lhp.act"
-IMAGE "45Colt_LHP_6.e5b"
-WEIGHT 27.89
+"Items\45acp_case.act"
+"Items\45acp_hp_bullet.act"
+400
+ACTOR "Items\45acp_hp.act"
+IMAGE "ammo-GoldenSaber.e5b"
+WEIGHT 19.93
 
-".45 Colt (JHP)"
-".45 Colt"
-14.58
-280
-2
-0.292462817147857
-0.3328
-0.1139
+".45 ACP FMJ Ball"
+".45 ACP"
+15.025
+250
+1.9
+0.308
+0.34
+0.21
 0.02
-0.002
-0.002
-0.2
-1
+0.003
+0.0025
+0.25
+2
 1
 "Weapon\Shoot\Silencer\Silencer_45.wav"
-"None"
-"Items\45LC_h_bullet.act"
-600
-ACTOR "Items\45LC_h.act"
-IMAGE "45Colt_H_6.e5b"
-WEIGHT 28.38
+"Items\45acp_case.act"
+"Items\45acp_ap_bullet.act"
+400
+ACTOR "Items\45acp_ap.act"
+IMAGE "ammo-M1911.e5b"
+WEIGHT 19.29
+
+"Ammo Corbon JHP (.45 ACP)"
+".45 ACP"
+12.01
+350
+1.8
+0.2424
+0.292
+0.09428
+0.042
+0.004
+0.0035
+0.25
+1.3
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"Items\45acp_case.act"
+"Items\45acp_hp_bullet.act"
+400
+ACTOR "Items\45acp_hp.act"
+IMAGE "ammo-GoldenSaber.e5b"
+WEIGHT 19.82
+
+"Hornady +P (.45 ACP)"
+".45 ACP"
+15.27
+329
+1.7
+0.195
+0.23
+0.134
+0.041
+0.003
+0.005
+0.1
+2
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"Items\45acp_case.act"
+"Items\45acp_hp_bullet.act"
+400
+ACTOR "Items\45acp_hp.act"
+IMAGE "ammo-GoldenSaber.e5b"
+WEIGHT 20.24
 
 ".45 Colt (LFN)"
 ".45 Colt"
@@ -1626,6 +1582,50 @@ ACTOR "Items\45LC_lfn.act"
 IMAGE "45Colt_LFN_6.e5b"
 WEIGHT 27.92
 
+".45 Colt (JHP)"
+".45 Colt"
+14.58
+280
+2
+0.292462817147857
+0.3328
+0.1139
+0.02
+0.002
+0.002
+0.2
+1
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"None"
+"Items\45LC_h_bullet.act"
+600
+ACTOR "Items\45LC_h.act"
+IMAGE "45Colt_H_6.e5b"
+WEIGHT 28.38
+
+".45 Colt (LHP)"
+".45 Colt"
+14.58
+280
+2
+0.292462817147857
+0.3328
+0.1139
+0.02
+0.002
+0.002
+0.2
+1
+1
+"Weapon\Shoot\Silencer\Silencer_45.wav"
+"None"
+"Items\45LC_LHP_bullet.act"
+600
+ACTOR "Items\45LC_lhp.act"
+IMAGE "45Colt_LHP_6.e5b"
+WEIGHT 27.89
+
 ".455 Webley HP"
 ".455 WEB"
 17.3452
@@ -1647,50 +1647,6 @@ WEIGHT 27.92
 ACTOR "Items\45LC_h.act"
 IMAGE "45LC_h.e5b"
 WEIGHT 19.32
-
-".45-70 FMJ"
-".45-70"
-25.8976
-425
-2
-0.094511
-0.1124
-0.051
-0.025
-0.0025
-0.0027
-0.23
-0.5
-1
-"Weapon\Shoot\Silencer\None"
-"Items\45LC_h_case.act"
-"Items\45LC_h_bullet.act"
-710
-ACTOR "Items\45LC_h.act"
-IMAGE "45LC_h.e5b"
-WEIGHT 45.83
-
-".45-70 Surplus"
-".45-70"
-19.1412
-612
-2
-0.069
-0.082
-0.0291
-0.028
-0.003
-0.0031
-0.41
-2
-1
-"Weapon\Shoot\Silencer\None"
-"Items\45LC_h_case.act"
-"Items\45LC_h_bullet.act"
-700
-ACTOR "Items\45LC_h.act"
-IMAGE "45LC_h.e5b"
-WEIGHT 45.19
 
 ".45-70 JHP +P"
 ".45-70"
@@ -1736,6 +1692,50 @@ ACTOR "Items\45LC_h.act"
 IMAGE "45LC_h.e5b"
 WEIGHT 46.33
 
+".45-70 FMJ"
+".45-70"
+25.8976
+425
+2
+0.094511
+0.1124
+0.051
+0.025
+0.0025
+0.0027
+0.23
+0.5
+1
+"Weapon\Shoot\Silencer\None"
+"Items\45LC_h_case.act"
+"Items\45LC_h_bullet.act"
+710
+ACTOR "Items\45LC_h.act"
+IMAGE "45LC_h.e5b"
+WEIGHT 45.83
+
+".45-70 Surplus"
+".45-70"
+19.1412
+612
+2
+0.069
+0.082
+0.0291
+0.028
+0.003
+0.0031
+0.41
+2
+1
+"Weapon\Shoot\Silencer\None"
+"Items\45LC_h_case.act"
+"Items\45LC_h_bullet.act"
+700
+ACTOR "Items\45LC_h.act"
+IMAGE "45LC_h.e5b"
+WEIGHT 45.19
+
 ".458 socom HP"
 ".458 socom"
 21.059
@@ -1757,28 +1757,6 @@ WEIGHT 46.33
 ACTOR "items\45acp_hp.act"
 IMAGE "ammo-GoldenSaber.e5b"
 WEIGHT 45
-
-".50 Beowulf FMJ"
-".50 Beowulf"
-21.64284
-580
-1.8
-0.065
-0.073
-0.045
-0.035
-0.0031
-0.0028
-0.23
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\45LC_h_case.act"
-"Items\45LC_h_bullet.act"
-700
-ACTOR "Items\45LC_h.act"
-IMAGE "45LC_h.e5b"
-WEIGHT 49
 
 ".50 Beowulf HP"
 ".50 Beowulf"
@@ -1802,6 +1780,28 @@ ACTOR "Items\45LC_h.act"
 IMAGE "45LC_h.e5b"
 WEIGHT 48.9
 
+".50 Beowulf FMJ"
+".50 Beowulf"
+21.64284
+580
+1.8
+0.065
+0.073
+0.045
+0.035
+0.0031
+0.0028
+0.23
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\45LC_h_case.act"
+"Items\45LC_h_bullet.act"
+700
+ACTOR "Items\45LC_h.act"
+IMAGE "45LC_h.e5b"
+WEIGHT 49
+
 "Ammo .500 S&W Magnum SCHP"
 ".500 S&W"
 17.82
@@ -1823,28 +1823,6 @@ WEIGHT 48.9
 ACTOR "Items\sp11.act"
 IMAGE "ammo-9x21fmj.e5b"
 WEIGHT 42.12
-
-".50AE FMJ"
-".50AE"
-21.0029
-430
-1.4
-0.114
-0.121
-0.0778
-0.019
-0.0021
-0.002
-0.19
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\45acp_case.act"
-"Items\45acp_ap_bullet.act"
-800
-ACTOR "Items\45acp_ap.act"
-IMAGE "ammo-M1911.e5b"
-WEIGHT 33.21
 
 ".50AE HP"
 ".50AE"
@@ -1868,6 +1846,28 @@ ACTOR "Items\45acp_ap.act"
 IMAGE "ammo-M1911.e5b"
 WEIGHT 33.94
 
+".50AE FMJ"
+".50AE"
+21.0029
+430
+1.4
+0.114
+0.121
+0.0778
+0.019
+0.0021
+0.002
+0.19
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\45acp_case.act"
+"Items\45acp_ap_bullet.act"
+800
+ACTOR "Items\45acp_ap.act"
+IMAGE "ammo-M1911.e5b"
+WEIGHT 33.21
+
 ".408 Chey Tac"
 "10.4 mm"
 27.15
@@ -1889,72 +1889,6 @@ WEIGHT 33.94
 ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
 WEIGHT 150.72
-
-"10mm Auto Surplus"
-"10mm Auto"
-8.247
-486
-1.47
-0.1548
-0.1893
-0.11
-0.022
-0.0025
-0.002
-0.2
-2
-1
-"Weapon\Shoot\Silencer\SILENCER_40.wav"
-"Items\45LC_h_case.act"
-"Items\45LC_h_bullet.act"
-680
-ACTOR "Items\45LC_h.act"
-IMAGE "45LC_h.e5b"
-WEIGHT 16.21
-
-"10mm Auto AP"
-"10mm Auto"
-14.25576
-370
-1.46
-0.153
-0.18
-0.144
-0.022
-0.002
-0.0022
-0.28
-1.5
-1
-"Weapon\Shoot\Silencer\SILENCER_40.wav"
-"Items\45LC_lfn_case.act"
-"Items\45LC_lfn_bullet.act"
-720
-ACTOR "Items\45LC_lfn.act"
-IMAGE "45LC_lfn.e5b"
-WEIGHT 16.51
-
-"10mm Auto JHP"
-"10mm Auto"
-10.691
-430
-1.42
-0.201
-0.23
-0.0914
-0.026
-0.0019
-0.0018
-0.11
-1
-1
-"Weapon\Shoot\Silencer\SILENCER_40.wav"
-"Items\45LC_lhp_case.act"
-"Items\45LC_lhp_bullet.act"
-650
-ACTOR "Items\45LC_lhp.act"
-IMAGE "45LC_lhp.e5b"
-WEIGHT 16.75
 
 "10 mm auto FMJ"
 "10mm Auto"
@@ -2022,141 +1956,71 @@ ACTOR "Items\10autoHP.act"
 IMAGE "AMMO-10mmHP.e5b"
 WEIGHT 16.99
 
-"Hunt (12ga)"
-"12 ךאכטבנ"
+"10mm Auto Surplus"
+"10mm Auto"
+8.247
+486
+1.47
+0.1548
+0.1893
+0.11
+0.022
+0.0025
+0.002
+0.2
+2
 1
-401
-3
-0.234
-0.21
-0.04
-0.15
-0.003
-0.005
-0.01
-1.2
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12ga_hunt_case.act"
-"Items\slug.act"
-50
-ACTOR "Items\12GA_HUNT.ACT"
-IMAGE "12ga_hunt_6.e5b"
-WEIGHT 51.63
-SHOTGUN 27 2 2
+"Weapon\Shoot\Silencer\SILENCER_40.wav"
+"Items\45LC_h_case.act"
+"Items\45LC_h_bullet.act"
+680
+ACTOR "Items\45LC_h.act"
+IMAGE "45LC_h.e5b"
+WEIGHT 16.21
 
-"Slug (12ga)"
-"12 ךאכטבנ"
-37.8
-308
+"10mm Auto AP"
+"10mm Auto"
+14.25576
+370
+1.46
+0.153
+0.18
+0.144
+0.022
+0.002
+0.0022
+0.28
 1.5
-0.25
-0.65
-0.1
-0.12
-0.001
-0.0045
-0.15
 1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12gaSlug_case.act"
-"Items\44sp_bullet.act"
-250
-ACTOR "Items\12gaSlug.act"
-IMAGE "12ga_slugs.e5b"
-WEIGHT 62.81
+"Weapon\Shoot\Silencer\SILENCER_40.wav"
+"Items\45LC_lfn_case.act"
+"Items\45LC_lfn_bullet.act"
+720
+ACTOR "Items\45LC_lfn.act"
+IMAGE "45LC_lfn.e5b"
+WEIGHT 16.51
 
-"Buckshot N4 (12ga)"
-"12 ךאכטבנ"
-1.34
-402
-2
-0.255
-0.26
-0.07914
-0.04
-0.004
-0.006
-0.3
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12ga_sabot_case.act"
-"Items\slug.act"
-70
-ACTOR "Items\12ga_sabot.act"
-IMAGE "12ga_sabot_6.e5b"
-WEIGHT 58.11
-SHOTGUN 27 2 2
-
-"Flechette (12ga)"
-"12 ךאכטבנ"
-1
-670
-2.5
-0.15
-0.1
-0.75
-0.01
-0.001
-0.0045
-0.05
-2.5
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12gaflech_case.act"
-"Items\flechette_arrow.act"
-200
-ACTOR "Items\12gaflechette.act"
-IMAGE "ammo-Flechette.e5b"
-WEIGHT 59.36
-SHOTGUN 19 1 1
-
-"Rubber Slug (12ga)"
-"12 ךאכטבנ"
-4.8
-300
-5
-0.05
-0.95
-0
-0.5
-0.004
-0.003
-0.75
-0.12
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12GA_Rubber_case.act"
-"Items\vr_bullet.act"
-50
-ACTOR "Items\12GA_Rubber.act"
-IMAGE "12ga_rubber_6.e5b"
-WEIGHT 30.87
-
-"00 Buckshot Palinero (12ga)"
-"12 ךאכטבנ"
-3.67
-381
-2.2
-0.221
+"10mm Auto JHP"
+"10mm Auto"
+10.691
+430
+1.42
+0.201
 0.23
-0.0645
-0.06
-0.0035
-0.0043
-0.25
-2
+0.0914
+0.026
+0.0019
+0.0018
+0.11
 1
-"Weapon\Shoot\Silencer\None"
-"Items\12ga00buck_case.act"
-"Items\slug.act"
-70
-ACTOR "Items\12ga00buckshot.act"
-IMAGE "ammo-Buckshot.e5b"
-WEIGHT 61.79
-SHOTGUN 8 2 2
+1
+"Weapon\Shoot\Silencer\SILENCER_40.wav"
+"Items\45LC_lhp_case.act"
+"Items\45LC_lhp_bullet.act"
+650
+ACTOR "Items\45LC_lhp.act"
+IMAGE "45LC_lhp.e5b"
+WEIGHT 16.75
 
 "00 Buckshot Algeira (12ga)"
 "12 ךאכטבנ"
@@ -2179,6 +2043,29 @@ SHOTGUN 8 2 2
 ACTOR "Items\12ga00buckshot.act"
 IMAGE "ammo-Buckshot.e5b"
 WEIGHT 60.77
+SHOTGUN 8 2 2
+
+"00 Buckshot Palinero (12ga)"
+"12 ךאכטבנ"
+3.67
+381
+2.2
+0.221
+0.23
+0.0645
+0.06
+0.0035
+0.0043
+0.25
+2
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12ga00buck_case.act"
+"Items\slug.act"
+70
+ACTOR "Items\12ga00buckshot.act"
+IMAGE "ammo-Buckshot.e5b"
+WEIGHT 61.79
 SHOTGUN 8 2 2
 
 "00 Buckshot (12ga)"
@@ -2204,6 +2091,28 @@ IMAGE "ammo-Buckshot.e5b"
 WEIGHT 64.22
 SHOTGUN 9 2 2
 
+"Sabot (12ga)"
+"12 ךאכטבנ"
+20
+300
+1
+0.301
+0.2006
+0.3008
+0.2
+0.001
+0.0001
+0.3
+0.5
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12ga_sabot_case.act"
+"Items\flechette_arrow.act"
+350
+ACTOR "Items\12ga_sabot.act"
+IMAGE "12ga_sabot_6.e5b"
+WEIGHT 73.66
+
 "00 Buckshot MAGNUM (12ga)"
 "12 ךאכטבנ"
 3.5
@@ -2227,27 +2136,118 @@ IMAGE "ammo-Buckshot.e5b"
 WEIGHT 71.82
 SHOTGUN 9 2 2
 
-"Sabot (12ga)"
+"Slug (12ga)"
 "12 ךאכטבנ"
-20
-300
-1
-0.301
-0.2006
-0.3008
-0.2
+37.8
+308
+1.5
+0.25
+0.65
+0.1
+0.12
 0.001
-0.0001
+0.0045
+0.15
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12gaSlug_case.act"
+"Items\44sp_bullet.act"
+250
+ACTOR "Items\12gaSlug.act"
+IMAGE "12ga_slugs.e5b"
+WEIGHT 62.81
+
+"Hunt (12ga)"
+"12 ךאכטבנ"
+1
+401
+3
+0.234
+0.21
+0.04
+0.15
+0.003
+0.005
+0.01
+1.2
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12ga_hunt_case.act"
+"Items\slug.act"
+50
+ACTOR "Items\12GA_HUNT.ACT"
+IMAGE "12ga_hunt_6.e5b"
+WEIGHT 51.63
+SHOTGUN 27 2 2
+
+"Buckshot N4 (12ga)"
+"12 ךאכטבנ"
+1.34
+402
+2
+0.255
+0.26
+0.07914
+0.04
+0.004
+0.006
 0.3
-0.5
+1
 1
 "Weapon\Shoot\Silencer\None"
 "Items\12ga_sabot_case.act"
-"Items\flechette_arrow.act"
-350
+"Items\slug.act"
+70
 ACTOR "Items\12ga_sabot.act"
 IMAGE "12ga_sabot_6.e5b"
-WEIGHT 73.66
+WEIGHT 58.11
+SHOTGUN 27 2 2
+
+"Rubber Slug (12ga)"
+"12 ךאכטבנ"
+4.8
+300
+5
+0.05
+0.95
+0
+0.5
+0.004
+0.003
+0.75
+0.12
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12GA_Rubber_case.act"
+"Items\vr_bullet.act"
+50
+ACTOR "Items\12GA_Rubber.act"
+IMAGE "12ga_rubber_6.e5b"
+WEIGHT 30.87
+
+"Flechette (12ga)"
+"12 ךאכטבנ"
+1
+670
+2.5
+0.15
+0.1
+0.75
+0.01
+0.001
+0.0045
+0.05
+2.5
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12gaflech_case.act"
+"Items\flechette_arrow.act"
+200
+ACTOR "Items\12gaflechette.act"
+IMAGE "ammo-Flechette.e5b"
+WEIGHT 59.36
+SHOTGUN 19 1 1
 
 "M33 Ball .50 BMG (12.7x99 mm)"
 "12.7 לל"
@@ -2271,50 +2271,6 @@ ACTOR "Items\m2.act"
 IMAGE "ammo-m80.e5b"
 WEIGHT 131.91
 
-"700 Nitro Round"
-"700 Nitro"
-64.8
-850
-0.7
-0.082
-0.071
-0.07
-0.01
-0.0035
-0.0015
-0.1
-1
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\700nitro_casing.act"
-"Items\700nitro_bullet.act"
-800
-ACTOR "Items\700nitro_ammo.act"
-IMAGE "AMMO-M85.E5B"
-WEIGHT 154
-
-"12.7x108mm Surplus"
-"12.7x108mm"
-51.769
-810
-0.8
-0.082
-0.071
-0.064
-0.023
-0.005
-0.003
-0.3
-2
-1
-"Weapon\Shoot\Silencer\None"
-"Items\54R-case.act"
-"Items\m80-bullet.act"
-815
-ACTOR "Items\m80.act"
-IMAGE "AMMO-M85.E5B"
-WEIGHT 151.22
-
 "12.7x108mm OSV"
 "12.7x108mm"
 55.403
@@ -2337,27 +2293,27 @@ ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
 WEIGHT 150.78
 
-"12.7x55mm Surplus"
-"12.7x55mm"
-54.6223
-278
-0.98
-0.2811
-0.3098
-0.1091
-0.025
-0.002
+"12.7x108mm Surplus"
+"12.7x108mm"
+51.769
+810
+0.8
+0.082
+0.071
+0.064
+0.023
+0.005
 0.003
 0.3
 2
 1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Weapon\Shoot\Silencer\None"
 "Items\54R-case.act"
 "Items\m80-bullet.act"
-600
+815
 ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
-WEIGHT 90
+WEIGHT 151.22
 
 "12.7x55mm STs-130VPS"
 "12.7x55mm"
@@ -2403,27 +2359,27 @@ ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
 WEIGHT 86
 
-"12.7 Ash FMJ"
-"12.7x55mm Ash"
-51.1213
-305
-1.6
-0.102
-0.118
-0.084
-0.026
-0.0022
+"12.7x55mm Surplus"
+"12.7x55mm"
+54.6223
+278
+0.98
+0.2811
+0.3098
+0.1091
+0.025
 0.002
-0.22
+0.003
+0.3
+2
 1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\45LC_h_case.act"
-"Items\45LC_h_bullet.act"
-700
-ACTOR "Items\45LC_h.act"
-IMAGE "45LC_h.e5b"
-WEIGHT 52
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\54R-case.act"
+"Items\m80-bullet.act"
+600
+ACTOR "Items\m80.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 90
 
 "12.7 Ash HP"
 "12.7x55mm Ash"
@@ -2469,28 +2425,27 @@ ACTOR "Items\45LC_h.act"
 IMAGE "45LC_h.e5b"
 WEIGHT 57
 
-"12x60mm MAG7 Flechette"
-"12x60mm"
-1
-635
-2.5
-0.148
-0.1
-0.623
-0.01
-0.003
-0.0045
-0.3
+"12.7 Ash FMJ"
+"12.7x55mm Ash"
+51.1213
+305
+1.6
+0.102
+0.118
+0.084
+0.026
+0.0022
+0.002
+0.22
 1
 1
 "Weapon\Shoot\Silencer\None"
-"Items\12ga_sabot_case.act"
-"Items\flechette_arrow.act"
-200
-ACTOR "Items\12ga_sabot.act"
-IMAGE "12ga_sabot_6.e5b"
-WEIGHT 40
-SHOTGUN 14 2 2
+"Items\45LC_h_case.act"
+"Items\45LC_h_bullet.act"
+700
+ACTOR "Items\45LC_h.act"
+IMAGE "45LC_h.e5b"
+WEIGHT 52
 
 "12x60mm MAG7 Buckshot"
 "12x60mm"
@@ -2538,49 +2493,28 @@ IMAGE "12ga_sabot_6.e5b"
 WEIGHT 36
 SHOTGUN 25 2 2
 
-"14.5x114mm DGJ02"
-"14.5x114mm"
-45.912
-1250
-0.7
-0.09711
-0.083
-0.12
-0.034
-0.004
-0.002
-0.08
-2
+"12x60mm MAG7 Flechette"
+"12x60mm"
 1
-"Weapon\Shoot\Silencer\None"
-"Items\54R-case.act"
-"Items\m80-bullet.act"
-820
-ACTOR "Items\m80.act"
-IMAGE "AMMO-M85.E5B"
-WEIGHT 189.81
-
-"14.5x114mm BS"
-"14.5x114mm"
-64.4761
-1006
-0.9
-0.112
-0.0911
-0.074
-0.031
-0.0025
-0.0022
+635
+2.5
+0.148
 0.1
+0.623
+0.01
+0.003
+0.0045
+0.3
 1
 1
 "Weapon\Shoot\Silencer\None"
-"Items\54R-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\m80.act"
-IMAGE "AMMO-M85.E5B"
-WEIGHT 190.57
+"Items\12ga_sabot_case.act"
+"Items\flechette_arrow.act"
+200
+ACTOR "Items\12ga_sabot.act"
+IMAGE "12ga_sabot_6.e5b"
+WEIGHT 40
+SHOTGUN 14 2 2
 
 "14.5x114mm Surplus"
 "14.5x114mm"
@@ -2626,51 +2560,49 @@ ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
 WEIGHT 191.32
 
-"Buckshot N4 (20 ga)"
-"20 Gauge"
-1.34
-378
-2
-0.241
-0.2312
-0.0748
-0.04
-0.004
-0.005
-0.34
+"14.5x114mm BS"
+"14.5x114mm"
+64.4761
+1006
+0.9
+0.112
+0.0911
+0.074
+0.031
+0.0025
+0.0022
+0.1
 1
 1
 "Weapon\Shoot\Silencer\None"
-"Items\12gaSlug_case.act"
-"Items\slug.act"
-60
-ACTOR "Items\12gaSlug.act"
-IMAGE "12ga_slugs.e5b"
-WEIGHT 37.33
-SHOTGUN 24 2 2
+"Items\54R-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\m80.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 190.57
 
-"Flechette (20 ga)"
-"20 Gauge"
-1
-550
-2.5
-0.18
-0.11
-0.96
-0.02
-0.0013
-0.005
-0.04
-2.5
+"14.5x114mm DGJ02"
+"14.5x114mm"
+45.912
+1250
+0.7
+0.09711
+0.083
+0.12
+0.034
+0.004
+0.002
+0.08
+2
 1
 "Weapon\Shoot\Silencer\None"
-"Items\12gaSlug_case.act"
-"Items\flechette_arrow.act"
-190
-ACTOR "Items\12gaSlug.act"
-IMAGE "12ga_slugs.e5b"
-WEIGHT 41.93
-SHOTGUN 13 1 1
+"Items\54R-case.act"
+"Items\m80-bullet.act"
+820
+ACTOR "Items\m80.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 189.81
 
 "Buckshot (20 ga)"
 "20 Gauge"
@@ -2717,50 +2649,51 @@ ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
 WEIGHT 43.69
 
-"Barricada (23 mm)"
-"23 לל"
-50
-508
-3
-0.3
-0.6
-0.1
-0.1
-0.004
-0.003
-0.05
+"Flechette (20 ga)"
+"20 Gauge"
 1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\barricada_case.act"
-"Items\br_bullet.act"
-100
-ACTOR "Items\barricada.act"
-IMAGE "barrikada.e5b"
-WEIGHT 80
-
-"Shrapnel-25 (23 mm)"
-"23 לל"
-9
-415
-3
-0.3
-0.7
-0
-0.15
-0.003
+550
+2.5
+0.18
+0.11
+0.96
+0.02
+0.0013
 0.005
-0.01
-0.72
+0.04
+2.5
 1
 "Weapon\Shoot\Silencer\None"
-"Items\shr25_case.act"
-"Items\kc_shrapnel.act"
-70
-ACTOR "Items\shr25.act"
-IMAGE "shrapnel-25.e5b"
-WEIGHT 75
-SHOTGUN 6 1 1
+"Items\12gaSlug_case.act"
+"Items\flechette_arrow.act"
+190
+ACTOR "Items\12gaSlug.act"
+IMAGE "12ga_slugs.e5b"
+WEIGHT 41.93
+SHOTGUN 13 1 1
+
+"Buckshot N4 (20 ga)"
+"20 Gauge"
+1.34
+378
+2
+0.241
+0.2312
+0.0748
+0.04
+0.004
+0.005
+0.34
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12gaSlug_case.act"
+"Items\slug.act"
+60
+ACTOR "Items\12gaSlug.act"
+IMAGE "12ga_slugs.e5b"
+WEIGHT 37.33
+SHOTGUN 24 2 2
 
 "Volna-R (23 mm)"
 "23 לל"
@@ -2807,27 +2740,50 @@ IMAGE "shrapnel-10.e5b"
 WEIGHT 75
 SHOTGUN 9 1 1
 
-"Ammo .30 Carbine Surplus"
-"30 Carbine"
-7.49
-594
-1.4
-0.135
-0.141
-0.07
-0.048
-0.0016
-0.0021
-0.4
+"Shrapnel-25 (23 mm)"
+"23 לל"
+9
+415
+3
+0.3
+0.7
+0
+0.15
+0.003
+0.005
+0.01
+0.72
+1
+"Weapon\Shoot\Silencer\None"
+"Items\shr25_case.act"
+"Items\kc_shrapnel.act"
+70
+ACTOR "Items\shr25.act"
+IMAGE "shrapnel-25.e5b"
+WEIGHT 75
+SHOTGUN 6 1 1
+
+"Barricada (23 mm)"
+"23 לל"
+50
+508
+3
+0.3
+0.6
+0.1
+0.1
+0.004
+0.003
+0.05
 1
 1
 "Weapon\Shoot\Silencer\None"
-"Items\21mm_case.act"
-"Items\sp11_bullet.act"
-750
-ACTOR "Items\762x25.act"
-IMAGE "ammo-762x25fmj.e5b"
-WEIGHT 12.81
+"Items\barricada_case.act"
+"Items\br_bullet.act"
+100
+ACTOR "Items\barricada.act"
+IMAGE "barrikada.e5b"
+WEIGHT 80
 
 "Ammo .30 Carbine FMJ"
 "30 Carbine"
@@ -2851,6 +2807,28 @@ ACTOR "Items\762x25.act"
 IMAGE "ammo-762x25fmj.e5b"
 WEIGHT 12.33
 
+"Ammo .30 Carbine Surplus"
+"30 Carbine"
+7.49
+594
+1.4
+0.135
+0.141
+0.07
+0.048
+0.0016
+0.0021
+0.4
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\21mm_case.act"
+"Items\sp11_bullet.act"
+750
+ACTOR "Items\762x25.act"
+IMAGE "ammo-762x25fmj.e5b"
+WEIGHT 12.81
+
 "VOG-T"
 "30 לל"
 500
@@ -2872,50 +2850,6 @@ WEIGHT 12.33
 ACTOR "Items\vog-t.act"
 IMAGE "vog-t.e5b"
 WEIGHT 350
-
-"30-06 FMJ"
-"30-06 Springfield"
-9.719
-822
-1.5
-0.064
-0.058
-0.0528
-0.018
-0.004
-0.003
-0.25
-2
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\3006bullet.act"
-IMAGE "ammo-m80.e5b"
-WEIGHT 30.26
-
-"Winchester XP3 30-06"
-"30-06 Springfield"
-11.7
-829
-1.4
-0.068
-0.067
-0.0362
-0.015
-0.004
-0.003
-0.25
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-800
-ACTOR "Items\30-06_HP.act"
-IMAGE "ammo-M993.e5b"
-WEIGHT 30.97
 
 "Nosler JHP 30-06"
 "30-06 Springfield"
@@ -2983,27 +2917,49 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 30.65
 
-"35mm Smoke"
-"35mm GL"
-170
-76
+"30-06 FMJ"
+"30-06 Springfield"
+9.719
+822
+1.5
+0.064
+0.058
+0.0528
+0.018
+0.004
+0.003
+0.25
+2
 1
-0
-0
-0
-0
-0
-0
-0
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\51mm-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\3006bullet.act"
+IMAGE "ammo-m80.e5b"
+WEIGHT 30.26
+
+"Winchester XP3 30-06"
+"30-06 Springfield"
+11.7
+829
+1.4
+0.068
+0.067
+0.0362
+0.015
+0.004
+0.003
+0.25
 1
-0
-"Weapon\Shoot\Silencer\M203.wav"
-"None"
-"Items\qlg91granadasmoke.act"
-250
-ACTOR "Items\qlg91granadasmoke.act"
-IMAGE "qlg91grenadepicair.dds"
-WEIGHT 315
+1
+"Weapon\Shoot\Silencer\None"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\30-06_HP.act"
+IMAGE "ammo-M993.e5b"
+WEIGHT 30.97
 
 "35mm AB"
 "35mm GL"
@@ -3049,9 +3005,9 @@ ACTOR "Items\qlg91granada.act"
 IMAGE "qlg91grenadepic.dds"
 WEIGHT 322
 
-"DFS-10P"
-"35mm GL Caseless"
-275
+"35mm Smoke"
+"35mm GL"
+170
 76
 1
 0
@@ -3063,13 +3019,13 @@ WEIGHT 322
 0
 1
 0
-"Weapon\Shoot\Silencer\GP30.wav"
+"Weapon\Shoot\Silencer\M203.wav"
 "None"
-"Items\qlg10agranada.act"
+"Items\qlg91granadasmoke.act"
 250
-ACTOR "Items\qlg10agranada.act"
-IMAGE "qlg10grenadepic.dds"
-WEIGHT 170
+ACTOR "Items\qlg91granadasmoke.act"
+IMAGE "qlg91grenadepicair.dds"
+WEIGHT 315
 
 "DFS-10 Smoke"
 "35mm GL Caseless"
@@ -3115,27 +3071,27 @@ ACTOR "Items\qlg10agranadaair.act"
 IMAGE "qlg10grenadepicair.dds"
 WEIGHT 165
 
-"Fiocchi Frangible (4.6x30mm)"
-"4.6x30 mm"
-1.94
-617
-1.8
-0.42
-0.43
-0.34
-0.02
-0.002
-0.0022
-0.2
+"DFS-10P"
+"35mm GL Caseless"
+275
+76
 1
+0
+0
+0
+0
+0
+0
+0
 1
-"Weapon\Shoot\Silencer\mp7a3_sil.wav"
-"Items\28mm-case.act"
-"Items\ss190-bullet.act"
-400
-ACTOR "Items\ss190.act"
-IMAGE "ammo-ss190.e5b"
-WEIGHT 7.31
+0
+"Weapon\Shoot\Silencer\GP30.wav"
+"None"
+"Items\qlg10agranada.act"
+250
+ACTOR "Items\qlg10agranada.act"
+IMAGE "qlg10grenadepic.dds"
+WEIGHT 170
 
 "Penetrator DM11 (4.6x30mm)"
 "4.6x30 mm"
@@ -3159,6 +3115,28 @@ ACTOR "Items\ss190.act"
 IMAGE "ammo-ss190.e5b"
 WEIGHT 7.17
 
+"Fiocchi Frangible (4.6x30mm)"
+"4.6x30 mm"
+1.94
+617
+1.8
+0.42
+0.43
+0.34
+0.02
+0.002
+0.0022
+0.2
+1
+1
+"Weapon\Shoot\Silencer\mp7a3_sil.wav"
+"Items\28mm-case.act"
+"Items\ss190-bullet.act"
+400
+ACTOR "Items\ss190.act"
+IMAGE "ammo-ss190.e5b"
+WEIGHT 7.31
+
 "DM11 Ball (4.7mm)"
 "4.7ץ33 לל"
 3.18
@@ -3180,50 +3158,6 @@ WEIGHT 7.17
 ACTOR "Items\dm11-ammo.act"
 IMAGE "ammo-DM11.e5b"
 WEIGHT 6.18
-
-"M406 HE"
-"40 לל"
-170
-76
-1
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\M203.wav"
-"None"
-"Items\m406-head.act"
-250
-ACTOR "Items\m406-onepart.act"
-IMAGE "m406.e5b"
-WEIGHT 250
-
-"M407 Smoke"
-"40 לל"
-160
-76
-1
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\M203.wav"
-"None"
-"Items\m407-head.act"
-250
-ACTOR "Items\m407-onepart.act"
-IMAGE "m407.e5b"
-WEIGHT 215
 
 "M433A1 HEDP"
 "40 לל"
@@ -3269,9 +3203,9 @@ ACTOR "Items\m397-onepart.act"
 IMAGE "m397a1.e5b"
 WEIGHT 230
 
-"VOG-25"
-"40 לל (ÃÏ)"
-250
+"M407 Smoke"
+"40 לל"
+160
 76
 1
 0
@@ -3283,12 +3217,34 @@ WEIGHT 230
 0
 1
 0
-"Weapon\Shoot\Silencer\GP30.wav"
+"Weapon\Shoot\Silencer\M203.wav"
 "None"
-"Items\vog25.act"
+"Items\m407-head.act"
 250
-ACTOR "Items\vog25.act"
-IMAGE "vog25.e5b"
+ACTOR "Items\m407-onepart.act"
+IMAGE "m407.e5b"
+WEIGHT 215
+
+"M406 HE"
+"40 לל"
+170
+76
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\M203.wav"
+"None"
+"Items\m406-head.act"
+250
+ACTOR "Items\m406-onepart.act"
+IMAGE "m406.e5b"
 WEIGHT 250
 
 "VOG-25P"
@@ -3313,11 +3269,11 @@ ACTOR "Items\vog25p.act"
 IMAGE "vog25p.e5b"
 WEIGHT 275
 
-"RPG-7 Grenade"
-"40 לל (ÐÏÃ-7)"
-2000
-120
-0.9
+"VOG-25"
+"40 לל (ÃÏ)"
+250
+76
+1
 0
 0
 0
@@ -3327,145 +3283,13 @@ WEIGHT 275
 0
 1
 0
-"Weapon\Shoot\Silencer\None"
+"Weapon\Shoot\Silencer\GP30.wav"
 "None"
-"Items\pg-7b_used.ACT"
-330
-ACTOR "Items\pg-7b.ACT"
-IMAGE "pg-7b.e5b"
-WEIGHT 2200
-
-"RPG-7 Grenade 2"
-"40 לל (ÐÏÃ-7)"
-2000
-120
-0.9
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\og-7b_used.ACT"
-330
-ACTOR "Items\og-7b.ACT"
-IMAGE "og-7b.e5b"
-WEIGHT 2000
-
-"RPG-7 Grenade(pg-7pm)"
-"40 לל (ÐÏÃ-7)"
-2300
-120
-0.9
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\pg-7pm_used.ACT"
-330
-ACTOR "Items\pg-7pm.ACT"
-IMAGE "pg-7pm.e5b"
-WEIGHT 2300
-
-"RPG-7 Grenade(ipg-82)"
-"40 לל (ÐÏÃ-7)"
-3700
-120
-0.9
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\ipg-82_used.ACT"
-330
-ACTOR "Items\ipg-82.ACT"
-IMAGE "ipg-82.e5b"
-WEIGHT 3700
-
-"RPG-7 Grenade(ko-7v)"
-"40 לל (ÐÏÃ-7)"
-2960
-98
-1
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\ko-7v_used.ACT"
-330
-ACTOR "Items\ko-7v.ACT"
-IMAGE "ko-7v.e5b"
-WEIGHT 2960
-
-"RPG-7 Grenade(type69-3)"
-"40 לל (ÐÏÃ-7)"
-2800
-102
-1
-0
-0
-0
-0
-0
-0
-1
-1
-0
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\type69-3_used.ACT"
-330
-ACTOR "Items\type69-3.ACT"
-IMAGE "type69-3.e5b"
-WEIGHT 2800
-
-"RPG-7 Grenade(pg-7ei)"
-"40 לל (ÐÏÃ-7)"
-4500
-50
-0.9
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\None"
-"None"
-"Items\pg-7ei_used.ACT"
-330
-ACTOR "Items\pg-7ei.ACT"
-IMAGE "pg-7ei.e5b"
-WEIGHT 4500
+"Items\vog25.act"
+250
+ACTOR "Items\vog25.act"
+IMAGE "vog25.e5b"
+WEIGHT 250
 
 "RPG-7 Grenade(gtb-7vs)"
 "40 לל (ÐÏÃ-7)"
@@ -3489,14 +3313,14 @@ ACTOR "Items\gtb-7vs.act"
 IMAGE "gtb-7vs.e5b"
 WEIGHT 4000
 
-"RPG-7 Grenade(ipg-60)"
+"RPG-7 Grenade(pg-7ei)"
 "40 לל (ÐÏÃ-7)"
-2400
-120
+4500
+50
 0.9
-1
-1
-1
+0
+0
+0
 0
 0
 0
@@ -3505,16 +3329,16 @@ WEIGHT 4000
 0
 "Weapon\Shoot\Silencer\None"
 "None"
-"Items\ipg-60_used.act"
+"Items\pg-7ei_used.ACT"
 330
-ACTOR "Items\ipg-60.act"
-IMAGE "ipg-60.e5b"
-WEIGHT 2400
+ACTOR "Items\pg-7ei.ACT"
+IMAGE "pg-7ei.e5b"
+WEIGHT 4500
 
-"RPG-7 Grenade(og-7ve)"
+"RPG-7 Grenade(type69-3)"
 "40 לל (ÐÏÃ-7)"
-4100
-70
+2800
+102
 1
 0
 0
@@ -3522,16 +3346,16 @@ WEIGHT 2400
 0
 0
 0
-0
+1
 1
 0
 "Weapon\Shoot\Silencer\None"
 "None"
-"Items\og-7ve_used.ACT"
+"Items\type69-3_used.ACT"
 330
-ACTOR "Items\og-7ve.ACT"
-IMAGE "og-7ve.e5b"
-WEIGHT 4100
+ACTOR "Items\type69-3.ACT"
+IMAGE "type69-3.e5b"
+WEIGHT 2800
 
 "RPG-7 Grenade(tbg-7v)"
 "40 לל (ÐÏÃ-7)"
@@ -3555,8 +3379,52 @@ ACTOR "Items\tbg-7v.ACT"
 IMAGE "tbg-7v.e5b"
 WEIGHT 4500
 
-"RPG-2 Mortar 60"
-"40 mm (RPG-2)"
+"RPG-7 Grenade(og-7ve)"
+"40 לל (ÐÏÃ-7)"
+4100
+70
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\og-7ve_used.ACT"
+330
+ACTOR "Items\og-7ve.ACT"
+IMAGE "og-7ve.e5b"
+WEIGHT 4100
+
+"RPG-7 Grenade(ipg-60)"
+"40 לל (ÐÏÃ-7)"
+2400
+120
+0.9
+1
+1
+1
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\ipg-60_used.act"
+330
+ACTOR "Items\ipg-60.act"
+IMAGE "ipg-60.e5b"
+WEIGHT 2400
+
+"RPG-7 Grenade 2"
+"40 לל (ÐÏÃ-7)"
 2000
 120
 0.9
@@ -3571,11 +3439,99 @@ WEIGHT 4500
 0
 "Weapon\Shoot\Silencer\None"
 "None"
-"Items\rpg7_grenade1_fly.act"
+"Items\og-7b_used.ACT"
 330
-ACTOR "Items\rpg2_G.act"
-IMAGE "rpg2_G.e5b"
-WEIGHT 1840
+ACTOR "Items\og-7b.ACT"
+IMAGE "og-7b.e5b"
+WEIGHT 2000
+
+"RPG-7 Grenade"
+"40 לל (ÐÏÃ-7)"
+2000
+120
+0.9
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\pg-7b_used.ACT"
+330
+ACTOR "Items\pg-7b.ACT"
+IMAGE "pg-7b.e5b"
+WEIGHT 2200
+
+"RPG-7 Grenade(pg-7pm)"
+"40 לל (ÐÏÃ-7)"
+2300
+120
+0.9
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\pg-7pm_used.ACT"
+330
+ACTOR "Items\pg-7pm.ACT"
+IMAGE "pg-7pm.e5b"
+WEIGHT 2300
+
+"RPG-7 Grenade(ko-7v)"
+"40 לל (ÐÏÃ-7)"
+2960
+98
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\ko-7v_used.ACT"
+330
+ACTOR "Items\ko-7v.ACT"
+IMAGE "ko-7v.e5b"
+WEIGHT 2960
+
+"RPG-7 Grenade(ipg-82)"
+"40 לל (ÐÏÃ-7)"
+3700
+120
+0.9
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\ipg-82_used.ACT"
+330
+ACTOR "Items\ipg-82.ACT"
+IMAGE "ipg-82.e5b"
+WEIGHT 3700
 
 "RPG-2 Mortar 82"
 "40 mm (RPG-2)"
@@ -3621,6 +3577,28 @@ ACTOR "Items\rpg2_G.act"
 IMAGE "rpg2_G.e5b"
 WEIGHT 1840
 
+"RPG-2 Mortar 60"
+"40 mm (RPG-2)"
+2000
+120
+0.9
+0
+0
+0
+0
+0
+0
+0
+1
+0
+"Weapon\Shoot\Silencer\None"
+"None"
+"Items\rpg7_grenade1_fly.act"
+330
+ACTOR "Items\rpg2_G.act"
+IMAGE "rpg2_G.e5b"
+WEIGHT 1840
+
 "Pallad 40x47"
 "40x47"
 170
@@ -3642,52 +3620,6 @@ WEIGHT 1840
 ACTOR "Items\qlg91granadaair.act"
 IMAGE "qlg91grenadepicsmoke.dds"
 WEIGHT 250
-
-".410 Bore Buckshot N4"
-"410 caliber"
-1.34
-332
-2
-0.241
-0.2312
-0.0748
-0.04
-0.004
-0.005
-0.34
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12gaSlug_case.act"
-"Items\slug.act"
-130
-ACTOR "Items\12gaSlug.act"
-IMAGE "12ga_slugs.e5b"
-WEIGHT 17.22
-SHOTGUN 9 1 1
-
-".410 Bore Flechette"
-"410 caliber"
-1
-539
-2.5
-0.156
-0.1013
-0.7791
-0.02
-0.0016
-0.0055
-0.22
-2.5
-1
-"Weapon\Shoot\Silencer\None"
-"Items\12gaSlug_case.act"
-"Items\flechette_arrow.act"
-150
-ACTOR "Items\12gaSlug.act"
-IMAGE "12ga_slugs.e5b"
-WEIGHT 22.32
-SHOTGUN 7 2 2
 
 ".410 Bore Slug"
 "410 caliber"
@@ -3733,6 +3665,140 @@ ACTOR "Items\12gaSlug.act"
 IMAGE "12ga_slugs.e5b"
 WEIGHT 19.22
 SHOTGUN 3 1 1
+
+".410 Bore Flechette"
+"410 caliber"
+1
+539
+2.5
+0.156
+0.1013
+0.7791
+0.02
+0.0016
+0.0055
+0.22
+2.5
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12gaSlug_case.act"
+"Items\flechette_arrow.act"
+150
+ACTOR "Items\12gaSlug.act"
+IMAGE "12ga_slugs.e5b"
+WEIGHT 22.32
+SHOTGUN 7 2 2
+
+".410 Bore Buckshot N4"
+"410 caliber"
+1.34
+332
+2
+0.241
+0.2312
+0.0748
+0.04
+0.004
+0.005
+0.34
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\12gaSlug_case.act"
+"Items\slug.act"
+130
+ACTOR "Items\12gaSlug.act"
+IMAGE "12ga_slugs.e5b"
+WEIGHT 17.22
+SHOTGUN 9 1 1
+
+"7N6 (5.45mm)"
+"5.45ץ39 לל"
+3.43
+890
+1.7
+0.115
+0.121
+0.133
+0.034
+0.003
+0.003
+0.25
+1
+1
+"Weapon\Shoot\Silencer\Silencer545.wav"
+"Items\39mm-case.act"
+"Items\7n6-bullet.act"
+800
+ACTOR "Items\7n6.act"
+IMAGE "ammo-7N6.e5b"
+WEIGHT 10.74
+
+"7u1 (5x45mm)"
+"5.45ץ39 לל"
+5.261
+303
+2
+0.38
+0.398
+0.43
+0.022
+0.003
+0.0032
+0.2
+0.5
+1
+"Weapon\Shoot\Silencer\Silencer545.wav"
+"Items\39mm-case.act"
+"Items\7u1-bullet.act"
+400
+ACTOR "Items\7u1.act"
+IMAGE "ammo-7N22.e5b"
+WEIGHT 10.91
+
+"Tiger (5.45mm)"
+"5.45ץ39 לל"
+3.54
+881
+1.7
+0.117
+0.122
+0.128
+0.034
+0.003
+0.003
+0.25
+1
+1
+"Weapon\Shoot\Silencer\Silencer545.wav"
+"Items\39mm-case.act"
+"Items\7n6-bullet.act"
+800
+ACTOR "Items\7n6.act"
+IMAGE "ammo-7N6.e5b"
+WEIGHT 10.48
+
+"7N22 (5.45mm)"
+"5.45ץ39 לל"
+3.7
+880
+1.7
+0.1
+0.106
+0.23
+0.02
+0.003
+0.003
+0.2
+1.5
+1
+"Weapon\Shoot\Silencer\Silencer545.wav"
+"Items\39mm-case.act"
+"Items\7n22-bullet.act"
+800
+ACTOR "Items\7n22.act"
+IMAGE "ammo-7N22.e5b"
+WEIGHT 10.36
 
 "WPA (5x45mm)"
 "5.45ץ39 לל"
@@ -3800,190 +3866,14 @@ ACTOR "Items\7n6.act"
 IMAGE "ammo-7N6.e5b"
 WEIGHT 10.68
 
-"7u1 (5x45mm)"
-"5.45ץ39 לל"
-5.261
-303
-2
-0.38
-0.398
-0.43
-0.022
-0.003
-0.0032
-0.2
-0.5
-1
-"Weapon\Shoot\Silencer\Silencer545.wav"
-"Items\39mm-case.act"
-"Items\7u1-bullet.act"
-400
-ACTOR "Items\7u1.act"
-IMAGE "ammo-7N22.e5b"
-WEIGHT 10.91
-
-"7N6 (5.45mm)"
-"5.45ץ39 לל"
-3.43
-890
-1.7
-0.115
-0.121
-0.133
-0.034
-0.003
-0.003
-0.25
-1
-1
-"Weapon\Shoot\Silencer\Silencer545.wav"
-"Items\39mm-case.act"
-"Items\7n6-bullet.act"
-800
-ACTOR "Items\7n6.act"
-IMAGE "ammo-7N6.e5b"
-WEIGHT 10.74
-
-"7N22 (5.45mm)"
-"5.45ץ39 לל"
-3.7
-880
-1.7
-0.1
-0.106
-0.23
-0.02
-0.003
-0.003
-0.2
-1.5
-1
-"Weapon\Shoot\Silencer\Silencer545.wav"
-"Items\39mm-case.act"
-"Items\7n22-bullet.act"
-800
-ACTOR "Items\7n22.act"
-IMAGE "ammo-7N22.e5b"
-WEIGHT 10.36
-
-"Tiger (5.45mm)"
-"5.45ץ39 לל"
-3.54
-881
-1.7
-0.117
-0.122
-0.128
-0.034
-0.003
-0.003
-0.25
-1
-1
-"Weapon\Shoot\Silencer\Silencer545.wav"
-"Items\39mm-case.act"
-"Items\7n6-bullet.act"
-800
-ACTOR "Items\7n6.act"
-IMAGE "ammo-7N6.e5b"
-WEIGHT 10.48
-
-".223Aguila FMJ"
+"M193 (5.56mm)"
 "5.56ץ45 לל"
-3.5
-950
-2
-0.101
-0.102
-0.096
-0.2
-0.003
-0.003
-0.3
-1
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-800
-ACTOR "Items\M193.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 11.62
-
-"5.56 Noveske"
-"5.56ץ45 לל"
-3.511
-949
-2
-0.101
-0.081
-0.096
-0.023
-0.0029
-0.0031
-0.3
-1
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-800
-ACTOR "Items\M193.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 11.89
-
-"faulty 5.56x45"
-"5.56ץ45 לל"
-3.5
-450
-5
-0.29
-0.26
-0.287
-0.2
-0.005
-0.005
-0.3
-3
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-800
-ACTOR "Items\M193.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 11.12
-
-".223ASR (5.56mm)"
-"5.56ץ45 לל"
-6.76
-315
-1
-0.311
-0.326
-0.3
-0.05
-0.003
-0.0044
-0.3
-0.5
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\45mm-case.act"
-"Items\223asr-bullet.act"
-400
-ACTOR "Items\223asr.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 12.21
-
-"Remington JHP (5.56mm)"
-"5.56ץ45 לל"
-5
-895
-1.7
-0.0989373711483813
-0.0924355045411489
-0.062
+4.15
+930
+1.6
+0.091
+0.094
+0.092
 0.025
 0.003
 0.003
@@ -3996,7 +3886,7 @@ WEIGHT 12.21
 800
 ACTOR "Items\M193.act"
 IMAGE "ammo-M193.e5b"
-WEIGHT 12.37
+WEIGHT 11.23
 
 "5.56 SN (5.56mm)"
 "5.56ץ45 לל"
@@ -4020,28 +3910,6 @@ ACTOR "Items\M955.act"
 IMAGE "ammo-M955.e5b"
 WEIGHT 11.96
 
-"M193 (5.56mm)"
-"5.56ץ45 לל"
-4.15
-930
-1.6
-0.091
-0.094
-0.092
-0.025
-0.003
-0.003
-0.25
-1
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-800
-ACTOR "Items\M193.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 11.23
-
 "M955 AP (5.56mm)"
 "5.56ץ45 לל"
 3.37
@@ -4063,28 +3931,6 @@ WEIGHT 11.23
 ACTOR "Items\M955.act"
 IMAGE "ammo-M955.e5b"
 WEIGHT 12.25
-
-"5.56x45 Duplex"
-"5.56ץ45 לל"
-4.174
-923
-1.9
-0.0899
-0.095
-0.074
-0.031
-0.0023
-0.0023
-0.22
-2
-1
-"Weapon\Shoot\Silencer\Silencer556.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-700
-ACTOR "Items\M193.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 11.42
 
 "5.56 FMJ Ball"
 "5.56ץ45 לל"
@@ -4108,27 +3954,137 @@ ACTOR "Items\M193.act"
 IMAGE "ammo-M193.e5b"
 WEIGHT 11.53
 
-"SS193 SS (5.7mm)"
-"5.7ץ28 לל"
-5.0206
-320
+"5.56x45 Duplex"
+"5.56ץ45 לל"
+4.174
+923
+1.9
+0.0899
+0.095
+0.074
+0.031
+0.0023
+0.0023
+0.22
 2
-0.3
-0.38
-0.31
-0.02
-0.002
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+700
+ACTOR "Items\M193.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 11.42
+
+"Remington JHP (5.56mm)"
+"5.56ץ45 לל"
+5
+895
+1.7
+0.0989373711483813
+0.0924355045411489
+0.062
+0.025
 0.003
+0.003
+0.25
+1
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+800
+ACTOR "Items\M193.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 12.37
+
+"5.56 Noveske"
+"5.56ץ45 לל"
+3.511
+949
+2
+0.101
+0.081
+0.096
+0.023
+0.0029
+0.0031
+0.3
+1
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+800
+ACTOR "Items\M193.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 11.89
+
+".223Aguila FMJ"
+"5.56ץ45 לל"
+3.5
+950
+2
+0.101
+0.102
+0.096
 0.2
+0.003
+0.003
+0.3
+1
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+800
+ACTOR "Items\M193.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 11.62
+
+".223ASR (5.56mm)"
+"5.56ץ45 לל"
+6.76
+315
+1
+0.311
+0.326
+0.3
+0.05
+0.003
+0.0044
+0.3
 0.5
 1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\28mm-case.act"
-"Items\ss193-bullet.act"
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\45mm-case.act"
+"Items\223asr-bullet.act"
 400
-ACTOR "Items\ss193.act"
-IMAGE "ammo-ss193.e5b"
-WEIGHT 7.68
+ACTOR "Items\223asr.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 12.21
+
+"faulty 5.56x45"
+"5.56ץ45 לל"
+3.5
+450
+5
+0.29
+0.26
+0.287
+0.2
+0.005
+0.005
+0.3
+3
+1
+"Weapon\Shoot\Silencer\Silencer556.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+800
+ACTOR "Items\M193.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 11.12
 
 "SS190 Ball (5.7mm)"
 "5.7ץ28 לל"
@@ -4174,27 +4130,27 @@ ACTOR "Items\ss192.act"
 IMAGE "ammo-ss192.e5b"
 WEIGHT 7.99
 
-"DAP92"
-"5.8x21mm"
-2.916
-480
-1.8
-0.3788
-0.36422
-0.6212
-0.019
-0.0024
+"SS193 SS (5.7mm)"
+"5.7ץ28 לל"
+5.0206
+320
+2
+0.3
+0.38
+0.31
+0.02
+0.002
 0.003
-0.19
-1
+0.2
+0.5
 1
 "Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\21mm_case2.act"
-"Items\sp10_bullet.act"
-350
-ACTOR "Items\sp10.act"
-IMAGE "ammo-9x21ap.e5b"
-WEIGHT 6.15
+"Items\28mm-case.act"
+"Items\ss193-bullet.act"
+400
+ACTOR "Items\ss193.act"
+IMAGE "ammo-ss193.e5b"
+WEIGHT 7.68
 
 "DCV05"
 "5.8x21mm"
@@ -4217,6 +4173,50 @@ WEIGHT 6.15
 ACTOR "Items\sp10.act"
 IMAGE "ammo-9x21ap.e5b"
 WEIGHT 6.92
+
+"DAP92"
+"5.8x21mm"
+2.916
+480
+1.8
+0.3788
+0.36422
+0.6212
+0.019
+0.0024
+0.003
+0.19
+1
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\21mm_case2.act"
+"Items\sp10_bullet.act"
+350
+ACTOR "Items\sp10.act"
+IMAGE "ammo-9x21ap.e5b"
+WEIGHT 6.15
+
+"DBP10"
+"5.8x42mm"
+4.6007
+915
+1.5
+0.08024
+0.07834
+0.1685
+0.026
+0.0031
+0.0033
+0.35
+1.5
+1
+"Weapon\Shoot\Silencer\Silencer545.wav"
+"Items\39mm-case.act"
+"Items\7n22-bullet.act"
+840
+ACTOR "Items\7n22.act"
+IMAGE "ammo-7N22.e5b"
+WEIGHT 11.56
 
 "DBP88"
 "5.8x42mm"
@@ -4262,28 +4262,6 @@ ACTOR "Items\7n6.act"
 IMAGE "ammo-7N6.e5b"
 WEIGHT 11.27
 
-"DBP10"
-"5.8x42mm"
-4.6007
-915
-1.5
-0.08024
-0.07834
-0.1685
-0.026
-0.0031
-0.0033
-0.35
-1.5
-1
-"Weapon\Shoot\Silencer\Silencer545.wav"
-"Items\39mm-case.act"
-"Items\7n22-bullet.act"
-840
-ACTOR "Items\7n22.act"
-IMAGE "ammo-7N22.e5b"
-WEIGHT 11.56
-
 "6 mm Airsoft pellets"
 "6 לל"
 0.2
@@ -4305,28 +4283,6 @@ WEIGHT 11.56
 ACTOR "Items\airsoftpellets.act"
 IMAGE "airsoftpellets.e5b"
 WEIGHT 0.23
-
-"6.25x25mm AP"
-"6.25x25mm"
-2.1058
-721
-1.8
-0.24
-0.27
-0.47
-0.027
-0.02
-0.0023
-0.25
-1.5
-1
-"Weapon\Shoot\Silencer\mp7a3_sil.wav"
-"Items\28mm-case.act"
-"Items\ss190-bullet.act"
-450
-ACTOR "Items\ss190.act"
-IMAGE "ammo-ss190.e5b"
-WEIGHT 8.62
 
 "6.25x25mm FMJ"
 "6.25x25mm"
@@ -4350,28 +4306,27 @@ ACTOR "Items\ss190.act"
 IMAGE "ammo-ss190.e5b"
 WEIGHT 8.14
 
-
-"6.5mm Grendel HP"
-"6.5mm Grendel"
-8.4238
-770
-1.2
-0.0803
-0.083
-0.0625
-0.016
-0.0233
-0.0025
-0.15
+"6.25x25mm AP"
+"6.25x25mm"
+2.1058
+721
+1.8
+0.24
+0.27
+0.47
+0.027
+0.02
+0.0023
+0.25
+1.5
 1
-1
-"Weapon\Shoot\Silencer\acrSil2d.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-800
-ACTOR "Items\TTSX68955.act"
-IMAGE "ammo-M955.e5b"
-WEIGHT 14.86
+"Weapon\Shoot\Silencer\mp7a3_sil.wav"
+"Items\28mm-case.act"
+"Items\ss190-bullet.act"
+450
+ACTOR "Items\ss190.act"
+IMAGE "ammo-ss190.e5b"
+WEIGHT 8.62
 
 "6.5mm Grendel FMJ"
 "6.5mm Grendel"
@@ -4394,6 +4349,28 @@ WEIGHT 14.86
 ACTOR "Items\TTSX68955.act"
 IMAGE "ammo-M955.e5b"
 WEIGHT 14.58
+
+"6.5mm Grendel HP"
+"6.5mm Grendel"
+8.4238
+770
+1.2
+0.0803
+0.083
+0.0625
+0.016
+0.0233
+0.0025
+0.15
+1
+1
+"Weapon\Shoot\Silencer\acrSil2d.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+800
+ACTOR "Items\TTSX68955.act"
+IMAGE "ammo-M955.e5b"
+WEIGHT 14.86
 
 "6.5mm Grendel AP"
 "6.5mm Grendel"
@@ -4483,50 +4460,6 @@ ACTOR "Items\M193.act"
 IMAGE "ammo-M193.e5b"
 WEIGHT 19.28
 
-"Ammo 6.8 SPC TTSX"
-"6.8x43 mm"
-6.16
-838
-1.7
-0.093
-0.0913
-0.068
-0.03
-0.03
-0.0034
-0.3
-1.6
-1
-"Weapon\Shoot\Silencer\acrSil2d.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-820
-ACTOR "Items\TTSX68955.act"
-IMAGE "ammo-M955.e5b"
-WEIGHT 16.69
-
-"6.8x43 FMJ Ball ammo"
-"6.8x43 mm"
-7.45
-785
-1.7
-0.0762
-0.07241
-0.069
-0.03
-0.03
-0.0034
-0.3
-3
-1
-"Weapon\Shoot\Silencer\acrSil2d.wav"
-"Items\45mm-case.act"
-"Items\M193-bullet.act"
-800
-ACTOR "Items\M193.act"
-IMAGE "ammo-M193.e5b"
-WEIGHT 16.12
-
 "6.8x43 AP ammo"
 "6.8x43 mm"
 7.45
@@ -4570,6 +4503,50 @@ WEIGHT 16.71
 ACTOR "Items\M193.act"
 IMAGE "ammo-M193.e5b"
 WEIGHT 17.23
+
+"6.8x43 FMJ Ball ammo"
+"6.8x43 mm"
+7.45
+785
+1.7
+0.0762
+0.07241
+0.069
+0.03
+0.03
+0.0034
+0.3
+3
+1
+"Weapon\Shoot\Silencer\acrSil2d.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+800
+ACTOR "Items\M193.act"
+IMAGE "ammo-M193.e5b"
+WEIGHT 16.12
+
+"Ammo 6.8 SPC TTSX"
+"6.8x43 mm"
+6.16
+838
+1.7
+0.093
+0.0913
+0.068
+0.03
+0.03
+0.0034
+0.3
+1.6
+1
+"Weapon\Shoot\Silencer\acrSil2d.wav"
+"Items\45mm-case.act"
+"Items\M193-bullet.act"
+820
+ACTOR "Items\TTSX68955.act"
+IMAGE "ammo-M955.e5b"
+WEIGHT 16.69
 
 "RPG-18 Grenade"
 "64 לל (ÐÏÃ-18)"
@@ -4684,72 +4661,6 @@ ACTOR "Items\762us.act"
 IMAGE "ammo-7N23.e5b"
 WEIGHT 26.44
 
-"Palinero 7.62x25"
-"7.62ץ25 לל"
-5.724
-406
-2
-0.285
-0.31
-0.24
-0.032
-0.0028
-0.0021
-0.35
-2
-1
-"Weapon\Shoot\Silencer\None"
-"Items\762x25_case.act"
-"Items\762x25_bullet.act"
-480
-ACTOR "Items\762x25.act"
-IMAGE "ammo-762x25fmj.e5b"
-WEIGHT 13.67
-
-"7.62x25mm (7.63mm mauser)"
-"7.62ץ25 לל"
-5.101
-401
-2.1
-0.31
-0.323
-0.26
-0.038
-0.0026
-0.0022
-0.25
-0.5
-1
-"Weapon\Shoot\Silencer\None"
-"Items\762x25_case.act"
-"Items\762x25_bullet.act"
-500
-ACTOR "Items\762x25.act"
-IMAGE "ammo-762x25fmj.e5b"
-WEIGHT 12.38
-
-"7.62x25mm FMJ"
-"7.62ץ25 לל"
-5.5
-430
-2
-0.269
-0.2993
-0.226
-0.04
-0.003
-0.0024
-0.25
-1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\762x25_case.act"
-"Items\762x25_bullet.act"
-500
-ACTOR "Items\762x25.act"
-IMAGE "ammo-762x25fmj.e5b"
-WEIGHT 13.41
-
 "China Sport 7.62x25"
 "7.62ץ25 לל"
 5.1
@@ -4816,181 +4727,71 @@ ACTOR "Items\762x25.act"
 IMAGE "ammo-762x25fmj.e5b"
 WEIGHT 13.99
 
-"57-Faulty-N-231S"
-"7.62ץ39 לל"
-7.564
-680
-5
-0.062
-0.073
-0.07
-0.2
-0.005
-0.005
-0.3
+"7.62x25mm FMJ"
+"7.62ץ25 לל"
+5.5
+430
+2
+0.269
+0.2993
+0.226
+0.04
+0.003
+0.0024
+0.25
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\762x25_case.act"
+"Items\762x25_bullet.act"
+500
+ACTOR "Items\762x25.act"
+IMAGE "ammo-762x25fmj.e5b"
+WEIGHT 13.41
+
+"Palinero 7.62x25"
+"7.62ץ25 לל"
+5.724
+406
+2
+0.285
+0.31
+0.24
+0.032
+0.0028
+0.0021
+0.35
 2
 1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\762x39-case.act"
-"Items\762x39-bullet.act"
-600
-ACTOR "Items\762x39-ammo.act"
-IMAGE "762x39-ammo.e5b"
-WEIGHT 19.32
+"Weapon\Shoot\Silencer\None"
+"Items\762x25_case.act"
+"Items\762x25_bullet.act"
+480
+ACTOR "Items\762x25.act"
+IMAGE "ammo-762x25fmj.e5b"
+WEIGHT 13.67
 
-"7N23 (7.62x39mm)"
-"7.62ץ39 לל"
-8
-730
-1.5
-0.0686
-0.080145
-0.162
-0.011
-0.003
-0.002
+"7.62x25mm (7.63mm mauser)"
+"7.62ץ25 לל"
+5.101
+401
+2.1
+0.31
+0.323
+0.26
+0.038
+0.0026
+0.0022
 0.25
-1.5
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\39mm-case.act"
-"Items\7n23-bullet.act"
-800
-ACTOR "Items\7n23.act"
-IMAGE "ammo-7N23.e5b"
-WEIGHT 19.61
-
-"Norinco (7.62x39mm)"
-"7.62ץ39 לל"
-8.427
-702
-1.5
-0.07
-0.074
-0.12
-0.031
-0.0032
-0.0031
-0.22
-1.8
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\762x39-case.act"
-"Items\762x39-bullet.act"
-800
-ACTOR "Items\762x39-ammo.act"
-IMAGE "762x39-ammo.e5b"
-WEIGHT 19.93
-
-"M67 (7.62x39mm)"
-"7.62ץ39 לל"
-8.037
-733
-1.3
-0.0753
-0.074
-0.08
-0.031
-0.003
-0.002
-0.22
-1
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\m67-case.act"
-"Items\m67-bullet.act"
-800
-ACTOR "Items\m67-ammo.act"
-IMAGE "m67-ammo.e5b"
-WEIGHT 19.37
-
-"US (7.62x39mm)"
-"7.62ץ39 לל"
-12.5
-300
-1
-0.177
-0.175
-0.199
-0.05
-0.004
-0.0051
-0.3
 0.5
 1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\39mm-case.act"
-"Items\762us-bullet.act"
-400
-ACTOR "Items\762us.act"
-IMAGE "ammo-7N23.e5b"
-WEIGHT 20.15
-
-"Prvi (7.62x39mm)"
-"7.62ץ39 לל"
-8.037
-733
-1.3
-0.0753
-0.074
-0.08
-0.031
-0.003
-0.002
-0.22
-1
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\m67-case.act"
-"Items\m67-bullet.act"
-800
-ACTOR "Items\m67-ammo.act"
-IMAGE "m67-ammo.e5b"
-WEIGHT 19.42
-
-"Winchester PDX JHP (7.62x39mm)"
-"7.62ץ39 לל"
-8.4602
-707
-1.5
-0.101
-0.0981
-0.0611
-0.029
-0.0036
-0.0028
-0.3
-1.2
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\762x39s-case.act"
-"Items\762x39s-bullet.act"
-800
-ACTOR "Items\762x39s-ammo.act"
-IMAGE "762x39s-ammo.e5b"
-WEIGHT 20.28
-
-"57-N-231S (7.62x39mm)"
-"7.62ץ39 לל"
-8.035
-715
-1.5
-0.0761
-0.076
-0.088
-0.022
-0.004
-0.003
-0.3
-1
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\39mm-case.act"
-"Items\57-N-231S-bullet.act"
-800
-ACTOR "Items\57-N-231S.act"
-IMAGE "ammo-57-N-231S.e5b"
-WEIGHT 19.25
+"Weapon\Shoot\Silencer\None"
+"Items\762x25_case.act"
+"Items\762x25_bullet.act"
+500
+ACTOR "Items\762x25.act"
+IMAGE "ammo-762x25fmj.e5b"
+WEIGHT 12.38
 
 "Barnaul JHP (7.62x39mm)"
 "7.62ץ39 לל"
@@ -5014,27 +4815,71 @@ ACTOR "Items\762x39s-ammo.act"
 IMAGE "762x39s-ammo.e5b"
 WEIGHT 19.79
 
-"SB (7.62x39mm)"
+"57-N-231S (7.62x39mm)"
 "7.62ץ39 לל"
-8
-710
-1.6
-0.074
+8.035
+715
+1.5
+0.0761
 0.076
-0.096
-0.2
+0.088
+0.022
 0.004
-0.004
+0.003
 0.3
 1
 1
 "Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\762x39-case.act"
-"Items\762x39-bullet.act"
+"Items\39mm-case.act"
+"Items\57-N-231S-bullet.act"
 800
-ACTOR "Items\762x39-ammo.act"
-IMAGE "762x39-ammo.e5b"
-WEIGHT 19.58
+ACTOR "Items\57-N-231S.act"
+IMAGE "ammo-57-N-231S.e5b"
+WEIGHT 19.25
+
+"Winchester PDX JHP (7.62x39mm)"
+"7.62ץ39 לל"
+8.4602
+707
+1.5
+0.101
+0.0981
+0.0611
+0.029
+0.0036
+0.0028
+0.3
+1.2
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\762x39s-case.act"
+"Items\762x39s-bullet.act"
+800
+ACTOR "Items\762x39s-ammo.act"
+IMAGE "762x39s-ammo.e5b"
+WEIGHT 20.28
+
+"BPZ 7.62x39"
+"7.62ץ39 לל"
+7.3
+762
+1.4
+0.0772
+0.0767
+0.07
+0.04
+0.036
+0.026
+0.28
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\39mm-case.act"
+"Items\57-N-231S-bullet.act"
+800
+ACTOR "Items\57-N-231S.act"
+IMAGE "ammo-57-N-231S.e5b"
+WEIGHT 19.62
 
 "7.62x39 FMJ Ball"
 "7.62ץ39 לל"
@@ -5058,27 +4903,159 @@ ACTOR "Items\57-N-231S.act"
 IMAGE "ammo-57-N-231S.e5b"
 WEIGHT 19.39
 
-"BPZ 7.62x39"
+"SB (7.62x39mm)"
 "7.62ץ39 לל"
-7.3
-762
-1.4
-0.745
-0.785
-0.11
-0.04
-0.036
-0.026
-0.28
+8
+710
+1.6
+0.074
+0.076
+0.096
+0.2
+0.004
+0.004
+0.3
 1
 1
 "Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\39mm-case.act"
-"Items\57-N-231S-bullet.act"
+"Items\762x39-case.act"
+"Items\762x39-bullet.act"
 800
-ACTOR "Items\57-N-231S.act"
-IMAGE "ammo-57-N-231S.e5b"
-WEIGHT 19.62
+ACTOR "Items\762x39-ammo.act"
+IMAGE "762x39-ammo.e5b"
+WEIGHT 19.58
+
+"Prvi (7.62x39mm)"
+"7.62ץ39 לל"
+8.121
+726
+1.4
+0.077
+0.075
+0.073
+0.033
+0.0031
+0.0024
+0.27
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\m67-case.act"
+"Items\m67-bullet.act"
+800
+ACTOR "Items\m67-ammo.act"
+IMAGE "m67-ammo.e5b"
+WEIGHT 19.96
+
+"7N23 (7.62x39mm)"
+"7.62ץ39 לל"
+8
+730
+1.5
+0.0686
+0.074
+0.162
+0.011
+0.003
+0.002
+0.25
+1.5
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\39mm-case.act"
+"Items\7n23-bullet.act"
+800
+ACTOR "Items\7n23.act"
+IMAGE "ammo-7N23.e5b"
+WEIGHT 19.61
+
+"57-Faulty-N-231S"
+"7.62ץ39 לל"
+7.564
+680
+5
+0.062
+0.073
+0.07
+0.2
+0.005
+0.005
+0.3
+2
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\762x39-case.act"
+"Items\762x39-bullet.act"
+600
+ACTOR "Items\762x39-ammo.act"
+IMAGE "762x39-ammo.e5b"
+WEIGHT 19.32
+
+"Norinco (7.62x39mm)"
+"7.62ץ39 לל"
+8.427
+702
+1.5
+0.07
+0.074
+0.12
+0.031
+0.0032
+0.0031
+0.22
+1.8
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\762x39-case.act"
+"Items\762x39-bullet.act"
+800
+ACTOR "Items\762x39-ammo.act"
+IMAGE "762x39-ammo.e5b"
+WEIGHT 19.93
+
+"US (7.62x39mm)"
+"7.62ץ39 לל"
+12.5
+300
+1
+0.177
+0.175
+0.199
+0.05
+0.004
+0.0051
+0.3
+0.5
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\39mm-case.act"
+"Items\762us-bullet.act"
+400
+ACTOR "Items\762us.act"
+IMAGE "ammo-7N23.e5b"
+WEIGHT 20.15
+
+"M67 (7.62x39mm)"
+"7.62ץ39 לל"
+8.037
+733
+1.3
+0.0753
+0.074
+0.08
+0.031
+0.003
+0.002
+0.22
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\m67-case.act"
+"Items\m67-bullet.act"
+800
+ACTOR "Items\m67-ammo.act"
+IMAGE "m67-ammo.e5b"
+WEIGHT 19.37
 
 "SP-4"
 "7.62ץ42 לל"
@@ -5102,17 +5079,127 @@ ACTOR "Items\sp4_ammo.act"
 IMAGE "sp4_ammo.e5b"
 WEIGHT 23.31
 
-"7.62x51 FMJ Ball"
+"Fabrica Militare .308"
 "7.62ץ51 לל"
-9.5
-824
+9.2
+817
+2.5
+0.072
+0.0716
+0.064
+0.2
+0.005
+0.005
+0.3
+0.76
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\51mm-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\m80.act"
+IMAGE "ammo-m80.e5b"
+WEIGHT 25.22
+
+"Core Lokt JHP .308"
+"7.62ץ51 לל"
+11.7
+741
+2.5
+0.084
+0.087
+0.05
+0.2
+0.004
+0.004
+0.3
+1.05
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\51mm-case.act"
+"Items\M993-bullet.act"
+800
+ACTOR "Items\M993.act"
+IMAGE "ammo-M993.e5b"
+WEIGHT 25.81
+
+"7.62x51 Duplex"
+"7.62ץ51 לל"
+8.7
+909
 0.8
-0.07
-0.066
-0.058
-0.025
-0.03
-0.0035
+0.0621
+0.061
+0.06
+0.02
+0.0025
+0.0033
+0.23
+1
+1
+"Weapon\Shoot\Silencer\AR_68_sil.wav"
+"Items\51mm-case.act"
+"Items\M993-bullet.act"
+800
+ACTOR "Items\M993.act"
+IMAGE "ammo-M993.e5b"
+WEIGHT 25.37
+
+"Ammo Fiocchi BTHP .308"
+"7.62ץ51 לל"
+10.7
+815
+0.8
+0.0744
+0.076
+0.0485
+0.017
+0.004
+0.003
+0.25
+1
+1
+"Weapon\Shoot\Silencer\AR_68_sil.wav"
+"Items\51mm-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\m80.act"
+IMAGE "ammo-m80.e5b"
+WEIGHT 25.53
+
+"M993 (7.62x51mm)"
+"7.62ץ51 לל"
+8.2
+910
+0.8
+0.06
+0.054
+0.115
+0.01
+0.003
+0.001
+0.25
+1.5
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\51mm-case.act"
+"Items\M993-bullet.act"
+800
+ACTOR "Items\M993.act"
+IMAGE "ammo-M993.e5b"
+WEIGHT 26.17
+
+"Defectuoso FM .308"
+"7.62ץ51 לל"
+9.2
+420
+5
+0.226
+0.23
+0.18
+0.2
+0.005
+0.005
 0.3
 2
 1
@@ -5146,6 +5233,28 @@ ACTOR "Items\M993.act"
 IMAGE "ammo-M993.e5b"
 WEIGHT 25.97
 
+"7.62x51 FMJ Ball"
+"7.62ץ51 לל"
+9.5
+824
+0.8
+0.07
+0.066
+0.058
+0.025
+0.03
+0.0035
+0.3
+2
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\51mm-case.act"
+"Items\m80-bullet.act"
+800
+ACTOR "Items\m80.act"
+IMAGE "ammo-m80.e5b"
+WEIGHT 25.33
+
 "PPU .308 SP"
 "7.62ץ51 לל"
 11.7
@@ -5167,28 +5276,6 @@ WEIGHT 25.97
 ACTOR "Items\M993.act"
 IMAGE "ammo-M993.e5b"
 WEIGHT 25.26
-
-"M80 (7.62x51mm)"
-"7.62ץ51 לל"
-9.5
-850
-0.8
-0.067
-0.066
-0.06
-0.017
-0.004
-0.003
-0.25
-1
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\m80.act"
-IMAGE "ammo-m80.e5b"
-WEIGHT 24.75
 
 "7.62x51 Noveske"
 "7.62ץ51 לל"
@@ -5212,137 +5299,115 @@ ACTOR "Items\m80.act"
 IMAGE "ammo-m80.e5b"
 WEIGHT 25.44
 
-"7.62x51 Duplex"
+"M80 (7.62x51mm)"
 "7.62ץ51 לל"
-8.7
-909
+9.5
+850
 0.8
-0.0621
-0.061
+0.067
+0.066
 0.06
-0.02
-0.0025
-0.0033
-0.23
-1
-1
-"Weapon\Shoot\Silencer\AR_68_sil.wav"
-"Items\51mm-case.act"
-"Items\M993-bullet.act"
-800
-ACTOR "Items\M993.act"
-IMAGE "ammo-M993.e5b"
-WEIGHT 25.37
-
-"Core Lokt JHP .308"
-"7.62ץ51 לל"
-11.7
-741
-2.5
-0.084
-0.087
-0.05
-0.2
-0.004
-0.004
-0.3
-1.05
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\M993-bullet.act"
-800
-ACTOR "Items\M993.act"
-IMAGE "ammo-M993.e5b"
-WEIGHT 25.81
-
-"Fabrica Militare .308"
-"7.62ץ51 לל"
-9.2
-817
-2.5
-0.072
-0.0716
-0.064
-0.2
-0.005
-0.005
-0.3
-0.76
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\m80.act"
-IMAGE "ammo-m80.e5b"
-WEIGHT 25.22
-
-"Defectuoso FM .308"
-"7.62ץ51 לל"
-9.2
-420
-5
-0.226
-0.23
-0.18
-0.2
-0.005
-0.005
-0.3
-2
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\m80-bullet.act"
-800
-ACTOR "Items\m80.act"
-IMAGE "ammo-m80.e5b"
-WEIGHT 25.33
-
-"M993 (7.62x51mm)"
-"7.62ץ51 לל"
-8.2
-910
-0.8
-0.06
-0.054
-0.115
-0.01
-0.003
-0.001
-0.25
-1.5
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\M993-bullet.act"
-800
-ACTOR "Items\M993.act"
-IMAGE "ammo-M993.e5b"
-WEIGHT 26.17
-
-"Ammo Fiocchi BTHP .308"
-"7.62ץ51 לל"
-10.7
-815
-0.8
-0.0744
-0.076
-0.0485
 0.017
 0.004
 0.003
 0.25
 1
 1
-"Weapon\Shoot\Silencer\AR_68_sil.wav"
+"Weapon\Shoot\Silencer\Silencer_762.wav"
 "Items\51mm-case.act"
 "Items\m80-bullet.act"
 800
 ACTOR "Items\m80.act"
 IMAGE "ammo-m80.e5b"
-WEIGHT 25.53
+WEIGHT 24.75
+
+"Tula Ammo (7.62x54R)"
+"7.62ץ54R לל"
+9.6
+810
+0.8
+0.0861
+0.092
+0.052
+0.026
+0.003
+0.003
+0.3
+0.94
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 30.32
+
+"Brown Bear (7.62x54mm)"
+"7.62ץ54R לל"
+13.2
+703
+0.8
+0.082
+0.086
+0.0517
+0.04
+0.004
+0.004
+0.3
+0.98
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\54R-case.act"
+"Items\7n14-bullet.act"
+800
+ACTOR "Items\7n14.act"
+IMAGE "ammo-7N14.e5b"
+WEIGHT 30.69
+
+"7N1 (7.62x54mm)"
+"7.62ץ54R לל"
+9.56
+820
+0.5
+0.075
+0.0738
+0.065
+0.03
+0.003
+0.001
+0.3
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 30.94
+
+"7.62x54R FMJ Ball"
+"7.62ץ54R לל"
+9.6
+790
+0.7
+0.0708
+0.0677412526083406
+0.065
+0.035
+0.03
+0.03
+0.35
+2
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 30.61
 
 "7N26 (7.62x54mm)"
 "7.62ץ54R לל"
@@ -5410,94 +5475,6 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 30.18
 
-"Brown Bear (7.62x54mm)"
-"7.62ץ54R לל"
-13.2
-703
-0.8
-0.082
-0.086
-0.0517
-0.04
-0.004
-0.004
-0.3
-0.98
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\54R-case.act"
-"Items\7n14-bullet.act"
-800
-ACTOR "Items\7n14.act"
-IMAGE "ammo-7N14.e5b"
-WEIGHT 30.69
-
-"Tula Ammo (7.62x54R)"
-"7.62ץ54R לל"
-9.6
-810
-0.8
-0.0861
-0.092
-0.052
-0.026
-0.003
-0.003
-0.3
-0.94
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-800
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 30.32
-
-"7.62x54R FMJ Ball"
-"7.62ץ54R לל"
-9.6
-790
-0.7
-0.0708
-0.0677412526083406
-0.065
-0.035
-0.03
-0.03
-0.35
-2
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-800
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 30.61
-
-"7N1 (7.62x54mm)"
-"7.62ץ54R לל"
-9.56
-820
-0.5
-0.075
-0.0738
-0.065
-0.03
-0.003
-0.001
-0.3
-1
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-800
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 30.94
-
 "7.62mm Nagant +P"
 "7.62x38mmR"
 6.689
@@ -5519,50 +5496,6 @@ WEIGHT 30.94
 ACTOR "Items\m882.act"
 IMAGE "ammo-M882.e5b"
 WEIGHT 14.87
-
-".32 ACP FMJ"
-"7.65x17"
-4.6007
-310
-1.8
-0.394
-0.571
-0.3882
-0.022
-0.002
-0.002
-0.2
-1
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm_bullet.act"
-310
-ACTOR "Items\9x18pmm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 7.26
-
-".32 ACP AP"
-"7.65x17"
-4.7303
-318
-1.9
-0.356
-0.5
-0.38
-0.019
-0.0026
-0.0021
-0.3
-1.5
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm_bullet.act"
-320
-ACTOR "Items\9x18pmm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 7.68
 
 ".32 ACP HP"
 "7.65x17"
@@ -5630,27 +5563,49 @@ ACTOR "Items\9x18pm_a.act"
 IMAGE "9mmpm.e5b"
 WEIGHT 7.24
 
-"7.7x58mm Arisaka FMJ"
-"7.7x58mm Arisaka"
-11.797
-737
-0.83
-0.089
-0.1
-0.041
+".32 ACP FMJ"
+"7.65x17"
+4.6007
+310
+1.8
+0.394
+0.571
+0.3882
+0.022
+0.002
+0.002
+0.2
+1
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm_bullet.act"
+310
+ACTOR "Items\9x18pmm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 7.26
+
+".32 ACP AP"
+"7.65x17"
+4.7303
+318
+1.9
+0.356
+0.5
+0.38
 0.019
-0.0035
-0.0024
-0.19
+0.0026
+0.0021
+0.3
+1.5
 1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\39mm-case.act"
-"Items\7n23-bullet.act"
-810
-ACTOR "Items\7n23.act"
-IMAGE "ammo-7N23.e5b"
-WEIGHT 28.37
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm_bullet.act"
+320
+ACTOR "Items\9x18pmm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 7.68
 
 "7.7x58mm Arisaka SURPLUS"
 "7.7x58mm Arisaka"
@@ -5673,6 +5628,28 @@ WEIGHT 28.37
 ACTOR "Items\57-N-231S.act"
 IMAGE "ammo-57-N-231S.e5b"
 WEIGHT 28.93
+
+"7.7x58mm Arisaka FMJ"
+"7.7x58mm Arisaka"
+11.797
+737
+0.83
+0.089
+0.1
+0.041
+0.019
+0.0035
+0.0024
+0.19
+1
+1
+"Weapon\Shoot\Silencer\None"
+"Items\39mm-case.act"
+"Items\7n23-bullet.act"
+810
+ACTOR "Items\7n23.act"
+IMAGE "ammo-7N23.e5b"
+WEIGHT 28.37
 
 "7.92mm DS AP"
 "7.92mm DS"
@@ -5718,50 +5695,6 @@ ACTOR "Items\3006bullet.act"
 IMAGE "ammo-m80.e5b"
 WEIGHT 17.31
 
-"7.92x57 Mauser HP"
-"7.92x57 Mauser"
-10.8521
-851
-0.6
-0.0759
-0.086
-0.041
-0.026
-0.026
-0.028
-0.27
-1.6
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\54R-case.act"
-"Items\7n1-bullet.act"
-800
-ACTOR "Items\7n1.act"
-IMAGE "ammo-7N1.e5b"
-WEIGHT 31.64
-
-"PPU 8mm SP"
-"7.92x57 Mauser"
-12.7
-750
-0.7
-0.076
-0.081
-0.0556
-0.2
-0.004
-0.004
-0.3
-1.03
-1
-"Weapon\Shoot\Silencer\Silencer_762.wav"
-"Items\51mm-case.act"
-"Items\M993-bullet.act"
-800
-ACTOR "Items\7.92x57_SP.act"
-IMAGE "ammo-M993.e5b"
-WEIGHT 31.37
-
 "7.92x57 FMJ"
 "7.92x57 Mauser"
 9.98
@@ -5806,6 +5739,50 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 31.13
 
+"PPU 8mm SP"
+"7.92x57 Mauser"
+12.7
+750
+0.7
+0.076
+0.081
+0.0556
+0.2
+0.004
+0.004
+0.3
+1.03
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\51mm-case.act"
+"Items\M993-bullet.act"
+800
+ACTOR "Items\7.92x57_SP.act"
+IMAGE "ammo-M993.e5b"
+WEIGHT 31.37
+
+"7.92x57 Mauser HP"
+"7.92x57 Mauser"
+10.8521
+851
+0.6
+0.0759
+0.086
+0.041
+0.026
+0.026
+0.028
+0.27
+1.6
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\54R-case.act"
+"Items\7n1-bullet.act"
+800
+ACTOR "Items\7n1.act"
+IMAGE "ammo-7N1.e5b"
+WEIGHT 31.64
+
 "7.92x94mm Patronen AP"
 "7.92x94mm Patronen"
 14.5797
@@ -5827,6 +5804,28 @@ WEIGHT 31.13
 ACTOR "Items\m80.act"
 IMAGE "AMMO-M85.E5B"
 WEIGHT 84.63
+
+"700 Nitro Round"
+"700 Nitro"
+64.8
+850
+0.7
+0.082
+0.071
+0.07
+0.01
+0.0035
+0.0015
+0.1
+1
+1
+"Weapon\Shoot\Silencer\Silencer_762.wav"
+"Items\700nitro_casing.act"
+"Items\700nitro_bullet.act"
+800
+ACTOR "Items\700nitro_ammo.act"
+IMAGE "AMMO-M85.E5B"
+WEIGHT 154
 
 "8x22mm Nambu"
 "8x22mm"
@@ -5872,27 +5871,27 @@ ACTOR "Items\762us.act"
 IMAGE "ammo-7N23.e5b"
 WEIGHT 27.87
 
-"9.3x64mm Brenneke 9SN"
+"9.3x64mm Brenneke HP"
 "9.3x64mm"
-16.5885
-770
-0.8
-0.0767
-0.0641
-0.0945
-0.02
-0.006
-0.03
-0.42
-1.5
+15.5434
+850
+0.9
+0.0824
+0.0932
+0.0387
+0.024
+0.0045
+0.0026
+0.26
+1
 1
 "Weapon\Shoot\Silencer\Silencer_762.wav"
 "Items\54R-case.act"
 "Items\7n1-bullet.act"
-780
+790
 ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
-WEIGHT 43.88
+WEIGHT 44.55
 
 "9.3x64mm Brenneke Surplus"
 "9.3x64mm"
@@ -5916,27 +5915,27 @@ ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
 WEIGHT 43.21
 
-"9.3x64mm Brenneke HP"
+"9.3x64mm Brenneke 9SN"
 "9.3x64mm"
-15.5434
-850
-0.9
-0.0824
-0.0932
-0.0387
-0.024
-0.0045
-0.0026
-0.26
-1
+16.5885
+770
+0.8
+0.0767
+0.0641
+0.0945
+0.02
+0.006
+0.03
+0.42
+1.5
 1
 "Weapon\Shoot\Silencer\Silencer_762.wav"
 "Items\54R-case.act"
 "Items\7n1-bullet.act"
-790
+780
 ACTOR "Items\7n1.act"
 IMAGE "ammo-7N1.e5b"
-WEIGHT 44.55
+WEIGHT 43.88
 
 "RPO-A Grenade"
 "93 לל (ÐÏÎ-À)"
@@ -5960,72 +5959,6 @@ ACTOR "Items\rpoa_grenade.act"
 USEPREFIX "_used"
 IMAGE "rpo_gren.e5b"
 WEIGHT 2099
-
-"7N16"
-"9ץ18 לל ÏÌ"
-5.5
-420
-1.8
-0.22
-0.24
-0.17
-0.017
-0.003
-0.0018
-0.15
-1.3
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pmm_bullet.act"
-400
-ACTOR "Items\9x18pmm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 9.62
-
-"PBM"
-"9ץ18 לל ÏÌ"
-3.551
-520
-1.8
-0.2027
-0.26
-0.19
-0.021
-0.002
-0.0015
-0.25
-2
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18ap_bullet.act"
-400
-ACTOR "Items\9x18ap_a.act"
-IMAGE "pbm_all.e5b"
-WEIGHT 9.89
-
-"PM ammo"
-"9ץ18 לל ÏÌ"
-6.14
-307
-1.5
-0.324
-0.389
-0.2
-0.018
-0.005
-0.005
-0.35
-2
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPM_case.act"
-"Items\9x18pm_bullet.act"
-400
-ACTOR "Items\9x18pm_a.act"
-IMAGE "9mmpm.e5b"
-WEIGHT 10.68
 
 "57-H-181C"
 "9ץ18 לל ÏÌ"
@@ -6071,181 +6004,71 @@ ACTOR "Items\9x18pmm2_a.act"
 IMAGE "9mmpm.e5b"
 WEIGHT 9.42
 
-"loose_ammo"
-"9ץ19 לל"
-6
-250
+"PM ammo"
+"9ץ18 לל ÏÌ"
+6.14
+307
 1.5
-0
-0
-0
-0
-0.003
-0.002
-0
-0.37
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\9x18pmm2_bullet.act"
-40
-ACTOR "Items\9x18pmm2_a.act"
-IMAGE "ammo-EXSTAR.e5b"
-WEIGHT 10.38
-
-"7N21 (9mm)"
-"9ץ19 לל"
-5.4
-450
-1.5
-0.208
-0.26
-0.28
-0.1
-0.002
-0.003
+0.324
+0.389
 0.2
-1.07
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9x19ap_case.act"
-"Items\9x18ap_bullet.act"
-400
-ACTOR "Items\9x19ap_7n21.act"
-IMAGE "pbm_all.e5b"
-WEIGHT 11.38
-
-"115grn 9x19mm"
-"9ץ19 לל"
-7.45
-376
-1.5
-0.231
-0.31
-0.202
-0.1
-0.003
-0.003
+0.018
+0.005
+0.005
 0.35
-0.89
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\m882-bullet.act"
-400
-ACTOR "Items\m882.act"
-IMAGE "ammo-M882.e5b"
-WEIGHT 10.87
-
-"9x19 Palinero"
-"9ץ19 לל"
-6.89
-399
-1.5
-0.2
-0.256
-0.196
-0.03
-0.0023
-0.0024
-0.23
 2
 1
 "Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9x19ap_case.act"
-"Items\9x18ap_bullet.act"
+"Items\9mmPM_case.act"
+"Items\9x18pm_bullet.act"
 400
-ACTOR "Items\9x19ap_7n21.act"
-IMAGE "pbm_all.e5b"
-WEIGHT 10.41
+ACTOR "Items\9x18pm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 10.68
 
-"9x19 FMJ Ball"
-"9ץ19 לל"
-7.25
-385
-1.5
-0.212
-0.28
+"7N16"
+"9ץ18 לל ÏÌ"
+5.5
+420
+1.8
+0.22
+0.24
 0.17
-0.022
-0.002
+0.017
 0.003
+0.0018
+0.15
+1.3
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPM_case.act"
+"Items\9x18pmm_bullet.act"
+400
+ACTOR "Items\9x18pmm_a.act"
+IMAGE "9mmpm.e5b"
+WEIGHT 9.62
+
+"PBM"
+"9ץ18 לל ÏÌ"
+3.551
+520
+1.8
+0.2027
+0.26
+0.19
+0.021
+0.002
+0.0015
 0.25
 2
 1
 "Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\m882-bullet.act"
+"Items\9mmPM_case.act"
+"Items\9x18ap_bullet.act"
 400
-ACTOR "Items\m882.act"
-IMAGE "ammo-M882.e5b"
-WEIGHT 10.46
-
-"124grn 9x19mm"
-"9ץ19 לל"
-8
-366
-1.5
-0.23
-0.261
-0.204
-0.1
-0.0035
-0.0035
-0.35
-0.88
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\m882-bullet.act"
-400
-ACTOR "Items\m882.act"
-IMAGE "ammo-M882.e5b"
-WEIGHT 10.62
-
-"Magtech+P+(9mm)"
-"9ץ19 לל"
-7.45
-405
-1.5
-0.272
-0.33
-0.14
-0.15
-0.003
-0.002
-0.1
-2.2
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\ex-star-bullet.act"
-400
-ACTOR "Items\ex-star.act"
-IMAGE "ammo-EXSTAR.e5b"
-WEIGHT 11.71
-
-"9mm FMJ"
-"9ץ19 לל"
-8.035
-373.2
-1.5
-0.225
-0.3
-0.21
-0.021
-0.0021
-0.0028
-0.22
-1
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\ex-star-bullet.act"
-400
-ACTOR "Items\ex-star.act"
-IMAGE "ammo-EXSTAR.e5b"
-WEIGHT 10.29
+ACTOR "Items\9x18ap_a.act"
+IMAGE "pbm_all.e5b"
+WEIGHT 9.89
 
 "M882 Ball (9mm)"
 "9ץ19 לל"
@@ -6269,19 +6092,41 @@ ACTOR "Items\m882.act"
 IMAGE "ammo-M882.e5b"
 WEIGHT 10.59
 
-"Cor-Bon +P(9mm)"
+"9mm FMJ"
+"9ץ19 לל"
+8.035
+373.2
+1.5
+0.225
+0.3
+0.21
+0.021
+0.0021
+0.0028
+0.22
+1
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\ex-star-bullet.act"
+400
+ACTOR "Items\ex-star.act"
+IMAGE "ammo-EXSTAR.e5b"
+WEIGHT 10.29
+
+"Magtech+P+(9mm)"
 "9ץ19 לל"
 7.45
-411
+405
 1.5
-0.25
-0.31
-0.13
+0.272
+0.33
+0.14
 0.15
 0.003
 0.002
 0.1
-1.8
+2.2
 1
 "Weapon\Shoot\Silencer\Silencer_9mm.wav"
 "Items\9mmPara-case.act"
@@ -6289,29 +6134,7 @@ WEIGHT 10.59
 400
 ACTOR "Items\ex-star.act"
 IMAGE "ammo-EXSTAR.e5b"
-WEIGHT 11.08
-
-"117grn JHP 9x19mm"
-"9ץ19 לל"
-7.58
-381
-1.5
-0.29
-0.36
-0.124
-0.15
-0.003
-0.002
-0.1
-1.07
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\ex-star-bullet.act"
-400
-ACTOR "Items\ex-star.act"
-IMAGE "ammo-EXSTAR.e5b"
-WEIGHT 11.16
+WEIGHT 11.71
 
 "EX-STAR (9mm)"
 "9ץ19 לל"
@@ -6335,49 +6158,181 @@ ACTOR "Items\ex-star.act"
 IMAGE "ammo-EXSTAR.e5b"
 WEIGHT 11.24
 
-"SP-6 (9x39mm)"
-"9ץ39 לל"
-16
-280
-0.5
-0.235
-0.29
-0.3
-0.011
-0.002
-0.0015
-0.15
-1
-1
-"Weapon\Shoot\Silencer\VSS-VAL.wav"
-"Items\39mm-case.act"
-"Items\sp6-bullet.act"
-400
-ACTOR "Items\sp6.act"
-IMAGE "ammo-sp6.e5b"
-WEIGHT 26.81
-
-"PAB-9 (9x39mm)"
-"9ץ39 לל"
-17.3
-310
-0.5
-0.175
-0.21
-0.21
-0.014
-0.003
-0.003
-0.3
+"117grn JHP 9x19mm"
+"9ץ19 לל"
+7.58
+381
 1.5
+0.29
+0.36
+0.124
+0.15
+0.003
+0.002
+0.1
+1.07
 1
-"Weapon\Shoot\Silencer\VSS-VAL.wav"
-"Items\39mm-case.act"
-"Items\sp6-bullet.act"
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\ex-star-bullet.act"
 400
-ACTOR "Items\sp5.act"
-IMAGE "ammo-pab9.e5b"
-WEIGHT 26.22
+ACTOR "Items\ex-star.act"
+IMAGE "ammo-EXSTAR.e5b"
+WEIGHT 11.16
+
+"Cor-Bon +P(9mm)"
+"9ץ19 לל"
+7.45
+411
+1.5
+0.25
+0.31
+0.13
+0.15
+0.003
+0.002
+0.1
+1.8
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\ex-star-bullet.act"
+400
+ACTOR "Items\ex-star.act"
+IMAGE "ammo-EXSTAR.e5b"
+WEIGHT 11.08
+
+"115grn 9x19mm"
+"9ץ19 לל"
+7.45
+376
+1.5
+0.231
+0.31
+0.202
+0.1
+0.003
+0.003
+0.35
+0.89
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\m882-bullet.act"
+400
+ACTOR "Items\m882.act"
+IMAGE "ammo-M882.e5b"
+WEIGHT 10.87
+
+"7N21 (9mm)"
+"9ץ19 לל"
+5.4
+450
+1.5
+0.208
+0.26
+0.28
+0.1
+0.002
+0.003
+0.2
+1.07
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9x19ap_case.act"
+"Items\9x18ap_bullet.act"
+400
+ACTOR "Items\9x19ap_7n21.act"
+IMAGE "pbm_all.e5b"
+WEIGHT 11.38
+
+"loose_ammo"
+"9ץ19 לל"
+6
+250
+1.5
+0
+0
+0
+0
+0.003
+0.002
+0
+0.37
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\9x18pmm2_bullet.act"
+40
+ACTOR "Items\9x18pmm2_a.act"
+IMAGE "ammo-EXSTAR.e5b"
+WEIGHT 10.38
+
+"124grn 9x19mm"
+"9ץ19 לל"
+8
+366
+1.5
+0.23
+0.261
+0.204
+0.1
+0.0035
+0.0035
+0.35
+0.88
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\m882-bullet.act"
+400
+ACTOR "Items\m882.act"
+IMAGE "ammo-M882.e5b"
+WEIGHT 10.62
+
+"9x19 FMJ Ball"
+"9ץ19 לל"
+7.25
+385
+1.5
+0.212
+0.28
+0.17
+0.022
+0.002
+0.003
+0.25
+2
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9mmPara-case.act"
+"Items\m882-bullet.act"
+400
+ACTOR "Items\m882.act"
+IMAGE "ammo-M882.e5b"
+WEIGHT 10.46
+
+"9x19 Palinero"
+"9ץ19 לל"
+6.89
+399
+1.5
+0.2
+0.256
+0.196
+0.03
+0.0023
+0.0024
+0.23
+2
+1
+"Weapon\Shoot\Silencer\Silencer_9mm.wav"
+"Items\9x19ap_case.act"
+"Items\9x18ap_bullet.act"
+400
+ACTOR "Items\9x19ap_7n21.act"
+IMAGE "pbm_all.e5b"
+WEIGHT 10.41
 
 "SP-5 (9x39mm)"
 "9ץ39 לל"
@@ -6423,27 +6378,49 @@ ACTOR "Items\sp5.act"
 IMAGE "ammo-pab9.e5b"
 WEIGHT 26.89
 
-"SP-11 (9x21mm)"
-"9x21 לל"
-6.7
-410
-1.5
-0.26
-0.275
-0.202
-0.04
+"SP-6 (9x39mm)"
+"9ץ39 לל"
+16
+280
+0.5
+0.235
+0.29
+0.3
+0.011
 0.002
-0.0025
-0.25
-2
+0.0015
+0.15
+1
 1
 "Weapon\Shoot\Silencer\VSS-VAL.wav"
-"Items\21mm_case.act"
-"Items\sp11_bullet.act"
-800
-ACTOR "Items\sp11.act"
-IMAGE "ammo-9x21fmj.e5b"
-WEIGHT 13.38
+"Items\39mm-case.act"
+"Items\sp6-bullet.act"
+400
+ACTOR "Items\sp6.act"
+IMAGE "ammo-sp6.e5b"
+WEIGHT 26.81
+
+"PAB-9 (9x39mm)"
+"9ץ39 לל"
+17.3
+310
+0.5
+0.175
+0.21
+0.21
+0.014
+0.003
+0.003
+0.3
+1.5
+1
+"Weapon\Shoot\Silencer\VSS-VAL.wav"
+"Items\39mm-case.act"
+"Items\sp6-bullet.act"
+400
+ACTOR "Items\sp5.act"
+IMAGE "ammo-pab9.e5b"
+WEIGHT 26.22
 
 "SP-10 (9ץ21mm)"
 "9x21 לל"
@@ -6467,27 +6444,27 @@ ACTOR "Items\sp10.act"
 IMAGE "ammo-9x21ap.e5b"
 WEIGHT 13.62
 
-"9x23mm HP"
-"9x23mm Largo"
-8.5332
-362
-1.8
-0.289
-0.33
-0.12
-0.026
-0.0026
+"SP-11 (9x21mm)"
+"9x21 לל"
+6.7
+410
+1.5
+0.26
+0.275
+0.202
+0.04
 0.002
-0.15
+0.0025
+0.25
+2
 1
-1
-"Weapon\Shoot\Silencer\None"
-"Items\9mmPara-case.act"
-"Items\m882-bullet.act"
-420
-ACTOR "Items\m882.act"
-IMAGE "ammo-M882.e5b"
-WEIGHT 12.62
+"Weapon\Shoot\Silencer\VSS-VAL.wav"
+"Items\21mm_case.act"
+"Items\sp11_bullet.act"
+800
+ACTOR "Items\sp11.act"
+IMAGE "ammo-9x21fmj.e5b"
+WEIGHT 13.38
 
 "9x23mm FMJ"
 "9x23mm Largo"
@@ -6511,71 +6488,27 @@ ACTOR "Items\m882.act"
 IMAGE "ammo-M882.e5b"
 WEIGHT 12.21
 
-"Def Wave"
-"None"
-28
-330
-1.5
-0.4
-0.99
-0.1
-0
-0
-0
-0
-1
-1
-"Weapon\Shoot\Silencer\None"
-"None"
-"None"
-150
-ACTOR "None"
-IMAGE "None"
-WEIGHT 1
-
-"Wave"
-"None"
-14
-330
-1.3
+"9x23mm HP"
+"9x23mm Largo"
+8.5332
+362
+1.8
+0.289
+0.33
+0.12
+0.026
+0.0026
+0.002
 0.15
-1.6
-0.05
-0
-0
-0
-0
 1
 1
 "Weapon\Shoot\Silencer\None"
-"None"
-"None"
-150
-ACTOR "None"
-IMAGE "None"
-WEIGHT 1
-
-"Expl"
-"None"
-14
-300
-1.3
-0.55
-0.35
-0.15
-0
-0
-0
-0
-1
-1
-"Weapon\Shoot\Silencer\None"
-"None"
-"None"
-150
-ACTOR "None"
-IMAGE "None"
-WEIGHT 1
+"Items\9mmPara-case.act"
+"Items\m882-bullet.act"
+420
+ACTOR "Items\m882.act"
+IMAGE "ammo-M882.e5b"
+WEIGHT 12.62
 
 "M84 Wave"
 "None"
@@ -6629,6 +6562,72 @@ WEIGHT 1
 0.5
 1.1
 0.3
+0
+0
+0
+0
+1
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"None"
+150
+ACTOR "None"
+IMAGE "None"
+WEIGHT 1
+
+"Def Wave"
+"None"
+28
+330
+1.5
+0.4
+0.99
+0.1
+0
+0
+0
+0
+1
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"None"
+150
+ACTOR "None"
+IMAGE "None"
+WEIGHT 1
+
+"Wave"
+"None"
+14
+330
+1.3
+0.15
+1.6
+0.05
+0
+0
+0
+0
+1
+1
+"Weapon\Shoot\Silencer\None"
+"None"
+"None"
+150
+ACTOR "None"
+IMAGE "None"
+WEIGHT 1
+
+"Expl"
+"None"
+14
+300
+1.3
+0.55
+0.35
+0.15
 0
 0
 0
