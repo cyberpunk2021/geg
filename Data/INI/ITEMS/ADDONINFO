@@ -866,7 +866,7 @@ Silencer		"Supressor - 5,56"
 Sound			"Addon\PlugSound\silenser_on2.wav""Addon\UnplugSound\silenser_off1.wav"
 SingleUse		0
 SilencingValue	0.74
-ACTOR			"Items\m4-96d.act"
+ACTOR			"Items\sil556novonovo.act"
 IMAGE			"m4-96d.e5b"
 WEIGHT			560
 Resource		2600
@@ -4996,7 +4996,7 @@ Distance		500
 ShadowImpact	0.9
 BlocksAiming	1
 ACTOR			"Items\leupold_rm.act"
-IMAGE			"leupold_rm.e5b"
+IMAGE			"leupold10x40_m24.e5b"
 WEIGHT			457
 Resource		2000
 //------------------------------------------------------
@@ -9219,6 +9219,23 @@ Addon			"rpknova74stock_folded"
 Stock			"built-in"
 Sound			"None""None"
 ACTOR			"Items\rpknova74m_stock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
+Addon			"HK416Cstock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\hk416cstock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"HK416Cstock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\hk416cstock_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0

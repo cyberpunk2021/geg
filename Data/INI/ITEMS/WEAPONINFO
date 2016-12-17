@@ -61324,6 +61324,84 @@ ACTOR			"Items\bcmbfh.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "HK416CQB PISTOL"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3352
+PrepareTime		0.26
+SingleFireTime	0.67
+BurstFireTime	0.07
+SpeedModifier	0.98
+Resource		1800
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	90
+RangeCurvature	5.7
+Balance			0.48
+Unfold			"HK416CQB PISTOL folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\HK416.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"HK416Cstock"
+ACTOR			"Items\hk416c.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "HK416CQB PISTOL folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3352
+PrepareTime		0.23
+SingleFireTime	0.67
+BurstFireTime	0.07
+SpeedModifier	0.98
+Resource		1800
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	70
+RangeCurvature	5.7
+Balance			0.48
+Unfold			"HK416CQB PISTOL"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\HK416.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"HK416Cstock_folded"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\hk416c.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRifle
+
 ITEM "HK416CQB"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
@@ -92314,6 +92392,228 @@ ACTOR			"Items\sv98_unique.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
+ITEM "Hunting Rifle Winchester Model 70 (223)"
+Class			Sniper
+Caliber			"30-06 Springfield"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.41
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"rem700 mag"
+ACTOR			"Items\win70.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Hunting Rifle Winchester Model 70 (3006)"
+Class			Sniper
+Caliber			"30-06 Springfield"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.41
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Remington 700 mag 30-06"
+ACTOR			"Items\win70.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Hunting Rifle Winchester Model 70 (308)"
+Class			Sniper
+Caliber			"7.62υ51 μμ"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.41
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Remington 700 mag .308"
+ACTOR			"Items\win70.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Hunting Rifle Winchester Model 70 (300)"
+Class			Sniper
+Caliber			".300 WM"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.41
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"REM700 300WM"
+ACTOR			"Items\win70.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Hunting Rifle Winchester Model 70 (338)"
+Class			Sniper
+Caliber			".338 Lapua"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.41
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"REM700 338"
+ACTOR			"Items\win70.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Hunting Rifle Winchester Model 70 (375)"
+Class			Sniper
+Caliber         ".375 H&H"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.41
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"rem 375 mag"
+ACTOR			"Items\win70.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
 ///////////-------------------
 
 ITEM "Hunting Rifle Marlin X7 (.30-06)"
@@ -92390,7 +92690,45 @@ ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"rem700 mag"
 StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
-ACTOR			"Items\remington700vs.act"
+ACTOR			"Items\rem700.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Sniper Rifle Remington 700P (5.56mm)"
+Class			Sniper
+Caliber			"5.56υ45 μμ"
+Weight			3980
+PrepareTime		0.53
+SingleFireTime	1.21
+BurstFireTime	0
+SpeedModifier	1.1
+Resource		1500
+DirtResource	80000
+MisfireProb		0.0001
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	212
+RangeCurvature	1.25
+Balance			0.29
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"rem700 mag"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+ACTOR			"Items\rem700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -92429,7 +92767,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag 30-06"
-ACTOR			"Items\remington700cdl.act"
+ACTOR			"Items\rem700.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -92461,14 +92799,14 @@ ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
 ShootSound		"Weapon\Shoot\m24_fire.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "M24_Scope"
+ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag 30-06"
-ACTOR			"Items\remington700sps.act"
+ACTOR			"Items\rem700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -92502,14 +92840,13 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		1 "M24_Scope"
 ATT Bipod		1 "SniperBipod"
-ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
+ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag .308"
 StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
-StdPlug			"7,62 Sniper Rifle Suppressor"
-ACTOR			"Items\remington700spst.act"
+ACTOR			"Items\rem700.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -92541,7 +92878,7 @@ ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
 ShootSound		"Weapon\Shoot\m24_fire.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		2 "WR""M24_Scope"
+ATT Scope		1 "WR"
 ATT Bipod		1 "SniperBipod"
 ATT Silencer	0
 ATT ILauncher	0
@@ -92549,7 +92886,7 @@ ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag .308"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (M24)"
-ACTOR			"Items\remington700pss.act"
+ACTOR			"Items\rem700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -92557,7 +92894,7 @@ HANDS			ahtBoltRifle
 
 ITEM "Sniper Rifle Remington 700 Police LTR (.308)"
 Class			Sniper
-Caliber			"7.62υ51 μμ"
+Caliber			".300 WM"
 Weight			4490
 PrepareTime		0.66
 SingleFireTime	1.37
@@ -92587,9 +92924,199 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Remington 700 mag .308"
+StdPlug			"REM700 300WM"
 StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
-ACTOR			"Items\remington700pltr.act"
+ACTOR			"Items\REM700.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Sniper Rifle Remington 700P (.300)"
+Class			Sniper
+Caliber			".300 WM"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.37
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"REM700 300WM"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+ACTOR			"Items\REM700p.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Sniper Rifle Remington 700 (.338)"
+Class			Sniper
+Caliber			".338 Lapua"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.37
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"REM700 338"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+ACTOR			"Items\REM700p.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Sniper Rifle Remington 700P (.338)"
+Class			Sniper
+Caliber			".338 Lapua"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.37
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT  Scope  	1 "WR"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"REM700 338"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+ACTOR			"Items\REM700p.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Sniper Rifle Remington 700 (.375)"
+Class			Sniper
+Caliber         ".375 H&H"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.37
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "M24_Scope"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"rem 375 mag"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+ACTOR			"Items\REM700p.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtBoltRifle
+
+ITEM "Sniper Rifle Remington 700P (.375)"
+Class			Sniper
+Caliber         ".375 H&H"
+Weight			4490
+PrepareTime		0.66
+SingleFireTime	1.37
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		2000
+DirtResource	80000
+MisfireProb		0.0002
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	210
+RangeCurvature	5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\sniper_slide_quick.wav"
+ShootSound		"Weapon\Shoot\m24_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT  Scope  	1 "WR"
+ATT Bipod		1 "SniperBipod"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"rem 375 mag"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+ACTOR			"Items\REM700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 

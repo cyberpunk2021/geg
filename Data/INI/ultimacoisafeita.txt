@@ -1969,7 +1969,6 @@ foldar bipods das armas bsm (intervention)
 rpk bipod lmgs bugada
 t65 handle modelo correto
 fazer as bullpups terem ahtBullpup
-verificar caixa "Ammo box (7N23)" = wolf
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 Norinco 7.62x39 transformar em AP
 
@@ -2164,4 +2163,26 @@ m1a scout
 "Carabine SOCOM16 WOOD RIS (7.62x51mm)"
 "Carabine SOCOM16 WOOD NO RIS (7.62x51mm)"
 
+"Sniper Rifle Remington 700 Police LTR (.308)" = 300 win mag
 
+
+"Sniper Rifle Remington 700P (5.56mm)"
+"Sniper Rifle Remington 700P (.300)"
+"Sniper Rifle Remington 700 (.338)"
+"Sniper Rifle Remington 700P (.338)"
+"Sniper Rifle Remington 700P (.375)"
+"Sniper Rifle Remington 700 (.375)"
+"Hunting Rifle Winchester Model 70 (223)"
+"Hunting Rifle Winchester Model 70 (3006)"
+"Hunting Rifle Winchester Model 70 (308)"
+"Hunting Rifle Winchester Model 70 (300)"
+"Hunting Rifle Winchester Model 70 (338)"
+"Hunting Rifle Winchester Model 70 (375)"
+
+
+"HK416CQB PISTOL"
+"HK416CQB PISTOL folded"
+
+
+"HK416Cstock"
+"HK416Cstock_folded"
