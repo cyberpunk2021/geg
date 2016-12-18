@@ -8847,7 +8847,7 @@ Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 Scope
 Collimator		"M16.e6b"
 Distance		56
-ACTOR			"Items\ss2handle.act"
+ACTOR			"Items\pindadss2novahandle.act"
 IMAGE			"ss2handle.e5b"
 WEIGHT			300
 Resource		10000
@@ -9236,6 +9236,23 @@ Addon			"HK416Cstock_folded"
 Stock			"built-in"
 Sound			"None""None"
 ACTOR			"Items\hk416cstock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
+Addon			"ss2novastock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\pindadss2novastock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"ss2novastock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\pindadss2novastock_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0

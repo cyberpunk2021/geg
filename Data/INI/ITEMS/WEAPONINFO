@@ -61360,7 +61360,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"HK416Cstock"
 ACTOR			"Items\hk416c.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "HK416CQB PISTOL folded"
@@ -61399,7 +61399,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"HK416Cstock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\hk416c.act"
-IMAGE			"2x3.e5b"
+IMAGE			"2x2.e5b"
 HANDS			ahtRifle
 
 ITEM "HK416CQB PISTOL FG"
@@ -61438,7 +61438,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"HK416Cstock"
 ACTOR			"Items\hk416cfg.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 ITEM "HK416CQB PISTOL FG folded"
@@ -61477,7 +61477,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"HK416Cstock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\hk416cfg.act"
-IMAGE			"2x3.e5b"
+IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
 ITEM "HK416CQB"
@@ -72668,16 +72668,15 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"SS2 Handle"
-StdPlug			"AK_5_butt2_open"
-StdPlug			"Frontgrip"
+StdPlug			"ss2novastock"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2v5.ACT"
+ACTOR			"Items\pindadss2novacqc.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -72709,16 +72708,15 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		1 "built-in"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"SS2 Handle"
-StdPlug			"Frontgrip"
-StdPlug			"AK_5_butt2_folded"
+StdPlug			"ss2novastock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2v5.ACT"
+ACTOR			"Items\pindadss2novacqc.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -72756,9 +72754,9 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"SS2 Handle"
-StdPlug			"AK_5_butt2_open"
+StdPlug			"ss2novastock"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2v2.ACT"
+ACTOR			"Items\pindadss2novacar.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -72796,9 +72794,9 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"SS2 Handle"
-StdPlug			"AK_5_butt2_folded"
+StdPlug			"ss2novastock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2v2.ACT"
+ACTOR			"Items\pindadss2novacar.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -72836,9 +72834,9 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"SS2 Handle"
-StdPlug			"AK_5_butt2_open"
+StdPlug			"ss2novastock"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2.ACT"
+ACTOR			"Items\pindadss2nova.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -72876,9 +72874,9 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"SS2 Handle"
-StdPlug			"AK_5_butt2_folded"
+StdPlug			"ss2novastock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2.ACT"
+ACTOR			"Items\pindadss2nova.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -90733,9 +90731,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-StdPlug			"AK_5_butt2_open"
+StdPlug			"ss2novastock"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2v4.ACT"
+ACTOR			"Items\pindadss2novadmr.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -90773,9 +90771,9 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-StdPlug			"AK_5_butt2_folded"
+StdPlug			"ss2novastock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
-ACTOR			"Items\SS2v4.ACT"
+ACTOR			"Items\pindadss2novadmr.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 

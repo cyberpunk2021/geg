@@ -2186,3 +2186,7 @@ m1a scout
 
 "HK416Cstock"
 "HK416Cstock_folded"
+
+
+"ss2novastock"
+"ss2novastock_folded"
