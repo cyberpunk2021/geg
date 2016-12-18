@@ -134,6 +134,8 @@
  ["AK 5C CAR folded"] = "AK 5C CAR FG folded",
  ["AK 5C"] = "AK 5C FG",
  ["AK 5C folded"] = "AK 5C FG folded",
+ ["HK416CQB PISTOL"] = "HK416CQB PISTOL FG",
+ ["HK416CQB PISTOL folded"] = "HK416CQB PISTOL FG folded",
  ["HK416CQB"] = "HK416CQB FG",
  ["HK416CQB folded"] = "HK416CQB FG folded",
  ["HK416 14DRS"] = "HK416 14DRS FG",
@@ -465,6 +467,8 @@ AddItemCombineHandler("Tactical grip", "AK 5C CAR", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "AK 5C CAR folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "AK 5C", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "AK 5C folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416CQB PISTOL", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK416CQB PISTOL folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416CQB folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "HK416 14DRS", AttachForegrip)
@@ -667,6 +671,8 @@ AddItemContextMenu("AK 5C CAR FG", action_detach_handle, DetachForegrip, CanDeta
 AddItemContextMenu("AK 5C CAR FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("AK 5C FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("AK 5C FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416CQB PISTOL FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK416CQB PISTOL FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416CQB FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("HK416 14DRS FG", action_detach_handle, DetachForegrip, CanDetachForegrip)

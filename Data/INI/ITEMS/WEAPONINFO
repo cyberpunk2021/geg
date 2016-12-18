@@ -61399,8 +61399,86 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"HK416Cstock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\hk416c.act"
-IMAGE			"2x2.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRifle
+
+ITEM "HK416CQB PISTOL FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3352
+PrepareTime		0.26
+SingleFireTime	0.65
+BurstFireTime	0.07
+SpeedModifier	0.98
+Resource		1800
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	90
+RangeCurvature	5.7
+Balance			0.48
+Unfold			"HK416CQB PISTOL FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\HK416.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"HK416Cstock"
+ACTOR			"Items\hk416cfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "HK416CQB PISTOL FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3352
+PrepareTime		0.23
+SingleFireTime	0.65
+BurstFireTime	0.07
+SpeedModifier	0.98
+Resource		1800
+DirtResource	220000
+MisfireProb		0.003
+HeatCapacity	65
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	70
+RangeCurvature	5.7
+Balance			0.48
+Unfold			"HK416CQB FG PISTOL"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\shoot\HK416.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"HK416Cstock_folded"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\hk416cfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
 
 ITEM "HK416CQB"
 Class			Rifle
