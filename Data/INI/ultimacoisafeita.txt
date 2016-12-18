@@ -2190,3 +2190,9 @@ m1a scout
 
 "ss2novastock"
 "ss2novastock_folded"
+
+
+"Krebs_butt"
+"Krebs_butt_folded"
+"Pindad SS2 CQC RIS"
+"Pindad SS2 CQC RIS folded"
