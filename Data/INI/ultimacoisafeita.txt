@@ -2196,3 +2196,7 @@ m1a scout
 "Krebs_butt_folded"
 "Pindad SS2 CQC RIS"
 "Pindad SS2 CQC RIS folded"
+
+
+"Submachine-gun Pindad PM3 (9mm)"
+"Submachine-gun Pindad PM3 (9mm) folded"
