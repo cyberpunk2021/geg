@@ -25999,6 +25999,164 @@ ACTOR			"Items\skorpion3fg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
+ITEM "Submachine-gun Pindad PM2 (9mm)"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun Pindad PM2 (9mm) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PindadPM2"
+StdPlug			"SMG ammo clip (PindadPM2/30)"
+StdPlug			"ss2novastock"
+ACTOR			"Items\pindadpm2.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun Pindad PM2 (9mm) folded"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun Pindad PM2 (9mm)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PindadPM2"
+StdPlug			"SMG ammo clip (PindadPM2/30)"
+StdPlug			"ss2novastock_folded"
+ACTOR			"Items\pindadpm2.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun Pindad PM2 SIL (9mm)"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun Pindad PM2 SIL (9mm) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "built-in"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PindadPM2"
+StdPlug			"SMG ammo clip (PindadPM2/30)"
+StdPlug			"Silencer PM2"
+StdPlug			"ss2novastock"
+ACTOR			"Items\pindadpm2siled.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun Pindad PM2 SIL (9mm) folded"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.61
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun Pindad PM2 SIL (9mm)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "built-in"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PindadPM2"
+StdPlug			"SMG ammo clip (PindadPM2/30)"
+StdPlug			"Silencer PM2"
+StdPlug			"ss2novastock_folded"
+ACTOR			"Items\pindadpm2siled.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
 ITEM "Submachine-gun Pindad PM3 (9mm)"
 Class			SMG
 Caliber			"9υ19 μμ"
@@ -26013,7 +26171,7 @@ MisfireProb		0.003
 HeatCapacity	47
 Single			1
 Burst			1
-CutOff			3
+CutOff			0
 BurstHitStart	1
 MaxRange		200
 EffectiveRange	95
@@ -26052,7 +26210,7 @@ MisfireProb		0.003
 HeatCapacity	47
 Single			1
 Burst			1
-CutOff			3
+CutOff			0
 BurstHitStart	1
 MaxRange		200
 EffectiveRange	75

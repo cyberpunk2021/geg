@@ -6551,6 +6551,16 @@ IMAGE			"RJF_silencer.e5b"
 WEIGHT			0
 Resource		2200
 //------------------------------------------------------
+Addon			"Silencer PM2"
+Silencer		"built-in"
+Sound			"Addon\PlugSound\""Addon\UnplugSound\"
+SingleUse		0
+SilencingValue	0.96
+ACTOR			"Items\k7novasil.act"
+IMAGE			"RJF_silencer.e5b"
+WEIGHT			0
+Resource		2200
+//------------------------------------------------------
 Addon			"Kpist M45 Butt"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"

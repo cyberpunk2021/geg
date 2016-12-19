@@ -1636,6 +1636,7 @@ IMAGE  "uzi_clip_32.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 
+
 CLIP  "SMG ammo clip (PP2000/20)""9υ19 μμ""PP2000"20 130 "None"1000 
 ACTOR  "Items\pp2000magmenor.act"
 USEPREFIX  ""
@@ -1667,6 +1668,12 @@ CLIP  "SMG ammo clip (PM98/25)""9υ19 μμ""PM98"25 130 "None"1000
 ACTOR  "Items\pm98mag25.act"
 USEPREFIX  ""
 IMAGE  "uzi_clip_25.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+
+CLIP  "SMG ammo clip (PindadPM2/30)""9υ19 μμ""PindadPM2"30 170 "None"1000 
+ACTOR  "Items\pindadpm2mag.act"
+USEPREFIX  ""
+IMAGE  "uzi_clip_32.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "SMG ammo clip (M5/15)""9υ19 μμ""HK MP 9mm"15 120 "Double SMG ammo clip (MP5/30)"1000 

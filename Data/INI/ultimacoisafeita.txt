@@ -2200,3 +2200,9 @@ m1a scout
 
 "Submachine-gun Pindad PM3 (9mm)"
 "Submachine-gun Pindad PM3 (9mm) folded"
+
+"Submachine-gun Pindad PM2 (9mm)"
+"Submachine-gun Pindad PM2 (9mm) folded"
+"Submachine-gun Pindad PM2 SIL (9mm)"
+"Submachine-gun Pindad PM2 SIL (9mm) folded"
+"SMG ammo clip (PindadPM2/30)"
