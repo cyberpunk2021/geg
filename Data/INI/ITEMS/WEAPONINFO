@@ -72756,7 +72756,7 @@ StdPlug			"ss2novastock"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\pindadss2novacqc.ACT"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Pindad SS2 CQC folded"
 Class			Rifle
@@ -72783,8 +72783,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		1 "Barrel Mount" blocks Light
+ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		2 "WR""SS2"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
@@ -72796,7 +72796,7 @@ StdPlug			"ss2novastock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\pindadss2novacqc.ACT"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Pindad SS2 CQC RIS"
 Class			Rifle
@@ -72823,10 +72823,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount" blocks Light
-ATT Light		1 "Barrel Mount" blocks Laser
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -72835,7 +72835,7 @@ StdPlug			"Krebs_butt"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\pindadss2novacqcris.ACT"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Pindad SS2 CQC RIS folded"
 Class			Rifle
@@ -72865,7 +72865,7 @@ ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -72874,7 +72874,7 @@ StdPlug			"Krebs_butt_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\pindadss2novacqcris.ACT"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Pindad SS2 CAR"
 Class			Rifle
@@ -72901,10 +72901,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount" blocks Light and Bipod
-ATT Light		1 "Barrel Mount" blocks Laser and Bipod
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Laser and Light and ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -72941,10 +72941,10 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
-ATT Laser		1 "Barrel Mount" blocks Light and Bipod
-ATT Light		1 "Barrel Mount" blocks Laser and Bipod
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
 ATT Scope		2 "WR""SS2"
-ATT Bipod		2 "AssaultBipod""BM1" blocks Laser and Light and ILauncher
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
