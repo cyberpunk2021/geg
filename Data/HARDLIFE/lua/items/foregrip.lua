@@ -15,6 +15,8 @@
  ["Assault Rifle MK18 CAR (5.56mm) folded"] = "Assault Rifle MK18 CAR FG (5.56mm) folded",
  ["Assault Rifle MK18 CQC (5.56mm)"] = "Assault Rifle MK18 CQC FG (5.56mm)",
  ["Assault Rifle MK18 CQC (5.56mm) folded"] = "Assault Rifle MK18 CQC FG (5.56mm) folded",
+ ["Pindad SS2 CQC RIS"] = "Pindad SS2 CQC RIS FG",
+ ["Pindad SS2 CQC RIS folded"] = "Pindad SS2 CQC RIS FG folded",
  ["Wilson NATO"] = "Wilson NATO FG",
  ["Wilson NATO folded"] = "Wilson NATO FG folded",
  ["Wilson SPC"] = "Wilson SPC FG",
@@ -348,6 +350,8 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CAR (5.56mm)", Attach
 AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CAR (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CQC (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle MK18 CQC (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Pindad SS2 CQC RIS", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Pindad SS2 CQC RIS folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Wilson NATO", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Wilson NATO folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Wilson SPC", AttachForegrip)
@@ -552,6 +556,8 @@ AddItemContextMenu("Assault Rifle MK18 CAR FG (5.56mm)", action_detach_handle, D
 AddItemContextMenu("Assault Rifle MK18 CAR FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle MK18 CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle MK18 CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Pindad SS2 CQC RIS FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Pindad SS2 CQC RIS FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Wilson NATO FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Wilson NATO FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Wilson SPC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)

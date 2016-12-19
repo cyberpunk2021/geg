@@ -72891,7 +72891,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
@@ -72971,7 +72971,7 @@ HeatCapacity	50
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		250
 EffectiveRange	95
 RangeCurvature	4
@@ -73033,6 +73033,84 @@ StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\pindadss2novacqcris.ACT"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
+
+ITEM "Pindad SS2 CQC RIS FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3000
+PrepareTime		0.29
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2100
+DirtResource	250000
+MisfireProb		0.0020
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	4
+Balance			0.46
+Unfold			"Pindad SS2 CQC RIS FG folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AUG.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""SS2"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Krebs_butt"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\pindadss2novacqcrisfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Pindad SS2 CQC RIS FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3000
+PrepareTime		0.26
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2100
+DirtResource	250000
+MisfireProb		0.0020
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	87
+RangeCurvature	4
+Balance			0.46
+Unfold			"Pindad SS2 CQC RIS FG"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\AUG.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""SS2"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Krebs_butt_folded"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\pindadss2novacqcrisfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
 
 ITEM "Pindad SS2 CAR"
 Class			Rifle
