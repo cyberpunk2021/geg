@@ -44,7 +44,7 @@ Material fdgfd {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "smttaurus_3.dds";
+  "smttaurus_3pindad.dds";
  }
 }
 
@@ -54,7 +54,7 @@ Material rgerg {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "smttaurus_2.dds";
+  "smttaurus_2pindad.dds";
  }
 }
 
@@ -64,7 +64,7 @@ Material mtl_weapon_k7 {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "k7.dds";
+  "k7pindad.dds";
  }
 }
 
