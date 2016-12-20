@@ -1962,20 +1962,7 @@ bright 29
 contrast -22
 
 
-CHECKLIST FINAL
 
-alterar law.lua (permits)
-foldar bipods das armas bsm (intervention)
-rpk bipod lmgs bugada
-t65 handle modelo correto
-fazer as bullpups terem ahtBullpup
-faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
-Norinco 7.62x39 transformar em AP
-
-
-
-(balapreço * qtdade) / 1,25 = packed box
-(balapreço * qtdade) / 1,5 = megabox
 
 "fnfalnova_dsa_stock"
 "fnfalnova_dsa_stock_folded"
@@ -2206,3 +2193,50 @@ m1a scout
 "Submachine-gun Pindad PM2 SIL (9mm)"
 "Submachine-gun Pindad PM2 SIL (9mm) folded"
 "SMG ammo clip (PindadPM2/30)"
+
+"Assault Rifle Pindad SS1-V3 (5.56mm)"
+"Assault Rifle Pindad SS1-V3 WR (5.56mm)"
+
+
+CHECKLIST FINAL
+
+alterar law.lua (permits)
+foldar bipods das armas bsm (intervention)
+rpk bipod lmgs bugada
+t65 handle modelo correto
+fazer as bullpups terem ahtBullpup
+faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
+
+
+
+
+- Pindad family.
+- Railed handguard version of Pindad SS2-V5 and Pindad SMG need work.
+- Type 69 RPG animation problem.
+
+- New RPK bipod for old weapons (AK-12, Valmet, Zastava, etc).
+- RaiRai new weapons balance.
+
+- Grenade stats.
+- DM51 inventory image.
+- New GL ammo stats.
+- Permit script.
+- Weapons ordering.
+
+- Fort-17 isn't correctly centered.
+- AKS-74UB texture is shitty.
+
+
+- Suppressor for SIG-551 ("SIG - 7,62") works with FAMAE SG 542 not SIG-551.
+
+
+- Check in the next HLA update : belt for Mauser M712, Astra F, HK VP70M and APS.
+
+
+
+(balapreço * qtdade) / 1,25 = packed box
+(balapreço * qtdade) / 1,5 = megabox
+
+"M855A1 (5.56mm)"
+"Ammo box (M855A1)"
+"Ammo box 500 (M855A1)"

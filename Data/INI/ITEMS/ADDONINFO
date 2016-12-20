@@ -6556,7 +6556,7 @@ Silencer		"built-in"
 Sound			"Addon\PlugSound\""Addon\UnplugSound\"
 SingleUse		0
 SilencingValue	0.96
-ACTOR			"Items\k7novasil.act"
+ACTOR			"Items\k7novasilpindad.act"
 IMAGE			"RJF_silencer.e5b"
 WEIGHT			0
 Resource		2200

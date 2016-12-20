@@ -85,6 +85,8 @@
  ["BigWoodBoxM964"] = "IMBEL M964",
  ["BigWoodBoxAUGA1"] = "Assault Rifle Steyr AUG A1 (5.56mm)",
  ["BigWoodBoxAUGA2"] = "Assault Rifle Steyr AUG A2 SR (5.56mm)",
+ ["BigWoodBoxNorincoCQ"] = "Assault Rifle Norinco CQ (5.56mm)",
+ ["BigWoodBoxNorincoCQCIV"] = "Assault Rifle Norinco CQ CIV (5.56mm)",
  
  ["MEGABOX Algeira (9mm/2500)"] = "BigAmmoBox (9x19/500)",
  ["MEGABOX CBC (9mm/2500)"] = "Big Ammo box 500 (9x19)",
@@ -1058,6 +1060,8 @@ AddItemContextMenu("BigWoodBoxM964", 		action_unpack_box, UnpackWeaponBox, CanUn
 AddItemContextMenu("BigWoodBoxAUGA1", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxAUGA2", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxHK33", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("BigWoodBoxNorincoCQ", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("BigWoodBoxNorincoCQCIV", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX Algeira (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX CBC (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX FM (9mm/2500)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)

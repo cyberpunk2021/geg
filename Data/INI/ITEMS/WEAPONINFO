@@ -2887,12 +2887,12 @@ ITEM "Pistol Fort 17 (9x18mm)"
 Class			Pistol
 Caliber			"9ץ18 לל ÏÌ"
 Weight			610
-PrepareTime		0.12
-SingleFireTime	0.55
+PrepareTime		0.13
+SingleFireTime	0.60
 BurstFireTime	0.0882
-SpeedModifier	0.93
-Resource		900
-DirtResource	120000
+SpeedModifier	0.94
+Resource		1200
+DirtResource	140000
 MisfireProb		0.0005
 HeatCapacity	35
 Single			1
@@ -2930,12 +2930,12 @@ ITEM "Pistol Fort 17 (380)"
 Class			Pistol
 Caliber			".380 ACP"
 Weight			610
-PrepareTime		0.11
-SingleFireTime	0.52
+PrepareTime		0.12
+SingleFireTime	0.54
 BurstFireTime	0.0882
-SpeedModifier	0.93
-Resource		900
-DirtResource	120000
+SpeedModifier	0.94
+Resource		1200
+DirtResource	140000
 MisfireProb		0.0005
 HeatCapacity	35
 Single			1
@@ -14020,7 +14020,7 @@ ITEM "Pistol Automag 50"
 Class			Pistol
 Caliber			".50AE"
 Weight			1310
-PrepareTime		0.21
+PrepareTime		0.23
 SingleFireTime	0.82
 BurstFireTime	0.12
 SpeedModifier	1.06
@@ -14033,7 +14033,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
+EffectiveRange	59
 RangeCurvature	8.2
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -15034,22 +15034,22 @@ HANDS			ahtPistol
 ITEM "Pistol Automag 10"
 Class			Pistol
 Caliber			"10mm Auto"
-Weight			1310
+Weight			1300
 PrepareTime		0.21
-SingleFireTime	0.82
+SingleFireTime	0.71
 BurstFireTime	0.12
 SpeedModifier	1.06
-Resource		1100
-DirtResource	100000
+Resource		1300
+DirtResource	120000
 MisfireProb		0.004
-HeatCapacity	27
+HeatCapacity	32
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
-RangeCurvature	8.2
+EffectiveRange	57
+RangeCurvature	6
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -15486,15 +15486,15 @@ HANDS			ahtPistol
 ITEM "Pistol Automag 30"
 Class			Pistol
 Caliber			"30 Carbine"
-Weight			1310
-PrepareTime		0.21
-SingleFireTime	0.82
+Weight			1200
+PrepareTime		0.22
+SingleFireTime	0.78
 BurstFireTime	0.12
-SpeedModifier	1.06
-Resource		1100
-DirtResource	100000
+SpeedModifier	0.96
+Resource		1400
+DirtResource	130000
 MisfireProb		0.004
-HeatCapacity	27
+HeatCapacity	30
 Single			1
 Burst			0
 CutOff			0
@@ -26182,8 +26182,8 @@ ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\MP5A5.wav"
-ATT Laser		0
-ATT Light		1 "MP5TL"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
@@ -26221,8 +26221,8 @@ ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\MP5A5.wav"
-ATT Laser		0
-ATT Light		1 "MP5TL"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
@@ -39588,7 +39588,7 @@ Weight			2410
 PrepareTime		0.34
 SingleFireTime	0.75
 BurstFireTime	0.07
-SpeedModifier	1.01
+SpeedModifier	1
 Resource		1600
 DirtResource	135000
 MisfireProb		0.005
@@ -39625,7 +39625,7 @@ Weight			2410
 PrepareTime		0.34
 SingleFireTime	0.75
 BurstFireTime	0.07
-SpeedModifier	1.01
+SpeedModifier	1
 Resource		1600
 DirtResource	130000
 MisfireProb		0.005
@@ -72798,6 +72798,43 @@ ACTOR			"Items\fnfncnova.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle Pindad SS1-V3 (5.56mm)"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3800
+PrepareTime		0.42
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2400
+DirtResource	270000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	158
+RangeCurvature	2
+Balance			0.46
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\fn_fnc.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\fnfncnovastocked.ACT"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "FN FNC WR"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
@@ -72874,6 +72911,43 @@ StdPlug			"fncnovastock_folded"
 StdPlug			"Rifle ammo clip (M16/30)"
 ACTOR			"Items\fnfncnovawr.act"
 IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Pindad SS1-V3 WR (5.56mm)"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3800
+PrepareTime		0.42
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2400
+DirtResource	270000
+MisfireProb		0.0020
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	158
+RangeCurvature	2
+Balance			0.46
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\fn_fnc.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "M9" blocks Silencer
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+ACTOR			"Items\fnfncnovastockedwr.ACT"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Pindad SS2 CQC"
@@ -102957,10 +103031,10 @@ ITEM "Rifle Elephant Gun"
 Class			Rifle
 Caliber			"700 Nitro"
 Weight			6110
-PrepareTime		0.91
-SingleFireTime	1.25
+PrepareTime		0.83
+SingleFireTime	1.33
 BurstFireTime	0.001
-SpeedModifier	0.97
+SpeedModifier	1
 Resource		8000
 DirtResource	120000
 MisfireProb		0.0017
@@ -102969,10 +103043,10 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		550
-EffectiveRange	420
-RangeCurvature	0.75
-Balance			0.40
+MaxRange		450
+EffectiveRange	320
+RangeCurvature	1.3
+Balance			0.36
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -102994,10 +103068,10 @@ ITEM "Rifle Elephant Gun Unique"
 Class			Rifle
 Caliber			"700 Nitro"
 Weight			6110
-PrepareTime		0.91
-SingleFireTime	1.25
+PrepareTime		0.83
+SingleFireTime	1.33
 BurstFireTime	0.001
-SpeedModifier	0.97
+SpeedModifier	1
 Resource		8000
 DirtResource	120000
 MisfireProb		0.0017
@@ -103006,10 +103080,10 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		550
-EffectiveRange	420
-RangeCurvature	0.75
-Balance			0.40
+MaxRange		450
+EffectiveRange	320
+RangeCurvature	1.3
+Balance			0.36
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -103031,22 +103105,22 @@ ITEM "Rifle Elephant Gun Sawnoff"
 Class			Rifle
 Caliber			"700 Nitro"
 Weight			4950
-PrepareTime		0.75
-SingleFireTime	1.25
+PrepareTime		0.68
+SingleFireTime	1.38
 BurstFireTime	0.001
-SpeedModifier	0.97
-Resource		8000
-DirtResource	120000
+SpeedModifier	0.93
+Resource		6000
+DirtResource	80000
 MisfireProb		0.0017
-HeatCapacity	25
+HeatCapacity	20
 Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		550
-EffectiveRange	380
-RangeCurvature	0.68
-Balance			0.57
+MaxRange		300
+EffectiveRange	150
+RangeCurvature	1.8
+Balance			0.48
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -103068,22 +103142,22 @@ ITEM "Rifle Elephant Gun Unique Sawnoff"
 Class			Rifle
 Caliber			"700 Nitro"
 Weight			4950
-PrepareTime		0.75
-SingleFireTime	1.25
+PrepareTime		0.68
+SingleFireTime	1.38
 BurstFireTime	0.001
-SpeedModifier	0.97
-Resource		8000
-DirtResource	120000
+SpeedModifier	0.93
+Resource		6000
+DirtResource	80000
 MisfireProb		0.0017
-HeatCapacity	25
+HeatCapacity	20
 Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		550
-EffectiveRange	380
-RangeCurvature	0.68
-Balance			0.57
+MaxRange		300
+EffectiveRange	150
+RangeCurvature	1.8
+Balance			0.48
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
@@ -103105,22 +103179,22 @@ ITEM "Assault Rifle LVOAS (5.56x45mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
 Weight			3062
-PrepareTime		0.30
-SingleFireTime	0.67
-BurstFireTime	0.08
+PrepareTime		0.35
+SingleFireTime	0.76
+BurstFireTime	0.07
 SpeedModifier	1.01
-Resource		2100
-DirtResource	210000
+Resource		2300
+DirtResource	230000
 MisfireProb		0.021
 HeatCapacity	53
 Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	113
-RangeCurvature	5
-Balance			0.60
+MaxRange		270
+EffectiveRange	123
+RangeCurvature	5.1
+Balance			0.63
 Unfold			"Assault Rifle LVOAS (5.56x45mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103144,22 +103218,22 @@ ITEM "Assault Rifle LVOAS (5.56x45mm) folded"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
 Weight			3062
-PrepareTime		0.27
-SingleFireTime	0.67
-BurstFireTime	0.08
+PrepareTime		0.32
+SingleFireTime	0.76
+BurstFireTime	0.07
 SpeedModifier	1.01
-Resource		2100
-DirtResource	210000
+Resource		2300
+DirtResource	230000
 MisfireProb		0.021
 HeatCapacity	53
 Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	97
-RangeCurvature	5
-Balance			0.60
+MaxRange		270
+EffectiveRange	108
+RangeCurvature	5.1
+Balance			0.63
 Unfold			"Assault Rifle LVOAS (5.56x45mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103183,22 +103257,22 @@ ITEM "Assault Rifle LVOAS FG (5.56x45mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
 Weight			3062
-PrepareTime		0.30
-SingleFireTime	0.65
-BurstFireTime	0.08
+PrepareTime		0.34
+SingleFireTime	0.74
+BurstFireTime	0.07
 SpeedModifier	1.01
-Resource		2100
-DirtResource	210000
+Resource		2300
+DirtResource	230000
 MisfireProb		0.021
 HeatCapacity	53
 Single			1
 Burst			1
 CutOff			3
 BurstHitStart	2
-MaxRange		250
-EffectiveRange	113
-RangeCurvature	5
-Balance			0.60
+MaxRange		270
+EffectiveRange	123
+RangeCurvature	5.1
+Balance			0.63
 Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103222,22 +103296,22 @@ ITEM "Assault Rifle LVOAS FG (5.56x45mm) folded"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
 Weight			3062
-PrepareTime		0.27
-SingleFireTime	0.65
-BurstFireTime	0.08
+PrepareTime		0.30
+SingleFireTime	0.74
+BurstFireTime	0.07
 SpeedModifier	1.01
-Resource		2100
-DirtResource	210000
+Resource		2300
+DirtResource	230000
 MisfireProb		0.021
 HeatCapacity	53
 Single			1
 Burst			1
 CutOff			3
 BurstHitStart	2
-MaxRange		250
-EffectiveRange	97
-RangeCurvature	5
-Balance			0.60
+MaxRange		270
+EffectiveRange	108
+RangeCurvature	5.1
+Balance			0.63
 Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103261,12 +103335,12 @@ ITEM "Shotgun M1216 (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
 Weight			3290
-PrepareTime		0.39
-SingleFireTime	0.93
+PrepareTime		0.38
+SingleFireTime	0.91
 BurstFireTime	0.3333
 SpeedModifier	1.01
-Resource		2000
-DirtResource	140000
+Resource		1300
+DirtResource	150000
 MisfireProb		0.03
 HeatCapacity	45
 Single			1
@@ -103274,9 +103348,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	60
+EffectiveRange	57
 RangeCurvature	5
-Balance			0.42
+Balance			0.43
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
