@@ -552,6 +552,7 @@
 	<snipers>Sniper Rifle ORSIS (.338) folded</snipers>
 	<snipers>Sniper Rifle KSVK (12.7mm)</snipers>
 	<snipers>Sniper Rifle OSV96 (12.7mm)</snipers>
+    <machineguns>Machinegun RPK-74N (5.45mm)</machineguns>
     <machineguns>Machinegun RPK-74M (5.45mm)</machineguns>
     <machineguns>Machinegun RPK (7.62x39mm)</machineguns>
     <machineguns>Machinegun RPKN (7.62x39mm)</machineguns>
@@ -580,6 +581,18 @@
   </rusweapons>
 
   <usaweapons>
+    <rifles>Assault Rifle M-14 POLY (7.62x51mm)</rifles>
+    <rifles>Assault Rifle M-14 WOOD (7.62x51mm)</rifles>
+    <rifles>Carabine M1A RIS (7.62x51mm)</rifles>
+    <rifles>Carabine M1A WOOD RIS (7.62x51mm)</rifles>
+    <rifles>Carabine M1A WOOD (7.62x51mm)</rifles>
+    <rifles>Carabine M1A Scout POLY RIS (7.62x51mm)</rifles>
+    <rifles>Carabine M1A Scout POLY (7.62x51mm)</rifles>
+    <rifles>Carabine M1A Scout RIS (7.62x51mm)</rifles>
+    <rifles>Carabine SOCOM16 NO RIS (7.62x51mm)</rifles>
+    <rifles>Carabine SOCOM16 WOOD RIS (7.62x51mm)</rifles>
+    <rifles>Carabine SOCOM16 WOOD NO RIS (7.62x51mm)</rifles>
+    <rifles>Carabine M1A (7.62x51mm)</rifles>
     <rifles>Assault Rifle CAR-15 (5.56mm)</rifles>
     <rifles>Assault Rifle AR-15A2 (5.56mm)</rifles>
     <rifles>Assault Rifle Colt Commando 733</rifles>
@@ -838,6 +851,18 @@
     <snipers>Sniper Rifle Remington 700 Police (.308)</snipers>
     <snipers>Sniper Rifle Remington 700 Police LTR (.308)</snipers>
     <snipers>Sniper Rifle Remington SPS Tactical AAC-SD</snipers>
+    <snipers>Sniper Rifle Remington 700P (5.56mm)</snipers>
+    <snipers>Sniper Rifle Remington 700P (.300)</snipers>
+    <snipers>Sniper Rifle Remington 700 (.338)</snipers>
+    <snipers>Sniper Rifle Remington 700P (.338)</snipers>
+    <snipers>Sniper Rifle Remington 700P (.375)</snipers>
+    <snipers>Sniper Rifle Remington 700 (.375)</snipers>
+    <snipers>Hunting Rifle Winchester Model 70 (223)</snipers>
+    <snipers>Hunting Rifle Winchester Model 70 (3006)</snipers>
+    <snipers>Hunting Rifle Winchester Model 70 (308)</snipers>
+    <snipers>Hunting Rifle Winchester Model 70 (300)</snipers>
+    <snipers>Hunting Rifle Winchester Model 70 (338)</snipers>
+    <snipers>Hunting Rifle Winchester Model 70 (375)</snipers>
     <snipers>Hunting Rifle Marlin X7 (.30-06)</snipers>
     <snipers>Sniper Rifle Remington 700 CDL (5.56mm)</snipers>
     <snipers>Hunting Rifle Remington 700SPS (.30-06)</snipers>
@@ -901,6 +926,10 @@
   </usaweapons>
 
   <eurweapons>
+    <rifles>Assault Rifle Norinco CQ (5.56mm)</rifles>
+    <rifles>Assault Rifle Norinco CQ CIV (5.56mm)</rifles>
+    <rifles>Assault Rifle DIO S (5.56mm)</rifles>
+    <rifles>Assault Rifle Terab (5.56mm)</rifles>
     <rifles>Assault Rifle Steyr AUG P SR (5.56mm)</rifles>
     <rifles>Assault Rifle Steyr AUG P (5.56mm)</rifles>
     <rifles>Assault Rifle Steyr AUG M203 SR (5.56mm)</rifles>
@@ -1078,6 +1107,7 @@
 	<rifles>Assault Rifle CETME LC (5.56) folded</rifles>
 	<rifles>Assault Rifle CETME (7.62x51mm)</rifles>
 	<rifles>Assault Rifle AK 4B (7.62x51mm)</rifles>
+	<rifles>Assault Rifle AK 4 (7.62x51mm)</rifles>
 	<rifles>HK MC51 S (7.62x51mm)</rifles>
 	<rifles>HK MC51 (7.62x51mm)</rifles>
 	<rifles>HK MC51 (7.62x51mm) folded</rifles>
@@ -1095,6 +1125,8 @@
 	<rifles>G36 WR Tan (5.56mm) folded</rifles>
 	<rifles>HK416CQB</rifles>
 	<rifles>HK416CQB folded</rifles>
+	<rifles>HK416CQB PISTOL</rifles>
+	<rifles>HK416CQB PISTOL folded</rifles>
 	<rifles>HK416 14DRS</rifles>
 	<rifles>HK416 14DRS folded</rifles>
 	<rifles>HK416</rifles>
@@ -1246,6 +1278,11 @@
 	<rifles>ACE NATO</rifles>
 	<rifles>ACE NATO folded</rifles>
     <snipers>Sniper Rifle HK PSG-1 (7.62x51mm)</snipers>
+    <snipers>Sniper Rifle HK SR9 (7.62x51mm)</snipers>
+    <snipers>Sniper Rifle HK SR9 TB (7.62x51mm)</snipers>
+    <snipers>Sniper Rifle HK SR9TC (7.62x51mm)</snipers>
+    <snipers>Sniper Rifle HK SR9TC TB (7.62x51mm)</snipers>
+    <snipers>Sniper Rifle HK PSG-1A1 (7.62x51mm)</snipers>
     <snipers>Sniper Rifle DSR1 (7.62x51mm)</snipers>
     <snipers>Sniper Rifle HK MSG-90A1 (7.62x51mm)</snipers>
     <snipers>Sniper Rifle SIG-550-1 Sniper (5.56mm)</snipers>
@@ -1318,7 +1355,9 @@
 	<snipers>Sniper Rifle AW50 (.50)</snipers>
 	<snipers>Sniper Rifle AS50 (.50 BMG)</snipers>
     <machineguns>Chain-gun HK21e (7.62x51mm)</machineguns>
+    <machineguns>Chain-gun HK21e TB (7.62x51mm)</machineguns>
     <machineguns>Chain-gun HK23e (5.56x45mm)</machineguns>
+    <machineguns>Chain-gun HK23e TB (5.56x45mm)</machineguns>
     <machineguns>Machinegun FN FAL 50.41 (7.62x51mm)</machineguns>
     <machineguns>Machinegun Steyr AUG HBAR (5.56mm)</machineguns>
     <machineguns>Machinegun L86 (5.56mm)</machineguns>

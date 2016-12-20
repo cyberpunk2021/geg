@@ -101515,7 +101515,7 @@ ATT Bayonet		0
 ATT Magazine	0
 StdPlug			"Grenade Ring (dm51)"
 ACTOR			"Items\dm51.act"
-IMAGE			"m61nova.e5b"
+IMAGE			"dm51.e5b"
 HANDS			ahtGrenade
 
 ///---------------

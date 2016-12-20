@@ -52,11 +52,11 @@ HStdDefense  "Grenade\Explosion\grenade2.wav""Grenade\LoadReadySound\None"0 0 0 
 WaveAmmo  "Wave"
 
 "Offensive Hand Grenade Type82"
-HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"180 2.11 18 21 207 0 0 2.8 3.8 0 0 
+HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"185 2.07 23 27 230 0 0 2.8 3.8 0 0 
 WaveAmmo  "Wave"
 
 "Defensive Hand Grenade DM51"
-HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"180 2.11 18 21 207 0 0 2.8 3.8 0 0 
+HStdOffensive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\None"165 1.88 16 17 209 0 0 2.8 3.8 0 0 
 WaveAmmo  "Wave"
 
 "Offensive Hand Grenade Type82-2"
@@ -167,14 +167,14 @@ LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm
 WaveAmmo  "VOG Wave"
 
 "Pallad 40x47"
-LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"150 0.25 6 9 90 0 0 0.131 0.394 14 14 
+LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"170 0.28 8 10 150 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
 
 "DFS-10 HE"
-LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"150 0.25 6 9 90 0 0 0.131 0.394 14 14 
+LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"120 0.14 5 7 70 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
 "DFS-10P"
-LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"200 0.25 7 9 100 0 0 0.131 0.394 14 14 
+LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"140 0.12 4 8 60 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
 
 "DFS-10 Smoke"
@@ -183,10 +183,10 @@ LVSmoke  "Grenade\Explosion\sm_grenade.wav""Grenade\LoadReadySound\grenade_40mm_
 "35mm Smoke"
 LVSmoke  "Grenade\Explosion\sm_grenade.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"0 0 0 6 180 1 100 0.184 0.355 0 0 
 "35mm HE"
-LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"90 0.15 5 7 80 0 0 0.184 0.355 10 10 
+LVHighExplosive  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"120 0.14 5 7 70 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
 "35mm AB"
-LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"140 0.18 7 7 140 0 0 0.184 0.335 10 10 
+LVAirBurst  "Grenade\Explosion\grenade1.wav""Grenade\LoadReadySound\grenade_40mm_load.wav"140 0.12 4 8 60 0 0 0.131 0.394 14 14 
 WaveAmmo  "VOG Wave"
 
 

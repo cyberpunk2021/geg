@@ -633,6 +633,8 @@
   <item level="4">Ammo box (Flechette)</item>
   <item level="3">Ammo box (Golden Saber)</item>
   <item level="1">Ammo box (M1911 Ball)</item>
+  <item level="8">Ammo box (M855A1)</item>
+  <item level="9">Ammo box 500 (M855A1)</item>
   <item level="4">Ammo box (M193)</item>
   <item level="4">Ammo box (M80)</item>
   <item level="2">Ammo box (M882)</item>
@@ -3382,14 +3384,16 @@
   <item level="6">FN FNC Para folded</item>
   <item level="7">FN FNC Para WR</item>
   <item level="7">FN FNC Para WR folded</item>
-  <item level="8">FN FNC WR</item>
-  <item level="8">FN FNC WR folded</item>
-  <item level="9">Pindad SS2 CQC</item>
-  <item level="9">Pindad SS2 CQC folded</item>
-  <item level="10">Pindad SS2 CQC RIS</item>
-  <item level="10">Pindad SS2 CQC RIS folded</item>
-  <item level="10">Pindad SS2 CAR</item>
-  <item level="10">Pindad SS2 CAR folded</item>
+  <item level="7">Assault Rifle Pindad SS1-V3 (5.56mm)</item>
+  <item level="8">Assault Rifle Pindad SS1-V3 WR (5.56mm)</item>
+  <item level="9">FN FNC WR</item>
+  <item level="9">FN FNC WR folded</item>
+  <item level="8">Pindad SS2 CQC</item>
+  <item level="8">Pindad SS2 CQC folded</item>
+  <item level="9">Pindad SS2 CQC RIS</item>
+  <item level="9">Pindad SS2 CQC RIS folded</item>
+  <item level="9">Pindad SS2 CAR</item>
+  <item level="9">Pindad SS2 CAR folded</item>
   <item level="11">Pindad SS2</item>
   <item level="11">Pindad SS2 folded</item>
   <item level="7">AK 5</item>
@@ -4960,4 +4964,11 @@
   <item level="2">Submachine-gun CETME C2 (9mm)</item>
   <item level="2">Submachine-gun CETME C2 (9mm) folded</item>
   <item level="1">SMG ammo clip (CETMEC2/32)</item>
+  <item level="2">SMG ammo clip (PindadPM2/30)</item>
+  <item level="3">Submachine-gun Pindad PM2 (9mm)</item>
+  <item level="3">Submachine-gun Pindad PM2 (9mm) folded</item>
+  <item level="4">Submachine-gun Pindad PM2 SIL (9mm)</item>
+  <item level="4">Submachine-gun Pindad PM2 SIL (9mm) folded</item>
+  <item level="6">Submachine-gun Pindad PM3 (9mm)</item>
+  <item level="6">Submachine-gun Pindad PM3 (9mm) folded</item>
 </root>
