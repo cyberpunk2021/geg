@@ -68434,25 +68434,13 @@ ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
 ShootSound		"Weapon\Shoot\galil762.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bayonet
-ATT Light		1 "Barrel Mount"
-blocks
-Bayonet
+ATT Laser		1 "Barrel Mount" blocks Bayonet
+ATT Light		1 "Barrel Mount" blocks Bayonet
 ATT Scope		1 "SIG551_scope"
 ATT Bipod		1 "built-in"
-ATT Silencer	2 "SIG - 7,62""Supressor - 7,62"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Laser
-and
-Light
-and
-Silencer
+ATT Bayonet		1 "FAL" blocks Laser and Light and Silencer
 ATT Magazine	1 "SIG542"
 StdPlug			"Rifle ammo clip (SG542BLK/20)"
 StdPlug			"SIG bipod folded"
@@ -68485,25 +68473,13 @@ ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
 ShootSound		"Weapon\Shoot\galil762.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bayonet
-ATT Light		1 "Barrel Mount"
-blocks
-Bayonet
+ATT Laser		1 "Barrel Mount" blocks Bayonet
+ATT Light		1 "Barrel Mount" blocks Bayonet
 ATT Scope		1 "SIG551_scope"
 ATT Bipod		1 "built-in"
-ATT Silencer	2 "SIG - 7,62""Supressor - 7,62"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Laser
-and
-Light
-and
-Silencer
+ATT Bayonet		1 "FAL" blocks Laser and Light and Silencer
 ATT Magazine	1 "SIG542"
 StdPlug			"Rifle ammo clip (SG542BLK/20)"
 StdPlug			"SIG bipod folded"
@@ -68537,25 +68513,13 @@ ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
 ShootSound		"Weapon\Shoot\galil762.wav"
-ATT Laser		1 "Barrel Mount"
-blocks
-Bayonet
-ATT Light		1 "Barrel Mount"
-blocks
-Bayonet
+ATT Laser		1 "Barrel Mount" blocks Bayonet
+ATT Light		1 "Barrel Mount" blocks Bayonet
 ATT Scope		1 "SIG551_scope"
 ATT Bipod		1 "built-in"
-ATT Silencer	2 "SIG - 7,62""Supressor - 7,62"
-blocks
-Bayonet
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "FAL"
-blocks
-Laser
-and
-Light
-and
-Silencer
+ATT Bayonet		1 "FAL" blocks Laser and Light and Silencer
 ATT Magazine	1 "SIG542"
 StdPlug			"Rifle ammo clip (SG542BLK/20)"
 StdPlug			"SIG bipod folded"
