@@ -174,6 +174,8 @@
  ["Sniper Rifle HK SR9TC (7.62x51mm)"] = "Sniper Rifle HK SR9TC TB (7.62x51mm)",
  ["Chain-gun HK21e (7.62x51mm)"] = "Chain-gun HK21e TB (7.62x51mm)",
  ["Chain-gun HK23e (5.56x45mm)"] = "Chain-gun HK23e TB (5.56x45mm)",
+ ["Submachine-gun Pindad PM3 (9mm)"] = "Submachine-gun Pindad PM3 FG (9mm)",
+ ["Submachine-gun Pindad PM3 (9mm) folded"] = "Submachine-gun Pindad PM3 FG (9mm) folded",
  ["Submachine-gun Skorpion 3 (9mm)"] = "Submachine-gun Skorpion 3 FG (9mm)",
  ["Submachine-gun Skorpion 3 (9mm) folded"] = "Submachine-gun Skorpion 3 FG (9mm) folded",
  ["Submachine-gun UMP9 (9mm)"] = "Submachine-gun UMP9 FG (9mm)",
@@ -504,6 +506,8 @@ AddItemCombineHandler("Tactical grip", "MSBS Bullpup NOFG", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle Bulldog (7.62mm)", AttachForegrip)
 
 -- Attach Frontgrip / SMG
+AddItemCombineHandler("Tactical grip", "Submachine-gun Pindad PM3 (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun Pindad PM3 (9mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun Skorpion 3 (9mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun Skorpion 3 (9mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm)", AttachForegrip)
@@ -710,6 +714,8 @@ AddItemContextMenu("MSBS Bullpup FG", action_detach_handle, DetachForegrip, CanD
 AddItemContextMenu("Assault Rifle Bulldog FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 
 -- Detach Frontgrip / SMG
+AddItemContextMenu("Submachine-gun Pindad PM3 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun Pindad PM3 FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun Skorpion 3 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun Skorpion 3 FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun UMP9 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

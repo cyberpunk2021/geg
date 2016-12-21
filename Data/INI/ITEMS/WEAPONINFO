@@ -26185,7 +26185,7 @@ ShootSound		"Weapon\Shoot\MP5A5.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -26224,7 +26224,7 @@ ShootSound		"Weapon\Shoot\MP5A5.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -26234,6 +26234,84 @@ StdPlug			"ss2novastock_folded"
 ACTOR			"Items\pindadpm3.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
+
+ITEM "Submachine-gun Pindad PM3 FG (9mm)"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.27
+SingleFireTime	0.59
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	95
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun Pindad PM3 FG (9mm) folded"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"ss2novastock"
+ACTOR			"Items\pindadpm3fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun Pindad PM3 FG (9mm) folded"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3100
+PrepareTime		0.24
+SingleFireTime	0.59
+BurstFireTime	0.075
+SpeedModifier	1.11
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	47
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	75
+RangeCurvature	3
+Balance			0.6
+Unfold			"Submachine-gun Pindad PM3 FG (9mm)"
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\MP5A5.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"ss2novastock_folded"
+ACTOR			"Items\pindadpm3fg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
 
 ITEM "Submachine-gun MX4 (9mm)"
 Class			SMG
