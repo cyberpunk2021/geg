@@ -27222,7 +27222,7 @@ ShootSound		"Weapon\Shoot\cherokee.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -27261,7 +27261,7 @@ ShootSound		"Weapon\Shoot\cherokee.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -27269,6 +27269,84 @@ ATT Magazine	1 "HK MP 9mm"
 StdPlug			"SMG ammo clip (M5/30)"
 StdPlug			"taurus_butt_folded"
 ACTOR			"Items\smt40.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle Taurus CQC FG (9mm)"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3000
+PrepareTime		0.29
+SingleFireTime	0.58
+BurstFireTime	0.048
+SpeedModifier	1.14
+Resource		1800
+DirtResource	180000
+MisfireProb		0.02
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	97
+RangeCurvature	3.9
+Balance			0.38
+Unfold			"Assault Rifle Taurus CQC FG (9mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\cherokee.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"taurus_butt"
+ACTOR			"Items\smt40fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle Taurus CQC FG (9mm) folded"
+Class			SMG
+Caliber			"9υ19 μμ"
+Weight			3000
+PrepareTime		0.25
+SingleFireTime	0.58
+BurstFireTime	0.048
+SpeedModifier	1.14
+Resource		1800
+DirtResource	180000
+MisfireProb		0.02
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	77
+RangeCurvature	3.9
+Balance			0.38
+Unfold			"Assault Rifle Taurus CQC FG (9mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\cherokee.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Std 9mm Para"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "HK MP 9mm"
+StdPlug			"SMG ammo clip (M5/30)"
+StdPlug			"taurus_butt_folded"
+ACTOR			"Items\smt40fg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -27300,7 +27378,7 @@ ShootSound		"Weapon\Shoot\cherokee.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -27339,7 +27417,7 @@ ShootSound		"Weapon\Shoot\cherokee.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "HK MP5-40 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -27347,6 +27425,84 @@ ATT Magazine	1 "MT-40"
 StdPlug			"SMG ammo clip (MT-40/30)"
 StdPlug			"taurus_butt_folded"
 ACTOR			"Items\smt40.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle Taurus CQC FG (.40)"
+Class			SMG
+Caliber			".40 S&W"
+Weight			3000
+PrepareTime		0.29
+SingleFireTime	0.61
+BurstFireTime	0.05
+SpeedModifier	1.14
+Resource		1800
+DirtResource	180000
+MisfireProb		0.02
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	97
+RangeCurvature	3.9
+Balance			0.38
+Unfold			"Assault Rifle Taurus CQC FG (.40) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\cherokee.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "HK MP5-40 Silencer"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MT-40"
+StdPlug			"SMG ammo clip (MT-40/30)"
+StdPlug			"taurus_butt"
+ACTOR			"Items\smt40fg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle Taurus CQC FG (.40) folded"
+Class			SMG
+Caliber			".40 S&W"
+Weight			3000
+PrepareTime		0.25
+SingleFireTime	0.61
+BurstFireTime	0.05
+SpeedModifier	1.14
+Resource		1800
+DirtResource	180000
+MisfireProb		0.02
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		200
+EffectiveRange	77
+RangeCurvature	3.9
+Balance			0.38
+Unfold			"Assault Rifle Taurus CQC FG (.40)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\cherokee.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "HK MP5-40 Silencer"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MT-40"
+StdPlug			"SMG ammo clip (MT-40/30)"
+StdPlug			"taurus_butt_folded"
+ACTOR			"Items\smt40fg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 

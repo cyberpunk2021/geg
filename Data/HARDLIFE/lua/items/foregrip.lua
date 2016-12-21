@@ -178,6 +178,10 @@
  ["Submachine-gun Pindad PM3 (9mm) folded"] = "Submachine-gun Pindad PM3 FG (9mm) folded",
  ["Submachine-gun Skorpion 3 (9mm)"] = "Submachine-gun Skorpion 3 FG (9mm)",
  ["Submachine-gun Skorpion 3 (9mm) folded"] = "Submachine-gun Skorpion 3 FG (9mm) folded",
+ ["Assault Rifle Taurus CQC (9mm)"] = "Assault Rifle Taurus CQC FG (9mm)",
+ ["Assault Rifle Taurus CQC (9mm) folded"] = "Assault Rifle Taurus CQC FG (9mm) folded",
+ ["Assault Rifle Taurus CQC (.40)"] = "Assault Rifle Taurus CQC FG (.40)",
+ ["Assault Rifle Taurus CQC (.40) folded"] = "Assault Rifle Taurus CQC FG (.40) folded",
  ["Submachine-gun UMP9 (9mm)"] = "Submachine-gun UMP9 FG (9mm)",
  ["Submachine-gun UMP9 (9mm) folded"] = "Submachine-gun UMP9 FG (9mm) folded",
  ["Submachine-gun HK UMP45 (.45 ACP)"] = "Submachine-gun UMP45 FG (.45ACP)",
@@ -510,6 +514,10 @@ AddItemCombineHandler("Tactical grip", "Submachine-gun Pindad PM3 (9mm)", Attach
 AddItemCombineHandler("Tactical grip", "Submachine-gun Pindad PM3 (9mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun Skorpion 3 (9mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun Skorpion 3 (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle Taurus CQC (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle Taurus CQC (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle Taurus CQC (.40)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle Taurus CQC (.40) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun UMP9 (9mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun HK UMP45 (.45 ACP)", AttachForegrip)
@@ -718,6 +726,10 @@ AddItemContextMenu("Submachine-gun Pindad PM3 FG (9mm)", action_detach_handle, D
 AddItemContextMenu("Submachine-gun Pindad PM3 FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun Skorpion 3 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun Skorpion 3 FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Taurus CQC FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Taurus CQC FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Taurus CQC FG (.40)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle Taurus CQC FG (.40) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun UMP9 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun UMP9 FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun UMP40 FG (.40 S&W)", action_detach_handle, DetachForegrip, CanDetachForegrip)
