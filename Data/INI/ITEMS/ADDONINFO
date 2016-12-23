@@ -9285,4 +9285,22 @@ IMAGE			"rpkbipod.e5b"
 WEIGHT			450
 Resource		1000
 
+//------------------------------------------------------
+Addon			"RPK Bipod Nova Wide"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpknova_bipod.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"RPK Bipod Nova Wide Folded"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpknova_bipod_folded_wide.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
 END

@@ -2223,7 +2223,7 @@ faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 - AKS-74UB texture is shitty.
 
 
-- Suppressor for SIG-551 ("SIG - 7,62") works with FAMAE SG 542 not SIG-551.
+
 
 
 - Check in the next HLA update : belt for Mauser M712, Astra F, HK VP70M and APS.

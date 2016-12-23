@@ -72,6 +72,13 @@ function buildItemLawType(item)
             return LawType.Police
         end
 
+			if item:IsGrenade() then
+            return LawType.Military
+        end
+		
+		if family == Family.ifMine then
+        return LawType.Military
+		end
 
         if ((weaponClass ~= wcPistol) or (weaponClass == wcShotgun and clip_capacity > 5)) then
           return LawType.Hunter
@@ -92,15 +99,8 @@ function buildItemLawType(item)
 			
 
         end
-    elseif family == Family.ifMine then
-        return LawType.Military
     elseif family == Family.ifAmmo then
-        if item:IsGrenade() then
-            return LawType.Military
-        end
     end
-
-
     return LawType.Civilian
 end
 
