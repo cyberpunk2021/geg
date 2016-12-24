@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<strings>
+	<str id="lang/cfg/weaponorder/order/GEGType89">The kit consists of 4 spare magazines, 120 rounds of M193 ammunition, compatible bayonet, a Truglo red dot sight, cleaning kit, suppressor and load bearing equipment.</str>
+	<str id="lang/cfg/weaponorder/order/GEGType89Fast">Express delivery, pay a higher fee for a quicker delivery. The kit consists of 4 spare magazines, 120 rounds of M193 ammunition, compatible bayonet, a Truglo red dot sight, cleaning kit, suppressor and load bearing equipment.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGType64">The kit consists of 4 spare magazines, 120 rounds of M80 ammunition, compatible bayonet, cleaning kit, suppressor and load bearing equipment.</str>
+	<str id="lang/cfg/weaponorder/order/GEGType64Fast">Express delivery, pay a higher fee for a quicker delivery. The kit consists of 4 spare magazines, 120 rounds of M80 ammunition, compatible bayonet, cleaning kit, suppressor and load bearing equipment.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG762x39Shipment">Shipment with 3000 rounds of 7.62x39mm M43 Armor Piercing ammunition, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
+	<str id="lang/cfg/weaponorder/order/GEG762x39ShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 7.62x39mm M43 Armor Piercing ammunition, requires use of tools to open, which ARE included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
+
+</strings>
