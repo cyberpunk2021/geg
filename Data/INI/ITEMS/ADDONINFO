@@ -8207,7 +8207,7 @@ Resource		0
 Addon			"Bipod MG34 Folded"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\MG3_bipodfolded.act"
+ACTOR			"Items\MG3_bipod_folded.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			400
 Resource		0
@@ -8343,7 +8343,7 @@ Resource		0
 Addon			"Lewis Bipod Folded"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\lewisgunbipodfolded.act"
+ACTOR			"Items\lewisbipodfolded.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			400
 Resource		0
@@ -8959,7 +8959,7 @@ Resource		0
 Addon			"T81 Bipod Folded"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\type81novaboa_bipod_folded.act"
+ACTOR			"Items\type81novaboa_bipodfolded.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			0
 Resource		0
@@ -9299,6 +9299,60 @@ Addon			"RPK Bipod Nova Wide Folded"
 Bipod			"built-in"
 Sound			"None""None"
 ACTOR			"Items\rpknova_bipod_folded_wide.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"Zastava Bipod"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\zastavam72bipod.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"Zastava Bipod Folded"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\zastavam72bipodfolded.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"RPK12 Bipod"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpk12bipod.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"RPK12 Bipod Folded"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\rpk12bipodfolded.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"Valmet78 Bipod"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\valmetbipod.act"
+IMAGE			"rpkbipod.e5b"
+WEIGHT			450
+Resource		1000
+
+//------------------------------------------------------
+Addon			"Valmet78 Bipod Folded"
+Bipod			"built-in"
+Sound			"None""None"
+ACTOR			"Items\valmetbipodfolded.act"
 IMAGE			"rpkbipod.e5b"
 WEIGHT			450
 Resource		1000

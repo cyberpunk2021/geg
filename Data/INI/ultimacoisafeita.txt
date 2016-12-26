@@ -2206,7 +2206,7 @@ rpk bipod lmgs bugada
 t65 handle modelo correto
 fazer as bullpups terem ahtBullpup
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
-
+recolocar mira nas valmets
 
 
 
@@ -2222,8 +2222,15 @@ faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
 - Fort-17 isn't correctly centered.
 - AKS-74UB texture is shitty.
 
+bipods faltando:
 
+wz35
+cheytac
+hecate
+fn falo bipod bug
+mg15 bipod bug
 
+colocar mg4 e madsen bipod em tuning.lua
 
 
 - Check in the next HLA update : belt for Mauser M712, Astra F, HK VP70M and APS.
@@ -2245,3 +2252,10 @@ until detonation.
 "M855A1 (5.56mm)"
 "Ammo box (M855A1)"
 "Ammo box 500 (M855A1)"
+
+"Zastava Bipod"
+"Zastava Bipod Folded"
+"RPK12 Bipod"
+"RPK12 Bipod Folded"
+"Valmet78 Bipod"
+"Valmet78 Bipod Folded"

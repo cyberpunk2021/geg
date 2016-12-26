@@ -89221,7 +89221,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 //StdPlug			"Optical Sight ACOG 4x32 (MP5)"
 ACTOR			"Items\tar21.act"
 IMAGE			"2x4.e5b"
@@ -89781,7 +89781,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SVD"
 StdPlug			"Rifle ammo clip (Dragunov/10)"
-StdPlug			"SVU bipod"
+StdPlug			"SVU bipod folded"
 StdPlug			"SVU Silencer"
 StdPlug			"Optical Sight PSO1-M2 (Dragunov)"
 ACTOR			"Items\svu_a.act"
@@ -89822,7 +89822,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"ak12_butt"
 ACTOR			"Items\ak12lb308.act"
@@ -89863,7 +89863,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12lb308.act"
@@ -89904,7 +89904,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SVD"
 StdPlug			"Rifle ammo clip (Dragunov/10)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"ak12_butt"
 ACTOR			"Items\ak12lb.act"
@@ -89945,7 +89945,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SVD"
 StdPlug			"Rifle ammo clip (Dragunov/10)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12lb.act"
@@ -90181,7 +90181,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
 StdPlug			"galatz_buttopen"
-StdPlug			"Galil bipod"
+StdPlug			"Galil bipod folded"
 StdPlug			"Optical Sight Nimrod 6x40 (Galatz)"
 ACTOR			"Items\galatz.act"
 IMAGE			"2x5.e5b"
@@ -90222,7 +90222,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
 StdPlug			"galatz_buttfolded"
-StdPlug			"Galil bipod"
+StdPlug			"Galil bipod folded"
 StdPlug			"Optical Sight Nimrod 6x40 (Galatz)"
 ACTOR			"Items\galatz.act"
 IMAGE			"2x4.e5b"
@@ -91039,7 +91039,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\ia2sniper2.act"
 IMAGE			"2x5.e5b"
@@ -91078,7 +91078,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "QBUMAG"
 StdPlug			"Optical Sight (QBU)"
-StdPlug			"QBUBipod"
+StdPlug			"QBUBipod Folded"
 StdPlug			"Rifle ammo clip (QBU 88\10)"
 ACTOR			"Items\qbu88.ACT"
 IMAGE			"2x5.e5b"
@@ -91118,7 +91118,7 @@ ATT Bayonet		0
 ATT Magazine	1 "QBUMAG556"
 StdPlug			"Rifle ammo clip (QBU 88556\10)"
 StdPlug			"Optical Sight (QBU)"
-StdPlug			"QBUBipod"
+StdPlug			"QBUBipod Folded"
 ACTOR			"Items\qbu88.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -91233,7 +91233,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"taurus_butt"
 ACTOR			"Items\smt556lb.act"
@@ -91274,7 +91274,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"taurus_butt_folded"
 ACTOR			"Items\smt556lb.act"
@@ -91671,7 +91671,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "L96A1"
-StdPlug			"L96A1 bipod"
+StdPlug			"L96A1 bipod folded"
 StdPlug			"Sniper rifle clip (L96A1/20)"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (M24)"
 ACTOR			"Items\L96a1_unique.act"
@@ -92032,7 +92032,7 @@ ATT Silencer	1 "7,62 Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "L96A1"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Sniper rifle clip (L96A1/20)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\tac308.ACT"
@@ -92690,7 +92690,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "DSR1"
 StdPlug			"Laser Aiming Module (Rifle)"
-StdPlug			"Sniper Bipod (DSR-1)"
+StdPlug			"Sniper Bipod (DSR-1) folded"
 StdPlug			"Rifle ammo clip (DSR/5)"
 StdPlug			"Optical Sight Leupold Mark 4 10x40 (M24)"
 ACTOR			"Items\dsr_1.act"
@@ -93125,7 +93125,7 @@ ATT Silencer	1 "SV98 silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SV98"
-StdPlug			"SV98 bipod"
+StdPlug			"SV98 bipod folded"
 StdPlug			"Sniper rifle clip (SV98/10)"
 StdPlug			"Optical Sight 1P69 Giperon (WR)"
 ACTOR			"Items\sv98_unique.act"
@@ -93906,7 +93906,7 @@ ITEM "Hunting Rifle Remington R-25 (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			3515
-PrepareTime		0.60
+PrepareTime		0.62
 SingleFireTime	1
 BurstFireTime	0.22
 SpeedModifier	1.07
@@ -94479,7 +94479,7 @@ ATT Silencer	1 ".300WM Sniper Rifle Suppressor"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "L96A1300"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Sniper rifle clip (L96A1300/20)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\tac308.ACT"
@@ -95255,7 +95255,7 @@ ATT Silencer	1 ".338 Silencer"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TRG42"
-StdPlug			"Sniper Bipod Series 1A2"
+StdPlug			"Sniper Bipod Series 1A2 folded"
 StdPlug			"Rifle clip (TRG-42/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\tac338.ACT"
@@ -95602,7 +95602,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Sniper rifle clip (HS50/1)"
-StdPlug			"HS50 bipod"
+StdPlug			"HS50 bipod Folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\hs50.act"
 IMAGE			"2x5.e5b"
@@ -95641,7 +95641,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Barret"
 StdPlug			"Sniper rifle clip (Barret/10)"
-StdPlug			"Barret bipod"
+StdPlug			"Barret bipod folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\M82_v2.act"
 IMAGE			"2x5.e5b"
@@ -95680,7 +95680,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Barret"
 StdPlug			"Sniper rifle clip (Barret/10)"
-StdPlug			"Barret bipod"
+StdPlug			"Barret bipod folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\m82a4.act"
 IMAGE			"2x5.e5b"
@@ -95759,7 +95759,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AW50"
 StdPlug			"Sniper rifle clip (AW50/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-StdPlug			"Barret bipod"
+StdPlug			"Barret bipod folded"
 ACTOR			"Items\aw50.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -95797,7 +95797,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "TAC50"
 StdPlug			"Sniper Rifle Clip (TAC50/.50 BMG)"
-StdPlug			"Barret bipod"
+StdPlug			"Barret bipod folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 ACTOR			"Items\tac50.act"
 IMAGE			"2x5.e5b"
@@ -95957,7 +95957,7 @@ ATT Bayonet		0
 ATT Magazine	1 "KSVKMag"
 StdPlug			"Sniper rifle clip (KSVK/5)"
 StdPlug			"Optical Sight PO6x39 (SVD)"
-StdPlug			"KSVK Bipod"
+StdPlug			"KSVK Bipod Folded"
 ACTOR			"Items\ksvk.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -95996,7 +95996,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AMR2Mag"
 StdPlug			"Sniper rifle clip (AMR2/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-StdPlug			"AMR2 Bipod"
+StdPlug			"AMR2 Bipod Folded"
 ACTOR			"Items\amr2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -96034,7 +96034,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "OSV96Mag"
 StdPlug			"Sniper rifle clip (OSV96/5)"
-StdPlug			"OSV96 Bipod"
+StdPlug			"OSV96 Bipod Folded"
 StdPlug			"OSV96 Scope"
 ACTOR			"Items\osv96.act"
 IMAGE			"2x5.e5b"
@@ -96074,7 +96074,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"PZB39 clip"
-StdPlug			"PZB39 Bipod"
+StdPlug			"PZB39 Bipod Folded"
 StdPlug			"pzb39stock"
 ACTOR			"Items\pzb39.act"
 IMAGE			"2x5.e5b"
@@ -96114,7 +96114,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"PZB39 clip"
-StdPlug			"PZB39 Bipod"
+StdPlug			"PZB39 Bipod Folded"
 StdPlug			"pzb39stock_folded"
 ACTOR			"Items\pzb39.act"
 IMAGE			"2x5.e5b"
@@ -96542,7 +96542,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "AriBayo"
 ATT Magazine	1 "Type96LMG"
 StdPlug			"Machinegun clip (Type 96/30)"
-StdPlug			"Type 96 Bipod"
+StdPlug			"Type 96 Bipod Folded"
 ACTOR			"Items\type96lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96580,7 +96580,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "QBZMags"
 StdPlug			"Rifle ammo drum (QBZ/80)"
-StdPlug			"QBBBipod"
+StdPlug			"QBBBipod Folded"
 ACTOR			"Items\qbb95nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96618,7 +96618,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "QBZMags"
 StdPlug			"Rifle ammo drum (QBZ/80)"
-StdPlug			"QBBBipod"
+StdPlug			"QBBBipod Folded"
 ACTOR			"Items\qbb95_1_nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96656,7 +96656,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"QBBBipod"
+StdPlug			"QBBBipod Folded"
 ACTOR			"Items\qbb97nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96694,7 +96694,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"QBBBipod"
+StdPlug			"QBBBipod Folded"
 ACTOR			"Items\qbb97_1_nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96731,7 +96731,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "RPD_Mag"
-StdPlug			"Machinegun Bipod (RPD)"
+StdPlug			"Machinegun Bipod (RPD) folded"
 StdPlug			"Machinegun box (RPD/100)"
 ACTOR			"Items\rpd.act"
 IMAGE			"2x5.e5b"
@@ -96769,7 +96769,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "RPD_Mag"
-StdPlug			"Machinegun Bipod (RPD)"
+StdPlug			"Machinegun Bipod (RPD) folded"
 StdPlug			"Machinegun box (RPD/100)"
 ACTOR			"Items\rpd.act"
 IMAGE			"2x5.e5b"
@@ -96808,7 +96808,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Ammo drum clip (T81 7.62/75)"
-StdPlug			"T81 Bipod"
+StdPlug			"T81 Bipod Folded"
 ACTOR			"Items\type81novaboa_mg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96846,7 +96846,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/75)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 ACTOR			"Items\vz58_lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96886,7 +96886,7 @@ ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/75)"
 StdPlug			"Vz58_butt"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 ACTOR			"Items\vz58v_lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96926,7 +96926,7 @@ ATT Bayonet		0
 ATT Magazine	1 "VZ58"
 StdPlug			"Rifle ammo clip (VZ58/75)"
 StdPlug			"Vz58_butt_folded"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 ACTOR			"Items\vz58v_lmg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -96964,7 +96964,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Minimi"
 StdPlug			"Minimi mag (Minimi 5.56/200)"
-StdPlug			"Minimi_bipod"
+StdPlug			"Minimi_bipod folded"
 ACTOR			"Items\mk46.act"
 IMAGE			"mk46.e5b"
 HANDS			ahtRifle
@@ -97002,7 +97002,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/45)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 ACTOR			"Items\rpknova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97040,7 +97040,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Ammo drum clip (AK 7.62/75)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 ACTOR			"Items\rpknnova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97078,7 +97078,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Ammo drum clip (AK 7.62/75)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Valmet78 Bipod Folded"
 ACTOR			"Items\rk78.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97116,7 +97116,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Ammo drum clip (AK 7.62/75)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Valmet78 Bipod Folded"
 ACTOR			"Items\rk78w.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97154,7 +97154,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Valmet78 Bipod Folded"
 ACTOR			"Items\rk78.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97192,7 +97192,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Valmet78 Bipod Folded"
 ACTOR			"Items\rk78w.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97230,7 +97230,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Valmet78 Bipod Folded"
 ACTOR			"Items\rk78308.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97268,7 +97268,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Valmet78 Bipod Folded"
 ACTOR			"Items\rk78w308.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97306,7 +97306,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Zastava Bipod Folded"
 ACTOR			"Items\zastavam90nlmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97346,7 +97346,7 @@ ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
 StdPlug			"akmsbuttnovo"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Zastava Bipod Folded"
 ACTOR			"Items\zastavam90nfoldinglmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97386,7 +97386,7 @@ ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
 StdPlug			"akmsbuttnovo_folded"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Zastava Bipod Folded"
 ACTOR			"Items\zastavam90nfoldinglmg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -97424,7 +97424,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Zastava Bipod Folded"
 ACTOR			"Items\zastavam77nlmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97464,7 +97464,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Zastava Bipod Folded"
 ACTOR			"Items\zastavam77nfoldinglmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97504,7 +97504,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AK 308"
 StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"akmsbuttnovo_folded"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Zastava Bipod Folded"
 ACTOR			"Items\zastavam77nfoldinglmg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -97543,7 +97543,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Machinegun Bipod (RPK) folded"
 StdPlug			"akmsbutt"
 ACTOR			"Items\lmg-f.act"
 IMAGE			"2x5.e5b"
@@ -97583,7 +97583,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"Machinegun Bipod (RPK) folded"
 StdPlug			"akmsbutt_folded"
 ACTOR			"Items\lmg-f.act"
 IMAGE			"2x4.e5b"
@@ -97623,7 +97623,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 StdPlug			"rpknova74stock"
 ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x5.e5b"
@@ -97663,7 +97663,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 StdPlug			"rpknova74stock_folded"
 ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x4.e5b"
@@ -97702,7 +97702,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Ammo drum clip (AK 5.56/75)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 ACTOR			"Items\stg940lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97740,7 +97740,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 ACTOR			"Items\rpknova74.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97778,7 +97778,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 ACTOR			"Items\rpknova74n.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97817,7 +97817,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 StdPlug			"rpknova74stock"
 ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x5.e5b"
@@ -97857,7 +97857,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"RPK Bipod Nova"
+StdPlug			"RPK Bipod Nova Folded"
 StdPlug			"rpknova74stock_folded"
 ACTOR			"Items\rpknova74m.act"
 IMAGE			"2x4.e5b"
@@ -97897,7 +97897,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 StdPlug			"ak12_butt"
 ACTOR			"Items\ak12lbmg.act"
 IMAGE			"2x5.e5b"
@@ -97937,7 +97937,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/45)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12lbmg.act"
 IMAGE			"2x5.e5b"
@@ -97977,7 +97977,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 StdPlug			"ak12_butt"
 ACTOR			"Items\ak12lbmg.act"
 IMAGE			"2x5.e5b"
@@ -98017,7 +98017,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12lbmg.act"
 IMAGE			"2x5.e5b"
@@ -98057,7 +98057,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 StdPlug			"ak12_butt"
 ACTOR			"Items\ak12lbmg.act"
 IMAGE			"2x5.e5b"
@@ -98097,7 +98097,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "RPK""AK 7.62"
 StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"Machinegun Bipod (RPK)"
+StdPlug			"RPK12 Bipod Folded"
 StdPlug			"ak12_butt_folded"
 ACTOR			"Items\ak12lbmg.act"
 IMAGE			"2x4.e5b"
@@ -98136,7 +98136,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "hk23"
 StdPlug			"Ammo box (HK 5.56/150)"
-StdPlug			"HK Integrated Bipod"
+StdPlug			"HK Integrated Bipod folded"
 ACTOR			"Items\hk23.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98174,7 +98174,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "hk23"
 StdPlug			"Ammo box (HK 5.56/150)"
-StdPlug			"HK Integrated Bipod"
+StdPlug			"HK Integrated Bipod folded"
 ACTOR			"Items\hk23tb.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98212,7 +98212,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"L85A2 Handle"
-StdPlug			"L86_Bipod"
+StdPlug			"L86_Bipod folded"
 StdPlug			"Rifle ammo clip (MD97/30)"
 ACTOR			"Items\l86.act"
 IMAGE			"2x5.e5b"
@@ -98250,7 +98250,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AUG556"
-StdPlug			"AUG Integrated Bipod"
+StdPlug			"AUG Integrated Bipod folded"
 StdPlug			"Rifle ammo clip (AUG/42)"
 ACTOR			"Items\auga2_hbr.act"
 IMAGE			"2x5.e5b"
@@ -98291,7 +98291,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AUG556"
 StdPlug			"Integrated Sight (AUG)"
-StdPlug			"AUG Integrated Bipod"
+StdPlug			"AUG Integrated Bipod folded"
 StdPlug			"Rifle ammo clip (AUG/42)"
 ACTOR			"Items\auga1_hbar.act"
 IMAGE			"2x5.e5b"
@@ -98332,7 +98332,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "Minimi""NATO 5.56"
 StdPlug			"Minimi mag (Minimi 5.56/200)"
-StdPlug			"Minimi_bipod"
+StdPlug			"Minimi_bipod folded"
 ACTOR			"Items\minimi.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98450,7 +98450,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG4"
 StdPlug			"Machinegun clip (MG4/200)"
-StdPlug			"MG4 Bipod"
+StdPlug			"MG4 Bipod Folded"
 ACTOR			"Items\mg4k.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98488,7 +98488,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG4"
 StdPlug			"Machinegun clip (MG4/200)"
-StdPlug			"MG4 Bipod"
+StdPlug			"MG4 Bipod Folded"
 ACTOR			"Items\mg4.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98526,7 +98526,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Ameli"
 StdPlug			"Machinegun clip (Ameli/200)"
-StdPlug			"Bipod MG34"
+StdPlug			"Bipod MG34 Folded"
 ACTOR			"Items\ameli.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98565,7 +98565,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "Galil556""NEGEV"
 StdPlug			"Machinegun clip (NEGEV/150)"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock"
 ACTOR			"Items\negevstd.act"
 IMAGE			"2x5.e5b"
@@ -98605,7 +98605,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "Galil556""NEGEV"
 StdPlug			"Machinegun clip (NEGEV/150)"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock_folded"
 ACTOR			"Items\negevstd.act"
 IMAGE			"2x4.e5b"
@@ -98645,7 +98645,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "Galil556""NEGEV"
 StdPlug			"Galil clip 5.56"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock"
 ACTOR			"Items\negev.act"
 IMAGE			"2x4.e5b"
@@ -98685,7 +98685,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "Galil556""NEGEV"
 StdPlug			"Galil clip 5.56"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock_folded"
 ACTOR			"Items\negev.act"
 IMAGE			"2x4.e5b"
@@ -98724,7 +98724,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Ultimax"
 StdPlug			"Machinegun clip (Ultimax/100)"
-StdPlug			"Minimi_bipod"
+StdPlug			"Minimi_bipod folded"
 ACTOR			"Items\ultimaxmk3lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -98762,7 +98762,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"C-MAG (M16/100)"
-StdPlug			"Minimi_bipod"
+StdPlug			"Minimi_bipod folded"
 ACTOR			"Items\ultimaxmk4lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -98800,7 +98800,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Stoner63LMG"
 StdPlug			"Machinegun clip (Stoner 63/100)"
-StdPlug			"Stoner63 Bipod"
+StdPlug			"Stoner63 Bipod Folded"
 ACTOR			"Items\stoner63lmgcar.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98838,7 +98838,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Stoner63LMG"
 StdPlug			"Machinegun clip (Stoner 63/100)"
-StdPlug			"Stoner63 Bipod"
+StdPlug			"Stoner63 Bipod Folded"
 ACTOR			"Items\stoner63lmgcarwr.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98876,7 +98876,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Stoner63LMG"
 StdPlug			"Machinegun clip (Stoner 63/100)"
-StdPlug			"Stoner63 Bipod"
+StdPlug			"Stoner63 Bipod Folded"
 ACTOR			"Items\stoner63lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98914,7 +98914,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Stoner63LMG"
 StdPlug			"Machinegun clip (Stoner 63/100)"
-StdPlug			"Stoner63 Bipod"
+StdPlug			"Stoner63 Bipod Folded"
 ACTOR			"Items\stoner63lmgwr.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98952,7 +98952,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BAR"
 StdPlug			"Rifle ammo clip (BAR/20)"
-StdPlug			"BAR bipod"
+StdPlug			"BAR bipod Folded"
 ACTOR			"Items\barwood.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98990,7 +98990,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BAR"
 StdPlug			"Rifle ammo clip (BAR/20)"
-//	StdPlug			"BAR bipod"
+//	StdPlug			"BAR bipod Folded"
 ACTOR			"Items\M1918_A2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -99030,7 +99030,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Type99LMG"
 StdPlug			"Machinegun ammo clip (Madsen/30)"
-StdPlug			"Madsen Bipod"
+StdPlug			"Madsen Bipod Folded"
 ACTOR			"Items\madsen.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99068,7 +99068,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "AriBayo"
 ATT Magazine	1 "Type99LMG"
 StdPlug			"Machinegun clip (Type 99/30)"
-StdPlug			"Type 99 Bipod"
+StdPlug			"Type 99 Bipod Folded"
 ACTOR			"Items\type99lmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99106,7 +99106,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BrenLMG"
 StdPlug			"Machinegun clip (Bren/30)"
-StdPlug			"BAR bipod"
+StdPlug			"BAR bipod Folded"
 ACTOR			"Items\brenlmg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99144,7 +99144,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (DSA-58OSW/30)"
-StdPlug			"BAR bipod"
+StdPlug			"BAR bipod Folded"
 ACTOR			"Items\brenlmg308.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99222,7 +99222,7 @@ ATT Bayonet		1 "FAL"
 blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
-StdPlug			"FALO Integrated Bipod"
+StdPlug			"FALO Integrated Bipod folded"
 StdPlug			"Rifle ammo clip (FN FAL/30)"
 ACTOR			"Items\fnfalnova_falo.act"
 IMAGE			"2x5.e5b"
@@ -99265,7 +99265,7 @@ blocks
 Silencer
 ATT Magazine	2 "DSA-58OSW""FNFAL"
 StdPlug			"Rifle ammo clip (IMBEL/20)"
-StdPlug			"FALO Integrated Bipod"
+StdPlug			"FALO Integrated Bipod folded"
 ACTOR			"Items\fnfalnova_fap.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99307,7 +99307,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Type88"
 StdPlug			"Ammo box mag (Type 88/200)"
-StdPlug			"Type88Bipod"
+StdPlug			"Type88Bipod Folded"
 ACTOR			"Items\type88.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99384,7 +99384,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "LewisLMG"
 StdPlug			"Machinegun clip (Lewis/47)"
-StdPlug			"Lewis Bipod"
+StdPlug			"Lewis Bipod Folded"
 ACTOR			"Items\lewisgun.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99422,7 +99422,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "LewisLMG3006"
 StdPlug			"Machinegun clip (Lewis3006/47)"
-StdPlug			"Lewis Bipod"
+StdPlug			"Lewis Bipod Folded"
 ACTOR			"Items\lewisgun.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99460,7 +99460,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "LewisLMG8x57"
 StdPlug			"Machinegun clip (Lewis8x57/47)"
-StdPlug			"Lewis Bipod"
+StdPlug			"Lewis Bipod Folded"
 ACTOR			"Items\lewisgun.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99498,7 +99498,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "DP27"
 StdPlug			"Pan magazine (DP 27 7.62/47)"
-StdPlug			"Machinegun Bipod (DP27)"
+StdPlug			"Machinegun Bipod (DP27) Folded"
 ACTOR			"Items\DP27_MG.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99536,7 +99536,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "DP27"
 StdPlug			"Pan magazine (DP 27 7.62/47)"
-StdPlug			"RP46Bipod"
+StdPlug			"RP46Bipod Folded"
 ACTOR			"Items\dpm.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99574,7 +99574,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PK"
 StdPlug			"Ammo box (PKM 7.62/100)"
-StdPlug			"RP46Bipod"
+StdPlug			"RP46Bipod Folded"
 ACTOR			"Items\rp46.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99612,7 +99612,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PK"
 StdPlug			"Ammo box (PKM 7.62/100)"
-StdPlug			"RP46Bipod"
+StdPlug			"RP46Bipod Folded"
 ACTOR			"Items\rp46.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99650,7 +99650,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PK"
 StdPlug			"Ammo box (PKM 7.62/100)"
-StdPlug			"Machinegun Bipod (PKM)"
+StdPlug			"Machinegun Bipod (PKM) folded"
 ACTOR			"Items\pkmn.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99688,7 +99688,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PK"
 StdPlug			"Ammo box (PKM 7.62/100)"
-StdPlug			"Machinegun Bipod (PKM)"
+StdPlug			"Machinegun Bipod (PKM) folded"
 ACTOR			"Items\pkmn.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99726,7 +99726,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M60Box"
 StdPlug			"Chain-gun ammo box (M60 7.62x51/100)"
-StdPlug			"Machinegun Bipod (PKM)"
+StdPlug			"Machinegun Bipod (PKM) folded"
 ACTOR			"Items\pkmn.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99766,7 +99766,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PK"
 StdPlug			"Ammo box (PKM 7.62/100)"
-StdPlug			"Machinegun Bipod (PKM)"
+StdPlug			"Machinegun Bipod (PKM) folded"
 ACTOR			"Items\pecheneg.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99804,7 +99804,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M60Box"
 StdPlug			"Chain-gun ammo box (M60 7.62x51/100)"
-StdPlug			"M60 Integrated Bipod"
+StdPlug			"M60 Integrated Bipod folded"
 ACTOR			"Items\m60.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99842,7 +99842,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M60Box"
 StdPlug			"Chain-gun ammo box (M60 7.62x51/100)"
-StdPlug			"Minimi_bipod"
+StdPlug			"Minimi_bipod folded"
 ACTOR			"Items\mk48.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -99880,7 +99880,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK21"
 StdPlug			"Ammo box (HK 7.62/150)"
-StdPlug			"HK Integrated Bipod"
+StdPlug			"HK Integrated Bipod folded"
 ACTOR			"Items\hk23.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99918,7 +99918,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "HK21"
 StdPlug			"Ammo box (HK 7.62/150)"
-StdPlug			"HK Integrated Bipod"
+StdPlug			"HK Integrated Bipod folded"
 ACTOR			"Items\hk23tb.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -100032,7 +100032,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG15"
 StdPlug			"Machinegun clip (MG15/75)"
-StdPlug			"PZB39 Bipod"
+StdPlug			"PZB39 Bipod Folded"
 StdPlug			"mg15stock"
 ACTOR			"Items\MG15.act"
 IMAGE			"2x5.e5b"
@@ -100071,7 +100071,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG15ARISAKA"
 StdPlug			"Machinegun clip (MG15ARISAKA/75)"
-StdPlug			"PZB39 Bipod"
+StdPlug			"PZB39 Bipod Folded"
 StdPlug			"mg15stock"
 ACTOR			"Items\MG15.act"
 IMAGE			"2x5.e5b"
@@ -100110,7 +100110,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG34"
 StdPlug			"Machinegun clip (MG34/50)"
-StdPlug			"Bipod MG34"
+StdPlug			"Bipod MG34 Folded"
 ACTOR			"Items\MG34.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100148,7 +100148,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG34"
 StdPlug			"Machinegun clip (MG34/50)"
-StdPlug			"Bipod MG34"
+StdPlug			"Bipod MG34 Folded"
 ACTOR			"Items\mg42.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100186,7 +100186,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG34"
 StdPlug			"Machinegun clip (MG34/50)"
-StdPlug			"Bipod MG34"
+StdPlug			"Bipod MG34 Folded"
 ACTOR			"Items\m53sarac.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100224,7 +100224,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG74"
 StdPlug			"Machinegun clip (MG74/50)"
-StdPlug			"Bipod MG34"
+StdPlug			"Bipod MG34 Folded"
 ACTOR			"Items\mg74.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100264,7 +100264,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG3_Clip"
 StdPlug			"Machinegun box (MG3/50)"
-StdPlug			"MG3 bipod"
+StdPlug			"MG3 bipod folded"
 ACTOR			"Items\MG3.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100305,7 +100305,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "NEGEV762"
 StdPlug			"Machinegun clip (NG7/100)"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock"
 ACTOR			"Items\negevng7std.act"
 IMAGE			"2x5.e5b"
@@ -100345,7 +100345,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "NEGEV762"
 StdPlug			"Machinegun clip (NG7/100)"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock_folded"
 ACTOR			"Items\negevng7std.act"
 IMAGE			"2x5.e5b"
@@ -100385,7 +100385,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "NEGEV762"
 StdPlug			"Machinegun clip (NG7/100)"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock"
 ACTOR			"Items\negevng7.act"
 IMAGE			"2x4.e5b"
@@ -100425,7 +100425,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "NEGEV762"
 StdPlug			"Machinegun clip (NG7/100)"
-StdPlug			"NEGEV Bipod"
+StdPlug			"NEGEV Bipod Folded"
 StdPlug			"negevstock_folded"
 ACTOR			"Items\negevng7.act"
 IMAGE			"2x4.e5b"
@@ -100464,7 +100464,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M240"
 StdPlug			"Chain-gun ammo box Alt (FN MAG 7.62x51/200)"
-StdPlug			"FN Mag Bipod"
+StdPlug			"FN Mag Bipod Folded"
 ACTOR			"Items\fnmag.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100502,7 +100502,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M240"
 StdPlug			"Chain-gun ammo box Alt (FN MAG 7.62x51/200)"
-StdPlug			"FN Mag Bipod"
+StdPlug			"FN Mag Bipod Folded"
 ACTOR			"Items\fnmagwr.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
@@ -100540,7 +100540,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "M240"
 StdPlug			"Chain-gun ammo box Alt (M240 7.62x51/100)"
-StdPlug			"Minimi_bipod"
+StdPlug			"Minimi_bipod folded"
 ACTOR			"Items\m240b.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
