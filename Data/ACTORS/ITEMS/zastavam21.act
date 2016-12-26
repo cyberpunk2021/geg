@@ -74,7 +74,7 @@ Material mat2 {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "ak103nova_3.dds";
+  "akzastava_1.dds";
  }
 }
 
