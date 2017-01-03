@@ -2219,7 +2219,6 @@ recolocar mira nas valmets
 - Permit script.
 - Weapons ordering.
 
-- Fort-17 isn't correctly centered.
 - AKS-74UB texture is shitty.
 
 bipods faltando:

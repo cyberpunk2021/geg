@@ -8,5 +8,23 @@
 	
 	<str id="lang/cfg/weaponorder/order/GEG762x39Shipment">Shipment with 3000 rounds of 7.62x39mm M43 Armor Piercing ammunition, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
 	<str id="lang/cfg/weaponorder/order/GEG762x39ShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 7.62x39mm M43 Armor Piercing ammunition, requires use of tools to open, which ARE included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG556x45Shipment">Shipment with 3000 rounds of 5.56x45mm, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
+	<str id="lang/cfg/weaponorder/order/GEG556x45ShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 5.56x45mm, requires use of tools to open, which ARE included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG556x45AlgeiraShipment">Shipment with 3000 rounds of 5.56x45mm, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Algeira.</str>
+	<str id="lang/cfg/weaponorder/order/GEG556x45AlgeiraShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 5.56x45mm, requires use of tools to open, which ARE included in the delivery. Place of Origin: Algeira.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG556x45CBCShipment">Shipment with 3000 rounds of 5.56x45mm M193 FMJ rounds, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Ribeirao Pires, Sao Paulo, Brazil - CBC.</str>
+	<str id="lang/cfg/weaponorder/order/GEG556x45CBCShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 5.56x45mm M193 FMJ rounds, requires use of tools to open, which ARE included in the delivery. Place of Origin: Ribeirao Pires, Sao Paulo, Brazil - CBC.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG556x45CBCAPShipment">Shipment with 3000 rounds of 5.56x45mm M995 Armor Piercing, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Ribeirao Pires, Sao Paulo, Brazil - CBC.</str>
+	<str id="lang/cfg/weaponorder/order/GEG556x45CBCAPShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 5.56x45mm M995 Armor Piercing, requires use of tools to open, which ARE included in the delivery. Place of Origin: Ribeirao Pires, Sao Paulo, Brazil - CBC.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG762x39PalShipment">Shipment with 3000 rounds of 7.62x39mm Palinero surplus ammunition, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Palinero.</str>
+	<str id="lang/cfg/weaponorder/order/GEG762x39PalShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 7.62x39mm Palinero surplus ammunition, requires use of tools to open, which ARE included in the delivery. Place of Origin: Palinero.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG545x39Shipment">Shipment with 3000 rounds of 5.45x39mm Palinero surplus ammunition, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Palinero.</str>
+	<str id="lang/cfg/weaponorder/order/GEG545x39ShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 5.45x39mm Palinero surplus ammunition, requires use of tools to open, which ARE included in the delivery. Place of Origin: Palinero.</str>
 
 </strings>
