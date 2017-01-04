@@ -224,11 +224,7 @@ USEPREFIX  ""
 IMAGE  "None"
 DEFAMMO  ".22LR Surplus"
 
-CLIP  "Pistol clip (Liberator45/1)"".45 ACP""built-in"1 0 "None"7000 
-ACTOR  "None"
-USEPREFIX  ""
-IMAGE  "None"
-DEFAMMO  ".45 ACP FMJ Ball"
+
 
 CLIP  "Pistol clip (SAA22LR/6)"".22LR""built-in"6 0 "None"7000 
 ACTOR  "None"
@@ -2586,7 +2582,11 @@ BOX "Big Ammo box GS (.45 ACP Ball)""Golden Saber (.45 ACP)"500 "Items\grenadeca
 
 BOX "CajaMunicionGrande (.45/1000)""M1911 Ball (.45 ACP)"500 "Items\grenadebox_ru.act""grenadebox_ru.e5b"
 
-
+CLIP  "Pistol clip (Liberator45/1)"".45 ACP""built-in"1 0 "None"7000 
+ACTOR  "None"
+USEPREFIX  ""
+IMAGE  "None"
+DEFAMMO  ".45 ACP FMJ Ball"
 
 CLIP  "Pistol clip (Colt/7)"".45 ACP""Colt"7 70 "None"500 
 ACTOR  "Items\op45-m1911-8.act"

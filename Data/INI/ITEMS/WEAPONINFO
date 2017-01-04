@@ -4983,7 +4983,7 @@ blocks
 Laser
 ATT Scope		1 "PistolDocter"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "Glock17""Glock18"
