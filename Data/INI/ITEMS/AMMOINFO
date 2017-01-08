@@ -461,7 +461,7 @@ WEIGHT 2000
 ACTOR "Items\dummy.act"
 USEPREFIX "_used"
 IMAGE "rpg18_grenade.e5b"
-WEIGHT 1200
+WEIGHT 1710
 
 "700 Nitro Round"
 "700 Nitro"

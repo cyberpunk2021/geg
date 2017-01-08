@@ -268,6 +268,7 @@ local Pistols4Barrels = {
 ["Pistol Glock 17 TB (9mm)"] = "Glock-17 threaded barrel",
 ["Pistol Glock 21 TB (.45 ACP)"] ="Glock-21 threaded barrel",
 ["Pistol Glock 22 TB (.40 S&W)"] = "Glock-22 threaded barrel",  
+["Pistol USP Tactical (.45 ACP)"] = "USP45 threaded barrel",  
 ["Sniper Rifle HK SR9 TB (7.62x51mm)"] = "SR9 threaded barrel",
 ["Sniper Rifle HK SR9TC TB (7.62x51mm)"] = "SR9 threaded barrel",
 ["Chain-gun HK21e TB (7.62x51mm)"] = "HK21 threaded barrel",
@@ -323,6 +324,7 @@ end
 AddItemCombineHandler("Glock-17 threaded barrel", "Pistol Glock 17 (9mm)", AttachForegrip)
 AddItemCombineHandler("Glock-21 threaded barrel", "Pistol Glock 21 (.45 ACP)", AttachForegrip)
 AddItemCombineHandler("Glock-22 threaded barrel", "Pistol Glock 22 (.40 S&W)", AttachForegrip)
+AddItemCombineHandler("USP45 threaded barrel", "Pistol USP (.45 ACP)", AttachForegrip)
 AddItemCombineHandler("SR9 threaded barrel", "Sniper Rifle HK SR9 (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("SR9 threaded barrel", "Sniper Rifle HK SR9TC (7.62x51mm)", AttachForegrip)
 AddItemCombineHandler("HK21 threaded barrel", "Chain-gun HK21e (7.62x51mm)", AttachForegrip)
@@ -333,6 +335,7 @@ local action_detach_barrel = _t"lang/lua/fptb/detach_barrel"
 AddItemContextMenu("Pistol Glock 17 TB (9mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Pistol Glock 21 TB (.45 ACP)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Pistol Glock 22 TB (.40 S&W)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
+AddItemContextMenu("Pistol USP Tactical (.45 ACP)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Sniper Rifle HK SR9 TB (7.62x51mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Sniper Rifle HK SR9TC TB (7.62x51mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)
 AddItemContextMenu("Chain-gun HK21e TB (7.62x51mm)", action_detach_barrel, DetachPistolTB, CanDetachPistolTB)

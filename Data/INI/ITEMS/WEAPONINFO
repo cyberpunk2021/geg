@@ -42233,7 +42233,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -42270,7 +42270,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -42307,7 +42307,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -42344,7 +42344,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -42381,7 +42381,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -42418,7 +42418,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77315,7 +77315,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77354,7 +77354,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77393,7 +77393,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77432,7 +77432,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77470,7 +77470,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77507,7 +77507,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77544,7 +77544,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77581,7 +77581,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77618,7 +77618,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77655,7 +77655,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77692,7 +77692,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77729,7 +77729,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77769,7 +77769,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77808,7 +77808,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77846,7 +77846,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77883,7 +77883,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77920,7 +77920,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77958,7 +77958,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -77997,7 +77997,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -78035,7 +78035,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -78072,7 +78072,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -78109,7 +78109,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\AKM.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		2 "AssaultBipod""BM1" blocks Bipod and Bayonet
 ATT Silencer	0
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
@@ -97071,7 +97071,7 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -97109,7 +97109,7 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -97147,7 +97147,7 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -97185,7 +97185,7 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -97223,7 +97223,7 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -97261,7 +97261,7 @@ ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
 ShootSound		"Weapon\Shoot\RPK.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
-ATT Scope		0
+ATT Scope		1 "AK"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -102215,7 +102215,7 @@ ITEM "Launcher M202A1 FLASH"
 Class			Rifle
 Caliber			"None"
 Weight			5728
-PrepareTime		0.3
+PrepareTime		0.38
 SingleFireTime	0.3
 BurstFireTime	0
 SpeedModifier	1

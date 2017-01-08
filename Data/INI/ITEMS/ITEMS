@@ -963,6 +963,11 @@ None
 None  "Items\glock22_barell.act""threaded_barrel.e5b"
 130
 
+"USP45 threaded barrel"
+None
+None  "Items\pt100_barell.act""threaded_barrel.e5b"
+150
+
 "Taurus PT100 threaded barrel"
 None
 None  "Items\pt100_barell.act""threaded_barrel.e5b"
