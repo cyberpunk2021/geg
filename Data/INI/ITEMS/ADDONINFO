@@ -9288,6 +9288,40 @@ WEIGHT			0
 Resource		0
 
 //------------------------------------------------------
+Addon			"boitotacstock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\boito_tac_stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"boitotacstock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\boito_tac_stock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
+Addon			"cbctacstock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\cbcpump_tac_stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"cbctacstock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\cbcpump_tac_stock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
 Addon			"RPK Bipod Nova"
 Bipod			"built-in"
 Sound			"None""None"

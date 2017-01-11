@@ -31448,43 +31448,6 @@ ACTOR			"Items\remM870Express.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtShotgun
 
-ITEM "Baikal (12ga)"
-Class			Shotgun
-Caliber			"12 калибр"
-Weight			3450
-PrepareTime		0.40
-SingleFireTime	0.94
-BurstFireTime	0.3
-SpeedModifier	1.06
-Resource		2000
-DirtResource	130000
-MisfireProb		0.0015
-HeatCapacity	25
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	0
-MaxRange		200
-EffectiveRange	68
-RangeCurvature	5
-Balance			0.43
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
-ReLockSound		"Weapon\ReLock\m3_pump.wav"
-ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "built-in"
-StdPlug			"Shotgun ammo clip (MS590/5)"
-ACTOR			"Items\baikal.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
-
 ITEM "Winchester 1892 trapper 12ga"
 Class			Shotgun
 Caliber			"12 калибр"
@@ -32200,6 +32163,80 @@ ACTOR			"Items\rem1187lb.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
+ITEM "Baikal 133 (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3500
+PrepareTime		0.38
+SingleFireTime	1.27
+BurstFireTime	0.3
+SpeedModifier	1.07
+Resource		2200
+DirtResource	210000
+MisfireProb		0.0015
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		200
+EffectiveRange	66
+RangeCurvature	5
+Balance			0.43
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m870/7)"
+ACTOR			"Items\baikal133.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Baikal (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3450
+PrepareTime		0.40
+SingleFireTime	0.94
+BurstFireTime	0.3
+SpeedModifier	1.06
+Resource		2000
+DirtResource	130000
+MisfireProb		0.0015
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		200
+EffectiveRange	68
+RangeCurvature	5
+Balance			0.43
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (MS590/5)"
+ACTOR			"Items\baikal.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
 ITEM "Baikal 153 SB (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
@@ -32436,45 +32473,7 @@ ACTOR			"Items\mp153lb.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-
-ITEM "Shotgun Mossberg 590A1 (12ga)"
-Class			Shotgun
-Caliber			"12 калибр"
-Weight			3170
-PrepareTime		0.34
-SingleFireTime	0.88
-BurstFireTime	0.4615
-SpeedModifier	1.01
-Resource		2300
-DirtResource	260000
-MisfireProb		0.0018
-HeatCapacity	35
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	0
-MaxRange		150
-EffectiveRange	64
-RangeCurvature	5
-Balance			0.57
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
-ReLockSound		"Weapon\ReLock\m3_pump.wav"
-ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "built-in"
-StdPlug			"Shotgun ammo clip (m870/7)"
-ACTOR			"Items\mossberg590.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Shotgun Mossberg 590A1 LB (12ga)"
+ITEM "Shotgun CBC PUMP (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
 Weight			3288
@@ -32507,9 +32506,654 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\cbcpump.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP LB (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\cbcpumplb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP PGRIP (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\cbcpump_pgrip.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP PGRIP LB (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\cbcpump_pgriplb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP POLY (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\cbcpump_poly.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP POLY LB (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\cbcpump_polylb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP TAC (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun CBC PUMP TAC (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"cbctacstock"
+ACTOR			"Items\cbcpump_tac.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP TAC (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun CBC PUMP TAC (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"cbctacstock_folded"
+ACTOR			"Items\cbcpump_tac.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP TAC LB (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun CBC PUMP TAC LB (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"cbctacstock"
+ACTOR			"Items\cbcpump_taclb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun CBC PUMP TAC LB (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun CBC PUMP TAC LB (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"cbctacstock_folded"
+ACTOR			"Items\cbcpump_taclb.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Boito PUMP (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.41
+SingleFireTime	1.34
+BurstFireTime	0.4615
+SpeedModifier	1.07
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\boito.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Boito PUMP POLY (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+ACTOR			"Items\boitopoly.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Boito PUMP POLY FG (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun Boito PUMP POLY FG (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"boitotacstock"
+ACTOR			"Items\boito_tac.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Boito PUMP POLY FG (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun Boito PUMP POLY FG (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"boitotacstock_folded"
+ACTOR			"Items\boito_tac.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Boito PUMP POLY FG CQC (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun Boito PUMP POLY FG CQC (12ga) folded"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"boitotacstock"
+ACTOR			"Items\boito_tac_cqc.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Boito PUMP POLY FG CQC (12ga) folded"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.35
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2200
+DirtResource	250000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+Unfold		"Shotgun Boito PUMP POLY FG CQC (12ga)"
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
+StdPlug			"boitotacstock_folded"
+ACTOR			"Items\boito_tac_cqc.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Mossberg 590A1 (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3070
+PrepareTime		0.35
+SingleFireTime	1.21
+BurstFireTime	0.4615
+SpeedModifier	1.01
+Resource		2300
+DirtResource	260000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	61
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m870/7)"
+ACTOR			"Items\mossberg590.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtShotgun
+
+ITEM "Shotgun Mossberg 590A1 LB (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3288
+PrepareTime		0.38
+SingleFireTime	1.28
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2300
+DirtResource	260000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (m590a1/9)"
 ACTOR			"Items\mossberg590lb.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtRifle
+HANDS			ahtShotgun
 
 /////////-----------------
 
@@ -32718,6 +33362,80 @@ MaxRange		150
 EffectiveRange	53
 RangeCurvature	5
 Balance			0.57
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (BenelliM1/7)"
+ACTOR			"Items\benellim1.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Shotgun Benelli M2 (12ga)"
+Class			Shotgun
+Caliber			"12 калибр"
+Weight			3100
+PrepareTime		0.36
+SingleFireTime	0.91
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2000
+DirtResource	170000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	53
+RangeCurvature	5
+Balance			0.63
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Shotgun ammo clip (BI/7)"
+ACTOR			"Items\benellim1.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Shotgun Benelli M2 (20ga)"
+Class			Shotgun
+Caliber			"20 Gauge"
+Weight			3100
+PrepareTime		0.35
+SingleFireTime	0.88
+BurstFireTime	0.4615
+SpeedModifier	1.03
+Resource		2000
+DirtResource	170000
+MisfireProb		0.0018
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	53
+RangeCurvature	5
+Balance			0.63
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"

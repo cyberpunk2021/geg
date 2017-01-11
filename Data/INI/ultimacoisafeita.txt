@@ -2260,6 +2260,36 @@ until detonation.
 "USP45 threaded barrel"
 
 
+*******************************
+
+"Shotgun Benelli M2 (12ga)"
+"Shotgun Benelli M2 (20ga)"
+"Baikal 133 (12ga)"
+"Shotgun CBC PUMP (12ga)"
+"Shotgun CBC PUMP LB (12ga)"
+"Shotgun CBC PUMP PGRIP (12ga)"
+"Shotgun CBC PUMP PGRIP LB (12ga)"
+"Shotgun CBC PUMP POLY (12ga)"
+"Shotgun CBC PUMP POLY LB (12ga)"
+"Shotgun CBC PUMP TAC (12ga)"
+"Shotgun CBC PUMP TAC LB (12ga)"
+"Shotgun CBC PUMP TAC (12ga) folded"
+"Shotgun CBC PUMP TAC LB (12ga) folded"
+"Shotgun Boito PUMP (12ga)"
+"Shotgun Boito PUMP POLY (12ga)"
+"Shotgun Boito PUMP POLY FG (12ga)"
+
+
+
+"Shotgun Boito PUMP POLY FG (12ga) folded"
+"Shotgun Boito PUMP POLY FG CQC (12ga)"
+"Shotgun Boito PUMP POLY FG CQC (12ga) folded"
+
+
+"cbctacstock"
+"cbctacstock_folded"
+"boitotacstock"
+"boitotacstock_folded"
 
 
 
