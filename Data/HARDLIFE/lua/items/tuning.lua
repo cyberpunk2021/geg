@@ -43,13 +43,9 @@ end
  local ForestockItems = {
 --std weapons
  ["Submachine-gun HK MP5A5 (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",
-
  ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 RIS (9mm) folded",
-
-  
-  ["Submachine-gun NR-08 (9mm)"] = "Submachine-gun NR-08 RIS (9mm)",
- ["Submachine-gun NR-08 (9mm) folded"] = "Submachine-gun NR-08 RIS (9mm) folded",
- 
+ ["Submachine-gun NR-08 (9mm)"] = "Submachine-gun NR-08 RIS (9mm)",
+ ["Submachine-gun NR-08 (9mm) folded"] = "Submachine-gun NR-08 RIS (9mm) folded", 
  ["Submachine-gun HK MP5A5 (.40 S&W)"] = "Submachine-gun HK MP5A5 RIS (.40 S&W)",
  ["Submachine-gun HK MP5A5 (.40 S&W) folded"] = "Submachine-gun HK MP5A5 RIS (.40 S&W) folded",
  ["HK MP5A3 (10)"] = "Submachine-gun HK MP5A5 RIS (10)",
@@ -80,11 +76,9 @@ end
  local RISForestockItems = {
 --weapons with RIS
  ["Submachine-gun HK MP5A5 RIS (9mm)"] = "Submachine-gun HK MP5A5 (9mm)",
- ["Submachine-gun HK MP5A5 RIS (9mm) folded"] = "Submachine-gun HK MP5A5 (9mm) folded",
- 
-  ["Submachine-gun NR-08 RIS (9mm)"] = "Submachine-gun NR-08 (9mm)",
- ["Submachine-gun NR-08 RIS (9mm) folded"] = "Submachine-gun NR-08 (9mm) folded",
- 
+ ["Submachine-gun HK MP5A5 RIS (9mm) folded"] = "Submachine-gun HK MP5A5 (9mm) folded", 
+ ["Submachine-gun NR-08 RIS (9mm)"] = "Submachine-gun NR-08 (9mm)",
+ ["Submachine-gun NR-08 RIS (9mm) folded"] = "Submachine-gun NR-08 (9mm) folded", 
  ["Submachine-gun HK MP5A5 RIS (.40 S&W)"] = "Submachine-gun HK MP5A5 (.40 S&W)",
  ["Submachine-gun HK MP5A5 RIS (.40 S&W) folded"] = "Submachine-gun HK MP5A5 (.40 S&W) folded",
  ["Submachine-gun HK MP5A5 RIS (10)"] = "HK MP5A3 (10)",
@@ -113,11 +107,9 @@ end
  local FoldStockItems = {
 --weapons with foldable stock
  ["Submachine-gun HK MP5A5 (9mm)"] = "Submachine-gun HK MP5A5 (9mm)",
- ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 (9mm)",
- 
+ ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 (9mm)", 
  ["Submachine-gun NR-08 (9mm)"] = "Submachine-gun NR-08 (9mm)",
- ["Submachine-gun NR-08 (9mm) folded"] = "Submachine-gun NR-08 (9mm)",
- 
+ ["Submachine-gun NR-08 (9mm) folded"] = "Submachine-gun NR-08 (9mm)", 
  ["Submachine-gun HK MP5A5 (.40 S&W)"] = "Submachine-gun HK MP5A5 (.40 S&W)",
  ["Submachine-gun HK MP5A5 (.40 S&W) folded"] = "Submachine-gun HK MP5A5 (.40 S&W)",
  ["Submachine-gun HK MP5SD5 (9mm)"] = "Submachine-gun HK MP5SD5 (9mm)",
@@ -190,10 +182,8 @@ local FoldBipodItems = {
     ["SVU bipod"] = "SVU bipod folded",
     ["Galil bipod"] = "Galil bipod folded",
     ["Type 64 Bipod"] = "Type 64 Bipod Folded",
-	
     ["Type 96 Bipod"] = "Type 96 Bipod Folded",
     ["Type 99 Bipod"] = "Type 99 Bipod Folded",
-
     ["Bipod MG34"] = "Bipod MG34 Folded",
     ["Stoner63 Bipod"] = "Stoner63 Bipod Folded",
     ["FN Mag Bipod"] = "FN Mag Bipod Folded",
@@ -229,7 +219,9 @@ local FoldBipodItems = {
 	["QBUBipod"] = "QBUBipod Folded",
 	["RPK Bipod Nova"] = "RPK Bipod Nova Folded",
 	["RPK Bipod Nova Wide"] = "RPK Bipod Nova Wide Folded",
-
+	["RPK12 Bipod"] = "RPK12 Bipod Folded",
+	["Zastava Bipod"] = "Zastava Bipod Folded",
+	["Valmet78 Bipod"] = "Valmet78 Bipod Folded",
 }
 local UnFoldBipodItems = {}
 for unfolded,folded in pairs(FoldBipodItems) do
@@ -584,6 +576,9 @@ AddItemContextMenu("SIG550 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("QBUBipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("RPK Bipod Nova", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("RPK Bipod Nova Wide", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("RPK12 Bipod", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Zastava Bipod", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Valmet78 Bipod", action_fold, FoldBipod, CanFoldBipod)
 
 AddItemContextMenu("AUG Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("FALO Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
@@ -635,6 +630,9 @@ AddItemContextMenu("SIG550 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod
 AddItemContextMenu("QBUBipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("RPK Bipod Nova Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("RPK Bipod Nova Wide Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("RPK12 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Zastava Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Valmet78 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 
 AddContextMenu(_t"lang/lua/tuning/fold_bipods", FoldWeaponBipod, CanFoldWeaponBipod)
 AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWeaponBipod)
