@@ -2202,7 +2202,6 @@ CHECKLIST FINAL
 
 alterar law.lua (permits)
 foldar bipods das armas bsm (intervention)
-rpk bipod lmgs bugada
 t65 handle modelo correto
 fazer as bullpups terem ahtBullpup
 faltando parei em 'Sniper Rifle Remington SPS Tactical AAC-SD'
@@ -2294,7 +2293,9 @@ until detonation.
 
 
 10:55 - Silveryte: hey there, all i need to set is so that weapons of caliber 22LR are always civilian, and shotguns with detachable magazine (magazine different from "built-in" return service
-16:09 - Xelat: Hi. The check of weapon type divided into two separate functions. First determine weapon type at game startup for raw abstract item, and second function raise type for this weapon if some conditions met for item instance including attaches and etc. So first question is where you want to add your rules? I think the second rule should be static and come into first function to define at startup time, and first rule vise versa. For static it's function 'buildItemLawType' in law.lua file. In code block with checks related to weapon default plugins add check for something like "if plugFamily == Family.ifClip and plugItem:IsBuiltIn() then return LawType.Special end". For runtime check for caliber add to function GetLawForItem check right after checking for Toy type, like "if itemInfo:GetCaliber() == "22LR" then return LawType.Civilian end".
+16:09 - Xelat: Hi. The check of weapon type divided into two separate functions. First determine weapon type at game startup for raw abstract item, and second function raise type for this weapon if some conditions met for item instance including attaches and etc.
+
+So first question is where you want to add your rules? I think the second rule should be static and come into first function to define at startup time, and first rule vise versa. For static it's function 'buildItemLawType' in law.lua file. In code block with checks related to weapon default plugins add check for something like "if plugFamily == Family.ifClip and plugItem:IsBuiltIn() then return LawType.Special end". For runtime check for caliber add to function GetLawForItem check right after checking for Toy type, like "if itemInfo:GetCaliber() == "22LR" then return LawType.Civilian end".
 16:12 - Xelat: ah, forget in first case add check for shotgun. then  "if weaponClass == wcShotgun and plugFamily == Family.ifClip and plugItem:IsBuiltIn() then return LawType.Special end"
 16:12 - Xelat: also definitely you should move line "local weaponClass = info["Class"]" upper before cycle with plugs checks
 21:35 - Xelat agora está Offline.

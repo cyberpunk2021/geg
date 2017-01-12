@@ -11,7 +11,7 @@ local wcLauncher = 8
 local wcOther = 9
 
 local ammoAirsoft = "6 mm Airsoft pellets"
-local ammoLongRifle = ".22LR Surplus"
+local ammoLongRifle = ".22LR"
 
 LawType = {
     Toy         = 0,
