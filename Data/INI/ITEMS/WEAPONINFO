@@ -32257,7 +32257,7 @@ MaxRange		200
 EffectiveRange	42
 RangeCurvature	5
 Balance			0.43
-Unfold		"Baikal 153 SB (12ga) folded"
+Unfold			"Baikal 153 SB (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32296,7 +32296,7 @@ MaxRange		200
 EffectiveRange	22
 RangeCurvature	5
 Balance			0.43
-Unfold		"Baikal 153 SB (12ga)"
+Unfold			"Baikal 153 SB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32336,7 +32336,7 @@ MaxRange		200
 EffectiveRange	51
 RangeCurvature	5
 Balance			0.43
-Unfold		"Baikal 153 (12ga) folded"
+Unfold			"Baikal 153 (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32375,7 +32375,7 @@ MaxRange		200
 EffectiveRange	31
 RangeCurvature	5
 Balance			0.43
-Unfold		"Baikal 153 (12ga)"
+Unfold			"Baikal 153 (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32415,7 +32415,7 @@ MaxRange		200
 EffectiveRange	63
 RangeCurvature	5
 Balance			0.43
-Unfold		"Baikal 153 LB (12ga) folded"
+Unfold			"Baikal 153 LB (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32454,7 +32454,7 @@ MaxRange		200
 EffectiveRange	43
 RangeCurvature	5
 Balance			0.43
-Unfold		"Baikal 153 LB (12ga)"
+Unfold			"Baikal 153 LB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32715,7 +32715,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun CBC PUMP TAC (12ga) folded"
+Unfold			"Shotgun CBC PUMP TAC (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32754,7 +32754,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun CBC PUMP TAC (12ga)"
+Unfold			"Shotgun CBC PUMP TAC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32793,7 +32793,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun CBC PUMP TAC LB (12ga) folded"
+Unfold			"Shotgun CBC PUMP TAC LB (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32832,7 +32832,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun CBC PUMP TAC LB (12ga)"
+Unfold			"Shotgun CBC PUMP TAC LB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32945,7 +32945,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun Boito PUMP POLY FG (12ga) folded"
+Unfold			"Shotgun Boito PUMP POLY FG (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32984,7 +32984,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun Boito PUMP POLY FG (12ga)"
+Unfold			"Shotgun Boito PUMP POLY FG (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -33023,7 +33023,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun Boito PUMP POLY FG CQC (12ga) folded"
+Unfold			"Shotgun Boito PUMP POLY FG CQC (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -33062,7 +33062,7 @@ MaxRange		150
 EffectiveRange	70
 RangeCurvature	5
 Balance			0.57
-Unfold		"Shotgun Boito PUMP POLY FG CQC (12ga)"
+Unfold			"Shotgun Boito PUMP POLY FG CQC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -101441,7 +101441,7 @@ MaxRange		300
 EffectiveRange	126
 RangeCurvature	7
 Balance			0.51
-Unfold		"Pallad Standalone folded"
+Unfold			"Pallad Standalone folded"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
@@ -101481,7 +101481,7 @@ MaxRange		300
 EffectiveRange	76
 RangeCurvature	7
 Balance			0.51
-Unfold		"Pallad Standalone"
+Unfold			"Pallad Standalone"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
@@ -101521,7 +101521,7 @@ MaxRange		300
 EffectiveRange	150
 RangeCurvature	7
 Balance			0.51
-Unfold		"SIG550GL Standalone folded"
+Unfold			"SIG550GL Standalone folded"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
@@ -101561,7 +101561,7 @@ MaxRange		300
 EffectiveRange	100
 RangeCurvature	7
 Balance			0.51
-Unfold		"SIG550GL Standalone"
+Unfold			"SIG550GL Standalone"
 ClipInSound		"Weapon\ClipIn\gren_in.wav"
 ClipOutSound	"Weapon\ClipOut\gren_in_from_equipment.wav"
 ReLockSound		"Weapon\ReLock\None"
