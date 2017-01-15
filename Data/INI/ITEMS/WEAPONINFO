@@ -32582,7 +32582,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m590a1/9)"
 ACTOR			"Items\cbcpump_pgrip.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP PGRIP LB (12ga)"
 Class			Shotgun
@@ -32619,7 +32619,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m590a1/9)"
 ACTOR			"Items\cbcpump_pgriplb.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP POLY (12ga)"
 Class			Shotgun
@@ -32656,7 +32656,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m590a1/9)"
 ACTOR			"Items\cbcpump_poly.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP POLY LB (12ga)"
 Class			Shotgun
@@ -32693,7 +32693,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m590a1/9)"
 ACTOR			"Items\cbcpump_polylb.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP TAC (12ga)"
 Class			Shotgun
@@ -32732,7 +32732,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"cbctacstock"
 ACTOR			"Items\cbcpump_tac.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP TAC (12ga) folded"
 Class			Shotgun
@@ -32771,7 +32771,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"cbctacstock_folded"
 ACTOR			"Items\cbcpump_tac.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP TAC LB (12ga)"
 Class			Shotgun
@@ -32810,7 +32810,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"cbctacstock"
 ACTOR			"Items\cbcpump_taclb.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP TAC LB (12ga) folded"
 Class			Shotgun
@@ -32849,7 +32849,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"cbctacstock_folded"
 ACTOR			"Items\cbcpump_taclb.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun Boito PUMP (12ga)"
 Class			Shotgun
@@ -32923,7 +32923,7 @@ ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m590a1/9)"
 ACTOR			"Items\boitopoly.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun Boito PUMP POLY FG (12ga)"
 Class			Shotgun
@@ -32962,7 +32962,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"boitotacstock"
 ACTOR			"Items\boito_tac.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRG
 
 ITEM "Shotgun Boito PUMP POLY FG (12ga) folded"
 Class			Shotgun
@@ -33001,7 +33001,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"boitotacstock_folded"
 ACTOR			"Items\boito_tac.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRG
 
 ITEM "Shotgun Boito PUMP POLY FG CQC (12ga)"
 Class			Shotgun
@@ -33040,7 +33040,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"boitotacstock"
 ACTOR			"Items\boito_tac_cqc.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRG
 
 ITEM "Shotgun Boito PUMP POLY FG CQC (12ga) folded"
 Class			Shotgun
@@ -33079,7 +33079,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"boitotacstock_folded"
 ACTOR			"Items\boito_tac_cqc.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtShotgun
+HANDS			ahtRG
 
 ITEM "Shotgun Mossberg 590A1 (12ga)"
 Class			Shotgun
