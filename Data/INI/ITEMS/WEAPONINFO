@@ -33412,7 +33412,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (BI/7)"
-ACTOR			"Items\benellim1.act"
+ACTOR			"Items\benellim2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 

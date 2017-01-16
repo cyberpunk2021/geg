@@ -2292,6 +2292,9 @@ until detonation.
 
 
 
+
+"PK AS Red Dot (AK)"
+
 10:55 - Silveryte: hey there, all i need to set is so that weapons of caliber 22LR are always civilian, and shotguns with detachable magazine (magazine different from "built-in" return service
 16:09 - Xelat: Hi. The check of weapon type divided into two separate functions. First determine weapon type at game startup for raw abstract item, and second function raise type for this weapon if some conditions met for item instance including attaches and etc.
 

@@ -3081,6 +3081,17 @@ IMAGE			"barskaglasspicmp5.dds"
 WEIGHT			185
 Resource		7000
 //------------------------------------------------------
+Addon  "PK AS Red Dot (AK)"
+Scope  "AK"
+Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+Scope  
+Collimator  "collimator_aimpoint_comp_M.e6b"
+Distance  140 
+ACTOR  "Items\pkas.act"
+IMAGE  "pksdot.e5b"
+WEIGHT  447 
+Resource  5000 
+//------------------------------------------------------
 Addon			"Collimator EKP-8-02 'Cobra' (AK)"
 Scope			"AK"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
