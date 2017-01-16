@@ -32720,8 +32720,8 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -32759,8 +32759,8 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -32798,8 +32798,8 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
@@ -32837,8 +32837,8 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
 ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
