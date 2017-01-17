@@ -62649,7 +62649,7 @@ MaxRange		200
 EffectiveRange	70
 RangeCurvature	5.7
 Balance			0.48
-Unfold			"HK416CQB FG PISTOL"
+Unfold			"HK416CQB PISTOL FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
