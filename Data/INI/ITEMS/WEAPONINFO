@@ -101417,7 +101417,7 @@ StdPlug			"RG-6 mag"
 StdPlug			"rpg-7 launcher"
 ACTOR			"Items\rpgtype69.act"
 IMAGE			"rpg-7.e5b"
-HANDS			ahtPistol
+HANDS			ahtRifle
 
 /////-------------------------
 
