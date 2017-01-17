@@ -33403,9 +33403,9 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
@@ -33440,16 +33440,16 @@ ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
 ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (BenelliM1/7)"
-ACTOR			"Items\benellim1.act"
+ACTOR			"Items\benellim2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
