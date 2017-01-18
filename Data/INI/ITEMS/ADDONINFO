@@ -3086,7 +3086,7 @@ Scope  "AK"
 Sound  "Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 Scope  
 Collimator  "collimator_aimpoint_comp_M.e6b"
-Distance  140 
+Distance  107
 ACTOR  "Items\pkas.act"
 IMAGE  "pksdot.e5b"
 WEIGHT  447 
@@ -9328,6 +9328,40 @@ Addon			"cbctacstock_folded"
 Stock			"built-in"
 Sound			"None""None"
 ACTOR			"Items\cbcpump_tac_stock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
+Addon			"boitoscopicstock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\boito_scopic_stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"boitoscopicstock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\boito_scopic_stock_folded.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+
+//------------------------------------------------------
+Addon			"cbcscopicstock"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\cbcpumpscopic_stock.act"
+IMAGE			"None"
+WEIGHT			0
+Resource		0
+//------------------------------------------------------
+Addon			"cbcscopicstock_folded"
+Stock			"built-in"
+Sound			"None""None"
+ACTOR			"Items\cbcpumpscopic_stock_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0

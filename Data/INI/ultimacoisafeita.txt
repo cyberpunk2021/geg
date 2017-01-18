@@ -2261,9 +2261,18 @@ until detonation.
 
 *******************************
 
+
+
 "Shotgun Benelli M2 (12ga)"
 "Shotgun Benelli M2 (20ga)"
+
+
+
 "Baikal 133 (12ga)"
+
+PAREI STATS AQUI
+
+
 "Shotgun CBC PUMP (12ga)"
 "Shotgun CBC PUMP LB (12ga)"
 "Shotgun CBC PUMP PGRIP (12ga)"
@@ -2289,11 +2298,24 @@ until detonation.
 "cbctacstock_folded"
 "boitotacstock"
 "boitotacstock_folded"
-
-
+"boitoscopicstock"
+"boitoscopicstock_folded"
+"cbcscopicstock"
+"cbcscopicstock_folded"
 
 
 "PK AS Red Dot (AK)"
+"Shotgun Boito PUMP POLY SCOPIC (12ga)"
+"Shotgun Boito PUMP POLY SCOPIC (12ga) folded"
+"Shotgun CBC PUMP TAC SCOPIC (12ga)"
+"Shotgun CBC PUMP TAC SCOPIC (12ga) folded"
+"Shotgun CBC PUMP TAC SCOPIC LB (12ga)"
+"Shotgun CBC PUMP TAC SCOPIC LB (12ga) folded"
+
+
+
+
+
 
 10:55 - Silveryte: hey there, all i need to set is so that weapons of caliber 22LR are always civilian, and shotguns with detachable magazine (magazine different from "built-in" return service
 16:09 - Xelat: Hi. The check of weapon type divided into two separate functions. First determine weapon type at game startup for raw abstract item, and second function raise type for this weapon if some conditions met for item instance including attaches and etc.

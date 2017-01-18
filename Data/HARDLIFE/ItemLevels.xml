@@ -394,6 +394,7 @@
   <item level="5">Collimator Aimpoint Comp M (WR)</item>
   <item level="5">Collimator Aimpoint Comp ML XD (MP5)</item>
   <item level="5">Collimator EKP-8-02 'Cobra' (AK)</item>
+  <item level="6">PK AS Red Dot (AK)</item>
   <item level="5">Collimator M68 CCO (M16)</item>
   <item level="8">F2000 Launcher</item>
   <item level="0">FALO Integrated Bipod</item>
@@ -4991,4 +4992,10 @@
   <item level="3">Shotgun CBC PUMP TAC (12ga) folded</item>
   <item level="3">Shotgun CBC PUMP TAC LB (12ga) folded</item>
   <item level="3">Shotgun CBC PUMP TAC LB (12ga)</item>
+  <item level="3">Shotgun Boito PUMP POLY SCOPIC (12ga)</item>
+  <item level="3">Shotgun Boito PUMP POLY SCOPIC (12ga) folded</item>
+  <item level="3">Shotgun CBC PUMP TAC SCOPIC (12ga)</item>
+  <item level="3">Shotgun CBC PUMP TAC SCOPIC (12ga) folded</item>
+  <item level="3">Shotgun CBC PUMP TAC SCOPIC LB (12ga) folded</item>
+  <item level="3">Shotgun CBC PUMP TAC SCOPIC LB (12ga)</item>
 </root>
