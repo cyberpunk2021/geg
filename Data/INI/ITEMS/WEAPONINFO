@@ -48181,7 +48181,7 @@ ITEM "Carabine Imbel MD-2A1 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4400
-PrepareTime		0.42
+PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -48224,7 +48224,7 @@ ITEM "Carabine Imbel MD-2A1 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4400
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -48267,7 +48267,7 @@ ITEM "Carabine Imbel MD-3A1 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4400
-PrepareTime		0.42
+PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -53466,12 +53466,12 @@ ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\G3.wav"
-ATT Laser		1 "Barrel Mount" blocks ILauncher
-ATT Light		1 "Barrel Mount" blocks ILauncher
-ATT Scope		1 "HK MP5"
-ATT Bipod		1 "AssaultBipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 7,62" blocks Bayonet and ILauncher
-ATT ILauncher	1 "hk" blocks Bipod and Laser and Light and Silencer
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		0
+ATT Bipod		1 "AssaultBipod"
+ATT Silencer	1 "Supressor - 7,62" blocks Bayonet
+ATT ILauncher	0
 ATT Bayonet		1 "HK" blocks Silencer
 ATT Magazine	1 "CETME"
 StdPlug			"Rifle ammo clip (CETME/20)"
@@ -72041,7 +72041,7 @@ ITEM "Assault Rifle Imbel MD-2 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4400
-PrepareTime		0.42
+PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -72084,7 +72084,7 @@ ITEM "Assault Rifle Imbel MD-2 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4400
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -72127,7 +72127,7 @@ ITEM "Assault Rifle Imbel MD-3 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4400
-PrepareTime		0.42
+PrepareTime		0.43
 SingleFireTime	0.75
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -72164,7 +72164,7 @@ ITEM "Assault Rifle Imbel MD-4 (5.56mm)"
 Class Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4100
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.71
 BurstFireTime	0.075
 SpeedModifier	1.03
@@ -92333,7 +92333,7 @@ MaxRange		300
 EffectiveRange	220
 RangeCurvature	1.25
 Balance			0.46
-Unfold			"Pindad SS2 folded"
+Unfold			"Pindad SS2 DMR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"

@@ -2313,7 +2313,7 @@ PAREI STATS AQUI
 "Shotgun CBC PUMP TAC SCOPIC LB (12ga) folded"
 
 
-
+diminuir acc md97 em 1
 
 
 
