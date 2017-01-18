@@ -31302,10 +31302,10 @@ ITEM "Shotgun Ithaca 37 (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
 Weight			3000
-PrepareTime		0.36
+PrepareTime		0.34
 SingleFireTime	1.27
 BurstFireTime	0
-SpeedModifier	1
+SpeedModifier	1.01
 Resource		2000
 DirtResource	190000
 MisfireProb		0.005
@@ -31339,10 +31339,10 @@ ITEM "Shotgun Ithaca 37 (20ga)"
 Class			Shotgun
 Caliber			"20 Gauge"
 Weight			3000
-PrepareTime		0.35
+PrepareTime		0.33
 SingleFireTime	1.22
 BurstFireTime	0
-SpeedModifier	1
+SpeedModifier	1.01
 Resource		2000
 DirtResource	190000
 MisfireProb		0.005
@@ -32476,13 +32476,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3400
+Weight			3100
 PrepareTime		0.36
-SingleFireTime	1.21
+SingleFireTime	1.19
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2100
-DirtResource	190000
+SpeedModifier	1.01
+Resource		1600
+DirtResource	150000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32490,9 +32490,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	51
+RangeCurvature	4
+Balance			0.62
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32513,13 +32513,13 @@ HANDS			ahtShotgun
 ITEM "Shotgun CBC PUMP LB (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3388
+PrepareTime		0.40
+SingleFireTime	1.24
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		1800
+DirtResource	160000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32527,8 +32527,8 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
+EffectiveRange	64
+RangeCurvature	4
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32550,13 +32550,13 @@ HANDS			ahtShotgun
 ITEM "Shotgun CBC PUMP PGRIP (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			2900
+PrepareTime		0.31
+SingleFireTime	1.22
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.02
+Resource		1600
+DirtResource	150000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32564,9 +32564,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	44
+RangeCurvature	4
+Balance			0.62
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32587,13 +32587,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP PGRIP LB (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3000
+PrepareTime		0.36
+SingleFireTime	1.28
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		1800
+DirtResource	160000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32601,8 +32601,8 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
+EffectiveRange	50
+RangeCurvature	4
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32624,13 +32624,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP POLY (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
+Weight			3000
 PrepareTime		0.35
-SingleFireTime	0.91
+SingleFireTime	1.14
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.01
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32638,9 +32638,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	51
+RangeCurvature	4
+Balance			0.69
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32661,13 +32661,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP POLY LB (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3150
+PrepareTime		0.39
+SingleFireTime	1.18
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		2100
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32675,9 +32675,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	64
+RangeCurvature	4
+Balance			0.69
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -32698,13 +32698,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
+Weight			3000
 PrepareTime		0.35
-SingleFireTime	0.91
+SingleFireTime	1.14
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.01
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32712,9 +32712,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	51
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32737,13 +32737,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3000
+PrepareTime		0.32
+SingleFireTime	1.14
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.01
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32751,9 +32751,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	43
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32776,13 +32776,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC LB (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3150
+PrepareTime		0.39
+SingleFireTime	1.18
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		2100
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32790,9 +32790,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	64
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC LB (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32815,13 +32815,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC LB (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
+Weight			3150
 PrepareTime		0.35
-SingleFireTime	0.91
+SingleFireTime	1.18
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		2100
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32829,9 +32829,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	49
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC LB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32854,13 +32854,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC SCOPIC (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
+Weight			3000
 PrepareTime		0.35
-SingleFireTime	0.91
+SingleFireTime	1.14
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.01
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32868,9 +32868,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	51
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC SCOPIC (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32893,13 +32893,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC SCOPIC (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3000
+PrepareTime		0.32
+SingleFireTime	1.14
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.01
+Resource		1900
+DirtResource	180000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32907,9 +32907,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	43
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC SCOPIC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32932,13 +32932,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC SCOPIC LB (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3150
+PrepareTime		0.39
+SingleFireTime	1.18
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		2100
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32946,9 +32946,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	64
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC SCOPIC LB (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -32971,13 +32971,13 @@ HANDS			ahtRifle
 ITEM "Shotgun CBC PUMP TAC SCOPIC LB (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
+Weight			3150
 PrepareTime		0.35
-SingleFireTime	0.91
+SingleFireTime	1.18
 BurstFireTime	0.4615
-SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+SpeedModifier	1.05
+Resource		2100
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -32985,9 +32985,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	5
-Balance			0.57
+EffectiveRange	49
+RangeCurvature	4
+Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC SCOPIC LB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -33010,13 +33010,13 @@ HANDS			ahtRifle
 ITEM "Shotgun Boito PUMP (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.41
-SingleFireTime	1.34
+Weight			3500
+PrepareTime		0.42
+SingleFireTime	1.29
 BurstFireTime	0.4615
-SpeedModifier	1.07
+SpeedModifier	1.06
 Resource		2200
-DirtResource	250000
+DirtResource	200000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33024,7 +33024,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	65
 RangeCurvature	5
 Balance			0.57
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -33047,13 +33047,13 @@ HANDS			ahtShotgun
 ITEM "Shotgun Boito PUMP POLY (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3500
+PrepareTime		0.40
+SingleFireTime	1.29
 BurstFireTime	0.4615
-SpeedModifier	1.03
+SpeedModifier	1.06
 Resource		2200
-DirtResource	250000
+DirtResource	200000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33061,9 +33061,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	65
 RangeCurvature	5
-Balance			0.57
+Balance			0.61
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
 ReLockSound		"Weapon\ReLock\m3_pump.wav"
@@ -33084,13 +33084,13 @@ HANDS			ahtRifle
 ITEM "Shotgun Boito PUMP POLY SCOPIC (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3500
+PrepareTime		0.40
+SingleFireTime	1.29
 BurstFireTime	0.4615
-SpeedModifier	1.03
+SpeedModifier	1.06
 Resource		2200
-DirtResource	250000
+DirtResource	200000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33098,9 +33098,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	65
 RangeCurvature	5
-Balance			0.57
+Balance			0.61
 Unfold			"Shotgun Boito PUMP POLY SCOPIC (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -33123,13 +33123,13 @@ HANDS			ahtRG
 ITEM "Shotgun Boito PUMP POLY SCOPIC (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3500
+PrepareTime		0.36
+SingleFireTime	1.29
 BurstFireTime	0.4615
-SpeedModifier	1.03
+SpeedModifier	1.06
 Resource		2200
-DirtResource	250000
+DirtResource	200000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33137,9 +33137,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	51
 RangeCurvature	5
-Balance			0.57
+Balance			0.61
 Unfold			"Shotgun Boito PUMP POLY SCOPIC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -33162,13 +33162,13 @@ HANDS			ahtRG
 ITEM "Shotgun Boito PUMP POLY FG (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3500
+PrepareTime		0.40
+SingleFireTime	1.29
 BurstFireTime	0.4615
-SpeedModifier	1.03
+SpeedModifier	1.06
 Resource		2200
-DirtResource	250000
+DirtResource	200000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33176,9 +33176,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	65
 RangeCurvature	5
-Balance			0.57
+Balance			0.61
 Unfold			"Shotgun Boito PUMP POLY FG (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -33201,13 +33201,13 @@ HANDS			ahtRG
 ITEM "Shotgun Boito PUMP POLY FG (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3500
+PrepareTime		0.36
+SingleFireTime	1.29
 BurstFireTime	0.4615
-SpeedModifier	1.03
+SpeedModifier	1.06
 Resource		2200
-DirtResource	250000
+DirtResource	200000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33215,9 +33215,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	51
 RangeCurvature	5
-Balance			0.57
+Balance			0.61
 Unfold			"Shotgun Boito PUMP POLY FG (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -33240,13 +33240,13 @@ HANDS			ahtRG
 ITEM "Shotgun Boito PUMP POLY FG CQC (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3100
+PrepareTime		0.36
+SingleFireTime	1.16
 BurstFireTime	0.4615
 SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+Resource		2000
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33254,9 +33254,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	55
 RangeCurvature	5
-Balance			0.57
+Balance			0.66
 Unfold			"Shotgun Boito PUMP POLY FG CQC (12ga) folded"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -33279,13 +33279,13 @@ HANDS			ahtRG
 ITEM "Shotgun Boito PUMP POLY FG CQC (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
-Weight			3288
-PrepareTime		0.35
-SingleFireTime	0.91
+Weight			3100
+PrepareTime		0.32
+SingleFireTime	1.16
 BurstFireTime	0.4615
 SpeedModifier	1.03
-Resource		2200
-DirtResource	250000
+Resource		2000
+DirtResource	190000
 MisfireProb		0.0018
 HeatCapacity	35
 Single			1
@@ -33293,9 +33293,9 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		150
-EffectiveRange	70
+EffectiveRange	44
 RangeCurvature	5
-Balance			0.57
+Balance			0.66
 Unfold			"Shotgun Boito PUMP POLY FG CQC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -72255,7 +72255,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	145
+EffectiveRange	142
 RangeCurvature	3.1
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -72292,7 +72292,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	145
+EffectiveRange	142
 RangeCurvature	3.1
 Balance			0.51
 Unfold			"Assault Rifle IMBEL MD-97L (5.56mm) folded"
@@ -72331,7 +72331,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	125
+EffectiveRange	122
 RangeCurvature	3.1
 Balance			0.51
 Unfold			"Assault Rifle IMBEL MD-97L (5.56mm)"
@@ -72411,7 +72411,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	55
+EffectiveRange	70
 RangeCurvature	6
 Balance			0.5
 Unfold			"Assault Rifle IMBEL MD-97LM (5.56mm)"
