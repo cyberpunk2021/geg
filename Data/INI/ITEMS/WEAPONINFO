@@ -33118,7 +33118,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"boitoscopicstock"
 ACTOR			"Items\boito_scopic.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Shotgun Boito PUMP POLY SCOPIC (12ga) folded"
 Class			Shotgun
@@ -33157,7 +33157,7 @@ StdPlug			"Shotgun ammo clip (m590a1/9)"
 StdPlug			"boitoscopicstock_folded"
 ACTOR			"Items\boito_scopic.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Shotgun Boito PUMP POLY FG (12ga)"
 Class			Shotgun
