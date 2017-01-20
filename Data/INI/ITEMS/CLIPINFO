@@ -1313,7 +1313,7 @@ USEPREFIX  ""
 IMAGE  "star_mag.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
-CLIP  "Pistol clip (Colt/9)""9υ19 μμ""Colt9MM"14 100 "None"500 
+CLIP  "Pistol clip (Colt/9)""9υ19 μμ""Colt9MM"9 100 "None"500 
 ACTOR  "Items\op45-m1911-8.act"
 USEPREFIX  ""
 IMAGE  "op45-m1911-8.e5b"

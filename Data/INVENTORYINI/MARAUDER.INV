@@ -1,0 +1,10796 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  5 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol Star B Super (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 9 7 
+Name  "Pistol clip (Star/9)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  9 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.0412371 
+Item  0 1 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  64552 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.0773196 
+Item  0 0 7 
+Name  "Pistol clip (Star/9)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  9 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun MAC-10 (.45 ACP) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 11 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "MAC10_butt_closed"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  103985 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.0618557 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Colt SMG (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.505155 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  82549 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 8 
+Name  "Cuchillo de Combate"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 5"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun M3A1 (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 13 7 
+Name  "SMG ammo clip (M3A1/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "m3a1butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Ammo box (FMJ Ball)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "SMG ammo clip (M3A1/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 ACP FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  310889 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  309582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  15352 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.309278 2 
+Pins  12 14 13 
+Money  
+RND  1 80 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  5 
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun MAC-10 (.45 ACP) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 11 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "MAC10_butt_closed"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  103985 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.0618557 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Colt SMG (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.505155 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  82549 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 8 
+Name  "Cuchillo de Combate"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  7 
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun MAC-10 (.45 ACP) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 11 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "MAC10_butt_closed"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  103985 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.0618557 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 4"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Colt SMG (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.505155 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  82549 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 8 
+Name  "Cuchillo de Combate"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Pistol Ballester-Molina (.45 ACP)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Colt/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  7 
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun MAC-10 (.45 ACP) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 11 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "MAC10_butt_closed"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG clip (MAC10/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "M1911 Ball (.45 ACP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  0.154639 11 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  103985 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.0618557 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  6 
+VARIANT  "Variant 3"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Submachine-gun Mini UZI (9mm) folded"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 7 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Mini UZI Butt Folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  104451 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (UZI/25)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "124grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.103093 11 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3445 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  3259 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  3243 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 50 
+END_VARIANT  
+VARIANT  "Variant 6"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Krinkov (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "aks74butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 10 
+Name  "XXX1"
+SpecificData  
+OtherInfo  
+GUID  105827 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.329897 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.154639 11 
+Item  0 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  105858 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.85567 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  309957 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 70 
+END_VARIANT  
+VARIANT  "Variant 7"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle M16A1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  8 9 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  0.35567 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  0.752577 11 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  106790 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.608247 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  311821 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/20)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  18 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 8"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR-F (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 14 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  79366 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.520619 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  20397 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+VARIANT  "Variant 9"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Arsenal AR SF (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  6 13 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Zastava-butt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 1 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  99416 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  99621 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  99304 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  0.42268 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 5.56/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade RGD-5"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+VARIANT  "Variant 10"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Type56-1 (7.62x39mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "akmsbutt"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 10 
+Name  "Field Paramedic Kit1"
+SpecificData  
+OtherInfo  
+GUID  108192 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  100257 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  100260 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Norinco (7.62x39mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1 100 
+END_VARIANT  
+EndStage  

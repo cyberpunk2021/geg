@@ -1,0 +1,898 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "passport"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "medallion"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 7 8 6 9 10 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  28582 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Lighter_matches"
+SpecificData  
+OtherInfo  
+GUID  28380 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Drink_beer_can"
+SpecificData  
+OtherInfo  
+GUID  28396 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 13 
+Money  0 
+END_VARIANT  
+EndStage  

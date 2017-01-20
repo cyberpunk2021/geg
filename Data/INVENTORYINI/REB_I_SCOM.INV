@@ -821,7 +821,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 1 7 
-Name  "Ammo box (7.62x25לל (7.63לל לאףחונ))"
+Name  "Ammo box (7.62x25mm (7.63mm mauser))"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1709,7 +1709,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 1 7 
-Name  "Ammo box (7.62x25לל (7.63לל לאףחונ))"
+Name  "Ammo box (7.62x25mm (7.63mm mauser))"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -4508,7 +4508,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 1 7 
-Name  "Ammo box (7.62x25לל (7.63לל לאףחונ))"
+Name  "Ammo box (7.62x25mm (7.63mm mauser))"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -8161,7 +8161,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 1 7 
-Name  "Ammo box (7.62x25לל (7.63לל לאףחונ))"
+Name  "Ammo box (7.62x25mm (7.63mm mauser))"
 SpecificData  
 ClipInfo  
 Resource  1 

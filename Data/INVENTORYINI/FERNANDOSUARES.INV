@@ -3,21 +3,21 @@ NewFormatInventory
 Stage  1 
 Variants  1 
 VARIANT  "Variant 1"1 
-Pockets  1 3 4 5 7 
+Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Submachine-gun Type 54 (7.62x25mm)"
+Name  "Submachine-gun Type 85 (7.62x25mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+CurrentClip  14 10 7 
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -26,7 +26,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "type54_buttopen"
+Name  "type85stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -37,7 +37,7 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 6 9 
+Prob  1 7 8 6 9 
 Item  0 0 1 
 Name  "Tactical Armor Vest M100"
 SpecificData  
@@ -52,15 +52,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 10 
 Item  1 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -68,26 +68,42 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "China Sport 7.62x25"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Food_beans"
+Item  1 1 7 
+Name  "Ammo box (7.62x25mm Palinero)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  4080 
+GUID  1705 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -107,11 +123,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Food_beans"
 SpecificData  
 OtherInfo  
-GUID  1705 
+GUID  4080 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -131,16 +147,8 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Stuff  10 
-Pockets  68 69 70 71 72 
-Item  0 0 6 
-Name  "China Sport 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  50 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Pins  22 23 
+Pockets  68 72 
+Pins  
 Used  0 
 Prob  1 14 13 
 Money  0 
@@ -149,21 +157,21 @@ EndStage
 Stage  2 
 Variants  1 
 VARIANT  "Variant 1"1 
-Pockets  1 3 4 5 7 
+Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Submachine-gun Type 54 (7.62x25mm)"
+Name  "Submachine-gun Type 85 (7.62x25mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+CurrentClip  14 10 7 
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -172,7 +180,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "type54_buttopen"
+Name  "type85stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -183,7 +191,7 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 6 9 
+Prob  1 7 8 6 9 
 Item  0 0 1 
 Name  "Tactical Armor Vest M100"
 SpecificData  
@@ -198,15 +206,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 10 
 Item  1 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -214,26 +222,42 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "China Sport 7.62x25"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Food_beans"
+Item  1 1 7 
+Name  "Ammo box (7.62x25mm Palinero)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  4080 
+GUID  1705 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -253,11 +277,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Food_beans"
 SpecificData  
 OtherInfo  
-GUID  1705 
+GUID  4080 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -277,16 +301,8 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Stuff  10 
-Pockets  68 69 70 71 72 
-Item  0 0 6 
-Name  "China Sport 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  50 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Pins  22 23 
+Pockets  68 72 
+Pins  
 Used  0 
 Prob  1 14 13 
 Money  0 
@@ -295,21 +311,21 @@ EndStage
 Stage  3 
 Variants  1 
 VARIANT  "Variant 1"1 
-Pockets  1 3 4 5 7 
+Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Submachine-gun Type 54 (7.62x25mm)"
+Name  "Submachine-gun Type 85 (7.62x25mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+CurrentClip  14 10 7 
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -318,7 +334,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "type54_buttopen"
+Name  "type85stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -329,7 +345,7 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 6 9 
+Prob  1 7 8 6 9 
 Item  0 0 1 
 Name  "Tactical Armor Vest M100"
 SpecificData  
@@ -344,15 +360,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 10 
 Item  1 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -360,26 +376,42 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "China Sport 7.62x25"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Food_beans"
+Item  1 1 7 
+Name  "Ammo box (7.62x25mm Palinero)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  4080 
+GUID  1705 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -399,11 +431,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Food_beans"
 SpecificData  
 OtherInfo  
-GUID  1705 
+GUID  4080 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -423,16 +455,8 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Stuff  10 
-Pockets  68 69 70 71 72 
-Item  0 0 6 
-Name  "China Sport 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  50 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Pins  22 23 
+Pockets  68 72 
+Pins  
 Used  0 
 Prob  1 14 13 
 Money  0 
@@ -441,21 +465,21 @@ EndStage
 Stage  4 
 Variants  1 
 VARIANT  "Variant 1"1 
-Pockets  1 3 4 5 7 
+Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Submachine-gun Type 54 (7.62x25mm)"
+Name  "Submachine-gun Type 85 (7.62x25mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+CurrentClip  14 10 7 
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -464,7 +488,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "type54_buttopen"
+Name  "type85stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -475,7 +499,7 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 6 9 
+Prob  1 7 8 6 9 
 Item  0 0 1 
 Name  "Tactical Armor Vest M100"
 SpecificData  
@@ -490,15 +514,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 10 
 Item  1 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -506,26 +530,42 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "China Sport 7.62x25"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Food_beans"
+Item  1 1 7 
+Name  "Ammo box (7.62x25mm Palinero)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  4080 
+GUID  1705 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -545,11 +585,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Food_beans"
 SpecificData  
 OtherInfo  
-GUID  1705 
+GUID  4080 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -569,16 +609,8 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Stuff  10 
-Pockets  68 69 70 71 72 
-Item  0 0 6 
-Name  "China Sport 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  50 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Pins  22 23 
+Pockets  68 72 
+Pins  
 Used  0 
 Prob  1 14 13 
 Money  0 
@@ -587,21 +619,21 @@ EndStage
 Stage  5 
 Variants  1 
 VARIANT  "Variant 1"1 
-Pockets  1 3 4 5 7 
+Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Submachine-gun Type 54 (7.62x25mm)"
+Name  "Submachine-gun Type 85 (7.62x25mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+CurrentClip  14 10 7 
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -610,7 +642,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "type54_buttopen"
+Name  "type85stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -621,7 +653,7 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 6 9 
+Prob  1 7 8 6 9 
 Item  0 0 1 
 Name  "Tactical Armor Vest M100"
 SpecificData  
@@ -636,15 +668,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 10 
 Item  1 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -652,26 +684,42 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "China Sport 7.62x25"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Food_beans"
+Item  1 1 7 
+Name  "Ammo box (7.62x25mm Palinero)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  4080 
+GUID  1705 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -691,11 +739,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Food_beans"
 SpecificData  
 OtherInfo  
-GUID  1705 
+GUID  4080 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -715,16 +763,8 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Stuff  10 
-Pockets  68 69 70 71 72 
-Item  0 0 6 
-Name  "China Sport 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  50 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Pins  22 23 
+Pockets  68 72 
+Pins  
 Used  0 
 Prob  1 14 13 
 Money  0 
@@ -733,21 +773,21 @@ EndStage
 Stage  6 
 Variants  1 
 VARIANT  "Variant 1"1 
-Pockets  1 3 4 5 7 
+Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Submachine-gun Type 54 (7.62x25mm)"
+Name  "Submachine-gun Type 85 (7.62x25mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+CurrentClip  14 10 7 
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -756,7 +796,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "type54_buttopen"
+Name  "type85stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -767,7 +807,7 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 6 9 
+Prob  1 7 8 6 9 
 Item  0 0 1 
 Name  "Tactical Armor Vest M100"
 SpecificData  
@@ -782,15 +822,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 10 
 Item  1 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "7.62x25mm (7.63mm mauzer)"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -798,26 +838,42 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (PPS/35)"
+Name  "SMG ammo clip (Type85/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "China Sport 7.62x25"
+Name  "Palinero 7.62x25"
 SpecificData  
 AmmoInfo  
-RoundsLeft  35 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Food_beans"
+Item  1 1 7 
+Name  "Ammo box (7.62x25mm Palinero)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  4080 
+GUID  1705 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -837,11 +893,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Food_beans"
 SpecificData  
 OtherInfo  
-GUID  1705 
+GUID  4080 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -861,16 +917,8 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Stuff  10 
-Pockets  68 69 70 71 72 
-Item  0 0 6 
-Name  "China Sport 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  50 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Pins  22 23 
+Pockets  68 72 
+Pins  
 Used  0 
 Prob  1 14 13 
 Money  0 
@@ -881,7 +929,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -929,22 +977,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -962,6 +994,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -989,7 +1037,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1037,22 +1085,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1070,6 +1102,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1097,7 +1145,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1145,22 +1193,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1178,6 +1210,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1205,7 +1253,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1253,22 +1301,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1286,6 +1318,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1313,7 +1361,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1361,22 +1409,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1394,6 +1426,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1421,7 +1469,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1469,22 +1517,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1502,6 +1534,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1529,7 +1577,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1577,22 +1625,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1610,6 +1642,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1637,7 +1685,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1685,22 +1733,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1718,6 +1750,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1745,7 +1793,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1793,22 +1841,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1826,6 +1858,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1853,7 +1901,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AK-47 (7.62x39mm)"
+Name  "Assault Rifle MD63 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1901,22 +1949,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1934,6 +1966,22 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
