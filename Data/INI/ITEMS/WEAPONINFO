@@ -13076,7 +13076,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Colt Python (.357 SW/6)"
 ACTOR			"Items\uberti_elpatron.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -13113,7 +13113,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Colt Python (.357 SW/6)"
 ACTOR			"Items\uberti_elpatronw.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -13150,7 +13150,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Colt Python (.357 SW/6)"
 ACTOR			"Items\uberti_oldwest.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -13187,7 +13187,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Colt Python (.357 SW/6)"
 ACTOR			"Items\ruger_vaquero.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -13224,7 +13224,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Colt Python (.357 SW/6)"
 ACTOR			"Items\ruger_vaquerob.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -13261,7 +13261,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Colt Python (.357 SW/6)"
 ACTOR			"Items\ruger_vaquerow.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol

@@ -240,7 +240,8 @@ Item	"Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
 
 Item	"Submachine-gun MAC-10 (.45 ACP)" Level 3 Price 700
 
-
+Item "Submachine-gun NR-08 (9mm)" 1300
+Item "Submachine-gun CETME C2 (9mm)" 630
 
 Item "Submachine-gun Type 85 (7.62x25mm)" Level 2 Price 160
 Item "Submachine-gun Type 79 (7.62x25mm)" Level 3 Price 220
@@ -458,3 +459,212 @@ Item	"Assault Rifle MPi-KMS (7.62x39mm)"			1350
 Item	"Assault Rifle MPi-KMS-K (7.62x39mm)"			950
 
 Item	"Assault Rifle Maadi MISR (7.62x39mm)"			720
+
+Item "Assault Rifle KBKG (7.62x39mm)" 900
+Item "Assault Rifle KBKG N (7.62x39mm)" 950
+
+Item "Assault Rifle MD63 (7.62x39mm)" 1000
+Item "Assault Rifle MD65 (7.62x39mm)" 1100
+
+Item "Assault Rifle MD90 (7.62x39mm)" 900
+Item "Assault Rifle MD90 LB (7.62x39mm)" 1300
+Item "Assault Rifle MD86C (5.45x39mm)" 1000
+Item "Assault Rifle MD86 (5.45x39mm)" 1400
+Item "Assault Rifle Type56-1 Y (7.62x39mm)"	600
+Item "Assault Rifle Type 56 Y (7.62x39mm)" 600
+Item "Assault Rifle Type56-4 (5.56x45mm)" 900
+Item "Assault Rifle Type56-4 Y (5.56x45mm)" 900
+
+Item "Assault Rifle Zastava M-90 (5.56x45mm)" 1500
+Item "Assault Rifle Zastava M-90A (5.56x45mm)" 1600
+Item "Assault Rifle Zastava M-77 (7.62x51mm)" 2700
+Item "Assault Rifle Zastava M-77A (7.62x51mm)" 2800
+
+Item	"Assault Rifle Galil AR (5.56mm)" 			2700
+Item	"Assault Rifle Galil ARM (5.56mm)"			2800
+Item	"Assault Rifle Galil SAR (5.56mm)" 			2300
+
+Item	"Assault Rifle Type 63 (7.62x39mm)"			450
+
+Item	"Assault Rifle Type 56 (7.62x39mm)"			600
+Item	"Assault Rifle Type56-1 (7.62x39mm)"			600
+Item	"Assault Rifle Type56-2 (7.62x39mm)"			1000
+Item	"Assault Rifle Type 56C (7.62x39mm)"			700
+
+Item	"Assault Rifle SG542 (7.62x51mm)"			2650
+Item	"Assault Rifle SG543 (5.56mm)"				1900
+
+Item	"Assault Rifle Colt Commando 733"			1900
+Item	"Assault Rifle Colt Commando 933"			2100
+Item	"Assault Rifle AR-15A2 (5.56mm)"			1600
+Item	"Assault Rifle CAR-15 (5.56mm)"				750
+
+Item	"Carabine IMBEL MD-97LC (5.56mm)"			1300
+Item	"Assault Rifle IMBEL MD-97L (5.56mm)"			2100
+
+Item	"Carabine Imbel MD-2A1 (5.56mm)"			1660
+
+Item	"Machinegun RPD (7.62x39mm)"				1050
+
+Item "Machinegun RPD Type 56 (7.62x39mm)" 950
+
+Item "BAR" 600
+Item "M1918 BAR" 700
+
+Item	"Launcher M79"						900
+
+++++++++++++++++
+MISC
++++++++++++++++++
+
+Item	"Case_Soft_Skin"				200
+Item	"Case_Soft_Small"				150
+Item	"Ammo Cartouche6"				50.0
+Item	"Folded Ammo Belt"					50
+Item	"Ammo Belt"					50
+Item	"Folded Basic Belt"					100
+Item	"Basic Belt"					100
+Item	"Razgr_smerch"                                  100.0
+Item	"Folded Razgr_smerch"                                  100.0
+Item	"Folded Belt_04"				20
+Item	"Belt_04"				5
+
+Item	"Tactical Armor Vest M200"			800.0
+Item	"Tactical Armor Vest M100"			400
+Item	"Tactical Armor Vest M300"			600
+
+Item	"Helmet M1"					150.0
+Item	"Steel Helmet"					100.0
+
+Item	"Field Paramedic Kit"				30.0
+Item	"Field Paramedic Kit1"				50
+
+Item	"Flask"                                            70.0
+
+Item	"Food_m_beef"					60
+Item	"Food_m_mutton"					60
+Item	"Food_m_pork"					60
+
+Item	"Canteen_st1"					30
+Item	"Canteen_st2"					80
+Item	"M406 HE"					100.0
+Item	"M407 Smoke"					50.0
+Item "Dynamite Stick" 20
+Item	"Offensive Hand Grenade Type82-2"		80.0
+
+
++++++++++
+MAGS AMMO
++++++++++
+
+Item "PackedAmmoBox Algeira (9x19/500)" 280
+Item "PackedAmmoBox Palinero (9x18/500)" 240
+Item "PackedAmmoBox Norinco (9x18/500)" 320
+Item "PackedAmmoBox Algeira (.38/500)" 160
+Item "PackedAmmoBox CBC (.38/500)" 480
+Item "PackedAmmoBox Algeira (.45 ACP/500)" 340
+Item "PackedAmmoBox Algeira (12ga/200)" 370
+Item "PackedAmmoBox Palinero (12ga/200)" 324
+Item "PackedAmmoBox Algeira (5.56/500)" 456
+Item "PackedAmmoBox Norinco (5.56x45/500)" 370
+Item "PackedAmmoBox Norinco (7.62x39/500)" 303
+Item "PackedAmmoBox Palinero (7.62x39/500)" 274
+Item "PackedAmmoBox Algeira (7.62x51/500)" 624
+
+
+========
+MAGS
+========
+Item "Pistol clip (PT59/17)" 25
+Item "Pistol clip (PT59B/17)" 25
+Item "Pistol clip (PT59W/17)" 25
+Item	"Pistol clip (Beretta M9/15)"			30.0
+Item	"Pistol clip (Beretta 92FS/15)"			30.0
+Item	"Pistol clip (Beretta 92FS/17)"			40.0
+Item	"Pistol clip (Beretta 92FS/20)"			55.0
+Item	"Pistol clip (P220/7)"					45.0
+Item "Pistol clip (Colt/9)" 15
+Item "Pistol clip (Colt/16)" 30
+Item "Pistol clip (Colt/14)" 30
+Item	"Pistol clip (SIG/15)"				80.0
+
+Item	"Pistol clip (Tokagypt/7)"			15
+Item	"Pistol clip (CZ 75/16)"			25
+Item	"Pistol clip (Beretta951/8)"			20
+Item	"Pistol clip (Zastava/9)"			15
+
+Item "Pistol clip (M213/8)" 20
+Item "Pistol clip (M213/14)" 30
+Item	"Pistol clip (TT-33/8)"                             18.0
+
+Item	"Pistol clip (PM/8)"                                  15.0
+Item	"Pistol clip (Fort17/15)"                                  20.0
+Item	"Pistol clip (Fort17380/16)"                                  20.0
+Item "Pistol clip (PMM/12)" 45
+
+Item "Pistol clip (P21022/8)" 20
+Item "Pistol clip (Ruger2245/10)" 20
+Item "Pistol clip (Guardian25/6)" 20
+
+Item "Pistol clip (Colt22/12)" 15
+Item "Pistol clip (p7m22/8)" 10
+
+Item "Pistol clip (PA6332/7)" 10
+Item "Pistol clip (p7m32/8)" 10
+
+Item "Pistol clip (p7m380/8)" 10
+Item "Pistol clip (PA63380/7)" 10
+Item "Pistol clip (PA63/7)" 10
+Item "Pistol clip (BabyBrowning/6)" 10
+Item "Pistol clip (HK 4 25ACP/8)" 15
+Item "Pistol clip (Walther9/6)" 12
+Item "Pistol clip (CZ 75 22/10)" 25
+Item "Pistol clip (HK 4 22LR/8)" 20
+Item "Pistol clip (Ruger2245/10)" 18
+Item "Pistol clip (P22/10)" 20
+Item "Pistol clip (K22/10)" 20
+Item "Pistol clip (Mosquito/10)" 20
+Item "Pistol clip (Sauer/8)" 30
+Item "Pistol clip (SauerW/8)" 30
+Item "Pistol clip (HSC/8)" 30
+Item "Pistol clip (HK 4 32ACP/8)" 30
+Item "Pistol clip (P83 32ACP/8)" 30
+Item "Pistol clip (HSC/7)" 45
+Item "Pistol clip (Glock 25/15)" 45
+Item "Pistol clip (Glock 28/10)" 45
+Item "Pistol clip (HK 4 380ACP/7)" 45
+Item "Pistol clip (IJ70/8)" 45
+Item "Pistol clip (IJ70M/12)" 45
+Item "Pistol clip (P83 380ACP/8)" 45
+Item "Pistol clip (MicroDeagle/6)" 25
+Item "Pistol clip (BR1911380/19)" 45
+Item "SMG ammo clip (VZ82380/10)" 45
+Item "SMG ammo clip (VZ82380/20)" 45
+Item "SMG clip (MAC380/30)" 45
+Item "SMG clip (MAC380/40)" 45
+Item "Pistol clip (M1935/8)" 10
+Item "Pistol clip (M1935W/8)" 10
+Item "Pistol clip (M1934/7)" 15
+Item "Pistol clip (M1934W/7)" 15
+Item "Pistol clip (FEG37/7)" 16
+Item "Pistol clip (FEG3732/7)" 6
+Item "Pistol clip (Guardian/6)" 6
+Item "Pistol clip (Guardian380/6)" 8
+Item "Pistol clip (Bayard/6)" 10
+Item "Pistol clip (Bayard/10)" 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
