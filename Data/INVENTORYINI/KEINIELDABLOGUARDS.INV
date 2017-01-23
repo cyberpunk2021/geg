@@ -4,11 +4,27 @@ Stage  1
 Variants  2 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -28,31 +44,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -132,7 +132,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -148,7 +215,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -185,11 +252,27 @@ Stage  2
 Variants  3 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -209,31 +292,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -313,7 +380,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -329,7 +463,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -521,7 +655,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -537,7 +731,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -574,11 +768,27 @@ Stage  3
 Variants  4 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -598,31 +808,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -702,7 +896,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -718,7 +979,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -910,7 +1171,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -926,7 +1247,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -1188,15 +1509,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1260,19 +1585,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -1301,11 +1622,27 @@ Stage  4
 Variants  5 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1325,31 +1662,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -1429,7 +1750,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -1445,7 +1833,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -1637,7 +2025,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -1653,7 +2101,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -1915,15 +2363,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1987,19 +2439,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -2106,11 +2554,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2133,16 +2597,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -2155,11 +2679,27 @@ Stage  5
 Variants  6 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2179,31 +2719,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -2283,7 +2807,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -2299,7 +2890,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -2491,7 +3082,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -2507,7 +3158,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -2769,15 +3420,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2841,19 +3496,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -2960,11 +3611,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2987,16 +3654,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -3134,15 +3861,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3162,19 +3893,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -3187,11 +3914,27 @@ Stage  6
 Variants  7 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3211,31 +3954,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -3315,7 +4042,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -3331,7 +4125,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -3523,7 +4317,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -3539,7 +4393,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -3801,15 +4655,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3873,19 +4731,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -3992,11 +4846,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4019,16 +4889,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -4166,15 +5096,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4194,19 +5128,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -4440,8 +5370,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -4449,8 +5379,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -4462,18 +5392,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -4485,19 +5403,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -4511,6 +5429,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -4633,7 +5563,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 EndStage  
@@ -4641,11 +5571,27 @@ Stage  7
 Variants  7 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4665,31 +5611,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -4769,7 +5699,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -4785,7 +5782,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -4977,7 +5974,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -4993,7 +6050,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -5255,15 +6312,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5327,19 +6388,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -5446,11 +6503,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5473,16 +6546,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -5620,15 +6753,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5648,19 +6785,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -5894,8 +7027,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -5903,8 +7036,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -5916,18 +7049,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -5939,19 +7060,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -5965,6 +7086,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -6087,7 +7220,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 EndStage  
@@ -6095,11 +7228,27 @@ Stage  8
 Variants  8 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6119,31 +7268,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -6223,7 +7356,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -6239,7 +7439,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -6431,7 +7631,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -6447,7 +7707,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -6709,15 +7969,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6781,19 +8045,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -6900,11 +8160,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6927,16 +8203,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -7074,15 +8410,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -7102,19 +8442,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -7348,8 +8684,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -7357,8 +8693,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -7370,18 +8706,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -7393,19 +8717,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -7419,6 +8743,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -7541,7 +8877,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -7681,15 +9017,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -7709,19 +9049,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -7749,7 +9085,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -7773,7 +9109,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -7797,11 +9133,27 @@ Stage  9
 Variants  9 
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 7 8 6 9 10 
-Item  0 1 10 
-Name  "Canteen_leath"
+Item  0 0 7 
+Name  "Ammo box (.38 Spl SJHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".38 Spl SJHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  15 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_piezo_g"
 SpecificData  
 OtherInfo  
-GUID  271846 
+GUID  271838 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7821,31 +9173,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Lighter_piezo_g"
+Item  0 1 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  271838 
+GUID  271846 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 7 
-Name  "Ammo box (.38 Spl SJHP)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".38 Spl SJHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  15 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -7925,7 +9261,74 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 7 
+Item  0 0 0 
+Name  "Pistol HSC (380)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (HSC/7)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -7941,7 +9344,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  1 1 7 
 Name  "Ammo box (00 Buckshot)"
 SpecificData  
 ClipInfo  
@@ -8133,7 +9536,67 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 7 
+Item  1 1 0 
+Name  "Pistol Walther 9"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Walther9/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".25 ACP HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -8149,7 +9612,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
+Item  0 0 7 
 Name  "SMG ammo clip (M50/20)"
 SpecificData  
 ClipInfo  
@@ -8411,15 +9874,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -8483,19 +9950,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -8602,11 +10065,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -8629,16 +10108,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -8776,15 +10315,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -8804,19 +10347,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -9050,8 +10589,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -9059,8 +10598,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -9072,18 +10611,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -9095,19 +10622,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -9121,6 +10648,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -9243,7 +10782,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -9383,15 +10922,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -9411,19 +10954,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -9451,7 +10990,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -9475,7 +11014,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -9545,8 +11084,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -9554,8 +11093,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -9580,15 +11119,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -9608,19 +11151,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -9949,15 +11488,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -10021,19 +11564,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -10140,11 +11679,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -10167,16 +11722,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -10314,15 +11929,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -10342,19 +11961,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -10588,8 +12203,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -10597,8 +12212,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -10610,18 +12225,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -10633,19 +12236,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -10659,6 +12262,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -10781,7 +12396,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -10921,15 +12536,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -10949,19 +12568,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -10989,7 +12604,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -11013,7 +12628,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -11083,8 +12698,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -11092,8 +12707,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -11118,15 +12733,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -11146,19 +12765,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -11487,15 +13102,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -11559,19 +13178,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -11678,11 +13293,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -11705,16 +13336,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -11852,15 +13543,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -11880,19 +13575,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -12126,8 +13817,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -12135,8 +13826,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -12148,18 +13839,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -12171,19 +13850,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -12197,6 +13876,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -12319,7 +14010,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -12459,15 +14150,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -12487,19 +14182,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -12527,7 +14218,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -12551,7 +14242,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -12621,8 +14312,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -12630,8 +14321,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -12656,15 +14347,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -12684,19 +14379,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -12815,8 +14506,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 4 7 8 
-Name  "Surefire CUS Flashlight (BM)"
+AddonsCount  3 0 0 8 
+Name  "aks74u_buttdark"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -12833,8 +14524,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "aks74u_buttdark"
+Prob  1 4 7 8 
+Name  "Surefire CUS Flashlight (BM)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -12859,30 +14550,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 10 
-Name  "PayCard_mobile"
-SpecificData  
-OtherInfo  
-GUID  2040 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
-Name  "PhoneBrick0"
-SpecificData  
-OtherInfo  
-GUID  2039 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Double rifle ammo clip (AR70/60)"
 SpecificData  
@@ -12898,12 +14565,36 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Canteen_leath"
+Prob  1 
+Item  0 1 10 
+Name  "PhoneBrick0"
 SpecificData  
 OtherInfo  
-GUID  2456 
+GUID  2039 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "PayCard_mobile"
+SpecificData  
+OtherInfo  
+GUID  2040 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2495 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -12923,11 +14614,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  2495 
+GUID  2456 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -13200,8 +14891,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 8 9 8 
-Name  "C-MORE Red Dot"
+AddonsCount  3 0 0 8 
+Name  "Krebs_butt2"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -13218,8 +14909,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "Krebs_butt2"
+Prob  1 8 9 8 
+Name  "C-MORE Red Dot"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -13244,11 +14935,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Drink_beer_bottle"
 SpecificData  
 OtherInfo  
-GUID  3775 
+GUID  3731 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -13267,19 +14958,29 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.907216 
-Item  1 0 10 
-Name  "Drink_beer_bottle"
+Prob  1 
+Item  0 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  3731 
+GUID  3775 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.701031 11 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  1 0 0 
 Name  "Revolver Smith & Wesson Classic (.38 spc)"
 SpecificData  
@@ -13330,16 +15031,6 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 8 
-Name  "Cuchillo tactico"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -13643,15 +15334,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -13715,19 +15410,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -13834,11 +15525,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -13861,16 +15568,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -14008,15 +15775,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -14036,19 +15807,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -14282,8 +16049,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -14291,8 +16058,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -14304,18 +16071,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -14327,19 +16082,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -14353,6 +16108,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -14475,7 +16242,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -14615,15 +16382,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -14643,19 +16414,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -14683,7 +16450,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -14707,7 +16474,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -14777,8 +16544,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -14786,8 +16553,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -14812,15 +16579,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -14840,19 +16611,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -14971,8 +16738,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 4 7 8 
-Name  "Surefire CUS Flashlight (BM)"
+AddonsCount  3 0 0 8 
+Name  "aks74u_buttdark"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -14989,8 +16756,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "aks74u_buttdark"
+Prob  1 4 7 8 
+Name  "Surefire CUS Flashlight (BM)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -15015,30 +16782,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 10 
-Name  "PayCard_mobile"
-SpecificData  
-OtherInfo  
-GUID  2040 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
-Name  "PhoneBrick0"
-SpecificData  
-OtherInfo  
-GUID  2039 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Double rifle ammo clip (AR70/60)"
 SpecificData  
@@ -15054,12 +16797,36 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Canteen_leath"
+Prob  1 
+Item  0 1 10 
+Name  "PhoneBrick0"
 SpecificData  
 OtherInfo  
-GUID  2456 
+GUID  2039 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "PayCard_mobile"
+SpecificData  
+OtherInfo  
+GUID  2040 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2495 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -15079,11 +16846,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  2495 
+GUID  2456 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -15356,8 +17123,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 8 9 8 
-Name  "C-MORE Red Dot"
+AddonsCount  3 0 0 8 
+Name  "Krebs_butt2"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -15374,8 +17141,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "Krebs_butt2"
+Prob  1 8 9 8 
+Name  "C-MORE Red Dot"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -15400,11 +17167,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Drink_beer_bottle"
 SpecificData  
 OtherInfo  
-GUID  3775 
+GUID  3731 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -15423,19 +17190,29 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.907216 
-Item  1 0 10 
-Name  "Drink_beer_bottle"
+Prob  1 
+Item  0 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  3731 
+GUID  3775 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.701031 11 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  1 0 0 
 Name  "Revolver Smith & Wesson Classic (.38 spc)"
 SpecificData  
@@ -15486,16 +17263,6 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 8 
-Name  "Cuchillo tactico"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -15799,15 +17566,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Pistol clip (Mustang/6)"
 SpecificData  
-OtherInfo  
-GUID  273143 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".380 ACP Surplus"
+SpecificData  
+AmmoInfo  
+RoundsLeft  6 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -15871,19 +17642,15 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Pistol clip (Mustang/6)"
+Item  0 0 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".380 ACP Surplus"
-SpecificData  
-AmmoInfo  
-RoundsLeft  6 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  273143 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -15990,11 +17757,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -16017,16 +17800,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -16164,15 +18007,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -16192,19 +18039,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -16438,8 +18281,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -16447,8 +18290,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -16460,18 +18303,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -16483,19 +18314,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -16509,6 +18340,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -16631,7 +18474,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -16771,15 +18614,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -16799,19 +18646,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -16839,7 +18682,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -16863,7 +18706,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -16933,8 +18776,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -16942,8 +18785,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -16968,15 +18811,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -16996,19 +18843,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -17127,8 +18970,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 4 7 8 
-Name  "Surefire CUS Flashlight (BM)"
+AddonsCount  3 0 0 8 
+Name  "aks74u_buttdark"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -17145,8 +18988,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "aks74u_buttdark"
+Prob  1 4 7 8 
+Name  "Surefire CUS Flashlight (BM)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -17171,30 +19014,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 10 
-Name  "PayCard_mobile"
-SpecificData  
-OtherInfo  
-GUID  2040 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
-Name  "PhoneBrick0"
-SpecificData  
-OtherInfo  
-GUID  2039 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Double rifle ammo clip (AR70/60)"
 SpecificData  
@@ -17210,12 +19029,36 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Canteen_leath"
+Prob  1 
+Item  0 1 10 
+Name  "PhoneBrick0"
 SpecificData  
 OtherInfo  
-GUID  2456 
+GUID  2039 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "PayCard_mobile"
+SpecificData  
+OtherInfo  
+GUID  2040 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2495 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -17235,11 +19078,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  2495 
+GUID  2456 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -17512,8 +19355,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 8 9 8 
-Name  "C-MORE Red Dot"
+AddonsCount  3 0 0 8 
+Name  "Krebs_butt2"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -17530,8 +19373,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "Krebs_butt2"
+Prob  1 8 9 8 
+Name  "C-MORE Red Dot"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -17556,11 +19399,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Drink_beer_bottle"
 SpecificData  
 OtherInfo  
-GUID  3775 
+GUID  3731 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -17579,19 +19422,29 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.907216 
-Item  1 0 10 
-Name  "Drink_beer_bottle"
+Prob  1 
+Item  0 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  3731 
+GUID  3775 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.701031 11 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  1 0 0 
 Name  "Revolver Smith & Wesson Classic (.38 spc)"
 SpecificData  
@@ -17642,16 +19495,6 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 8 
-Name  "Cuchillo tactico"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -17808,11 +19651,27 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Money"
+Item  1 1 7 
+Name  "Ammo box (.45 Colt LHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Tablets"
 SpecificData  
 OtherInfo  
-GUID  273609 
+GUID  9537 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -17835,16 +19694,76 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
+Prob  1 
 Item  0 0 10 
-Name  "Tablets"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  9537 
+GUID  273609 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 0 
+Name  "Revolver Uberti Desperado (.45 Colt)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Revolver clip (.45/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (LHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -17982,15 +19901,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -18010,19 +19933,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -18256,8 +20175,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -18265,8 +20184,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -18278,18 +20197,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -18301,19 +20208,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -18327,6 +20234,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -18449,7 +20368,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -18589,15 +20508,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -18617,19 +20540,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -18657,7 +20576,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -18681,7 +20600,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -18751,8 +20670,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -18760,8 +20679,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -18786,15 +20705,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -18814,19 +20737,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -18945,8 +20864,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 4 7 8 
-Name  "Surefire CUS Flashlight (BM)"
+AddonsCount  3 0 0 8 
+Name  "aks74u_buttdark"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -18963,8 +20882,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "aks74u_buttdark"
+Prob  1 4 7 8 
+Name  "Surefire CUS Flashlight (BM)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -18989,30 +20908,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 10 
-Name  "PayCard_mobile"
-SpecificData  
-OtherInfo  
-GUID  2040 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
-Name  "PhoneBrick0"
-SpecificData  
-OtherInfo  
-GUID  2039 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Double rifle ammo clip (AR70/60)"
 SpecificData  
@@ -19028,12 +20923,36 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Canteen_leath"
+Prob  1 
+Item  0 1 10 
+Name  "PhoneBrick0"
 SpecificData  
 OtherInfo  
-GUID  2456 
+GUID  2039 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "PayCard_mobile"
+SpecificData  
+OtherInfo  
+GUID  2040 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2495 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -19053,11 +20972,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  2495 
+GUID  2456 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -19330,8 +21249,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 8 9 8 
-Name  "C-MORE Red Dot"
+AddonsCount  3 0 0 8 
+Name  "Krebs_butt2"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -19348,8 +21267,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "Krebs_butt2"
+Prob  1 8 9 8 
+Name  "C-MORE Red Dot"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -19374,11 +21293,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Drink_beer_bottle"
 SpecificData  
 OtherInfo  
-GUID  3775 
+GUID  3731 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -19397,19 +21316,29 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.907216 
-Item  1 0 10 
-Name  "Drink_beer_bottle"
+Prob  1 
+Item  0 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  3731 
+GUID  3775 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.701031 11 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  1 0 0 
 Name  "Revolver Smith & Wesson Classic (.38 spc)"
 SpecificData  
@@ -19460,16 +21389,6 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 8 
-Name  "Cuchillo tactico"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -19673,15 +21592,19 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 10 
-Name  "PhoneBrick0"
+Item  1 1 7 
+Name  "Pistol clip (PX4/14)"
 SpecificData  
-OtherInfo  
-GUID  19432 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".40 S&W JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  14 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -19701,19 +21624,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 7 
-Name  "Pistol clip (PX4/14)"
+Item  0 0 10 
+Name  "PhoneBrick0"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  ".40 S&W JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  14 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  19432 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -19947,8 +21866,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "MAC10_butt_opened"
+AddonsCount  2 8 8 8 
+Name  "Silencer (MAC/380)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -19956,8 +21875,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 8 8 8 
-Name  "Silencer (MAC/380)"
+Prob  1 0 0 8 
+Name  "MAC10_butt_opened"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -19969,18 +21888,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  1 1 10 
-Name  "amphetamine"
-SpecificData  
-OtherInfo  
-GUID  275483 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Money"
 SpecificData  
@@ -19992,19 +21899,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Flask"
+Prob  1 
+Item  1 1 10 
+Name  "amphetamine"
 SpecificData  
 OtherInfo  
-GUID  17307 
+GUID  275483 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 11 
 Item  0 0 7 
 Name  "SMG clip (MAC380/30)"
 SpecificData  
@@ -20018,6 +21925,18 @@ RoundsLeft  30
 EndOfSpecificData  
 Used  0 
 Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  17307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -20140,7 +22059,7 @@ Pins
 Used  0 
 Prob  1 
 Used  0 
-Prob  0.402062 14 13 
+Prob  1 14 13 
 Money  0 
 END_VARIANT  
 VARIANT  "Variant 8"1 
@@ -20280,15 +22199,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -20308,19 +22231,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -20348,7 +22267,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -20372,7 +22291,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -20442,8 +22361,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -20451,8 +22370,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -20477,15 +22396,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -20505,19 +22428,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -20636,8 +22555,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 4 7 8 
-Name  "Surefire CUS Flashlight (BM)"
+AddonsCount  3 0 0 8 
+Name  "aks74u_buttdark"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -20654,8 +22573,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "aks74u_buttdark"
+Prob  1 4 7 8 
+Name  "Surefire CUS Flashlight (BM)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -20680,30 +22599,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 10 
-Name  "PayCard_mobile"
-SpecificData  
-OtherInfo  
-GUID  2040 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
-Name  "PhoneBrick0"
-SpecificData  
-OtherInfo  
-GUID  2039 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Double rifle ammo clip (AR70/60)"
 SpecificData  
@@ -20719,12 +22614,36 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Canteen_leath"
+Prob  1 
+Item  0 1 10 
+Name  "PhoneBrick0"
 SpecificData  
 OtherInfo  
-GUID  2456 
+GUID  2039 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "PayCard_mobile"
+SpecificData  
+OtherInfo  
+GUID  2040 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2495 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -20744,11 +22663,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  2495 
+GUID  2456 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -21021,8 +22940,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 8 9 8 
-Name  "C-MORE Red Dot"
+AddonsCount  3 0 0 8 
+Name  "Krebs_butt2"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -21039,8 +22958,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "Krebs_butt2"
+Prob  1 8 9 8 
+Name  "C-MORE Red Dot"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -21065,11 +22984,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Drink_beer_bottle"
 SpecificData  
 OtherInfo  
-GUID  3775 
+GUID  3731 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -21088,19 +23007,29 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.907216 
-Item  1 0 10 
-Name  "Drink_beer_bottle"
+Prob  1 
+Item  0 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  3731 
+GUID  3775 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.701031 11 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  1 0 0 
 Name  "Revolver Smith & Wesson Classic (.38 spc)"
 SpecificData  
@@ -21151,16 +23080,6 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 8 
-Name  "Cuchillo tactico"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -21371,15 +23290,19 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  0 0 7 
+Name  "Metal rifle ammo clip (AK 5.56/30)"
 SpecificData  
-OtherInfo  
-GUID  1215 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -21399,19 +23322,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Metal rifle ammo clip (AK 5.56/30)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1215 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
@@ -21439,7 +23358,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.608247 82 
+Prob  1 82 
 Item  0 0 10 
 Name  "Lighter_piezo_g"
 SpecificData  
@@ -21463,7 +23382,7 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.706186 84 
+Prob  1 84 
 Item  0 0 10 
 Name  "Smoke_camel"
 SpecificData  
@@ -21533,8 +23452,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 6 4 8 
-Name  "Surefire CUS Laser Sight (WR)"
+AddonsCount  2 0 0 8 
+Name  "vepr12stock"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -21542,8 +23461,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "vepr12stock"
+Prob  1 6 4 8 
+Name  "Surefire CUS Laser Sight (WR)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -21568,15 +23487,19 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 7 
+Name  "Ammo box (N4)"
 SpecificData  
-OtherInfo  
-GUID  1855 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Buckshot N4 (12ga)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -21596,19 +23519,15 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (N4)"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Buckshot N4 (12ga)"
-SpecificData  
-AmmoInfo  
-RoundsLeft  5 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  1855 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
@@ -21727,8 +23646,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 4 7 8 
-Name  "Surefire CUS Flashlight (BM)"
+AddonsCount  3 0 0 8 
+Name  "aks74u_buttdark"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -21745,8 +23664,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "aks74u_buttdark"
+Prob  1 4 7 8 
+Name  "Surefire CUS Flashlight (BM)"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -21771,30 +23690,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 10 
-Name  "PayCard_mobile"
-SpecificData  
-OtherInfo  
-GUID  2040 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
-Name  "PhoneBrick0"
-SpecificData  
-OtherInfo  
-GUID  2039 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Double rifle ammo clip (AR70/60)"
 SpecificData  
@@ -21810,12 +23705,36 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 0 10 
-Name  "Canteen_leath"
+Prob  1 
+Item  0 1 10 
+Name  "PhoneBrick0"
 SpecificData  
 OtherInfo  
-GUID  2456 
+GUID  2039 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "PayCard_mobile"
+SpecificData  
+OtherInfo  
+GUID  2040 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2495 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -21835,11 +23754,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Canteen_leath"
 SpecificData  
 OtherInfo  
-GUID  2495 
+GUID  2456 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -22112,8 +24031,8 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  3 8 9 8 
-Name  "C-MORE Red Dot"
+AddonsCount  3 0 0 8 
+Name  "Krebs_butt2"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -22130,8 +24049,8 @@ BulletsCount  0
 MasterBone  -1 
 EndOfSpecificData  
 Used  0 
-Prob  1 0 0 8 
-Name  "Krebs_butt2"
+Prob  1 8 9 8 
+Name  "C-MORE Red Dot"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -22156,11 +24075,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "Drink_beer_bottle"
 SpecificData  
 OtherInfo  
-GUID  3775 
+GUID  3731 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -22179,19 +24098,29 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.907216 
-Item  1 0 10 
-Name  "Drink_beer_bottle"
+Prob  1 
+Item  0 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  3731 
+GUID  3775 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  0.701031 11 
+Prob  1 11 
+Item  0 0 8 
+Name  "Cuchillo tactico"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  1 0 0 
 Name  "Revolver Smith & Wesson Classic (.38 spc)"
 SpecificData  
@@ -22242,16 +24171,6 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 0 8 
-Name  "Cuchillo tactico"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 2 
