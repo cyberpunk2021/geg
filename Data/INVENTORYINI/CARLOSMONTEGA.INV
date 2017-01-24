@@ -1,0 +1,6754 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  2 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Revolver S&W M500 (.500 S&W)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "S&W M500 clip"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Wildkat"
+SpecificData  
+ArmourInfo  
+Prob  0.6 0 0 0 0 6 8 4 
+Name  "Metal armor plate 1"
+SpecificData  
+ArmourInfo  
+Prob  0.5 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 0 
+Name  "Defensive Hand Grenade F-1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  27311 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  3625 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 0 8 
+Name  "smersh5"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  27321 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Belt_04"
+SpecificData  
+OtherInfo  
+GUID  36 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  10 
+Pockets  68 72 
+Item  0 0 6 
+Name  "Ammo .500 S&W Magnum SCHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  35 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+VARIANT  "Variant 2"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Pistol BFR (.45 LC)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Jury (.45 LC/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  5 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 
+Item  0 0 8 
+Name  "Machete"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  1413 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 0 8 
+Name  "kabar"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Defensive Hand Grenade Mk2A1"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 11 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  657 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Lighter_cryst_b"
+SpecificData  
+OtherInfo  
+GUID  2951 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Smoke_camel"
+SpecificData  
+OtherInfo  
+GUID  27511 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2964 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 84 
+Item  0 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  1698 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 85 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Pins  
+Used  0 
+Prob  1 14 13 
+Money  
+RND  50 300 
+END_VARIANT  
+EndStage  
