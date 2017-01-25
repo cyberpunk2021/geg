@@ -4971,12 +4971,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\Glock.wav"
-ATT Laser		1 "WR"
-blocks
-Light
-ATT Light		1 "WR"
-blocks
-Laser
+ATT Laser		1 "WR" blocks Light
+ATT Light		1 "WR" blocks Laser
 ATT Scope		1 "PistolDocter"
 ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
@@ -10377,12 +10373,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\Glock_20.wav"
-ATT Laser		1 "WR"
-blocks
-Light
-ATT Light		1 "WR"
-blocks
-Laser
+ATT Laser		1 "WR" blocks Light
+ATT Light		1 "WR" blocks Laser
 ATT Scope		1 "PistolDocter"
 ATT Bipod		0
 ATT Silencer	0
