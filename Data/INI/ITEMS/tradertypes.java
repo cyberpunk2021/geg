@@ -1,6 +1,6 @@
-==========================
-Street trader guns
-==========================
+/////////==========================
+/////////Street trader guns
+/////////==========================
 
 Item "Revolver SW 10 (.38 spc)" Level 1 Price 180
 Item "Revolver SW 10 W (.38 spc)" Level 1 Price 180
@@ -117,8 +117,6 @@ Item "Pistol Colt Defender W (.40)" Level 2 Price 500
 Item "Pistol Colt Defender W (9mm)" Level 1 Price 460
 Item "Pistol Colt Defender (.45 ACP)" Level 2 Price 490
 Item "Pistol Colt Defender W (.45 ACP)" Level 2 Price 490
-Item "Pistol PT1911 (9mm)" Level 3 Price 840
-Item "Pistol PT1911 (45)" Level 4 Price 930
 Item "Pistol SW908 (9mm)" Level 2 Price 500
 Item "Pistol SW6906 (9mm)" Level 3 Price 590
 Item "Pistol SW5906 (9mm)" Level 3 Price 640
@@ -137,10 +135,18 @@ Item "Steyr TMP AUTO (9x19)" Level 3 Price 1900
 Item "Pistol Llama (Largo)" Level 1 Price 410
 Item "Pistol Llama Extra (Largo)" Level 1 Price 490
 
+Item "Pistol Astra 900 (Largo)" Level 1 Price 970
+Item "Pistol Astra 900 (Largo) folded" Level 1 Price 970
+Item "Pistol Star A Super (Largo)" Level 1 Price 320
+Item "Pistol Llama (Largo)" Level 1 Price 410
+
 Item "Pistol NP-58 (.40)" Level 1 Price 600
 
 Item "Pistol Kahr K40 (.40)" Level 1 Price 470
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
+
+Item "Pistol Jericho (9mm)" Level 2 Price 690
+Item "Pistol Jericho W (9mm)" Level 2 Price 690
 
 Item "Pistol Jericho (40)" Level 3 Price 780
 Item "Pistol Jericho W (40)" Level 3 Price 780
@@ -182,26 +188,58 @@ Item "Revolver Taurus 608 Stainless SB (.357 Magnum)" Level 3 Price 800
 Item "Revolver Taurus 608 SB (.357 Magnum)" Level 3 Price 800
 
 
-Item	"Revolver Taurus 44 Stainless (.44 Magnum)" Level 3 Price 600
-Item	"Revolver Taurus 44 Blue (.44 Magnum)" Level 3 Price 550
-Item	"Revolver Taurus 65 Stainless (.357 Magnum)" Level 3 Price 450
-Item	"Revolver Taurus 608 (.357 Magnum)" Level 3 Price 900
-Item	"Revolver Taurus 850 (.38 Special)" Level 3 Price 400
+Item "Revolver Taurus 44 Stainless (.44 Magnum)" Level 3 Price 600
+Item "Revolver Taurus 44 Blue (.44 Magnum)" Level 3 Price 550
+Item "Revolver Taurus 65 Stainless (.357 Magnum)" Level 3 Price 450
+Item "Revolver Taurus 608 (.357 Magnum)" Level 1 Price 900
+Item "Revolver Taurus 850 (.38 Special)" Level 1 Price 400
 
-Item	"Pistol PM (9x18mm)" Level 1 Price 240
-Item	"Pistol Fort 17 (9x18mm)" Level 1 Price 300
-Item	"Pistol Fort 17 (380)" Level 1 Price 300
 
-Item	"Pistol Type 51 (7.62x25mm)" Level 1 Price 220
-Item	"Pistol TT-33 (7.62x25mm)" Level 1 Price 200
-Item	"Pistol Tokagypt 58" Level 1 Price 200
-Item	"Pistol Zastava M70(d)" Level 2 Price 380
+Item "Revolver Colt SAA 357_4 BK (.357 Magnum)" Level 1 Price 400
+Item "Revolver Colt SAA 357_5 BK (.357 Magnum)" Level 1 Price 550
+Item "Revolver Colt SAA 357_7 BK (.357 Magnum)" Level 2 Price 620
+Item "Revolver Colt SAA 45_4 (.44-40)" Level 1 Price 330
+Item "Revolver Colt SAA 45_4 BK (.44-40)" Level 1 Price 330
+Item "Revolver Colt SAA 45_5 (.44-40)" Level 1 Price 520
+Item "Revolver Colt SAA 45_5 BK (.44-40)" Level 1 Price 520
+Item "Revolver Colt SAA 45_7 (.44-40)" Level 2 Price 600
+Item "Revolver Colt SAA 45_7 BK (.44-40)" Level 2 Price 600
+Item "Revolver Uberti El Patron (.357)" Level 1 Price 600
+Item "Revolver Uberti El Patron W (.357)" Level 1 Price 600
+Item "Revolver Uberti Old West (.357)" Level 1 Price 600
 
-Item	"Pistol Beretta 951 (9mm)" Level 1 Price 400
-Item	"Pistol Beretta 92S (9mm)" Level 2 Price 730
 
-Item	"Pistol Taurus PT 92 (9mm)" Level 2 Price 700
-Item	"Pistol Taurus PT100 (.40 S&W)" Level 3 Price 850
+Item "Revolver Uberti Callahan (.44)" Level 2 Price 900
+
+Item "Revolver Uberti Cody (.45 Colt)" Level 1 Price 590
+Item "Revolver Uberti Desperado (.45 Colt)" Level 1 Price 590
+Item "Revolver Uberti El Patron (.45 Colt)" Level 1 Price 590
+Item "Revolver Uberti El Patron W (.45 Colt)" Level 1 Price 590
+Item "Revolver Uberti Frisco (.45 Colt)" Level 1 Price 590
+Item "Revolver Uberti Old West (.45 Colt)" Level 1 Price 590
+
+Item "Revolver Colt SAA 45_4 BK (.45 Colt)" Level 1 Price 390
+Item "Revolver Colt SAA 45_5 BK (.45 Colt)" Level 1 Price 540
+Item "Revolver Colt SAA 45_7 BK (.45 Colt)" Level 2 Price 610
+
+Item "Revolver 410 Jury" Level 2 Price 1000
+
+
+
+Item "Pistol PM (9x18mm)" Level 1 Price 240
+Item "Pistol Fort 17 (9x18mm)" Level 1 Price 300
+Item "Pistol Fort 17 (380)" Level 1 Price 300
+
+Item "Pistol Type 51 (7.62x25mm)" Level 1 Price 220
+Item "Pistol TT-33 (7.62x25mm)" Level 1 Price 200
+Item "Pistol Tokagypt 58" Level 1 Price 200
+Item "Pistol Zastava M70(d)" Level 2 Price 380
+
+Item "Pistol Beretta 951 (9mm)" Level 1 Price 400
+Item "Pistol Beretta 92S (9mm)" Level 2 Price 730
+
+Item "Pistol Taurus PT 92 (9mm)" Level 2 Price 700
+Item "Pistol Taurus PT100 (.40 S&W)" Level 3 Price 850
 Item "Pistol Taurus PT 92 B (9mm)" Level 2 Price 700
 Item "Pistol Taurus PT 92 W (9mm)" Level 2 Price 700
 Item "Pistol Taurus PT 92 Rail (9mm)" Level 3 Price 800
@@ -210,8 +248,8 @@ Item "Pistol Taurus PT 92 Rail W (9mm)" Level 3 Price 800
 Item "Pistol Taurus PT100 W (.40 SW)" Level 3 Price 850
 Item "Pistol Taurus PT100 B (.40 SW)" Level 3 Price 850
 
-Item	"Pistol Star B Super (9mm)" Level 1 Price 270
-Item	"Pistol Ballester-Molina (.45 ACP)" Level 1 Price 310
+Item "Pistol Star B Super (9mm)" Level 1 Price 270
+Item "Pistol Ballester-Molina (.45 ACP)" Level 1 Price 310
 
 Item "Pistol HSC (380)" Level 1 Price 110
 Item "Pistol HSC B (380)" Level 1 Price 110
@@ -219,26 +257,26 @@ Item "Pistol FEG37 (380)" Level 1 Price 120
 
 
 
-Item	"Submachine-gun Micro UZI (9mm)" Level 2 Price 1050
+Item "Submachine-gun Micro UZI (9mm)" Level 2 Price 1050
 
-Item	"Submachine-gun Mini UZI (9mm)" Level 3 Price 1200
-
-
-Item	"Submachine-gun HK MP5KA4 (9mm)" Level 3 Price 1300
-Item	"Submachine-gun HK MP5PDW (9mm)" Level 4 Price 1400
+Item "Submachine-gun Mini UZI (9mm)" Level 3 Price 1200
 
 
-Item	"Submachine-gun MP40 (9mm)" Level 2 Price 500
-
-Item	"Submachine-gun MAT49 (9mm)" Level 3 Price 650
-
-Item	"Submachine-gun Sterling L2A3 (9mm)" Level 2 Price 580
+Item "Submachine-gun HK MP5KA4 (9mm)" Level 3 Price 1300
+Item "Submachine-gun HK MP5PDW (9mm)" Level 4 Price 1400
 
 
-Item	"Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
+Item "Submachine-gun MP40 (9mm)" Level 2 Price 500
+
+Item "Submachine-gun MAT49 (9mm)" Level 3 Price 650
+
+Item "Submachine-gun Sterling L2A3 (9mm)" Level 2 Price 580
 
 
-Item	"Submachine-gun MAC-10 (.45 ACP)" Level 3 Price 700
+Item "Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
+
+
+Item "Submachine-gun MAC-10 (.45 ACP)" Level 3 Price 700
 
 Item "Submachine-gun NR-08 (9mm)" 1300
 Item "Submachine-gun CETME C2 (9mm)" 630
@@ -265,10 +303,10 @@ Item "Submachine-gun VZ82 (9x19mm)" Level 2 Price 650
 
 Item "Submachine-gun kedr" Level 1 Price 420
 
-Item	"Submachine-gun Vz61 (7.65mm)" Level 1 Price 370
+Item "Submachine-gun Vz61 (7.65mm)" Level 1 Price 370
 
-Item	"Submachine-gun Type 54 (7.62x25mm)" Level 2 Price 420
-Item	"Submachine-gun Vz82 (9x18mm)" Level 2 Price 580
+Item "Submachine-gun Type 54 (7.62x25mm)" Level 2 Price 420
+Item "Submachine-gun Vz82 (9x18mm)" Level 2 Price 580
 
 Item "Submachine-gun KG-99 (9mm)" Level 2 Price 300
 Item "Submachine-gun KG-99 AUTO (9mm)" Level 3 Price 900
@@ -286,13 +324,13 @@ Item "Submachine-gun MAC-10 (380)" Level 1 Price 480
 Item "Submachine-gun Mini MAC-11 (9mm)" Level 2 Price 520
 Item "Submachine-gun MAC-11 (9mm)" Level 2 Price 660
 
-Item	"Shotgun CoachGun SawedOff (12ga)" Level 1 Price 100
-Item	"Shotgun CoachGun (12ga)" Level 1 Price 200
-Item	"Shotgun Mosberg 590 Crusader (12ga)" Level 1 Price 360
+Item "Shotgun CoachGun SawedOff (12ga)" Level 1 Price 100
+Item "Shotgun CoachGun (12ga)" Level 1 Price 200
+Item "Shotgun Mosberg 590 Crusader (12ga)" Level 1 Price 360
 
-Item	"Rifle Mosin Sawedoff (7.62x54 mm)" Level 1 Price 100
+Item "Rifle Mosin Sawedoff (7.62x54 mm)" Level 1 Price 100
 
-Item	"Shotgun Ithaca 37 (12ga)" Level 1 Price 450
+Item "Shotgun Ithaca 37 (12ga)" Level 1 Price 450
 
 Item "Shotgun CBC PUMP PGRIP (12ga)" Level 1 Price 350
 Item "Shotgun CBC PUMP PGRIP LB (12ga)" Level 2 Price 380
@@ -337,334 +375,680 @@ Item "TOZ194 unstock (12ga)" Level 2 Price 900
 
 
 
-==========
-RIFLES SEMI AUTO
-
-Item	"Carabine SKS (7.62x39mm)" 550
-Item	"Carabine Type 56 (7.62x39mm)" 300
-Item	"Carabine Mini14 (5.56mm)"				1100
-Item	"Carabine Mini30 (7.62x39mm)"				1050
-Item "Carabine M305 (7.62x51mm)" 1500
-Item "Carabine AC556 Semi (5.56mm)" 1150
-Item "Carabine Mini68 (6.8x43mm)" 1200
+/////////==========
+/////////RIFLES
+/////////==========
+
+
+Item "Carabine Winchester 1892 trapper (.357 Magnum)" Level 1 Price 650
+Item "Carabine Winchester 1892 (.357 Magnum)" Level 2 Price 720
+Item "Carabine Winchester 1892 trapper (.44 Magnum)" Level 1 Price 850
+Item "Carabine Winchester 1892 (.44 Magnum)" Level 2 Price 950
+Item "Carabine Winchester 1892 trapper (.45 Colt)" Level 1 Price 600
+Item "Carabine Winchester 1892 (.45 Colt)" Level 2 Price 700
+Item "Winchester 1866 CQC (38)" Level 1 Price 350
+Item "Winchester 1866 CAR (38)" Level 1 Price 400
+Item "Winchester 1866 LB (38)" Level 1 Price 450
+Item "Winchester 1866 CQC (44-40)" Level 1 Price 400
+Item "Winchester 1866 CAR (44-40)" Level 1 Price 450
+Item "Winchester 1866 LB (44-40)" Level 1 Price 550
+Item "Winchester 1866 CQC (45)" Level 1 Price 500
+Item "Winchester 1866 CAR (45)" Level 1 Price 550
+Item "Winchester 1866 LB (45)" Level 1 Price 650
+Item "Winchester 1894 357" Level 1 Price 420
+Item "Winchester 1894 Short 357" Level 1 Price 380
+Item "Winchester 1894 44" Level 1 Price 550
+Item "Winchester 1894 Short 44" Level 1 Price 480
+Item "Winchester 1894 45" Level 1 Price 650
+Item "Winchester 1894 Short 45" Level 1 Price 600
+Item "Winchester 1873 (44-40)" Level 1 Price 1200
+Item "Winchester 1873 (357)" Level 1 Price 1300
+Item "Winchester 1873 (38)" Level 1 Price 1000
+Item "Winchester 1886 Short" Level 2 Price 1700
+Item "Winchester 1886" Level 3 Price 1900
+Item "Marlin 1895G" Level 2 Price 1500
+Item "Marlin 1895G 2" Level 2 Price 1300
+Item "Marlin 1895 2" Level 3 Price 1600
+Item "Marlin 1895" Level 3 Price 1800
+Item "Marlin 1894 357" Level 2 Price 900
+Item "Marlin 1894 44" Level 2 Price 950
+Item "Marlin 1894 45" Level 2 Price 1050
+Item "Marlin 1894 410" Level 2 Price 1050
+Item "Winchester 1894 Short 3030" Level 2 Price 900
+Item "Winchester 1894 3030" Level 2 Price 1000
+Item "Marlin 1894 38" Level 1 Price 290
+Item "Winchester 1873 (.45 Colt)" Level 1 Price 1250
+
+Item "Carabine SKS (7.62x39mm)" Level 3 Price 550
+Item "Carabine Type 56 (7.62x39mm)" Level 3 Price 300
+Item "Carabine Mini14 (5.56mm)" Level 3 Price 1100
+Item "Carabine Mini30 (7.62x39mm)" Level 3 Price 1050
+Item "Carabine M305 (7.62x51mm)" Level 4 Price 1500
+Item "Carabine AC556 Semi (5.56mm)" Level 3 Price 1150
+Item "Carabine Mini68 (6.8x43mm)" Level 4 Price 1200
+
+Item "Carabine SOCOM16 WOOD NO RIS (7.62x51mm)" Level 3 Price 1400
+
+Item "Assault Rifle AK47 Semi (7.62x39mm)" Level 4 Price 900
+Item "Assault Rifle AK47 Real Semi (7.62x39mm)" Level 4 Price 850
+
+Item "Assault Rifle WASR-2 (5.45x39mm)" Level 4 Price 890
+Item "Assault Rifle WASR-3 (5.56x45mm)" Level 4 Price 970
+Item "Assault Rifle WASR-10 (7.62x39mm)" Level 4 Price 920
+Item "Carabine Norinco 56S Y (7.62x39mm)" Level 4 Price 750
+Item "Carabine Norinco 84S Y (5.56mm)" Level 4 Price 870
+Item "Assault Rifle Type 84-1 (5.56x45mm)" Level 6 Price 940
+
+Item "Assault Rifle Type 84-1 Y (5.56x45mm)" Level 6 Price 940
+
+Item "Assault Rifle RK71P CIV (7.62)" Level 5 Price 1700
+Item "Assault Rifle RK71P CIV (5.56)" Level 6 Price 1800
+Item "Assault Rifle RK71W CIV (7.62)" Level 5 Price 1700
+Item "Assault Rifle RK71W CIV (5.56)" Level 6 Price 1800
+Item "Assault Rifle RK71W2 CIV (7.62)" Level 5 Price 1700
+Item "Assault Rifle RK71W2 CIV (5.56)" Level 6 Price 1800
+Item "Assault Rifle SA85 (7.62x39mm)" Level 6 Price 1350
+Item "Assault Rifle Type 56 D (7.62x39mm)" Level 6 Price 1380
+
+Item "Assault Rifle FEG NGM-81 Bayonet (5.56x45mm)" Level 6 Price 1400
+Item "Assault Rifle FEG NGM-81 Bayonet D (5.56x45mm)" Level 6 Price 1410
+
+Item "Carabine Norinco 56S (7.62x39mm)" Level 4 Price 750
+Item "Carabine Norinco 84S (5.56mm)" Level 4 Price 870
+
+Item "Assault Rifle HK93EA2 (5.56mm)" Level 5 Price 2200
+Item "Assault Rifle HK93EA3 (5.56mm)" Level 5 Price 2250
+
+Item "Assault Rifle AR-15A2 (5.56mm)" Level 5 Price 1600
+Item "Assault Rifle Government Carbine (5.56mm)" Level 6 Price 1700
+
+Item "Assault Rifle Sporter Lightweight (5.56mm)" Level 4 Price 1500
+
+Item "Assault Rifle M16A1 HG CIV (5.56mm)" Level 6 Price 1400
+Item "Assault Rifle M16 CIV (5.56mm)" Level 6 Price 1200
+Item "Assault Rifle M16A2 CIV (5.56mm)" Level 7 Price 1800
+
+
+Item "Assault Rifle DIO S (5.56mm)" Level 6 Price 1650
+Item "Assault Rifle Terab (5.56mm)" Level 5 Price 1600
+Item "Assault Rifle Norinco CQ (5.56mm)" Level 7 Price 1700
+Item "Assault Rifle Norinco CQ CIV (5.56mm)" Level 5 Price 1400
+
+Item "Assault Rifle 1A1 (7.62x51mm)" Level 6 Price 1600
+Item "Assault Rifle 1C (7.62x51mm)" Level 7 Price 1750
 
-Item "Carabine SOCOM16 WOOD NO RIS (7.62x51mm)"
+Item "Assault Rifle CETME L (5.56)" Level 6 Price 1400
+Item "Assault Rifle CETME LC (5.56)" Level 5 Price 1200
+Item "Assault Rifle CETME (7.62x51mm)" Level 6 Price 1700
 
-Item "Assault Rifle AK47 Semi (7.62x39mm)"
-Item "Assault Rifle AK47 Real Semi (7.62x39mm)"
+Item "Armalite" Level 6 Price 1900
 
-Item "Assault Rifle WASR-2 (5.45x39mm)" 890
-Item "Assault Rifle WASR-3 (5.56x45mm)" 970
-Item "Assault Rifle WASR-10 (7.62x39mm)" 920
-Item "Carabine Norinco 56S Y (7.62x39mm)" 750
-Item "Carabine Norinco 84S Y (5.56mm)" 870
-Item "Assault Rifle Type 84-1 (5.56x45mm)" 940
+Item "Small Assault Rifle CAR-15 (5.56mm)" Level 5 Price 1100
+Item "Small Assault Rifle CAR-15 M619 (5.56mm)" Level 6 Price 1400
+Item "Small Assault Rifle CAR-15 New (5.56mm)" Level 5 Price 1250
+Item "Small Assault Rifle CAR-15 M639 (5.56mm)" Level 6 Price 1500
+Item "Small Assault Rifle CAR-15 M640 (5.56mm)" Level 6 Price 1350
+Item "Assault Rifle M651 (5.56mm)" Level 7 Price 1800
+Item "Assault Rifle M652 (5.56mm)" Level 6 Price 1650
+Item "Assault Rifle M653 (5.56mm)" Level 7 Price 2000
+Item "Assault Rifle M654 (5.56mm)" Level 7 Price 1850
 
-Item "Assault Rifle Type 84-1 Y (5.56x45mm)" 940
+Item "Assault Rifle Colt 723 (5.56mm)" Level 7 Price 2100
+Item "Assault Rifle CAR-15 (5.56mm)" Level 7 Price 2100
+Item "Assault Rifle Colt 727 (5.56mm)" Level 7 Price 2300
 
-Item "Assault Rifle RK71P CIV (7.62)" 1700
-Item "Assault Rifle RK71P CIV (5.56)" 1800
-Item "Assault Rifle RK71W CIV (7.62)" 1700
-Item "Assault Rifle RK71W CIV (5.56)" 1800
-Item "Assault Rifle RK71W2 CIV (7.62)" 1700
-Item "Assault Rifle RK71W2 CIV (5.56)" 1800
-Item "Assault Rifle SA85 (7.62x39mm)" 1350
-Item "Assault Rifle Type 56 D (7.62x39mm)" 1380
+Item "Assault Rifle CQA (5.56mm)" Level 6 Price 2000
 
-Item "Assault Rifle FEG NGM-81 Bayonet (5.56x45mm)" 1400
-Item "Assault Rifle FEG NGM-81 Bayonet D (5.56x45mm)" 1410
+Item "Assault Rifle M16 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle M16 HG (5.56mm)" Level 6 Price 1500
 
-Item	"Carabine Norinco 56S (7.62x39mm)"			750
-Item	"Carabine Norinco 84S (5.56mm)"				870
+Item "Assault Rifle T65 (5.56mm)" Level 7 Price 2000
+Item "Assault Rifle T65 BK (5.56mm)" Level 7 Price 2000
+Item "Assault Rifle T65K1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle T65K1 BK (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle T65K2 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle T65K2 BK (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle T65K2 Carbine (5.56mm)" Level 7 Price 2500
+Item "Assault Rifle T65K2 Carbine BK (5.56mm)" Level 7 Price 2500
+Item "Assault Rifle T65K3 (5.56mm)" Level 7 Price 2550
+Item "Assault Rifle T65K3 BK (5.56mm)" Level 7 Price 2550
 
-Item "Assault Rifle HK93EA2 (5.56mm)" 2200
-Item "Assault Rifle HK93EA3 (5.56mm)" 2250
+Item "Assault Rifle AR70 (5.56mm)" Level 6 Price 1700
+Item "Assault Rifle AR70S (5.56mm)" Level 6 Price 1800
 
-Item "Assault Rifle AR-15A2 (5.56mm)" 1600
-Item "Assault Rifle Government Carbine (5.56mm)" 1700
+Item "Assault Rifle AR70 CAR (5.56mm)" Level 5 Price 1400
 
-Item "Assault Rifle Sporter Lightweight (5.56mm)" 1500
+Item "Assault Rifle AK47 (7.62x39mm)" Level 5 Price 750
 
-Item "Assault Rifle M16A1 HG CIV (5.56mm)" 1400
-Item "Assault Rifle M16 CIV (5.56mm)" 1200
-Item "Assault Rifle M16A2 CIV (5.56mm)" 1800
+Item "Assault Rifle AK47N (7.62x39mm)" Level 6 Price 850
 
+Item "Assault Rifle AK-47 (7.62x39mm)" Level 5 Price 700
+Item "Assault Rifle AKM (7.62x39mm)" Level 5 Price 800
 
-Item "Assault Rifle DIO S (5.56mm)" 1650
-Item "Assault Rifle Terab (5.56mm)" 1600
-Item "Assault Rifle Norinco CQ (5.56mm)" 1700
-Item "Assault Rifle Norinco CQ CIV (5.56mm)" 1400
+Item "Assault Rifle AKMS (7.62x39mm)" Level 5 Price 850
 
-Item "Assault Rifle 1A1 (7.62x51mm)" 1600
-Item "Assault Rifle 1C (7.62x51mm)" 1750
+Item "Assault Rifle Zastava M70B1 (7.62x39mm)" Level 6 Price 1300
+Item "Assault Rifle Zastava M70AB2 (7.62x39mm)" Level 7 Price 1350
 
-Item "Assault Rifle CETME L (5.56)" 1400
-Item "Assault Rifle CETME LC (5.56)" 1200
-Item "Assault Rifle CETME (7.62x51mm)" 1700
+Item "Assault Rifle Zastava M92 (7.62mm)" Level 4 Price 1100
 
-Item "Armalite" 1900
+Item "Assault Rifle MPi-KM (7.62x39mm)" Level 6 Price 1250
+Item "Assault Rifle MPi-KMS (7.62x39mm)" Level 6 Price 1350
 
-Item "Small Assault Rifle CAR-15 (5.56mm)" 1100
-Item "Small Assault Rifle CAR-15 M619 (5.56mm)" 1400
-Item "Small Assault Rifle CAR-15 New (5.56mm)" 1250
-Item "Small Assault Rifle CAR-15 M639 (5.56mm)" 1500
-Item "Small Assault Rifle CAR-15 M640 (5.56mm)" 1350
-Item "Assault Rifle M651 (5.56mm)" 1800
-Item "Assault Rifle M652 (5.56mm)" 1650
-Item "Assault Rifle M653 (5.56mm)" 2000
-Item "Assault Rifle M654 (5.56mm)" 1850
+Item "Assault Rifle MPi-KMS-K (7.62x39mm)" Level 4 Price 950
 
-Item "Assault Rifle Colt 723 (5.56mm)" 2100
-Item "Assault Rifle CAR-15 (5.56mm)" 2100
-Item "Assault Rifle Colt 727 (5.56mm)" 2300
+Item "Assault Rifle Maadi MISR (7.62x39mm)" Level 4 Price 720
 
-Item "Assault Rifle CQA (5.56mm)" 2000
+Item "Assault Rifle KBKG (7.62x39mm)" Level 4 Price 900
+Item "Assault Rifle KBKG N (7.62x39mm)" Level 5 Price 950
 
-Item "Assault Rifle M16 (5.56mm)" 1500
-Item "Assault Rifle M16 HG (5.56mm)" 1500
+Item "Assault Rifle MD63 (7.62x39mm)" Level 6 Price 1000
+Item "Assault Rifle MD65 (7.62x39mm)" Level 6 Price 1100
 
-Item "Assault Rifle T65 (5.56mm)" 2000
-Item "Assault Rifle T65 BK (5.56mm)" 2000
-Item "Assault Rifle T65K1 (5.56mm)" 2600
-Item "Assault Rifle T65K1 BK (5.56mm)" 2600
-Item "Assault Rifle T65K2 (5.56mm)" 2600
-Item "Assault Rifle T65K2 BK (5.56mm)" 2600
-Item "Assault Rifle T65K2 Carbine (5.56mm)" 2500
-Item "Assault Rifle T65K2 Carbine BK (5.56mm)" 2500
-Item "Assault Rifle T65K3 (5.56mm)" 2550
-Item "Assault Rifle T65K3 BK (5.56mm)" 2550
+Item "Assault Rifle MD90 (7.62x39mm)" Level 5 Price 900
+Item "Assault Rifle MD90 LB (7.62x39mm)" Level 7 Price 1300
+Item "Assault Rifle MD86C (5.45x39mm)" Level 5 Price 1000
+Item "Assault Rifle MD86 (5.45x39mm)" Level 6 Price 1400
+Item "Assault Rifle Type56-1 Y (7.62x39mm)" Level 5 Price 600
+Item "Assault Rifle Type 56 Y (7.62x39mm)" Level 5 Price 600
+Item "Assault Rifle Type56-4 (5.56x45mm)" Level 6 Price 900
+Item "Assault Rifle Type56-4 Y (5.56x45mm)" Level 6 Price 900
 
-Item "Assault Rifle AR70 (5.56mm)" 1700
-Item "Assault Rifle AR70S (5.56mm)" 1800
+Item "Assault Rifle Zastava M-90 (5.56x45mm)" Level 7 Price 1500
+Item "Assault Rifle Zastava M-90A (5.56x45mm)" Level 7 Price 1600
+Item "Assault Rifle Zastava M-77 (7.62x51mm)" Level 8 Price 2700
+Item "Assault Rifle Zastava M-77A (7.62x51mm)" Level 8 Price 2800
 
-Item "Assault Rifle AR70 CAR (5.56mm)" 1400
+Item "Assault Rifle Galil AR (5.56mm)" Level 8 Price 2700
+Item "Assault Rifle Galil ARM (5.56mm)" Level 8 Price 2800
+Item "Assault Rifle Galil SAR (5.56mm)" Level 6 Price 2300
 
-Item "Assault Rifle AK47 (7.62x39mm)" 750
-
-Item "Assault Rifle AK47N (7.62x39mm)" 850
-
-Item	"Assault Rifle AK-47 (7.62x39mm)"			700
-Item	"Assault Rifle AKM (7.62x39mm)"				800
-
-Item	"Assault Rifle AKMS (7.62x39mm)" 			850
-
-Item	"Assault Rifle Zastava M70B1 (7.62x39mm)"		1300
-Item	"Assault Rifle Zastava M70AB2 (7.62x39mm)"		1350
-
-Item	"Assault Rifle Zastava M92 (7.62mm)"			1100
-
-Item	"Assault Rifle MPi-KM (7.62x39mm)"			1250
-Item	"Assault Rifle MPi-KMS (7.62x39mm)"			1350
-
-Item	"Assault Rifle MPi-KMS-K (7.62x39mm)"			950
-
-Item	"Assault Rifle Maadi MISR (7.62x39mm)"			720
-
-Item "Assault Rifle KBKG (7.62x39mm)" 900
-Item "Assault Rifle KBKG N (7.62x39mm)" 950
-
-Item "Assault Rifle MD63 (7.62x39mm)" 1000
-Item "Assault Rifle MD65 (7.62x39mm)" 1100
-
-Item "Assault Rifle MD90 (7.62x39mm)" 900
-Item "Assault Rifle MD90 LB (7.62x39mm)" 1300
-Item "Assault Rifle MD86C (5.45x39mm)" 1000
-Item "Assault Rifle MD86 (5.45x39mm)" 1400
-Item "Assault Rifle Type56-1 Y (7.62x39mm)"	600
-Item "Assault Rifle Type 56 Y (7.62x39mm)" 600
-Item "Assault Rifle Type56-4 (5.56x45mm)" 900
-Item "Assault Rifle Type56-4 Y (5.56x45mm)" 900
-
-Item "Assault Rifle Zastava M-90 (5.56x45mm)" 1500
-Item "Assault Rifle Zastava M-90A (5.56x45mm)" 1600
-Item "Assault Rifle Zastava M-77 (7.62x51mm)" 2700
-Item "Assault Rifle Zastava M-77A (7.62x51mm)" 2800
-
-Item	"Assault Rifle Galil AR (5.56mm)" 			2700
-Item	"Assault Rifle Galil ARM (5.56mm)"			2800
-Item	"Assault Rifle Galil SAR (5.56mm)" 			2300
-
-Item	"Assault Rifle Type 63 (7.62x39mm)"			450
-
-Item	"Assault Rifle Type 56 (7.62x39mm)"			600
-Item	"Assault Rifle Type56-1 (7.62x39mm)"			600
-Item	"Assault Rifle Type56-2 (7.62x39mm)"			1000
-Item	"Assault Rifle Type 56C (7.62x39mm)"			700
-
-Item	"Assault Rifle SG542 (7.62x51mm)"			2650
-Item	"Assault Rifle SG543 (5.56mm)"				1900
-
-Item	"Assault Rifle Colt Commando 733"			1900
-Item	"Assault Rifle Colt Commando 933"			2100
-Item	"Assault Rifle AR-15A2 (5.56mm)"			1600
-Item	"Assault Rifle CAR-15 (5.56mm)"				750
-
-Item	"Carabine IMBEL MD-97LC (5.56mm)"			1300
-Item	"Assault Rifle IMBEL MD-97L (5.56mm)"			2100
-
-Item	"Carabine Imbel MD-2A1 (5.56mm)"			1660
-
-Item	"Machinegun RPD (7.62x39mm)"				1050
-
-Item "Machinegun RPD Type 56 (7.62x39mm)" 950
-
-Item "BAR" 600
-Item "M1918 BAR" 700
-
-Item	"Launcher M79"						900
-
-++++++++++++++++
-MISC
-+++++++++++++++++
-
-Item	"Case_Soft_Skin"				200
-Item	"Case_Soft_Small"				150
-Item	"Ammo Cartouche6"				50.0
-Item	"Folded Ammo Belt"					50
-Item	"Ammo Belt"					50
-Item	"Folded Basic Belt"					100
-Item	"Basic Belt"					100
-Item	"Razgr_smerch"                                  100.0
-Item	"Folded Razgr_smerch"                                  100.0
-Item	"Folded Belt_04"				20
-Item	"Belt_04"				5
-
-Item	"Tactical Armor Vest M200"			800.0
-Item	"Tactical Armor Vest M100"			400
-Item	"Tactical Armor Vest M300"			600
-
-Item	"Helmet M1"					150.0
-Item	"Steel Helmet"					100.0
-
-Item	"Field Paramedic Kit"				30.0
-Item	"Field Paramedic Kit1"				50
-
-Item	"Flask"                                            70.0
-
-Item	"Food_m_beef"					60
-Item	"Food_m_mutton"					60
-Item	"Food_m_pork"					60
-
-Item	"Canteen_st1"					30
-Item	"Canteen_st2"					80
-Item	"M406 HE"					100.0
-Item	"M407 Smoke"					50.0
-Item "Dynamite Stick" 20
-Item	"Offensive Hand Grenade Type82-2"		80.0
-
-
-+++++++++
-MAGS AMMO
-+++++++++
-
-Item "PackedAmmoBox Algeira (9x19/500)" 280
-Item "PackedAmmoBox Palinero (9x18/500)" 240
-Item "PackedAmmoBox Norinco (9x18/500)" 320
-Item "PackedAmmoBox Algeira (.38/500)" 160
-Item "PackedAmmoBox CBC (.38/500)" 480
-Item "PackedAmmoBox Algeira (.45 ACP/500)" 340
-Item "PackedAmmoBox Algeira (12ga/200)" 370
-Item "PackedAmmoBox Palinero (12ga/200)" 324
-Item "PackedAmmoBox Algeira (5.56/500)" 456
-Item "PackedAmmoBox Norinco (5.56x45/500)" 370
-Item "PackedAmmoBox Norinco (7.62x39/500)" 303
-Item "PackedAmmoBox Palinero (7.62x39/500)" 274
-Item "PackedAmmoBox Algeira (7.62x51/500)" 624
-
-
-========
-MAGS
-========
-Item "Pistol clip (PT59/17)" 25
-Item "Pistol clip (PT59B/17)" 25
-Item "Pistol clip (PT59W/17)" 25
-Item	"Pistol clip (Beretta M9/15)"			30.0
-Item	"Pistol clip (Beretta 92FS/15)"			30.0
-Item	"Pistol clip (Beretta 92FS/17)"			40.0
-Item	"Pistol clip (Beretta 92FS/20)"			55.0
-Item	"Pistol clip (P220/7)"					45.0
-Item "Pistol clip (Colt/9)" 15
-Item "Pistol clip (Colt/16)" 30
-Item "Pistol clip (Colt/14)" 30
-Item	"Pistol clip (SIG/15)"				80.0
-
-Item	"Pistol clip (Tokagypt/7)"			15
-Item	"Pistol clip (CZ 75/16)"			25
-Item	"Pistol clip (Beretta951/8)"			20
-Item	"Pistol clip (Zastava/9)"			15
-
-Item "Pistol clip (M213/8)" 20
-Item "Pistol clip (M213/14)" 30
-Item	"Pistol clip (TT-33/8)"                             18.0
-
-Item	"Pistol clip (PM/8)"                                  15.0
-Item	"Pistol clip (Fort17/15)"                                  20.0
-Item	"Pistol clip (Fort17380/16)"                                  20.0
-Item "Pistol clip (PMM/12)" 45
-
-Item "Pistol clip (P21022/8)" 20
-Item "Pistol clip (Ruger2245/10)" 20
-Item "Pistol clip (Guardian25/6)" 20
-
-Item "Pistol clip (Colt22/12)" 15
-Item "Pistol clip (p7m22/8)" 10
-
-Item "Pistol clip (PA6332/7)" 10
-Item "Pistol clip (p7m32/8)" 10
-
-Item "Pistol clip (p7m380/8)" 10
-Item "Pistol clip (PA63380/7)" 10
-Item "Pistol clip (PA63/7)" 10
-Item "Pistol clip (BabyBrowning/6)" 10
-Item "Pistol clip (HK 4 25ACP/8)" 15
-Item "Pistol clip (Walther9/6)" 12
-Item "Pistol clip (CZ 75 22/10)" 25
-Item "Pistol clip (HK 4 22LR/8)" 20
-Item "Pistol clip (Ruger2245/10)" 18
-Item "Pistol clip (P22/10)" 20
-Item "Pistol clip (K22/10)" 20
-Item "Pistol clip (Mosquito/10)" 20
-Item "Pistol clip (Sauer/8)" 30
-Item "Pistol clip (SauerW/8)" 30
-Item "Pistol clip (HSC/8)" 30
-Item "Pistol clip (HK 4 32ACP/8)" 30
-Item "Pistol clip (P83 32ACP/8)" 30
-Item "Pistol clip (HSC/7)" 45
-Item "Pistol clip (Glock 25/15)" 45
-Item "Pistol clip (Glock 28/10)" 45
-Item "Pistol clip (HK 4 380ACP/7)" 45
-Item "Pistol clip (IJ70/8)" 45
-Item "Pistol clip (IJ70M/12)" 45
-Item "Pistol clip (P83 380ACP/8)" 45
-Item "Pistol clip (MicroDeagle/6)" 25
-Item "Pistol clip (BR1911380/19)" 45
-Item "SMG ammo clip (VZ82380/10)" 45
-Item "SMG ammo clip (VZ82380/20)" 45
-Item "SMG clip (MAC380/30)" 45
-Item "SMG clip (MAC380/40)" 45
-Item "Pistol clip (M1935/8)" 10
-Item "Pistol clip (M1935W/8)" 10
-Item "Pistol clip (M1934/7)" 15
-Item "Pistol clip (M1934W/7)" 15
-Item "Pistol clip (FEG37/7)" 16
-Item "Pistol clip (FEG3732/7)" 6
-Item "Pistol clip (Guardian/6)" 6
-Item "Pistol clip (Guardian380/6)" 8
-Item "Pistol clip (Bayard/6)" 10
-Item "Pistol clip (Bayard/10)" 20
-
-
-
-
-
-
-
-
-
-
-
-
-
+Item "Assault Rifle Type 63 (7.62x39mm)" Level 4 Price 450
+
+Item "Assault Rifle Type 56 (7.62x39mm)" Level 5 Price 600
+Item "Assault Rifle Type56-1 (7.62x39mm)" Level 5 Price 600
+Item "Assault Rifle Type56-2 (7.62x39mm)" Level 6 Price 1000
+Item "Assault Rifle Type 56C (7.62x39mm)" Level 4 Price 700
+
+Item "Assault Rifle SG542 (7.62x51mm)" Level 7 Price 2650
+Item "Assault Rifle SG543 (5.56mm)" Level 4 Price 1900
+
+Item "Assault Rifle SG540 (5.56)" Level 6 Price 2000
+Item "Assault Rifle SG540 F (5.56)" Level 6 Price 2100
+Item "Assault Rifle SG542 F (7.62x51mm)" Level 7 Price 2800
+
+Item "Assault Rifle Colt Commando 733" Level 6 Price 1900
+Item "Assault Rifle Colt Commando 933" Level 7 Price 2100
+
+Item "Carabine IMBEL MD-97LC (5.56mm)" Level 4 Price 1300
+Item "Carabine IMBEL MD-97LF (5.56mm)" Level 4 Price 1200
+Item "Assault Rifle IMBEL MD-97L (5.56mm)" Level 6 Price 2100
+
+Item "Carabine Imbel MD-2A1 (5.56mm)" Level 6 Price 1660
+Item "Carabine Imbel MD-3A1 (5.56mm)" Level 6 Price 1600
+
+Item "Machinegun RPD (7.62x39mm)" Level 7 Price 1050
+
+Item "Machinegun RPD Type 56 (7.62x39mm)" Level 8 Price 950
+
+Item "BAR" Level 2 Price 600
+Item "M1918 BAR" Level 2 Price 700
+
+Item "Launcher M79" Level 3 Price 900
+
+/////////+++++++++++++++++
+/////////MISC
+/////////+++++++++++++++++
+
+Item	"Case_Soft_Skin" Level XXXX Price 200
+Item	"Case_Soft_Small" Level XXXX Price 150
+Item	"Ammo Cartouche6" Level XXXX Price 50.0
+Item	"Folded Ammo Belt" Level XXXX Price 50
+Item	"Ammo Belt" Level XXXX Price 50
+Item	"Folded Basic Belt" Level XXXX Price 100
+Item	"Basic Belt" Level XXXX Price 100
+Item	"Razgr_smerch" Level XXXX Price 100.0
+Item	"Folded Razgr_smerch" Level XXXX Price 100.0
+Item	"Folded Belt_04" Level XXXX Price 20
+Item	"Belt_04" Level XXXX Price 5
+
+Item	"Tactical Armor Vest M200" Level XXXX Price 800.0
+Item	"Tactical Armor Vest M100" Level XXXX Price 400
+Item	"Tactical Armor Vest M300" Level XXXX Price 600
+
+Item	"Helmet M1" Level XXXX Price 150.0
+Item	"Steel Helmet" Level XXXX Price 100.0
+
+Item	"Field Paramedic Kit" Level XXXX Price 30.0
+Item	"Field Paramedic Kit1" Level XXXX Price 50
+
+Item	"Flask" Level XXXX Price 70.0
+
+Item	"Food_m_beef" Level XXXX Price 60
+Item	"Food_m_mutton" Level XXXX Price 60
+Item	"Food_m_pork" Level XXXX Price 60
+
+Item	"Canteen_st1" Level XXXX Price 30
+Item	"Canteen_st2" Level XXXX Price 80
+Item	"M406 HE" Level XXXX Price 100.0
+Item	"M407 Smoke" Level XXXX Price 50.0
+Item "Dynamite Stick" Level XXXX Price 20
+Item	"Offensive Hand Grenade Type82-2" Level XXXX Price 80.0
+
+
+/////////+++++++++
+/////////MAGS AMMO
+/////////+++++++++
+
+Item "PackedAmmoBox Algeira (9x19/500)" Level XXXX Price 280
+Item "PackedAmmoBox Palinero (9x18/500)" Level XXXX Price 240
+Item "PackedAmmoBox Norinco (9x18/500)" Level XXXX Price 320
+Item "PackedAmmoBox Algeira (.38/500)" Level XXXX Price 160
+Item "PackedAmmoBox CBC (.38/500)" Level XXXX Price 480
+Item "PackedAmmoBox Algeira (.45 ACP/500)" Level XXXX Price 340
+Item "PackedAmmoBox Algeira (12ga/200)" Level XXXX Price 370
+Item "PackedAmmoBox Palinero (12ga/200)" Level XXXX Price 324
+Item "PackedAmmoBox Algeira (5.56/500)" Level XXXX Price 456
+Item "PackedAmmoBox Norinco (5.56x45/500)" Level XXXX Price 370
+Item "PackedAmmoBox Norinco (7.62x39/500)" Level XXXX Price 303
+Item "PackedAmmoBox Palinero (7.62x39/500)" Level XXXX Price 274
+Item "PackedAmmoBox Algeira (7.62x51/500)" Level XXXX Price 624
+
+
+/////////========
+/////////MAGS
+/////////========
+Item "Pistol clip (PT59/17)" Level XXXX Price 25
+Item "Pistol clip (PT59B/17)" Level XXXX Price 25
+Item "Pistol clip (PT59W/17)" Level XXXX Price 25
+Item "Pistol clip (Beretta M9/15)" Level XXXX Price 30.0
+Item "Pistol clip (Beretta 92FS/15)" Level XXXX Price 30.0
+Item "Pistol clip (Beretta 92FS/17)" Level XXXX Price 40.0
+Item "Pistol clip (Beretta 92FS/20)" Level XXXX Price 55.0
+Item "Pistol clip (P220/7)" Level XXXX Price 45.0
+Item "Pistol clip (Colt/9)" Level XXXX Price 15
+Item "Pistol clip (Colt/16)" Level XXXX Price 30
+Item "Pistol clip (Colt/14)" Level XXXX Price 30
+Item "Pistol clip (SIG/15)" Level XXXX Price 80.0
+
+Item "Pistol clip (Tokagypt/7)" Level XXXX Price 15
+Item "Pistol clip (CZ 75/16)" Level XXXX Price 25
+Item "Pistol clip (Beretta951/8)" Level XXXX Price 20
+Item "Pistol clip (Zastava/9)" Level XXXX Price 15
+
+Item "Pistol clip (M213/8)" Level XXXX Price 20
+Item "Pistol clip (M213/14)" Level XXXX Price 30
+Item "Pistol clip (TT-33/8)" Level XXXX Price 18.0
+
+Item "Pistol clip (PM/8)" Level XXXX Price 15.0
+Item "Pistol clip (Fort17/15)" Level XXXX Price 20.0
+Item "Pistol clip (Fort17380/16)" Level XXXX Price 20.0
+Item "Pistol clip (PMM/12)" Level XXXX Price 45
+
+Item "Pistol clip (P21022/8)" Level XXXX Price 20
+Item "Pistol clip (Ruger2245/10)" Level XXXX Price 20
+Item "Pistol clip (Guardian25/6)" Level XXXX Price 20
+
+Item "Pistol clip (Colt22/12)" Level XXXX Price 15
+Item "Pistol clip (p7m22/8)" Level XXXX Price 10
+
+Item "Pistol clip (PA6332/7)" Level XXXX Price 10
+Item "Pistol clip (p7m32/8)" Level XXXX Price 10
+
+Item "Pistol clip (p7m380/8)" Level XXXX Price 10
+Item "Pistol clip (PA63380/7)" Level XXXX Price 10
+Item "Pistol clip (PA63/7)" Level XXXX Price 10
+Item "Pistol clip (BabyBrowning/6)" Level XXXX Price 10
+Item "Pistol clip (HK 4 25ACP/8)" Level XXXX Price 15
+Item "Pistol clip (Walther9/6)" Level XXXX Price 12
+Item "Pistol clip (CZ 75 22/10)" Level XXXX Price 25
+Item "Pistol clip (HK 4 22LR/8)" Level XXXX Price 20
+Item "Pistol clip (Ruger2245/10)" Level XXXX Price 18
+Item "Pistol clip (P22/10)" Level XXXX Price 20
+Item "Pistol clip (K22/10)" Level XXXX Price 20
+Item "Pistol clip (Mosquito/10)" Level XXXX Price 20
+Item "Pistol clip (Sauer/8)" Level XXXX Price 30
+Item "Pistol clip (SauerW/8)" Level XXXX Price 30
+Item "Pistol clip (HSC/8)" Level XXXX Price 30
+Item "Pistol clip (HK 4 32ACP/8)" Level XXXX Price 30
+Item "Pistol clip (P83 32ACP/8)" Level XXXX Price 30
+Item "Pistol clip (HSC/7)" Level XXXX Price 45
+Item "Pistol clip (Glock 25/15)" Level XXXX Price 45
+Item "Pistol clip (Glock 28/10)" Level XXXX Price 45
+Item "Pistol clip (HK 4 380ACP/7)" Level XXXX Price 45
+Item "Pistol clip (IJ70/8)" Level XXXX Price 45
+Item "Pistol clip (IJ70M/12)" Level XXXX Price 45
+Item "Pistol clip (P83 380ACP/8)" Level XXXX Price 45
+Item "Pistol clip (MicroDeagle/6)" Level XXXX Price 25
+Item "Pistol clip (BR1911380/19)" Level XXXX Price 45
+Item "SMG ammo clip (VZ82380/10)" Level XXXX Price 45
+Item "SMG ammo clip (VZ82380/20)" Level XXXX Price 45
+Item "SMG clip (MAC380/30)" Level XXXX Price 45
+Item "SMG clip (MAC380/40)" Level XXXX Price 45
+Item "Pistol clip (M1935/8)" Level XXXX Price 10
+Item "Pistol clip (M1935W/8)" Level XXXX Price 10
+Item "Pistol clip (M1934/7)" Level XXXX Price 15
+Item "Pistol clip (M1934W/7)" Level XXXX Price 15
+Item "Pistol clip (FEG37/7)" Level XXXX Price 16
+Item "Pistol clip (FEG3732/7)" Level XXXX Price 6
+Item "Pistol clip (Guardian/6)" Level XXXX Price 6
+Item "Pistol clip (Guardian380/6)" Level XXXX Price 8
+Item "Pistol clip (P83/8)" Level XXXX Price 45
+Item "Pistol clip (P64/6)" Level XXXX Price 10
+Item "Pistol clip (BR1911Xodo380/19)" Level XXXX Price 30
+Item "skif clip" Level XXXX Price 20
+Item "Pistol clip (k9/7)" Level XXXX Price 10
+Item "Pistol clip (K40/14)" Level XXXX Price 30
+Item "Pistol clip (P5/8)" Level XXXX Price 20
+Item "Pistol clip (BP18/16)" Level XXXX Price 45
+Item "Pistol clip (BR1911Xodo9mm/16)" Level XXXX Price 30
+Item "Pistol clip (BR1911Xodo380/19)" Level XXXX Price 30
+Item "Pistol clip (BR1911Xodo45/14)" Level XXXX Price 20
+Item "Pistol clip (BR1911Xodo/14)" Level XXXX Price 20
+Item "Pistol clip (BR19119mm/16)" Level XXXX Price 15
+Item "Pistol clip (BR1911/14)" Level XXXX Price 20
+Item "Pistol clip (BR191145/14)" Level XXXX Price 20
+Item "Pistol clip (SW908/8)" Level XXXX Price 45
+Item "Pistol clip (SW6906/12)" Level XXXX Price 45
+Item "Pistol clip (SW5906/15)" Level XXXX Price 45
+Item "Pistol clip (SW459/14)" Level XXXX Price 45
+Item "Pistol clip (Glock 19/13)" Level XXXX Price 20
+Item "Pistol clip (Glock 26/10)" Level XXXX Price 20
+Item "Pistol clip (Cougar9mm/15)" Level XXXX Price 45
+Item "SMG ammo clip (tmp/20)" Level XXXX Price 30
+Item "SMG ammo clip (tmp/30)" Level XXXX Price 50
+Item "SMG ammo clip (mp9/30)" Level XXXX Price 50
+Item "Pistol clip (Llama/8)" Level XXXX Price 15
+Item "Pistol clip (Astra900/10)" Level XXXX Price 15
+Item "Pistol clip (Astra900/20)" Level XXXX Price 25
+Item "Pistol clip (StarLargo/8)" Level XXXX Price 15
+Item "Pistol clip (P226/12)" Level XXXX Price 25
+Item "Pistol clip (Browning-hp/10)" Level XXXX Price 30
+Item "Pistol clip (Jericho40/12)" Level XXXX Price 50
+Item "Pistol clip (JerichoW40/12)" Level XXXX Price 50
+Item "Pistol clip (Jericho9mm/15)" Level XXXX Price 45
+Item "Pistol clip (JerichoW9mm/15)" Level XXXX Price 45
+Item "Pistol clip (Jericho45/10)" Level XXXX Price 60
+Item "Pistol clip (JerichoW45/10)" Level XXXX Price 60
+Item "Pistol clip (Glock 27/9)" Level XXXX Price 50
+Item "Pistol clip (M57/9)" Level XXXX Price 30
+Item "Pistol clip (PT100B/10)" Level XXXX Price 35
+Item "Pistol clip (PT100BK/10)" Level XXXX Price 35
+Item "Pistol clip (PT100W/10)" Level XXXX Price 35
+Item "Pistol clip (PT100/15)" Level XXXX Price 50
+Item "Pistol clip (Star/9)" Level XXXX Price 25.0
+Item "Pistol clip (Colt/7)" Level XXXX Price 35.0
+Item "Pistol clip (Colt/8)" Level XXXX Price 70.0
+Item "Pistol clip (Nighthawk/8)" Level XXXX Price 70.0
+Item "Pistol clip (Para/14)" Level XXXX Price 105.0
+Item "SMG ammo clip (UZI/20)" Level XXXX Price 20.0
+Item "SMG ammo clip (UZI/25)" Level XXXX Price 25.0
+Item "SMG ammo clip (UZI/32)" Level XXXX Price 20.0
+Item "SMG ammo clip (M5/15)" Level XXXX Price 22.0
+Item "SMG ammo clip (M5/30)" Level XXXX Price 30.0
+Item "Double SMG ammo clip (MP5/60)" Level XXXX Price 60.0
+Item "SMG ammo clip (MP40/32)" Level XXXX Price 20
+Item "SMG ammo clip (MAT-49/32)" Level XXXX Price 20
+Item "SMG ammo clip (L2A3/34)" Level XXXX Price 20.0
+Item "SMG ammo clip (M3A1/30)" Level XXXX Price 30.0
+Item "Double SMG ammo clip (M3A1/60)" Level XXXX Price 60
+Item "SMG ammo clip (M3A1/32)" Level XXXX Price 40
+Item "SMG clip (MAC10/30)" Level XXXX Price 40.0
+Item "SMG clip (MAC10/40)" Level XXXX Price 70.0
+Item "SMG ammo clip (CETMEC2/32)" Level XXXX Price 20
+Item "SMG ammo clip (Type85/30)" Level XXXX Price 15
+Item "SMG ammo clip (Type79/20)" Level XXXX Price 20
+Item "SMG ammo clip (K50M/35)" Level XXXX Price 30
+Item "SMG ammo clip (Sten/32)" Level XXXX Price 10
+Item "SMG ammo clip (M45/36)" Level XXXX Price 50
+Item "SMG ammo clip (INA9/32)" Level XXXX Price 45
+Item "SMG ammo clip (INA45/30)" Level XXXX Price 50
+Item "Double smg ammo clip (VZ82/20)" Level XXXX Price 25.0 
+Item "Double smg ammo clip (VZ82/40)" Level XXXX Price 50.0
+Item "SMG ammo clip (VZ82/10)" Level XXXX Price 20.0
+Item "SMG ammo clip (VZ82/20)" Level XXXX Price 40.0
+Item "kedr clip" Level XXXX Price  32
+Item "SMG ammo clip (VZ61/20)" Level XXXX Price 30
+Item "Pistol clip (PPK/7.65)" Level XXXX Price 20
+Item "SMG ammo clip (PPS/35)" Level XXXX Price 20
+Item "SMG ammo clip (RATMIL/30)" Level XXXX Price 45
+Item "SMG clip (MAC380/30)" Level XXXX Price 45
+Item "SMG clip (MAC380/40)" Level XXXX Price 45
+Item "SMG ammo clip (MAC11/32)" Level XXXX Price 40
+Item "Double rifle ammo clip (Mini-14/40)" Level XXXX Price 60.0
+Item "Double rifle ammo clip (Mini-14/60)" Level XXXX Price 70.0
+Item "Double rifle ammo clip (Mini-14/80)" Level XXXX Price 100.0
+Item "Rifle ammo clip (Mini-14/10)" Level XXXX Price 20.0
+Item "Rifle ammo clip (Mini-14/20)" Level XXXX Price 30.0
+Item "Rifle ammo clip (Mini-14/30)" Level XXXX Price 35.0
+Item "Rifle ammo clip (Mini-14/40)" Level XXXX Price 50.0
+Item "Mini-30/10" Level XXXX Price 20
+Item "Mini-30/20" Level XXXX Price 30
+Item "Mini-30/40" Level XXXX Price 50
+Item "Rifle ammo clip (Mini-68/10)" Level XXXX Price 20
+Item "Rifle ammo clip (Mini-68/20)" Level XXXX Price 30
+Item "Double rifle ammo clip (Mini-68/40)" Level XXXX Price 50
+Item "Rifle ammo clip (Mini-68/30)" Level XXXX Price 40
+Item "Double rifle ammo clip (Mini-68/60)" Level XXXX Price 70
+Item "Rifle ammo clip (Mini-68/40)" Level XXXX Price 55
+Item "Double rifle ammo clip (Mini-68/80)" Level XXXX Price 90
+Item "Rifle ammo clip (M14/10)" Level XXXX Price 30.0
+Item "Rifle ammo clip (M14/20)" Level XXXX Price 40.0
+Item "Double rifle ammo clip (M14/40)" Level XXXX Price 80.0 
+Item "Rifle ammo clip (AK 7.62/30)" Level XXXX Price 8.0
+Item "Plastic rifle ammo clip (AK 7.62/30)" Level XXXX Price 10.0
+Item "Rifle ammo clip (AK 7.62/40)" Level XXXX Price 15.0
+Item "Rifle ammo clip (AK 7.62/45)" Level XXXX Price 18.0
+Item "Plastic double rifle ammo clip (AK 7.62/60)" Level XXXX Price 20.0
+Item "Double rifle ammo clip (AK 7.62/60)" Level XXXX Price 16.0
+Item "Double rifle ammo clip (AK 7.62/80)" Level XXXX Price 30.0
+Item "Double rifle ammo clip (AK 7.62/90)" Level XXXX Price 36.0
+Item "Brown rifle ammo clip (AK 7.62/30)" Level XXXX Price 60.0
+Item "Rifle ammo clip (AK 7.62/20)" Level XXXX Price 60.0
+Item "Rifle ammo clip (AK 7.62/10)" Level XXXX Price 20
+Item "Rifle ammo clip (AMD65/20)" Level XXXX Price 25
+Item "Rifle ammo clip (Type86S/20)" Level XXXX Price 25
+Item "Rifle ammo clip (RK95/30)" Level XXXX Price 50
+Item "Double rifle ammo clip (RK95/60)" Level XXXX Price 90
+
+Item "Rifle ammo clip (VZ58/30)" Level XXXX Price 60
+Item "Rifle double ammo clip (VZ58/60)" Level XXXX Price 80
+
+Item "Rifle ammo clip (AK 5.45/60)" Level XXXX Price 25
+Item "Rifle ammo clip (AK 5.45/30)" Level XXXX Price 30.0
+Item "Rifle ammo clip (AK 5.45/45)" Level XXXX Price 50.0
+Item "Double rifle ammo clip (AK 5.45/60)" Level XXXX Price 60.0
+Item "Double rifle ammo clip (AK 5.45/90)" Level XXXX Price 100.0
+Item "Plastic rifle ammo clip (AK 5.45/30)" Level XXXX Price 10
+Item "Plastic rifle ammo clip (AK 5.45/45)" Level XXXX Price 20
+Item "Plastic double rifle ammo clip (AK 5.45/60)" Level XXXX Price 20
+Item "Plastic double rifle ammo clip (AK 5.45/90)" Level XXXX Price 40
+Item "Rifle ammo clip (AK 5.56/30)" Level XXXX Price 40.0
+Item "Double rifle ammo clip (AK 5.56/60)" Level XXXX Price 80.0
+Item "Rifle ammo clip (AK 5.56/10)" Level XXXX Price 35.0
+Item "Metal rifle ammo clip (AK 5.56/30)" Level XXXX Price 30
+Item "Double metal rifle ammo clip (AK 5.56/60)" Level XXXX Price 60
+
+Item "Double rifle ammo clip (HK/50)" Level XXXX Price 60
+Item "Double rifle ammo clip (HK/60)" Level XXXX Price 100
+Item "Rifle ammo clip (HK/25)" Level XXXX Price 30
+Item "Rifle ammo clip (HK/30)" Level XXXX Price 40
+Item "Rifle ammo clip (HK/40)" Level XXXX Price 50
+Item "Double rifle ammo clip (HK/80)" Level XXXX Price 100
+Item "Double rifle ammo clip (M16/40)" Level XXXX Price 45
+Item "Rifle ammo clip (AR-15/10)" Level XXXX Price 50.0
+Item "Rifle ammo clip (M16/20)" Level XXXX Price 35.0
+Item "Rifle ammo clip (M16/30)" Level XXXX Price 50.0
+Item "Double rifle ammo clip (M16/60)" Level XXXX Price 100.0
+Item "Double rifle ammo clip (M16/60c)" Level XXXX Price 100.0
+Item "Rifle ammo clip (L1A1/20)" Level XXXX Price 20
+Item "Double rifle ammo clip (L1A1/40)" Level XXXX Price 40
+Item "Rifle ammo clip (CETME/20)" Level XXXX Price 20
+Item "Rifle ammo clip (AR70/30)" Level XXXX Price 40
+Item "Double rifle ammo clip (AR70/60)" Level XXXX Price 80
+
+Item "Galil clip 5.56" Level XXXX Price 35.0
+Item "Rifle ammo clip (SG542BLK/20)" Level XXXX Price 40
+Item "Rifle ammo clip (SG542/20)" Level XXXX Price 40
+Item "Double rifle ammo clip (SG542/40)" Level XXXX Price 80
+Item "Double rifle ammo clip (SIG551/40)" Level XXXX Price 80.0
+Item "Double rifle ammo clip (SIG551/60)" Level XXXX Price 100.0
+Item "Rifle ammo clip (SIG551/10)" Level XXXX Price 40.0
+Item "Rifle ammo clip (SIG551/20)" Level XXXX Price 40.0
+Item "Rifle ammo clip (SIG551/30)" Level XXXX Price 50.0 
+Item "Double rifle ammo clip (SIG551/40)" Level XXXX Price 80.0
+Item "Double rifle ammo clip (SIG551/60)" Level XXXX Price 100.0
+Item "Rifle ammo clip (SIG551OPAQUE/30)" Level XXXX Price 50
+Item "Double rifle ammo clip (SIG551OPAQUE/60)" Level XXXX Price 100
+Item "Rifle ammo clip (SIG551OPAQUEBLK/30)" Level XXXX Price 50
+Item "Double rifle ammo clip (SIG551OPAQUEBLK/60)" Level XXXX Price 100
+Item "Machinegun box (RPD/100)" Level XXXX Price 100.0   
+Item "Rifle ammo clip (BAR/20)" Level XXXX Price 40
+
+/////////=======
+/////////boxes
+/////////=======
+
+Item "Ammo box (.22LR HV)" Level XXXXXX Price 0.001
+Item "Ammo box (.22LR AP)" Level XXXXXX Price 0.001
+Item "Ammo box (.22LR HP)" Level XXXXXX Price 0.001
+Item "Ammo box (.22LR SP)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (.22LR HV)" Level XXXXXX Price 100
+Item "Ammo box 500 (.22LR AP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.22LR HP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.22LR SP)" Level XXXXXX Price 100
+Item "Ammo box (.25 ACP HP)" Level XXXXXX Price 0.001
+Item "Ammo box (.25 ACP SP)" Level XXXXXX Price 0.001
+Item "Ammo box (.25 ACP FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box (.25 ACP AP)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (.25 ACP HP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.25 ACP SP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.25 ACP FMJ)" Level XXXXXX Price 100
+Item "Ammo box 500 (.25 ACP AP)" Level XXXXXX Price 100
+Item "Ammo box (7.65 FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box (.32 ACP HP)" Level XXXXXX Price 0.001
+Item "Ammo box (.32 ACP FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box (.32 ACP AP)" Level XXXXXX Price 0.001
+Item "Ammo box (.32 ACP SP)" Level XXXXXX Price 0.001
+Item "Ammo box 500 HLA (7.65 FMJ)" Level XXXXXX Price 100
+Item "Ammo box 500 (.32 ACP HP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.32 ACP FMJ)" Level XXXXXX Price 100
+Item "Ammo box 500 (.32 ACP AP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.32 ACP SP)" Level XXXXXX Price 100
+Item "Ammo box (.380 ACP HP)" Level XXXXXX Price 0.001
+Item "Ammo box (.380 ACP AP)" Level XXXXXX Price 0.001
+Item "Ammo box (.380 ACP FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box (.380 ACP SP)" Level XXXXXX Price 0.001
+Item "Ammo box (.380 FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (.380 ACP HP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.380 ACP AP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.380 ACP FMJ)" Level XXXXXX Price 100
+Item "Ammo box 500 (.380 ACP SP)" Level XXXXXX Price 100
+Item "Ammo box 500 HLA (.380 FMJ)" Level XXXXXX Price 100
+Item "Ammo box 7.62x25 Norinco" Level XXXXXX Price 0.001
+Item "Ammo box (7.62x25mm FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box (7.62x25mm Palinero)" Level XXXXXX Price 0.001
+Item "Ammo box 500 HLA 7.62x25 Norinco" Level XXXXXX Price 100
+Item "Ammo box 500 (7.62x25mm FMJ)" Level XXXXXX Price 100
+Item "Ammo box 500 (7.62x25mm Palinero)" Level XXXXXX Price 100
+Item "Big Ammo box (57-H-181C)" Level XXXXXX Price 0.001
+Item "Ammo box (57-H-181C)" Level XXXXXX Price 0.001
+Item "Ammo box (7N16)" Level XXXXXX Price 0.001
+Item "Ammo box (PBM)" Level XXXXXX Price 0.001
+Item "Ammo box (SP-7)" Level XXXXXX Price 0.001
+Item "BigAmmoBox (9x18/500)" Level XXXXXX Price 100
+Item "Big Ammo box (9x18)" Level XXXXXX Price 100
+Item "Big Ammo box 7N16 (9x18)" Level XXXXXX Price 100
+Item "Big Ammo box PBM (9x18)" Level XXXXXX Price 100
+Item "Big Ammo box SP-7 (9x18)" Level XXXXXX Price 100
+Item "Ammo box (FM9x19)" Level XXXXXX Price 0.001
+Item "Ammo box CBC (M882)" Level XXXXXX Price 0.001
+Item "Ammo box (FMJ 115grn)" Level XXXXXX Price 0.001
+Item "Ammo box (JHP 117grn)" Level XXXXXX Price 0.001
+Item "Ammo box (M882)" Level XXXXXX Price 0.001
+Item "Big Ammo box (M882)" Level XXXXXX Price 0.001
+Item "Big Ammo box (Palinero 9mm)" Level XXXXXX Price 0.001
+Item "CajaMunicionGrande (9mm/1000)" Level XXXXXX Price 100
+Item "Big Ammo box 500 (9x19)" Level XXXXXX Price 100
+Item "Ammo box 500 HLA (FMJ 115grn)" Level XXXXXX Price 100
+Item "Ammo box 500 HLA (JHP 117grn)" Level XXXXXX Price 100
+Item "Big Ammo box (9x19)" Level XXXXXX Price 100
+Item "BigAmmoBox (9x19/500)" Level XXXXXX Price 100
+Item "Big Ammo box 500 (Palinero)" Level XXXXXX Price 100
+Item "Ammo box (9x23mm HP)" Level XXXXXX Price 0.001
+Item "Ammo box (9x23mm FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (9x23mm HP)" Level XXXXXX Price 100
+Item "Ammo box 500 (9x23mm FMJ)" Level XXXXXX Price 100
+Item "Ammo box (.38 spc HP)" Level XXXXXX Price 0.001
+Item "Ammo box (.38 Spl Algeira)" Level XXXXXX Price 0.001
+Item "Big Ammo box (.38 spc HP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.38 Spl Algeira)" Level XXXXXX Price 100
+Item "Ammo box (Algeira 40 S&W)" Level XXXXXX Price 0.001
+Item "Ammo box (Buffalo 40 S&W)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (Algeira 40 S&W)" Level XXXXXX Price 100
+Item "Ammo box 500 HLA (Buffalo 40 S&W)" Level XXXXXX Price 100
+Item "Ammo Box (.357 Algeira)" Level XXXXXX Price 0.001
+Item "Ammo Box 500 (.357 Algeira)" Level XXXXXX Price 0.001
+Item "Ammo Box 44 MAG Algeira" Level XXXXXX Price 0.001
+Item "Big Ammo box Algeira (Magnum .44)" Level XXXXXX Price 100
+Item "Ammo box (.44-40 LFN)" Level XXXXXX Price 0.001
+Item "Ammo box (.44-40 JHP)" Level XXXXXX Price 0.001
+Item "Ammo box (.44-40 FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box (.44-40 Surplus)" Level XXXXXX Price 0.001
+Item "Ammo box 500 HLA (.44-40 LFN)" Level XXXXXX Price 100
+Item "Ammo box 500 (.44-40 JHP)" Level XXXXXX Price 100
+Item "Ammo box 500 (.44-40 FMJ)" Level XXXXXX Price 100
+Item "Ammo box 500 (.44-40 Surplus)" Level XXXXXX Price 100
+Item "Ammo box (.45 Colt JHP)" Level XXXXXX Price 0.001
+Item "Ammo box (.45 Colt LFN)" Level XXXXXX Price 0.001
+Item "Ammo box (.45 Colt LHP)" Level XXXXXX Price 0.001
+Item "Ammo box 500 HLA (.45 Colt JHP)" Level XXXXXX Price 100
+Item "Ammo box 500 HLA (.45 Colt LFN)" Level XXXXXX Price 100
+Item "Ammo box 500 HLA (.45 Colt LHP)" Level XXXXXX Price 100
+Item "Ammo box (FMJ Ball)" Level XXXXXX Price 0.001
+Item "BigAmmoBox (.45 ACP/500)" Level XXXXXX Price 100
+Item "Ammo box (00 Palinero)" Level XXXXXX Price 0.001
+Item "Ammo box (00 Algeira)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (00 Palinero)" Level XXXXXX Price 100
+Item "Ammo box 500 (00 Algeira)" Level XXXXXX Price 100
+Item "Ammo box (00 Buckshot 20ga)" Level XXXXXX Price 0.001
+Item "Ammo box (Slug 20ga)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (00 Buckshot 20ga)" Level XXXXXX Price 100
+Item "Ammo box 500 (Slug 20ga)" Level XXXXXX Price 100
+Item "Ammo box (00 Buckshot 410)" Level XXXXXX Price 0.001
+Item "Ammo box (00 Buckshot N4 410)" Level XXXXXX Price 0.001
+Item "Ammo box (Slug 410)" Level XXXXXX Price 0.001
+Item "Ammo box (Flechette 410)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (00 Buckshot 410)" Level XXXXXX Price 100
+Item "Ammo box 500 (00 Buckshot N4 410)" Level XXXXXX Price 100
+Item "Ammo box 500 (Slug 410)" Level XXXXXX Price 100
+Item "Ammo box 500 (Flechette 410)" Level XXXXXX Price 100
+Item "Ammo box (.30-30 Surplus)" Level XXXXXX Price 0.001
+Item "Ammo box (.30-30 FMJ)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (.30-30 Surplus)" Level XXXXXX Price 100
+Item "Ammo box 500 (.30-30 FMJ)" Level XXXXXX Price 100
+Item "Ammo box (.45-70 Surplus)" Level XXXXXX Price 0.001
+Item "Ammo box 500 (.45-70 Surplus)" Level XXXXXX Price 100
+Item "Ammo box (30-06)" Level XXXXXX Price 0.001
+Item "BigAmmoBox (30-60/400)" Level XXXXXX Price 100
+Item "Ammo box (8mm FMJ BT)" Level XXXXXX Price 0.001
+Item "Ammo box 500 HLA (8mm FMJ BT)" Level XXXXXX Price 100
+Item "Big Ammo box (5.45)" Level XXXXXX Price 0.001
+Item "BigAmmoBox (5.45/500)" Level XXXXXX Price 100
+Item "Ammo box (.223 Norinco)" Level XXXXXX Price 0.001
+Item "Big Ammo box (5.56)" Level XXXXXX Price 0.001
+Item "BigAmmoBox (5.56/500)" Level XXXXXX Price 100
+Item "Ammo box 500 (223 Norinco)" Level XXXXXX Price 100
+Item "Ammo box 7.62x39 Norinco" Level XXXXXX Price 0.001
+Item "Big Ammo box (7.62x39)" Level XXXXXX Price 0.001
+Item "Ammo box 500 HLA 7.62x39 Norinco" Level XXXXXX Price 100
+Item "BigAmmoBox (7.62x39/500)" Level XXXXXX Price 100
+Item "Ammo Box Duplex .308" Level XXXXXX Price 0.001
+Item "Big Ammo box (7.62x51)" Level XXXXXX Price 0.001
+Item "Ammo Box 500 Duplex .308" Level XXXXXX Price 100
+Item "BigAmmoBox (7.62x51/400)" Level XXXXXX Price 100
+Item "Big Ammo box (7.62x54R)" Level XXXXXX Price 0.001
+Item "BigAmmoBox (7.62x54/400)" Level XXXXXX Price 0.001
 
 
 

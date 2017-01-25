@@ -31451,7 +31451,7 @@ HANDS			ahtShotgun
 ITEM "Winchester 1892 trapper 12ga"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
-Weight			2600
+Weight			2800
 PrepareTime		0.34
 SingleFireTime	1.25
 BurstFireTime	0.000000
@@ -57355,23 +57355,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle Colt 723 (5.56mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
-Weight			2440
-PrepareTime		0.280
-SingleFireTime	0.6
+Weight			2676
+PrepareTime		0.32
+SingleFireTime	0.7
 BurstFireTime	0.08
-SpeedModifier	0.91
-Resource		1000
-DirtResource	120000
-MisfireProb		0.003
+SpeedModifier	1
+Resource		1300
+DirtResource	140000
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		292
-EffectiveRange	120
-RangeCurvature	2.6
-Balance			0.58
+MaxRange		250
+EffectiveRange	110
+RangeCurvature	5
+Balance			0.51
 Unfold			"Assault Rifle Colt 723 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -57381,9 +57381,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9"
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt"
@@ -57394,23 +57394,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle Colt 723 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
-Weight			2440
-PrepareTime		0.280
-SingleFireTime	0.6
+Weight			2676
+PrepareTime		0.29
+SingleFireTime	0.7
 BurstFireTime	0.08
-SpeedModifier	0.91
-Resource		1000
-DirtResource	120000
-MisfireProb		0.003
+SpeedModifier	1
+Resource		1300
+DirtResource	140000
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		292
-EffectiveRange	120
-RangeCurvature	2.6
-Balance			0.58
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	5
+Balance			0.51
 Unfold			"Assault Rifle Colt 723 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -57420,9 +57420,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
 ATT Bipod		1 "AssaultBipod"
-ATT Silencer	0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		1 "M9"
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt_folded"
@@ -57433,23 +57433,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle CAR-15 (5.56mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
-Weight			2440
-PrepareTime		0.280
-SingleFireTime	0.6
+Weight			2676
+PrepareTime		0.32
+SingleFireTime	0.7
 BurstFireTime	0.08
-SpeedModifier	0.91
-Resource		1000
-DirtResource	120000
-MisfireProb		0.003
+SpeedModifier	1
+Resource		1300
+DirtResource	140000
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		292
-EffectiveRange	120
-RangeCurvature	2.6
-Balance			0.58
+MaxRange		250
+EffectiveRange	110
+RangeCurvature	5
+Balance			0.51
 Unfold			"Assault Rifle CAR-15 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -57458,10 +57458,10 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		1 "M9"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "M203" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt"
@@ -57472,23 +57472,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle CAR-15 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
-Weight			2440
-PrepareTime		0.280
-SingleFireTime	0.6
+Weight			2676
+PrepareTime		0.29
+SingleFireTime	0.7
 BurstFireTime	0.08
-SpeedModifier	0.91
-Resource		1000
-DirtResource	120000
-MisfireProb		0.003
+SpeedModifier	1
+Resource		1300
+DirtResource	140000
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		292
-EffectiveRange	120
-RangeCurvature	2.6
-Balance			0.58
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	5
+Balance			0.51
 Unfold			"Assault Rifle CAR-15 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -57497,10 +57497,10 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		1 "Barrel Mount" blocks Light
 ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		1 "M9"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "M203" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt_folded"
@@ -57511,23 +57511,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle Colt 727 (5.56mm)"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
-Weight			2440
-PrepareTime		0.280
-SingleFireTime	0.6
+Weight			2676
+PrepareTime		0.32
+SingleFireTime	0.7
 BurstFireTime	0.08
-SpeedModifier	0.91
+SpeedModifier	1
 Resource		1400
 DirtResource	150000
-MisfireProb		0.003
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		292
-EffectiveRange	120
-RangeCurvature	2.6
-Balance			0.58
+MaxRange		250
+EffectiveRange	110
+RangeCurvature	5
+Balance			0.51
 Unfold			"Assault Rifle Colt 727 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -57536,10 +57536,10 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		1 "M9"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "M203" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt"
@@ -57550,23 +57550,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle Colt 727 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
-Weight			2440
-PrepareTime		0.280
-SingleFireTime	0.6
+Weight			2676
+PrepareTime		0.29
+SingleFireTime	0.7
 BurstFireTime	0.08
-SpeedModifier	0.91
+SpeedModifier	1
 Resource		1400
 DirtResource	150000
-MisfireProb		0.003
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		292
-EffectiveRange	120
-RangeCurvature	2.6
-Balance			0.58
+MaxRange		250
+EffectiveRange	95
+RangeCurvature	5
+Balance			0.51
 Unfold			"Assault Rifle Colt 727 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -57575,10 +57575,10 @@ ShootSound		"Weapon\Shoot\Car-15.wav"
 ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "M16A1-A2"
-ATT Bipod		1 "AssaultBipod"
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		1 "M9"
+ATT Bipod		1 "AssaultBipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
+ATT ILauncher	1 "M203" blocks Bayonet and Bipod
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4sopmod_butt_folded"
