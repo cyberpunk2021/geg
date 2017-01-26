@@ -1263,7 +1263,7 @@ USEPREFIX  ""
 IMAGE  "mp762-tt-8.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
-CLIP  "Pistol clip (M213/14)""9υ19 μμ""M213DB"8 70 "None"500 
+CLIP  "Pistol clip (M213/14)""9υ19 μμ""M213DB"14 85 "None"500 
 ACTOR  "Items\tt33novamag.act"
 USEPREFIX  ""
 IMAGE  "mp762-tt-8.e5b"
@@ -2215,7 +2215,7 @@ DEFAMMO  ".357 SIG Surplus"
 BOX  "Ammo box (.357 SP)""357 SP"50 "Items\357hornady.ACT""boxcrit.E5B"
 BOX  "Ammo box CBC (.357 SP)""357 SP CBC"50 "Items\cbcboxmain357.act""cbcboxinv.e5b"
 BOX  "Ammo Box (.357 Algeira)""357 Algeira"50 "Items\algeira357mag.ACT""algeiraboxinv.E5B"
-BOX  "silver_ammo_box""silver bullets"30 "Items\357silver.act""357sil_box.e5b"
+BOX  "silver_ammo_box""silver bullets"50 "Items\357silver.act""357sil_box.e5b"
 BOX  "Ammo box 500 HLA (.357 SP)""357 SP"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX "Big Ammo box CBC (.357 SP)""357 SP CBC"500 "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
 BOX  "Ammo Box 500 (.357 Algeira)""357 Algeira"500 "Items\algeirabox500_357.act""algeira500box.e5b"

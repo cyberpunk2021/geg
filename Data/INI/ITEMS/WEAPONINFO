@@ -5386,13 +5386,13 @@ HANDS			ahtPistol
 ITEM "Pistol TT-33 M213 WQ213B54 (9mm)"
 Class			Pistol
 Caliber			"9υ19 μμ"
-Weight			872
-PrepareTime		0.17
-SingleFireTime	0.73
+Weight			896
+PrepareTime		0.18
+SingleFireTime	0.75
 BurstFireTime	0.1464
 SpeedModifier	0.99
-Resource		1600
-DirtResource	200000
+Resource		1500
+DirtResource	190000
 MisfireProb		0.0005
 HeatCapacity	35
 Single			1
