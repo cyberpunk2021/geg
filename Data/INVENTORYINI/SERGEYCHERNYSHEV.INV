@@ -1,0 +1,6130 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 7 
+Item  0 0 10 
+Name  "Case_Soft_Fabric"
+SpecificData  
+OtherInfo  
+GUID  72 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  19 
+Pockets  108 
+Item  0 3 8 
+Name  "Bayonet (East)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 2 8 
+Name  "Optical Sight PSO1-M2 (Dragunov)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Sniper Rifle Dragunov SVD (7.62x54mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 2 8 
+Name  "Tactical Bipod BM"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 109 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 110 
+Item  0 0 10 
+Name  "Book_Sniper"
+SpecificData  
+OtherInfo  
+GUID  950 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 111 
+Item  0 1 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 112 
+Item  0 0 7 
+Name  "Rifle ammo clip (Dragunov/10)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 113 
+Item  0 0 10 
+Name  "Cleaning Kit"
+SpecificData  
+OtherInfo  
+GUID  764 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 114 
+Item  0 0 7 
+Name  "Ammo box (7N14)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N14 (7.62x54mm)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 115 
+Pins  
+Used  0 
+Prob  1 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  623 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  829 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 2 
+Pins  12 14 
+Item  0 0 10 
+Name  "Tactical Vest"
+SpecificData  
+OtherInfo  
+GUID  995 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  2 
+Pockets  25 
+Item  0 0 10 
+Name  "Mount (WR-AK)"
+SpecificData  
+OtherInfo  
+GUID  8042 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Camo Kit"
+SpecificData  
+OtherInfo  
+GUID  8237 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 26 
+Item  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 7 
+Name  "Ammo box (7N16)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 27 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 28 
+Item  0 0 10 
+Name  "Food_ration"
+SpecificData  
+OtherInfo  
+GUID  7832 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 29 
+Item  0 0 10 
+Name  "Flask"
+SpecificData  
+OtherInfo  
+GUID  8214 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 30 
+Item  0 0 10 
+Name  "Field Paramedic Kit3"
+SpecificData  
+OtherInfo  
+GUID  8226 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 24 
+Item  0 0 0 
+Name  "Pistol PM (9x18mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (PM/8)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7N16"
+SpecificData  
+AmmoInfo  
+RoundsLeft  8 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  0 
+END_VARIANT  
+EndStage  

@@ -1,0 +1,5010 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  1 0 12 
+Name  "entry_permission"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 12 
+Name  "weapons_law"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 10 
+Name  "Portfel"
+SpecificData  
+OtherInfo  
+GUID  9060 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 0 10 
+Name  "CD1"
+SpecificData  
+OtherInfo  
+GUID  9089 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Confidencial"
+SpecificData  
+OtherInfo  
+GUID  9092 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  0 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Military_sectret"
+SpecificData  
+OtherInfo  
+GUID  9082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 34 35 36 38 39 
+Pins  
+Used  0 
+Prob  1 7 8 6 9 10 
+Item  0 0 0 
+Name  "Pistol Beretta 90Two (9mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  17 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 1 7 
+Name  "Ammo box (FMJ 115grn)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "115grn 9x19mm"
+SpecificData  
+AmmoInfo  
+RoundsLeft  33 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Pistol clip (Beretta 90Two/17)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "9x19 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  17 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  4822 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2010 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  1000 3000 
+END_VARIANT  
+EndStage  
