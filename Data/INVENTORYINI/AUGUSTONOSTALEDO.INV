@@ -1,0 +1,2754 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 
+Item  0 0 10 
+Name  "Smoke_cigar"
+SpecificData  
+OtherInfo  
+GUID  356 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 5 7 8 6 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 0 0 0 0 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  0 0 10 
+Name  "Canteen_g2"
+SpecificData  
+OtherInfo  
+GUID  165 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Smartphone"
+SpecificData  
+OtherInfo  
+GUID  20953 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money_euro20"
+SpecificData  
+OtherInfo  
+GUID  879 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  0 0 10 
+Name  "Book_Carnegie"
+SpecificData  
+OtherInfo  
+GUID  24 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  55 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Revolver Unica 6 (.44)"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Smith Wesson Model 29 clip (.44/6)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  6 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Ammo Box 44 MAG JHP"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo 44 MAG JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Used  0 
+Prob  1 14 13 
+Money  0 
+END_VARIANT  
+EndStage  
