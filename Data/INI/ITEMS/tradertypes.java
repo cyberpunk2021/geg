@@ -2,6 +2,16 @@
 /////////Street trader guns
 /////////==========================
 
+Item "Submachine-gun Calico M950 (9mm)" Level 3 Price 1000
+Item "Carabine Calico M900 (9mm)" Level 4 Price 1100
+Item "Calico M900 CQC (9 mm)" Level 4 Price 1800
+
+Item "Striker (12ga)" Level 3 Price 1100
+
+Item "MAG-7 LB" Level 2 Price 800
+
+
+
 Item "Revolver SW 10 (.38 spc)" Level 1 Price 180
 Item "Revolver SW 10 W (.38 spc)" Level 1 Price 180
 Item "Revolver SW 10 B (.38 spc)" Level 1 Price 180
@@ -44,12 +54,6 @@ Item "Pistol Derringer (38)" Level 1 Price 20
 Item "Pistol Derringer (357)" Level 1 Price 60
 
 Item "Pistol PM Type 59 (9x18mm)" Level 1 Price 190
-
-Item "Pistol Ruger 2245 Target" Level 1 Price 120
-Item "Pistol P7 (22)" Level 1 Price 50
-Item "Pistol M.1911 A1 (22)" Level 1 Price 70
-Item "Pistol M.1911 A1 v1 (22)" Level 1 Price 70 
-Item "Pistol M.1911 A1 v2 (22)" Level 1 Price 70
 
 Item "Pistol Ruger 2245 Target" Level 1 Price 120
 Item "Pistol P7 (22)" Level 1 Price 50
@@ -108,9 +112,6 @@ Item "Pistol Kahr K9 (9mm)" Level 1 Price 360
 Item "Pistol Walther P5" Level 1 Price 440
 Item "Pistol BP18 (9mm)" Level 2 Price 490
 Item "Pistol BP18 B (9mm)" Level 2 Price 490
-Item "Pistol IMBEL M1911 (9mm)" Level 2 Price 780
-Item "Pistol IMBEL M1911 (.40)" Level 3 Price 870
-Item "Pistol IMBEL M1911 (.45)" Level 3 Price 850
 Item "Pistol Colt Defender (9mm)" Level 1 Price 460
 Item "Pistol Colt Defender (.40)" Level 2 Price 500
 Item "Pistol Colt Defender W (.40)" Level 2 Price 500
@@ -118,8 +119,6 @@ Item "Pistol Colt Defender W (9mm)" Level 1 Price 460
 Item "Pistol Colt Defender (.45 ACP)" Level 2 Price 490
 Item "Pistol Colt Defender W (.45 ACP)" Level 2 Price 490
 Item "Pistol SW908 (9mm)" Level 2 Price 500
-Item "Pistol SW6906 (9mm)" Level 3 Price 590
-Item "Pistol SW5906 (9mm)" Level 3 Price 640
 Item "Pistol SW459 (9mm)" Level 2 Price 590
 
 Item "Pistol Glock 19 (9mm)" Level 3 Price 660
@@ -136,7 +135,6 @@ Item "Pistol Llama (Largo)" Level 1 Price 410
 Item "Pistol Llama Extra (Largo)" Level 1 Price 490
 
 Item "Pistol Astra 900 (Largo)" Level 1 Price 970
-Item "Pistol Astra 900 (Largo) folded" Level 1 Price 970
 Item "Pistol Star A Super (Largo)" Level 1 Price 320
 Item "Pistol Llama (Largo)" Level 1 Price 410
 
@@ -171,12 +169,7 @@ Item "Revolver Taurus Model 650 H (.357 Magnum)" Level 2 Price 350
 Item "Revolver Taurus Model 650 H W (.357 Magnum)" Level 2 Price 350
 Item "Revolver Taurus 82 Stainless (.38 spc)" Level 1 Price 320
 Item "Revolver Taurus 82 B (.38 spc)" Level 1 Price 320
-Item "Revolver SW 10 (.38 spc)" Level 1 Price 200
-Item "Revolver SW 10 W (.38 spc)" Level 1 Price 200
-Item "Revolver SW 10 B (.38 spc)" Level 1 Price 200
-Item "Revolver SW 10 WB (.38 spc)" Level 1 Price 200
-Item "Revolver SW 10 BB (.38 spc)" Level 1 Price 200
-Item "Revolver SW 10 GB (.38 spc)" Level 1 Price 200
+
 
 Item "Revolver Taurus 65 B (.357 Magnum)" Level 2 Price 450
 Item "Revolver Taurus 66 Stainless (.357 Magnum)" Level 2 Price 600
@@ -663,6 +656,12 @@ Item "BigWoodBoxSIG542" Level 7 Price 6625
 /////////========
 /////////MAGS
 /////////========
+
+Item "Calico clip (Calico/50)" Level 2 Price 100.0
+Item "Calico clip (Calico/100)" Level 3 Price 200.0
+
+Item "Shotgun clip (MAG7/5)" Level 1 Price 40
+
 Item "Pistol clip (PT59/17)" Level 1 Price 25
 Item "Pistol clip (PT59B/17)" Level 1 Price 25
 Item "Pistol clip (PT59W/17)" Level 1 Price 25
@@ -703,6 +702,7 @@ Item "Pistol clip (p7m32/8)" Level 1 Price 10
 Item "Pistol clip (p7m380/8)" Level 1 Price 10
 Item "Pistol clip (PA63380/7)" Level 1 Price 10
 Item "Pistol clip (PA63/7)" Level 1 Price 10
+Item "Pistol clip (Mustang/6)" Level 1 Price 10
 Item "Pistol clip (BabyBrowning/6)" Level 1 Price 10
 Item "Pistol clip (HK 4 25ACP/8)" Level 1 Price 15
 Item "Pistol clip (Walther9/6)" Level 1 Price 12
@@ -750,9 +750,6 @@ Item "Pistol clip (BR1911Xodo9mm/16)" Level 1 Price 30
 Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
 Item "Pistol clip (BR1911Xodo45/14)" Level 1 Price 20
 Item "Pistol clip (BR1911Xodo/14)" Level 1 Price 20
-Item "Pistol clip (BR19119mm/16)" Level 1 Price 15
-Item "Pistol clip (BR1911/14)" Level 1 Price 20
-Item "Pistol clip (BR191145/14)" Level 1 Price 20
 Item "Pistol clip (SW908/8)" Level 1 Price 45
 Item "Pistol clip (SW6906/12)" Level 1 Price 45
 Item "Pistol clip (SW5906/15)" Level 1 Price 45
@@ -928,6 +925,12 @@ Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
 /////////boxes
 /////////=======
 
+Item "Ammo box (00 Buckshot MAG7)" Level 1 Price 0.001
+Item "Ammo box (N4 Buckshot MAG7)" Level 2 Price 0.001
+
+Item "Ammo box 500 (00 Buckshot MAG7)" Level 2 Price 100
+Item "Ammo box 500 (N4 Buckshot MAG7)" Level 3 Price 100
+
 Item "Ammo box (.22LR HV)" Level 1 Price 0.001
 Item "Ammo box (.22LR AP)" Level 1 Price 0.001
 Item "Ammo box (.22LR HP)" Level 1 Price 0.001
@@ -1019,6 +1022,8 @@ Item "Ammo box 500 HLA (.45 Colt LHP)" Level 2 Price 100
 Item "Ammo box (FMJ Ball)" Level 1 Price 0.001
 Item "Ammo box (00 Palinero)" Level 1 Price 0.001
 Item "Ammo box (00 Algeira)" Level 1 Price 0.001
+Item "Ammo box 500 (00 Palinero)" Level 2 Price 100
+Item "Ammo box 500 (00 Algeira)" Level 2 Price 100
 Item "Ammo box (00 Buckshot 20ga)" Level 1 Price 0.001
 Item "Ammo box (Slug 20ga)" Level 1 Price 0.001
 Item "Ammo box 500 (00 Buckshot 20ga)" Level 2 Price 100

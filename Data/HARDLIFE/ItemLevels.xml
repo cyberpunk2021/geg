@@ -1401,7 +1401,7 @@
   <item level="0">Map (FHM)</item>
   <item level="0">Gunshop</item>
   <item level="3">Food_bag</item>
-  <item level="3">Carabine Calico M900 (9mm)</item>
+  <item level="4">Carabine Calico M900 (9mm)</item>
   <item level="0">Calico butt</item>
   <item level="0">Calico butt folded</item>
   <item level="8">Assault Rifle HK33EA2 (5.56mm)</item>
@@ -1672,7 +1672,7 @@
   <item level="1">Pistol M712 (7.62x25mm) folded</item>
   <item level="1">Submachine-gun MP40 (9mm) folded</item>
   <item level="6">Submachine-gun HK MP5A5 RIS (9mm) folded</item>
-  <item level="4">Carabine Calico M900 (9mm) folded</item>
+  <item level="3">Carabine Calico M900 (9mm) folded</item>
   <item level="6">Submachine-gun HK MP5A5 (.40 S&amp;W) folded</item>
   <item level="2">Submachine-gun MAC-10 (.45 ACP) folded</item>
   <item level="5">Submachine-gun HK MP5SD5 (9mm) folded</item>
