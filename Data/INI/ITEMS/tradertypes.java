@@ -142,7 +142,7 @@ Item "Pistol NP-58 (.40)" Level 1 Price 600
 
 Item "Pistol Kahr K40 (.40)" Level 1 Price 470
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
-
+Item	"Pistol Browning-hp (9mm)" Level 1 Price 		420
 Item "Pistol Jericho (9mm)" Level 2 Price 690
 Item "Pistol Jericho W (9mm)" Level 2 Price 690
 
@@ -657,6 +657,8 @@ Item "BigWoodBoxSIG542" Level 7 Price 6625
 /////////MAGS
 /////////========
 
+Item	"Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
+
 Item "Calico clip (Calico/50)" Level 2 Price 100.0
 Item "Calico clip (Calico/100)" Level 3 Price 200.0
 
@@ -811,7 +813,6 @@ Item "SMG ammo clip (VZ82/10)" Level 1 Price 20.0
 Item "SMG ammo clip (VZ82/20)" Level 1 Price 40.0
 Item "kedr clip" Level 1 Price  32
 Item "SMG ammo clip (VZ61/20)" Level 1 Price 30
-Item "Pistol clip (PPK/7.65)" Level 1 Price 20
 Item "SMG ammo clip (PPS/35)" Level 1 Price 20
 Item "SMG ammo clip (RATMIL/30)" Level 1 Price 45
 Item "SMG ammo clip (MAC11/32)" Level 1 Price 40
