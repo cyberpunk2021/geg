@@ -13473,7 +13473,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
-StdPlug			"Revolver clip (.45/6)"
+StdPlug			"Revolver clip (.44/6)"
 ACTOR			"Items\uberti_callahan.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol

@@ -1438,7 +1438,7 @@ DEFAMMO  "9x19 FMJ Ball"
 
 
 CLIP  "SMG ammo clip (MT12/40)""9υ19 μμ""MT12"40 210 "None"1500 
-ACTOR  "Items\pm12mag.act"
+ACTOR  "Items\pm12mag40.act"
 USEPREFIX  ""
 IMAGE  "MAC11_clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"
@@ -2881,7 +2881,7 @@ ACTOR  "Items\Delta_Elite_mag8.act"
 USEPREFIX  ""
 IMAGE  "Delta_Elite_mag8.e5b"
 DEFAMMO  "10mm Auto Surplus"
-CLIP  "Pistol clip (Megastar10/14)""10mm Auto""Megastar"14 95 "None"1500 
+CLIP  "Pistol clip (Megastar10/14)""10mm Auto""Megastar10"14 95 "None"1500 
 ACTOR  "Items\megastarmag.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip15.e5b"

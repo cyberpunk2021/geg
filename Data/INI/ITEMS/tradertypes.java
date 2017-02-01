@@ -2,6 +2,8 @@
 /////////Street trader guns
 /////////==========================
 
+Item	"Carabine M59 (7.62x39mm)"	Level 3 Price			700
+
 Item "Submachine-gun Calico M950 (9mm)" Level 3 Price 1000
 Item "Carabine Calico M900 (9mm)" Level 4 Price 1100
 Item "Calico M900 CQC (9 mm)" Level 4 Price 1800
@@ -10,7 +12,7 @@ Item "Striker (12ga)" Level 3 Price 1100
 
 Item "MAG-7 LB" Level 2 Price 800
 
-
+Item "SMG ammo clip (MAT-49Viet/35)" Level 1 Price 45
 
 Item "Revolver SW 10 (.38 spc)" Level 1 Price 180
 Item "Revolver SW 10 W (.38 spc)" Level 1 Price 180
@@ -634,6 +636,7 @@ Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
 Item "PackedAmmoBox Norinco (9x18/500)" Level 1 Price 320
 Item "PackedAmmoBox Algeira (.38/500)" Level 1 Price 160
 Item "PackedAmmoBox CBC (.38/500)" Level 2 Price 480
+Item "PackedAmmoBox Algeira (.40 SW/500)" Level 1 Price 360
 Item "PackedAmmoBox Algeira (.45 ACP/500)" Level 1 Price 340
 Item "PackedAmmoBox Algeira (12ga/200)" Level 1 Price 370
 Item "PackedAmmoBox Palinero (12ga/200)" Level 1 Price 324
@@ -642,6 +645,7 @@ Item "PackedAmmoBox Norinco (5.56x45/500)" Level 4 Price 370
 Item "PackedAmmoBox Norinco (7.62x39/500)" Level 4 Price 303
 Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
 Item "PackedAmmoBox Algeira (7.62x51/500)" Level 4 Price 624
+Item "PackedAmmoBox Algeira (30-06/500)" Level 1 Price 840
 
 Item "BigWoodBoxType56" Level 5 Price 1500
 Item "BigWoodBoxType56i" Level 5 Price 1500
