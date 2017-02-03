@@ -515,7 +515,6 @@ Item "Assault Rifle AR70 CAR (5.56mm)" Level 5 Price 1400
 
 Item "Assault Rifle AK47 (7.62x39mm)" Level 5 Price 750
 
-Item "Assault Rifle AK47N (7.62x39mm)" Level 6 Price 850
 
 Item "Assault Rifle AK-47 (7.62x39mm)" Level 5 Price 700
 Item "Assault Rifle AKM (7.62x39mm)" Level 5 Price 800
@@ -655,6 +654,14 @@ Item "BigWoodBoxNorincoCQ" Level 7 Price 4250
 Item "BigWoodBoxNorincoCQCIV" Level 5 Price 3500
 Item "BigWoodBoxSIG540" Level 6 Price 5000
 Item "BigWoodBoxSIG542" Level 7 Price 6625
+
+Item "BigWoodBoxBizon" Level 3 Price 5500
+Item	"BigWoodBoxAKM"	Level 5 Price 2000						
+Item	"BigWoodBoxAKMN" Level 6 Price			2500
+Item	"BigWoodBoxAK103"	Level 9 Price		6500
+Item "BigWoodBoxType56" Level 5 Price 1500
+Item "BigWoodBoxType56i" Level 5 Price 1500
+Item "BigWoodBoxType56ii" Level 6 Price 2500
 
 
 /////////========

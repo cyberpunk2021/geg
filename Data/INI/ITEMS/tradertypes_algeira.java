@@ -497,6 +497,12 @@ Item "BigWoodBoxAUGA1" Level 9 Price 6750
 Item "BigWoodBoxAUGA2" Level 9 Price 6250
 Item "BigWoodBoxHK33" Level 8 Price 5625
 
+Item	"BigWoodBoxGalil"	Level 7 Price				3750
+Item	"BigWoodBoxM4A1"	Level 	7 Price			6500
+Item	"BigWoodBoxM16A2"	Level 8 Price				6500
+Item	"BigWoodBoxG3"		Level 7 Price				7125
+Item	"BigWoodBoxG36"		Level 9 Price		8500
+
 ////FIM ARMY
 
 ////GRENADES
@@ -983,9 +989,6 @@ Item "Launcher M79" Level 3 Price 900
 /////////MISC
 /////////+++++++++++++++++
 
-Item	"Glock-17 threaded barrel" Level 1 Price 200
-Item	"Glock-22 threaded barrel" Level 1 Price 300
-Item	"Glock-21 threaded barrel" Level 1 Price 400
 
 Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
 Item	"Folded Ammo Belt" Level 1 Price 50
@@ -1004,12 +1007,7 @@ Item	"Field Paramedic Kit" Level 1 Price 30.0
 Item	"Field Paramedic Kit1" Level 1 Price 50
 
 
-Item	"Food_m_beef" Level 1 Price 60
-Item	"Food_m_mutton" Level 1 Price 60
-Item	"Food_m_pork" Level 1 Price 60
 
-Item	"Canteen_st1" Level 1 Price 30
-Item	"Canteen_st2" Level 2 Price 80
 Item	"M407 Smoke" Level 3 Price 50.0
 
 Item	"Smoke Hand Grenade AN-M8 HC" Level 1 Price 150.0
@@ -1038,6 +1036,7 @@ Item "BigWoodBoxNorincoCQ" Level 7 Price 4250
 Item "BigWoodBoxNorincoCQCIV" Level 5 Price 3500
 Item "BigWoodBoxSIG540" Level 6 Price 5000
 Item "BigWoodBoxSIG542" Level 7 Price 6625
+
 
 Item "PackedCleaningKitBox" Level 1 Price 1667
 Item "PackedSmershBox" Level 1 Price 334

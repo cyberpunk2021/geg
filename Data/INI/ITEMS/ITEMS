@@ -924,6 +924,7 @@ FOR  "Machinegun Mk 48 (7.62x51mm)"
 Barrel  
 None  "Items\pkm_barrel.act""pkm_barrel.e5b"
 FOR  "Chain-gun PKMN (7.62x54mm)"
+FOR  "Chain-gun PKMN Type 86 (7.62x54mm)"
 2600
 
 "HK21 barrel"

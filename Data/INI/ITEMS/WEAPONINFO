@@ -25915,10 +25915,10 @@ ITEM "Submachine-gun Pindad PM2 (9mm)"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2900
-PrepareTime		0.26
-SingleFireTime	0.60
+PrepareTime		0.23
+SingleFireTime	0.57
 BurstFireTime	0.07
-SpeedModifier	1.09
+SpeedModifier	1.05
 Resource		2100
 DirtResource	210000
 MisfireProb		0.003
@@ -25928,7 +25928,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		200
-EffectiveRange	90
+EffectiveRange	78
 RangeCurvature	3
 Balance			0.64
 Unfold			"Submachine-gun Pindad PM2 (9mm) folded"
@@ -25954,10 +25954,10 @@ ITEM "Submachine-gun Pindad PM2 (9mm) folded"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2900
-PrepareTime		0.22
-SingleFireTime	0.60
+PrepareTime		0.19
+SingleFireTime	0.57
 BurstFireTime	0.07
-SpeedModifier	1.09
+SpeedModifier	1.05
 Resource		2100
 DirtResource	210000
 MisfireProb		0.003
@@ -25967,7 +25967,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		200
-EffectiveRange	70
+EffectiveRange	58
 RangeCurvature	3
 Balance			0.64
 Unfold			"Submachine-gun Pindad PM2 (9mm)"
@@ -77424,7 +77424,7 @@ Weight			2600
 PrepareTime		0.24
 SingleFireTime	0.67
 BurstFireTime	0.075
-SpeedModifier	0.96
+SpeedModifier	0.95
 Resource		3000
 DirtResource	340000
 MisfireProb		0.0025
@@ -77502,7 +77502,7 @@ Weight			2600
 PrepareTime		0.24
 SingleFireTime	0.69
 BurstFireTime	0.075
-SpeedModifier	0.96
+SpeedModifier	0.95
 Resource		3000
 DirtResource	340000
 MisfireProb		0.0025
@@ -77580,7 +77580,7 @@ Weight			2600
 PrepareTime		0.24
 SingleFireTime	0.71
 BurstFireTime	0.075
-SpeedModifier	0.96
+SpeedModifier	0.95
 Resource		3000
 DirtResource	340000
 MisfireProb		0.0025
@@ -77616,7 +77616,7 @@ ITEM "Assault Rifle AKM (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.41
 SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -77667,7 +77667,7 @@ ITEM "Assault Rifle AKMS (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.41
 SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -77718,7 +77718,7 @@ ITEM "Assault Rifle AKMS (7.62x39mm) folded"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.38
+PrepareTime		0.37
 SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -77771,7 +77771,7 @@ ITEM "Assault Rifle AKMN (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.41
 SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -77822,7 +77822,7 @@ ITEM "Assault Rifle AKMSN (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.41
 SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -77873,7 +77873,7 @@ ITEM "Assault Rifle AKMSN (7.62x39mm) folded"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.38
+PrepareTime		0.37
 SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
