@@ -486,38 +486,38 @@ Item "AT RPG-40" Level 8 Price 800
 Item "Offensive Hand Grenade Type82" Level 5 Price 220
 
 
-Item "Launcher RPG-7 Type 69" 750
-Item "rpg-2 Type 56" 450
-Item "RPG-2 Grenade" 200
+Item "Launcher RPG-7 Type 69" Level 4 Price 750
+Item "rpg-2 Type 56" Level 3 Price 450
+Item "RPG-2 Grenade" Level 3 Price 200
 
-Item	"Launcher RG-6"						1700
-Item	"Launcher RPG-7"					950
-Item	"Rockect Launcher RPG-18 'Muha'"			500
-Item	"RPO-A"							2000
-Item	"GP-30 (40mm VOG)"					1140
+Item	"Launcher RG-6"	Level 8 Price					1700
+Item	"Launcher RPG-7"	Level 6 Price				950
+Item	"Rockect Launcher RPG-18 'Muha'" Level 4 Price			500
+Item	"RPO-A"		Level 8 Price					2000
+Item	"GP-30 (40mm VOG)"	Level 5 Price				1140
 
-Item	"RPG-7 Grenade"						300.0
-Item	"RPG-7 Grenade 2"					300.0
-Item	"RPG-7 Grenade(gtb-7vs)"			300
-Item	"RPG-7 Grenade(ipg-60)"				300
-Item	"RPG-7 Grenade(ipg-82)"				300
-Item	"RPG-7 Grenade(ko-7v)"				300
-Item	"RPG-7 Grenade(og-7ve)"				300
-Item	"RPG-7 Grenade(pg-7ei)"				300
-Item	"RPG-7 Grenade(pg-7pm)"				300
-Item	"RPG-7 Grenade(tbg-7v)"				300
-Item	"RPG-7 Grenade(type69-3)"			300
+Item	"RPG-7 Grenade"		Level 3 Price				300.0
+Item	"RPG-7 Grenade 2"			Level 3 Price		300.0
+Item	"RPG-7 Grenade(gtb-7vs)"	Level 7 Price		300
+Item	"RPG-7 Grenade(ipg-60)"		Level 6 Price		300
+Item	"RPG-7 Grenade(ipg-82)"		Level 6 Price		300
+Item	"RPG-7 Grenade(ko-7v)"		Level 5 Price		300
+Item	"RPG-7 Grenade(og-7ve)"		Level 4 Price		300
+Item	"RPG-7 Grenade(pg-7ei)"		Level 5 Price		300
+Item	"RPG-7 Grenade(pg-7pm)"		Level 4 Price		300
+Item	"RPG-7 Grenade(tbg-7v)"		Level 5 Price		300
+Item	"RPG-7 Grenade(type69-3)"	Level 3 Price		300
 
-Item	"Helmet 6B6-3"					1000.0
-Item	"Helmet Sfera-S"				500.0
-Item	"Helmet Vitiaz"					750.0
+Item	"Helmet 6B6-3"		Level 11 Price			1000.0
+Item	"Helmet Sfera-S"	Level 9 Price			500.0
+Item	"Helmet Vitiaz"		Level 7 Price			750.0
 
-Item	"Heavy Armor Bastion"				3500.0
-Item	"Heavy Armor Predator"				3300.0
-Item	"Tactical Armor Vizov"				1100.0
+Item	"Heavy Armor Bastion"	Level 10 Price			3500.0
+Item	"Heavy Armor Predator"	Level 8 Price			3300.0
+Item	"Tactical Armor Vizov"		Level 4 Price		1100.0
 
-Item	"VOG-25"					75.0
-Item	"VOG-25P"					75.0
+Item	"VOG-25"	Level 3 Price				75.0
+Item	"VOG-25P"	Level 4 Price				75.0
 
 /////////+++++++++
 /////////PACKEDBOX

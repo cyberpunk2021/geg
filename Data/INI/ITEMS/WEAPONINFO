@@ -43074,9 +43074,9 @@ HANDS			ahtRifle
 ITEM "Assault Rifle RK71P CIV (7.62)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
-Weight			3300
+Weight			3600
 PrepareTime		0.41
-SingleFireTime	0.71
+SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		3400
@@ -43088,9 +43088,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	165
-RangeCurvature	1
-Balance			0.48
+EffectiveRange	153
+RangeCurvature	2
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -43111,7 +43111,7 @@ HANDS			ahtRifle
 ITEM "Assault Rifle RK71P CIV (5.56)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			3300
+Weight			3600
 PrepareTime		0.41
 SingleFireTime	0.69
 BurstFireTime	0.1
@@ -43125,9 +43125,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	165
-RangeCurvature	1
-Balance			0.48
+EffectiveRange	153
+RangeCurvature	2
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -43148,9 +43148,9 @@ HANDS			ahtRifle
 ITEM "Assault Rifle RK71W CIV (7.62)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
-Weight			3300
+Weight			3600
 PrepareTime		0.41
-SingleFireTime	0.71
+SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		3400
@@ -43162,9 +43162,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	165
-RangeCurvature	1
-Balance			0.48
+EffectiveRange	153
+RangeCurvature	2
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -43185,7 +43185,7 @@ HANDS			ahtRifle
 ITEM "Assault Rifle RK71W CIV (5.56)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			3300
+Weight			3600
 PrepareTime		0.41
 SingleFireTime	0.69
 BurstFireTime	0.1
@@ -43199,9 +43199,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	165
-RangeCurvature	1
-Balance			0.48
+EffectiveRange	153
+RangeCurvature	2
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -43222,9 +43222,9 @@ HANDS			ahtRifle
 ITEM "Assault Rifle RK71W2 CIV (7.62)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
-Weight			3300
+Weight			3600
 PrepareTime		0.41
-SingleFireTime	0.71
+SingleFireTime	0.73
 BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		3400
@@ -43236,9 +43236,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	165
-RangeCurvature	1
-Balance			0.48
+EffectiveRange	153
+RangeCurvature	2
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -43259,7 +43259,7 @@ HANDS			ahtRifle
 ITEM "Assault Rifle RK71W2 CIV (5.56)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			3300
+Weight			3600
 PrepareTime		0.41
 SingleFireTime	0.69
 BurstFireTime	0.1
@@ -43273,9 +43273,9 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	165
-RangeCurvature	1
-Balance			0.48
+EffectiveRange	153
+RangeCurvature	2
+Balance			0.41
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -54018,7 +54018,7 @@ ITEM "Assault Rifle HK33KEA3 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3590
-PrepareTime		0.36
+PrepareTime		0.38
 SingleFireTime	0.68
 BurstFireTime	0.08
 SpeedModifier	1.03
@@ -54057,7 +54057,7 @@ ITEM "Assault Rifle HK33KEA3 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3590
-PrepareTime		0.32
+PrepareTime		0.34
 SingleFireTime	0.68
 BurstFireTime	0.08
 SpeedModifier	1.03
@@ -54098,7 +54098,7 @@ ITEM "Assault Rifle HK32KA3 (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3590
-PrepareTime		0.36
+PrepareTime		0.38
 SingleFireTime	0.7
 BurstFireTime	0.08
 SpeedModifier	1.03
@@ -54137,7 +54137,7 @@ ITEM "Assault Rifle HK32KA3 (7.62x39mm) folded"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3590
-PrepareTime		0.32
+PrepareTime		0.34
 SingleFireTime	0.7
 BurstFireTime	0.08
 SpeedModifier	1.03
@@ -54217,7 +54217,7 @@ ITEM "Assault Rifle G41 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4100
-PrepareTime		0.42
+PrepareTime		0.38
 SingleFireTime	0.73
 BurstFireTime	0.08
 SpeedModifier	1.05
@@ -54230,7 +54230,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	150
+EffectiveRange	130
 RangeCurvature	3.1
 Balance			0.5
 Unfold			"Assault Rifle G41 (5.56mm)"
@@ -54255,23 +54255,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle G41K (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			4100
-PrepareTime		0.42
-SingleFireTime	0.73
-BurstFireTime	0.08
-SpeedModifier	1.05
-Resource		2400
-DirtResource	260000
-MisfireProb		0.003
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			3
-BurstHitStart	1
-MaxRange		300
-EffectiveRange	150
-RangeCurvature	3.1
-Balance			0.5
+Weight		3100 
+PrepareTime     0.34 
+SingleFireTime  0.71 
+BurstFireTime   0.08 
+SpeedModifier   0.99 
+Resource  	2200 
+DirtResource  	240000
+MisfireProb     0.003 
+HeatCapacity    60 
+Single		1 
+Burst		1 
+CutOff		3 
+BurstHitStart   1 
+MaxRange  	250 
+EffectiveRange  108 
+RangeCurvature  5 
+Balance  	0.59
 Unfold			"Assault Rifle G41K (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
@@ -54294,23 +54294,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle G41K (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			4100
-PrepareTime		0.42
-SingleFireTime	0.73
-BurstFireTime	0.08
-SpeedModifier	1.05
-Resource		2400
-DirtResource	260000
-MisfireProb		0.003
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			3
-BurstHitStart	1
-MaxRange		300
-EffectiveRange	150
-RangeCurvature	3.1
-Balance			0.5
+Weight		3100 
+PrepareTime     0.30 
+SingleFireTime  0.71 
+BurstFireTime   0.08 
+SpeedModifier   0.99 
+Resource  	2200 
+DirtResource  	240000
+MisfireProb     0.003 
+HeatCapacity    60 
+Single		1 
+Burst		1 
+CutOff		3 
+BurstHitStart   1 
+MaxRange  	250 
+EffectiveRange  88 
+RangeCurvature  5 
+Balance  	0.59
 Unfold			"Assault Rifle G41K (5.56mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"

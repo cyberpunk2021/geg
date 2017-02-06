@@ -292,8 +292,8 @@
   <item level="4">M433A1 HEDP</item>
   <item level="4">M397A1 HE</item>
   <item level="1">RPG-18 Grenade</item>
-  <item level="1">RPG-7 Grenade</item>
-  <item level="1">RPG-7 Grenade 2</item>
+  <item level="3">RPG-7 Grenade</item>
+  <item level="3">RPG-7 Grenade 2</item>
   <item level="7">Optical Sight Leupold Mark 4 10x40 (M24)</item>
   <item level="3">APB Silencer</item>
   <item level="2">Bayonet (East)</item>
@@ -789,6 +789,8 @@
   <item level="1">Money</item>
   <item level="8">MICH Helmet</item>
   <item level="7">Helmet Vitiaz</item>
+  <item level="9">Helmet Sfera-S</item>
+  <item level="11">Helmet 6B6-3</item>
   <item level="3">Ammo Box (23b)</item>
   <item level="3">Ammo Box (23s10)</item>
   <item level="3">Ammo Box (23s25)</item>
