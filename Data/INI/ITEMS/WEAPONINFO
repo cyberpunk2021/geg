@@ -93576,7 +93576,7 @@ DirtResource	63000
 MisfireProb		0.02
 HeatCapacity	60
 Single			1
-Burst			0
+Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300

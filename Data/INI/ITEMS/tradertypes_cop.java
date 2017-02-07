@@ -197,7 +197,6 @@ Item "CZ 75 Shadow W (10mm)" Level 3 Price 1500
 
 Item "Pistol Taurus Bull (.410)" Level 3 Price 1600
 Item "Pistol Taurus Bull Black (.410)" Level 3 Price 1600
-Item "Pistol Taurus Bull (.500)" Level 3 Price 2300
 
 Item	"Submachine-gun HK MP5A5 (9mm)" Level 4 Price 		1900
 

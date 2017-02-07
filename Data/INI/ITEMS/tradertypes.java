@@ -2,6 +2,8 @@
 /////////Street trader guns
 /////////==========================
 
+Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
+
 Item	"Carabine M59 (7.62x39mm)"	Level 3 Price			700
 
 Item "Submachine-gun Calico M950 (9mm)" Level 3 Price 1000
@@ -10,7 +12,6 @@ Item "Calico M900 CQC (9 mm)" Level 4 Price 1800
 
 Item "Striker (12ga)" Level 3 Price 1100
 
-Item "MAG-7 LB" Level 2 Price 800
 
 Item "SMG ammo clip (MAT-49Viet/35)" Level 1 Price 45
 
@@ -273,8 +274,8 @@ Item "Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
 
 Item "Submachine-gun MAC-10 (.45 ACP)" Level 3 Price 700
 
-Item "Submachine-gun NR-08 (9mm)" 1300
-Item "Submachine-gun CETME C2 (9mm)" 630
+Item "Submachine-gun NR-08 (9mm)" Level 3 Price 1300
+Item "Submachine-gun CETME C2 (9mm)" Level 2 Price 630
 
 Item "Submachine-gun Type 85 (7.62x25mm)" Level 2 Price 160
 Item "Submachine-gun Type 79 (7.62x25mm)" Level 3 Price 220
@@ -673,7 +674,6 @@ Item	"Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
 Item "Calico clip (Calico/50)" Level 2 Price 100.0
 Item "Calico clip (Calico/100)" Level 3 Price 200.0
 
-Item "Shotgun clip (MAG7/5)" Level 1 Price 40
 
 Item "Pistol clip (PT59/17)" Level 1 Price 25
 Item "Pistol clip (PT59B/17)" Level 1 Price 25
