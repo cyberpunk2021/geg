@@ -2228,6 +2228,12 @@ mg15 bipod bug
 
 colocar mg4 e madsen bipod em tuning.lua
 
+adicionar:
+
+type 63 em 4 a 9
+aks gangsta em 1 a 6
+colocar cetme C em 4 a 9
+
 
 - Check in the next HLA update : belt for Mauser M712, Astra F, HK VP70M and APS.
 
