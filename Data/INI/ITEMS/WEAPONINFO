@@ -35545,10 +35545,10 @@ ITEM "Shotgun VEPR12K (12ga)"
 Class			Shotgun
 Caliber			"12 калибр"
 Weight			3870
-PrepareTime		0.38
+PrepareTime		0.35
 SingleFireTime	0.92
-BurstFireTime	0.2727
-SpeedModifier	1
+BurstFireTime	0.2
+SpeedModifier	0.97
 Resource		1500
 DirtResource	160000
 MisfireProb		0.0025
@@ -35584,10 +35584,10 @@ ITEM "Shotgun VEPR12K (12ga) folded"
 Class			Shotgun
 Caliber			"12 калибр"
 Weight			3870
-PrepareTime		0.34
+PrepareTime		0.31
 SingleFireTime	0.92
-BurstFireTime	0.2727
-SpeedModifier	1
+BurstFireTime	0.2
+SpeedModifier	0.97
 Resource		1500
 DirtResource	160000
 MisfireProb		0.0025
