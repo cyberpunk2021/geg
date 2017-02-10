@@ -242,6 +242,7 @@
   <item level="5">Assault Rifle XM-15-E2S (5.56mm)</item>
   <item level="5">Assault Rifle XM-15-E2S FG (5.56mm)</item>
   <item level="9">Sniper Rifle DPMS Bull (5.56mm)</item>
+  <item level="10">Sniper Rifle DPMS Bull (6.5)</item>
   <item level="8">Sniper Rifle Armalite M-15A4 SPR (5.56mm)</item>
   <item level="10">Hunting Rifle Remington R-25 (7.62x51mm)</item>
   <item level="6">Rifle ammo clip (Galil/50)</item>
@@ -1748,8 +1749,6 @@
   <item level="3">Pistol Taurus Bull (.410)</item>
   <item level="3">Pistol Taurus Bull Black (.410)</item>
   <item level="3">Pistol Taurus Bull (.500)</item>
-  <item level="2">Revolver S&amp;W M500ES (.500 S&amp;W)</item>
-  <item level="3">Revolver S&amp;W M500 (.500 S&amp;W)</item>
   <item level="2">Pistol QSZ92 (5.8)</item>
   <item level="3">Pistol BFR (.44)</item>
   <item level="3">Pistol BFR (.50 AE)</item>

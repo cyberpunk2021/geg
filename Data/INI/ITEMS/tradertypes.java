@@ -50,7 +50,6 @@ Item "Pistol TT-33 M213 (9mm)" Level 1 Price 300
 Item "Pistol TT-33 M213 WQ213B54 (9mm)" Level 1 Price 500
 Item "Pistol TT-33 M213 (7.62x25mm)" Level 1 Price 280
 
-Item "Pistol Derringer (22)" Level 1 Price 10
 Item "Pistol Derringer (9mm)" Level 1 Price 30
 Item "Pistol Derringer (40)" Level 1 Price 50
 Item "Pistol Derringer (38)" Level 1 Price 20
@@ -58,11 +57,6 @@ Item "Pistol Derringer (357)" Level 1 Price 60
 
 Item "Pistol PM Type 59 (9x18mm)" Level 1 Price 190
 
-Item "Pistol Ruger 2245 Target" Level 1 Price 120
-Item "Pistol P7 (22)" Level 1 Price 50
-Item "Pistol M.1911 A1 (22)" Level 1 Price 70
-Item "Pistol M.1911 A1 v1 (22)" Level 1 Price 70 
-Item "Pistol M.1911 A1 v2 (22)" Level 1 Price 70
 Item "Pistol P7 (32)" Level 1 Price 60
 Item "Pistol PA-63 32" Level 1 Price 80
 Item "Pistol P7 (380)" Level 1 Price 70
@@ -71,14 +65,6 @@ Item "Pistol PA-63" Level 1 Price 170
 Item "Pistol HK4 .380" Level 1 Price 110
 Item "Pistol HK4 .32" Level 1 Price 90
 Item "Pistol HK4 .25" Level 1 Price 50
-Item "Pistol HK4 .22" Level 1 Price 40
-Item "Pistol GP_K22" Level 1 Price 100
-Item "Pistol Walter P22 (22)" Level 1 Price 80
-Item "Pistol SIG P210 (22)" Level 1 Price 90
-Item "SIG Sauer Mosquito (22)" Level 1 Price 85
-Item "CZ 75 (22)" Level 1 Price 80
-Item "CZ 75 Shadow (22)" Level 1 Price 200
-Item "Pistol SWMP22" Level 1 Price 170
 Item "Pistol Baby Browning" Level 1 Price 30
 Item "Pistol Colt Mustang (.380 ACP)" Level 1 Price 70
 Item "Pistol Walther 9" Level 1 Price 30
@@ -376,45 +362,6 @@ Item "TOZ194 unstock (12ga)" Level 2 Price 900
 /////////==========
 
 
-Item "Carabine Winchester 1892 trapper (.357 Magnum)" Level 1 Price 650
-Item "Carabine Winchester 1892 (.357 Magnum)" Level 2 Price 720
-Item "Carabine Winchester 1892 trapper (.44 Magnum)" Level 1 Price 850
-Item "Carabine Winchester 1892 (.44 Magnum)" Level 2 Price 950
-Item "Carabine Winchester 1892 trapper (.45 Colt)" Level 1 Price 600
-Item "Carabine Winchester 1892 (.45 Colt)" Level 2 Price 700
-Item "Winchester 1866 CQC (38)" Level 1 Price 350
-Item "Winchester 1866 CAR (38)" Level 1 Price 400
-Item "Winchester 1866 LB (38)" Level 1 Price 450
-Item "Winchester 1866 CQC (44-40)" Level 1 Price 400
-Item "Winchester 1866 CAR (44-40)" Level 1 Price 450
-Item "Winchester 1866 LB (44-40)" Level 1 Price 550
-Item "Winchester 1866 CQC (45)" Level 1 Price 500
-Item "Winchester 1866 CAR (45)" Level 1 Price 550
-Item "Winchester 1866 LB (45)" Level 1 Price 650
-Item "Winchester 1894 357" Level 1 Price 420
-Item "Winchester 1894 Short 357" Level 1 Price 380
-Item "Winchester 1894 44" Level 1 Price 550
-Item "Winchester 1894 Short 44" Level 1 Price 480
-Item "Winchester 1894 45" Level 1 Price 650
-Item "Winchester 1894 Short 45" Level 1 Price 600
-Item "Winchester 1873 (44-40)" Level 1 Price 1200
-Item "Winchester 1873 (357)" Level 1 Price 1300
-Item "Winchester 1873 (38)" Level 1 Price 1000
-Item "Winchester 1886 Short" Level 2 Price 1700
-Item "Winchester 1886" Level 3 Price 1900
-Item "Marlin 1895G" Level 2 Price 1500
-Item "Marlin 1895G 2" Level 2 Price 1300
-Item "Marlin 1895 2" Level 3 Price 1600
-Item "Marlin 1895" Level 3 Price 1800
-Item "Marlin 1894 357" Level 2 Price 900
-Item "Marlin 1894 44" Level 2 Price 950
-Item "Marlin 1894 45" Level 2 Price 1050
-Item "Marlin 1894 410" Level 2 Price 1050
-Item "Winchester 1894 Short 3030" Level 2 Price 900
-Item "Winchester 1894 3030" Level 2 Price 1000
-Item "Marlin 1894 38" Level 1 Price 290
-Item "Winchester 1873 (.45 Colt)" Level 1 Price 1250
-
 Item "Carabine SKS (7.62x39mm)" Level 3 Price 550
 Item "Carabine Type 56 (7.62x39mm)" Level 3 Price 300
 Item "Carabine Mini14 (5.56mm)" Level 3 Price 1100
@@ -702,12 +649,8 @@ Item "Pistol clip (Fort17/15)" Level 1 Price 20.0
 Item "Pistol clip (Fort17380/16)" Level 1 Price 20.0
 Item "Pistol clip (PMM/12)" Level 1 Price 45
 
-Item "Pistol clip (P21022/8)" Level 1 Price 20
-Item "Pistol clip (Ruger2245/10)" Level 1 Price 20
 Item "Pistol clip (Guardian25/6)" Level 1 Price 20
 
-Item "Pistol clip (Colt22/12)" Level 1 Price 15
-Item "Pistol clip (p7m22/8)" Level 1 Price 10
 
 Item "Pistol clip (PA6332/7)" Level 1 Price 10
 Item "Pistol clip (p7m32/8)" Level 1 Price 10
@@ -719,11 +662,6 @@ Item "Pistol clip (Mustang/6)" Level 1 Price 10
 Item "Pistol clip (BabyBrowning/6)" Level 1 Price 10
 Item "Pistol clip (HK 4 25ACP/8)" Level 1 Price 15
 Item "Pistol clip (Walther9/6)" Level 1 Price 12
-Item "Pistol clip (CZ 75 22/10)" Level 1 Price 25
-Item "Pistol clip (HK 4 22LR/8)" Level 1 Price 20
-Item "Pistol clip (Ruger2245/10)" Level 1 Price 18
-Item "Pistol clip (P22/10)" Level 1 Price 20
-Item "Pistol clip (K22/10)" Level 1 Price 20
 Item "Pistol clip (Mosquito/10)" Level 1 Price 20
 Item "Pistol clip (Sauer/8)" Level 1 Price 30
 Item "Pistol clip (SauerW/8)" Level 1 Price 30
@@ -943,14 +881,6 @@ Item "Ammo box (N4 Buckshot MAG7)" Level 2 Price 0.001
 Item "Ammo box 500 (00 Buckshot MAG7)" Level 2 Price 100
 Item "Ammo box 500 (N4 Buckshot MAG7)" Level 3 Price 100
 
-Item "Ammo box (.22LR HV)" Level 1 Price 0.001
-Item "Ammo box (.22LR AP)" Level 1 Price 0.001
-Item "Ammo box (.22LR HP)" Level 1 Price 0.001
-Item "Ammo box (.22LR SP)" Level 1 Price 0.001
-Item "Ammo box 500 (.22LR HV)" Level 1 Price 100
-Item "Ammo box 500 (.22LR AP)" Level 1 Price 100
-Item "Ammo box 500 (.22LR HP)" Level 1 Price 100
-Item "Ammo box 500 (.22LR SP)" Level 1 Price 100
 Item "Ammo box (.25 ACP HP)" Level 1 Price 0.001
 Item "Ammo box (.25 ACP SP)" Level 1 Price 0.001
 Item "Ammo box (.25 ACP FMJ)" Level 1 Price 0.001
