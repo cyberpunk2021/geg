@@ -518,8 +518,8 @@
   <item level="2">Ammo box (.40 S&amp;W)</item>
   <item level="1">Ammo box (00 Buckshot)</item>
   <item level="1">Ammo box (57-H-181C)</item>
-  <item level="1">Ammo box (57-N-231S)</item>
-  <item level="5">Ammo box (7N1)</item>
+  <item level="4">Ammo box (57-N-231S)</item>
+  <item level="7">Ammo box (7N1)</item>
   <item level="5">Ammo box (7N14)</item>
   <item level="2">Ammo box (7N16)</item>
   <item level="8">Ammo box (7N22)</item>
@@ -533,7 +533,7 @@
   <item level="8">Ammo box (M855A1)</item>
   <item level="9">Ammo box 500 (M855A1)</item>
   <item level="4">Ammo box (M193)</item>
-  <item level="4">Ammo box (M80)</item>
+  <item level="5">Ammo box (M80)</item>
   <item level="2">Ammo box (M882)</item>
   <item level="1">Big Ammo box (Palinero 9mm)</item>
   <item level="8">Ammo box (M955)</item>
@@ -992,7 +992,7 @@
   <item level="10">Rifle Elephant Gun Sawnoff</item>
   <item level="11">Rifle Elephant Gun Unique</item>
   <item level="11">Rifle Elephant Gun Unique Sawnoff</item>
-  <item level="10">Ammo Box (700 nitro)</item>
+  <item level="4">Ammo Box (700 nitro)</item>
   <item level="4">Metal armor plate 1</item>
   <item level="3">Metal armor plate 2</item>
   <item level="7">RPG-7 Grenade(gtb-7vs)</item>
@@ -1006,10 +1006,10 @@
   <item level="3">RPG-7 Grenade(type69-3)</item>
   <item level="1">Camera</item>
   <item level="6">PackedAmmoBox M80 (7.62x51/800)</item>
-  <item level="6">PackedAmmoBox M193 (5.56/1000)</item>
-  <item level="6">PackedAmmoBox 7N1 (7.62x54/800)</item>
-  <item level="6">PackedAmmoBox 57-N-231S (7.62x39/1000)</item>
-  <item level="6">PackedAmmoBox 7N6 (5.45/1000)</item>
+  <item level="5">PackedAmmoBox M193 (5.56/1000)</item>
+  <item level="8">PackedAmmoBox 7N1 (7.62x54/800)</item>
+  <item level="5">PackedAmmoBox 57-N-231S (7.62x39/1000)</item>
+  <item level="5">PackedAmmoBox 7N6 (5.45/1000)</item>
   <item level="1">Case_Hard_Small</item>
   <item level="1">Case_Soft_Small</item>
   <item level="2">Case_Hard_Aluminium</item>

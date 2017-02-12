@@ -871,6 +871,8 @@ Item "Double rifle ammo clip (SIG551OPAQUEBLK/60)" Level 4 Price 100
 Item "Machinegun box (RPD/100)" Level 5 Price 100.0   
 Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
 
+Item "Shotgun clip (MAG7/5)" Level 1 Price 40
+
 /////////=======
 /////////boxes
 /////////=======

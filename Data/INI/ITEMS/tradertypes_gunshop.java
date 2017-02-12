@@ -688,8 +688,6 @@ Item "Pistol SWMP9 LB" Level 3 Price 950
 Item "Pistol SIG Sauer P220 (9mm)" Level 2 Price 620
 Item "Pistol SIG Sauer P228 (9mm)" Level 2 Price 560
 Item "Pistol NP-34 (9mm)" Level 1 Price 410
-Item "Pistol VP70 (9x19 mm)" Level 2 Price 500
-Item "VP70 Belt" Level 2 Price 500
 
 Item "Pistol P7 (9mm)" Level 1 Price 430
 Item "Pistol Glock 34 (9mm)" Level 3 Price 980
@@ -710,7 +708,6 @@ Item "Pistol XDM Compact (45)" Level 2 Price 690
 Item "Pistol XDM (45)" Level 3 Price 730
 Item "Pistol XDM LB (45)" Level 4 Price 770
 Item "Pistol Beretta T75 (9mm)" Level 1 Price 620
-Item "Pistol Beretta M93R (9mm)" Level 3 Price 1100
 Item "Pistol Beretta M8000 Cougar (9mm)" Level 1 Price 510
 Item "Pistol Beretta Px4 Storm (9mm)" Level 2 Price 820
 Item "Pistol Beretta Px4 Storm (.45)" Level 3 Price 920
@@ -1184,6 +1181,31 @@ Item	"PackedTushBox"	Level 1 Price			1120
 /////////PACKEDBOX
 /////////+++++++++
 
+
+Item	"PackedAmmoBox 57-N-231S (7.62x39/1000)" Level 5 Price 528
+Item	"PackedAmmoBox 7N1 (7.62x54/800)" Level 8 Price 1584
+Item	"PackedAmmoBox 7N6 (5.45/1000)" Level 5 Price 720
+Item	"PackedAmmoBox M193 (5.56/1000)" Level 5 Price 960
+Item	"PackedAmmoBox M80 (7.62x51/800)" Level	6 Price 1248
+Item "PackedAmmoBox CBC (9x19/500)" Level 2 Price 428
+Item "PackedAmmoBox CBC (.40 SW/500)" Level 2 Price 520
+Item "PackedAmmoBox CBC (.357 Magnum/500)" Level 2 Price 720
+Item "PackedAmmoBox Algeira (.357 SIG/500)" Level 1 Price 320
+Item "PackedAmmoBox Algeira (.357 Magnum/500)" Level 1 Price 440
+Item "PackedAmmoBox Algeira (.300 WM/500)" Level 8 Price 1240
+Item "PackedAmmoBox Eagle (.45 ACP/500)" Level 2 Price 700
+
+Item "PackedAmmoBox Algeira (6.8 SPC/500)" Level 4 Price 1056
+Item "PackedAmmoBox Palinero (7.62x54R/500)" Level 1 Price 720
+
+Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
+Item "PackedAmmoBox Norinco (9x18/500)" Level 1 Price 320
+Item "PackedAmmoBox Palinero (12ga/200)" Level 1 Price 324
+
+Item "PackedAmmoBox Norinco (5.56x45/500)" Level 4 Price 370
+Item "PackedAmmoBox Norinco (7.62x39/500)" Level 4 Price 303
+Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
+
 Item "PackedAmmoBox Algeira (9x19/500)" Level 1 Price 280
 Item "PackedAmmoBox Algeira (.38/500)" Level 1 Price 160
 Item "PackedAmmoBox CBC (.38/500)" Level 2 Price 480
@@ -1202,7 +1224,6 @@ Item "BigWoodBoxNorincoCQCIV" Level 5 Price 3500
 Item "BigWoodBoxVektorZ88" Level 2 Price 1825
 Item "BigWoodBoxPT1911" Level 2 Price 2325
 Item "BigWoodBoxM964Civ" Level 7 Price 5000
-Item "BigWoodBoxSPAS15" Level 3 Price 4750
 Item "BigWoodBoxSAFIRT14Classic" Level 3 Price 5250
 Item "BigWoodBoxMosquefal" Level 2 Price 550
 Item "BigWoodBoxIA2Cciv" Level 6 Price 6750
@@ -1212,13 +1233,6 @@ Item "PackedCleaningKitBox" Level 1 Price 1667
 Item "PackedSmershBox" Level 1 Price 334
 Item "PackedTacVestBox" Level 3 Price 667
 Item "PackedYellowTacVestBox" Level 5 Price 834
-
-Item "PackedVestBox" Level 1 Price 1334
-Item "PackedVestM200Box" Level 3 Price 2667
-Item "PackedWildcatVestBox" Level 2 Price 3334
-Item "PackedKevlarVestBox" Level 5 Price 2000
-
-Item "PackedPASGTSWATBox" Level 3 Price 1500
 
 Item "PackedBasicBeltBox" Level 1 Price 167
 Item "PackedHolsterBeltBox" Level 1 Price 334
@@ -1244,45 +1258,8 @@ Item	"Rifle clip (Garand/8)" Level 1 Price 			10
 Item "Rifle ammo clip (T14/15)" Level 1 Price 45
 Item "Double rifle ammo clip (T14/30)" Level 1 Price 45
 Item "Double rifle ammo clip (T14/30c)" Level 1 Price 45
-Item "Shotgun clip (SPAS-15/8)" Level 2 Price 40
-Item "Shotgun clip (SPAS-15Tan/8)" Level 2 Price 40
-Item "SMG ammo clip (MPX40/30)" Level 2 Price 20
-Item "SMG ammo clip (MPX357/30)" Level 2 Price 20
-Item "SMG ammo clip (MPX/30)" Level 2 Price 20
-Item "SMG ammo clip (Skorpion 3/30)" Level 2 Price 45
-Item "Double SMG ammo clip (Skorpion 3/60c)" Level 3 Price 45
-Item "Double SMG ammo clip (MPX/60)" Level 3 Price 40
-Item "Double SMG ammo clip (MPX357/60)" Level 3 Price 40
-Item "Double SMG ammo clip (MPX40/60)" Level 3 Price 40
 Item "Pistol clip (SAColt/14)" Level 1 Price 60
 Item "Pistol clip (SWColt/14)" Level 1 Price 60
-Item "SMG ammo clip (MP5-10/30)" Level 3 Price 45
-Item "Double SMG ammo clip (MP5-10/60)" Level 3 Price 45
-Item "SMG ammo clip (AR-15 10mm/30)" Level 3 Price 45
-Item "SMG ammo clip (SpectreM445/50)" Level 2 Price 80
-Item "SMG ammo clip (SpectreM49mm/50)" Level 2 Price 65
-Item "SMG ammo clip (SpectreM440/50)" Level 2 Price 75
-Item "SMG ammo clip (MPL/32)" Level 1 Price 50
-Item "SMG ammo clip (MT12/32)" Level 1 Price 40
-Item "SMG ammo clip (MT12/40)" Level 1 Price 50
-Item "SMG ammo clip (Steyr69/25)" Level 1 Price 30
-Item "SMG ammo clip (Steyr69/32)" Level 1 Price 40
-Item "SMG ammo clip (PM98/15)" Level 1 Price 30
-Item "SMG ammo clip (PM98/25)" Level 1 Price 55
-Item "SMG ammo clip (PM84P/15)" Level 1 Price 30
-Item "SMG ammo clip (PM84P/25)" Level 1 Price 55
-Item	"SMG ammo clip (AUG/30)" Level 3 Price    35.0
-Item	"SMG ammo clip (SAF/30)" Level 3 Price 		35
-Item	"Double SMG ammo clip (SAF/60)" Level 3 Price 		70
-Item	"SMG ammo clip (MT-40/30)" Level 3 Price 		30
-Item	"Double SMG ammo clip (MT-40/60)" Level 3 Price 60
-Item	"SMG ammo clip (MP5-40/30)" Level 3 Price 			75
-Item	"Double SMG ammo clip (MP5-40/60)" Level 3 Price 		150
-Item	"SMG ammo clip (UMP45/30)" Level 3 Price 			70.0
-Item	"Double SMG ammo clip (UMP45/50)" Level 3 Price 		140
-Item "SMG ammo clip (AR-15 40SW/32)" Level 2 Price 50
-Item "SMG ammo clip (UMP40/30)" Level 2 Price 50
-Item "SMG ammo clip (PindadPM2/30)" Level 1 Price 20
 Item "Pistol clip (P22010mm/8)" Level 1 Price 45
 Item "Pistol clip (Glock 29/10)" Level 1 Price 45
 Item "Pistol clip (Megastar45/12)" Level 1 Price 30
@@ -1335,12 +1312,10 @@ Item "Pistol clip (P200040/12)" Level 1 Price 35
 Item "Pistol clip (SteyrM357A1/12)" Level 1 Price 30
 Item "Pistol clip (SteyrS40A1/10)" Level 1 Price 20
 Item "Pistol clip (SteyrM40A1/12)" Level 1 Price 25
-Item "Pistol clip (M93R/20)" Level 1 Price 50
 
 Item "Pistol clip (P2209mm/7)" Level 1 Price 20
 Item "Pistol clip (P2269MM/12)" Level 1 Price 25
 
-Item "Pistol clip (VP70/18)" Level 1 Price 15
 
 Item "Pistol clip (SWMP40/15)" Level 1 Price 30
 Item "Pistol clip (SWMP357/15)" Level 1 Price 28
@@ -1451,17 +1426,6 @@ Item "Pistol clip (Colt/7)" Level 1 Price 35.0
 Item "Pistol clip (Colt/8)" Level 1 Price 70.0
 Item "Pistol clip (Nighthawk/8)" Level 1 Price 70.0
 Item "Pistol clip (Para/14)" Level 1 Price 105.0
-Item "SMG ammo clip (UZI/20)" Level 1 Price 20.0
-Item "SMG ammo clip (UZI/25)" Level 2 Price 25.0
-Item "SMG ammo clip (UZI/32)" Level 2 Price 20.0
-Item "SMG ammo clip (M5/15)" Level 1 Price 22.0
-Item "SMG ammo clip (M5/30)" Level 2 Price 30.0
-Item "Double SMG ammo clip (MP5/60)" Level 3 Price 60.0
-Item "SMG ammo clip (MAT-49/32)" Level 1 Price 20
-Item "SMG ammo clip (L2A3/34)" Level 1 Price 20.0
-Item "SMG ammo clip (M45/36)" Level 1 Price 50
-Item "SMG ammo clip (INA9/32)" Level 1 Price 45
-Item "SMG ammo clip (INA45/30)" Level 1 Price 50
 Item "Pistol clip (PPK/7.65)" Level 1 Price 20
 Item "Double rifle ammo clip (Mini-14/40)" Level 3 Price 60.0
 Item "Double rifle ammo clip (Mini-14/60)" Level 3 Price 70.0
@@ -1551,15 +1515,9 @@ Item "Double rifle ammo clip (FN FAL/40)" Level 5 Price 40
 
 Item "Rifle ammo clip (IMBEL/20)" Level 4 Price 20
 Item "Double rifle ammo clip (IMBEL/40)" Level 5 Price 40
+Item "Shotgun clip (MAG7/5)" Level 1 Price 40
 
-Item "Rifle ammo clip (CETME/20)" Level 4 Price 20
-Item "Rifle ammo clip (AR70/30)" Level 4 Price 40
-Item "Double rifle ammo clip (AR70/60)" Level 5 Price 80
 
-Item "Galil clip 5.56" Level 3 Price 35.0
-Item "Rifle ammo clip (SG542BLK/20)" Level 5 Price 40
-Item "Rifle ammo clip (SG542/20)" Level 5 Price 40
-Item "Double rifle ammo clip (SG542/40)" Level 6 Price 80
 Item "Double rifle ammo clip (SIG551/40)" Level 4 Price 80.0
 Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
 Item "Rifle ammo clip (SIG551/10)" Level 1 Price 40.0
@@ -1571,11 +1529,78 @@ Item "Rifle ammo clip (SIG551OPAQUE/30)" Level 3 Price 50
 Item "Double rifle ammo clip (SIG551OPAQUE/60)" Level 4 Price 100
 Item "Rifle ammo clip (SIG551OPAQUEBLK/30)" Level 3 Price 50
 Item "Double rifle ammo clip (SIG551OPAQUEBLK/60)" Level 4 Price 100
-Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
 
 /////////=======
 /////////boxes
 /////////=======
+
+Item "Ammo Box (.357 SIG HP)" 0.001
+Item "Ammo Box (.357 SIG AP)" 0.001
+Item "Ammo Box (.357 SIG FMJ)" 0.001
+Item "Ammo Box (.357 SIG SP)" 0.001
+Item "Ammo Box 500 (.357 SIG HP)" 100
+Item "Ammo Box 500 (.357 SIG AP)" 100
+Item "Ammo Box 500 (.357 SIG FMJ)" 100
+Item "Ammo Box 500 (.357 SIG SP)" 100
+
+Item	"Ammo box (M882)"				0.001
+Item	"Ammo box (EX-STAR)"				0.001
+Item	"Ammo box (FM9x19)"				0.001
+Item	"Ammo box (9mm JHP +P+)"			0.001
+Item	"Ammo box (FMJ 115grn)"				0.001
+Item	"Ammo box (JHP 117grn)"				0.001
+Item	"Ammo box (Cor-Bon 9mm)"			0.001
+
+Item	"Ammo box (.40 S&W)"					0.001
+Item	"Ammo box (.40 S&W JHP)"				0.001
+Item	"Ammo box (Buffalo 40 S&W)"				0.001
+Item	"Ammo box (Cor-Bon 40 S&W)"				0.001
+
+Item "Ammo box CBC (.40 S&W)" 0.001
+Item "Ammo box (Algeira 40 S&W)" 0.001
+Item "Big Ammo box CBC (.40 S&W)" 100
+Item "Ammo box 500 HLA (Buffalo 40 S&W)" 100
+Item "Ammo box 500 HLA (.40 S&W JHP)" 100
+Item "Ammo box 500 HLA (Cor-Bon 40 S&W)" 100
+Item "Ammo box 500 (Algeira 40 S&W)" 100
+
+Item "Ammo box (.38 spc HP)" 0.001
+Item "Ammo box (.38 spc)" 0.001
+Item "Ammo box (.38 Spl Algeira)" 0.001
+Item	"Ammo box (.38 Spl SJHP)"				0.001
+Item "Ammo box 500 HLA (.38 Spl SJHP)" 100
+Item "Ammo box 500 (.38 Spl Algeira)" 100
+Item "Big Ammo box (.38 spc HP)" 100
+Item "Big Ammo box (.38 spc FMJ)" 100
+
+Item	"Ammo box (00 Buckshot)"                               0.001
+Item	"Ammo box (Flechette)"                                 0.001
+Item	"Ammo box (Slug)"                                      0.001
+Item	"Ammo box (Hunt)"				0.001
+Item	"Ammo box (Sabot)"				0.001
+Item	"Ammo box (Rubber)"				0.001
+
+
+
+Item	"Ammo box (7.62x25mm (7.63mm mauzer))"               0.001
+
+Item "Ammo box 500 HLA (FMJ 115grn)" 100
+Item "Ammo box 500 HLA (JHP 117grn)" 100
+Item "Ammo box 500 HLA (9mm JHP +P+)" 100
+Item "Ammo box 500 HLA (Cor-Bon 9mm)" 100
+Item "Big Ammo box (9x19 HP)" 100
+
+Item "Ammo box (7.62x25mm AP)" 0.001
+Item "Ammo box (7.62x25mm FMJ)" 0.001
+Item "Ammo box 500 (7.62x25mm AP)" 100
+Item "Ammo box 500 (7.62x25mm FMJ)" 100
+
+Item "Ammo box (7.62x25mm Palinero)" 0.001
+Item "Ammo box (7.62x25mm (7.63mm mauser))" 0.001
+Item "Ammo box 500 (7.62x25mm (7.63mm mauzer))" 100
+Item "Ammo box 500 HLA (Mauser Tokarev)" 100
+Item "Ammo box 500 HLA 7.62x25 Norinco" 100
+Item "Ammo box 500 (7.62x25mm Palinero)" 100
 
 Item "Ammo box (00 Buckshot MAG7)" Level 1 Price 0.001
 Item "Ammo box (N4 Buckshot MAG7)" Level 2 Price 0.001
@@ -1643,6 +1668,72 @@ Item "Ammo box 500 (223 Norinco)" Level 4 Price 100
 Item "Ammo Box Duplex .308" Level 5 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
+
+
+Item "Ammo box (.25 ACP HP)" Level 1 Price 0.001
+Item "Ammo box (.25 ACP SP)" Level 1 Price 0.001
+Item "Ammo box (.25 ACP FMJ)" Level 1 Price 0.001
+Item "Ammo box (.25 ACP AP)" Level 1 Price 0.001
+Item "Ammo box 500 (.25 ACP HP)" Level 2 Price 100
+Item "Ammo box 500 (.25 ACP SP)" Level 2 Price 100
+Item "Ammo box 500 (.25 ACP FMJ)" Level 2 Price 100
+Item "Ammo box 500 (.25 ACP AP)" Level 1 Price 100
+Item "Ammo box 7.62x25 Norinco" Level 1 Price 0.001
+Item "Ammo box (7.62x25mm FMJ)" Level 1 Price 0.001
+Item "Ammo box (7.62x25mm Palinero)" Level 1 Price 0.001
+Item "Ammo box 500 HLA 7.62x25 Norinco" Level 3 Price 100
+Item "Ammo box 500 (7.62x25mm FMJ)" Level 2 Price 100
+Item "Ammo box 500 (7.62x25mm Palinero)" Level 2 Price 100
+Item "Big Ammo box (57-H-181C)" Level 1 Price 0.001
+Item "Ammo box (57-H-181C)" Level 1 Price 0.001
+Item "Ammo box (7N16)" Level 2 Price 0.001
+Item "Ammo box (PBM)" Level 3 Price 0.001
+Item "Ammo box (SP-7)" Level 2 Price 0.001
+Item "Big Ammo box (9x18)" Level 2 Price 100
+Item "Big Ammo box 7N16 (9x18)" Level 2 Price 100
+Item "Big Ammo box SP-7 (9x18)" Level 2 Price 100
+Item "Big Ammo box (Palinero 9mm)" Level 1 Price 0.001
+Item "Big Ammo box 500 (Palinero)" Level 2 Price 100
+Item "Ammo box (9x23mm HP)" Level 1 Price 0.001
+Item "Ammo box (9x23mm FMJ)" Level 1 Price 0.001
+Item "Ammo box 500 (9x23mm HP)" Level 2 Price 100
+Item "Ammo box 500 (9x23mm FMJ)" Level 2 Price 100
+Item "Ammo box (.44-40 LFN)" Level 1 Price 0.001
+Item "Ammo box (.44-40 JHP)" Level 2 Price 0.001
+Item "Ammo box (.44-40 FMJ)" Level 1 Price 0.001
+Item "Ammo box (.44-40 Surplus)" Level 1 Price 0.001
+Item "Ammo box 500 HLA (.44-40 LFN)" Level 1 Price 100
+Item "Ammo box 500 (.44-40 JHP)" Level 2 Price 100
+Item "Ammo box 500 (.44-40 FMJ)" Level 2 Price 100
+Item "Ammo box 500 (.44-40 Surplus)" Level 1 Price 100
+Item "Ammo box (.45 Colt JHP)" Level 2 Price 0.001
+Item "Ammo box (.45 Colt LFN)" Level 1 Price 0.001
+Item "Ammo box (.45 Colt LHP)" Level 1 Price 0.001
+Item "Ammo box 500 HLA (.45 Colt JHP)" Level 2 Price 100
+Item "Ammo box 500 HLA (.45 Colt LFN)" Level 2 Price 100
+Item "Ammo box 500 HLA (.45 Colt LHP)" Level 2 Price 100
+Item "Ammo box (00 Palinero)" Level 1 Price 0.001
+Item "Ammo box 500 (00 Palinero)" Level 2 Price 100
+Item "Ammo box (.30-30 Surplus)" Level 1 Price 0.001
+Item "Ammo box (.30-30 FMJ)" Level 2 Price 0.001
+Item "Ammo box 500 (.30-30 Surplus)" Level 2 Price 100
+Item "Ammo box 500 (.30-30 FMJ)" Level 3 Price 100
+Item "Ammo box (.45-70 Surplus)" Level 1 Price 0.001
+Item "Ammo box 500 (.45-70 Surplus)" Level 2 Price 100
+Item "Ammo box (8mm FMJ BT)" Level 1 Price 0.001
+Item "Ammo box 500 HLA (8mm FMJ BT)" Level 3 Price 100
+Item "Big Ammo box (5.45)" Level 2 Price 0.001
+Item "Ammo box (.223 Norinco)" Level 3 Price 0.001
+Item "Ammo box 7.62x39 Norinco" Level 2 Price 0.001
+Item "Big Ammo box (7.62x39)" Level 2 Price 0.001
+Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
+Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
+Item "Ammo Box (700 nitro)"	Level 4 Price 0.001
+
+
+
+
+
 
 
 

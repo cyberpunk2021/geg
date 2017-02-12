@@ -5,6 +5,9 @@
 
 ////WEAPONS FOR COPS
 
+Item	"Ammo box (Rubber)"	Level 1 Price			0.001
+Item "Ammo box 500 HLA (Rubber)" Level 1 Price 100
+
 Item "Machinegun Madsen (308)" Level 3 Price 1000
 Item "Machinegun ammo clip (Madsen/30)" Level 2 Price 40
 
@@ -785,6 +788,9 @@ Item "PackedAmmoBox Algeira (5.56/500)" Level 3 Price 456
 Item "PackedAmmoBox Norinco (5.56x45/500)" Level 4 Price 370
 Item "PackedAmmoBox Algeira (7.62x51/500)" Level 4 Price 624
 Item "PackedAmmoBox Algeira (30-06/500)" Level 1 Price 840
+Item "PackedAmmoBox Algeira (.357 SIG/500)" Level 1 Price 320
+Item "PackedAmmoBox Algeira (.357 Magnum/500)" Level 1 Price 440
+Item "PackedAmmoBox Algeira (.300 WM/500)" Level 8 Price 1240
 
 Item "BigWoodBoxGovCarbine" Level 5 Price 4000
 Item "BigWoodBoxNorincoCQ" Level 7 Price 4250
@@ -1135,6 +1141,7 @@ Item "Double rifle ammo clip (SIG551OPAQUE/60)" Level 4 Price 100
 Item "Rifle ammo clip (SIG551OPAQUEBLK/30)" Level 3 Price 50
 Item "Double rifle ammo clip (SIG551OPAQUEBLK/60)" Level 4 Price 100
 Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
+Item "Shotgun clip (MAG7/5)" Level 1 Price 40
 
 /////////=======
 /////////boxes

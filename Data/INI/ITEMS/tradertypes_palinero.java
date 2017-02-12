@@ -2,6 +2,9 @@
 /////////Palinero Rico trader guns
 /////////==========================
 
+Item	"Ammo box (7N21)"	Level 2 Price	0.001
+Item "PackedAmmoBox 7n21 (9x19/500)" Level 3 Price 680
+
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
 Item	"Pistol PSS (7.62x42mm)"	Level 1 Price		1600
