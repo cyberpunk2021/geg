@@ -5,19 +5,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -25,25 +158,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -71,7 +186,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -96,7 +211,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -122,22 +237,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -150,6 +253,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -183,19 +298,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -208,15 +421,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -238,7 +549,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -250,7 +561,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -262,13 +573,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -278,13 +589,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -295,10 +606,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -306,25 +617,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -334,13 +649,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -351,12 +666,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -367,12 +682,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -383,12 +698,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -399,12 +714,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -426,19 +741,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -446,25 +894,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -492,7 +922,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -517,7 +947,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -543,22 +973,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -571,6 +989,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -604,19 +1034,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -629,15 +1157,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -659,7 +1285,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -671,7 +1297,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -683,13 +1309,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -699,13 +1325,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -716,10 +1342,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -727,25 +1353,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -755,13 +1385,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -772,12 +1402,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -788,12 +1418,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -804,12 +1434,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -820,12 +1450,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -847,19 +1477,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -867,25 +1630,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -913,7 +1658,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -938,7 +1683,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -964,22 +1709,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -992,6 +1725,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1025,19 +1770,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1050,15 +1893,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1080,7 +2021,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -1092,7 +2033,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -1104,13 +2045,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1120,13 +2061,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1137,10 +2078,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1148,25 +2089,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1176,13 +2121,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1193,12 +2138,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1209,12 +2154,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1225,12 +2170,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1241,12 +2186,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1268,19 +2213,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1288,25 +2366,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -1334,7 +2394,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1359,7 +2419,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1385,22 +2445,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1413,6 +2461,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1446,19 +2506,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1471,15 +2629,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1501,7 +2757,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -1513,7 +2769,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -1525,13 +2781,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1541,13 +2797,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1558,10 +2814,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1569,25 +2825,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1597,13 +2857,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1614,12 +2874,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1630,12 +2890,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1646,12 +2906,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1662,12 +2922,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1689,19 +2949,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1709,25 +3102,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -1755,7 +3130,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1780,7 +3155,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1806,22 +3181,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1834,6 +3197,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1867,19 +3242,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1892,15 +3365,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1922,7 +3493,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -1934,7 +3505,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -1946,13 +3517,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1962,13 +3533,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -1979,10 +3550,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1990,25 +3561,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2018,13 +3593,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2035,12 +3610,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2051,12 +3626,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2067,12 +3642,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2083,12 +3658,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2110,19 +3685,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2130,25 +3838,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -2176,7 +3866,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -2201,7 +3891,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -2227,22 +3917,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2255,6 +3933,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2288,19 +3978,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2313,15 +4101,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2343,7 +4229,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -2355,7 +4241,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -2367,13 +4253,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2383,13 +4269,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2400,10 +4286,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2411,25 +4297,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2439,13 +4329,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2456,12 +4346,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2472,12 +4362,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2488,12 +4378,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2504,12 +4394,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2531,19 +4421,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2551,25 +4574,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -2597,7 +4602,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -2622,7 +4627,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -2648,22 +4653,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2676,6 +4669,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2709,19 +4714,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2734,15 +4837,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2764,7 +4965,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -2776,7 +4977,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -2788,13 +4989,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2804,13 +5005,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2821,10 +5022,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2832,25 +5033,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2860,13 +5065,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2877,12 +5082,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2893,12 +5098,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2909,12 +5114,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2925,12 +5130,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -2952,19 +5157,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2972,25 +5310,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -3018,7 +5338,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -3043,7 +5363,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -3069,22 +5389,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3097,6 +5405,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3130,19 +5450,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3155,15 +5573,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3185,7 +5701,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -3197,7 +5713,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -3209,13 +5725,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3225,13 +5741,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3242,10 +5758,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3253,25 +5769,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3281,13 +5801,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3298,12 +5818,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3314,12 +5834,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3330,12 +5850,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3346,12 +5866,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3373,19 +5893,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3393,25 +6046,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -3439,7 +6074,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -3464,7 +6099,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -3490,22 +6125,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3518,6 +6141,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3551,19 +6186,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3576,15 +6309,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3606,7 +6437,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -3618,7 +6449,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -3630,13 +6461,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3646,13 +6477,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3663,10 +6494,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3674,25 +6505,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3702,13 +6537,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3719,12 +6554,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3735,12 +6570,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3751,12 +6586,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3767,12 +6602,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -3794,19 +6629,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3814,25 +6782,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -3860,7 +6810,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -3885,7 +6835,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -3911,22 +6861,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3939,6 +6877,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3972,19 +6922,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3997,15 +7045,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4027,7 +7173,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -4039,7 +7185,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -4051,13 +7197,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4067,13 +7213,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4084,10 +7230,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4095,25 +7241,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4123,13 +7273,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4140,12 +7290,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4156,12 +7306,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4172,12 +7322,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4188,12 +7338,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4215,19 +7365,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4235,25 +7518,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -4281,7 +7546,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -4306,7 +7571,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -4332,22 +7597,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4360,6 +7613,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4393,19 +7658,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4418,15 +7781,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4448,7 +7909,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -4460,7 +7921,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -4472,13 +7933,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4488,13 +7949,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4505,10 +7966,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4516,25 +7977,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4544,13 +8009,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4561,12 +8026,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4577,12 +8042,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4593,12 +8058,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4609,12 +8074,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4636,19 +8101,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4656,25 +8254,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -4702,7 +8282,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -4727,7 +8307,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -4753,22 +8333,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4781,6 +8349,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4814,19 +8394,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4839,15 +8517,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4869,7 +8645,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -4881,7 +8657,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -4893,13 +8669,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4909,13 +8685,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4926,10 +8702,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4937,25 +8713,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4965,13 +8745,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4982,12 +8762,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -4998,12 +8778,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5014,12 +8794,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5030,12 +8810,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5057,19 +8837,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5077,25 +8990,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -5123,7 +9018,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -5148,7 +9043,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -5174,22 +9069,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5202,6 +9085,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5235,19 +9130,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5260,15 +9253,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5290,7 +9381,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -5302,7 +9393,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -5314,13 +9405,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5330,13 +9421,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5347,10 +9438,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5358,25 +9449,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5386,13 +9481,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5403,12 +9498,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5419,12 +9514,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5435,12 +9530,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5451,12 +9546,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5478,19 +9573,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5498,25 +9726,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -5544,7 +9754,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -5569,7 +9779,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -5595,22 +9805,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5623,6 +9821,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5656,19 +9866,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5681,15 +9989,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5711,7 +10117,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -5723,7 +10129,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -5735,13 +10141,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5751,13 +10157,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5768,10 +10174,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5779,25 +10185,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5807,13 +10217,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5824,12 +10234,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5840,12 +10250,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5856,12 +10266,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5872,12 +10282,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -5899,19 +10309,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5919,25 +10462,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -5965,7 +10490,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -5990,7 +10515,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -6016,22 +10541,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6044,6 +10557,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6077,19 +10602,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6102,15 +10725,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6132,7 +10853,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -6144,7 +10865,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -6156,13 +10877,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6172,13 +10893,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6189,10 +10910,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6200,25 +10921,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6228,13 +10953,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6245,12 +10970,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6261,12 +10986,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6277,12 +11002,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6293,12 +11018,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6320,19 +11045,152 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle AS VAL (9x39mm)"
+Name  "IMBEL M964"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+BulletsCount  20 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
-RoundsLeft  20 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "Core Lokt JHP .308"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6340,25 +11198,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 1 1 0 1 0 
 Jammed  0 
-AddonsCount  2 0 0 8 
-Name  "Integrated Silencer (9x39 mm SP)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 8 
-Name  "as-val-butt"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+AddonsCount  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 
@@ -6386,7 +11226,7 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  0 0 0 
+Item  1 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -6411,7 +11251,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  1 0 0 
+Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -6437,22 +11277,10 @@ JumpTimerUsed  0
 Used  0 
 Prob  1 11 
 Item  1 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
-SpecificData  
-OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6465,6 +11293,18 @@ Name  "Flask"
 SpecificData  
 OtherInfo  
 GUID  537 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "PhoneMoto"
+SpecificData  
+OtherInfo  
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6498,19 +11338,117 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol OTs-33 Pernach (9x18mm)"
+Name  "Pistol Glock 40 (10mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "57-H-181C"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6523,15 +11461,113 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (OTs-33/18)"
+Name  "Pistol clip (Glock 20/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  1 0 0 6 
-Name  "PM ammo"
+BulletsCount  15 0 0 6 
+Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
-RoundsLeft  18 
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6553,7 +11589,7 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  1 0 10 
+Item  0 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -6565,7 +11601,7 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 10 
+Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -6577,13 +11613,13 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 49 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6593,13 +11629,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6610,10 +11646,10 @@ EndOfSpecificData
 Used  0 
 Prob  1 50 
 Item  0 0 10 
-Name  "Money"
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  290 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6621,25 +11657,29 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 51 
-Item  0 0 7 
-Name  "Ammo box (SP-6)"
+Item  1 0 7 
+Name  "Ammo box (10mm JHP)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "10mm Auto JHP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 51 
+Item  1 0 7 
+Name  "Ammo Box CoreLokt .308"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6649,13 +11689,13 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 7 
-Name  "Ammo box (SP-6)"
+Item  0 0 7 
+Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "Core Lokt JHP .308"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6666,12 +11706,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 52 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6682,12 +11722,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 53 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6698,12 +11738,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 54 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "SP-6 (9x39mm)"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
@@ -6714,12 +11754,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 55 
 Item  0 0 7 
-Name  "Rifle ammo clip (AS/VSS/20)"
+Name  "Rifle ammo clip (IMBEL/20)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "9x39 FMJ Ball"
+Name  "7.62x51 FMJ Ball"
 SpecificData  
 AmmoInfo  
 RoundsLeft  20 
