@@ -99892,7 +99892,7 @@ ATT Bipod		1 "MadsenBipod"
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "Type99LMG"
+ATT Magazine	1 "Madsen"
 StdPlug			"Machinegun ammo clip (Madsen/30)"
 StdPlug			"Madsen Bipod Folded"
 ACTOR			"Items\madsen.act"
@@ -100180,7 +100180,7 @@ ITEM "Machinegun UK VZ59L (7.62x54R)"
 Class			Machinegun
 Caliber			"7.62υ54R μμ"
 Weight			8670
-PrepareTime		0.67
+PrepareTime		0.69
 SingleFireTime	0.7
 BurstFireTime	0.083
 SpeedModifier	1.1
@@ -100193,7 +100193,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	230
+EffectiveRange	217
 RangeCurvature	0.5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"

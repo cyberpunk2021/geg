@@ -5065,11 +5065,10 @@ BOX  "Ammo box (US)""US (7.62x39mm)"20 "Items\762us-box.act""762us-box.e5b"
 BOX  "Ammo box (M67)""M67 (7.62x39mm)"20 "Items\m67_box.act""m67_box.e5b"
 BOX  "Ammo box (7.62x39JHP)""Barnaul JHP (7.62x39mm)"20 "Items\762x39HP_box.act""762x39hp_box.e5b"
 BOX  "Ammo box (7.62x39 PDX JHP)""Winchester PDX JHP (7.62x39mm)"20 "Items\762x39pdx1.act""box357pdx.e5b"
-
 BOX  "Ammo box (7.62x39 FMJ Prvi)""Prvi (7.62x39mm)"20 "Items\762x39prvi.act""boxprvi.e5b"
-
 BOX  "Ammo box 7.62x39 Norinco""Norinco (7.62x39mm)"20 "Items\762x39norinco.act""boxnorinco.e5b"
 BOX  "Big Ammo box (7.62x39)""7.62x39 FMJ Ball"20 "Items\762x39_box.act""762x39_box.e5b"
+
 BOX  "BigWoodAmmoBox 57-N-231S (7.62x39/1000)""57-N-231S (7.62x39mm)"600 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "BigWoodAmmoBox 7N23 (7.62x39/1000)""7N23 (7.62x39mm)"600 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
 BOX  "BigWoodAmmoBox 7N6 (5.45/1000)""M67 (7.62x39mm)"600 "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.E5B"

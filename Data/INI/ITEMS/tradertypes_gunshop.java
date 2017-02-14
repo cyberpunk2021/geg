@@ -1543,6 +1543,71 @@ Item "Ammo Box 500 (.357 SIG AP)" 100
 Item "Ammo Box 500 (.357 SIG FMJ)" 100
 Item "Ammo Box 500 (.357 SIG SP)" 100
 
+Item "Ammo box CBC (.357 SP)" 0.001
+Item "Ammo Box (.357 Algeira)" 0.001
+Item "Ammo box 500 HLA (.357 SP)" 100
+Item "Big Ammo box CBC (.357 SP)" 100
+Item "Ammo Box 500 (.357 Algeira)" 100
+Item	"Ammo box (.357 SP)" 0.001
+
+Item	"Ammo box (Magnum .44)" 0.001
+
+Item "Ammo Box 44 MAG JHP" 0.001
+Item "Ammo Box 44 MAG Algeira" 0.001
+Item "Ammo box 500 HLA (Magnum .44)" 100
+Item "Big Ammo box JHP (Magnum .44)" 100
+Item "Ammo box 500 HLA (Magnum .44)" 100
+
+Item "Ammo box HP (Lapua/20)" 0.001
+Item "Ammo box AP (Lapua/20)" 0.001
+Item "Ammo box Surplus (Lapua/20)" 0.001
+Item "Big Ammo box Surplus (LAPUA)" 100
+Item "Big Ammo box AP (LAPUA)" 100
+Item "Big Ammo box HP (LAPUA)" 100
+Item "Big Ammo box 500 (9x19)" 100
+
+Item "Ammo box (.50AE HP)" 0.001
+Item "Ammo box (.50AE FMJ)" 0.001
+Item "Ammo box 500 (.50AE HP)" 100
+Item "Ammo box 500 (.50AE FMJ)" 100
+Item "Ammo box (10mm HP)" 0.001
+Item "Ammo box (10mm FMJ)" 0.001
+Item "Ammo box (10mm AP)" 0.001
+Item "Ammo box (10mm SP)" 0.001
+Item "Ammo box 500 (10mm HP)" 100
+Item "Ammo box 500 (10mm FMJ)" 100
+Item "Ammo box 500 (10mm AP)" 100
+Item "Ammo box 500 (10mm SP)" 100
+Item "Ammo box (N4)" 0.001
+Item "Big Ammo box (12 ga N4)" 0.001
+Item "Ammo box (00 Buckshot 410)" 0.001
+Item "Ammo box (00 Buckshot N4 410)" 0.001
+Item "Ammo box (Slug 410)" 0.001
+Item "Ammo box (Flechette 410)" 0.001
+Item "Ammo box 500 (00 Buckshot 410)" 100
+Item "Ammo box 500 (00 Buckshot N4 410)" 100
+Item "Ammo box 500 (Slug 410)" 100
+Item "Ammo box 500 (Flechette 410)" 100
+
+Item "Ammo box (.300 WM HP)" 0.001
+Item "Ammo box (.300 WM AP)" 0.001
+Item "Ammo box (.300 WM FMJ)" 0.001
+Item "Ammo box (.300 WM SP)" 0.001
+Item "Ammo box 500 (.300 WM HP)" 100
+Item "Ammo box 500 (.300 WM SP)" 100
+Item "Ammo box 500 (.300 WM FMJ)" 100
+Item "Ammo box 500 (.300 WM AP)" 100
+
+Item "Ammo box (Brenneke HP)" 0.001
+Item "Ammo box (Brenneke AP)" 0.001
+Item "Ammo box (Brenneke SP)" 0.001
+Item "Ammo box 500 (Brenneke HP)" 100
+Item "Ammo box 500 (Brenneke AP)" 100
+Item "Ammo box 500 (Brenneke SP)" 100
+
+Item "Ammo box .500 S&W Magnum SCHP" 0.001
+Item "Ammo box 200 .500 S&W Magnum SCHP" 100
+
 Item	"Ammo box (M882)"				0.001
 Item	"Ammo box (EX-STAR)"				0.001
 Item	"Ammo box (FM9x19)"				0.001

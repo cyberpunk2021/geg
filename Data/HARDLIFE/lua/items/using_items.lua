@@ -9,6 +9,7 @@
  ["PackedAmmoBox Palinero (9x18/500)"] = "BigAmmoBox (9x18/500)",
  ["PackedAmmoBox Norinco (9x18/500)"] = "Big Ammo box PBM (9x18)",
  ["PackedAmmoBox 7n21 (9x19/500)"] = "Ammo box 500 HLA (7N21)",
+ ["PackedAmmoBox Algeira (.357 SIG/500)"] = "Ammo Box 500 (.357 SIG SP)",
  ["PackedAmmoBox Algeira (9x19/500)"] = "BigAmmoBox (9x19/500)",
  ["PackedAmmoBox Algeira (.38/500)"] = "Ammo box 500 (.38 Spl Algeira)",
  ["PackedAmmoBox CBC (.38/500)"] = "Big Ammo box (.38 spc HP)",
@@ -922,6 +923,7 @@ AddItemContextMenu("PackedAmmoBox CBC (9x19/500)", 		action_unpack_box, UnpackAm
 AddItemContextMenu("PackedAmmoBox Palinero (9x18/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
 AddItemContextMenu("PackedAmmoBox Norinco (9x18/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
 AddItemContextMenu("PackedAmmoBox 7n21 (9x19/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
+AddItemContextMenu("PackedAmmoBox Algeira (.357 SIG/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
 AddItemContextMenu("PackedAmmoBox Algeira (9x19/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
 AddItemContextMenu("PackedAmmoBox Algeira (.38/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
 AddItemContextMenu("PackedAmmoBox CBC (.38/500)", 		action_unpack_box, UnpackAmmoBox, CanUnpackBox)
