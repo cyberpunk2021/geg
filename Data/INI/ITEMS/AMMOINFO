@@ -708,22 +708,22 @@ WEIGHT 41.34
 
 "Barricada (23 mm)"
 "23 μμ"
-50
-508
-3
-0.3
-0.6
-0.1
-0.1
+80
+290
+1
+0.07
+0.08
+0.078
+0.045
 0.004
 0.003
-0.05
+0.35
 1
 1
 "Weapon\Shoot\Silencer\None"
 "Items\barricada_case.act"
 "Items\br_bullet.act"
-100
+80
 ACTOR "Items\barricada.act"
 IMAGE "barrikada.e5b"
 WEIGHT 80
@@ -1919,21 +1919,21 @@ WEIGHT 18.37
 "Volna-R (23 mm)"
 "23 μμ"
 38
-375
-6
-0.005
-0.995
-0
+290
+1
+0.01
 0.5
+0
+0.07
 0.004
 0.003
 0.56
-0.41
+1
 1
 "Weapon\Shoot\Silencer\None"
 "Items\volna_r_case.act"
 "Items\vr_bullet.act"
-100
+50
 ACTOR "Items\volna_r.act"
 IMAGE "volna-r.e5b"
 WEIGHT 60
@@ -3876,17 +3876,17 @@ WEIGHT 17.88
 
 "Shrapnel-25 (23 mm)"
 "23 μμ"
-9
-415
-3
-0.3
-0.7
-0
-0.15
+4.5
+290
+1
+0.43
+0.45
+0.28
+0.05
 0.003
 0.005
-0.01
-0.72
+0.2
+2
 1
 "Weapon\Shoot\Silencer\None"
 "Items\shr25_case.act"
@@ -5527,17 +5527,17 @@ WEIGHT 7.31
 
 "Shrapnel-10 (23 mm)"
 "23 μμ"
-6
-350
 3
-0.3
-0.6
-0.1
-0.1
+290
+1
+0.63
+0.63
+0.28
+0.05
 0.003
 0.005
-0.05
-0.51
+0.2
+2
 1
 "Weapon\Shoot\Silencer\None"
 "Items\shr10_case.act"

@@ -3,6 +3,19 @@
 //////////////////
 
 /////////
+//22 LR
+/////////
+
+Item "Ammo box (.22LR HV)" Level 1 Price 0.001
+Item "Ammo box (.22LR AP)" Level 1 Price 0.001
+Item "Ammo box (.22LR HP)" Level 1 Price 0.001
+Item "Ammo box (.22LR SP)" Level 1 Price 0.001
+Item "Ammo box 500 (.22LR HV)" Level 1 Price 100
+Item "Ammo box 500 (.22LR AP)" Level 1 Price 100
+Item "Ammo box 500 (.22LR HP)" Level 1 Price 100
+Item "Ammo box 500 (.22LR SP)" Level 1 Price 100
+
+/////////
 //25 ACP
 /////////
 
@@ -116,8 +129,6 @@ Item "Big Ammo box SP-7 (9x18)" Level 2 Price 100
 Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
 Item "PackedAmmoBox Norinco (9x18/500)" Level 1 Price 320
 
-
-
 /////////
 //9x19
 /////////
@@ -203,6 +214,14 @@ Item "Ammo box 500 (7.62x25mm FMJ)" Level 2 Price 100
 Item "Ammo box 500 (7.62x25mm Palinero)" Level 2 Price 100
 Item "Ammo box 500 (7.62x25mm AP)" Level 2 Price 100
 
+/////////
+//9x21
+/////////
+
+Item "Ammo box (SP-10)" Level 2 Price 0.001
+Item "Ammo box (SP-11)" Level 2 Price 0.001
+Item "Ammo box 500 (SP-10)" Level 3 Price 100.0
+Item "Ammo box 500 (SP-11)" Level 3 Price 100.0
 
 /////////
 //9x23
@@ -263,12 +282,22 @@ Item "Ammo box (10mm HP)" Level 3 Price 0.001
 Item "Ammo box (10mm FMJ)" Level 3 Price 0.001
 Item "Ammo box (10mm AP)" Level 4 Price 0.001
 Item "Ammo box (10mm SP)" Level 1 Price 0.001
+
 Item "Ammo box 500 (10mm HP)" Level 4 Price 100
 Item "Ammo box 500 (10mm FMJ)" Level 4 Price 100
-Item "Ammo box 500 (10mm AP)" Level 4 Price 100
-Item "Ammo box 500 (10mm SP)" Level 4 Price 100
+Item "Ammo box 500 (10mm AP)" Level 5 Price 100
+Item "PackedAmmoBox Algeira (10mm/500)" Level 2 Price 600
 
-Item "PackedAmmoBox Algeira (10mm/500)" 600
+/////////
+//5.7
+/////////
+
+Item "Ammo box (SS193)" Level 5 Price 0.001
+Item "Ammo box (SS192)" Level 4 Price 0.001
+Item "Ammo box (SS190)" Level 3 Price 0.001
+Item "Big Ammo box (SS190)" Level 4 Price 100
+Item "Big Ammo box (SS192)" Level 5 Price 100
+Item "Big Ammo box (SS193)" Level 6 Price 100
 
 /////////
 //5.8x21mm
@@ -278,6 +307,16 @@ Item "Ammo box DAP92 (5.8x21mm)" Level 1 Price 0.001
 Item "Ammo box DCV05 (5.8x21mm)" Level 2 Price 0.001
 Item "Ammo box DCV05 500 (5.8x21mm)" Level 3 Price 100
 Item "PackedAmmoBox (5.8x21/500)" Level 2 Price 360
+
+/////////
+//6.25x25mm
+/////////
+
+Item "Ammo box (CBJMS FMJ)" Level 2 Price 0.001
+Item "Ammo box (CBJMS AP)" Level 3 Price 0.001
+
+Item "Ammo box 500 (CBJMS FMJ)" Level 3 Price 100
+Item "Ammo box 500 (CBJMS AP)" Level 4 Price 100
 
 //////////////////
 /////SHOT AMMO
@@ -350,9 +389,50 @@ Item "Ammo box 500 (00 Buckshot N4 410)" Level 2 Price 100
 Item "Ammo box 500 (Slug 410)" Level 1 Price 100
 Item "Ammo box 500 (Flechette 410)" Level 3 Price 100
 
+/////////
+//23mm
+/////////
+
+Item "Ammo Box (23s10)" Level 3 Price 0.001
+Item "Ammo Box (23s25)" Level 3 Price 0.001
+Item "Ammo Box (23b)" Level 3 Price 0.001
+Item "Ammo box (23v)" Level 3 Price 0.001
+
+Item "Ammo Box 40 (23b)" Level 4 Price 100
+Item "Ammo Box 40 (23s10)" Level 5 Price 100
+Item "Ammo Box 40 (23s25)" Level 5 Price 100
+Item "Ammo box 40 (23v)" Level 5 Price 100
+
 //////////////////
 /////RIFLE AMMO
 //////////////////
+
+/////////
+//.30 Carbine
+/////////
+
+Item "Ammo box .30 Carbine SP" Level 1 Price 0.001
+Item "Ammo box .30 Carbine FMJ" Level 2 Price 0.001
+
+Item "Ammo box .30 Carbine SP 500" Level 2 Price 100
+Item "Ammo box .30 Carbine FMJ 500" Level 3 Price 100
+
+/////////
+//.458 socom
+/////////
+
+Item "Ammo box (.458 socom)" Level 5 Price 0.001
+Item "Big Ammo box (.458 socom)" Level 7 Price 100
+
+/////////
+//.50 Beowulf
+/////////
+
+Item "Ammo box (.50 Beowulf HP)" Level 4 Price 0.001
+Item "Ammo box (.50 Beowulf FMJ)" Level 4 Price 0.001
+
+Item "Ammo box 500 (.50 Beowulf HP)" Level 5 Price 100
+Item "Ammo box 500 (.50 Beowulf FMJ)" Level 5 Price 100
 
 /////////
 //5.45x39mm
@@ -436,6 +516,25 @@ Item "BigWoodAmmoBox M955 (5.56/1000)" Level 9 Price 100
 
 
 /////////
+//6x35mm KAC
+/////////
+
+Item "Ammo box (KAC FMJ)" Level 4 Price 0.001
+Item "Ammo box 500 (KAC FMJ)" Level 6 Price 100
+
+/////////
+//6.5 Grendel
+/////////
+
+Item "Big Ammo box (6.5mm HP)" Level 6 Price 0.001
+Item "Big Ammo box (6.5mm AP)" Level 6 Price 0.001
+Item "Big Ammo box (6.5mm FMJ)" Level 5 Price 0.001
+
+Item "Big Ammo box 500 (6.5mm HP)" Level 7 Price 100
+Item "Big Ammo box 500 (6.5mm AP)" Level 7 Price 100
+Item "Big Ammo box 500 (6.5mm FMJ)" Level 6 Price 100
+
+/////////
 //6.8 SPC
 /////////
 
@@ -483,21 +582,24 @@ Item "PackedAmmoBox 7N6 (5.45/1000)" Level 5 Price 720
 //.308 7.62x51mm
 /////////
 
-Item "Ammo Box Duplex .308" Level 5 Price 0.001
+Item "Ammo Box Duplex .308" Level 3 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
-Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
+Item "Ammo Box Noveske .308" Level 6 Price 0.001
+Item "Ammo Box CoreLokt .308" Level 6 Price 0.001
+Item "Ammo box (FM7.62x51)" Level 5 Price 0.0001
+Item "Ammo box (M80)" Level 6 Price 0.0001
+Item "Ammo box (M993)" Level 8 Price 0.0001
+Item "Ammo box (7.62x51SP)" Level 4 Price 0.0001
+Item "Ammo box (7.62x51 SN)" Level 7 Price Level 4 0.0001
 
-
-Item "Ammo Box 500 Duplex .308" Level 6 Price 100
-Item "CajaMunicionGrande (7.62/400)" 100
-Item "CajaMunicionGrande (7.62/200)" 100
-Item "BigAmmoBox (7.62x51/400)" 100
-Item "BigWoodAmmoBox M80 (7.62x51/800)" 100
-Item "BigWoodAmmoBox M993 (7.62x51/800)" 100
-Item "PackedAmmoBox M80 (7.62x51/800)" 1248
-Item "PackedAmmoBox Algeira (7.62x51/500)" 624
-Item "PackedAmmoBox CBC (7.62x51 M80/500)" 1392
-Item "PackedAmmoBox CBC (7.62x51 M933/500)" 1632
+Item "Ammo box 500 HLA (7.62x51 SN)" Level 9 Price 100
+Item "Ammo Box 500 CoreLokt .308" Level 7 Price 100
+Item "Ammo box 500 HLA (7.62x51SP)" Level 5 Price 100
+Item "Ammo Box 500 Duplex .308" Level 4 Price 100
+Item "CajaMunicionGrande (7.62/400)" Level 6 Price 100
+Item "PackedAmmoBox Algeira (7.62x51/500)" Level 4 Price 624
+Item "PackedAmmoBox CBC (7.62x51 M80/500)" Level 7 Price 1392
+Item "PackedAmmoBox CBC (7.62x51 M933/500)" Level 9 Price 1632
 
 
 
@@ -506,11 +608,20 @@ Item "PackedAmmoBox CBC (7.62x51 M933/500)" 1632
 //.30-06
 /////////
 
+
 Item "Ammo box (30-06)" Level 2 Price 0.001
+Item "Ammo box (30-06 XP3)" Level 3 Price 0.0001
+Item "Ammo box (30-06 Korean)" Level 4 Price 0.001
+Item "Ammo box (30-06 AP/20)" Level 6 Price 0.001
+Item "Ammo box (30-06 FMJ/20)" Level 4 Price 0.001
 
-Item "PackedAmmoBox Algeira (30-06/500)" 840
 
-Item	"BigAmmoBox (30-60/400)"			100
+Item "Ammo box 200 XP3 (30-06)" Level 4 Price 100
+Item "Ammo box 500 (30-06 AP)" Level 7 Price 100
+Item "Ammo box 500 (30-06 FMJ)" Level 5 Price 100
+Item "BigAmmoBox JHP +P (30-60/400)" Level 5 Price 100
+Item "PackedAmmoBox Algeira (30-06/500)" Level 3 Price 840
+
 
 /////////
 //.30-30
@@ -519,87 +630,104 @@ Item	"BigAmmoBox (30-60/400)"			100
 
 Item "Ammo box (.30-30 Surplus)" Level 1 Price 0.001
 Item "Ammo box (.30-30 FMJ)" Level 2 Price 0.001
+Item "Ammo box (.30-30 +P)" Level 3 Price 0.001
+Item "Ammo box (.30-30 HP)" Level 2 Price 0.001
+
+Item "Ammo box 500 (.30-30 +P)" Level 5 Price 100
+Item "Ammo box 500 (.30-30 HP)" Level 4 Price 100
 Item "Ammo box 500 (.30-30 Surplus)" Level 2 Price 100
 Item "Ammo box 500 (.30-30 FMJ)" Level 3 Price 100
 
-/////////
-//.45-70
-/////////
 
-Item "Ammo box (.45-70 Surplus)" Level 1 Price 0.001
-Item "Ammo box 500 (.45-70 Surplus)" Level 2 Price 100
-
-/////////
-//7.92x57mm Mauser
-/////////
-
-Item "Ammo box (8mm FMJ BT)" Level 1 Price 0.001
-Item "Ammo box 500 HLA (8mm FMJ BT)" Level 3 Price 100
 
 /////////
 //7.62x54R
 /////////
 
-Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
+Item "Big Ammo box (7.62x54R)" Level 1 Price 0.001
+Item "Ammo box (7.62x54R)" Level 3 Price 0.001
+Item "Ammo box (PPU 7.62x54R)" Level 3 Price 0.001
+Item "Ammo box (7N1)" Level 7 Price 0.001
+Item "Ammo box (7N14)" Level 5 Price 0.001
+Item "Ammo box (7N26)" Level 7 Price 0.001
+Item "Ammo box (7.62x54SP)" Level 3 Price 0.001
 
-Item	"PackedAmmoBox 7N1 (7.62x54/800)"		1584
-Item "PackedAmmoBox Palinero (7.62x54R/500)" 720
+Item "Ammo box 500 HLA (7.62x54R)" Level 5 Price 100
+Item "Ammo box 500 HLA (PPU 7.62x54R)" Level 4 Price 100
+Item "Ammo box 500 HLA (7N14)" Level 5 Price 100
+Item "Ammo box 500 HLA (7.62x54SP)" Level 4 Price 100
+Item "BigWoodAmmoBox 7N26 (7.62x54/800)" Level 8 Price 100
+Item "PackedAmmoBox 7N1 (7.62x54/800)" Level 8 Price 1584
+Item "PackedAmmoBox Palinero (7.62x54R/500)" Level 2 Price 720
 
-Item	"BigWoodAmmoBox 7N1 (7.62x54/800)"		100
-Item	"BigWoodAmmoBox 7N26 (7.62x54/800)"		100
-
-Item	"BigAmmoBox (7.62x54/400)"			100
 
 
 /////////
 //9x39mm
 /////////
 
-Item "PackedAmmoBox Palinero (9x39/500)" 960
 
-Item	"BigWoodAmmoBox SP-5 (9x39/1000)"		100
-Item	"BigWoodAmmoBox SP-6 (9x39/1000)"		100
+Item "Ammo box (SP-5)" Level 5 Price 0.001
+Item "Ammo box (SP-6)" Level 7 Price 0.001
+Item "Ammo box (PAB-9)" Level 3 Price 0.001
+Item "Big Ammo box (9x39)" Level 2 Price 0.001
+
+Item "Ammo box 500 HLA (PAB-9)" Level 5 Price 100
+Item "BigWoodAmmoBox SP-5 (9x39/1000)" Level 6 Price 100
+Item "BigWoodAmmoBox SP-6 (9x39/1000)" Level 8 Price 100
+Item "PackedAmmoBox Palinero (9x39/500)" Level 3 Price 960
+
 
 /////////
 //.300 WM
 /////////
 
-Item "Ammo box (.300 WM HP)" 0.001
-Item "Ammo box (.300 WM AP)" 0.001
-Item "Ammo box (.300 WM FMJ)" 0.001
-Item "Ammo box (.300 WM SP)" 0.001
-Item "Ammo box 500 (.300 WM HP)" 100
-Item "Ammo box 500 (.300 WM SP)" 100
-Item "Ammo box 500 (.300 WM FMJ)" 100
-Item "Ammo box 500 (.300 WM AP)" 100
+Item "Ammo box (.300 WM HP)" Level 9 Price 0.001
+Item "Ammo box (.300 WM AP)" Level 10 Price 0.001
+Item "Ammo box (.300 WM FMJ)" Level 10 Price 0.001
+Item "Ammo box (.300 WM SP)" Level 6 Price 0.001
 
-Item "PackedAmmoBox Algeira (.300 WM/500)" 1240
+Item "Ammo box 500 (.300 WM HP)" Level 11 Price 100
+Item "Ammo box 500 (.300 WM FMJ)" Level 10 Price 100
+Item "Ammo box 500 (.300 WM AP)" Level 12 Price 100
+Item "PackedAmmoBox Algeira (.300 WM/500)" Level 7 Price 1240
 
 /////////
 //9.3x64mm Brenneke
 /////////
 
-Item "Ammo box (Brenneke HP)" 0.001
-Item "Ammo box (Brenneke AP)" 0.001
-Item "Ammo box (Brenneke SP)" 0.001
-Item "Ammo box 500 (Brenneke HP)" 100
-Item "Ammo box 500 (Brenneke AP)" 100
-Item "Ammo box 500 (Brenneke SP)" 100
+Item "Ammo box (Brenneke HP)" Level 11 Price 0.001
+Item "Ammo box (Brenneke AP)" Level 12 Price 0.001
+Item "Ammo box (Brenneke SP)" Level 7 Price 0.001
+Item "Ammo box 500 (Brenneke HP)" Level 12 Price 100
+Item "Ammo box 500 (Brenneke AP)" Level 13 Price 100
+Item "Ammo box 500 (Brenneke SP)" Level 8 Price 100
 
 
 /////////
 //.338 Lapua
 /////////
 
-Item "Ammo box HP (Lapua/20)" 0.001
-Item "Ammo box AP (Lapua/20)" 0.001
-Item "Ammo box Surplus (Lapua/20)" 0.001
-Item "Big Ammo box Surplus (LAPUA)" 100
-Item "Big Ammo box AP (LAPUA)" 100
-Item "Big Ammo box HP (LAPUA)" 100
-Item "PackedAmmoBox Algeira (.338 Lapua/500)" 1772
+Item "Ammo box HP (Lapua/20)" Level 12 Price 0.001
+Item "Ammo box AP (Lapua/20)" Level 13 Price 0.001
+Item "Ammo box Surplus (Lapua/20)" Level 8 Price 0.001
+Item "Ammo box FMJ-BT (Lapua/20)" Level 12 Price 0.001
 
+Item "Big Ammo box (LAPUA)" Level 14 Price 100
+Item "Big Ammo box AP (LAPUA)" Level 15 Price 100
+Item "Big Ammo box HP (LAPUA)" Level 14 Price 100
+Item "PackedAmmoBox Algeira (.338 Lapua/500)" Level 9 Price 1772
 
+/////////
+//.375 H&H
+/////////
+
+Item "Ammo box (.375 L)" Level 4 Price 0.001
+Item "Ammo box (.375 H)" Level 5 Price 0.001
+Item "Ammo box (.375 FMJ)" Level 3 Price 0.001
+Item "Ammo box 500 (.375 L)" Level 5 Price 100
+Item "Ammo box 500 (.375 H)" Level 6 Price 100
+Item "Ammo box 500 (.375 FMJ)" Level 4 Price 100
 
 /////////
 //.700 Nitro
@@ -608,65 +736,270 @@ Item "PackedAmmoBox Algeira (.338 Lapua/500)" 1772
 Item "Ammo Box (700 nitro)"	Level 4 Price 0.001
 
 
+/////////
+//12.7x55mm ASH
+/////////
+
+Item "Ammo box (ASH HP)" Level 13 Price 0.001
+Item "Ammo box (ASH FMJ)" Level 12 Price 0.001
+Item "Ammo box (ASH Surplus)" Level 9 Price 0.001
+
+Item "Ammo box 500 (ASH HP)" Level 14 Price 100
+Item "Ammo box 500 (ASH FMJ)" Level 14 Price 100
+Item "Ammo box 500 (ASH Surplus)" Level 10 Price 100
+
+/////////
+//12.7x55mm VSSK
+/////////
+
+Item "Ammo box (VSSK AP)" Level 14 Price 0.001
+Item "Ammo box (VSSK FMJ)" Level 13 Price 0.001
+Item "Ammo box (VSSK SP)" Level 9 Price 0.001
+
+Item "Ammo box 500 (VSSK AP)" Level 15 Price 100
+Item "Ammo box 500 (VSSK FMJ)" Level 14 Price 100
+Item "Ammo box 500 (VSSK SP)" Level 10 Price 100
+
+
+/////////
+//.408 Chey Tac
+/////////
+
+Item ".408 Chey Tac box (408/20)" Level 14 Price 0.001
+Item "Big Ammo box (.408 CheyTac)" Level 15 Price 100
+
+/////////
+//.50 BMG
+/////////
+
+Item "Ammo box (12.7x99)" Level 5 Price 0.001
+Item "BigAmmoBox (12.7x99/100)" Level 6 Price 100
+
+/////////
+//12.7x108mm
+/////////
+
+Item "Ammo Box (12.7x108mm Surplus)" Level 10 Price 0.001
+Item "Ammo Box (12.7x108mm FMJ)" Level 13 Price 0.001
+
+Item "Ammo Box 500 (12.7x108mm Surplus)" Level 11 Price 100
+Item "Ammo Box 500 (12.7x108mm FMJ)" Level 14 Price 100
+
 //////////////////
-/////HEAVY AMMO
+/////Older weapons AMMO
 //////////////////
 
+/////////
+//14.5x114mm
+/////////
+
+Item "Ammo Box (14.5x114mm BS)" Level 6 Price 0.001
+Item "Ammo Box (14.5x114mm B32)" Level 6 Price 0.001
+Item "Ammo Box (14.5x114mm DGJ02)" Level 6 Price 0.001
+Item "Ammo Box (14.5x114mm Surplus)" Level 4 Price 0.001
+
+Item "Ammo Box 500 (14.5x114mm BS)" Level 7 Price 100
+Item "Ammo Box 500 (14.5x114mm B32)" Level 7 Price 100
+Item "Ammo Box 500 (14.5x114mm DGJ02)" Level 7 Price 100
+Item "Ammo Box 500 (14.5x114mm Surplus)" Level 5 Price 100
+
+/////////
+//7.92mm DS
+/////////
+
+Item "Ammo Box (7.92mm DS AP)" Level 2 Price 0.001
+Item "Ammo Box 500 (7.92mm DS AP)" Level 3 Price 100
+
+/////////
+//7.92x94mm Patronen
+/////////
+
+Item "Ammo Box (Patronen AP)" Level 3 Price 0.001
+Item "Ammo Box 500 (Patronen AP)" Level 5 Price 100
+
+/////////
+//8x22 Nambu
+/////////
+
+Item "Ammo box FMJ 500 (8x22)" Level 1 Price 100
+Item "Ammo box FMJ (8x22)" Level 1 Price 0.001
+
+/////////
+//.455 Webley
+/////////
+
+Item "Ammo box .455 Webley HP" Level 1 Price 0.001
+Item "Ammo box .455 Webley 500 HP" Level 2 Price 100
+
+/////////
+//.303 British
+/////////
+
+Item "Big Ammo box (.303 British +P)" Level 2 Price 0.001
+Item "Big Ammo box (.303 British AP)" Level 2 Price 0.001
+Item "Big Ammo box (.303 British FMJ)" Level 1 Price 0.001
+Item "Big Ammo box 500 (.303 British +P)" Level 4 Price 100
+Item "Big Ammo box 500 (.303 British AP)" Level 3 Price 100
+Item "Big Ammo box 500 (.303 British FMJ)" Level 2 Price 100
+
+/////////
+//7.92x33 Kurz
+/////////
+
+Item "Ammo box (7.92mm Kurz/20)" Level 2 Price 0.001
+Item "Ammo box (7.92mm Kurz/200)" Level 4 Price 100
+
+/////////
+//6.5 Carcano
+/////////
+
+Item "Big Ammo box (6.5 Carcano FMJ)" Level 1 Price 0.001
+Item "Big Ammo box 500 (6.5 Carcano FMJ)" Level 2 Price 100
+
+/////////
+//6.5 Arisaka
+/////////
+
+Item "Big Ammo box (6.5 Arisaka FMJ)" Level 1 Price 0.001
+Item "Big Ammo box (6.5 Arisaka SP)" Level 1 Price 0.001
+Item "Big Ammo box 500 (6.5 Arisaka FMJ)" Level 2 Price 100
+Item "Big Ammo box 500 (6.5 Arisaka SP)" Level 2 Price 100
+
+/////////
+//7.7 Arisaka
+/////////
+
+Item "Big Ammo box (7.7 Arisaka FMJ)" Level 1 Price  0.001
+Item "Big Ammo box (7.7 Arisaka SP)" Level 1 Price 0.001
+Item "Big Ammo box 500 (7.7 Arisaka FMJ)" Level 2 Price 100
+Item "Big Ammo box 500 (7.7 Arisaka SP)" Level 2 Price 100
+
+/////////
+//.45-70
+/////////
+
+Item "Ammo box (.45-70 Surplus)" Level 1 Price 0.001
+Item "Ammo box (.45-70 JHP +P)" Level 4 Price 0.001
+Item "Ammo box (.45-70 JHP)" Level 3 Price 0.001
+Item "Ammo box (.45-70 FMJ)" Level 3 Price 0.001
+
+Item "Ammo box 500 (.45-70 JHP +P)" Level 5 Price 100
+Item "Ammo box 500 (.45-70 JHP)" Level 4 Price 100
+Item "Ammo box 500 (.45-70 FMJ)" Level 3 Price 100
+Item "Ammo box 500 (.45-70 Surplus)" Level 2 Price 100
+
+/////////
+//7.92x57mm Mauser
+/////////
+
+Item "Ammo box (8mm FMJ BT)" Level 1 Price 0.001
+Item "Ammo box (7.92x57 HP)" Level 2 Price 0.001
+Item "Ammo box (7.92x57)" Level 2 Price 0.001
+Item "Ammo box (8mm SP)" Level 2 Price 0.001
+
+Item "BigAmmoBox (7.92x57 HP/200)" Level 3 Price 100
+Item "Ammo box 500 HLA (7.92x57)" Level 3 Price 100
+Item "Ammo box 500 HLA (8mm SP)" Level 2 Price 100
+Item "Ammo box 500 HLA (8mm FMJ BT)" Level 3 Price 100
+
+/////////
+//7.5x54mm French
+/////////
+
+Item "Big Ammo box (French FMJ)" Level 1 Price 0.001
+Item "Big Ammo box 500 (French FMJ)" Level 2 Price 100
+
+/////////
+//8x50mm Lebel
+/////////
+
+Item "Big Ammo box (8x50 FMJ)" Level 1 Price 0.001
+Item "Big Ammo box 500 (8x50 FMJ)" Level 2 Price 100
 
 
+//////////////////
+/////UNIQUE AMMO
+//////////////////
 
+/////////
+//PSS 7.62x42
+/////////
 
+Item "Ammo box (SP-4)" Level 1 Price 0.001
 
+/////////
+//G11 4.7
+/////////
 
+Item "Ammo box (DM11)" Level 6 Price 0.001
 
+//////////////////
+/////GL AMMO
+//////////////////
 
+/////////
+//RPG-2
+/////////
 
+Item "RPG-2 Grenade" Level 3 Price 170
 
+/////////
+//RPG-7
+/////////
 
+Item "RPG-7 Grenade" Level 3 Price 300.0
+Item "RPG-7 Grenade 2" Level 3 Price 300.0
+Item "RPG-7 Grenade(gtb-7vs)" Level 7 Price 300
+Item "RPG-7 Grenade(ipg-60)" Level 6 Price 300
+Item "RPG-7 Grenade(ipg-82)" Level 6 Price 300
+Item "RPG-7 Grenade(ko-7v)" Level 5 Price 300
+Item "RPG-7 Grenade(og-7ve)" Level 4 Price 300
+Item "RPG-7 Grenade(pg-7ei)" Level 5 Price 300
+Item "RPG-7 Grenade(pg-7pm)" Level 4 Price 300
+Item "RPG-7 Grenade(tbg-7v)" Level 5 Price 300
+Item "RPG-7 Grenade(type69-3)" Level 3 Price 300
 
+/////////
+//M202A1 FLASH
+/////////
 
+Item "M202A1 Grenade" Level 6 Price 300.0
 
+/////////
+//Pallad 40x47
+/////////
 
+Item "Pallad 40x47" Level 4 Price 85
 
+/////////
+//M203 40mm
+/////////
 
+Item "M406 HE" Level 3 Price 100.0
+Item "M407 Smoke" Level 3 Price 50.0
+Item "M433A1 HEDP" Level 4 Price 100.0
+Item "M397A1 HE" Level 4 Price 110.0
 
+/////////
+//GP-25 VOG
+/////////
 
+Item "VOG-25" Level 3 Price 75.0
+Item "VOG-25P" Level 4 Price 75.0
 
+/////////
+//QBZ95 35mm
+/////////
 
+Item "35mm Smoke" Level 3 Price 30
+Item "35mm AB" Level 4 Price 90
+Item "35mm HE" Level 3 Price 80
 
+/////////
+//QBZ95-1 35mm Caseless
+/////////
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Item "DFS-10P" Level 4 Price 60
+Item "DFS-10 Smoke" Level 3 Price 25
+Item "DFS-10 HE" Level 3 Price 50
 

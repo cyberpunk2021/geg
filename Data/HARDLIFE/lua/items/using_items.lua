@@ -1,7 +1,7 @@
 -- Общие функции и массивы
  local BoxItems = {
  ["PackedAmmoBox M193 (5.56/1000)"] = "BigWoodAmmoBox M193 (5.56/1000)",
- ["PackedAmmoBox M80 (7.62x51/800)"] = "BigWoodAmmoBox M80 (7.62x51/800)",
+ ["PackedAmmoBox M80 (7.62x51/800)"] = "Ammo Box 500 Noveske .308",
  ["PackedAmmoBox 7N6 (5.45/1000)"] = "BigWoodAmmoBox 7N6 (5.45/1000)",
  ["PackedAmmoBox 57-N-231S (7.62x39/1000)"] = "BigWoodAmmoBox 57-N-231S (7.62x39/1000)",
  ["PackedAmmoBox 7N1 (7.62x54/800)"] = "BigWoodAmmoBox 7N1 (7.62x54/800)",
@@ -35,7 +35,7 @@
  ["PackedAmmoBox Norinco (7.62x39/500)"] = "Ammo box 500 HLA 7.62x39 Norinco",
  ["PackedAmmoBox Palinero (7.62x39/500)"] = "BigAmmoBox (7.62x39/500)",
  ["PackedAmmoBox Algeira (7.62x51/500)"] = "BigAmmoBox (7.62x51/400)",
- ["PackedAmmoBox CBC (7.62x51 M80/500)"] = "Ammo Box 500 Noveske .308",
+ ["PackedAmmoBox CBC (7.62x51 M80/500)"] = "BigWoodAmmoBox M80 (7.62x51/800)",
  ["PackedAmmoBox CBC (7.62x51 M933/500)"] = "BigWoodAmmoBox M993 (7.62x51/800)",
  ["PackedAmmoBox Palinero (7.62x54R/500)"] = "BigAmmoBox (7.62x54/400)",
  ["PackedAmmoBox Algeira (.300 WM/500)"] = "Ammo box 500 (.300 WM SP)",

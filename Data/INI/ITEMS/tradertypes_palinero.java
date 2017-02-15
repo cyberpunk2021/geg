@@ -2,15 +2,13 @@
 /////////Palinero Rico trader guns
 /////////==========================
 
-Item	"Ammo box (7N21)"	Level 2 Price	0.001
-Item "PackedAmmoBox 7n21 (9x19/500)" Level 3 Price 680
+
 
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
 Item	"Pistol PSS (7.62x42mm)"	Level 1 Price		1600
 
-Item	"Ammo box (SP-10)"  Level 2 Price        0.001
-Item	"Ammo box (SP-11)"   Level 2 Price             0.001
+
 Item	"Pistol clip (SPS-SR1/18)"   Level 1 Price         50.0
 Item	"Pistol SPS-SR-1 (9x21mm)"	Level 3 Price	1200
 
@@ -234,7 +232,6 @@ Item "Sniper Rifle PTRS41 (14.5mm)" Level 5 Price 2800
 Item "Assault Rifle A91 2 (5.45x39mm)" Level 9 Price 2500
 Item "Assault Rifle A91 (7.62x39mm)" Level 9 Price 2700
 
-Item "Assault Rifle Type86S Auto (7.62x39mm)" Level 6 Price 1800
 
 Item "Assault Rifle Ash (12.7)" Level 12 Price 3800
 Item "Assault Rifle Ash FG (12.7)" Level 12 Price 3800
@@ -306,11 +303,11 @@ Item "Assault Rifle AK-105 (5.45x39mm)" Level 6 Price 2000
 Item "Assault Rifle AK-107 (5.45mm)" Level 12 Price 2900
 Item "Assault Rifle AK-109 (7.62x39mm)" Level 12 Price 3050
 
-Item	"Assault Rifle AK-103 (7.62x39mm)" Level 9 Price 		2600
-Item	"Assault Rifle AK-104 (7.62x39mm)" Level 6 Price 		1900
+Item "Assault Rifle AK-103 (7.62x39mm)" Level 9 Price 2600
+Item "Assault Rifle AK-104 (7.62x39mm)" Level 6 Price 1900
 
-Item	"Assault Rifle AEK-973 (7.62x39mm)" Level 9 Price 		2800
-Item	"Assault Rifle AN-94 (5.45mm)" Level 11 Price 			3900
+Item "Assault Rifle AEK-973 (7.62x39mm)" Level 9 Price 2800
+Item "Assault Rifle AN-94 (5.45mm)" Level 11 Price 3900
 
 Item "Assault Rifle A-545 (5.45mm)" Level 12 Price 3200
 Item "Assault Rifle A-762 (7.62mm)" Level 12 Price 3250
@@ -494,6 +491,7 @@ Item "Offensive Hand Grenade Type82" Level 5 Price 220
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
 Item "rpg-2 Type 56" Level 3 Price 450
 Item "RPG-2 Grenade" Level 3 Price 200
+Item "rpg-2" Level 3 Price 600
 
 Item	"Launcher RG-6"	Level 8 Price					1700
 Item	"Launcher RPG-7"	Level 6 Price				950
@@ -528,15 +526,7 @@ Item	"VOG-25P"	Level 4 Price				75.0
 /////////PACKEDBOX
 /////////+++++++++
 
-Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
-Item "PackedAmmoBox Palinero (12ga/200)" Level 1 Price 324
-Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
-Item "PackedAmmoBox Palinero (5.45x39/500)" Level 3 Price 480
-Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
-Item "PackedAmmoBox Palinero (7.62x54R/500)" Level 1 Price 720
-Item "PackedAmmoBox Palinero (9x39/500)" Level 4 Price 960
-Item "PackedAmmoBox Norinco (7.62x39/500)" Level 4 Price 303
-Item "PackedAmmoBox Norinco (9x18/500)" Level 1 Price 320
+
 
 Item "BigWoodBoxBizon" Level 3 Price 5500
 Item "BigWoodBoxVityaz" Level 4 Price 6500
@@ -631,6 +621,19 @@ Item "Machinegun box (RPD/100)" Level 5 Price 100.0
 /////////boxes
 /////////=======
 
+Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
+Item "PackedAmmoBox Palinero (12ga/200)" Level 1 Price 324
+Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
+Item "PackedAmmoBox Palinero (5.45x39/500)" Level 3 Price 480
+Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
+Item "PackedAmmoBox Palinero (7.62x54R/500)" Level 1 Price 720
+Item "PackedAmmoBox Palinero (9x39/500)" Level 4 Price 960
+Item "PackedAmmoBox Norinco (7.62x39/500)" Level 4 Price 303
+Item "PackedAmmoBox Norinco (9x18/500)" Level 1 Price 320
+Item "PackedAmmoBox 7n21 (9x19/500)" Level 3 Price 680
+
+Item "Ammo box (7N21)" Level 2 Price 0.001
+
 Item "Ammo box (7.62x25mm Palinero)" Level 1 Price 0.001
 Item "Ammo box 500 (7.62x25mm Palinero)" Level 2 Price 100
 Item "Big Ammo box (57-H-181C)" Level 1 Price 0.001
@@ -643,11 +646,37 @@ Item "Ammo box 7.62x39 Norinco" Level 2 Price 0.001
 Item "Big Ammo box (7.62x39)" Level 2 Price 0.001
 Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
 
-Item "Ammo box (Brenneke SP)" Level 9 Price 0.001
-Item "Ammo box 500 (Brenneke SP)" Level 9 Price 100
+Item "Ammo box (Brenneke SP)" Level 7 Price 0.001
+Item "Ammo box 500 (Brenneke SP)" Level 8 Price 100
 Item "Ammo box (VSSK SP)" Level 9 Price 0.001
-Item "Ammo box 500 (VSSK SP)" Level 9 Price 100
+Item "Ammo box 500 (VSSK SP)" Level 10 Price 100
 Item "Ammo box (ASH Surplus)" Level 9 Price 0.001
-Item "Ammo box 500 (ASH Surplus)" Level 9 Price 100
+Item "Ammo box 500 (ASH Surplus)" Level 10 Price 100
 Item "Ash 12.7 Silencer" Level 14 Price 3800
 Item "Big Ammo box (9x39)" Level 2 Price 0.001
+
+Item "Ammo box (Rubber)" Level 1 Price 0.001
+Item "Ammo box 500 HLA (Rubber)" Level 1 Price 100
+
+/////////
+//23mm
+/////////
+
+Item "Ammo Box (23s10)" Level 3 Price 0.001
+Item "Ammo Box (23s25)" Level 3 Price 0.001
+Item "Ammo Box (23b)" Level 3 Price 0.001
+Item "Ammo box (23v)" Level 3 Price 0.001
+
+Item "Ammo Box 40 (23b)" Level 4 Price 100
+Item "Ammo Box 40 (23s10)" Level 5 Price 100
+Item "Ammo Box 40 (23s25)" Level 5 Price 100
+Item "Ammo box 40 (23v)" Level 5 Price 100
+
+/////////
+//9x21
+/////////
+
+Item "Ammo box (SP-10)" Level 2 Price 0.001
+Item "Ammo box (SP-11)" Level 2 Price 0.001
+Item "Ammo box 500 (SP-10)" Level 3 Price 100.0
+Item "Ammo box 500 (SP-11)" Level 3 Price 100.0
