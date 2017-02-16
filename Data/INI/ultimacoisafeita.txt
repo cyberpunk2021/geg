@@ -2226,6 +2226,8 @@ hecate
 fn falo bipod bug
 mg15 bipod bug
 
+colocar IMC-40 GL nas galils
+
 colocar mg4 e madsen bipod em tuning.lua
 
 adicionar:

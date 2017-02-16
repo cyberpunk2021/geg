@@ -2,7 +2,11 @@
 /////////Palinero Rico trader guns
 /////////==========================
 
+//PURCHASE
+Item	"Confidencial"						Level 16	Price	5250
+Item	"Military_sectret"					Level 16	Price	7700
 
+//////////
 
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 

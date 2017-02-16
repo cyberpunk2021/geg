@@ -69,7 +69,6 @@ Item "Ammo box (.38 Spl SJHP)" Level 1 Price 0.001
 
 Item "Ammo box 500 HLA (.38 Spl SJHP)" Level 2 Price 100
 Item "Big Ammo box (.38 spc FMJ)" Level 2 Price 100
-
 Item "PackedAmmoBox Algeira (.38/500)" Level 1 Price 160
 Item "PackedAmmoBox CBC (.38/500)" Level 2 Price 480
 
@@ -82,7 +81,6 @@ Item "Ammo Box (.357 Algeira)" Level 1 Price 0.001
 Item "Ammo box (.357 SP)" Level 2 Price 0.001
 
 Item "Ammo box 500 HLA (.357 SP)" Level 3 Price 100
-
 Item "PackedAmmoBox Algeira (.357 Magnum/500)" Level 1 Price 440
 Item "PackedAmmoBox CBC (.357 Magnum/500)" Level 2 Price 720
 
@@ -96,10 +94,10 @@ Item "Ammo Box (.357 SIG HP)" Level 3 Price 0.001
 Item "Ammo Box (.357 SIG AP)" Level 3 Price 0.001
 Item "Ammo Box (.357 SIG FMJ)" Level 2 Price 0.001
 Item "Ammo Box (.357 SIG SP)" Level 1 Price 0.001
+
 Item "Ammo Box 500 (.357 SIG HP)" Level 4 Price 100
 Item "Ammo Box 500 (.357 SIG AP)" Level 4 Price 100
 Item "Ammo Box 500 (.357 SIG FMJ)" Level 3 Price 100
-
 Item "PackedAmmoBox Algeira (.357 SIG/500)" Level 2 Price 320
 
 /////////
@@ -109,6 +107,7 @@ Item "PackedAmmoBox Algeira (.357 SIG/500)" Level 2 Price 320
 Item "Ammo box (Magnum .44)" Level 2 Price 0.001
 Item "Ammo Box 44 MAG JHP" Level 2 Price 0.001
 Item "Ammo Box 44 MAG Algeira" Level 1 Price 0.001
+
 Item "Ammo box 500 HLA (Magnum .44)" Level 3 Price 100
 Item "Big Ammo box JHP (Magnum .44)" Level 2 Price 100
 Item "Big Ammo box Algeira (Magnum .44)" Level 2 price 100
@@ -122,10 +121,10 @@ Item "Ammo box (57-H-181C)" Level 1 Price 0.001
 Item "Ammo box (7N16)" Level 2 Price 0.001
 Item "Ammo box (PBM)" Level 3 Price 0.001
 Item "Ammo box (SP-7)" Level 2 Price 0.001
+
 Item "Big Ammo box (9x18)" Level 2 Price 100
 Item "Big Ammo box 7N16 (9x18)" Level 2 Price 100
 Item "Big Ammo box SP-7 (9x18)" Level 2 Price 100
-
 Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
 Item "PackedAmmoBox Norinco (9x18/500)" Level 1 Price 320
 
@@ -623,20 +622,7 @@ Item "BigAmmoBox JHP +P (30-60/400)" Level 5 Price 100
 Item "PackedAmmoBox Algeira (30-06/500)" Level 3 Price 840
 
 
-/////////
-//.30-30
-/////////
 
-
-Item "Ammo box (.30-30 Surplus)" Level 1 Price 0.001
-Item "Ammo box (.30-30 FMJ)" Level 2 Price 0.001
-Item "Ammo box (.30-30 +P)" Level 3 Price 0.001
-Item "Ammo box (.30-30 HP)" Level 2 Price 0.001
-
-Item "Ammo box 500 (.30-30 +P)" Level 5 Price 100
-Item "Ammo box 500 (.30-30 HP)" Level 4 Price 100
-Item "Ammo box 500 (.30-30 Surplus)" Level 2 Price 100
-Item "Ammo box 500 (.30-30 FMJ)" Level 3 Price 100
 
 
 
@@ -873,6 +859,21 @@ Item "Big Ammo box (7.7 Arisaka FMJ)" Level 1 Price  0.001
 Item "Big Ammo box (7.7 Arisaka SP)" Level 1 Price 0.001
 Item "Big Ammo box 500 (7.7 Arisaka FMJ)" Level 2 Price 100
 Item "Big Ammo box 500 (7.7 Arisaka SP)" Level 2 Price 100
+
+/////////
+//.30-30
+/////////
+
+
+Item "Ammo box (.30-30 Surplus)" Level 1 Price 0.001
+Item "Ammo box (.30-30 FMJ)" Level 2 Price 0.001
+Item "Ammo box (.30-30 +P)" Level 3 Price 0.001
+Item "Ammo box (.30-30 HP)" Level 2 Price 0.001
+
+Item "Ammo box 500 (.30-30 +P)" Level 5 Price 100
+Item "Ammo box 500 (.30-30 HP)" Level 4 Price 100
+Item "Ammo box 500 (.30-30 Surplus)" Level 2 Price 100
+Item "Ammo box 500 (.30-30 FMJ)" Level 3 Price 100
 
 /////////
 //.45-70

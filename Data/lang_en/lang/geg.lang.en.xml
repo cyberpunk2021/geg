@@ -55,7 +55,37 @@
 	
 	<str id="lang/cfg/weaponorder/order/GEG545x39Shipment">Shipment with 3000 rounds of 5.45x39mm Palinero surplus ammunition, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Palinero.</str>
 	<str id="lang/cfg/weaponorder/order/GEG545x39ShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 5.45x39mm Palinero surplus ammunition, requires use of tools to open, which ARE included in the delivery. Place of Origin: Palinero.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGrenadeF1Box">Shipment with six Soviet-designed Cold-War-Era F1 Hand Grenades, requires use of tools to open, which are included in the delivery. Place of Origin: Palinero.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGrenadeM67Box">Shipment with three M67 Hand Grenades, requires use of tools to open, which are included in the delivery. Place of Origin: Joliet, IL, USA.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGrenadeM61Box">Shipment with four M61 Hand Grenades, requires use of tools to open, which are included in the delivery. Place of Origin: Ramat haScharon, Israel.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGrenadeRGD5Box">Shipment with four RGD-5 Hand Grenades, requires use of tools to open, which are included in the delivery. Place of Origin: Palinero.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGrenadeRGNBox">Shipment with four RGN Hand Grenades, requires use of tools to open, which are included in the delivery. Place of Origin: Vinnytsia, Ukraine.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGrenadeRGOBox">Shipment with five RGO Hand Grenades, requires use of tools to open, which are included in the delivery. Place of Origin: Military District Far East, Russia.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGGalil556Box">This kit consists of a Box containing 5 Galil Assault Rifles, Magazines, Manual, Cleaning Kit and Ammo. Place of Origin: Bogota, Colombia.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGAK103">Shipment of one AK-103 Assault Rifle, three spare magazines and three boxes of JHP-Ammo. Place of Origin: Caracas, Venezuela.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGSC2010">Shipment of one SC2010 Assault Rifle, four spare magazines, 120 Rounds of M80-Ammo, Rifle Case, ACOG-Optic and M3 Weaponlight. Place of Origin: Lima, Peru.</str>
 	
-	
+	<str id="lang/cfg/weaponorder/order/GEGNightHawk">Premium .45 1911-Derivate with a lot of Accessoires. Place of Origin: Yonkers, New York, USA.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGULTIMAX"> Ultimax MK 5 Tactical LMG with a Optic, Drum Mags, Weapon Light, Laser and other Accessoires. Place of Origin: Singapore.</str>
+
+    <str id="lang/cfg/weaponorder/order/GEGFNMAG"> Package of one FN MAG 7.62x51mm GPMG, 500 M80 NATO Rounds, two Box-Mags, ELCAN-Sight, MG-Case, Cleaning Kit and Pouches. Place of Origin: Herstal, Belgium.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGM82A1"> A brandnew Barett M82A1 Anti-Material-Rifle with two Magazines, special 12.7x99 Ammo, Leupold MK4 Scope and Aluminum Case for Transport. Place of Origin: Murfreesboro, TN, USA.</str>
+    
+    <str id="lang/cfg/weaponorder/order/GEGKSG"> Keltec's groundbreaking 12 Gauge Shotgun, the Package includes Case, AN/PEQ-2 for Target Illumination, Aimpoint T-1 Micro RDS, Manual, Cleaning Kit, 20 armor-piercing Sabot-Shells and 30 N4 Shotgun-Shells . Place of Origin: Cocoa , Florida, USA.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEG007"> If you ever wanted to feel like everybody's favorite 00-Agent, look no further. Package includes a Walther PPK with everything a Secret Agent needs plus a Special Edition Gold Lighter. Laser Watch not included. Place of Origin: Bobby Ray's Guns and Things.</str>
+
+	<str id="lang/cfg/weaponorder/order/GEGMP510MM"> We're at Bobby Ray's are proud to deliver a MP5-10mm to you which in no ways is inferior to the FBI issued ones. Package includes four 10mm Magazines, 90 Rounds JHP-Ammo, Silencer, RIS Body Kit, Folding Stock, Surefire Flashlight Foregrip, Barska Red Dot Sight, Medium Transportation Case and Cleaning Kit. Detailed Manual comes along. Place of Origin: Bobby Ray's Guns and Things.</str>
 
 </strings>
