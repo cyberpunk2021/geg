@@ -177,32 +177,7 @@ Item "Revolver Taurus 608 (.357 Magnum)" Level 1 Price 900
 Item "Revolver Taurus 850 (.38 Special)" Level 1 Price 400
 
 
-Item "Revolver Colt SAA 357_4 BK (.357 Magnum)" Level 1 Price 400
-Item "Revolver Colt SAA 357_5 BK (.357 Magnum)" Level 1 Price 550
-Item "Revolver Colt SAA 357_7 BK (.357 Magnum)" Level 2 Price 620
-Item "Revolver Colt SAA 45_4 (.44-40)" Level 1 Price 330
-Item "Revolver Colt SAA 45_4 BK (.44-40)" Level 1 Price 330
-Item "Revolver Colt SAA 45_5 (.44-40)" Level 1 Price 520
-Item "Revolver Colt SAA 45_5 BK (.44-40)" Level 1 Price 520
-Item "Revolver Colt SAA 45_7 (.44-40)" Level 2 Price 600
-Item "Revolver Colt SAA 45_7 BK (.44-40)" Level 2 Price 600
-Item "Revolver Uberti El Patron (.357)" Level 1 Price 600
-Item "Revolver Uberti El Patron W (.357)" Level 1 Price 600
-Item "Revolver Uberti Old West (.357)" Level 1 Price 600
 
-
-Item "Revolver Uberti Callahan (.44)" Level 2 Price 900
-
-Item "Revolver Uberti Cody (.45 Colt)" Level 1 Price 590
-Item "Revolver Uberti Desperado (.45 Colt)" Level 1 Price 590
-Item "Revolver Uberti El Patron (.45 Colt)" Level 1 Price 590
-Item "Revolver Uberti El Patron W (.45 Colt)" Level 1 Price 590
-Item "Revolver Uberti Frisco (.45 Colt)" Level 1 Price 590
-Item "Revolver Uberti Old West (.45 Colt)" Level 1 Price 590
-
-Item "Revolver Colt SAA 45_4 BK (.45 Colt)" Level 1 Price 390
-Item "Revolver Colt SAA 45_5 BK (.45 Colt)" Level 1 Price 540
-Item "Revolver Colt SAA 45_7 BK (.45 Colt)" Level 2 Price 610
 
 Item "Revolver 410 Jury" Level 2 Price 1000
 
@@ -569,9 +544,12 @@ Item	"Food_m_pork" Level 1 Price 60
 Item	"Canteen_st1" Level 1 Price 30
 Item	"Canteen_st2" Level 2 Price 80
 Item	"M406 HE" Level 3 Price 100.0
+Item	"VOG-25"	Level 3 Price 75.0
 Item	"M407 Smoke" Level 3 Price 50.0
 Item "Dynamite Stick" Level 1 Price 20
 Item	"Offensive Hand Grenade Type82-2" Level 2 Price 80.0
+Item "Offensive Hand Grenade Type 97" Level 2 Price 40
+Item "Hand Grenade M24" Level 1 Price 50
 
 
 /////////+++++++++
@@ -800,6 +778,8 @@ Item "Rifle ammo clip (AMD65/20)" Level 2 Price 25
 Item "Rifle ammo clip (Type86S/20)" Level 2 Price 25
 Item "Rifle ammo clip (RK95/30)" Level 4 Price 50
 Item "Double rifle ammo clip (RK95/60)" Level 5 Price 90
+Item "Rifle ammo clip (T81 7.62/30)" Level 3 Price 8
+Item "Double rifle ammo clip (T81 7.62/60)" Level 4 Price 16
 
 Item "Rifle ammo clip (VZ58/30)" Level 3 Price 60
 Item "Rifle double ammo clip (VZ58/60)" Level 4 Price 80
@@ -1001,4 +981,26 @@ Item "Ammo Box 500 Duplex .308" Level 6 Price 100
 Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
 
 
+//MERCHANDISE BLOCK
+Item	"Caja con pornografia"					Level 16	Price	16000
+Item	"vino caro"						Level 16	Price	41000
+Item	"Caja con medicamentos"					Level 16	Price	12500
 
+//PURCHASE
+Item	"Confidencial"						Level 16	Price	2625
+Item	"Military_sectret"					Level 16	Price	3850
+Item	"Rosario_envelope"					Level 16	Price	7700
+Item	"Smartphone"						Level 16	Price	7700
+Item	"Harold_Haroldson"					Level 16	Price	3500
+Item	"Exploration_report"					Level 16	Price	7700
+Item	"Some_drugs"						Level 16	Price	3333
+Item	"Money_euro20"						Level 16	Price	4100
+Item	"Money_euro100"						Level 16	Price	41000
+Item	"Money_euro500"						Level 16	Price	205000
+
+////PURCHASE
+Item	"Pistol Colt Delta Elite (10mm)"			Level 16	Price	3750
+Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
+Item	"Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
+Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	10000
+Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000

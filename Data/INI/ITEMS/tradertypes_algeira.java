@@ -2,6 +2,20 @@
 /////////ALGEIRA ARMY guns
 /////////==========================
 
+Item	"Assault Rifle M4A1 (.300 BLK)"	Level 6 Price			3200
+Item	"Assault Rifle M4A1 CQB (.300 BLK)"	Level 6 Price			3200
+Item	"Assault Rifle M4A1 CQB AG (.300 BLK)"	Level 6 Price			3200
+
+Item "AAC Honey Badger" Level 7 Price 3500
+Item "SW MP15 300BLK CQC" Level 5 Price 2700
+Item "SW MP15 300BLK" Level 6 Price 2900
+Item "MOE Warrior 300BLK" Level 6 Price 3000
+Item "MOE Warrior 300BLK BK" Level 6 Price 3000
+Item "Small Assault Rifle M933 (300BLK)" Level 5 Price 2300
+Item "Assault Rifle M4 SOPMOD (300BLK)" Level 6 Price 2700
+
+Item	"Silencer CYCLONE-K (.300 BLK)"	Level 5 Price			1500
+Item	"762x51 Suppressor (.300 BLK)"	Level 5 Price			2250
 
 ////NEW ARMY WEAPONS
 
@@ -12,9 +26,7 @@ Item	"Submachine-gun FN P90 TR (5.7mm)" Level 6 Price 	2500
 Item	"Submachine-gun FN P90 (5.7mm)" Level 6 Price 		2500
 Item	"Pistol clip (FN/20)" Level 1 Price                                 65.0
 Item	"SMG ammo clip (P90/50)" Level 2 Price                              85.0
-Item	"Ammo box (SS193)" Level 5 Price                                     0.001
-Item	"Ammo box (SS192)" Level 4 Price                                     0.001
-Item	"Ammo box (SS190)" Level 3 Price                                     0.001
+
 
 Item "Submachine-gun Pindad PM3 (9mm)" Level 6 Price 2100
 Item "Submachine-gun Pindad PM3 (9mm) folded" Level 6 Price 2100
@@ -1280,5 +1292,31 @@ Item "Ammo box 500 (00 Algeira)" Level 2 Price 100
 Item "Ammo box (30-06)" Level 2 Price 0.001
 Item "Big Ammo box (5.56)" Level 2 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
+Item "Ammo box (10mm SP)" Level 1 Price 0.001
+Item "PackedAmmoBox Algeira (10mm/500)" Level 2 Price 600
 
+Item "Ammo box (.300 Rem 220grn)" Level 2 Price 0.001
+Item "PackedAmmoBox Algeira (300 BLK/500)" Level 3 Price 1632
 
+Item "Ammo box 6.8x43 FMJ" Level 3 Price 0.001
+
+Item "PackedAmmoBox Algeira (6.8 SPC/500)" Level 4 Price 1056
+
+Item "Ammo box (.300 WM SP)" Level 6 Price 0.001
+
+Item "PackedAmmoBox Algeira (.300 WM/500)" Level 7 Price 1240
+
+Item "Ammo box Surplus (Lapua/20)" Level 8 Price 0.001
+
+Item "PackedAmmoBox Algeira (.338 Lapua/500)" Level 9 Price 1772
+
+/////////
+//5.7
+/////////
+
+Item "Ammo box (SS193)" Level 5 Price 0.001
+Item "Ammo box (SS192)" Level 4 Price 0.001
+Item "Ammo box (SS190)" Level 3 Price 0.001
+Item "Big Ammo box (SS190)" Level 4 Price 100
+Item "Big Ammo box (SS192)" Level 5 Price 100
+Item "Big Ammo box (SS193)" Level 6 Price 100

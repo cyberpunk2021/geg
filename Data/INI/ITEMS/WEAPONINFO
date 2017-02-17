@@ -96813,7 +96813,7 @@ ReLockSound		"Weapon\ReLock\SV-98_slide.wav"
 ShootSound		"Weapon\Shoot\barret_fire.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "AK"
+ATT Scope		1 "SVD"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0

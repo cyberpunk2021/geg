@@ -6,6 +6,8 @@
 Item	"Confidencial"						Level 16	Price	5250
 Item	"Military_sectret"					Level 16	Price	7700
 
+Item "DPM/RP-46 Kit" Level 3 Price 150
+
 //////////
 
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
@@ -357,11 +359,7 @@ Item	"Collimator AEK919K" Level 2 Price 			100.0
 
 Item	"Pistol clip (PSS/6)" Level 1 Price 			20.0
 
-Item	"Ammo Box (23s10)" Level 3 Price     0.5
-Item	"Ammo Box (23s25)" Level 3 Price         0.5
-Item	"Ammo Box (23b)" Level 3 Price        0.5
-Item	"Ammo box (23v)" Level 3 Price 			0.5
-Item	"Ammo box (SP-4)" Level 1 Price 			0.001
+
 
 Item	"Shotgun KS-23 (23mm)" Level 4 Price 			2000.0
 Item	"Shotgun TOZ-123 (23mm)" Level 3 Price 		1800
@@ -523,8 +521,8 @@ Item	"Heavy Armor Bastion"	Level 10 Price			3500.0
 Item	"Heavy Armor Predator"	Level 8 Price			3300.0
 Item	"Tactical Armor Vizov"		Level 4 Price		1100.0
 
-Item	"VOG-25"	Level 3 Price				75.0
-Item	"VOG-25P"	Level 4 Price				75.0
+Item	"VOG-25"	Level 3 Price 75.0
+Item	"VOG-25P"	Level 4 Price 75.0
 
 /////////+++++++++
 /////////PACKEDBOX
@@ -684,3 +682,9 @@ Item "Ammo box (SP-10)" Level 2 Price 0.001
 Item "Ammo box (SP-11)" Level 2 Price 0.001
 Item "Ammo box 500 (SP-10)" Level 3 Price 100.0
 Item "Ammo box 500 (SP-11)" Level 3 Price 100.0
+
+/////////
+//PSS 7.62x42
+/////////
+
+Item "Ammo box (SP-4)" Level 1 Price 0.001

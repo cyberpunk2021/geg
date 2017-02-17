@@ -3,6 +3,7 @@
 /////////==========================
 
 
+
 ////WEAPONS FOR COPS
 
 Item	"Ammo box (Rubber)"	Level 1 Price			0.001
@@ -1213,6 +1214,7 @@ Item "Ammo box 500 (223 Norinco)" Level 4 Price 100
 Item "Ammo Box Duplex .308" Level 5 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
-
+Item "Ammo box (10mm SP)" Level 1 Price 0.001
+Item "PackedAmmoBox Algeira (10mm/500)" Level 2 Price 600
 
 
