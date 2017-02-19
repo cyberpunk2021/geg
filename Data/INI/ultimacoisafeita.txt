@@ -2227,6 +2227,7 @@ fn falo bipod bug
 mg15 bipod bug
 
 colocar IMC-40 GL nas galils
+fazer stats winchester 70 e outros hunting rifles
 
 colocar mg4 e madsen bipod em tuning.lua
 
