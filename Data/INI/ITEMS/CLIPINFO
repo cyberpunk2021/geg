@@ -4344,34 +4344,34 @@ IMAGE  "m16_pmag30.e5b"
 DEFAMMO  "Rem.300 220grn"
 
 
-CLIP  "Magpul PMAG Window (Badger/30)"".300 AAC Blackout""BADGER"30 141 "None"2000 
+CLIP  "Magpul PMAG Window (Badger/30)"".300 AAC Blackout""300 BLK"30 141 "None"2000 
 ACTOR  "Items\emag.act"
 USEPREFIX  ""
 IMAGE  "emag.e5b"
 DEFAMMO  "Rem.300 220grn"
 
-CLIP  "Rifle ammo clip PMAG Tan (Badger/30)"".300 AAC Blackout""BADGER"30 141 "None"3000 
+CLIP  "Rifle ammo clip PMAG Tan (Badger/30)"".300 AAC Blackout""300 BLK"30 141 "None"3000 
 ACTOR  "Items\emagtan.act"
 USEPREFIX  ""
 IMAGE  "emagtan.e5b"
 DEFAMMO  "Rem.300 220grn"
 
-CLIP  "Magpul PMAG Tan Window New (Badger/30)"".300 AAC Blackout""BADGER"30 141 "None"3000 
+CLIP  "Magpul PMAG Tan Window New (Badger/30)"".300 AAC Blackout""300 BLK"30 141 "None"3000 
 ACTOR  "Items\pmagnew_tan.act"
 USEPREFIX  ""
 IMAGE  "magpulnewtan.e5b"
 DEFAMMO  "Rem.300 220grn"
-CLIP  "Magpul PMAG Tan Window New Rub (Badger/30)"".300 AAC Blackout""BADGER"30 145 "None"3000 
+CLIP  "Magpul PMAG Tan Window New Rub (Badger/30)"".300 AAC Blackout""300 BLK"30 145 "None"3000 
 ACTOR  "Items\pmagnew_tan_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewtanrub.e5b"
 DEFAMMO  "Rem.300 220grn"
-CLIP  "Magpul PMAG Tan Window BLK New (Badger/30)"".300 AAC Blackout""BADGER"30 141 "None"3000 
+CLIP  "Magpul PMAG Tan Window BLK New (Badger/30)"".300 AAC Blackout""300 BLK"30 141 "None"3000 
 ACTOR  "Items\pmagnew_black.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblack.e5b"
 DEFAMMO  "Rem.300 220grn"
-CLIP  "Magpul PMAG Tan Window New BLK Rub (Badger/30)"".300 AAC Blackout""BADGER"30 145 "None"3000 
+CLIP  "Magpul PMAG Tan Window New BLK Rub (Badger/30)"".300 AAC Blackout""300 BLK"30 145 "None"3000 
 ACTOR  "Items\pmagnew_black_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"

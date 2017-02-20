@@ -66378,7 +66378,7 @@ ATT Bipod		1 "WRFG"
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Integrated Silencer (AAC Honey Badger)"
 StdPlug			"honeybadgerbutt"
@@ -66418,7 +66418,7 @@ ATT Bipod		1 "WRFG"
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Integrated Silencer (AAC Honey Badger)"
 StdPlug			"honeybadgerbutt_folded"
@@ -66458,7 +66458,7 @@ ATT Bipod		0
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Integrated Silencer (AAC Honey Badger)"
 StdPlug			"honeybadgerbutt"
@@ -66498,7 +66498,7 @@ ATT Bipod		0
 ATT Silencer	1 "built-in"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Integrated Silencer (AAC Honey Badger)"
 StdPlug			"honeybadgerbutt_folded"
@@ -66538,7 +66538,7 @@ ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\swmp15psxCQC.act"
@@ -66577,7 +66577,7 @@ ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\swmp15psxCQC.act"
@@ -66616,7 +66616,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\swmp15psxCQCFG.act"
@@ -66655,7 +66655,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\swmp15psxCQCFG.act"
@@ -66670,7 +66670,7 @@ PrepareTime		0.32
 SingleFireTime	0.7
 BurstFireTime	0.08
 SpeedModifier	1.01
-Resource		19000
+Resource		1900
 DirtResource	190000
 MisfireProb		0.003
 HeatCapacity	50
@@ -66694,7 +66694,7 @@ ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\swmp15psx.act"
@@ -66709,7 +66709,7 @@ PrepareTime		0.32
 SingleFireTime	0.7
 BurstFireTime	0.08
 SpeedModifier	1.01
-Resource		19000
+Resource		1900
 DirtResource	190000
 MisfireProb		0.003
 HeatCapacity	70
@@ -66733,7 +66733,7 @@ ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\swmp15psx.act"
@@ -66748,7 +66748,7 @@ PrepareTime		0.32
 SingleFireTime	0.68
 BurstFireTime	0.08
 SpeedModifier	1.01
-Resource		19000
+Resource		1900
 DirtResource	190000
 MisfireProb		0.003
 HeatCapacity	50
@@ -66772,7 +66772,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\SWMP15PSXFG.act"
@@ -66787,7 +66787,7 @@ PrepareTime		0.32
 SingleFireTime	0.68
 BurstFireTime	0.08
 SpeedModifier	1.01
-Resource		19000
+Resource		1900
 DirtResource	190000
 MisfireProb		0.003
 HeatCapacity	70
@@ -66811,7 +66811,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\SWMP15PSXFG.act"
@@ -66850,7 +66850,7 @@ ATT Bipod		1 "built-in"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt2"
@@ -66890,7 +66890,7 @@ ATT Bipod		1 "built-in"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt2_folded"
@@ -66930,7 +66930,7 @@ ATT Bipod		1 "built-in"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
@@ -66970,7 +66970,7 @@ ATT Bipod		1 "built-in"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
@@ -67010,7 +67010,7 @@ ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\m933.act"
@@ -67049,7 +67049,7 @@ ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\m933.act"
@@ -67088,7 +67088,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\colt_933_grip.act"
@@ -67127,7 +67127,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\colt_933_grip.act"
@@ -67166,7 +67166,7 @@ ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\m4sopmod.act"
@@ -67205,7 +67205,7 @@ ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\m4sopmod.act"
@@ -67244,7 +67244,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt"
 ACTOR			"Items\m4sopmodfg.act"
@@ -67283,7 +67283,7 @@ ATT Bipod		0
 ATT Silencer	1 ".300 BLK" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
-ATT Magazine	1 "BADGER"
+ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"M4MOD_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
