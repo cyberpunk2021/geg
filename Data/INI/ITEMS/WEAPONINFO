@@ -31051,7 +31051,7 @@ ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (KS23/3)"
 ACTOR			"Items\TOZ-123w.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtShotgun
 
 /////----------------------------

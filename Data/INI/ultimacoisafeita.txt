@@ -2228,6 +2228,8 @@ mg15 bipod bug
 
 colocar IMC-40 GL nas galils
 fazer stats winchester 70 e outros hunting rifles
+tmp30 dark mag bug
+bulldog fg modelo com mag
 
 colocar mg4 e madsen bipod em tuning.lua
 
