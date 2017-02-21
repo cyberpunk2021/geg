@@ -348,7 +348,6 @@ Item	"Assault Rifle Groza-1 (9x39mm)" Level 7 Price 	2400
 Item	"Assault Rifle Groza-2 (9x39mm)" Level 7 Price 	2400
 Item	"Assault Rifle Groza-3 (9x39mm)" Level 7 Price 	2400
 Item	"Rifle ammo clip (Groza/20)" Level 2 Price 		10.0
-Item	"Ammo box (PAB-9)" Level 2 Price 			0.001
 
 Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 	1400.0
 
@@ -675,6 +674,16 @@ Item "Ammo Box 40 (23s25)" Level 5 Price 100
 Item "Ammo box 40 (23v)" Level 5 Price 100
 
 /////////
+//12.7x108mm
+/////////
+
+Item "Ammo Box (12.7x108mm Surplus)" Level 10 Price 0.001
+Item "Ammo Box (12.7x108mm FMJ)" Level 13 Price 0.001
+
+Item "Ammo Box 500 (12.7x108mm Surplus)" Level 11 Price 100
+Item "Ammo Box 500 (12.7x108mm FMJ)" Level 14 Price 100
+
+/////////
 //9x21
 /////////
 
@@ -688,3 +697,19 @@ Item "Ammo box 500 (SP-11)" Level 3 Price 100.0
 /////////
 
 Item "Ammo box (SP-4)" Level 1 Price 0.001
+
+/////////
+//14.5x114mm
+/////////
+
+Item "Ammo Box (14.5x114mm BS)" Level 6 Price 0.001
+Item "Ammo Box (14.5x114mm B32)" Level 6 Price 0.001
+Item "Ammo Box (14.5x114mm DGJ02)" Level 6 Price 0.001
+Item "Ammo Box (14.5x114mm Surplus)" Level 4 Price 0.001
+
+Item "Ammo Box 500 (14.5x114mm BS)" Level 7 Price 100
+Item "Ammo Box 500 (14.5x114mm B32)" Level 7 Price 100
+Item "Ammo Box 500 (14.5x114mm DGJ02)" Level 7 Price 100
+Item "Ammo Box 500 (14.5x114mm Surplus)" Level 5 Price 100
+
+

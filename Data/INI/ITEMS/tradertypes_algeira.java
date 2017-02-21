@@ -2,6 +2,9 @@
 /////////ALGEIRA ARMY guns
 /////////==========================
 
+Item	"Confidencial_Pali"						Level 16	Price	6000
+Item	"Military_sectret"					Level 16	Price	33000
+
 Item	"Assault Rifle M4A1 (.300 BLK)"	Level 6 Price			3200
 Item	"Assault Rifle M4A1 CQB (.300 BLK)"	Level 6 Price			3200
 Item	"Assault Rifle M4A1 CQB AG (.300 BLK)"	Level 6 Price			3200

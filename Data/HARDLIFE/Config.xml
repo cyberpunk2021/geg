@@ -1397,8 +1397,8 @@
     Списки предметов для получения экипировки в зависимости от навыков
     -->
     <StartEquipment
-        SlaveGirlPistol="Colt Python"
-        MarseloTronPistol="Pistol OTs-33 Pernach (9x18mm)"
+        SlaveGirlPistol="Revolver REX (.357)"
+        MarseloTronPistol="Pistol Glock 40 (10mm)"
         SWATCommanderPistol="Pistol Glock 18c (9mm)"
         SWATSniperRifle="Sniper Rifle Remington 700 Police LTR (.308)"
 

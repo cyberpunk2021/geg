@@ -988,6 +988,7 @@ Item	"Caja con medicamentos"					Level 16	Price	12500
 
 //PURCHASE
 Item	"Confidencial"						Level 16	Price	2625
+Item	"Confidencial_Pali"						Level 16	Price	2625
 Item	"Military_sectret"					Level 16	Price	3850
 Item	"Rosario_envelope"					Level 16	Price	7700
 Item	"Smartphone"						Level 16	Price	7700
