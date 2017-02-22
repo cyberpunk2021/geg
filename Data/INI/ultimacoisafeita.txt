@@ -2233,6 +2233,7 @@ bulldog fg modelo com mag
 pindad ss1 v3 falta iteminfo
 verificar se m16a2+m203 modelo funciona no jogo
 original fn fnc (pindad ss1) verificar itembones
+6.8 spc mag clipped faltando
 
 colocar mg4 e madsen bipod em tuning.lua
 

@@ -55488,7 +55488,7 @@ ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovarus.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (5.45mm) folded"
@@ -55726,7 +55726,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnova.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (5.56mm) folded"
@@ -55964,7 +55964,7 @@ ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnova.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (6.8mm) folded"
@@ -56202,7 +56202,7 @@ ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovarus.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (7.62mm) folded"
@@ -56440,7 +56440,7 @@ ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnova.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (7.62x51mm) folded"
