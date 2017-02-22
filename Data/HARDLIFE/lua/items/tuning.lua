@@ -59,6 +59,7 @@ end
  ["Assault Rifle DaewooK2O (5.56mm)"] = "Assault Rifle DaewooK2R (5.56mm)",
  ["Assault Rifle DaewooK2O (5.56mm) folded"] = "Assault Rifle DaewooK2R (5.56mm) folded",
  ["Assault Rifle M4A1 (5.56mm)"] = "Assault Rifle M4A1 RIS (5.56mm)",
+ ["Assault Rifle M4A1 (5.56mm) folded"] = "Assault Rifle M4A1 RIS (5.56mm) folded",
 -- ["Assault Rifle Galil SAR (5.56mm)"] = "Assault Rifle Galil SAR (5.56mm)+M203",
 -- ["Assault Rifle Galil AR (5.56mm)"] = "Assault Rifle Galil AR (5.56mm)+M203",
 --parts
@@ -83,15 +84,16 @@ end
  ["Submachine-gun HK MP5A5 RIS (.40 S&W) folded"] = "Submachine-gun HK MP5A5 (.40 S&W) folded",
  ["Submachine-gun HK MP5A5 RIS (10)"] = "HK MP5A3 (10)",
  ["Submachine-gun HK MP5A5 RIS (10) folded"] = "HK MP5A3 (10) folded",
+ ["HK MP5A5 RIS (22)"] = "HK MP5A3 (22)",
+ ["HK MP5A5 RIS (22) folded"] = "HK MP5A3 (22) folded",
  ["Assault Rifle DaewooK1R (5.56mm)"] = "Assault Rifle DaewooK1O (5.56mm)",
  ["Assault Rifle DaewooK1R (5.56mm) folded"] = "Assault Rifle DaewooK1O (5.56mm) folded",
  ["Assault Rifle DaewooK2R (5.56mm)"] = "Assault Rifle DaewooK2O (5.56mm)",
  ["Assault Rifle DaewooK2R (5.56mm) folded"] = "Assault Rifle DaewooK2O (5.56mm) folded",
- ["HK MP5A5 RIS (22)"] = "HK MP5A3 (22)",
- ["HK MP5A5 RIS (22) folded"] = "HK MP5A3 (22) folded",
  ["Assault Rifle HK53A3 RIS (5.56mm)"] = "Assault Rifle HK53A3 (5.56mm)",
  ["Assault Rifle HK53A3 RIS (5.56mm) folded"] = "Assault Rifle HK53A3 (5.56mm) folded",
  ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 (5.56mm)",
+ ["Assault Rifle M4A1 RIS (5.56mm) folded"] = "Assault Rifle M4A1 (5.56mm) folded",
  --["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
  --["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
 }
@@ -249,16 +251,62 @@ end
 
 function CanAddForestock(item)
 	local monster = GetCurrentMerc()
+	local ForestockCompatibility = {
+		["Submachine-gun HK MP5A5 RIS (9mm)"] = "MP5 forestock",
+		["Submachine-gun HK MP5A5 RIS (9mm) folded"] = "MP5 forestock",
+		["Submachine-gun NR-08 RIS (9mm)"] = "MP5 forestock",
+		["Submachine-gun NR-08 RIS (9mm) folded"] = "MP5 forestock",
+		["Submachine-gun HK MP5A5 RIS (.40 S&W)"] = "MP5 forestock",
+		["Submachine-gun HK MP5A5 RIS (.40 S&W) folded"] = "MP5 forestock",
+		["Submachine-gun HK MP5A5 RIS (10)"] = "MP5 forestock",
+		["Submachine-gun HK MP5A5 RIS (10) folded"] = "MP5 forestock",
+		["HK MP5A5 RIS (22)"] = "MP5 forestock",
+		["HK MP5A5 RIS (22) folded"] = "MP5 forestock",
+		["Assault Rifle DaewooK1R (5.56mm)"] = "DaewooHG",
+		["Assault Rifle DaewooK1R (5.56mm) folded"] = "DaewooHG",
+		["Assault Rifle DaewooK2R (5.56mm)"] = "DaewooHG",
+		["Assault Rifle DaewooK2R (5.56mm) folded"] = "DaewooHG",
+		["Assault Rifle HK53A3 RIS (5.56mm)"] = "HK53 forestock",
+		["Assault Rifle HK53A3 RIS (5.56mm) folded"] = "HK53 forestock",
+		["Assault Rifle M4A1 RIS (5.56mm)"] = "M4 forestock",
+		["Assault Rifle M4A1 RIS (5.56mm) folded"] = "M4 forestock",
+	}
+
 	-- проверяем что доступна модификация цевья
-	return	CanModWeapon(monster, item)
-		and RISForestockItems[monster:GetHands():GetName()] ~= nil
+	if ForestockCompatibility[monster:GetHands():GetName()] == item:GetName() then
+		return	CanModWeapon(monster, item)
+			and RISForestockItems[monster:GetHands():GetName()] ~= nil
+	end
 end
 
 function CanAddRISForestock(item)
 	local monster = GetCurrentMerc()
+	local RISForestockCompatibility = {
+		["Submachine-gun HK MP5A5 (9mm)"] = "MP5 forestock RIS",
+		["Submachine-gun HK MP5A5 (9mm) folded"] = "MP5 forestock RIS",
+		["Submachine-gun NR-08 (9mm)"] = "MP5 forestock RIS",
+		["Submachine-gun NR-08 (9mm) folded"] = "MP5 forestock RIS",
+		["Submachine-gun HK MP5A5 (.40 S&W)"] = "MP5 forestock RIS",
+		["Submachine-gun HK MP5A5 (.40 S&W) folded"] = "MP5 forestock RIS",
+		["HK MP5A3 (10)"] = "MP5 forestock RIS",
+		["HK MP5A3 (10) folded"] = "MP5 forestock RIS",
+		["HK MP5A3 (22)"] = "MP5 forestock RIS",
+		["HK MP5A3 (22) folded"] = "MP5 forestock RIS",
+		["Assault Rifle HK53A3 (5.56mm)"] = "HK53 forestock RIS",
+		["Assault Rifle HK53A3 (5.56mm) folded"] = "HK53 forestock RIS",
+		["Assault Rifle DaewooK1O (5.56mm)"] = "DaewooRIS",
+		["Assault Rifle DaewooK1O (5.56mm) folded"] = "DaewooRIS",
+		["Assault Rifle DaewooK2O (5.56mm)"] = "DaewooRIS",
+		["Assault Rifle DaewooK2O (5.56mm) folded"] = "DaewooRIS",
+		["Assault Rifle M4A1 (5.56mm)"] = "M4 forestock RIS",
+		["Assault Rifle M4A1 (5.56mm) folded"] = "M4 forestock RIS",
+	}
+
 	-- проверяем что доступна модификация цевья
-	return	CanModWeapon(monster, item)
-		and ForestockItems[monster:GetHands():GetName()] ~= nil
+	if RISForestockCompatibility[monster:GetHands():GetName()] == item:GetName() then
+		return	CanModWeapon(monster, item)
+			and ForestockItems[monster:GetHands():GetName()] ~= nil
+	end
 end
 
 function CanChangeFoldStock(item)
