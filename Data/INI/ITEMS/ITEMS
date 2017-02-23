@@ -1,966 +1,966 @@
 "Cleaning Kit"
-CleaningKit  
+CleaningKit
 None  "Items\cleaningkit.act""cleaningkit.e5b"
 Usages  10
-780 
+780
 
 "catty_eye"
-Medikit  
+Medikit
 None  "Items\ration1.act""ration1.e5b"
-MedikitBox  
-Speed  0 
-Energy  1 
-ADuration  2 
-Usages  1 
+MedikitBox
+Speed  0
+Energy  1
+ADuration  2
+Usages  1
 70
 
 "Field Paramedic Kit4"
-Medikit  
+Medikit
 None  "Items\field_paramedickit4.act""paramedikit4.e5b"
-MedikitBox  
-Speed  3 
-Energy  0 
-ADuration  120 
-Usages  20 
-HealsDamages  
-5200 
+MedikitBox
+Speed  3
+Energy  0
+ADuration  120
+Usages  20
+HealsDamages
+5200
 
 "Field Paramedic Kit5"
-Medikit  
+Medikit
 None  "Items\imp_medkit.act""imp_medkit.e5b"
-MedikitBox  
-Speed  2 
-Energy  0 
-ADuration  120 
-Usages  10 
-2200 
+MedikitBox
+Speed  2
+Energy  0
+ADuration  120
+Usages  10
+2200
 
 "Field Paramedic Kit3"
-Medikit  
+Medikit
 None  "Items\field_paramedickit3.act""paramedikit3.e5b"
-MedikitBox  
-Speed  2 
-Energy  0 
-ADuration  120 
-Usages  5 
-970 
+MedikitBox
+Speed  2
+Energy  0
+ADuration  120
+Usages  5
+970
 
 "Flask"
-Medikit  
+Medikit
 None  "Items\flask.act""flask.e5b"
-Flask  
-Speed  0 
-Energy  1 
-ADuration  0 
-Usages  3 
-800 
+Flask
+Speed  0
+Energy  1
+ADuration  0
+Usages  3
+800
 
 "BottleOfWater"
-Medikit  
+Medikit
 None  "Items\agua.act""agua.e5b"
-Flask  
-Speed  0 
-Energy  1 
-ADuration  0 
-Usages  5 
-1050 
+Flask
+Speed  0
+Energy  1
+ADuration  0
+Usages  5
+1050
 
 "BottleOfWaterMini"
-Medikit  
+Medikit
 None  "Items\agua33.act""agua33.e5b"
-Flask  
-Speed  0 
-Energy  1 
-ADuration  0 
-Usages  2 
-350 
+Flask
+Speed  0
+Energy  1
+ADuration  0
+Usages  2
+350
 
 "Field Paramedic Kit2"
-Medikit  
+Medikit
 None  "Items\field_paramedickit2.act""paramedikit2.e5b"
-MedikitBox  
-Speed  1 
-Energy  0 
-ADuration  120 
-Usages  3 
-350 
+MedikitBox
+Speed  1
+Energy  0
+ADuration  120
+Usages  3
+350
 
 "Field Paramedic Kit1"
-Medikit  
+Medikit
 None  "Items\field_paramedickit.act""paramedikit.e5b"
-MedikitBox  
-Speed  1 
-Energy  0 
-ADuration  0 
-Usages  2 
-100 
+MedikitBox
+Speed  1
+Energy  0
+ADuration  0
+Usages  2
+100
 
 "Field Paramedic Kit"
-Medikit  
+Medikit
 None  "Items\band_civ.act""band_civ.e5b"
-MedikitBox  
-Speed  1 
-Energy  0 
-ADuration  0 
-Usages  2 
-100 
+MedikitBox
+Speed  1
+Energy  0
+ADuration  0
+Usages  2
+100
 
 "Tablets"
-Medikit  
+Medikit
 None  "Items\cure.act""finadurin.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  1 
-Usages  10 
-10 
+Flask
+Speed  0
+Energy  0
+ADuration  1
+Usages  10
+10
 
 "Capsule"
-Medikit  
+Medikit
 None  "Items\sect_drug.act""sect_drug.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  0 
-Usages  3 
-15 
+Flask
+Speed  0
+Energy  0
+ADuration  0
+Usages  3
+15
 
 "morphine"
-Medikit  
+Medikit
 None  "Items\morphine.act""morphine.e5b"
-Ampoule  
-Speed  0 
-Energy  0 
-ADuration  120 
-Usages  1 
-20 
+Ampoule
+Speed  0
+Energy  0
+ADuration  120
+Usages  1
+20
 
 "amphetamine"
-Medikit  
+Medikit
 None  "Items\amphetamine.act""amphetamine.e5b"
-Ampoule  
-Speed  0 
-Energy  2 
-ADuration  90 
-Usages  1 
-20 
+Ampoule
+Speed  0
+Energy  2
+ADuration  90
+Usages  1
+20
 
 "Epipen"
-Medikit  
+Medikit
 None  "Items\epipen.act""epipen.e5b"
-Ampoule  
-Speed  0 
-Energy  30 
-ADuration  0 
-Usages  1 
-15 
+Ampoule
+Speed  0
+Energy  30
+ADuration  0
+Usages  1
+15
 
 "Some_drugs"
-Medikit  
+Medikit
 None  "Items\drug.act""some_drugs.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  1 
-Usages  75 
-112 
+Flask
+Speed  0
+Energy  0
+ADuration  1
+Usages  75
+112
 
 "Camo Kit"
-CamoKit  
+CamoKit
 None  "Items\camo.act""camo.e5b"
-Usages  1 
-100 
+Usages  1
+100
 
 "Tape"
-Tape  
+Tape
 None  "Items\tape.act""tape.e5b"
-Usages  10 
+Usages  10
 50
 
 "Wire"
-None  
+None
 None  "Items\wire.act""wire.e5b"
-50 
+50
 
 "Money"
-CreditCard  
+CreditCard
 None  "Items\money.act""money.e6b"
-0 
+0
 
 "Pen"
-None  
+None
 None  "Items\pen.act""pen.e5b"
-10 
+10
 
 "Pencil"
-None  
+None
 None  "Items\pencil.act""pencil.e5b"
-15 
+15
 
 "Cd"
-None  
+None
 None  "Items\cd.act""cd.e5b"
-40 
+40
 
 "RadioBatt"
-None  
+None
 None  "Items\radiobatt.act""radiobatt.e5b"
-1000 
+1000
 
 "RadioBatt_uc"
-None  
+None
 None  "Items\radiobatt.act""radiobatt_uc.e5b"
-1000 
+1000
 
 "Fishing tackle"
-None  
+None
 None  "Items\tackle.act""tackle.e5b"
-57 
+57
 
 "PayCard_mobile"
-None  
+None
 None  "Items\mob_paycard.act""mob_paycard.e5b"
-5 
+5
 
 "PayCard_phone"
-None  
+None
 None  "Items\phonecard.act""phonecard.e5b"
-5 
+5
 
 "Camera_sdcard"
-None  
+None
 None  "Items\flashcard.act""flashcard.e5b"
-5 
+5
 
 "Navigator_gps"
-None  
+None
 None  "Items\gps_nav.act""gps_nav.e5b"
-150 
+150
 
 "PhoneMoto"
-None  
+None
 None  "Items\iphone6.act""iphone6.e5b"
-143 
+143
 
 "PhoneMoto0"
-None  
+None
 None  "Items\iphone6.act""iphone6.e5b"
 143
 
 "PhoneBrick"
-None  
+None
 None  "Items\s3galaxy.act""S3GALAXY.e5b"
-300 
+300
 
 "PhoneBrick0"
-None  
+None
 None  "Items\s3galaxy.act""S3GALAXY.e5b"
-300 
+300
 
 "Camera"
-None  
+None
 None  "Items\camera.act""camera.e5b"
-200 
+200
 
 "PVS-7B"
-None  
+None
 None  "Items\pvs-7b.act""pvs-7b.e5b"
-750 
+750
 
 "PVS-7B_up"
-None  
+None
 None  "Items\pvs-7b.act""pvs-7b_up.e5b"
-750 
+750
 
 "LRS900"
-None  
+None
 None  "Items\lrs900.act""lrs900.e5b"
-500 
+500
 
 "Notebook"
-None  
+None
 None  "Items\Note_closed.act""Note_closed.e5b"
-4000 
+4000
 
 "portable_radio"
-None  
+None
 None  "Items\portable_radio.act""portable_radio.e5b"
 8700
 
 "Food_bag"
-None  
+None
 None  "Items\cooler.act""cooler.e5b"
-6000 
+6000
 
 "Food_irpb"
-None  
+None
 None  "Items\mre.act""mreicon.e5b"
-600 
+600
 
 "Food_ration"
-None  
+None
 None  "Items\ration.act""ration.e5b"
-500 
+500
 
 "Food_bread"
-None  
+None
 None  "Items\bread.act""bread.e5b"
-500 
+500
 
 "Food_meat_c"
-None  
+None
 None  "Items\meat_c.act""meat_c.e5b"
-500 
+500
 
 "Food_meat_f"
-None  
+None
 None  "Items\meat_f.act""meat_f.e5b"
-370 
+370
 
 "Food_fish_c"
-None  
+None
 None  "Items\fish_c.act""fish_c.e5b"
-400 
+400
 
 "Food_fish_f"
-None  
+None
 None  "Items\fish_f.act""fish_f.e5b"
-280 
+280
 
 "Food_coconut"
-None  
+None
 None  "Items\coconut.act""coconut.e5b"
-1700 
+1700
 
 "Food_banan"
-None  
+None
 None  "Items\banana.act""banan.e5b"
-147 
+147
 
 "Food_orange"
-None  
+None
 None  "Items\orange.act""orange.e5b"
-137 
+137
 
 "Food_pear_c"
-None  
+None
 None  "Items\pear_c.act""pear_c.e5b"
-210 
+210
 
 "Food_pear_w"
-None  
+None
 None  "Items\pear_w.act""pear_w.e5b"
-230 
+230
 
 "Food_apple_c"
-None  
+None
 None  "Items\apple_c.act""apple_c.e5b"
-130 
+130
 
 "Food_apple_w"
-None  
+None
 None  "Items\apple_w.act""apple_w.e5b"
-120 
+120
 
 "Food_chocolate"
-None  
+None
 None  "Items\chocolate.act""chocolate.e5b"
-105 
+105
 
 "Food_beans"
-None  
+None
 None  "Items\beans.act""beans.e5b"
-450 
+450
 
 "Food_m_beef"
-None  
+None
 None  "Items\tusn_m_sin.act""tusn_m_sin.e5b"
-260 
+260
 
 "Food_m_mutton"
-None  
+None
 None  "Items\tusn_m_zel.act""tusn_m_zel.e5b"
-260 
+260
 
 "Food_m_pork"
-None  
+None
 None  "Items\tusn_m_kra.act""tusn_m_kra.e5b"
-260 
+260
 
 "Food_sardinas"
-None  
+None
 None  "Items\sardinas.act""sardinas.e5b"
-350 
+350
 
 "Food_tush_gov"
-None  
+None
 None  "Items\tush_gov.act""tush_gov.e5b"
-400 
+400
 
 "Fuze_m605"
-None  
+None
 None  "Items\m605-fuze.act""m605-fuze.e5b"
-50 
+50
 
 "Fuze_muv"
-None  
+None
 None  "Items\muv_fuze.act""muv_fuze.e5b"
-50 
+50
 
 "Fuze_mve72"
-None  
+None
 None  "Items\mve72_fuze.act""mve72_fuze.e5b"
-90 
+90
 
 "Fuze_radio"
-None  
+None
 None  "Items\radio_fuze.act""radio_fuze.e5b"
-70 
+70
 
 "Fuze_dynamite"
-None  
+None
 None  "Items\mve72_fuze.act""mve72_fuze.e5b"
-15 
+15
 
 "Fuze_grenade"
-None  
+None
 None  "Items\m605-fuze.act""m605-fuze.e5b"
 40
 
 "Fuze_rpg40"
-None  
+None
 None  "Items\shaft_rpg40.act""shaft_rpg40.e5b"
 120
 
 "Fuze_grenade_m24"
-None  
+None
 None  "Items\shaft_m24.act""shaft_m24.e5b"
 30
 
 "Fuze_RPG2"
-None  
+None
 None  "Items\shaft_rpg2.act""shaft_rpg2.e5b"
 300
 
 "Fuze_RPG7"
-None  
+None
 None  "Items\shaft_rpg7.act""shaft_rpg7.e5b"
 500
 
 "Remote Mine Controller"
-MineController  
+MineController
 None  "Items\MineRemoteController.act""MineRemoteController.e5b"
-400 
+400
 
 "Gold"
-None  
+None
 None  "Items\gold.act""gold.e5b"
-1000 
+1000
 
 "Gold_medallion"
-None  
+None
 None  "Items\medallion.act""medalion.e5b"
-17 
+17
 
 "Gold_ore"
-None  
+None
 None  "Items\gold_ore.act""gold_ore.e5b"
-532 
+532
 
 "Forgery kit"
-None  
+None
 None  "Items\forgery_kit.act""forgery_kit.e5b"
-1250 
+1250
 
 "IDSpecial_dud"
-None  
+None
 None  "Items\IDSpecial0.act""IDSpecial.e5b"
-50 
+50
 
 "IDMilitary_dud"
-None  
+None
 None  "Items\IDMilitary0.act""IDMilitary.e5b"
-50 
+50
 
 "IDPolice_dud"
-None  
+None
 None  "Items\IDPolice0.act""IDPolice.e5b"
 50
 
 "IDSpecial"
-None  
+None
 None  "Items\IDSpecial.act""IDSpecial.e5b"
-50 
+50
 
 "IDSpecial_nl"
-None  
+None
 None  "Items\IDSpecial1.act""IDSpecial.e5b"
-50 
+50
 
 "IDMilitary"
-None  
+None
 None  "Items\IDMilitary.act""IDMilitary.e5b"
-50 
+50
 
 "IDMilitary_nl"
-None  
+None
 None  "Items\IDMilitary.act""IDMilitary.e5b"
-50 
+50
 
 "IDPolice"
-None  
+None
 None  "Items\IDPolice.act""IDPolice.e5b"
-50 
+50
 
 "IDPolice_nl"
-None  
+None
 None  "Items\IDPolice.act""IDPolice.e5b"
-50 
+50
 
 "IDHunt"
-None  
+None
 None  "Items\IDHunt.act""IDHunt.e5b"
-45 
+45
 
 "Lighter_cryst_b"
-None  
+None
 None  "Items\cryst_lighter_blu.act""cryst_lighter_blu.e5b"
-20 
+20
 
 "Lighter_cryst_g"
-None  
+None
 None  "Items\cryst_lighter_gr.act""cryst_lighter_gr.e5b"
-20 
+20
 
 "Lighter_cryst_r"
-None  
+None
 None  "Items\cryst_lighter_red.act""cryst_lighter_red.e5b"
-20 
+20
 
 "Lighter_matches"
-None  
+None
 None  "Items\matches.act""matches.e5b"
-18 
+18
 
 "Lighter_piezo_b"
-None  
+None
 None  "Items\lighter_piezo_b.act""lighter_piezo_b.e5b"
-15 
+15
 
 "Lighter_piezo_g"
-None  
+None
 None  "Items\lighter_piezo_g.act""lighter_piezo_g.e5b"
-15 
+15
 
 "Map"
-None  
+None
 None  "Items\secret_map.act""map.e5b"
-73 
+73
 
 "Map (FHM)"
-None  
+None
 None  "Items\secret_map.act""map.e5b"
-50 
+50
 
 "Map (SMM)"
-None  
+None
 None  "Items\secret_map.act""map.e5b"
-50 
+50
 
 "Canteen_g1"
-Medikit  
+Medikit
 None  "Items\canteen_g1.act""canteen_g1.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  3 
-Usages  2 
-260 
+Flask
+Speed  0
+Energy  0
+ADuration  3
+Usages  2
+260
 
 "Canteen_g2"
-Medikit  
+Medikit
 None  "Items\canteen_g2.act""canteen_g2.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  3 
-Usages  2 
-250 
+Flask
+Speed  0
+Energy  0
+ADuration  3
+Usages  2
+250
 
 "Canteen_leath"
-Medikit  
+Medikit
 None  "Items\canteen_leath1.act""canteen_leath1.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  3 
-Usages  2 
-280 
+Flask
+Speed  0
+Energy  0
+ADuration  3
+Usages  2
+280
 
 "Canteen_st1"
-Medikit  
+Medikit
 None  "Items\canteen_st1.act""canteen_st1.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  3 
-Usages  2 
-270 
+Flask
+Speed  0
+Energy  0
+ADuration  3
+Usages  2
+270
 
 "Canteen_st2"
-Medikit  
+Medikit
 None  "Items\canteen_st2.act""canteen_st2.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  3 
-Usages  2 
-240 
+Flask
+Speed  0
+Energy  0
+ADuration  3
+Usages  2
+240
 
 "Box_Carton_Whisky"
-None  
+None
 None  "items\i_box_016.act""i_box_016.e5b"
 200
 
 "Box_Wood_Wine"
-None  
+None
 None  "items\i_box_024f.act""i_box_024f.e5b"
 800
 
 "Whisky"
-Medikit  
+Medikit
 None  "Items\jackdaniels.act""jack_deniels.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  2 
-Usages  5 
-730 
+Flask
+Speed  0
+Energy  0
+ADuration  2
+Usages  5
+730
 
 "Wine"
-Medikit  
+Medikit
 None  "Items\bottle.act""bottle.e5b"
-Flask  
-Speed  0 
-Energy  1 
-ADuration  1 
-Usages  3 
-900 
+Flask
+Speed  0
+Energy  1
+ADuration  1
+Usages  3
+900
 
 "Drink_beer_bottle"
-Medikit  
+Medikit
 None  "Items\beer_bot.act""beer_bot.e5b"
-Flask  
-Speed  0 
-Energy  2 
-ADuration  0 
-Usages  1 
-430 
+Flask
+Speed  0
+Energy  2
+ADuration  0
+Usages  1
+430
 
 "Drink_beer_can"
-Medikit  
+Medikit
 None  "Items\beer_can.act""beer_can.e5b"
-Flask  
-Speed  0 
-Energy  2 
-ADuration  0 
-Usages  2 
-345 
+Flask
+Speed  0
+Energy  2
+ADuration  0
+Usages  2
+345
 
 "Drink_rum_general"
-Medikit  
+Medikit
 None  "Items\ron_gen.act""ron_gen.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  5 
-Usages  5 
-650 
+Flask
+Speed  0
+Energy  0
+ADuration  5
+Usages  5
+650
 
 "Drink_rum_sol"
-Medikit  
+Medikit
 None  "Items\ron_sol.act""ron_sol.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  4 
-Usages  7 
-900 
+Flask
+Speed  0
+Energy  0
+ADuration  4
+Usages  7
+900
 
 "Drink_tequila_big"
-Medikit  
+Medikit
 None  "Items\teq_b.act""teq_b.e5b"
-Flask  
-Speed  0 
-Energy  -1 
-ADuration  2 
-Usages  7 
-900 
+Flask
+Speed  0
+Energy  -1
+ADuration  2
+Usages  7
+900
 
 "Wood_plate"
-None  
+None
 None  "Items\wood_plate.act""wood_plate.e5b"
-4620 
+4620
 
 "Tension Wire (Not Armed)"
-StringTemplate  
+StringTemplate
 None  "Items\TensionWire.act""TensionWire.e5b"
-300 
+300
 
 "Twig"
-None  
+None
 None  "Items\twig.act""twig.e5b"
-1380 
+1380
 
 "Bomb60"
-None  
+None
 None  "Items\bomb60.act""bomb60.e5b"
-1460 
+1460
 
 "Bomb82"
-None  
+None
 None  "Items\bomb82.act""bomb82.e5b"
-3200 
+3200
 
 "Mount (M16-WR)"
-None  
+None
 None  "Items\m16-wr_adaptor.act""m16-wr_adaptor.e5b"
-130 
+130
 
 "Mount (WR-AK)"
-None  
+None
 None  "Items\wr-ak_adapter.act""wr-ak_adapter.e5b"
-180 
+180
 
 "Mount (WR-HK)"
-None  
+None
 None  "Items\wr-hk_adaptor.act""wr-hk_adaptor.e5b"
-70 
+70
 
 "Mount (WR-M14)"
-None  
+None
 None  "Items\wr-m14_adapter.act""wr-m14_adapter.e5b"
-100 
+100
 
 "Mount (WR-M16)"
-None  
+None
 None  "Items\wr-m16_adaptor.act""wr-m16_adaptor.e5b"
-100 
+100
 
 "Mount (WR-Mini14)"
-None  
+None
 None  "Items\wr-mini14_adapter.act""wr-mini14_adapter.e5b"
-100 
+100
 
 "Mount (WR-Galil)"
-None  
+None
 None  "Items\galilmount.act""wr-m14_adapter.e5b"
 100
 
 "Mount (WR-SIG)"
-None  
+None
 None  "Items\wr-sig_adaptor.act""wr-sig_adaptor.e5b"
-50 
+50
 
 "Mount dual clip (M16)"
-None  
+None
 None  "Items\mount_dual_clip_M16.act""mount_dual_clip_M16.e5b"
-40 
+40
 
 "Mount dual clip (MP5)"
-None  
+None
 None  "Items\mount_dual_clip_MP5.act""mount_dual_clip_M16.e5b"
-30 
+30
 
 "Mount harris (WR)"
-None  
+None
 None  "Items\harris-wr_adapter.act""harris-wr_adapter.e5b"
-50 
+50
 
 "Mount TL (WR)"
-None  
+None
 None  "Items\wr-mount.act""wr-mount.e5b"
-50 
+50
 
 "Mount TL (WR-Barrel)"
-None  
+None
 None  "Items\wr-barrel_adaptor.act""wr-barrel_adaptor.e5b"
-50 
+50
 
 "Mount TL (WR-HK)"
-None  
+None
 None  "Items\wr-hkp_adaptor.act""wr-hkp_adaptor.e5b"
-20 
+20
 
 "KN250"
-None  
+None
 None  "Items\KN250.act""KN250.e5b"
-1000 
+1000
 
 "NSA80"
-None  
+None
 None  "Items\nsa80.act""nsa80.e5b"
-1000 
+1000
 
 "Magnifier"
-None  
+None
 None  "Items\magnifier.act""magnifier.e5b"
 330
 
 "MP5 butt A2"
-None  
+None
 None  "Items\mp5_butt_a2.act""mp5_butt_a2.e5b"
-400 
+400
 
 "MP5 butt A3"
-None  
+None
 None  "Items\mp5_butt_a3.act""mp5_butt_a3.e5b"
-740 
+740
 
 "MP5 forestock"
-None  
+None
 None  "Items\mp5_fore.act""mp5_fore.e5b"
-300 
+300
 
 "MP5 forestock RIS"
-None  
+None
 None  "Items\PART_MP5RIS.ACT""part_mp5ris.e5b"
-450 
+450
 
 "HK53 forestock"
-None  
+None
 None  "Items\hk53fore.act""hk53fore.e5b"
-330 
+330
 
 "HK53 forestock RIS"
-None  
+None
 None  "Items\hk53fore_RIS.act""hk53fore_RIS.e5b"
-480 
+480
 
 "Galil forestock"
-None  
+None
 None  "Items\forestockAR.act""forestockAR.e5b"
 300
 
 "RK71HG"
-None  
+None
 None  "Items\rk71wHG.act""forestockAR.e5b"
-300 
+300
 
 "RK71W2HG"
-None  
+None
 None  "Items\rk71wHGitem.act""forestockAR.e5b"
-300 
+300
 
 "DaewooHG"
-None  
+None
 None  "Items\daewook2HGitem.act""m4_fore.e5b"
-300 
+300
 
 "DaewooRIS"
-None  
+None
 None  "Items\daewook2railitem.act""part_mp5ris.e5b"
 450
 
 "M4 forestock"
-None  
+None
 None  "Items\m4fore.act""m4_fore.e5b"
-300 
+300
 
 "M4 forestock RIS"
-None  
+None
 None  "Items\m4ris.act""part_mp5ris.e5b"
 450
 
 "M16A2M203forestock"
-None  
+None
 None  "items\m16a2m203fore.act""m16a2m203fore.e5b"
 405
 
 "M16A2forestock"
-None  
+None
 None  "items\M16A2fore.act""M16A2fore.e5b"
 320
 
 
 "M-60 barrel"
-Barrel  
+Barrel
 None  "Items\m60-barrel.act""m60-barrel.e5b"
 FOR  "Chain-gun M-60 (7.62x51mm)"
-2600 
+2600
 
 "MG3_Barrel"
-Barrel  
+Barrel
 None  "Items\MG3_barrel.act""mg3_barrel.e5b"
 FOR  "Chain-gun MG3 (7.62x51mm)"
-2750 
+2750
 
 "Minimi Barrel"
-Barrel  
+Barrel
 None  "Items\minimi_barrel.act""minimi_barrel.e5b"
 FOR  "Machinegun Minimi (5.56mm)"
-1725 
+1725
 
 "Minimi SPW Barrel"
-Barrel  
+Barrel
 None  "Items\spw_barrel.act""spw_barrel.e5b"
 FOR  "Machinegun Minimi SPW (5.56mm)"
 FOR  "Machinegun Minimi SPW (5.56mm) folded"
-908 
+908
 
 "Mk 46 Barrel"
-Barrel  
+Barrel
 None  "Items\mk46_barrel.act""mk46_barrel.e5b"
 FOR  "Machinegun Mk 46 (5.56mm)"
-1725 
+1725
 
 "Mk 48 Barrel"
-Barrel  
+Barrel
 None  "Items\mk48_barrel.act""mk48_barrel.e5b"
 FOR  "Machinegun Mk 48 (7.62x51mm)"
-2082 
+2082
 
 "PKM barrel"
-Barrel  
+Barrel
 None  "Items\pkm_barrel.act""pkm_barrel.e5b"
 FOR  "Chain-gun PKMN (7.62x54mm)"
 FOR  "Chain-gun PKMN Type 86 (7.62x54mm)"
 2600
 
 "HK21 barrel"
-Barrel  
+Barrel
 None  "Items\HK21e-barrel.act""HK21-barrel.e5b"
 FOR  "Chain-gun HK21e (7.62x51mm)"
-2500 
+2500
 
 "HK23 barrel"
-Barrel  
+Barrel
 None  "Items\HK23e-barrel.act""HK23-barrel.e5b"
 FOR  "Chain-gun HK23e (5.56x45mm)"
-2200 
+2200
 
 "16 inch Upper .300 AAC Blackout"
-None  
+None
 None  "Items\upper_300Blackout_16.act""upper_300Blackout_16.e5b"
 950
 
 "12 inch Upper .300 AAC Blackout"
-None  
+None
 None  "Items\upper_300Blackout_12.act""upper_300Blackout_12.e5b"
 875
 
 "Glock-17 threaded barrel"
-None  
+None
 None  "Items\glock17_barell.act""threaded_barrel.e5b"
 130
 
 "Glock-22 threaded barrel"
-None  
+None
 None  "Items\glock22_barell.act""threaded_barrel.e5b"
 130
 
 "Glock-21 threaded barrel"
-None  
+None
 None  "Items\glock22_barell.act""threaded_barrel.e5b"
 130
 
@@ -990,312 +990,312 @@ None  "Items\pt100_barell.act""threaded_barrel.e5b"
 140
 
 "Gemtech Quickmount Kit"
-None  
+None
 None  "Items\gemtech_kit.act""gemtech_kit.e5b"
 450
 
 "AAC Blackout Kit"
-None  
+None
 None  "Items\aac_kit.act""aac_kit.e5b"
 400
 
 "tool3"
-None  
+None
 Vest_Smersh  "Items\tool3.act""tool3.e5b"
 10000
 
 "PackedAmmoBox Palinero (9x18/500)"
-None  
+None
 None  "Items\caxa.ACT""caxa.e5b"
 6580
 
 "PackedAmmoBox Norinco (9x18/500)"
-None  
+None
 None  "Items\caixa_nori_9x18.act""nori500box.e5b"
-6445 
+6445
 
 "PackedAmmoBox CBC (9x19/500)"
-None  
+None
 None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
-6645 
+6645
 
 "PackedAmmoBox 7n21 (9x19/500)"
-None  
+None
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
-7190 
+7190
 
 "PackedAmmoBox Algeira (9x19/500)"
-None  
+None
 None  "Items\algeirabox500_9mm.act""algeira500box.e5b"
-6730 
+6730
 
 "PackedAmmoBox Algeira (.38/500)"
-None  
+None
 None  "Items\algeirabox500_38.act""algeira500box.e5b"
-9320 
+9320
 
 "PackedAmmoBox CBC (.38/500)"
-None  
+None
 None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
-9410 
+9410
 
 "PackedAmmoBox Algeira (.357 SIG/500)"
-None  
+None
 None  "Items\algeirabox500_357sig.act""algeira500box.e5b"
-7310 
+7310
 
 "PackedAmmoBox Algeira (.40 SW/500)"
-None  
+None
 None  "Items\algeirabox500_40.act""algeira500box.e5b"
 8745
 
 "PackedAmmoBox CBC (.40 SW/500)"
-None  
+None
 None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
-8875 
+8875
 
 "PackedAmmoBox Algeira (.357 Magnum/500)"
-None  
+None
 None  "Items\algeirabox500_357.act""algeira500box.e5b"
 10440
 
 "PackedAmmoBox CBC (.357 Magnum/500)"
-None  
+None
 None  "Items\caixa_wood_cbc.act""caixa_wood_cbc.e5b"
-10460  
+10460
 
 "PackedAmmoBox Algeira (.45 ACP/500)"
-None  
+None
 None  "Items\algeirabox500_45.act""algeira500box.e5b"
 11145
 
 "PackedAmmoBox Eagle (.45 ACP/500)"
-None  
+None
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
 11465
 
 "PackedAmmoBox (5.8x21/500)"
-None  
+None
 None  "Items\caixa_nori_dap92.ACT""nori500box.e5b"
 4575
 
 "PackedAmmoBox Algeira (10mm/500)"
-None  
+None
 None  "Items\algeirabox500_10mm.act""algeira500box.e5b"
 9605
 
 "PackedAmmoBox Algeira (12ga/200)"
-None  
+None
 None  "Items\algeirabox500_12.act""algeira500box.e5b"
 14154
 
 "PackedAmmoBox Palinero (12ga/200)"
-None  
+None
 None  "Items\caxa.ACT""caxa.e5b"
 14358
 
 "PackedAmmoBox Algeira (300 BLK/500)"
-None  
+None
 None  "Items\algeirabox500_300blk.act""algeira500box.e5b"
 12404
 
 "PackedAmmoBox Algeira (30-06/500)"
-None  
+None
 None  "Items\algeirabox500_3006.act""algeira500box.e5b"
 20390
 
 "PackedAmmoBox DBP87 (5.8x42/500)"
-None  
+None
 None  "Items\caixa_nori_dbp87.ACT""nori500box.e5b"
 8762
 
 "PackedAmmoBox DBP88 (5.8x42/500)"
-None  
+None
 None  "Items\caixa_nori_dbp88.ACT""nori500box.e5b"
 9734
 
 "PackedAmmoBox DBP10 (5.8x42/500)"
-None  
+None
 None  "Items\caixa_nori_dbp10.ACT""nori500box.e5b"
 8936
 
 "PackedAmmoBox Palinero (5.45x39/500)"
-None  
+None
 None  "Items\caxa.ACT""caxa.e5b"
 8408
 
 "PackedAmmoBox 7N6 (5.45/1000)"
-None  
+None
 None  "Items\BIGAMMOBOXM67.ACT""BIGAMMOBOXM67.e5b"
-8444 
+8444
 
 "PackedAmmoBox Algeira (5.56/500)"
-None  
+None
 None  "Items\algeirabox500_223.act""algeira500box.e5b"
 8918
 
 "PackedAmmoBox CBC (5.56/500)"
-None  
+None
 None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 9134
 
 "PackedAmmoBox M193 (5.56/1000)"
-None  
+None
 None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
-8738 
+8738
 
 "PackedAmmoBox Norinco (5.56x45/500)"
-None  
+None
 None  "Items\caixa_nori_556.act""nori500box.e5b"
 8852
 
 "PackedAmmoBox Algeira (6.8 SPC/500)"
-None  
+None
 None  "Items\algeirabox500_68spc.act""algeira500box.e5b"
 11672
 
 "PackedAmmoBox Norinco (7.62x39/500)"
-None  
+None
 None  "Items\caixa_nori_762x39.act""nori500box.e5b"
 13958
 
 "PackedAmmoBox Palinero (7.62x39/500)"
-None  
+None
 None  "Items\caxa.ACT""caxa.e5b"
 13634
 
 "PackedAmmoBox 57-N-231S (7.62x39/1000)"
-None  
+None
 None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.e5b"
-13550 
+13550
 
 "PackedAmmoBox Algeira (7.62x51/500)"
-None  
+None
 None  "Items\algeirabox500_308.act""algeira500box.e5b"
 17198
 
 "PackedAmmoBox CBC (7.62x51 M80/500)"
-None  
+None
 None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 17264
 
 "PackedAmmoBox CBC (7.62x51 M933/500)"
-None  
+None
 None  "Items\caixa_grande_cbc.act""caixa_cbc500.e5b"
 17702
 
 "PackedAmmoBox M80 (7.62x51/800)"
-None  
+None
 None  "Items\BIGAMMOBOXB.ACT""BIGAMMOBOXB.e5b"
-16850 
+16850
 
 "PackedAmmoBox Palinero (7.62x54R/500)"
-None  
+None
 None  "Items\caxa.ACT""caxa.e5b"
 20366
 
 "PackedAmmoBox 7N1 (7.62x54/800)"
-None  
+None
 None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.e5b"
-20564 
+20564
 
 "PackedAmmoBox Algeira (.300 WM/500)"
-None  
+None
 None  "Items\algeirabox500_300winmag.act""algeira500box.e5b"
 18115
 
 "PackedAmmoBox Palinero (9x39/500)"
-None  
+None
 None  "Items\caxa.ACT""caxa.e5b"
 18134
 
 "PackedAmmoBox Algeira (.338 Lapua/500)"
-None  
+None
 None  "Items\algeirabox500_338.act""algeira500box.e5b"
 10172
 
 "MEGABOX Algeira (9mm/2500)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 36150
 
 "MEGABOX CBC (9mm/2500)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 35725
 
 "MEGABOX FM (9mm/2500)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 36550
 
 "MEGABOX Algeira (5.56/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 44590
 
 "MEGABOX CBC (5.56/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 45670
 
 "MEGABOX CBC AP (5.56/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 46750
 
 "MEGABOX Norinco (5.56/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 44260
 
 "MEGABOX Palinero (5.45x39/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 42040
 
 "MEGABOX Palinero (7.62x39/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 68170
 
 "MEGABOX Norinco (7.62x39/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 69790
 
 "MEGABOX Palinero (7.62x54R/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 101830
 
 "MEGABOX Algeira (7.62/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 85990
 
 "MEGABOX CBC (7.62/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 84250
 
 "MEGABOX CBC AP (7.62/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 88510
 
 "MEGABOX FM (7.62/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 85660
 
 "MEGABOX Norinco (7.62/3000)"
-None  
+None
 None  "Items\shipment.act""shipment.e5b"
 86110
 
 "Scar Kits"
-Toolkit  
+Toolkit
 None  "Items\scarkits.act""scarkits.e5b"
 FOR  "Assault Rifle SCAR-L CQC (5.56mm)"
 FOR  "Assault Rifle SCAR-L Std (5.56mm)"
@@ -1304,38 +1304,38 @@ FOR  "Assault Rifle SCAR-H CQC (7.62x51mm)"
 FOR  "Assault Rifle SCAR-H Std (7.62x51mm)"
 FOR  "Assault Rifle SCAR-H LB (7.62x51mm)"
 FOR  "Submachine-gun SCAR Pistol NATO"
-7000 
+7000
 
 "Groza Kits"
-Toolkit  
+Toolkit
 None  "Items\groza_kits.act""groza_kits.e5b"
 FOR  "Assault Rifle Groza-1 (9x39mm)"
 FOR  "Assault Rifle Groza-2 (9x39mm)"
 FOR  "Assault Rifle Groza-3 (9x39mm)"
-5000 
+5000
 
 "Steyr AUG A1 Kits"
-Toolkit  
+Toolkit
 None  "Items\aug_kits_a1.act""augA1_kits.e5b"
 FOR  "Assault Rifle Steyr AUG A1 (5.56mm)"
 FOR  "Assault Rifle Steyr AUG P (5.56mm)"
 FOR  "Submachine-gun Steyr AUG (9mm)"
 FOR  "Machinegun Steyr AUG HBAR (5.56mm)"
 FOR  "Assault Rifle Steyr AUG M203 (5.56mm)"
-6000 
+6000
 
 "Steyr AUG A2 Kits"
-Toolkit  
+Toolkit
 None  "Items\aug_kits_a2.act""augA2_kits.e5b"
 FOR  "Assault Rifle Steyr AUG A2 SR (5.56mm)"
 FOR  "Assault Rifle Steyr AUG P SR (5.56mm)"
 FOR  "Submachine-gun Steyr AUG SR (9mm)"
 FOR  "Machinegun Steyr AUG HBAR T (5.56mm)"
 FOR  "Assault Rifle Steyr AUG M203 SR (5.56mm)"
-6000 
+6000
 
 ".300 AAC Blackout Kits"
-Toolkit  
+Toolkit
 None  "Items\groza_kits.act""groza_kits.e5b"
 FOR  "Assault Rifle AR-15 (.300 BLK)"
 FOR  "Assault Rifle AR-15 CQB (.300 BLK)"
@@ -1343,17 +1343,17 @@ FOR  "Assault Rifle AR-15 CQB AG (.300 BLK)"
 FOR  "Assault Rifle M4A1 (.300 BLK)"
 FOR  "Assault Rifle M4A1 CQB (.300 BLK)"
 FOR  "Assault Rifle M4A1 CQB AG (.300 BLK)"
-5000 
+5000
 
 "AK Kit"
-Toolkit 
+Toolkit
 None  "Items\groza_kits.act""groza_kits.e5b"
 FOR "Assault Rifle AK-103 (7.62x39mm)"
 FOR "Assault Rifle AK Custom"
 3500
 
 "Encore Kit"
-Toolkit  
+Toolkit
 None  "Items\camo.act""camo.e5b"
 FOR  "Pistol Encore (300)"
 FOR  "Pistol Encore (12ga)"
@@ -1368,7 +1368,7 @@ FOR  "Pistol Encore (375)"
 50
 
 "Contender Kit"
-Toolkit  
+Toolkit
 None  "Items\camo.act""camo.e5b"
 FOR  "Pistol Contender (SPC)"
 FOR  "Pistol Contender (223)"
@@ -1380,7 +1380,7 @@ FOR  "Pistol Contender (22LR)"
 50
 
 "F2000 Kits"
-Toolkit  
+Toolkit
 None  "Items\scarkits.act""scarkits.e5b"
 FOR  "Assault Rifle F2000 (5.56mm)"
 FOR  "Custom Rifle F2000 FG (5.56mm)"
@@ -1391,7 +1391,7 @@ FOR  "F2000 FG Tan (5.56mm)"
 3000
 
 "Keltec Kits"
-Toolkit  
+Toolkit
 None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
 FOR  "Assault Rifle Keltec CAR (7.62mm)"
 FOR  "Assault Rifle Keltec LB (7.62mm)"
@@ -1399,7 +1399,7 @@ FOR  "Sniper Rifle Keltec (7.62x51mm)"
 3000
 
 "MSBS Kit"
-Toolkit  
+Toolkit
 None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.E5B"
 FOR  "MSBS"
 FOR  "MSBS Bullpup"
@@ -1408,14 +1408,14 @@ FOR  "MSBS Bullpup NOFG"
 3000
 
 "DPM/RP-46 Kit"
-Toolkit  
+Toolkit
 None  "Items\12ga_hunt_100bag.act""12ga_hunt_100bag.e5b"
 FOR  "Machinegun DPM (7.62x54R)"
 FOR  "Machinegun RP46 (7.62x54R)"
 200
 
 "CPW Kit"
-Toolkit  
+Toolkit
 None  "Items\camo.act""camo.e5b"
 FOR  "CPW (9mm)"
 FOR  "CPW (5.7)"
@@ -1423,7 +1423,7 @@ FOR  "CPW (4.6)"
 200
 
 "MPX Kit"
-Toolkit  
+Toolkit
 None  "Items\camo.act""camo.e5b"
 FOR  "Submachine-gun MPX (9mm)"
 FOR  "Submachine-gun MPX FG (9mm)"
@@ -1440,7 +1440,7 @@ FOR  "Submachine-gun MPXK FG (357)"
 200
 
 "SPAS-12 Kits"
-Toolkit  
+Toolkit
 None  "Items\camo.act""camo.e5b"
 FOR  "Shotgun SPAS12 (12ga)"
 FOR  "SPAS12 F (12ga)"
@@ -1448,2261 +1448,2261 @@ FOR  "SPAS12 NS (12ga)"
 1000
 
 "Mine_detector"
-None  
+None
 None  "Items\mine_detector.act""mine_detector.e5b"
-4000 
+4000
 
 "Box_Wood_Empty"
-None  
+None
 Bag_Tourist  "items\bigammoboxw.act""bigammoboxw.e5b"
 1500
 
 "Box_Ammunition"
-None  
+None
 Bag_Reid  "Items\Box_Ammunition.act""Box_Ammunition.e5b"
-6000 
+6000
 
 "Box_Explosives"
-None  
+None
 Bag_Reid  "Items\Box_Explosives.act""Box_Explosives.e5b"
-6000 
+6000
 
 "Box_Med_Supplies"
-None  
+None
 Bag_Reid  "Items\Box_Med_Supplies.act""Box_Med_Supplies.e5b"
-6000 
+6000
 
 "Box_grenade_f-1"
-None  
+None
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+6000
 
 "Box_grenade_m61"
-None  
+None
 None  "Items\grenadebox_us.act""grenadebox_us.e5b"
-8000 
+8000
 
 "Box_grenade_m67"
-None  
+None
 None  "Items\grenadecase_us.act""grenadecase_us.e5b"
-1000 
+1000
 
 "Box_grenade_rgd-5"
-None  
+None
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+6000
 
 "Box_grenade_rgn"
-None  
+None
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+6000
 
 "Box_grenade_rgo"
-None  
+None
 None  "Items\grenadebox_ru.act""grenadebox_ru.e5b"
-6000 
+6000
 
 "Car_belt"
-None  
+None
 None  "Items\car_belt.act""car_belt.e5b"
-70 
+70
 
 "Car_can20"
-None  
+None
 None  "Items\car_can20.act""car_can20.e5b"
-16900 
+16900
 
 "Car_can20_empty"
-None  
+None
 None  "Items\car_can20.act""car_can20_empty.e5b"
-1900 
+1900
 
 "Car_can5"
-None  
+None
 None  "Items\car_can5.act""car_can5.e5b"
-5300 
+5300
 
 "Car_can5_empty"
-None  
+None
 None  "Items\car_can5.act""car_can5_empty.e5b"
-300 
+300
 
 "Glue"
-None  
+None
 None  "Items\glue.act""glue.e5b"
-15 
+15
 
 "Car_baloon_jeep"
-None  
+None
 None  "Items\baloon_jeep.act""baloon_jeep.e5b"
-900 
+900
 
 "Car_baloon_moto"
-None  
+None
 None  "Items\baloon_moto.act""baloon_moto.e5b"
-300 
+300
 
 "Car_baloon_pass"
-None  
+None
 None  "Items\baloon_pass.act""baloon_pass.e5b"
-600 
+600
 
 "Car_baloon_truck"
-None  
+None
 None  "Items\baloon_truck.act""baloon_truck.e5b"
-1400 
+1400
 
 "Car_rubber_cutted"
-None  
+None
 None  "Items\rubber_cutted.act""rubber_cutted.e5b"
-170 
+170
 
 "Car_rubber_patch"
-None  
+None
 None  "Items\rubber_patch.act""rubber_patch.e5b"
-50 
+50
 
 "Car_wheel_btr"
-Turtle  
+Turtle
 None  "Items\car_wheel_btr.act""car_wheel_btr.e5b"
-63000 
+63000
 
 "Car_wheel_gaz69"
-Turtle  
+Turtle
 None  "Items\car_wheel_gaz69.act""car_wheel_gaz69.e5b"
-18000 
+18000
 
 "Car_wheel_hummer"
-Turtle  
+Turtle
 None  "Items\car_wheel_hummer.act""car_wheel_hummer.e5b"
-19000 
+19000
 
 "Car_wheel_ural"
-Turtle  
+Turtle
 None  "Items\car_wheel_ural.act""car_wheel_ural.e5b"
-47000 
+47000
 
 "Car_wheel_willys"
-Turtle  
+Turtle
 None  "Items\car_wheel_willys.act""car_wheel_willys.e5b"
-18000 
+18000
 
 "Car_wheel_btr40"
-Turtle  
+Turtle
 None  "Items\car_wheel_btr40.act""car_wheel_btr40.e5b"
-57000 
+57000
 
 "Car_wheel_lrover"
-Turtle  
+Turtle
 None  "Items\car_wheel_lrover.act""car_wheel_lrover.e5b"
-20000 
+20000
 
 "Car_wheel_pascar"
-Turtle  
+Turtle
 None  "Items\car_wheel_pascar.act""car_wheel_pascar.e5b"
-10000 
+10000
 
 "Car_wheel_pickup"
-Turtle  
+Turtle
 None  "Items\Car_wheel_pickup.act""Car_wheel_pickup.e5b"
-15000 
+15000
 
 "Car_wheel_yamamoto"
-Turtle  
+Turtle
 None  "Items\Car_wheel_yamamoto.act""Car_wheel_yamamoto.e5b"
-7000 
+7000
 
 "Car_wheel_uaz"
-Turtle  
+Turtle
 None  "Items\car_wheel_uaz.act""car_wheel_uaz.e5b"
 18000
 
 "Car_wheel_gw"
-Turtle  
+Turtle
 None  "Items\Car_wheel_gw.act""Car_wheel_gw.e5b"
 18000
 
 "Car_wheel_unimog"
-Turtle  
+Turtle
 None  "Items\car_wheel_uni.act""car_wheel_uni.e5b"
 47000
 
 "Coin_AG_bad"
-None  
+None
 None  "Items\Coin_AG_bad.act""Coin_Ag_Huge.e5b"
-26 
+26
 
 "Coin_AGH_columb_1893"
-None  
+None
 None  "Items\Coin_AGH_columb_1893.act""Coin_Ag_Big.e5b"
-12.5 
+12.5
 
 "Coin_AGH_deadKenny_1967"
-None  
+None
 None  "Items\Coin_AGH_deadKenny_1967.act""Coin_Ag_Big.e5b"
 12.5
 
 "Coin_AGP_1739"
-None  
+None
 None  "Items\Coin_AGP_1739.act""Coin_Ag_Huge.e5b"
 27
 
 "Coin_AGP_1768"
-None  
+None
 None  "Items\Coin_AGP_1768.act""Coin_Ag_Huge.e5b"
 27
 
 "Coin_AGP_1776"
-None  
+None
 None  "Items\Coin_AGP_1776.act""Coin_Ag_Huge.e5b"
 27
 
 "Coin_AGP_1806"
-None  
+None
 None  "Items\Coin_AGP_1806.act""Coin_Ag_Huge.e5b"
 27
 
 "Coin_AGP_1821"
-None  
+None
 None  "Items\Coin_AGP_1821.act""Coin_Ag_Huge.e5b"
 27
 
 "Coin_AGS_bust_1795"
-None  
+None
 None  "Items\Coin_AGS_bust_1795.act""Coin_Ag_dollar.e5b"
-27 
+27
 
 "Coin_AGS_morgan_1893"
-None  
+None
 None  "Items\morgandollar.act""Coin_Ag_dollar.e5b"
-27 
+27
 
 "Coin_AGS_morgan_1921"
-None  
+None
 None  "Items\Coin_AGS_morgan_1921.act""Coin_Ag_dollar.e5b"
-27 
+27
 
 "Coin_AGS_peace_1922"
-None  
+None
 None  "Items\Coin_AGS_peace_1922.act""Coin_Ag_dollar.e5b"
-26.7 
+26.7
 
 "Coin_AU1_1853"
-None  
+None
 None  "Items\Coin_AU1_1853.act""Coin_Au_Small.e5b"
 1.7
 
 "Coin_AU2_150_1926"
-None  
+None
 None  "Items\Coin_AU2_150_1926.act""Coin_Au_Med.e5b"
 4.2
 
 "Coin_AU2_frig_1808"
-None  
+None
 None  "Items\Coin_AU2_frig_1808.act""Coin_Au_Med.e5b"
 4.2
 
 "Coin_AU2_ind_1926"
-None  
+None
 None  "Items\Coin_AU2_ind_1926.act""Coin_Au_Med.e5b"
 4.2
 
 "Coin_AU5_ind_1929"
-None  
+None
 None  "Items\Coin_AU5_ind_1929.act""Coin_Au_Big.e5b"
 8.4
 
 "Coin_AUSq05_1757"
-None  
+None
 None  "Items\Coin_AUSq05_1757.act""Coin_Au_Small.e5b"
 1.7
 
 "Coin_AUSq2_1765"
-None  
+None
 None  "Items\Coin_AUSq2_1765.act""Coin_Au_Med.e5b"
 6.7
 
 "Coin_AUSq4_1749"
-None  
+None
 None  "Items\Coin_AUSq4_1749.act""Coin_Au_Big.e5b"
 13.6
 
 "Coin_AUSq4_1781"
-None  
+None
 None  "Items\Coin_AUSq4_1781.act""Coin_Au_Big.e5b"
 13.6
 
 "Coin_AUSq8_1752"
-None  
+None
 None  "Items\Coin_AUSq8_1752.act""Coin_Au_Huge.e5b"
 27
 
 "Coin_AUSq8_1758"
-None  
+None
 None  "Items\Coin_AUSq8_1758.act""Coin_Au_Huge.e5b"
 27
 
 "Coin_CU_bad"
-None  
+None
 None  "Items\Coin_CU_bad.act""Coin_Cu_Med.e5b"
-4 
+4
 
 "Coin_indianer"
-None  
+None
 None  "Items\indianer.act""indianer.e5b"
-8.4 
+8.4
 
 "CreditCard"
-None  
+None
 None  "Items\amexpress.act""amexpress.e5b"
-10 
+10
 
 "Gold_rare1"
-None  
+None
 None  "Items\indsouv_1.act""indsouv_1.e5b"
-470 
+470
 
 "Gold_rare2"
-None  
+None
 None  "Items\indsouv_2.act""indsouv_2.e5b"
-150 
+150
 
 "Gold_rare3"
-None  
+None
 None  "Items\indsouv_3.act""indsouv_3.e5b"
-100 
+100
 
 "Gold_rare4"
-None  
+None
 None  "Items\indsouv_4.act""indsouv_4.e5b"
-250 
+250
 
 "Gold_rare5"
-None  
+None
 None  "Items\indsouv_5.act""indsouv_5.e5b"
-130 
+130
 
 "Gold_sack"
-None  
+None
 None  "Items\goldsack.act""gold_sack.e5b"
-75 
+75
 
 "Gold_slug_b"
-None  
+None
 None  "Items\gold_slug_2.act""gold_slug_2.e5b"
-300 
+300
 
 "Gold_slug_s"
-None  
+None
 None  "Items\gold_slug_1.act""gold_slug_1.e5b"
-150 
+150
 
 "m397-case"
-None  
+None
 None  "Items\m397-case.act""m433-case.e5b"
-20 
+20
 
 "m406-case"
-None  
+None
 None  "Items\m406-case.act""m433-case.e5b"
-20 
+20
 
 "m407-case"
-None  
+None
 None  "Items\m407-case.act""m433-case.e5b"
-20 
+20
 
 "m433-case"
-None  
+None
 None  "Items\m433-case.act""m433-case.e5b"
-20 
+20
 
 "Chain link"
-None  
+None
 None  "Items\chain_link.act""chain_link.e5b"
 20
 
 "Trash_bottle_cup"
-None  
+None
 None  "Items\bottle_cap.act""bottle_cap.e5b"
-2 
+2
 
 "Trash_can_key"
-None  
+None
 None  "Items\can_key.act""can_key.e5b"
-1 
+1
 
 "Key_evid"
-None  
+None
 None  "Items\evid_key.act""evid_key.e5b"
-65 
+65
 
 "Nails_box"
-None  
+None
 None  "Items\nail_box.act""nail_box.e5b"
-185 
+185
 
 "Persfoto"
-None  
+None
 None  "Items\persfoto.act""persfoto.e5b"
-3 
+3
 
 "Persfoto_marked"
-None  
+None
 None  "Items\persfoto_marked.act""persfoto.e5b"
-3 
+3
 
 "Smoke_camel"
-None  
+None
 None  "Items\cig_camel.act""cig_camel.e5b"
-23 
+23
 
 "Smoke_cigar"
-None  
+None
 None  "Items\cigar.act""cigar.e5b"
-15 
+15
 
 "Smoke_cigar_box"
-None  
+None
 None  "Items\cigarbox.act""cigarbox.e5b"
-950 
+950
 
 "Smoke_serpent"
-None  
+None
 None  "Items\cig_serp.act""cig_serp.e5b"
-25 
+25
 
 "Box_Carton_Camel"
-None  
+None
 None  "items\cardboard_box.act""cardboard_box.e5b"
-300 
+300
 
 "Box_Carton_Serpent"
-None  
+None
 None  "items\cardboard_box.act""cardboard_box.e5b"
-300 
+300
 
 "PackedMedBox"
-None  
+None
 None  "Items\Box_Med_Supplies.act""Box_Med_Supplies.e5b"
-24010 
+24010
 
 ////merchandise
 
 "Book_Lenin"
-None  
+None
 None  "Items\lenin.act""lenin.e5b"
-1210 
+1210
 
 "Caja con medicamentos"
-None  
+None
 None  "Items\caja_m.act""caja_m.e5b"
 4500
 
 "Caja con pornografia"
-None  
+None
 None  "Items\bigammoboxp.act""bigammoboxp.e5b"
 8000
 
 "Canazo_can20"
-Medikit  
+Medikit
 None  "Items\can_can20.act""can_can20.e5b"
-Flask  
-Speed  0 
-Energy  0 
-ADuration  2 
+Flask
+Speed  0
+Energy  0
+ADuration  2
 Usages  40
 20000
 
 "Canazo_can5"
-Medikit  
+Medikit
 None  "Items\can_can5.act""can_can5.e5b"
 Flask
-Speed  0 
-Energy  0 
-ADuration  2 
+Speed  0
+Energy  0
+ADuration  2
 Usages  10
 5000
 
 "Literatura Revolucionaria"
-None  
+None
 None  "Items\parcel.act""parcel.e5b"
 5000
 
 "vino caro"
-None  
+None
 None  "Items\wares.act""wares.e5b"
 5000
 
 "PackedTushBox"
-None  
+None
 None  "Items\caja_a.act""caja_a.e5b"
 10000
 
 "PackedCamoBox"
-None  
+None
 None  "Items\caja_a.act""caja_a.e5b"
 3000
 
 "PackedCleaningKitBox"
-None  
+None
 None  "Items\caja_a.act""caja_a.e5b"
 9000
 
 "PackedContactFuzeBox"
-None  
+None
 None  "Items\caja_a.act""caja_a.e5b"
 1000
 
 "PackedRadioFuzeBox"
-None  
+None
 None  "Items\caja_a.act""caja_a.e5b"
 1300
 
 "PackedMREBox"
-None  
+None
 None  "Items\mre_box.act""mrebox.e5b"
 7500
 
 "PackedMREHUGEBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 16500
 
 "PackedRationBox"
-None  
+None
 None  "Items\box_util_blue.act""boxutil_blue.e5b"
 7200
 
 "PackedSmershBox"
-None  
+None
 None  "Items\box_util_brown.act""boxutil_brown.e5b"
 4750
 
 "PackedTacVestBox"
-None  
+None
 None  "Items\box_util_green.act""boxutil_green.e5b"
 5500
 
 "PackedYellowTacVestBox"
-None  
+None
 None  "Items\box_util.act""boxutil.e5b"
 5500
 
 "PackedMolleVestBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 6000
 
 "PackedVestBox"
-None  
+None
 None  "Items\box_util_brown.act""boxutil_brown.e5b"
 18000
 
 "PackedVestM200Box"
-None  
+None
 None  "Items\box_util_green.act""boxutil_green.e5b"
 28000
 
 "PackedWildcatVestBox"
-None  
+None
 None  "Items\box_util_blue.act""boxutil_blue.e5b"
 23000
 
 "PackedKevlarVestBox"
-None  
+None
 None  "Items\box_util_green.act""boxutil_green.e5b"
 43000
 
 "PackedVyzovBox"
-None  
+None
 None  "Items\box_util.act""boxutil.e5b"
 43000
 
 "PackedMetalPlateBox"
-None  
+None
 None  "Items\box_util_brown.act""boxutil_brown.e5b"
 12000
 
 "PackedMetalPlateStrongBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 17000
 
 "PackedCeramicPlateBox"
-None  
+None
 None  "Items\box_util.act""boxutil.e5b"
 9500
 
 "PackedCeramicPlateStrongBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 12000
 
 "PackedSteelHelmetBox"
-None  
+None
 None  "Items\box_util_green.act""boxutil_green.e5b"
 8750
 
 "PackedPASGTBox"
-None  
+None
 None  "Items\box_util.act""boxutil.e5b"
 10250
 
 "PackedACHBox"
-None  
+None
 None  "Items\box_util_brown.act""boxutil_brown.e5b"
 9300
 
 "PackedMICHBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 8750
 
 "PackedPASGTSWATBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 10000
 
 "PackedBasicBeltBox"
-None  
+None
 None  "Items\box_util_red.act""boxutil_red.e5b"
 4000
 
 "PackedHolsterBeltBox"
-None  
+None
 None  "Items\box_util_brown.act""boxutil_brown.e5b"
 3500
 
 "PackedTacticalBeltBox"
-None  
+None
 None  "Items\box_util_green.act""boxutil_green.e5b"
 3250
 
 "PackedButtpackBox"
-None  
+None
 None  "Items\box_util.act""boxutil.e5b"
 2000
 
 "PackedBigButtpackBox"
-None  
+None
 None  "Items\box_util_blue.act""boxutil_blue.e5b"
 2250
 
 "PackedVeryBigButtpackBox"
-None  
+None
 None  "Items\box_util_dark.act""boxutil_grey.e5b"
 2500
 
 "Packed60MortarBox"
-None  
+None
 None  "Items\box_util_red.act""boxutil_red.e5b"
 11300
 
 "Packed82MortarBox"
-None  
+None
 None  "Items\box_util_brown.act""boxutil_brown.e5b"
 20000
 
 "Uniform Bundle Algeira"
-None  
+None
 None  "items\uniformbundle.act""uniformbundle.e5b"
 7500
 
 "Uniform Bundle Palinero"
-None  
+None
 None  "items\uniformbundle.act""uniformbundle.e5b"
 7500
 
 "Uniform Bundle Algeira carabineer"
-None  
+None
 None  "items\uniformbundle.act""uniformbundle.e5b"
 7500
 
 "BigWoodBoxAKM"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 17500
 
 "BigWoodBoxAKMN"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 17500
 
 "BigWoodBoxGalil"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 22500
 
 "BigWoodBoxRifles"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 50500
 
 "BigWoodBoxM4A1"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 15380
 
 "BigWoodBoxVektorZ88"
-None  
+None
 None  "items\caixa_armas_pist.act""caixa_arma_peq.e5b"
 5850
 
 "BigWoodBoxPT1911"
-None  
+None
 None  "items\caixa_armas_pist.act""caixa_arma_peq.e5b"
 6100
 
 "BigWoodBoxMP59mm"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 17000
 
 "BigWoodBoxSAF9"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16350
 
 "BigWoodBoxMT40"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16350
 
 "BigWoodBoxSMT40"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16500
 
 "BigWoodBox9A91"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 12000
 
 "BigWoodBoxP90"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 14200
 
 "BigWoodBoxKiparis"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 9350
 
 "BigWoodBoxBizon"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16000
 
 "BigWoodBoxVityaz"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16000
 
 "BigWoodBoxBTMP9"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 8500
 
 "BigWoodBoxFEGAK63"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 17350
 
 "BigWoodBoxFEGAK63D"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 17350
 
 "BigWoodBoxM964Civ"
-None  
+None
 None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
 24500
 
 "BigWoodBoxSAFIRT14Classic"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18500
 
 "BigWoodBoxAUGPARA"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18500
 
 "BigWoodBoxMosquefal"
-None  
+None
 None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
 21500
 
 "BigWoodBoxSPAS15"
-None  
+None
 None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
 21500
 
 "BigWoodBoxM16A2"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 19700
 
 "BigWoodBoxVZ58"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16550
 
 "BigWoodBoxK1A1"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 15850
 
 "BigWoodBoxK2"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18300
 
 "BigWoodBoxSIG540"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 19750
 
 "BigWoodBoxSIG542"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 19750
 
 "BigWoodBoxGalil556"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 21750
 
 "BigWoodBoxGalilACE556"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 19200
 
 "BigWoodBoxMD97"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18550
 
 "BigWoodBoxIA2Cciv"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18000
 
 "BigWoodBoxIA2C"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18000
 
 "BigWoodBoxQBZ95"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18250
 
 "BigWoodBoxQBZ951"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18250
 
 "BigWoodBoxQBZ97"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18750
 
 "BigWoodBoxQBZ971"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18750
 
 "BigWoodBoxNorincoCQ"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16855
 
 "BigWoodBoxNorincoCQCIV"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 16855
 
 "BigWoodBoxType56"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 22000
 
 "BigWoodBoxType56i"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 22000
 
 "BigWoodBoxType56ii"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 21000
 
 "BigWoodBoxGovCarbine"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 15500
 
 "BigWoodBoxTacticalCarbine"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 15500
 
 "BigWoodBoxM964"
-None  
+None
 None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
 24500
 
 "BigWoodBoxAUGA1"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 20000
 
 "BigWoodBoxAUGA2"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 19750
 
 "BigWoodBoxHK33"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 20250
 
 "BigWoodBoxG3"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 24500
 
 "BigWoodBoxG36"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 20150
 
 "BigWoodBoxAK103"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 18850
 
 "BigWoodBoxPSL"
-None  
+None
 None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
 21995
 
 "BigWoodBoxM7F"
-None  
+None
 None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 22350
 
 "Algeira guards colonel epaulets"
-None  
+None
 None  "Items\epaulets5g.act""epaulets5g.e5b"
 20
 
 "Algeira guards major epaulets"
-None  
+None
 None  "Items\epaulets4g.act""epaulets4g.e5b"
 20
 
 "Algeira guards captain epaulets"
-None  
+None
 None  "Items\epaulets3g.act""epaulets3g.e5b"
 20
 
 "Algeira guards leutenant epaulets"
-None  
+None
 None  "Items\epaulets2g.act""epaulets2g.e5b"
 20
 
 "Algeira guards sergant epaulets"
-None  
+None
 None  "Items\epaulets1g.act""epaulets1g.e5b"
 20
 
 "Algeira police colonel epaulets"
-None  
+None
 None  "Items\epaulets5p.act""epaulets5p.e5b"
 20
 
 "Algeira police major epaulets"
-None  
+None
 None  "Items\epaulets4p.act""epaulets4p.e5b"
 20
 
 "Algeira police captain epaulets"
-None  
+None
 None  "Items\epaulets3p.act""epaulets3p.e5b"
 20
 
 "Algeira police leutenant epaulets"
-None  
+None
 None  "Items\epaulets2p.act""epaulets2p.e5b"
 20
 
 "Algeira police sergant epaulets"
-None  
+None
 None  "Items\epaulets1p.act""epaulets1p.e5b"
 20
 
 "Algeira soldiers colonel epaulets"
-None  
+None
 None  "Items\epaulets5s.act""epaulets5s.e5b"
 20
 
 "Algeira soldiers major epaulets"
-None  
+None
 None  "Items\epaulets4s.act""epaulets4s.e5b"
 20
 
 "Algeira soldiers captain epaulets"
-None  
+None
 None  "Items\epaulets3s.act""epaulets3s.e5b"
 20
 
 "Algeira soldiers leutenant epaulets"
-None  
+None
 None  "Items\epaulets2s.act""epaulets2s.e5b"
 20
 
 "Algeira soldiers sergant epaulets"
-None  
+None
 None  "Items\epaulets1s.act""epaulets1s.e5b"
 20
 
 "Palinero soldiers colonel epaulets"
-None  
+None
 None  "Items\epaulets5ps.act""epaulets5ps.e5b"
 20
 
 "Palinero soldiers major epaulets"
-None  
+None
 None  "Items\epaulets4ps.act""epaulets4ps.e5b"
 20
 
 "Palinero soldiers captain epaulets"
-None  
+None
 None  "Items\epaulets3ps.act""epaulets3ps.e5b"
 20
 
 "Palinero soldiers leutenant epaulets"
-None  
+None
 None  "Items\epaulets2ps.act""epaulets2ps.e5b"
 20
 
 "Palinero soldiers sergant epaulets"
-None  
+None
 None  "Items\epaulets1ps.act""epaulets1ps.e5b"
 20
 
 
 "Firearm law guide"
-None  
+None
 None  "Items\confidencial.act""bloc_001.e5b"
 30
 
 "Harold_Haroldson"
-None  
+None
 None  "Items\canitas.act""canitas.e5b"
 10
 
 "Smartphone"
-None  
+None
 None  "Items\smartphone.act""smartphone.e5b"
 300
 
 "Rosario_envelope"
-None  
+None
 None  "Items\r_envelope.act""r_envelope.e5b"
-35 
+35
 
 "Military_sectret"
-None  
+None
 None  "Items\permission.act""m_sectret.e5b"
-35 
+35
 
 "Bloc_start"
-None  
+None
 None  "Items\confidencial.act""bloc_001.e5b"
 15
 
 "Bloc_phone"
-None  
+None
 None  "Items\confidencial.act""bloc_001.e5b"
 15
 
 "Confidencial"
-None  
+None
 None  "Items\confidencial.act""bloc_003.e5b"
 15
 
 "Confidencial_Pali"
-None  
+None
 None  "Items\confidencial.act""bloc_003.e5b"
 15
 
 "Exploration_report0"
-None  
+None
 None  "Items\confidencial.act""bloc_003.e5b"
 50
 
 "Exploration_report"
-None  
+None
 None  "Items\exp_report.act""exp_report.e5b"
 300
 
 "Exploration_report2"
-None  
+None
 None  "Items\exp_report.act""exp_report.e5b"
 300
 
 "Rico_photo"
-None  
+None
 None  "Items\rico_foto.act""rico_foto.e5b"
-10 
+10
 
 "Rico_medallion"
-None  
+None
 None  "Items\medallion.act""medalion.e5b"
-25 
+25
 
 "Dogtag_jefe"
-None  
+None
 None  "Items\dogtag_jefe.act""dogtag_jefe.e5b"
 20
 
 "CD1"
-None  
+None
 None  "Items\cd.act""cd.e5b"
-40 
+40
 
 "CD2"
-None  
+None
 None  "Items\cd.act""cd.e5b"
-40 
+40
 
 "Hackers CD"
-None  
+None
 None  "Items\cdh.act""cdh.e5b"
-40 
+40
 
 "Money_euro20"
-None  
+None
 None  "Items\money_e20.act""money_e20.e5b"
 50
 
 "Money_euro100"
-None  
+None
 None  "Items\money_e100.act""money_e100.e5b"
 100
- 
+
 "Money_euro500"
-None  
+None
 None  "Items\money_e500.act""money_e500.e5b"
 150
 
 "Coca paste"
-None  
+None
 None  "Items\coca_paste.act""coca_paste.e5b"
-20000 
+20000
 
 "Folded Ammo Belt"
-None  
+None
 None  "Items\AMMO_BELT.ACT""Folded_Ammo_Belt.e5b"
-500 
+500
 
 "Folded Basic Belt"
-None  
+None
 None  "Items\belt02.act""Folded_Basic_Belt.e5b"
-400 
+400
 
 "Folded Belt_01"
-None  
+None
 None  "Items\Belt_01.act""Folded_Belt_01.e5b"
-350 
+350
 
 "Folded Belt_02"
-None  
+None
 None  "Items\Belt_02.act""Folded_Belt_02.e5b"
-450 
+450
 
 "Folded Belt_03"
-None  
+None
 None  "Items\Belt_03.act""Folded_Belt_03.e5b"
-350 
+350
 
 "Folded Belt_04"
-None  
+None
 None  "Items\Belt_04.act""Folded_Belt_04.e5b"
-0 
+0
 
 "Folded Tactical Belt"
-None  
+None
 None  "Items\tacticalbelt01.act""Folded_Tactical_Belt.e5b"
-500 
+500
 
 "Folded Tactical Vest"
-None  
+None
 None  "Items\tacticalvest.act""folded_tactical_vest.e5b"
-800 
+800
 
 "Folded Razgr_molle"
-None  
+None
 None  "Items\Razgr_molle.act""folded_razgr_molle.e5b"
-900 
+900
 
 "Folded Razgr_smerch"
-None  
+None
 None  "Items\Razgr_smerch.act""folded_razgr_smerch.e5b"
 750
 
 "Folded VestNew"
-None  
+None
 None  "Items\tacticalvest2.act""folded_vestnew.e5b"
-800 
+800
 
 "Folded Ammo Cartouche6"
-None  
+None
 None  "Items\cartouche.act""folded_cartouche_vert.e5b"
-200 
+200
 
 "Folded Ammo CartoucheVert"
-None  
+None
 None  "Items\cartouche.act""folded_cartouche_vert.e5b"
-250 
+250
 
 "Folded Ammo Cartouche"
-None  
+None
 None  "Items\cartouche.act""folded_cartouche.e5b"
-300  
+300
 
 "Backpack"
-None  
+None
 Bag_BackPack  "Items\backpack01.act""backpack1.e5b"
-1100 
+1100
 
 "Backpack_reid"
-None  
+None
 Bag_Reid  "Items\Backpack_reid.act""backpack_reid.e6b"
-1050 
+1050
 
 "Backpack_tactic"
-None  
+None
 Bag_Tactic  "Items\Backpack_tactic.act""backpack_tactic.e6b"
-1200 
+1200
 
 "Backpack_tourist"
-None  
+None
 Bag_Tourist  "Items\Backpack_tourist.act""backpack_tourist.e6b"
-1000 
+1000
 
 "Tactical Vest"
-None  
+None
 TacticalVest  "Items\tacticalvest.act""razgruzka1.e5b"
-800 
+800
 
 "Razgr_molle"
-None  
+None
 Vest_Molly  "Items\Razgr_molle.act""razgr_molle.e6b"
-900 
+900
 
 "Razgr_smerch"
-None  
+None
 Vest_Smersh  "Items\Razgr_smerch.act""razgr_smersh.e6b"
 650
 
 "VestNew"
-None  
+None
 Vest_New  "Items\tacticalvest2.act""tacticalvest2.e5b"
 800
 
 "Ammo Cartouche6"
-None  
+None
 CartoucheSmallLeft  "Items\cartouche.act""cartouche6.e5b"
-200 
+200
 
 "Ammo CartoucheVert"
-None  
+None
 CartoucheVertLeft  "Items\cartouche.act""cartouche_vert.e5b"
-250 
+250
 
 "Ammo Cartouche"
-None  
+None
 CartoucheLeft  "Items\cartouche.act""cartouche.e5b"
-300 
+300
 
 "Ammo Belt"
-None  
+None
 CartoucheSmallLeft  "Items\AMMO_BELT.ACT""Ammo_Belt.e5b"
-320 
+320
 
 "Basic Belt"
-None  
+None
 Basic_Belt  "Items\belt02.act""Belt02.e5b"
-400 
+400
 
 "Belt_01"
-None  
+None
 Belt_01  "Items\Belt_01.act""Belt_02.e6b"
-500 
+500
 
 "Belt_02"
-None  
+None
 Belt_02  "Items\Belt_02.act""Belt_01.e6b"
-370 
+370
 
 "Belt_03"
-None  
+None
 CartoucheVertLeft  "Items\Belt_03.act""Belt_03.e6b"
-340 
+340
 
 "Belt_04"
-None  
+None
 Belt_03  "Items\Belt_04.act""Belt_04.e5b"
 5
 
 "Tactical Belt"
-None  
+None
 Tactical_Belt  "Items\tacticalbelt01.act""Belt.e5b"
-400 
+400
 
 "Mauser Belt"
-None  
+None
 CartoucheLeft  "Items\Mauserbutt.act""Belt02.e5b"
 600
 
 "APS Belt"
-None  
+None
 Basic_Belt  "Items\Mauserbutt.act""Belt02.e5b"
 560
 
 "VP70 Belt"
-None  
+None
 Basic_Belt  "Items\vp70stock.act""Belt02.e5b"
 450
 
 "Diplomat"
-None  
+None
 Vest_Molly  "Items\case.act""diplomat.e5b"
-1.5 
+1.5
 
 "Portfel"
-None  
+None
 Vest_New  "Items\info_case.act""info_case.e5b"
-1 
+1
 
 "TouristBag"
-None  
+None
 Bag_Tourist  "Items\money_case.act""money_case.e5b"
-450 
+450
 
 "Case_Guitar"
-None  
+None
 Bag_Tourist  "Items\Case_Guitar.act""Case_Guitar.e5b"
-600 
+600
 
 "Case_Hard_Aluminium"
-None  
+None
 Bag_BackPack  "Items\Case_Hard_Aluminium.act""Case_Hard_Aluminium.e5b"
-4500 
+4500
 
 "Case_Hard_Big"
-None  
+None
 Bag_BackPack  "Items\Case_Hard_Big.act""Case_Hard_Big.e5b"
-4000 
+4000
 
 "Case_Hard_Medium"
-None  
+None
 Bag_BackPack  "Items\Case_Hard_Medium.act""Case_Hard_Medium.e5b"
-3000 
+3000
 
 "Case_Hard_Small"
-None  
+None
 Vest_New  "Items\Case_Hard_Small.act""Case_Hard_Small.e5b"
-200 
+200
 
 "Case_Soft_Camo"
-None  
+None
 Bag_Tactic  "Items\Case_Soft_Camo.act""Case_Soft_Camo.e5b"
-1500 
+1500
 
 "Case_Soft_Fabric"
-None  
+None
 Bag_Tactic  "Items\Case_Soft_Fabric.act""Case_Soft_Fabric.e5b"
-1000 
+1000
 
 "Case_Soft_Skin"
-None  
+None
 Bag_Tourist  "Items\Case_Soft_Skin.act""Case_Soft_Skin.e5b"
-700 
+700
 
 "Case_Soft_Small"
-None  
+None
 Vest_Molly  "Items\Case_Soft_Small.act""Case_Soft_Small.e5b"
-300 
+300
 
 "Algeira soldiers captain uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasoluniform.act""asoldierscap.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Captain  
-500 
+Uniform
+Algeira
+Soldiers
+Captain
+500
 
 "Algeira soldiers colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasoluniform.act""asoldierscol.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Colonel  
-500 
+Uniform
+Algeira
+Soldiers
+Colonel
+500
 
 "Algeira soldiers leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasoluniform.act""asoldierslt.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Leutenant  
-500 
+Uniform
+Algeira
+Soldiers
+Leutenant
+500
 
 "Algeira soldiers major uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasoluniform.act""asoldiersmaj.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Major  
-500 
+Uniform
+Algeira
+Soldiers
+Major
+500
 
 "Algeira soldiers sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasoluniform.act""asoldiersserg.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Sergant  
-500 
+Uniform
+Algeira
+Soldiers
+Sergant
+500
 
 "Algeira soldiers soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasoluniform.act""asoldierssol.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Soldier  
+Uniform
+Algeira
+Soldiers
+Soldier
 500
 
 "Algeira guards captain uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""guardscap.e6b"
-Uniform  
-Algeira  
-Guards  
-Captain  
-450 
+Uniform
+Algeira
+Guards
+Captain
+450
 
 "Algeira guards colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""guardscol.e6b"
-Uniform  
-Algeira  
-Guards  
-Colonel  
-450 
+Uniform
+Algeira
+Guards
+Colonel
+450
 
 "Algeira guards leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""guardslt.e6b"
-Uniform  
-Algeira  
-Guards  
-Leutenant  
-450 
+Uniform
+Algeira
+Guards
+Leutenant
+450
 
 "Algeira guards major uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""guardsmaj.e6b"
-Uniform  
-Algeira  
-Guards  
-Major  
-450 
+Uniform
+Algeira
+Guards
+Major
+450
 
 "Algeira guards sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""guardsserg.e6b"
-Uniform  
-Algeira  
-Guards  
-Sergant  
-450 
+Uniform
+Algeira
+Guards
+Sergant
+450
 
 "Algeira guards soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""guardssol.e6b"
-Uniform  
-Algeira  
-Guards  
-Soldier  
-450 
+Uniform
+Algeira
+Guards
+Soldier
+450
 
 "Algeira police soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policesol.e6b"
-Uniform  
-Algeira  
-Police  
-Soldier  
-600 
+Uniform
+Algeira
+Police
+Soldier
+600
 
 "Algeira police captain uniform"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policecap.e6b"
-Uniform  
-Algeira  
-Police  
-Captain  
-600 
+Uniform
+Algeira
+Police
+Captain
+600
 
 "Algeira police colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policecol.e6b"
-Uniform  
-Algeira  
-Police  
-Colonel  
-600 
+Uniform
+Algeira
+Police
+Colonel
+600
 
 "Algeira police leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policelt.e6b"
-Uniform  
-Algeira  
-Police  
-Leutenant  
-600 
+Uniform
+Algeira
+Police
+Leutenant
+600
 
 "Algeira police major uniform"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policemaj.e6b"
-Uniform  
-Algeira  
-Police  
-Major  
-600 
+Uniform
+Algeira
+Police
+Major
+600
 
 "Algeira police sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policeserg.e6b"
-Uniform  
-Algeira  
-Police  
-Sergant  
-600 
+Uniform
+Algeira
+Police
+Sergant
+600
 
 "Algeira carabineer captain uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinercap.e6b"
-Uniform  
-Algeira  
-Carabineer  
-Captain  
-500 
+Uniform
+Algeira
+Carabineer
+Captain
+500
 
 "Algeira carabineer colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinercol.e6b"
-Uniform  
-Algeira  
-Carabineer  
-Colonel  
-500 
+Uniform
+Algeira
+Carabineer
+Colonel
+500
 
 "Algeira carabineer leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinerlt.e6b"
-Uniform  
-Algeira  
-Carabineer  
-Leutenant  
-500 
+Uniform
+Algeira
+Carabineer
+Leutenant
+500
 
 "Algeira carabineer major uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinermaj.e6b"
-Uniform  
-Algeira  
-Carabineer  
-Major  
-500 
+Uniform
+Algeira
+Carabineer
+Major
+500
 
 "Algeira carabineer sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinerserg.e6b"
-Uniform  
-Algeira  
-Carabineer  
-Sergant  
-500 
+Uniform
+Algeira
+Carabineer
+Sergant
+500
 
 "Algeira carabineer soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinersol.e6b"
-Uniform  
-Algeira  
-Carabineer  
-Soldier  
-500 
+Uniform
+Algeira
+Carabineer
+Soldier
+500
 
 "Guerillas indian_soldiers camrad uniform"
-UniformItem  
+UniformItem
 None  "Items\indiansuniform.act""indianscamrad.e6b"
-Uniform  
-Guerillas  
-Indian_Soldiers  
-Camrad  
-700 
+Uniform
+Guerillas
+Indian_Soldiers
+Camrad
+700
 
 "Guerillas indian_soldiers comandante uniform"
-UniformItem  
+UniformItem
 None  "Items\indiansuniform.act""indianscomandante.e6b"
-Uniform  
-Guerillas  
-Indian_Soldiers  
-Comandante  
-700 
+Uniform
+Guerillas
+Indian_Soldiers
+Comandante
+700
 
 "Guerillas indian_soldiers combrigade uniform"
-UniformItem  
+UniformItem
 None  "Items\indiansuniform.act""indianscombrigade.e6b"
-Uniform  
-Guerillas  
-Indian_Soldiers  
-ComBrigade  
-700 
+Uniform
+Guerillas
+Indian_Soldiers
+ComBrigade
+700
 
 "Guerillas indian_soldiers comgroup uniform"
-UniformItem  
+UniformItem
 None  "Items\indiansuniform.act""indianscomgroup.e6b"
-Uniform  
-Guerillas  
-Indian_Soldiers  
-ComGroup  
-700 
+Uniform
+Guerillas
+Indian_Soldiers
+ComGroup
+700
 
 "Guerillas indian_soldiers comsquad uniform"
-UniformItem  
+UniformItem
 None  "Items\indiansuniform.act""indianscomsquad.e6b"
-Uniform  
-Guerillas  
-Indian_Soldiers  
-ComSquad  
-700 
+Uniform
+Guerillas
+Indian_Soldiers
+ComSquad
+700
 
 "Guerillas olvidad_soldiers camrad uniform"
-UniformItem  
+UniformItem
 None  "Items\olvidaduniform.act""olvidadcamrad.e6b"
-Uniform  
-Guerillas  
-Olvidad_Soldiers  
-Camrad  
-700 
+Uniform
+Guerillas
+Olvidad_Soldiers
+Camrad
+700
 
 "Guerillas olvidad_soldiers comandante uniform"
-UniformItem  
+UniformItem
 None  "Items\olvidaduniform.act""olvidadcomandante.e6b"
-Uniform  
-Guerillas  
-Olvidad_Soldiers  
-Comandante  
-700 
+Uniform
+Guerillas
+Olvidad_Soldiers
+Comandante
+700
 
 "Guerillas olvidad_soldiers combrigade uniform"
-UniformItem  
+UniformItem
 None  "Items\olvidaduniform.act""olvidadcombrigade.e6b"
-Uniform  
-Guerillas  
-Olvidad_Soldiers  
-ComBrigade  
-700 
+Uniform
+Guerillas
+Olvidad_Soldiers
+ComBrigade
+700
 
 "Guerillas olvidad_soldiers comgroup uniform"
-UniformItem  
+UniformItem
 None  "Items\olvidaduniform.act""olvidadcomgroup.e6b"
-Uniform  
-Guerillas  
-Olvidad_Soldiers  
-ComGroup  
-700 
+Uniform
+Guerillas
+Olvidad_Soldiers
+ComGroup
+700
 
 "Guerillas olvidad_soldiers comsquad uniform"
-UniformItem  
+UniformItem
 None  "Items\olvidaduniform.act""olvidadcomsquad.e6b"
-Uniform  
-Guerillas  
-Olvidad_Soldiers  
-ComSquad  
-700 
+Uniform
+Guerillas
+Olvidad_Soldiers
+ComSquad
+700
 
 "Guerillas tt_soldiers camrad uniform"
-UniformItem  
+UniformItem
 None  "Items\ttuniform.act""ttcamrad.e6b"
-Uniform  
-Guerillas  
-TT_Soldiers  
-Camrad  
-700 
+Uniform
+Guerillas
+TT_Soldiers
+Camrad
+700
 
 "Guerillas tt_soldiers comandante uniform"
-UniformItem  
+UniformItem
 None  "Items\ttuniform.act""ttcomandante.e6b"
-Uniform  
-Guerillas  
-TT_Soldiers  
-Comandante  
-700 
+Uniform
+Guerillas
+TT_Soldiers
+Comandante
+700
 
 "Guerillas tt_soldiers combrigade uniform"
-UniformItem  
+UniformItem
 None  "Items\ttuniform.act""ttcombrigade.e6b"
-Uniform  
-Guerillas  
-TT_Soldiers  
-ComBrigade  
-700 
+Uniform
+Guerillas
+TT_Soldiers
+ComBrigade
+700
 
 "Guerillas tt_soldiers comgroup uniform"
-UniformItem  
+UniformItem
 None  "Items\ttuniform.act""ttcomgroup.e6b"
-Uniform  
-Guerillas  
-TT_Soldiers  
-ComGroup  
-700 
+Uniform
+Guerillas
+TT_Soldiers
+ComGroup
+700
 
 "Guerillas tt_soldiers comsquad uniform"
-UniformItem  
+UniformItem
 None  "Items\ttuniform.act""ttcomsquad.e6b"
-Uniform  
-Guerillas  
-TT_Soldiers  
-ComSquad  
-700 
+Uniform
+Guerillas
+TT_Soldiers
+ComSquad
+700
 
 "Palinero ex president uniform"
-UniformItem  
+UniformItem
 None  "Items\guarduniform.act""ex_president_uniform.e5b"
-Uniform  
-Algeira  
-Guards  
-None  
-500 
+Uniform
+Algeira
+Guards
+None
+500
 
 "Palinero ex tormens uniform"
-UniformItem  
+UniformItem
 None  "Items\indiansuniform.act""ex_tormens_uniform.e5b"
-Uniform  
-Guerillas  
-Indian_Soldiers  
-None  
-500 
+Uniform
+Guerillas
+Indian_Soldiers
+None
+500
 
 "Palinero soldiers captain uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldierscap.e6b"
-Uniform  
-Palinero  
-Soldiers  
-Captain  
-500 
+Uniform
+Palinero
+Soldiers
+Captain
+500
 
 "Palinero soldiers colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldierscol.e6b"
-Uniform  
-Palinero  
-Soldiers  
-Colonel  
-500 
+Uniform
+Palinero
+Soldiers
+Colonel
+500
 
 "Palinero soldiers leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldierslt.e6b"
-Uniform  
-Palinero  
-Soldiers  
-Leutenant  
-500 
+Uniform
+Palinero
+Soldiers
+Leutenant
+500
 
 "Palinero soldiers major uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldiersmaj.e6b"
-Uniform  
-Palinero  
-Soldiers  
-Major  
-500 
+Uniform
+Palinero
+Soldiers
+Major
+500
 
 "Palinero soldiers sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldiersserg.e6b"
-Uniform  
-Palinero  
-Soldiers  
-Sergant  
-500 
+Uniform
+Palinero
+Soldiers
+Sergant
+500
 
 "Palinero soldiers soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldierssol.e6b"
-Uniform  
-Palinero  
-Soldiers  
-Soldier  
-500 
+Uniform
+Palinero
+Soldiers
+Soldier
+500
 
 "Palinero specialforces captain uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforcescap.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-Captain  
-450 
+Uniform
+Palinero
+SpecialForces
+Captain
+450
 
 "Palinero specialforces colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforcescol.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-Colonel  
-450 
+Uniform
+Palinero
+SpecialForces
+Colonel
+450
 
 "Palinero specialforces leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforceslt.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-Leutenant  
-450 
+Uniform
+Palinero
+SpecialForces
+Leutenant
+450
 
 "Palinero specialforces major uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforcesmaj.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-Major  
-450 
+Uniform
+Palinero
+SpecialForces
+Major
+450
 
 "Palinero specialforces sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforcesseg.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-Sergant  
-450 
+Uniform
+Palinero
+SpecialForces
+Sergant
+450
 
 "Palinero specialforces soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforcessol.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-Soldier  
-450 
+Uniform
+Palinero
+SpecialForces
+Soldier
+450
 
 "Uniform Bundle Palinero ex president"
-None  
+None
 None  "items\uniformbundle.act""uniformbundle.e5b"
-7500 
+7500
 
 "Uniform Bundle Palinero ex tormens"
-None  
+None
 None  "items\uniformbundle.act""uniformbundle.e5b"
 7500
 
 "Autodefensas uniform"
-UniformItem  
+UniformItem
 None  "Items\carabineeruniform.act""carabinersol.e6b"
-Uniform  
-Algeira  
-Carabineer  
-None  
-500 
+Uniform
+Algeira
+Carabineer
+None
+500
 
 "Digital camo uniform"
-UniformItem  
+UniformItem
 None  "Items\speznazuniform.act""specialforcessol.e6b"
-Uniform  
-Palinero  
-SpecialForces  
-None  
+Uniform
+Palinero
+SpecialForces
+None
 500
 
 "Desert camo uniform"
-UniformItem  
+UniformItem
 None  "Items\palinerosoluniform.act""psoldierssol.e6b"
-Uniform  
-Palinero  
-Soldiers  
-None  
+Uniform
+Palinero
+Soldiers
+None
 500
 
 "Algeira policia uniforme"
-UniformItem  
+UniformItem
 None  "Items\policeuniform.act""policesol.e6b"
-Uniform  
-Algeira  
-Police  
-None  
-600 
+Uniform
+Algeira
+Police
+None
+600
 
 "Algeira soldiers sz captain uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasolszuniform.act""asoldiersszcap.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Captain  
-500 
+Uniform
+Algeira
+Soldiers
+Captain
+500
 
 "Algeira soldiers sz colonel uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasolszuniform.act""asoldiersszcol.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Colonel  
-500 
+Uniform
+Algeira
+Soldiers
+Colonel
+500
 
 "Algeira soldiers sz leutenant uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasolszuniform.act""asoldiersszlt.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Leutenant  
-500 
+Uniform
+Algeira
+Soldiers
+Leutenant
+500
 
 "Algeira soldiers sz major uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasolszuniform.act""asoldiersszmaj.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Major  
-500 
+Uniform
+Algeira
+Soldiers
+Major
+500
 
 "Algeira soldiers sz sergant uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasolszuniform.act""asoldiersszserg.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Sergant  
-500 
+Uniform
+Algeira
+Soldiers
+Sergant
+500
 
 "Algeira soldiers sz soldier uniform"
-UniformItem  
+UniformItem
 None  "Items\algeirasolszuniform.act""asoldiersszsol.e6b"
-Uniform  
-Algeira  
-Soldiers  
-Soldier  
+Uniform
+Algeira
+Soldiers
+Soldier
 500
 
 "Sniper camouflage"
-Camouflage  
+Camouflage
 None  "Items\sniper_kit.act""sniperkit.e6b"
 Uniform  "250_sniper.azp"
-1000 
+1000
 
 "Shotgun manual"
-None  
+None
 None  "Items\shotgun_manual.act""shotgun_manual.e5b"
-100 
+100
 
 "Manual Winchester"
-None  
+None
 None  "Items\winchester_manual.act""winchester_manual.e5b"
-50 
+50
 
 "Manual AKM"
-None  
+None
 None  "Items\manual_akm.act""manual_akm.e5b"
-105 
+105
 
 "SVD manual"
-None  
+None
 None  "Items\svd_manual.act""svd_manual.e5b"
-100 
+100
 
 "FN FAL manual"
-None  
+None
 None  "Items\fal_manual.act""fal_manual.e5b"
-100 
+100
 
 "Manual M14"
-None  
+None
 None  "Items\manual_m14.act""manual_m14.e5b"
-117 
+117
 
 "Manual AR15"
-None  
+None
 None  "Items\manual_ar15.act""manual_ar15.e5b"
-109 
+109
 
 "M203 manual"
-None  
+None
 None  "Items\m203_manual.act""m203_manual.e5b"
-100 
+100
 
 "Manual G3"
-None  
+None
 None  "Items\manual_g3.act""manual_g3.e5b"
-103 
+103
 
 "MP5 manual"
-None  
+None
 None  "Items\mp5manual.act""mp5_manual.e5b"
-100 
+100
 
 "Manual G36"
-None  
+None
 None  "Items\manual_g36.act""manual_g36.e5b"
-107 
+107
 
 "Manual AUG"
-None  
+None
 None  "Items\manual_aug.act""manual_aug.e5b"
-98 
+98
 
 "Manual SA80"
-None  
+None
 None  "Items\manual_sa80.act""manual_sa80.e5b"
-101 
+101
 
 "Manual SIG"
-None  
+None
 None  "Items\manual_sig.act""manual_sig.e5b"
-96 
+96
 
 "Manual Galil"
-None  
+None
 None  "Items\manual_galil.act""manual_galil.e5b"
-98 
+98
 
 "Manual Tavor"
-None  
+None
 None  "Items\manual_tavor.act""manual_tavor.e5b"
 100
 
 "Manual MineDetector"
-None  
+None
 None  "Items\mdetector_manual.act""mdetector_manual.e5b"
 290
 
 "Book_Sapper"
-None  
+None
 None  "Items\mines_manual.act""mines_manual.e5b"
-340 
+340
 
 "Book_Sniper"
-None  
+None
 None  "Items\sniper_book.act""sniper_book.e5b"
-170 
+170
 
 "Book_Sniper2"
-None  
+None
 None  "Items\ussniper_book.act""ussniper_book.e5b"
-370 
+370
 
 "Book_Medic"
-None  
+None
 None  "Items\medical_book.act""medical_book.e5b"
-1076 
+1076
 
 "Book_Medic2"
-None  
+None
 None  "Items\infectdes_book.act""infectdes_book.e5b"
 418
 
 "Book_Medic3"
-None  
+None
 None  "Items\warsurgery_book.act""warsurgery_book.e5b"
-330 
+330
 
 "Book_Medic4"
-None  
+None
 None  "Items\redcross_handbook.act""redcross_handbook.e5b"
-510 
+510
 
 "Book_Physics"
-None  
+None
 None  "Items\physics_book.act""physics_book.e5b"
-476 
+476
 
 "Book_Suntzu"
-None  
+None
 None  "Items\suntzu_book.act""suntzu_book.e5b"
 333
 
 "Book_Carnegie"
-None  
+None
 None  "Items\carnegie_book.act""carnegie_book.e5b"
-415 
+415
 
 "Book_Bible"
-None  
+None
 None  "Items\bible.act""bible.e5b"
-1210 
+1210
 
 "Car_manual_btr"
-None  
+None
 None  "Items\btr_manual.act""btr_manual.e5b"
-380 
+380
 
 "Car_manual_fmtv"
-None  
+None
 None  "Items\fmtv_manual.act""fmtv_manual.e5b"
-410 
+410
 
 "Car_manual_gaz"
-None  
+None
 None  "Items\gaz_manual.act""gaz_manual.e5b"
-275 
+275
 
 "Car_manual_hummer"
-None  
+None
 None  "Items\hummer_manual.act""hummer_manual.e5b"
-310 
+310
 
 "Car_manual_jeep"
-None  
+None
 None  "Items\jeep_manual.act""jeep_manual.e5b"
-200 
+200
 
 "Car_manual_ural"
-None  
+None
 None  "Items\ural_manual.act""ural_manual.e5b"
-523 
+523
 
 "Car_manual_btr40"
-None  
+None
 None  "Items\btr40_manual.act""btr40_manual.e5b"
-340 
+340
 
 "Car_manual_gelendewagen"
-None  
+None
 None  "Items\Manual_gelend.act""Manual_gelend.e5b"
-260 
+260
 
 "Car_manual_kawamoto"
-None  
+None
 None  "Items\kawa_moto_manual.act""kawa_moto_manual.e5b"
-230 
+230
 
 "Car_manual_landrover"
-None  
+None
 None  "Items\landrover_manual.act""landrover_manual.e5b"
-360 
+360
 
 "Car_manual_m113"
-None  
+None
 None  "Items\m113_manual.act""m113_manual.e5b"
-490 
+490
 
 "Car_manual_toyota"
-None  
+None
 None  "Items\toyota_manual.act""toyota_manual.e5b"
-287 
+287
 
 "Car_manual_uaz"
-None  
+None
 None  "Items\uaz469_manual.act""uaz469_manual.e5b"
-435 
+435
 
 "Car_manual_unimog"
-None  
+None
 None  "Items\Manual_unimog.act""Manual_unimog.e5b"
-330 
+330
 
 "Car_manual_yamamoto"
-None  
+None
 None  "Items\yama_moto_manual.act""yama_moto_manual.e5b"
 220
 
 "boeingmanual"
-None  
+None
 None  "Items\boeing.act""boeing.e5b"
 830
 
 "Gunshop"
-None  
+None
 None  "Items\gunshop.act""gunshop.e5b"
-250 
+250
 
 "XXX1"
-None  
+None
 None  "Items\xxx1.act""xxx1.e5b"
-270 
+270
 
 "XXX2"
-None  
+None
 None  "Items\xxx2.act""xxx2.e5b"
-268 
+268
 
 "XXX3"
-None  
+None
 None  "Items\xxx3.act""xxx3.e5b"
-250 
+250
 
 "XXX4"
-None  
+None
 None  "Items\xxx4.act""xxx4.e5b"
-252 
+252
 
 "Sack"
-Turtle  
+Turtle
 Bag_BackPack  "Items\sack.act""ore_sack.e5b"
-78 
+78
 
 "Sack folded"
-None  
+None
 None  "Items\goldsack.act""sack_folded.e5b"
-78 
+78
 
 "Belt"
-None  
+None
 None  "Items\tacticalbelt01.act""army_belt.e5b"
-250 
+250
 
 //semiquest items
 
 "paint_pack"
-None  
+None
 None  "Items\paint_pack.act""paint_pack.e5b"
-500 
+500
 
 "RadioComponents"
-None  
+None
 None  "Items\tools.act""radiotools.e5b"
-3000 
+3000
 
 "Ore_sack"
-Turtle  
+Turtle
 None  "Items\sack.act""ore_sack.e5b"
-100000 
+100000
 
 "Golden Turtle"
-Turtle  
+Turtle
 None  "Items\turtle.act""turtle.e5b"
-30000 
+30000
 
-END  
+END
