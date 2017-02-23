@@ -16704,7 +16704,7 @@ Class			SMG
 Caliber			".22LR"
 Weight			2600
 PrepareTime		0.30
-SingleFireTime	0.34
+SingleFireTime	0.32
 BurstFireTime	0.055
 SpeedModifier	1.12
 Resource		1990
@@ -16714,7 +16714,7 @@ HeatCapacity	2000
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		150
 EffectiveRange	90
 RangeCurvature	1.9
@@ -49372,7 +49372,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3450
 PrepareTime		0.36
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.0706
 SpeedModifier	1.03
 Resource		2000
@@ -49382,7 +49382,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		300
 EffectiveRange	155
 RangeCurvature	2
@@ -49446,7 +49446,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3450
 PrepareTime		0.36
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.0706
 SpeedModifier	1.03
 Resource		2000
@@ -49456,7 +49456,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		300
 EffectiveRange	155
 RangeCurvature	2
@@ -49483,7 +49483,7 @@ Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3450
 PrepareTime		0.36
-SingleFireTime	0.67
+SingleFireTime	0.65
 BurstFireTime	0.0706
 SpeedModifier	1.03
 Resource		2000
@@ -49493,7 +49493,7 @@ HeatCapacity	55
 Single			1
 Burst			1
 CutOff			0
-BurstHitStart	1
+BurstHitStart	2
 MaxRange		300
 EffectiveRange	155
 RangeCurvature	2
