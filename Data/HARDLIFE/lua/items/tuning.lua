@@ -67,6 +67,12 @@ end
  ["Assaul Rifle Type81"] = "Assaul Rifle Type81 Tac",
  ["Assaul Rifle Type81 folded"] = "Assaul Rifle Type81 Tac folded",
  ["Assaul Rifle Type81S"] = "Assaul Rifle Type81S Tac",
+ ["HK MC51 (7.62x51mm)"] = "HK MC51 RIS (7.62x51mm)",
+ ["HK MC51 (7.62x51mm) folded"] = "HK MC51 RIS (7.62x51mm) folded",
+ ["HK MC51 S (7.62x51mm)"] = "HK MC51 RIS S (7.62x51mm)",
+ ["HK MC51 CIV (7.62x51mm)"] = "HK MC51 RIS CIV (7.62x51mm)",
+ ["HK MC51 CIV (7.62x51mm) folded"] = "HK MC51 RIS CIV (7.62x51mm) folded",
+ ["HK MC51 S CIV (7.62x51mm)"] = "HK MC51 RIS S CIV (7.62x51mm)",
 -- ["Assault Rifle Galil SAR (5.56mm)"] = "Assault Rifle Galil SAR (5.56mm)+M203",
 -- ["Assault Rifle Galil AR (5.56mm)"] = "Assault Rifle Galil AR (5.56mm)+M203",
 --parts
@@ -80,6 +86,8 @@ end
  ["DaewooHG"] = "DaewooRIS",
  ["Type81 forestock RIS"] = "Type81 forestock",
  ["Type81 forestock"] = "Type81 forestock RIS",
+ ["MC51 forestock RIS"] = "MC51 forestock",
+ ["MC51 forestock"] = "MC51 forestock RIS",
 -- ["Galil forestock"] = "M203B (40mm LV)",
 }
 
@@ -110,6 +118,12 @@ end
  ["Assaul Rifle Type81 Tac"] = "Assaul Rifle Type81",
  ["Assaul Rifle Type81 Tac folded"] = "Assaul Rifle Type81 folded",
  ["Assaul Rifle Type81S Tac"] = "Assaul Rifle Type81S",
+ ["HK MC51 RIS (7.62x51mm)"] = "HK MC51 (7.62x51mm)",
+ ["HK MC51 RIS (7.62x51mm) folded"] = "HK MC51 (7.62x51mm) folded",
+ ["HK MC51 RIS S (7.62x51mm)"] = "HK MC51 S (7.62x51mm)",
+ ["HK MC51 RIS CIV (7.62x51mm)"] = "HK MC51 CIV (7.62x51mm)",
+ ["HK MC51 RIS CIV (7.62x51mm) folded"] = "HK MC51 CIV (7.62x51mm) folded",
+ ["HK MC51 RIS S CIV (7.62x51mm)"] = "HK MC51 S CIV (7.62x51mm)",
  --["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
  --["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
 }
@@ -293,6 +307,12 @@ function CanAddForestock(item)
 		["Assaul Rifle Type81 Tac"] = "Type81 forestock",
 		["Assaul Rifle Type81 Tac folded"] = "Type81 forestock",
 		["Assaul Rifle Type81S Tac"] = "Type81 forestock",
+		["HK MC51 RIS (7.62x51mm)"] = "MC51 forestock",
+		["HK MC51 RIS (7.62x51mm) folded"] = "MC51 forestock",
+		["HK MC51 RIS S (7.62x51mm)"] = "MC51 forestock",
+		["HK MC51 RIS CIV (7.62x51mm)"] = "MC51 forestock",
+		["HK MC51 RIS CIV (7.62x51mm) folded"] = "MC51 forestock",
+		["HK MC51 RIS S CIV (7.62x51mm)"] = "MC51 forestock",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -330,6 +350,12 @@ function CanAddRISForestock(item)
 		["Assaul Rifle Type81"] = "Type81 forestock RIS",
 		["Assaul Rifle Type81 folded"] = "Type81 forestock RIS",
 		["Assaul Rifle Type81S"] = "Type81 forestock RIS",
+		["HK MC51 (7.62x51mm)"] = "MC51 forestock RIS",
+		["HK MC51 (7.62x51mm) folded"] = "MC51 forestock RIS",
+		["HK MC51 S (7.62x51mm)"] = "MC51 forestock RIS",
+		["HK MC51 CIV (7.62x51mm)"] = "MC51 forestock RIS",
+		["HK MC51 CIV (7.62x51mm) folded"] = "MC51 forestock RIS",
+		["HK MC51 S CIV (7.62x51mm)"] = "MC51 forestock RIS",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -589,6 +615,8 @@ AddItemContextMenu("DaewooHG", action_replace_for_end, ChangeForestock, CanAddFo
 AddItemContextMenu("DaewooRIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("Type81 forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("Type81 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
+AddItemContextMenu("MC51 forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
+AddItemContextMenu("MC51 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 --AddItemContextMenu("Galil forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("M203B (40mm LV)", _t"lang/lua/tuning/mount", ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("MP5 butt A2", action_replace_butt, ChangeStock, CanChangeFoldStock)
