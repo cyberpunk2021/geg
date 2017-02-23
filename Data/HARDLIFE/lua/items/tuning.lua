@@ -73,6 +73,13 @@ end
  ["HK MC51 CIV (7.62x51mm)"] = "HK MC51 RIS CIV (7.62x51mm)",
  ["HK MC51 CIV (7.62x51mm) folded"] = "HK MC51 RIS CIV (7.62x51mm) folded",
  ["HK MC51 S CIV (7.62x51mm)"] = "HK MC51 RIS S CIV (7.62x51mm)",
+ ["Machinegun RK71MG (5.56)"] = "Machinegun RK71MG HG (5.56)",
+ ["Machinegun RK71MG (308)"] = "Machinegun RK71MG HG (308)",
+ ["Machinegun RK71MG (7.62)"] = "Machinegun RK71MG HG (7.62)",
+ ["Assault Rifle RK71W (5.56)"] = "Assault Rifle RK71W2 (5.56)",
+ ["Assault Rifle RK71W CIV (5.56)"] = "Assault Rifle RK71W2 CIV (5.56)",
+ ["Assault Rifle RK71W (7.62)"] = "Assault Rifle RK71W2 (7.62)",
+ ["Assault Rifle RK71W CIV (7.62)"] = "Assault Rifle RK71W2 CIV (7.62)",
 -- ["Assault Rifle Galil SAR (5.56mm)"] = "Assault Rifle Galil SAR (5.56mm)+M203",
 -- ["Assault Rifle Galil AR (5.56mm)"] = "Assault Rifle Galil AR (5.56mm)+M203",
 --parts
@@ -88,6 +95,8 @@ end
  ["Type81 forestock"] = "Type81 forestock RIS",
  ["MC51 forestock RIS"] = "MC51 forestock",
  ["MC51 forestock"] = "MC51 forestock RIS",
+ ["RK71HG"] = "RK71W2HG",
+ ["RK71W2HG"] = "RK71HG",
 -- ["Galil forestock"] = "M203B (40mm LV)",
 }
 
@@ -124,6 +133,13 @@ end
  ["HK MC51 RIS CIV (7.62x51mm)"] = "HK MC51 CIV (7.62x51mm)",
  ["HK MC51 RIS CIV (7.62x51mm) folded"] = "HK MC51 CIV (7.62x51mm) folded",
  ["HK MC51 RIS S CIV (7.62x51mm)"] = "HK MC51 S CIV (7.62x51mm)",
+ ["Machinegun RK71MG HG (5.56)"] = "Machinegun RK71MG (5.56)",
+ ["Machinegun RK71MG HG (308)"] = "Machinegun RK71MG (308)",
+ ["Machinegun RK71MG HG (7.62)"] = "Machinegun RK71MG (7.62)",
+ ["Assault Rifle RK71W2 (5.56)"] = "Assault Rifle RK71W (5.56)",
+ ["Assault Rifle RK71W2 CIV (5.56)"] = "Assault Rifle RK71W CIV (5.56)",
+ ["Assault Rifle RK71W2 (7.62)"] = "Assault Rifle RK71W (7.62)",
+ ["Assault Rifle RK71W2 CIV (7.62)"] = "Assault Rifle RK71W CIV (7.62)",
  --["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
  --["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
 }
@@ -313,6 +329,13 @@ function CanAddForestock(item)
 		["HK MC51 RIS CIV (7.62x51mm)"] = "MC51 forestock",
 		["HK MC51 RIS CIV (7.62x51mm) folded"] = "MC51 forestock",
 		["HK MC51 RIS S CIV (7.62x51mm)"] = "MC51 forestock",
+		["Machinegun RK71MG HG (5.56)"] = "RK71HG",
+		["Machinegun RK71MG HG (308)"] = "RK71HG",
+		["Machinegun RK71MG HG (7.62)"] = "RK71HG",
+		["Assault Rifle RK71W2 (5.56)"] = "RK71HG",
+		["Assault Rifle RK71W2 CIV (5.56)"] = "RK71HG",
+		["Assault Rifle RK71W2 (7.62)"] = "RK71HG",
+		["Assault Rifle RK71W2 CIV (7.62)"] = "RK71HG",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -356,6 +379,13 @@ function CanAddRISForestock(item)
 		["HK MC51 CIV (7.62x51mm)"] = "MC51 forestock RIS",
 		["HK MC51 CIV (7.62x51mm) folded"] = "MC51 forestock RIS",
 		["HK MC51 S CIV (7.62x51mm)"] = "MC51 forestock RIS",
+		["Machinegun RK71MG (5.56)"] = "RK71W2HG",
+		["Machinegun RK71MG (308)"] = "RK71W2HG",
+		["Machinegun RK71MG (7.62)"] = "RK71W2HG",
+		["Assault Rifle RK71W (5.56)"] = "RK71W2HG",
+		["Assault Rifle RK71W CIV (5.56)"] = "RK71W2HG",
+		["Assault Rifle RK71W (7.62)"] = "RK71W2HG",
+		["Assault Rifle RK71W CIV (7.62)"] = "RK71W2HG",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -617,6 +647,8 @@ AddItemContextMenu("Type81 forestock", action_replace_for_end, ChangeForestock, 
 AddItemContextMenu("Type81 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("MC51 forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("MC51 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
+AddItemContextMenu("RK71HG", action_replace_for_end, ChangeForestock, CanAddForestock)
+AddItemContextMenu("RK71W2HG", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 --AddItemContextMenu("Galil forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("M203B (40mm LV)", _t"lang/lua/tuning/mount", ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("MP5 butt A2", action_replace_butt, ChangeStock, CanChangeFoldStock)
