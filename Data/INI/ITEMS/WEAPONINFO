@@ -49315,20 +49315,12 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
 ShootSound		"Weapon\Shoot\FN F2000.wav"
-ATT Laser		1 "F2000 Laser"
-blocks
-ILauncher
-ATT Light		1 "F2000 Light"
-blocks
-ILauncher
-ATT Scope 2 "F2000 Scope""WR"
+ATT Laser		1 "F2000 Laser" blocks ILauncher
+ATT Light		1 "F2000 Light" blocks ILauncher
+ATT Scope		2 "F2000 Scope""WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	1 "F2000 Launcher"
-blocks
-Laser
-and
-Light
+ATT ILauncher	1 "F2000 Launcher" blocks Laser and Light
 ATT Bayonet		0
 ATT Magazine	1 "NATO 5.56"
 StdPlug			"Rifle ammo clip (M16/30)"
