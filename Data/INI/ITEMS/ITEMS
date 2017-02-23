@@ -837,6 +837,16 @@ None
 None  "Items\hk53fore_RIS.act""hk53fore_RIS.e5b"
 480
 
+"Type81 forestock"
+None
+None  "Items\hk53fore.act""hk53fore.e5b"
+330
+
+"Type81 forestock RIS"
+None
+None  "Items\hk53fore_RIS.act""hk53fore_RIS.e5b"
+480
+
 "Galil forestock"
 None
 None  "Items\forestockAR.act""forestockAR.e5b"

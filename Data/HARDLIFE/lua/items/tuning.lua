@@ -64,6 +64,9 @@ end
  ["Assault Rifle Daewoo DR300 (7.62mm)"] = "Assault Rifle Daewoo DR300 RIS (7.62mm)",
  ["Assault Rifle M4A1 (5.56mm)"] = "Assault Rifle M4A1 RIS (5.56mm)",
  ["Assault Rifle M4A1 (5.56mm) folded"] = "Assault Rifle M4A1 RIS (5.56mm) folded",
+ ["Assaul Rifle Type81"] = "Assaul Rifle Type81 Tac",
+ ["Assaul Rifle Type81 folded"] = "Assaul Rifle Type81 Tac folded",
+ ["Assaul Rifle Type81S"] = "Assaul Rifle Type81S Tac",
 -- ["Assault Rifle Galil SAR (5.56mm)"] = "Assault Rifle Galil SAR (5.56mm)+M203",
 -- ["Assault Rifle Galil AR (5.56mm)"] = "Assault Rifle Galil AR (5.56mm)+M203",
 --parts
@@ -75,6 +78,8 @@ end
  ["M4 forestock"] = "M4 forestock RIS",
  ["DaewooRIS"] = "DaewooHG",
  ["DaewooHG"] = "DaewooRIS",
+ ["Type81 forestock RIS"] = "Type81 forestock",
+ ["Type81 forestock"] = "Type81 forestock RIS",
 -- ["Galil forestock"] = "M203B (40mm LV)",
 }
 
@@ -102,6 +107,9 @@ end
  ["Assault Rifle HK53A3 RIS (5.56mm) folded"] = "Assault Rifle HK53A3 (5.56mm) folded",
  ["Assault Rifle M4A1 RIS (5.56mm)"] = "Assault Rifle M4A1 (5.56mm)",
  ["Assault Rifle M4A1 RIS (5.56mm) folded"] = "Assault Rifle M4A1 (5.56mm) folded",
+ ["Assaul Rifle Type81 Tac"] = "Assaul Rifle Type81",
+ ["Assaul Rifle Type81 Tac folded"] = "Assaul Rifle Type81 folded",
+ ["Assaul Rifle Type81S Tac"] = "Assaul Rifle Type81S",
  --["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
  --["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
 }
@@ -282,6 +290,9 @@ function CanAddForestock(item)
 		["Assault Rifle HK53A3 RIS (5.56mm) folded"] = "HK53 forestock",
 		["Assault Rifle M4A1 RIS (5.56mm)"] = "M4 forestock",
 		["Assault Rifle M4A1 RIS (5.56mm) folded"] = "M4 forestock",
+		["Assaul Rifle Type81 Tac"] = "Type81 forestock",
+		["Assaul Rifle Type81 Tac folded"] = "Type81 forestock",
+		["Assaul Rifle Type81S Tac"] = "Type81 forestock",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -316,6 +327,9 @@ function CanAddRISForestock(item)
 		["Assault Rifle Daewoo DR300 (7.62mm)"] = "DaewooRIS",
 		["Assault Rifle M4A1 (5.56mm)"] = "M4 forestock RIS",
 		["Assault Rifle M4A1 (5.56mm) folded"] = "M4 forestock RIS",
+		["Assaul Rifle Type81"] = "Type81 forestock RIS",
+		["Assaul Rifle Type81 folded"] = "Type81 forestock RIS",
+		["Assaul Rifle Type81S"] = "Type81 forestock RIS",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -573,6 +587,8 @@ AddItemContextMenu("M4 forestock", action_replace_for_end, ChangeForestock, CanA
 AddItemContextMenu("M4 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("DaewooHG", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("DaewooRIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
+AddItemContextMenu("Type81 forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
+AddItemContextMenu("Type81 forestock RIS", action_replace_for_end, ChangeForestock, CanAddRISForestock)
 --AddItemContextMenu("Galil forestock", action_replace_for_end, ChangeForestock, CanAddForestock)
 AddItemContextMenu("M203B (40mm LV)", _t"lang/lua/tuning/mount", ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("MP5 butt A2", action_replace_butt, ChangeStock, CanChangeFoldStock)
