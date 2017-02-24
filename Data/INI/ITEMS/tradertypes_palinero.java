@@ -10,6 +10,15 @@ Item "DPM/RP-46 Kit" Level 3 Price 150
 
 //////////
 
+
+Item	"Rifle Mosin_m91-30 (7.62x54mm)"	Level 3 Price		150
+Item	"Rifle Mosin_1944 (7.62x54mm)"	Level 3 Price			130
+Item	"Rifle Mosin_m91-30pu (7.62x54mm)"	Level 3 Price		400
+Item	"Rifle Mosin_m91-59 (7.62x54mm)"	Level 3 Price		200
+Item	"Rifle Mosin_m91-30 Unique (7.62x54mm)"	Level 5 Price		1650
+
+Item	"Carabine Type 84 (7.62x39mm)"		Level 2 Price		500
+
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
 Item	"Pistol PSS (7.62x42mm)"	Level 1 Price		1600

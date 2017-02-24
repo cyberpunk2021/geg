@@ -94323,7 +94323,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"rem700 mag"
-StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+StdPlug			"Optical Sight Leupold VX-1 3-9x50 (WR)"
 ACTOR			"Items\rem700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -94481,7 +94481,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag .308"
-StdPlug			"Optical Sight Leupold Mark 4 10x40 (M24)"
+StdPlug			"Optical Sight Leupold VX-1 3-9x50 (WR)"
 ACTOR			"Items\rem700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -94559,7 +94559,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"REM700 300WM"
-StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+StdPlug			"Optical Sight Leupold VX-1 3-9x50 (WR)"
 ACTOR			"Items\REM700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -94598,7 +94598,7 @@ ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"REM700 338"
 StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
-ACTOR			"Items\REM700p.act"
+ACTOR			"Items\REM700.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -94635,7 +94635,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"REM700 338"
-StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+StdPlug			"Optical Sight Leupold VX-1 3-9x50 (WR)"
 ACTOR			"Items\REM700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -94711,7 +94711,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"rem 375 mag"
-StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
+StdPlug			"Optical Sight Leupold VX-1 3-9x50 (WR)"
 ACTOR			"Items\REM700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle

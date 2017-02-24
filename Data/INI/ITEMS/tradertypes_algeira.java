@@ -8,6 +8,13 @@ Item	"Military_sectret"					Level 16	Price	33000
 Item	"Assault Rifle M4A1 (.300 BLK)"	Level 6 Price			3200
 Item	"Assault Rifle M4A1 CQB (.300 BLK)"	Level 6 Price			3200
 Item	"Assault Rifle M4A1 CQB AG (.300 BLK)"	Level 6 Price			3200
+Item "Machinegun Madsen (308)" Level 3 Price 1000
+
+Item "Assault Rifle SC2010 (7.62mm)" Level 11 Price 3800
+
+Item	"Pistol M.1911 A1 (.45 ACP)" Level 1 Price			570
+
+Item "Pistol Norinco M.1911 A1 (.45 ACP)" Level 1 Price 430
 
 Item "AAC Honey Badger" Level 7 Price 3500
 Item "SW MP15 300BLK CQC" Level 5 Price 2700
@@ -20,6 +27,9 @@ Item "Assault Rifle M4 SOPMOD (300BLK)" Level 6 Price 2700
 Item	"Silencer CYCLONE-K (.300 BLK)"	Level 5 Price			1500
 Item	"762x51 Suppressor (.300 BLK)"	Level 5 Price			2250
 
+Item "Chain-gun ammo box Alt (FN MAG 7.62x51/200)" Level 7 Price 500
+Item "Chain-gun ammo box Alt (M240 7.62x51/100)" Level 7 Price 200
+
 ////NEW ARMY WEAPONS
 
 Item	"Rifle ammo clip (Galil/50)" Level 6 Price	100.0
@@ -31,8 +41,6 @@ Item	"Pistol clip (FN/20)" Level 1 Price                                 65.0
 Item	"SMG ammo clip (P90/50)" Level 2 Price                              85.0
 
 
-Item "Submachine-gun Pindad PM3 (9mm)" Level 6 Price 2100
-Item "Submachine-gun Pindad PM3 (9mm) folded" Level 6 Price 2100
 
 Item "Assault Rifle C7FT PDW (5.56mm)" Level 5 Price 2900
 Item "Assault Rifle C7FT PDW B (5.56mm)" Level 5 Price 2900
