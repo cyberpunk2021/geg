@@ -6058,12 +6058,8 @@ ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\Beretta92.wav"
-ATT Laser		1 "WR"
-blocks
-Light
-ATT Light		1 "WR"
-blocks
-Laser
+ATT Laser		1 "WR" blocks Light
+ATT Light		1 "WR" blocks Laser
 ATT Scope		1 "PistolDocter"
 ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
