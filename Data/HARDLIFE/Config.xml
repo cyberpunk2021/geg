@@ -597,18 +597,18 @@
     <rifles>Assault Rifle AR-15A2 (5.56mm)</rifles>
     <rifles>Assault Rifle Colt Commando 733</rifles>
     <rifles>Assault Rifle Colt Commando 933</rifles>
-    <rifles>Assault Rifle Colt Commando 933 asalto</rifles>
+    <rifles>Assault Rifle Colt Commando 933 FG</rifles>
     <rifles>Assault Rifle XM-15-E2S (5.56mm)</rifles>
-    <rifles>Assault Rifle XM-15-E2S (5.56mm) asalto</rifles>
+    <rifles>Assault Rifle XM-15-E2S FG (5.56mm)</rifles>
     <rifles>Assault Rifle M4A1 (5.56mm)</rifles>
     <rifles>Assault Rifle M4A1+M203</rifles>
     <rifles>Assault Rifle M4A1 RIS (5.56mm)</rifles>
-    <rifles>Assault Rifle M4A1 (5.56mm) asalto</rifles>
+    <rifles>Assault Rifle M4A1 RIS FG (5.56mm)</rifles>
     <rifles>Assault Rifle M16A1 (5.56mm)</rifles>
     <rifles>Assault Rifle M16A2 (5.56mm)</rifles>
     <rifles>Assault Rifle M16A2+M203 (5.56mm)</rifles>
     <rifles>Assault Rifle M16A3 (5.56mm)</rifles>
-    <rifles>Assault Rifle M16A4 (5.56mm) asalto</rifles>
+    <rifles>Assault Rifle M16A3 MWS FG (5.56mm)</rifles>
     <rifles>Assault Rifle M-14 (7.62x51mm)</rifles>
     <rifles>Assault Rifle Masada (5.56mm)</rifles>
 	<rifles>Assault Rifle Keltec CAR (7.62mm)</rifles>
@@ -635,7 +635,7 @@
 	<rifles>Assault Rifle Government Carbine (5.56mm)</rifles>
 	<rifles>Assault Rifle Government Carbine (5.56mm) folded</rifles>
 	<rifles>Assault Rifle XM-15-E2S (5.56mm) folded</rifles>
-	<rifles>Assault Rifle XM-15-E2S (5.56mm) asalto folded</rifles>
+	<rifles>Assault Rifle XM-15-E2S FG (5.56mm) folded</rifles>
 	<rifles>Assault Rifle Sporter Lightweight (5.56mm)</rifles>
 	<rifles>Assault Rifle M16A1 HG CIV (5.56mm)</rifles>
 	<rifles>Assault Rifle M16 CIV (5.56mm)</rifles>
@@ -717,7 +717,7 @@
 	<rifles>Assault Rifle CQA (5.56mm) folded</rifles>
 	<rifles>Assault Rifle M4A1+M203 folded</rifles>
 	<rifles>Assault Rifle M4A1 RIS (5.56mm) folded</rifles>
-	<rifles>Assault Rifle M4A1 (5.56mm) asalto folded</rifles>
+	<rifles>Assault Rifle M4A1 RIS FG (5.56mm) folded</rifles>
 	<rifles>Assault Rifle Colt Commando 733 folded</rifles>
 	<rifles>Assault Rifle Colt Commando 933 folded</rifles>
 	<rifles>Small Assault Rifle M4 CQB-R (5.56mm)</rifles>
