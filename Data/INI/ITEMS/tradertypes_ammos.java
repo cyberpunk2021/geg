@@ -110,7 +110,7 @@ Item "Ammo Box 44 MAG Algeira" Level 1 Price 0.001
 
 Item "Ammo box 500 HLA (Magnum .44)" Level 3 Price 100
 Item "Big Ammo box JHP (Magnum .44)" Level 2 Price 100
-Item "Big Ammo box Algeira (Magnum .44)" Level 2 price 100
+Item "Big Ammo box Algeira (Magnum .44)" Level 2 Price 100
 
 /////////
 //9x18

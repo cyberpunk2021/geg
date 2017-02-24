@@ -2235,6 +2235,18 @@ verificar se m16a2+m203 modelo funciona no jogo
 original fn fnc (pindad ss1) verificar itembones
 6.8 spc mag clipped faltando
 
+======
+erros shop:
+
+rico reyes - sv98 mag
+rico reyes - 9a91
+tomas kertino - arisaka 7.7 box
+
+em ammo type:
+Item "Big Ammo box Algeira (Magnum .44)" Level 2 price 100
+Item "Ammo box (7.62x51 SN)" Level 7 Price Level 4 0.0001
+======
+
 colocar mg4 e madsen bipod em tuning.lua
 
 adicionar:
