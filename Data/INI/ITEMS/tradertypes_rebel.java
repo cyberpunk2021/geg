@@ -13,6 +13,30 @@ Item "DPM/RP-46 Kit" Level 3 Price 150
 
 ////////////REBEL GUNS
 
+Item "M203 AK (40mm LV)" 1500
+
+Item	"Knight Masterkey Shotgun (12 ga)"			1100.0
+Item	"Knight Masterkey Shotgun AK (12 ga)"			1100.0
+
+Item "Machinegun M77 (7.62x51mm)" 3000
+Item "Machinegun M77 F (7.62x51mm)" 3100
+
+Item "Machinegun M72 (7.62x39mm)" Level 8 Price 2750
+Item "Machinegun M72 F (7.62x39mm)" Level 8 Price 2800
+Item "Machinegun Vz58 (7.62x39mm)" Level 9 Price 2900
+Item "Machinegun Vz58v (7.62x39mm)" Level 9 Price 3000
+Item "Machinegun RPKM (7.62mm)" Level 10 Price 2900
+Item "Machinegun RK71MG (7.62)" Level 9 Price 3100
+Item "Machinegun RK71MG (5.56)" Level 9 Price 3200
+Item "Machinegun RK71MG (308)" Level 10 Price 3900
+Item "Machinegun RK71MG HG (7.62)" Level 9 Price 3100
+Item "Machinegun RK71MG HG (5.56)" Level 9 Price 3200
+Item "Machinegun RK71MG HG (308)" Level 10 Price 3900
+
+
+Item "Machinegun STG944 (5.56mm)" 2800
+Item	"Assault Rifle HK32KA3 (7.62x39mm)"			1900
+
 Item "Machinegun Madsen (308)" Level 3 Price 1000
 
 Item	"Submachine-gun Thompson-M1 (.45 ACP)" Level 1 Price		900
@@ -123,6 +147,11 @@ Item "Assault Rifle INSAS Black (5.56x45mm)" 2500
 Item "Assault Rifle QBZ03 5.8" 3400
 Item "Assault Rifle QBZ03 5.56" 3200
 
+Item "Machinegun QBB 95 (5.8)" 3100
+Item "Machinegun QBB 97 (5.56)" 3200
+Item "Machinegun QBB 95-1 (5.8)" 3600
+Item "Machinegun QBB 97-1 (5.56)" 3700
+
 Item "Assault Rifle SC2010 (7.62mm)" Level 11 Price 3800
 
 Item "Assault Rifle KH2002 CAR" 2400
@@ -183,6 +212,8 @@ Item "Assault Rifle AEK-972 (5.56mm)" 2750
 Item "Assault Rifle AK-9 (9x39mm)" Level 6 Price 2700
 
 Item "Assault Rifle SC2027 (7.62x51mm)" 3400
+
+
 
 
 ////////////FIM REBEL GUNS
@@ -345,10 +376,6 @@ Item "FN FNC Para WR" Level 7 Price 2200
 Item "Assault Rifle Pindad SS1-V3 (5.56mm)" Level 7 Price 2600
 Item "Assault Rifle Pindad SS1-V3 WR (5.56mm)" Level 8 Price 2650
 Item "FN FNC WR" Level 9 Price 2750
-Item "Pindad SS2 CQC" Level 8 Price 2600
-Item "Pindad SS2 CQC RIS" Level 9 Price 2850
-Item "Pindad SS2 CAR" Level 9 Price 3000
-Item "Pindad SS2" Level 10 Price 3500
 
 Item "Assault Rifle Galil AR (7.62mm)" Level 8 Price 3000
 
@@ -380,9 +407,7 @@ Item	"Assault Rifle M-14 (7.62x51mm)" Level 7 Price 		2300
 
 Item	"Assault Rifle M16A2 (5.56mm)" Level 9 Price 			2600
 Item	"Assault Rifle M16A2+M203 (5.56mm)" Level 9 Price 		3000
-Item	"Assault Rifle M16A3 (5.56mm)" Level 10 Price 			3300
 
-Item	"Assault Rifle DSA-58OSW (7.62x51mm)" Level 6 Price 		2800
 
 Item	"Sniper Rifle SA58 SPR (7.62x51mm)" Level 10 Price 		6200
 
@@ -428,7 +453,6 @@ Item "FN MAG" Level 12 Price 6500
 Item "FN MAG WR" Level 13 Price 6700
 
 Item "M16A2 LMG" Level 9 Price 4100
-Item "M16A4 LMG" Level 11 Price 4500
 
 Item	"M203B (40mm LV)" Level 6 Price 					1400
 Item	"M203PI (40mm LV)" Level 5 Price 					1600
@@ -610,6 +634,7 @@ Item "Carabine IMBEL M964A1 MD2" Level 7 Price 2100
 Item "Carabine IMBEL M964 MD3" Level 6 Price 1800
 Item "Carabine IMBEL M964A1 MD3" Level 7 Price 			1900
 Item "Carabine IMBEL ParaFal (7.62x51mm)" Level 8 Price 		2600
+Item "Assault Rifle Imbel MD-2 (5.56mm)" Level 7 Price 2060
 
 
 Item	"Sniper Rifle Remington 700 CDL (5.56mm)" Level 6 Price 	3000

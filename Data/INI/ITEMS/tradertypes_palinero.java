@@ -10,6 +10,13 @@ Item "DPM/RP-46 Kit" Level 3 Price 150
 
 //////////
 
+Item "Machinegun M72 (7.62x39mm)" Level 8 Price 2750
+Item "Machinegun M72 F (7.62x39mm)" Level 8 Price 2800
+Item "Machinegun Vz58 (7.62x39mm)" Level 9 Price 2900
+Item "Machinegun Vz58v (7.62x39mm)" Level 9 Price 3000
+Item "Machinegun RPKM (7.62mm)" Level 10 Price 2900
+Item "Machinegun RK71MG (7.62)" Level 9 Price 3100
+Item "Machinegun RK71MG HG (7.62)" Level 9 Price 3100
 
 Item	"Rifle Mosin_m91-30 (7.62x54mm)"	Level 3 Price		150
 Item	"Rifle Mosin_1944 (7.62x54mm)"	Level 3 Price			130

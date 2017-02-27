@@ -2229,11 +2229,12 @@ mg15 bipod bug
 colocar IMC-40 GL nas galils
 fazer stats winchester 70 e outros hunting rifles
 tmp30 dark mag bug
-bulldog fg modelo com mag
 pindad ss1 v3 falta iteminfo
 verificar se m16a2+m203 modelo funciona no jogo
 original fn fnc (pindad ss1) verificar itembones
 6.8 spc mag clipped faltando
+verificar misc items nas shops, mines, helmets, launchers, attachments etc
+m16a4 e m16a2 LMG nerfar stats, estao iguais a m27 iar
 
 ======
 erros shop:

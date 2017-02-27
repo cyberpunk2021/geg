@@ -816,6 +816,7 @@ Item "Assault Rifle Taurus CQC (5.56mm)" Level 7 Price 2300
 Item "Assault Rifle Taurus CT (5.56mm)" Level 8 Price 2900
 Item "Assault Rifle Taurus ART (5.56mm)" Level 9 Price 3300
 
+Item "Assault Rifle Imbel MD-2 (5.56mm)" Level 7 Price 2060
 Item "Assault Rifle Imbel MD-3 (5.56mm)" Level 6 Price 2000
 Item "Assault Rifle Imbel MD-4 (5.56mm)" Level 6 Price 2200
 Item  "Assault Rifle IMBEL MD-97F (5.56mm)" Level 6 Price 2300
