@@ -902,6 +902,15 @@ None
 None  "items\M16A2fore.act""M16A2fore.e5b"
 320
 
+"RIS kit (Mateba Model 6)"
+None
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
+100
+
+"Stock kit (Mateba Model 6)"
+None
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
+100
 
 "M-60 barrel"
 Barrel

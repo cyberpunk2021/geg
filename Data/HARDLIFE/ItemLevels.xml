@@ -1268,6 +1268,8 @@
   <item level="3">Type81 forestock RIS</item>
   <item level="3">MC51 forestock</item>
   <item level="3">MC51 forestock RIS</item>
+  <item level="2">RIS kit (Mateba Model 6)</item>
+  <item level="2">Stock kit (Mateba Model 6)</item>
   <item level="1">Tactical grip</item>
   <item level="1">Pistol APB (9x18mm) folded</item>
   <item level="1">Pistol APS (9x18mm) folded</item>
@@ -1717,9 +1719,9 @@
   <item level="3">Revolver REX (.357)</item>
   <item level="5">Revolver MR96 (.357)</item>
   <item level="3">Revolver Unica 6 (.357)</item>
-  <item level="3">Revolver Unica 6 RIS (.357)</item>
+  <item level="4">Revolver Unica 6 RIS (.357)</item>
   <item level="3">Revolver Unica 6 (.44)</item>
-  <item level="3">Revolver Unica 6 RIS (.44)</item>
+  <item level="4">Revolver Unica 6 RIS (.44)</item>
   <item level="2">Revolver Rhino 40 (.357)</item>
   <item level="2">Revolver Uberti Callahan (.44)</item>
   <item level="3">Revolver Smith Wesson Model 29 (.44)</item>

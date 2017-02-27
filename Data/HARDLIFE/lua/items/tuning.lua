@@ -82,6 +82,9 @@ end
  ["Assault Rifle RK71W CIV (7.62)"] = "Assault Rifle RK71W2 CIV (7.62)",
 -- ["Assault Rifle Galil SAR (5.56mm)"] = "Assault Rifle Galil SAR (5.56mm)+M203",
 -- ["Assault Rifle Galil AR (5.56mm)"] = "Assault Rifle Galil AR (5.56mm)+M203",
+-- RIS kits
+ ["Revolver Unica 6 (.357)"] = "Revolver Unica 6 RIS (.357)",
+ ["Revolver Unica 6 (.44)"] = "Revolver Unica 6 RIS (.44)",
 --parts
  ["MP5 forestock RIS"] = "MP5 forestock",
  ["MP5 forestock"] = "MP5 forestock RIS",
@@ -97,6 +100,8 @@ end
  ["MC51 forestock"] = "MC51 forestock RIS",
  ["RK71HG"] = "RK71W2HG",
  ["RK71W2HG"] = "RK71HG",
+ ["RIS kit (Mateba Model 6)"] = "Stock kit (Mateba Model 6)",
+ ["Stock kit (Mateba Model 6)"] = "RIS kit (Mateba Model 6)",
 -- ["Galil forestock"] = "M203B (40mm LV)",
 }
 
@@ -142,6 +147,8 @@ end
  ["Assault Rifle RK71W2 CIV (7.62)"] = "Assault Rifle RK71W CIV (7.62)",
  --["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
  --["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
+ ["Revolver Unica 6 RIS (.357)"] = "Revolver Unica 6 (.357)",
+ ["Revolver Unica 6 RIS (.44)"] = "Revolver Unica 6 (.44)",
 }
 
  local StockItems = {
@@ -336,6 +343,9 @@ function CanAddForestock(item)
 		["Assault Rifle RK71W2 CIV (5.56)"] = "RK71HG",
 		["Assault Rifle RK71W2 (7.62)"] = "RK71HG",
 		["Assault Rifle RK71W2 CIV (7.62)"] = "RK71HG",
+		-- RIS kits
+		["Revolver Unica 6 RIS (.357)"] = "Stock kit (Mateba Model 6)",
+		["Revolver Unica 6 RIS (.44)"] = "Stock kit (Mateba Model 6)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -386,6 +396,10 @@ function CanAddRISForestock(item)
 		["Assault Rifle RK71W CIV (5.56)"] = "RK71W2HG",
 		["Assault Rifle RK71W (7.62)"] = "RK71W2HG",
 		["Assault Rifle RK71W CIV (7.62)"] = "RK71W2HG",
+
+		-- RIS kits
+		["Revolver Unica 6 (.357)"] = "RIS kit (Mateba Model 6)",
+		["Revolver Unica 6 (.44)"] = "RIS kit (Mateba Model 6)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -653,6 +667,12 @@ AddItemContextMenu("RK71W2HG", action_replace_for_end, ChangeForestock, CanAddRI
 AddItemContextMenu("M203B (40mm LV)", _t"lang/lua/tuning/mount", ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("MP5 butt A2", action_replace_butt, ChangeStock, CanChangeFoldStock)
 AddItemContextMenu("MP5 butt A3", action_replace_butt, ChangeStock, CanChangeStock)
+
+local action_install_ris_kit = "Install a RIS on the weapon in hands"
+local action_uninstall_ris_kit = "Take off the RIS on the weapon in hands"
+
+AddItemContextMenu("Stock kit (Mateba Model 6)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
+AddItemContextMenu("RIS kit (Mateba Model 6)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
 
 local action_fold = _t"lang/lua/tuning/fold"
 local action_unfold = _t"lang/lua/tuning/unfold"
