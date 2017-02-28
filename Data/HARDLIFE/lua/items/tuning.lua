@@ -88,6 +88,12 @@ end
  ["Revolver Unica 6 (.44)"] = "Revolver Unica 6 RIS (.44)",
  ["PP90M1 (9x19)"] = "PP90M1 RIS (9x19)",
  ["PP90M1 (9x19) folded"] = "PP90M1 RIS (9x19) folded",
+ ["PP90M1 (9x19)"] = "PP90M1 RIS (9x19)",
+ ["PP90M1 (9x19) folded"] = "PP90M1 RIS (9x19) folded",
+ ["IMBEL M964A1 MD1"] = "IMBEL ParaFal (7.62x51mm)",
+ ["IMBEL M964A1 MD1 folded"] = "IMBEL ParaFal (7.62x51mm) folded",
+ ["Carabine IMBEL M964A1 MD3"] = "Carabine IMBEL ParaFal (7.62x51mm)",
+ ["Carabine IMBEL M964A1 MD3 folded"] = "Carabine IMBEL ParaFal (7.62x51mm) folded",
 
 -- parts
  ["MP5 forestock RIS"] = "MP5 forestock",
@@ -104,12 +110,15 @@ end
  ["MC51 forestock"] = "MC51 forestock RIS",
  ["RK71HG"] = "RK71W2HG",
  ["RK71W2HG"] = "RK71HG",
+-- ["Galil forestock"] = "M203B (40mm LV)",
+ 
 -- RIS parts
  ["RIS kit (Mateba Model 6)"] = "Stock kit (Mateba Model 6)",
  ["Stock kit (Mateba Model 6)"] = "RIS kit (Mateba Model 6)",
  ["RIS kit (PP-90M1)"] = "Stock kit (PP-90M1)",
  ["Stock kit (PP-90M1)"] = "RIS kit (PP-90M1)",
--- ["Galil forestock"] = "M203B (40mm LV)",
+ ["RIS kit (IMBEL M964A1)"] = "Stock kit (IMBEL M964A1)",
+ ["Stock kit (IMBEL M964A1)"] = "RIS kit (IMBEL M964A1)",
 }
 
  local RISForestockItems = {
@@ -160,6 +169,10 @@ end
  ["Revolver Unica 6 RIS (.44)"] = "Revolver Unica 6 (.44)",
  ["PP90M1 RIS (9x19)"] = "PP90M1 (9x19)",
  ["PP90M1 RIS (9x19) folded"] = "PP90M1 (9x19) folded",
+ ["IMBEL ParaFal (7.62x51mm)"] = "IMBEL M964A1 MD1",
+ ["IMBEL ParaFal (7.62x51mm) folded"] = "IMBEL M964A1 MD1 folded",
+ ["Carabine IMBEL ParaFal (7.62x51mm)"] = "Carabine IMBEL M964A1 MD3",
+ ["Carabine IMBEL ParaFal (7.62x51mm) folded"] = "Carabine IMBEL M964A1 MD3 folded",
 }
 
  local StockItems = {
@@ -360,6 +373,10 @@ function CanAddForestock(item)
 		["Revolver Unica 6 RIS (.44)"] = "Stock kit (Mateba Model 6)",
 		["PP90M1 RIS (9x19)"] = "Stock kit (PP-90M1)",
 		["PP90M1 RIS (9x19) folded"] = "Stock kit (PP-90M1)",
+		["IMBEL ParaFal (7.62x51mm)"] = "Stock kit (IMBEL M964A1)",
+		["IMBEL ParaFal (7.62x51mm) folded"] = "Stock kit (IMBEL M964A1)",
+		["Carabine IMBEL ParaFal (7.62x51mm)"] = "Stock kit (IMBEL M964A1)",
+		["Carabine IMBEL ParaFal (7.62x51mm) folded"] = "Stock kit (IMBEL M964A1)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -416,6 +433,10 @@ function CanAddRISForestock(item)
 		["Revolver Unica 6 (.44)"] = "RIS kit (Mateba Model 6)",
 		["PP90M1 (9x19)"] = "RIS kit (PP-90M1)",
 		["PP90M1 (9x19) folded"] = "RIS kit (PP-90M1)",
+		["IMBEL M964A1 MD1"] = "RIS kit (IMBEL M964A1)",
+		["IMBEL M964A1 MD1 folded"] = "RIS kit (IMBEL M964A1)",
+		["Carabine IMBEL M964A1 MD3"] = "RIS kit (IMBEL M964A1)",
+		["Carabine IMBEL M964A1 MD3 folded"] = "RIS kit (IMBEL M964A1)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -691,6 +712,8 @@ AddItemContextMenu("Stock kit (Mateba Model 6)", action_uninstall_ris_kit, Chang
 AddItemContextMenu("RIS kit (Mateba Model 6)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("Stock kit (PP-90M1)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
 AddItemContextMenu("RIS kit (PP-90M1)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
+AddItemContextMenu("Stock kit (IMBEL M964A1)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
+AddItemContextMenu("RIS kit (IMBEL M964A1)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
 
 local action_fold = _t"lang/lua/tuning/fold"
 local action_unfold = _t"lang/lua/tuning/unfold"
