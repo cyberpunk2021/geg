@@ -41,7 +41,7 @@ function CanModWeapon(monster, use_item)
 end
 
  local ForestockItems = {
---std weapons
+-- std weapons
  ["Submachine-gun HK MP5A5 (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",
  ["Submachine-gun HK MP5A5 (9mm) folded"] = "Submachine-gun HK MP5A5 RIS (9mm) folded",
  ["Submachine-gun NR-08 (9mm)"] = "Submachine-gun NR-08 RIS (9mm)",
@@ -82,10 +82,14 @@ end
  ["Assault Rifle RK71W CIV (7.62)"] = "Assault Rifle RK71W2 CIV (7.62)",
 -- ["Assault Rifle Galil SAR (5.56mm)"] = "Assault Rifle Galil SAR (5.56mm)+M203",
 -- ["Assault Rifle Galil AR (5.56mm)"] = "Assault Rifle Galil AR (5.56mm)+M203",
+
 -- RIS kits
  ["Revolver Unica 6 (.357)"] = "Revolver Unica 6 RIS (.357)",
  ["Revolver Unica 6 (.44)"] = "Revolver Unica 6 RIS (.44)",
---parts
+ ["PP90M1 (9x19)"] = "PP90M1 RIS (9x19)",
+ ["PP90M1 (9x19) folded"] = "PP90M1 RIS (9x19) folded",
+
+-- parts
  ["MP5 forestock RIS"] = "MP5 forestock",
  ["MP5 forestock"] = "MP5 forestock RIS",
  ["HK53 forestock RIS"] = "HK53 forestock",
@@ -100,8 +104,11 @@ end
  ["MC51 forestock"] = "MC51 forestock RIS",
  ["RK71HG"] = "RK71W2HG",
  ["RK71W2HG"] = "RK71HG",
+-- RIS parts
  ["RIS kit (Mateba Model 6)"] = "Stock kit (Mateba Model 6)",
  ["Stock kit (Mateba Model 6)"] = "RIS kit (Mateba Model 6)",
+ ["RIS kit (PP-90M1)"] = "Stock kit (PP-90M1)",
+ ["Stock kit (PP-90M1)"] = "RIS kit (PP-90M1)",
 -- ["Galil forestock"] = "M203B (40mm LV)",
 }
 
@@ -145,10 +152,14 @@ end
  ["Assault Rifle RK71W2 CIV (5.56)"] = "Assault Rifle RK71W CIV (5.56)",
  ["Assault Rifle RK71W2 (7.62)"] = "Assault Rifle RK71W (7.62)",
  ["Assault Rifle RK71W2 CIV (7.62)"] = "Assault Rifle RK71W CIV (7.62)",
- --["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
- --["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
+-- ["Assault Rifle Galil SAR (5.56mm)+M203"] = "Assault Rifle Galil SAR (5.56mm)",
+-- ["Assault Rifle Galil AR (5.56mm)+M203"] = "Assault Rifle Galil AR (5.56mm)",
+
+-- RIS kits
  ["Revolver Unica 6 RIS (.357)"] = "Revolver Unica 6 (.357)",
  ["Revolver Unica 6 RIS (.44)"] = "Revolver Unica 6 (.44)",
+ ["PP90M1 RIS (9x19)"] = "PP90M1 (9x19)",
+ ["PP90M1 RIS (9x19) folded"] = "PP90M1 (9x19) folded",
 }
 
  local StockItems = {
@@ -343,9 +354,12 @@ function CanAddForestock(item)
 		["Assault Rifle RK71W2 CIV (5.56)"] = "RK71HG",
 		["Assault Rifle RK71W2 (7.62)"] = "RK71HG",
 		["Assault Rifle RK71W2 CIV (7.62)"] = "RK71HG",
+
 		-- RIS kits
 		["Revolver Unica 6 RIS (.357)"] = "Stock kit (Mateba Model 6)",
 		["Revolver Unica 6 RIS (.44)"] = "Stock kit (Mateba Model 6)",
+		["PP90M1 RIS (9x19)"] = "Stock kit (PP-90M1)",
+		["PP90M1 RIS (9x19) folded"] = "Stock kit (PP-90M1)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -400,6 +414,8 @@ function CanAddRISForestock(item)
 		-- RIS kits
 		["Revolver Unica 6 (.357)"] = "RIS kit (Mateba Model 6)",
 		["Revolver Unica 6 (.44)"] = "RIS kit (Mateba Model 6)",
+		["PP90M1 (9x19)"] = "RIS kit (PP-90M1)",
+		["PP90M1 (9x19) folded"] = "RIS kit (PP-90M1)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -673,6 +689,8 @@ local action_uninstall_ris_kit = "Take off the RIS on the weapon in hands"
 
 AddItemContextMenu("Stock kit (Mateba Model 6)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
 AddItemContextMenu("RIS kit (Mateba Model 6)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
+AddItemContextMenu("Stock kit (PP-90M1)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
+AddItemContextMenu("RIS kit (PP-90M1)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
 
 local action_fold = _t"lang/lua/tuning/fold"
 local action_unfold = _t"lang/lua/tuning/unfold"

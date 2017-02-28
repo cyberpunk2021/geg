@@ -912,6 +912,16 @@ None
 None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 100
 
+"RIS kit (PP-90M1)"
+None
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
+100
+
+"Stock kit (PP-90M1)"
+None
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
+100
+
 "M-60 barrel"
 Barrel
 None  "Items\m60-barrel.act""m60-barrel.e5b"
