@@ -9,12 +9,16 @@ Item	"Assault Rifle M4A1 (.300 BLK)"	Level 6 Price			3200
 Item	"Assault Rifle M4A1 CQB (.300 BLK)"	Level 6 Price			3200
 Item	"Assault Rifle M4A1 CQB AG (.300 BLK)"	Level 6 Price			3200
 Item "Machinegun Madsen (308)" Level 3 Price 1000
+Item "Machinegun ammo clip (Madsen/30)" Level 1 Price 40
 
 Item "Assault Rifle SC2010 (7.62mm)" Level 11 Price 3800
 
 Item	"Pistol M.1911 A1 (.45 ACP)" Level 1 Price			570
 
 Item "Pistol Norinco M.1911 A1 (.45 ACP)" Level 1 Price 430
+
+Item "Assault Rifle FAMAS F1 (5.56mm)" Level 6 Price 2100
+Item "Assault Rifle clip (FAMAS/25)" Level 3 Price 45
 
 Item "AAC Honey Badger" Level 7 Price 3500
 Item "SW MP15 300BLK CQC" Level 5 Price 2700
@@ -978,10 +982,6 @@ Item "Assault Rifle T65K2 Carbine BK (5.56mm)" Level 7 Price 2500
 Item "Assault Rifle T65K3 (5.56mm)" Level 7 Price 2550
 Item "Assault Rifle T65K3 BK (5.56mm)" Level 7 Price 2550
 
-Item "Assault Rifle AR70 (5.56mm)" Level 6 Price 1700
-Item "Assault Rifle AR70S (5.56mm)" Level 6 Price 1800
-
-Item "Assault Rifle AR70 CAR (5.56mm)" Level 5 Price 1400
 
 Item "Assault Rifle Galil AR (5.56mm)" Level 8 Price 2700
 Item "Assault Rifle Galil ARM (5.56mm)" Level 8 Price 2800
@@ -1269,8 +1269,6 @@ Item "Rifle ammo clip (IMBEL/20)" Level 4 Price 20
 Item "Double rifle ammo clip (IMBEL/40)" Level 5 Price 40
 
 Item "Rifle ammo clip (CETME/20)" Level 4 Price 20
-Item "Rifle ammo clip (AR70/30)" Level 4 Price 40
-Item "Double rifle ammo clip (AR70/60)" Level 5 Price 80
 
 Item "Galil clip 5.56" Level 3 Price 35.0
 Item "Rifle ammo clip (SG542BLK/20)" Level 5 Price 40

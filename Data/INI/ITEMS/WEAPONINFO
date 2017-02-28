@@ -55227,7 +55227,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	142
+EffectiveRange	137
 RangeCurvature	2.5
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -55264,7 +55264,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	142
+EffectiveRange	137
 RangeCurvature	2.5
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -81000,7 +81000,7 @@ Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"Zastava-butt"
-ACTOR			"Items\zastava_m70ab2.act"
+ACTOR			"Items\zastavam70folding.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -81043,7 +81043,7 @@ Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
 StdPlug			"Zastava-butt-folded"
-ACTOR			"Items\zastava_m70ab2.act"
+ACTOR			"Items\zastavam70folding.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -97211,21 +97211,21 @@ HANDS			ahtRifle
 ITEM "M16A2 LMG"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			3600
-PrepareTime		0.50
-SingleFireTime	0.87
+Weight			4200
+PrepareTime		0.52
+SingleFireTime	0.89
 BurstFireTime	0.08
-SpeedModifier	1.09
-Resource		3500
-DirtResource	380000
+SpeedModifier	1.10
+Resource		2900
+DirtResource	310000
 MisfireProb		0.0019
-HeatCapacity	150
+HeatCapacity	130
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	182
+EffectiveRange	177
 RangeCurvature	2.5
 Balance			0.44
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -97248,21 +97248,21 @@ HANDS			ahtRG
 ITEM "M16A4 LMG"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			3600
+Weight			4100
 PrepareTime		0.50
-SingleFireTime	0.87
+SingleFireTime	0.88
 BurstFireTime	0.08
-SpeedModifier	1.09
-Resource		3500
-DirtResource	380000
+SpeedModifier	1.10
+Resource		3300
+DirtResource	340000
 MisfireProb		0.0019
-HeatCapacity	150
+HeatCapacity	140
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	182
+EffectiveRange	180
 RangeCurvature	2.5
 Balance			0.44
 ClipInSound		"Weapon\ClipIn\clip_in.wav"

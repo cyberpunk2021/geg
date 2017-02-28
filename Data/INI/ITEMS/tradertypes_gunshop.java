@@ -5,6 +5,11 @@
 
 //////////GUNSHOP GUNS
 
+Item "Shotgun TriCoachGun (12ga)" Level 2 Price 450
+Item "Shotgun TriCoachGun (20ga)" Level 1 Price 350
+Item "Shotgun TriCoachGun CAR (12ga)" Level 2 Price 350
+Item "Shotgun TriCoachGun CAR (20ga)" Level 1 Price 250
+
 Item	"Pistol Five-seveN Tactical (5.7mm)" Level 3 Price	1300
 
 Item "Carabine Winchester 1892 trapper (.357 Magnum)" Level 1 Price 650

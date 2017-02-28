@@ -230,6 +230,8 @@ Item "Machinegun MG34 (7.92x57 Mauser)" Level 4 Price 1600
 Item "Machinegun MG42 (7.92x57 Mauser)" Level 5 Price 2000
 Item "Machinegun M53 Sarac (7.92x57 Mauser)" Level 5 Price 1900
 
+Item "Machinegun clip (MG34/50)" Level 1 Price 90
+
 Item "Offensive Hand Grenade Type 97" Level 2 Price 40
 Item "Hand Grenade M24" Level 1 Price 50
 

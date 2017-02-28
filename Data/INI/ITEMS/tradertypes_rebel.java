@@ -13,13 +13,97 @@ Item "DPM/RP-46 Kit" Level 3 Price 150
 
 ////////////REBEL GUNS
 
-Item "M203 AK (40mm LV)" 1500
+Item "Rifle ammo clip (AK 308/20)" Level 3 Price 80
+Item "Double rifle ammo clip (AK 308/40)" Level 4 Price 45
+Item "Pistol clip (QSZ-92/20)" Level 1 Price 25
+Item "Pistol clip (QSZ-92/15)" Level 1 Price 20
 
-Item	"Knight Masterkey Shotgun (12 ga)"			1100.0
-Item	"Knight Masterkey Shotgun AK (12 ga)"			1100.0
+Item "Ammo drum clip (AK 5.45/75)" Level 6 Price 90
+Item "Ammo drum clip (AK 5.56/75)" Level 6 Price 90
+Item "Machinegun clip (Ameli/200)" Level 7 Price 75
 
-Item "Machinegun M77 (7.62x51mm)" 3000
-Item "Machinegun M77 F (7.62x51mm)" 3100
+Item "Rifle ammo clip (CSLR3\10)" Level 4 Price 45
+Item "Sniper rifle clip (CSLR4/10)" Level 4 Price 45
+
+
+Item "Type66_contact" Level 3 Price 120
+Item "Type66_remote" Level 3 Price 120
+Item "MON-50_remote" Level 3 Price 160
+Item "MON-50" Level 3 Price 160
+
+Item "GM94" Level 4 Price 1300
+Item "Pistol QSZ92 (5.8)" Level 2 Price 1100
+Item "Pistol QSW06 (5.8)" Level 3 Price 1300
+Item "Silencer (x21 Para)" Level 4 Price 1000
+Item "Silencer (x21 QCW)" Level 4 Price 1200
+Item "QBS09 (12ga)" Level 3 Price 1300
+Item "Shotgun Hawk Pump Internal (12ga)" Level 2 Price 1100
+Item "Shotgun Hawk Pump (12ga)" Level 4 Price 1400
+
+Item "QLG91B (35mm)" Level 5 Price 1000
+Item "QLG10A (35mm)" Level 5 Price 1300
+Item "QLG10 (35mm)" Level 5 Price 1200
+
+Item "35mm Smoke" Level 3 Price 30
+Item "35mm AB" Level 4 Price 90
+Item "35mm HE" Level 3 Price 80
+Item "DFS-10P" Level 4 Price 60
+Item "DFS-10 Smoke" Level 3 Price 25
+Item "DFS-10 HE" Level 3 Price 50
+
+Item "Supressor (5.8 mm)" Level 9 Price 1800
+
+Item "Rifle ammo clip (HK32/30)" Level 2 Price 50
+Item "Double rifle ammo clip (HK32/60)" Level 3 Price 100
+
+Item "Submachine-gun M85 Pistol AUTO No Stock (5.56mm)" Level 4 Price 1600
+Item "Submachine-gun M85 Pistol AUTO (5.56mm)" Level 5 Price 2000
+Item "Submachine-gun AR Pistol AUTO (5.56mm)" Level 5 Price 3500
+
+Item "BigWoodBoxQBZ95" Level 8 Price 5750
+Item "BigWoodBoxQBZ97" Level 8 Price 6250
+Item "BigWoodBoxQBZ951" Level 10 Price 6750
+Item "BigWoodBoxQBZ971" Level 10 Price 7000
+
+Item "Optical Sight PO4x34 (QBZ)" Level 5 Price 100
+Item "Optical Sight PO6x39 (QBZ)" Level 6 Price 400
+Item "Night Sight 1PN93-4 (QBZ)" Level 5 Price 1500
+
+Item "Rifle ammo clip (QBU 88\10)" Level 4 Price 20
+Item "Rifle ammo clip (QBZ/30)" Level 3 Price 30
+Item "Rifle ammo drum (QBZ/80)" Level 5 Price 75
+Item "Ammo box mag (Type 88/200)" Level 6 Price 180
+Item "Bayonet (QBZ)" Level 1 Price 50
+Item "SMG ammo clip (QCQ-05/50)" Level 2 Price 60
+Item "Assault Rifle QCQ05 (5.8)" Level 5 Price 2000
+
+Item "Rifle ammo clip (QBU 88556\10)" Level 4 Price 55
+Item "Optical Sight (QCQ)" Level 3 Price 300
+Item "Optical Sight (QBU)" Level 7 Price 800
+
+Item "QBU-88" Level 7 Price 3400
+Item "QBU-88 5.56" Level 7 Price 3300
+Item "Jian She CSLR3" Level 7 Price 3100
+Item "Jian She CSLR4" Level 8 Price 3800
+
+Item "Rifle ammo clip (QBZ/60)" Level 4 Price 60
+
+Item "Assault Rifle QBZ95B (5.8)" Level 7 Price 2000
+Item "Assault Rifle QBZ95 (5.8)" Level 8 Price 2300
+Item "Assault Rifle QBZ97B (5.56)" Level 7 Price 2100
+Item "Assault Rifle QBZ97 (5.56)" Level 8 Price 2500
+Item "Assault Rifle QBZ97B-1 (5.56)" Level 9 Price 2500
+Item "Assault Rifle QBZ97-1 (5.56)" Level 10 Price 2800
+Item "Assault Rifle QBZ95-1 (5.8)" Level 10 Price 2700
+Item "Assault Rifle QBZ95B-1 (5.8)" Level 9 Price 2400
+
+Item "M203 AK (40mm LV)" Level 6 Price 1500
+
+Item	"Knight Masterkey Shotgun (12 ga)" Level 6 Price 1100.0
+Item	"Knight Masterkey Shotgun AK (12 ga)" Level 6 Price 1100.0
+
+Item "Machinegun M77 (7.62x51mm)" Level 8 Price 3000
+Item "Machinegun M77 F (7.62x51mm)" Level 8 Price 3100
 
 Item "Machinegun M72 (7.62x39mm)" Level 8 Price 2750
 Item "Machinegun M72 F (7.62x39mm)" Level 8 Price 2800
@@ -34,27 +118,49 @@ Item "Machinegun RK71MG HG (5.56)" Level 9 Price 3200
 Item "Machinegun RK71MG HG (308)" Level 10 Price 3900
 
 
-Item "Machinegun STG944 (5.56mm)" 2800
-Item	"Assault Rifle HK32KA3 (7.62x39mm)"			1900
+Item "Machinegun STG944 (5.56mm)" Level 8 Price 2800
+Item	"Assault Rifle HK32KA3 (7.62x39mm)" Level 6 Price 1900
 
 Item "Machinegun Madsen (308)" Level 3 Price 1000
+Item "Machinegun ammo clip (Madsen/30)" Level 1 Price 40
 
 Item	"Submachine-gun Thompson-M1 (.45 ACP)" Level 1 Price		900
 Item	"Submachine-gun Thompson-M1921 (.45 ACP)" Level 2 Price	1100
 
 Item "Submachine-gun Reising M50 (.45ACP)" Level 2 Price 1400
 Item "Submachine-gun MP18" Level 1 Price 350
+Item "SMG ammo clip (M50/20)" Level 1 Price 20
+Item "SMG ammo clip (M50/30)" Level 1 Price 30
+Item "SMG ammo clip (MAB38/30)" Level 1 Price 25
 Item "Submachine-gun MAB38" Level 1 Price 890
 Item "Submachine-gun Owen (9mm)" Level 1 Price 490
 Item "Submachine-gun Suomi (9mm)" Level 2 Price 1080
 Item "Submachine-gun PPD-40 (7.62x25mm)" Level 1 Price 510
 Item "Carabine M712 (7.63mm)" Level 1 Price 320
+Item "SMG ammo clip (Owen/33)" Level 1 Price 45
+Item "Assault Rifle clip (Fedorov/25)" Level 1 Price 35
+
+Item "SMG ammo clip (Suomi/71)" Level 1 Price 80
+Item "SMG ammo clip (MPL/32)" Level 1 Price 50
+Item	"Rifle clip (Garand/8)" Level 1 Price 			10
+
+Item "Rifle clip (Gewehr 43/10)" Level 1 Price 40
+Item "Assault Rifle clip (FG42/20)" Level 1 Price 60
+Item "Rifle ammo clip (M1941/25)" Level 1 Price 50
+Item "Assault Rifle clip (StG.44/30)" Level 1 Price 50
+Item "Assault Rifle clip (Breda/20)" Level 1 Price 50
+Item "Assault Rifle clip (FG42Late/20)" Level 1 Price 60
+Item "Assault Rifle clip (Breda Mauser/20)" Level 1 Price 60
 
 Item "Machinegun MG15 (7.92x57 Mauser)" Level 3 Price 1400
 Item "Machinegun Type 1 (7.7)" Level 3 Price 1300
 Item "Machinegun MG34 (7.92x57 Mauser)" Level 4 Price 1600
 Item "Machinegun MG42 (7.92x57 Mauser)" Level 5 Price 2000
 Item "Machinegun M53 Sarac (7.92x57 Mauser)" Level 5 Price 1900
+
+Item "Machinegun clip (MG15ARISAKA/75)" Level 1 Price 100
+Item "Machinegun clip (MG15/75)" Level 1 Price 100
+Item "Machinegun clip (MG34/50)" Level 1 Price 90
 
 Item "Offensive Hand Grenade Type 97" Level 2 Price 40
 Item "Hand Grenade M24" Level 1 Price 50
@@ -68,13 +174,13 @@ Item	"Rifle Mosin_m91-30 Unique (7.62x54mm)"	Level 5 Price		1650
 
 Item	"Carabine Type 84 (7.62x39mm)"		Level 2 Price		500
 
-Item "Rifle M1917 Enfield (.30-06)" Level 2 Price 300
 
 Item "Rifle Carcano41 (6.5)" Level 2 Price 130 
 Item "Rifle CarcanoMoschetto (6.5)" Level 1 Price 100
 Item "Rifle MAS36 (7.5)" Level 2 Price 140
 Item "Rifle MAS49 (7.5)" Level 3 Price 700
-Item "Rifle MAS49 MSE (7.5)" Level 3 Price 850 
+Item "Rifle MAS49 MSE (7.5)" Level 3 Price 850
+Item "Rifle clip (MAS49/10)" Level 1 Price 20
 Item "Sniper FRF1 (7.5)" Level 5 Price 2000
 Item "Sniper MAS36 (7.5)" Level 3 Price 200
 Item "Sniper MAS49 (7.5)" Level 4 Price 250
@@ -87,12 +193,6 @@ Item "Rifle Carcano91 (6.5)" Level 2 Price 150
 Item "Rifle Carcano38 (6.5)" Level 2 Price 110
 Item "Assault Rifle Lee Enfield 04" Level 2 Price 250
 Item "Assault Rifle Lee Enfield 05" Level 2 Price 200
-Item "Rifle M1903 Springfield (.30-06)" Level 2 Price 300
-Item "Sniper Rifle AVS-36 (7.62x54R)" Level 3 Price 1050
-Item "Rifle AVS-36 (7.62x54R)" Level 2 Price 800
-Item "Rifle SVT-40 (7.62x54R)" Level 2 Price 700
-Item "Rifle AVT-40 (7.62x54R)" Level 3 Price 900
-Item "Sniper Rifle SVT-40 (7.62x54R)" Level 3 Price 980
 
 Item "Rifle G98 (7.92x57mm)" Level 2 Price 270
 Item "Rifle G98a (7.92x57mm)" Level 1 Price 250
@@ -100,11 +200,13 @@ Item "Rifle Mosquefal" Level 2 Price 220
 
 Item "Pistol Luger P08 (9mm)" Level 1 Price 280
 Item "Pistol P38 (9mm)" Level 1 Price 340
+Item "Pistol clip (P08/8)" Level 1 Price 20
+Item "Pistol clip (P38/8)" Level 1 Price 10
 
-Item "Assault Rifle FEG NGM-81 (5.56x45mm)" 1800
-Item "Assault Rifle NGV-81 (5.56x45mm)" 1900
-Item "Assault Rifle Type56-4 (5.56x45mm)" 900
-Item "Assault Rifle Type56-4 Y (5.56x45mm)" 900
+Item "Assault Rifle FEG NGM-81 (5.56x45mm)" Level 8 Price 1800
+Item "Assault Rifle NGV-81 (5.56x45mm)" Level 8 Price 1900
+Item "Assault Rifle Type56-4 (5.56x45mm)" Level 6 Price 900
+Item "Assault Rifle Type56-4 Y (5.56x45mm)" Level 6 Price 900
 
 Item "Rifle Gewehr 43 (7.92x57 Mauser)" Level 3 Price 700
 Item "Rifle Mosquetao" Level 2 Price 630
@@ -124,94 +226,88 @@ Item "Rifle Breda 1935 (6.5)" Level 3 Price 500
 Item "Rifle Breda 1935 (8mm)" Level 4 Price 600
 Item "Rifle M1 Carbine (.30)" Level 2 Price 500
 Item "Rifle M2 Carbine (.30)" Level 3 Price 980
+Item "Rifle clip (M1/15)" Level 1 Price 40
+Item "Rifle clip pouch (M1/15)" Level 1 Price 15
+Item "Rifle clip (M2/30)" Level 1 Price 30
+Item "Rifle clip pouch (M2/30)" Level 1 Price 30
 Item "Assault Rifle MKB42 (7.92mm Kurz)" Level 3 Price 800
 Item "Assault Rifle StG.44 (7.92mm Kurz)" Level 4 Price 1000
 Item "Assault FG42 (7.92x57 Mauser)" Level 3 Price 900
 Item "Assault FG42 Late (7.92x57 Mauser)" Level 4 Price 1200
 
-Item "Assault Rifle RK62 (5.56)" 2500
-Item "Assault Rifle RK71 (5.56)" 2900
-Item "Assault Rifle RK71T (5.56)" 2650
-Item "Assault Rifle RK71P (5.56)" 2650
-Item "Assault Rifle RK71W (5.56)" 2650
-Item "Assault Rifle RK71W2 (5.56)" 2650
-Item "Assault Rifle RK76 (5.56)" 3100
-Item "Assault Rifle RK76T (5.56)" 2900
-Item "Assault Rifle RK76P (5.56)" 2900
-Item "Assault Rifle RK76W (5.56)" 2900
-Item "Assault Rifle Rk95 (5.56mm)" 3500
+Item "Assault Rifle RK62 (5.56)" Level 8 Price 2500
+Item "Assault Rifle RK71 (5.56)" Level 9 Price 2900
+Item "Assault Rifle RK71T (5.56)" Level 9 Price 2650
+Item "Assault Rifle RK71P (5.56)" Level 9 Price 2650
+Item "Assault Rifle RK71W (5.56)" Level 9 Price 2650
+Item "Assault Rifle RK71W2 (5.56)" Level 9 Price 2650
+Item "Assault Rifle RK76 (5.56)" Level 10 Price 3100
+Item "Assault Rifle RK76T (5.56)" Level 10 Price 2900
+Item "Assault Rifle RK76P (5.56)" Level 10 Price 2900
+Item "Assault Rifle RK76W (5.56)" Level 10 Price 2900
+Item "Assault Rifle Rk95 (5.56mm)" Level 11 Price 3500
 
-Item "Assault Rifle INSAS (5.56x45mm)" 2500
-Item "Assault Rifle INSAS Black (5.56x45mm)" 2500
+Item "Assault Rifle INSAS (5.56x45mm)" Level 7 Price 2500
+Item "Assault Rifle INSAS Black (5.56x45mm)" Level 7 Price 2500
 
-Item "Assault Rifle QBZ03 5.8" 3400
-Item "Assault Rifle QBZ03 5.56" 3200
+Item "Assault Rifle QBZ03 5.8" Level 10 Price 3400
+Item "Assault Rifle QBZ03 5.56" Level 10 Price 3200
 
-Item "Machinegun QBB 95 (5.8)" 3100
-Item "Machinegun QBB 97 (5.56)" 3200
-Item "Machinegun QBB 95-1 (5.8)" 3600
-Item "Machinegun QBB 97-1 (5.56)" 3700
+Item "Machinegun QBB 95 (5.8)" Level 10 Price 3100
+Item "Machinegun QBB 97 (5.56)" Level 10 Price 3200
+Item "Machinegun QBB 95-1 (5.8)" Level 11 Price 3600
+Item "Machinegun QBB 97-1 (5.56)" Level 11 Price 3700
 
 Item "Assault Rifle SC2010 (7.62mm)" Level 11 Price 3800
 
-Item "Assault Rifle KH2002 CAR" 2400
-Item "Assault Rifle KH2002" 2600
-Item "Assault Rifle Type86S Auto (7.62x39mm)" 1800
+Item "Assault Rifle KH2002 CAR" Level 8 Price 2400
+Item "Assault Rifle KH2002" Level 10 Price 2600
+Item "Assault Rifle Type86S Auto (7.62x39mm)" Level 6 Price 1800
 
-Item "Assault Rifle Zastava M-90 (5.56x45mm)" 1500
-Item "Assault Rifle Zastava M-90N (5.56x45mm)" 1600
-Item "Assault Rifle Zastava M-90A (5.56x45mm)" 1600
-Item "Assault Rifle Zastava M-90A (5.56x45mm) folded" 1600
-Item "Assault Rifle Zastava M-90AN (5.56x45mm)" 1700
-Item "Assault Rifle Zastava M-90AN (5.56x45mm) folded" 1700
-Item "Assault Rifle Zastava M-77 (7.62x51mm)" 2700
-Item "Assault Rifle Zastava M-77N (7.62x51mm)" 2800
-Item "Assault Rifle Zastava M-77A (7.62x51mm)" 2800
-Item "Assault Rifle Zastava M-77A (7.62x51mm) folded" 2800
-Item "Assault Rifle Zastava M-77AN (7.62x51mm)" 2900
-Item "Assault Rifle Zastava M-77AN (7.62x51mm) folded" 2900
-Item "Assault Rifle Zastava M-21 CQC (5.56x45mm)" 2300
-Item "Assault Rifle Zastava M-21 CQC (5.56x45mm) folded" 2300
-Item "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm)" 2500
-Item "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm) folded" 2500
-Item "Assault Rifle Zastava M-21 CAR (5.56x45mm)" 2600
-Item "Assault Rifle Zastava M-21 CAR (5.56x45mm) folded" 2600
-Item "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm)" 2800
-Item "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm) folded" 2800
-Item "Assault Rifle Zastava M-21 (5.56x45mm)" 2900
-Item "Assault Rifle Zastava M-21 (5.56x45mm) folded" 2900
-Item "Assault Rifle Zastava M-21 RIS (5.56x45mm)" 3100
-Item "Assault Rifle Zastava M-21 RIS (5.56x45mm) folded" 3100
+Item "Assault Rifle Zastava M-90 (5.56x45mm)" Level 7 Price 1500
+Item "Assault Rifle Zastava M-90N (5.56x45mm)" Level 8 Price 1600
+Item "Assault Rifle Zastava M-90A (5.56x45mm)" Level 7 Price 1600
+Item "Assault Rifle Zastava M-90AN (5.56x45mm)" Level 8 Price 1700
+Item "Assault Rifle Zastava M-77 (7.62x51mm)" Level 8 Price 2700
+Item "Assault Rifle Zastava M-77N (7.62x51mm)" Level 9 Price 2800
+Item "Assault Rifle Zastava M-77A (7.62x51mm)" Level 8 Price 2800
+Item "Assault Rifle Zastava M-77AN (7.62x51mm)" Level 9 Price 2900
+Item "Assault Rifle Zastava M-21 CQC (5.56x45mm)" Level 9 Price 2300
+Item "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm)" Level 9 Price 2500
+Item "Assault Rifle Zastava M-21 CAR (5.56x45mm)" Level 10 Price 2600
+Item "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm)" Level 10 Price 2800
+Item "Assault Rifle Zastava M-21 (5.56x45mm)" Level 11 Price 2900
+Item "Assault Rifle Zastava M-21 RIS (5.56x45mm)" Level 11 Price 3100
 
-Item "Beryl (5.56mm)" 2300
-Item "Beryl WR (5.56mm)" 2500
-Item "Beryl FG (5.56mm)" 2500
-Item "Beryl WR FG (5.56mm)" 2700
-Item "Beryl wz.1996 (5.56mm)" 2900
-Item "Assault Rifle STG941 (5.56x45mm)" 1900
-Item "Assault Rifle STG942 (5.56x45mm)" 2000
-Item "Assault Rifle STG943 (5.56x45mm)" 1400
+Item "Beryl (5.56mm)" Level 8 Price 2300
+Item "Beryl WR (5.56mm)" Level 9 Price 2500
+Item "Beryl FG (5.56mm)" Level 9 Price 2500
+Item "Beryl WR FG (5.56mm)" Level 9 Price 2700
+Item "Beryl wz.1996 (5.56mm)" Level 10 Price 2900
+Item "Assault Rifle STG941 (5.56x45mm)" Level 8 Price 1900
+Item "Assault Rifle STG942 (5.56x45mm)" Level 8 Price 2000
+Item "Assault Rifle STG943 (5.56x45mm)" Level 7 Price 1400
 
 
-Item "Assaul Rifle SA Vz.58 Mod CQC NATO" 1700
-Item "Assaul Rifle SA Vz.58 Mod CAR NATO" 2000
-Item "Assaul Rifle SA Vz.58 Mod NATO" 2300
+Item "Assaul Rifle SA Vz.58 Mod CQC NATO" Level 7 Price 1700
+Item "Assaul Rifle SA Vz.58 Mod CAR NATO" Level 8 Price 2000
+Item "Assaul Rifle SA Vz.58 Mod NATO" Level 9 Price 2300
 
 
-Item "ACE CQC RUS" 2400
-Item "ACE RUS" 2400
-Item "ACE CQC NATO" 3200
-Item "ACE CAR NATO" 3500
-Item "ACE NATO" 3800
+Item "ACE CQC RUS" Level 8 Price 2400
+Item "ACE RUS" Level 10 Price 2400
+Item "ACE CQC NATO" Level 10 Price 3200
+Item "ACE CAR NATO" Level 11 Price 3500
+Item "ACE NATO" Level 12 Price 3800
 
-Item "Assault Rifle AK-101 (5.56mm)" 2500
-Item "Assault Rifle AK-102 (5.56mm)" 2000
+Item "Assault Rifle AK-101 (5.56mm)" Level 9 Price 2500
+Item "Assault Rifle AK-102 (5.56mm)" Level 6 Price 2000
 
-Item "Assault Rifle AEK-972 (5.56mm)" 2750
+Item "Assault Rifle AEK-972 (5.56mm)" Level 9 Price 2750
 
 Item "Assault Rifle AK-9 (9x39mm)" Level 6 Price 2700
 
-Item "Assault Rifle SC2027 (7.62x51mm)" 3400
+Item "Assault Rifle SC2027 (7.62x51mm)" Level 11 Price 3400
 
 
 
@@ -1564,6 +1660,16 @@ Item "Offensive Hand Grenade RG42" Level 3 Price 130
 Item "Offensive Hand Grenade RGZ89" Level 3 Price 115
 Item "AT RPG-40" Level 8 Price 800
 Item "Offensive Hand Grenade Type82" Level 5 Price 220
+Item	"Defensive Hand Grenade Mk2A1"	Level 4 Price		90.0
+Item	"Defensive Hand Grenade M61" Level 4 Price			180.0
+Item	"Offensive Hand Grenade M67" Level 4 Price			100.0
+Item	"Defensive Hand Grenade Mk3A2" Level 2 Price			170.0
+Item "Offensive Hand Grenade M68" Level 6 Price 300
+Item "Defensive Hand Grenade M57" Level 7 Price 450
+Item "Offensive Hand Grenade V40" Level 2 Price 70
+
+Item	"Box_grenade_m61" Level 6 Price				20
+Item	"Box_grenade_m67" Level 4 Price				20
 
 
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
@@ -1817,7 +1923,7 @@ Item "BigWoodBoxSIG540" Level 6 Price 5000
 Item "BigWoodBoxSIG542" Level 7 Price 6625
 
 Item "BigWoodBoxBizon" Level 3 Price 5500
-Item	"BigWoodBoxAKM"	Level 5 Price 2000						
+Item	"BigWoodBoxAKM"	Level 5 Price 2000
 Item	"BigWoodBoxAKMN" Level 6 Price			2500
 Item	"BigWoodBoxAK103"	Level 9 Price		6500
 Item "BigWoodBoxType56" Level 5 Price 1500
@@ -2016,8 +2122,6 @@ Item "Double rifle ammo clip (RK95/60)" Level 5 Price 90
 Item "Rifle ammo clip (T81 7.62/30)" Level 3 Price 8
 Item "Double rifle ammo clip (T81 7.62/60)" Level 4 Price 16
 
-Item "Rifle ammo clip (VZ58/30)" Level 3 Price 60
-Item "Rifle double ammo clip (VZ58/60)" Level 4 Price 80
 
 Item "Rifle ammo clip (AK 5.45/60)" Level 6 Price 80
 Item "Rifle ammo clip (AK 5.45/30)" Level 3 Price 30.0
@@ -2214,6 +2318,27 @@ Item "Ammo Box Duplex .308" Level 5 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
 Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
+
+/////////
+//5.8x21mm
+/////////
+
+Item "Ammo box DAP92 (5.8x21mm)" Level 1 Price 0.001
+Item "Ammo box DCV05 (5.8x21mm)" Level 2 Price 0.001
+Item "Ammo box DCV05 500 (5.8x21mm)" Level 3 Price 100
+Item "PackedAmmoBox (5.8x21/500)" Level 2 Price 360
+
+/////////
+//5.8x42mm
+/////////
+
+Item "Ammo box (DBP87)" Level 4 Price 0.001
+Item "Ammo box (DBP88)" Level 5 Price 0.001
+Item "Ammo box (DBP10)" Level 6 Price 0.001
+
+Item "PackedAmmoBox DBP87 (5.8x42/500)" Level 5 Price 480
+Item "PackedAmmoBox DBP88 (5.8x42/500)" Level 6 Price 816
+Item "PackedAmmoBox DBP10 (5.8x42/500)" Level 7 Price 1056
 
 
 //MERCHANDISE BLOCK

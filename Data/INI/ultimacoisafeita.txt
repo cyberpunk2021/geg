@@ -2235,6 +2235,7 @@ original fn fnc (pindad ss1) verificar itembones
 6.8 spc mag clipped faltando
 verificar misc items nas shops, mines, helmets, launchers, attachments etc
 m16a4 e m16a2 LMG nerfar stats, estao iguais a m27 iar
+adicionar grendel AR15s em itemlevels
 
 ======
 erros shop:

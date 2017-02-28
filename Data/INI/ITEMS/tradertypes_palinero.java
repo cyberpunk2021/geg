@@ -6,9 +6,14 @@
 Item	"Confidencial"						Level 16	Price	5250
 Item	"Military_sectret"					Level 16	Price	7700
 
-Item "DPM/RP-46 Kit" Level 3 Price 150
-
 //////////
+
+Item "Type66_contact" Level 3 Price 120
+Item "Type66_remote" Level 3 Price 120
+Item "MON-50_remote" Level 3 Price 160
+Item "MON-50" Level 3 Price 160
+
+Item "DPM/RP-46 Kit" Level 3 Price 150
 
 Item "Machinegun M72 (7.62x39mm)" Level 8 Price 2750
 Item "Machinegun M72 F (7.62x39mm)" Level 8 Price 2800

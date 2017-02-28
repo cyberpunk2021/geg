@@ -12,8 +12,15 @@ Item "Calico M900 CQC (9 mm)" Level 4 Price 1800
 
 Item "Striker (12ga)" Level 3 Price 1100
 
+Item "Submachine-gun Walter MPK (9mm)" Level 2 Price 1100
+Item "Submachine-gun Walter MPL (9mm)" Level 3 Price 1400
+Item "SMG ammo clip (MPL/32)" Level 1 Price 50
 
 Item "SMG ammo clip (MAT-49Viet/35)" Level 1 Price 45
+Item "Steyr69 (9mm)" Level 3 Price 1200
+Item "Steyr81 (9mm)" Level 4 Price 1300
+Item "SMG ammo clip (Steyr69/25)" Level 1 Price 30
+Item "SMG ammo clip (Steyr69/32)" Level 1 Price 40
 
 Item "Revolver SW 10 (.38 spc)" Level 1 Price 180
 Item "Revolver SW 10 W (.38 spc)" Level 1 Price 180
