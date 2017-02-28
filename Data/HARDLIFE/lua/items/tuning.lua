@@ -94,6 +94,12 @@ end
  ["IMBEL M964A1 MD1 folded"] = "IMBEL ParaFal (7.62x51mm) folded",
  ["Carabine IMBEL M964A1 MD3"] = "Carabine IMBEL ParaFal (7.62x51mm)",
  ["Carabine IMBEL M964A1 MD3 folded"] = "Carabine IMBEL ParaFal (7.62x51mm) folded",
+ ["Carabine M1A (7.62x51mm)"] = "Carabine M1A RIS (7.62x51mm)",
+ ["Carabine M1A WOOD (7.62x51mm)"] = "Carabine M1A WOOD RIS (7.62x51mm)",
+ ["Carabine M1A Scout (7.62x51mm)"] = "Carabine M1A Scout RIS (7.62x51mm)",
+ ["Carabine M1A Scout POLY (7.62x51mm)"] = "Carabine M1A Scout POLY RIS (7.62x51mm)",
+ ["Carabine SOCOM16 NO RIS (7.62x51mm)"] = "Carabine SOCOM16 (7.62x51mm)",
+ ["Carabine SOCOM16 WOOD NO RIS (7.62x51mm)"] = "Carabine SOCOM16 WOOD RIS (7.62x51mm)",
 
 -- parts
  ["MP5 forestock RIS"] = "MP5 forestock",
@@ -119,6 +125,8 @@ end
  ["Stock kit (PP-90M1)"] = "RIS kit (PP-90M1)",
  ["RIS kit (IMBEL M964A1)"] = "Stock kit (IMBEL M964A1)",
  ["Stock kit (IMBEL M964A1)"] = "RIS kit (IMBEL M964A1)",
+ ["RIS kit (M1A)"] = "Stock kit (M1A)",
+ ["Stock kit (M1A)"] = "RIS kit (M1A)",
 }
 
  local RISForestockItems = {
@@ -173,6 +181,12 @@ end
  ["IMBEL ParaFal (7.62x51mm) folded"] = "IMBEL M964A1 MD1 folded",
  ["Carabine IMBEL ParaFal (7.62x51mm)"] = "Carabine IMBEL M964A1 MD3",
  ["Carabine IMBEL ParaFal (7.62x51mm) folded"] = "Carabine IMBEL M964A1 MD3 folded",
+ ["Carabine M1A RIS (7.62x51mm)"] = "Carabine M1A (7.62x51mm)",
+ ["Carabine M1A WOOD RIS (7.62x51mm)"] = "Carabine M1A WOOD (7.62x51mm)",
+ ["Carabine M1A Scout RIS (7.62x51mm)"] = "Carabine M1A Scout (7.62x51mm)",
+ ["Carabine M1A Scout POLY RIS (7.62x51mm)"] = "Carabine M1A Scout POLY (7.62x51mm)",
+ ["Carabine SOCOM16 (7.62x51mm)"] = "Carabine SOCOM16 NO RIS (7.62x51mm)",
+ ["Carabine SOCOM16 WOOD RIS (7.62x51mm)"] = "Carabine SOCOM16 WOOD NO RIS (7.62x51mm)",
 }
 
  local StockItems = {
@@ -377,6 +391,12 @@ function CanAddForestock(item)
 		["IMBEL ParaFal (7.62x51mm) folded"] = "Stock kit (IMBEL M964A1)",
 		["Carabine IMBEL ParaFal (7.62x51mm)"] = "Stock kit (IMBEL M964A1)",
 		["Carabine IMBEL ParaFal (7.62x51mm) folded"] = "Stock kit (IMBEL M964A1)",
+		["Carabine M1A RIS (7.62x51mm)"] = "Stock kit (M1A)",
+		["Carabine M1A WOOD RIS (7.62x51mm)"] = "Stock kit (M1A)",
+		["Carabine M1A Scout RIS (7.62x51mm)"] = "Stock kit (M1A)",
+		["Carabine M1A Scout POLY RIS (7.62x51mm)"] = "Stock kit (M1A)",
+		["Carabine SOCOM16 (7.62x51mm)"] = "Stock kit (M1A)",
+		["Carabine SOCOM16 WOOD RIS (7.62x51mm)"] = "Stock kit (M1A)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -437,6 +457,12 @@ function CanAddRISForestock(item)
 		["IMBEL M964A1 MD1 folded"] = "RIS kit (IMBEL M964A1)",
 		["Carabine IMBEL M964A1 MD3"] = "RIS kit (IMBEL M964A1)",
 		["Carabine IMBEL M964A1 MD3 folded"] = "RIS kit (IMBEL M964A1)",
+		["Carabine M1A (7.62x51mm)"] = "RIS kit (M1A)",
+		["Carabine M1A WOOD (7.62x51mm)"] = "RIS kit (M1A)",
+		["Carabine M1A Scout (7.62x51mm)"] = "RIS kit (M1A)",
+		["Carabine M1A Scout POLY (7.62x51mm)"] = "RIS kit (M1A)",
+		["Carabine SOCOM16 NO RIS (7.62x51mm)"] = "RIS kit (M1A)",
+		["Carabine SOCOM16 WOOD NO RIS (7.62x51mm)"] = "RIS kit (M1A)",
 	}
 
 	-- проверяем что доступна модификация цевья
@@ -714,6 +740,8 @@ AddItemContextMenu("Stock kit (PP-90M1)", action_uninstall_ris_kit, ChangeForest
 AddItemContextMenu("RIS kit (PP-90M1)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("Stock kit (IMBEL M964A1)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
 AddItemContextMenu("RIS kit (IMBEL M964A1)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
+AddItemContextMenu("Stock kit (M1A)", action_uninstall_ris_kit, ChangeForestock, CanAddForestock)
+AddItemContextMenu("RIS kit (M1A)", action_install_ris_kit, ChangeForestock, CanAddRISForestock)
 
 local action_fold = _t"lang/lua/tuning/fold"
 local action_unfold = _t"lang/lua/tuning/unfold"
