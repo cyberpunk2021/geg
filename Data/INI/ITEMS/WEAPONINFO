@@ -36566,7 +36566,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	112
+EffectiveRange	107
 RangeCurvature	3
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\Mauser_M712_clip_IN.wav"
@@ -40692,7 +40692,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	112
+EffectiveRange	107
 RangeCurvature	3
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\Mauser_M712_clip_IN.wav"
@@ -40729,7 +40729,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	112
+EffectiveRange	107
 RangeCurvature	3
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\Mauser_M712_clip_IN.wav"

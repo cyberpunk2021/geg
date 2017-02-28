@@ -5,58 +5,79 @@ Variants  1
 VARIANT  "Variant 1"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Shotgun CBC PUMP PGRIP (12ga)"
+Name  "Assault Rifle Lee Enfield 05"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Shotgun ammo clip (m870/7)"
+Name  "Enfield Clip"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  7 0 0 6 
-Name  "Hunt (12ga)"
+BulletsCount  10 0 0 6 
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".303 British FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".303 British FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  1 
@@ -71,11 +92,11 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 7 8 6 9 10 
-Item  0 0 10 
-Name  "Drink_rum_sol"
+Item  1 1 10 
+Name  "Rico_photo"
 SpecificData  
 OtherInfo  
-GUID  3111 
+GUID  94327 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -95,11 +116,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Rico_photo"
+Item  0 0 10 
+Name  "Drink_rum_sol"
 SpecificData  
 OtherInfo  
-GUID  94327 
+GUID  3111 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -188,15 +209,15 @@ EndOfSpecificData
 Stuff  15 
 Pockets  81 
 Item  0 0 7 
-Name  "Ammo box (00 Algeira)"
+Name  "Big Ammo box (.303 British FMJ)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "00 Buckshot Algeira (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
-RoundsLeft  10 
+RoundsLeft  20 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -204,15 +225,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 82 
 Item  0 0 7 
-Name  "Ammo box (00 Palinero)"
+Name  "Big Ammo box (.303 British FMJ)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "00 Buckshot Palinero (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
-RoundsLeft  10 
+RoundsLeft  20 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -220,12 +241,12 @@ EndOfSpecificData
 Used  0 
 Prob  1 83 
 Item  0 0 7 
-Name  "Ammo box (Hunt)"
+Name  "Big Ammo box (.303 British FMJ)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
 RoundsLeft  10 
@@ -252,15 +273,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 85 
 Item  0 0 7 
-Name  "Ammo box (Hunt)"
+Name  "Big Ammo box (.303 British FMJ)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  "Hunt (12ga)"
+Name  ".303 British FMJ"
 SpecificData  
 AmmoInfo  
-RoundsLeft  10 
+RoundsLeft  20 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -347,18 +368,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  2 
 Pockets  25 
-Item  0 1 10 
-Name  "Pencil"
-SpecificData  
-OtherInfo  
-GUID  97197 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 10 
 Name  "Camo Kit"
 SpecificData  
@@ -370,19 +379,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 26 
+Prob  1 
 Item  0 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Pencil"
 SpecificData  
 OtherInfo  
-GUID  97064 
+GUID  97197 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 26 
 Item  0 0 10 
 Name  "Rico_photo"
 SpecificData  
@@ -394,8 +403,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  97064 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 27 
-Item  0 1 0 
+Item  0 0 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -411,7 +432,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  0 0 0 
+Item  0 1 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -533,18 +554,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  2 
 Pockets  25 
-Item  0 1 10 
-Name  "Pencil"
-SpecificData  
-OtherInfo  
-GUID  97197 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 10 
 Name  "Camo Kit"
 SpecificData  
@@ -556,19 +565,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 26 
+Prob  1 
 Item  0 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Pencil"
 SpecificData  
 OtherInfo  
-GUID  97064 
+GUID  97197 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 26 
 Item  0 0 10 
 Name  "Rico_photo"
 SpecificData  
@@ -580,8 +589,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  97064 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 27 
-Item  0 1 0 
+Item  0 0 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -597,7 +618,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  0 0 0 
+Item  0 1 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -719,18 +740,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  2 
 Pockets  25 
-Item  0 1 10 
-Name  "Pencil"
-SpecificData  
-OtherInfo  
-GUID  97197 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 10 
 Name  "Camo Kit"
 SpecificData  
@@ -742,19 +751,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 26 
+Prob  1 
 Item  0 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Pencil"
 SpecificData  
 OtherInfo  
-GUID  97064 
+GUID  97197 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 26 
 Item  0 0 10 
 Name  "Rico_photo"
 SpecificData  
@@ -766,8 +775,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  97064 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 27 
-Item  0 1 0 
+Item  0 0 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -783,7 +804,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  0 0 0 
+Item  0 1 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -905,18 +926,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  2 
 Pockets  25 
-Item  0 1 10 
-Name  "Pencil"
-SpecificData  
-OtherInfo  
-GUID  97197 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 10 
 Name  "Camo Kit"
 SpecificData  
@@ -928,19 +937,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 26 
+Prob  1 
 Item  0 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Pencil"
 SpecificData  
 OtherInfo  
-GUID  97064 
+GUID  97197 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 26 
 Item  0 0 10 
 Name  "Rico_photo"
 SpecificData  
@@ -952,8 +961,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  97064 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 27 
-Item  0 1 0 
+Item  0 0 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -969,7 +990,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  0 0 0 
+Item  0 1 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1091,18 +1112,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  2 
 Pockets  25 
-Item  0 1 10 
-Name  "Pencil"
-SpecificData  
-OtherInfo  
-GUID  97197 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 10 
 Name  "Camo Kit"
 SpecificData  
@@ -1114,19 +1123,19 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 26 
+Prob  1 
 Item  0 1 10 
-Name  "Field Paramedic Kit2"
+Name  "Pencil"
 SpecificData  
 OtherInfo  
-GUID  97064 
+GUID  97197 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 26 
 Item  0 0 10 
 Name  "Rico_photo"
 SpecificData  
@@ -1138,8 +1147,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  97064 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 27 
-Item  0 1 0 
+Item  0 0 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1155,7 +1176,7 @@ IsCase  0
 JumpTimerUsed  0 
 Used  0 
 Prob  1 
-Item  0 0 0 
+Item  0 1 0 
 Name  "TNT"
 SpecificData  
 WeaponInfo  1 1 0 1 0 
@@ -1232,21 +1253,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1268,13 +1281,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -1330,8 +1351,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1339,7 +1360,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1358,8 +1379,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1367,7 +1388,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1394,21 +1415,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1430,13 +1443,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -1492,8 +1513,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1501,7 +1522,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1520,8 +1541,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1529,7 +1550,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1556,21 +1577,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1592,13 +1605,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -1654,8 +1675,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1663,7 +1684,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1682,8 +1703,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1691,7 +1712,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1718,21 +1739,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1754,13 +1767,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -1816,8 +1837,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1825,7 +1846,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1844,8 +1865,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1853,7 +1874,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1880,21 +1901,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1916,13 +1929,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -1978,8 +1999,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1987,7 +2008,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2006,8 +2027,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2015,7 +2036,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2042,21 +2063,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2078,13 +2091,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -2140,8 +2161,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2149,7 +2170,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2168,8 +2189,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2177,7 +2198,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2204,21 +2225,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2240,13 +2253,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -2302,8 +2323,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2311,7 +2332,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2330,8 +2351,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2339,7 +2360,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2366,21 +2387,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2402,13 +2415,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -2464,8 +2485,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2473,7 +2494,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2492,8 +2513,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2501,7 +2522,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2528,21 +2549,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2564,13 +2577,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -2626,8 +2647,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2635,7 +2656,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2654,8 +2675,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2663,7 +2684,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2690,21 +2711,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2726,13 +2739,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -2788,8 +2809,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2797,7 +2818,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2816,8 +2837,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2825,7 +2846,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2852,21 +2873,13 @@ Extended  0
 EndOfSpecificData  
 Stuff  8 
 Pockets  61 
-Item  1 1 9 
-Name  "TNT Radio"
+Item  0 0 8 
+Name  "Silencer Trident (9 mm Para)"
 SpecificData  
-MineInfo  
-Condition  1 
-ActivationTimeLeft  0 
-TextTime  0 
-SkillSapper  0 
-State  0 
-Direction  0 0 0 
-Pos  0 0 0 
-EndPos  0 0 0 
-HalfInstalled  0 
-ControllerID  -1 
-SeeMeInfo  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2888,13 +2901,21 @@ SeeMeInfo
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 8 
-Name  "Silencer Trident (9 mm Para)"
+Item  1 1 9 
+Name  "TNT Radio"
 SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
+MineInfo  
+Condition  1 
+ActivationTimeLeft  0 
+TextTime  0 
+SkillSapper  0 
+State  0 
+Direction  0 0 0 
+Pos  0 0 0 
+EndPos  0 0 0 
+HalfInstalled  0 
+ControllerID  -1 
+SeeMeInfo  
 EndOfSpecificData  
 Used  0 
 Prob  1 62 
@@ -2950,8 +2971,8 @@ AddonsCount  0
 EndOfSpecificData  
 Used  0 
 Prob  1 11 
-Item  0 0 7 
-Name  "Pistol clip (Beretta 92FS/15)"
+Item  0 1 7 
+Name  "Ammo box (JHP 117grn)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2959,7 +2980,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  15 
+RoundsLeft  50 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2978,8 +2999,8 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 1 7 
-Name  "Ammo box (JHP 117grn)"
+Item  0 0 7 
+Name  "Pistol clip (Beretta 92FS/15)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2987,7 +3008,7 @@ BulletsCount  1 0 0 6
 Name  "117grn JHP 9x19mm"
 SpecificData  
 AmmoInfo  
-RoundsLeft  50 
+RoundsLeft  15 
 EndOfSpecificData  
 Used  0 
 Prob  1 
