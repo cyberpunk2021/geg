@@ -28,17 +28,17 @@ Mine				"M-18 Claymore"
 	Type			Controlled  
 	Hidden			1 
 	ActivationTime		0 
-	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
-	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
-	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius		1.5 
-	MaxStringLength		0 
-	BurstAngle		60.0013 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
 	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
-	ExplForce		0 
+	ExplForce		170 
 	ACTOR			"Items\m18a1.act"
 	IMAGE			"m18a1.e5b"
 	WEIGHT			550 
@@ -48,17 +48,17 @@ Mine				"M-18 Claymore_contact"
 	Type			Land  
 	Hidden			1 
 	ActivationTime		0 
-	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
-	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
-	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius  		3.0 
-	MaxStringLength  	2.0 
-	BurstAngle		60.0013 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
 	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
-	ExplForce		0 
+	ExplForce		170
 	ACTOR			"Items\m18a1.act"
 	IMAGE			"m18a1.e5b"
 	WEIGHT			550 
@@ -67,17 +67,17 @@ Mine				"MON-50"
 	Type			Land  
 	Hidden			1 
 	ActivationTime		0 
-	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
-	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
-	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius  		3.0 
-	MaxStringLength  	2.0 
-	BurstAngle		54.0013 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
 	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
-	ExplForce		0 
+	ExplForce		170 
 	ACTOR			"Items\M18A1mon50.act"
 	IMAGE			"m18a1mon50.e5b"
 	WEIGHT			550 
@@ -87,17 +87,17 @@ Mine				"MON-50_remote"
 	Type			Controlled  
 	Hidden			1 
 	ActivationTime		0 
-	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
-	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
-	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius  		3.0 
-	MaxStringLength  	2.0 
-	BurstAngle		54.0013 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
 	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
-	ExplForce		0 
+	ExplForce		170 
 	ACTOR			"Items\M18A1mon50.act"
 	IMAGE			"m18a1mon50.e5b"
 	WEIGHT			550 
@@ -107,17 +107,17 @@ Mine				"Type66_remote"
 	Type			Controlled  
 	Hidden			1 
 	ActivationTime		0 
-	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
-	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
-	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius  		3.0 
-	MaxStringLength  	2.0 
-	BurstAngle		54.0013 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
 	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
-	ExplForce		0 
+	ExplForce		170 
 	ACTOR			"Items\M18A1t66.act"
 	IMAGE			"M18A1t66.e5b"
 	WEIGHT			550 
@@ -127,17 +127,17 @@ Mine				"Type66_contact"
 	Type			Land  
 	Hidden			1 
 	ActivationTime		0 
-	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
-	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
-	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
-	ArmRadius  		3.0 
-	MaxStringLength  	2.0 
-	BurstAngle		54.0013 
+ActionSound  "Mine\ActionSound\explosion1.wav"
+LayingSound  "Mine\LayingSound\Landmine_charging.wav"
+ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
+ArmRadius  0 
+MaxStringLength  0 
+BurstAngle 360 
 	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
-	ExplForce		0 
+	ExplForce		170 
 	ACTOR			"Items\M18A1t66.act"
 	IMAGE			"M18A1t66.e5b"
 	WEIGHT			550 
