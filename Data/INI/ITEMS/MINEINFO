@@ -28,13 +28,13 @@ Mine				"M-18 Claymore"
 	Type			Controlled  
 	Hidden			1 
 	ActivationTime		0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-	ShiversCount		300 
+	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
+	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
+	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
+	ArmRadius		1.5 
+	MaxStringLength		0 
+	BurstAngle		60.0013 
+	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
@@ -48,13 +48,13 @@ Mine				"M-18 Claymore_contact"
 	Type			Land  
 	Hidden			1 
 	ActivationTime		0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-	ShiversCount		300 
+	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
+	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
+	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
+	ArmRadius  		3.0 
+	MaxStringLength  	2.0 
+	BurstAngle		60.0013 
+	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
@@ -67,13 +67,13 @@ Mine				"MON-50"
 	Type			Land  
 	Hidden			1 
 	ActivationTime		0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-	ShiversCount		300 
+	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
+	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
+	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
+	ArmRadius  		3.0 
+	MaxStringLength  	2.0 
+	BurstAngle		54.0013 
+	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
@@ -87,13 +87,13 @@ Mine				"MON-50_remote"
 	Type			Controlled  
 	Hidden			1 
 	ActivationTime		0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-	ShiversCount		300 
+	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
+	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
+	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
+	ArmRadius  		3.0 
+	MaxStringLength  	2.0 
+	BurstAngle		54.0013 
+	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
@@ -107,13 +107,13 @@ Mine				"Type66_remote"
 	Type			Controlled  
 	Hidden			1 
 	ActivationTime		0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-	ShiversCount		300 
+	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
+	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
+	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
+	ArmRadius  		3.0 
+	MaxStringLength  	2.0 
+	BurstAngle		54.0013 
+	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
@@ -127,13 +127,13 @@ Mine				"Type66_contact"
 	Type			Land  
 	Hidden			1 
 	ActivationTime		0 
-ActionSound  "Mine\ActionSound\explosion1.wav"
-LayingSound  "Mine\LayingSound\Landmine_charging.wav"
-ClearingSound  "Mine\ClearingSound\Landmine_uncharging.wav"
-ArmRadius  0 
-MaxStringLength  0 
-BurstAngle 360 
-	ShiversCount		300 
+	ActionSound		"Mine\ActionSound\Landmine_expl_universal.wav"
+	LayingSound		"Mine\LayingSound\Landmine_charging 2.wav"
+	ClearingSound		"Mine\ClearingSound\Landmine_uncharging.wav"
+	ArmRadius  		3.0 
+	MaxStringLength  	2.0 
+	BurstAngle		54.0013 
+	ShiversCount		200 
 	ShiversMass		1.5 
 	ShiversDist		15 
 	ExplWaveDist		10 
