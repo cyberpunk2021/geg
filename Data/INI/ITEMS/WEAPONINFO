@@ -40624,7 +40624,7 @@ Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
-ShootSound		"Weapon\Shoot\M1903_fire.wav"
+ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0
@@ -40661,7 +40661,7 @@ Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
-ShootSound		"Weapon\Shoot\M1903_fire.wav"
+ShootSound		"Weapon\Shoot\ak47_fire.wav"
 ATT Laser		0
 ATT Light		0
 ATT Scope		0

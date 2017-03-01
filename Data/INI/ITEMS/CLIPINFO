@@ -2298,7 +2298,7 @@ DEFAMMO  "357 SP"
 // калибр .44 Magnum
 BOX  "Ammo box (Magnum .44)""Mag .44"50 "Items\44MagBox.act""magnum44.e5b"
 BOX  "Ammo Box 44 MAG JHP""Ammo 44 MAG JHP"50 "Items\44pdx1.ACT""box357pdx.E5B"
-BOX  "Ammo Box 44 MAG Algeira""Mag .44 Algeira"50 "Items\algeira357sig.ACT""algeiraboxinv.E5B"
+BOX  "Ammo Box 44 MAG Algeira""Mag .44 Algeira"50 "Items\algeira44mag.ACT""algeiraboxinv.E5B"
 BOX "Big Ammo box Algeira (Magnum .44)""Mag .44 Algeira"500 "Items\algeirabox500_44.act""algeira500box.e5b"
 BOX "Big Ammo box JHP (Magnum .44)""Ammo 44 MAG JHP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 HLA (Magnum .44)""Mag .44"500 "Items\Note_closed.act""Note_closed.e5b"
