@@ -1413,7 +1413,7 @@ FOR "Assault Rifle AK Custom"
 
 "Encore Kit"
 Toolkit
-None  "Items\camo.act""camo.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 FOR  "Pistol Encore (300)"
 FOR  "Pistol Encore (12ga)"
 FOR  "Pistol Encore (20ga)"
@@ -1424,11 +1424,11 @@ FOR  "Pistol Encore (223)"
 FOR  "Pistol Encore (3006)"
 FOR  "Pistol Encore (45-70)"
 FOR  "Pistol Encore (375)"
-50
+1500
 
 "Contender Kit"
 Toolkit
-None  "Items\camo.act""camo.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 FOR  "Pistol Contender (SPC)"
 FOR  "Pistol Contender (223)"
 FOR  "Pistol Contender (45-70)"
@@ -1436,7 +1436,7 @@ FOR  "Pistol Contender (410)"
 FOR  "Pistol Contender (45LC)"
 FOR  "Pistol Contender (44)"
 FOR  "Pistol Contender (22LR)"
-50
+1100
 
 "F2000 Kits"
 Toolkit
@@ -1459,7 +1459,7 @@ FOR  "Sniper Rifle Keltec (7.62x51mm)"
 
 "MSBS Kit"
 Toolkit
-None  "Items\BIGAMMOBOXG.ACT""BIGAMMOBOXG.E5B"
+None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
 FOR  "MSBS"
 FOR  "MSBS Bullpup"
 FOR  "MSBS Bullpup FG"
@@ -1468,22 +1468,22 @@ FOR  "MSBS Bullpup NOFG"
 
 "DPM/RP-46 Kit"
 Toolkit
-None  "Items\12ga_hunt_100bag.act""12ga_hunt_100bag.e5b"
+None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
 FOR  "Machinegun DPM (7.62x54R)"
 FOR  "Machinegun RP46 (7.62x54R)"
-200
+2000
 
 "CPW Kit"
 Toolkit
-None  "Items\camo.act""camo.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 FOR  "CPW (9mm)"
 FOR  "CPW (5.7)"
 FOR  "CPW (4.6)"
-200
+800
 
 "MPX Kit"
 Toolkit
-None  "Items\camo.act""camo.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 FOR  "Submachine-gun MPX (9mm)"
 FOR  "Submachine-gun MPX FG (9mm)"
 FOR  "Submachine-gun MPX (40)"
@@ -1496,15 +1496,15 @@ FOR  "Submachine-gun MPXK (40)"
 FOR  "Submachine-gun MPXK FG (40)"
 FOR  "Submachine-gun MPXK (357)"
 FOR  "Submachine-gun MPXK FG (357)"
-200
+1200
 
 "SPAS-12 Kits"
 Toolkit
-None  "Items\camo.act""camo.e5b"
+None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
 FOR  "Shotgun SPAS12 (12ga)"
 FOR  "SPAS12 F (12ga)"
 FOR  "SPAS12 NS (12ga)"
-1000
+1500
 
 "Mine_detector"
 None
