@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <root>
-  <item level="6">.300 AAC Blackout Kits</item>
   <item level="5">12 inch Upper .300 AAC Blackout</item>
   <item level="5">16 inch Upper .300 AAC Blackout</item>
   <item level="5">762x51 Suppressor (.300 BLK)</item>
@@ -502,13 +501,23 @@
   <item level="4">m407-case</item>
   <item level="5">m433-case</item>
   <item level="3">morphine</item>
-  <item level="8">Groza Kits</item>
   <item level="10">M-60 barrel</item>
   <item level="7">Minimi Barrel</item>
   <item level="7">Minimi SPW Barrel</item>
   <item level="7">Mk 46 Barrel</item>
   <item level="7">Mk 48 Barrel</item>
   <item level="7">PKM barrel</item>
+  <item level="6">.300 AAC Blackout Kits</item>
+  <item level="1">Contender Kit</item>
+  <item level="4">CPW Kit</item>
+  <item level="2">Encore Kit</item>
+  <item level="3">DPM/RP-46 Kit</item>
+  <item level="11">F2000 Kits</item>
+  <item level="8">Groza Kits</item>
+  <item level="9">Keltec Kits</item>
+  <item level="4">MPX Kit</item>
+  <item level="11">Scar Kits</item>
+  <item level="3">SPAS-12 Kits</item>
   <item level="10">Steyr AUG A1 Kits</item>
   <item level="10">Steyr AUG A2 Kits</item>
   <item level="6">Anti-personnel Land Mine PMN-2</item>
@@ -1006,9 +1015,6 @@
   <item level="4">RPG-7 Grenade(pg-7pm)</item>
   <item level="5">RPG-7 Grenade(tbg-7v)</item>
   <item level="3">RPG-7 Grenade(type69-3)</item>
-  <item level="1">Encore Kit</item>
-  <item level="1">Contender Kit</item>
-  <item level="3">DPM/RP-46 Kit</item>
   <item level="1">Camera</item>
   <item level="6">PackedAmmoBox M80 (7.62x51/800)</item>
   <item level="5">PackedAmmoBox M193 (5.56/1000)</item>
@@ -1087,7 +1093,6 @@
   <item level="12">Assault Rifle SCAR-H LB (7.62x51mm)</item>
   <item level="10">Assault Rifle SCAR-L Std (5.56mm)</item>
   <item level="11">Assault Rifle SCAR-L LB (5.56mm)</item>
-  <item level="12">Scar Kits</item>
   <item level="1">Food_orange</item>
   <item level="1">boeingmanual</item>
   <item level="7">Assault Rifle Imbel MD-2 (5.56mm)</item>
