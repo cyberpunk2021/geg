@@ -5,6 +5,18 @@
 
 //////////GUNSHOP GUNS
 
+Item	"Rifle ammo clip (Dragunov/10)"	Level 3 Price	20.0
+Item	"Sniper Rifle Zastava M-91 (7.62x54mm)" Level 8 Price 3000
+Item "Sniper Rifle Norinco EM352 (7.62x51mm)" Level 8 Price 2300
+Item	"Sniper Rifle Norinco NDM86 (7.62x51mm)" Level 8 Price	2300
+Item	"Sniper Rifle Zastava M76 (7.92x57mm)"	Level 8 Price	2800
+
+Item "Sniper Rifle PSL (7.62x54mm)" Level 7 Price 2900
+Item "Rifle ammo clip (PSL/10)" Level 5 Price 40
+Item "Sniper Rifle Norinco NDM86 (7.62x54)" Level 8 Price 2400
+Item "Sniper Rifle Norinco EM352 (7.62x54)" Level 8 Price 2400
+Item "Rifle ammo clip (EM352/10)" Level 5 Price 20
+
 Item "Shotgun TriCoachGun (12ga)" Level 2 Price 450
 Item "Shotgun TriCoachGun (20ga)" Level 1 Price 350
 Item "Shotgun TriCoachGun CAR (12ga)" Level 2 Price 350

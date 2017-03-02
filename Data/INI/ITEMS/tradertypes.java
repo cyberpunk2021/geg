@@ -4,6 +4,21 @@
 
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
+Item	"Rifle ammo clip (Dragunov/10)"	Level 3 Price	20.0
+Item	"Sniper Rifle Zastava M-91 (7.62x54mm)" Level 8 Price 3000
+Item "Sniper Rifle Norinco EM352 (7.62x51mm)" Level 8 Price 2300
+Item	"Sniper Rifle Norinco NDM86 (7.62x51mm)" Level 8 Price	2300
+Item	"Sniper Rifle Zastava M76 (7.92x57mm)"	Level 8 Price	2800
+
+Item "Sniper Rifle PSL (7.62x54mm)" Level 7 Price 2900
+Item "Rifle ammo clip (PSL/10)" Level 5 Price 40
+Item "Sniper Rifle Norinco NDM86 (7.62x54)" Level 8 Price 2400
+Item "Sniper Rifle Norinco EM352 (7.62x54)" Level 8 Price 2400
+Item "Rifle ammo clip (EM352/10)" Level 5 Price 20
+
+Item	"Rifle ammo clip (Norinco/10)" Level 3 Price 20
+Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
+
 Item	"Carabine M59 (7.62x39mm)"	Level 3 Price			700
 
 Item "Submachine-gun Calico M950 (9mm)" Level 3 Price 1000

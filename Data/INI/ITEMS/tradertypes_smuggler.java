@@ -4,6 +4,21 @@
 
 //////////////SMUGGLER STUFF
 
+Item	"Rifle ammo clip (Norinco/10)" Level 3 Price 20
+Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
+
+Item	"Rifle ammo clip (Dragunov/10)"	Level 3 Price	20.0
+Item	"Sniper Rifle Zastava M-91 (7.62x54mm)" Level 8 Price 3000
+Item "Sniper Rifle Norinco EM352 (7.62x51mm)" Level 8 Price 2300
+Item	"Sniper Rifle Norinco NDM86 (7.62x51mm)" Level 8 Price	2300
+Item	"Sniper Rifle Zastava M76 (7.92x57mm)"	Level 8 Price	2800
+
+Item "Sniper Rifle PSL (7.62x54mm)" Level 7 Price 2900
+Item "Rifle ammo clip (PSL/10)" Level 5 Price 40
+Item "Sniper Rifle Norinco NDM86 (7.62x54)" Level 8 Price 2400
+Item "Sniper Rifle Norinco EM352 (7.62x54)" Level 8 Price 2400
+Item "Rifle ammo clip (EM352/10)" Level 5 Price 20
+
 Item "Submachine-gun KRISS Super V CIV (.45 ACP)" Level 3 Price 1900
 Item "Submachine-gun KRISS Super V (.45 ACP)" Level 6 Price 2300
 Item "Submachine-gun KRISS Super V CAR (.45 ACP)" Level 4 Price 2100
@@ -163,56 +178,56 @@ Item "SW MP15 LB" Level 10 Price 3200
 Item "Assault ARX (5.45x39mm)" Level 9 Price 2600
 Item "Assault ARX LB (5.45x39mm)" Level 10 Price 3200
 Item "Assault ARX VERY LB (5.45x39mm)" Level 11 Price 3800
-Item "Assault ARX (5.56x45mm)" Level XXXXXXXX Price 2700
-Item "Assault ARX LB (5.56x45mm)" Level XXXXXXXX Price 3300
-Item "Assault ARX VERY LB (5.56x45mm)" Level XXXXXXXX Price 3900
-Item "Assault ARX (6.8x43mm)" Level XXXXXXXX Price 3000
-Item "Assault ARX LB (6.8x43mm)" Level XXXXXXXX Price 3600
-Item "Assault ARX VERY LB (6.8x43mm)" Level XXXXXXXX Price 4300
+Item "Assault ARX (5.56x45mm)" Level 9 Price 2700
+Item "Assault ARX LB (5.56x45mm)" Level 10 Price 3300
+Item "Assault ARX VERY LB (5.56x45mm)" Level 11 Price 3900
+Item "Assault ARX (6.8x43mm)" Level 10 Price 3000
+Item "Assault ARX LB (6.8x43mm)" Level 11 Price 3600
+Item "Assault ARX VERY LB (6.8x43mm)" Level 12 Price 4300
 
-Item "Assault ARX (7.62x39mm)" Level XXXXXXXX Price 2650
-Item "Assault ARX LB (7.62x39mm)" Level XXXXXXXX Price 3250
-Item "Assault ARX VERY LB (7.62x39mm)" Level XXXXXXXX Price 3850
-Item "Assault Rifle Bushmaster ACR 10 (5.56mm)" Level XXXXXXXX Price 2700
-Item "Assault Rifle Bushmaster ACR 10 (6.8mm)" Level XXXXXXXX Price 3000
-Item "Assault Rifle Bushmaster ACR (5.56mm)" Level XXXXXXXX Price 3000
-Item "Assault Rifle Bushmaster ACR (6.8mm)" Level XXXXXXXX Price 3500
-Item "Assault Rifle Bushmaster ACR 16 (5.56mm)" Level XXXXXXXX Price 3800
-Item "Assault Rifle Bushmaster ACR 16 (6.8mm)" Level XXXXXXXX Price 4600
+Item "Assault ARX (7.62x39mm)" Level 9 Price 2650
+Item "Assault ARX LB (7.62x39mm)" Level 10 Price 3250
+Item "Assault ARX VERY LB (7.62x39mm)" Level 11 Price 3850
+Item "Assault Rifle Bushmaster ACR 10 (5.56mm)" Level 9 Price 2700
+Item "Assault Rifle Bushmaster ACR 10 (6.8mm)" Level 10 Price 3000
+Item "Assault Rifle Bushmaster ACR (5.56mm)" Level 10 Price 3000
+Item "Assault Rifle Bushmaster ACR (6.8mm)" Level 11 Price 3500
+Item "Assault Rifle Bushmaster ACR 16 (5.56mm)" Level 11 Price 3800
+Item "Assault Rifle Bushmaster ACR 16 (6.8mm)" Level 12 Price 4600
 
-Item "Assault Rifle SIG 556 CQC (5.56mm)" Level XXXXXXXX Price 3100
-Item "Assault Rifle SIG 556 CAR (5.56mm)" Level XXXXXXXX Price 3300
-Item "Assault Rifle SIG 556 (5.56mm)" Level XXXXXXXX Price 3600
+Item "Assault Rifle SIG 556 CQC (5.56mm)" Level 8 Price 3100
+Item "Assault Rifle SIG 556 CAR (5.56mm)" Level 9 Price 3300
+Item "Assault Rifle SIG 556 (5.56mm)" Level 10 Price 3600
 
-Item "Pindad SS2 CQC" Level XXXXXXXX Price 2600
-Item "Pindad SS2 CQC RIS" Level XXXXXXXX Price 2850
-Item "Pindad SS2 CAR" Level XXXXXXXX Price 3000
-Item "Pindad SS2" Level XXXXXXXX Price 3500
-Item "AK 5" Level XXXXXXXX Price 2600
-Item "AK 5C CQC" Level XXXXXXXX Price 3000
-Item "AK 5C CAR" Level XXXXXXXX Price 3400
-Item "AK 5C" Level XXXXXXXX Price 3900
+Item "Pindad SS2 CQC" Level 8 Price 2600
+Item "Pindad SS2 CQC RIS" Level 9 Price 2850
+Item "Pindad SS2 CAR" Level 9 Price 3000
+Item "Pindad SS2" Level 10 Price 3500
+Item "AK 5" Level 7 Price 2600
+Item "AK 5C CQC" Level 10 Price 3000
+Item "AK 5C CAR" Level 11 Price 3400
+Item "AK 5C" Level 12 Price 3900
 
-Item "Assault Rifle AK-108 (5.56mm)" Level XXXXXXXX Price 3000
+Item "Assault Rifle AK-108 (5.56mm)" Level 12 Price 3000
 
-Item "Assault Rifle AK-12U (5.45mm)" Level XXXXXXXX Price 2400
-Item "Assault Rifle AK-12C (5.45mm)" Level XXXXXXXX Price 2700
-Item "Assault Rifle AK-12 (5.45mm)" Level XXXXXXXX Price 3000
-Item "Assault Rifle AK-12U (5.56mm)" Level XXXXXXXX Price 2500
-Item "Assault Rifle AK-12C (5.56mm)" Level XXXXXXXX Price 2800
-Item "Assault Rifle AK-12 (5.56mm)" Level XXXXXXXX Price 3100
-Item "Assault Rifle AK-12U (7.62mm)" Level XXXXXXXX Price 2550
-Item "Assault Rifle AK-12C (7.62mm)" Level XXXXXXXX Price 2850
-Item "Assault Rifle AK-12 (7.62mm)" Level XXXXXXXX Price 3150
-Item "Assault Rifle AK-12U (308)" Level XXXXXXXX Price 2900
-Item "Assault Rifle AK-12C (308)" Level XXXXXXXX Price 3300
-Item "Assault Rifle AK-12 (308)" Level XXXXXXXX Price 3900
-Item "Assault Rifle AK-9 (9x39mm)" Level XXXXXXXX Price 2700
+Item "Assault Rifle AK-12U (5.45mm)" Level 10 Price 2400
+Item "Assault Rifle AK-12C (5.45mm)" Level 11 Price 2700
+Item "Assault Rifle AK-12 (5.45mm)" Level 12 Price 3000
+Item "Assault Rifle AK-12U (5.56mm)" Level 10 Price 2500
+Item "Assault Rifle AK-12C (5.56mm)" Level 11 Price 2800
+Item "Assault Rifle AK-12 (5.56mm)" Level 12 Price 3100
+Item "Assault Rifle AK-12U (7.62mm)" Level 10 Price 2550
+Item "Assault Rifle AK-12C (7.62mm)" Level 11 Price 2850
+Item "Assault Rifle AK-12 (7.62mm)" Level 12 Price 3150
+Item "Assault Rifle AK-12U (308)" Level 11 Price 2900
+Item "Assault Rifle AK-12C (308)" Level 12 Price 3300
+Item "Assault Rifle AK-12 (308)" Level 13 Price 3900
+Item "Assault Rifle AK-9 (9x39mm)" Level 6 Price 2700
 
-Item	"Sniper Rifle M24 (7.62x51mm)" Level XXXXXXXX Price 			3800
-Item	"Sniper Rifle M14 DMR (7.62x51mm)" Level XXXXXXXX Price 		3500
-Item	"Sniper Rifle M14 SE (7.62x51mm)" Level XXXXXXXX Price 		3750
-Item	"Sniper Rifle M21 (7.62x51mm)" Level XXXXXXXX Price 			4700
+Item	"Sniper Rifle M24 (7.62x51mm)" Level 11 Price 			3800
+Item	"Sniper Rifle M14 DMR (7.62x51mm)" Level 10 Price 		3500
+Item	"Sniper Rifle M14 SE (7.62x51mm)" Level 9 Price 		3750
+Item	"Sniper Rifle M21 (7.62x51mm)" Level 11 Price 			4700
 
 ///////////////END SMUGGLER
 
