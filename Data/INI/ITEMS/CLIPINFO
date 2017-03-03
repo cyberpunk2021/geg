@@ -3220,12 +3220,12 @@ IMAGE  "m26massmag.e5b"
 DEFAMMO  "00 Buckshot (12ga)"
 
 CLIP  "Shotgun clip (SPAS-15/8)""12 калибр""SPAS15"8 140 "None"1200 
-ACTOR  "Items\spas15mag.act"
+ACTOR  "Items\spas15tanmag8.act"
 USEPREFIX  ""
 IMAGE  "spas15mag.e5b"
 DEFAMMO  "00 Buckshot (12ga)"
 
-CLIP  "Shotgun clip (SPAS-15Tan/8)""12 калибр""SPAS15"8 140 "None"1200 
+CLIP  "Shotgun clip (SPAS-15Tan/8)""12 калибр""SPAS15"6 120 "None"1200 
 ACTOR  "Items\spas15tanmag.act"
 USEPREFIX  ""
 IMAGE  "spas15mag.e5b"

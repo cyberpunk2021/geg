@@ -2,6 +2,16 @@
 /////////Street trader guns
 /////////==========================
 
+Item	"SMG ammo clip (AEK919K/20)" Level 1 Price 20.0
+Item	"SMG ammo clip (AEK919K/30)" Level 1 Price 30.0 
+Item	"SMG ammo clip (VZ82/10)" Level 1 Price 20.0
+Item	"SMG ammo clip (VZ82/20)" Level 1 Price 40.0
+
+Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 1400.0
+
+Item "Submachine-gun Kiparis (9mm)" Level 3 Price 1200
+Item "SMG ammo clip (Kiparis/30)" Level 1 Price 40
+
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
 Item	"Rifle ammo clip (Dragunov/10)"	Level 3 Price	20.0
@@ -539,13 +549,52 @@ Item "Launcher M79" Level 3 Price 900
 /////////MISC
 /////////+++++++++++++++++
 
+Item "TNT" Level 1 Price 160.0
+Item "Dynamite Stick" Level 1 Price 20
+Item "Dynamite Stick 7" Level 2 Price 100
+
+Item "Offensive Hand Grenade Type82-2" Level 2 Price 80.0
+
+Item "Offensive Hand Grenade RGD-5" Level 3 Price 110.0
+Item "Offensive Hand Grenade RG42" Level 3 Price 130
+Item "Offensive Hand Grenade RGZ89" Level 3 Price 115
+
+Item "Defensive Hand Grenade Mk2A1"	Level 4 Price 90.0
+Item "Offensive Hand Grenade M67" Level 4 Price 100.0
+
+Item "Defensive Hand Grenade Mk3A2" Level 2 Price 170.0
+
+Item "Offensive Hand Grenade V40" Level 2 Price 70
+
+Item "VOG-25" Level 3 Price 75.0
+Item "M406 HE" Level 3 Price 100.0
+
+Item "RPG-2 Grenade" Level 1 Price 170
+Item "RPG-7 Grenade" Level 3 Price 300.0
+Item "RPG-7 Grenade 2" Level 3 Price 300.0
+
+Item "rpg-2" Level 3 Price 600
+Item "Launcher RPG-7 Type 69" Level 4 Price 750
+Item "rpg-2 Type 56" Level 3 Price 450
+
 Item	"Case_Soft_Skin" Level 1 Price 200
 Item	"Case_Soft_Small" Level 1 Price 150
-Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
-Item	"Folded Ammo Belt" Level 1 Price 50
-Item	"Folded Basic Belt" Level 1 Price 100
-Item	"Folded Razgr_smerch" Level 1 Price 100.0
-Item	"Folded Belt_04" Level 1 Price 20
+Item "Case_Guitar" Level 1 Price 150
+Item "Case_Soft_Fabric" Level 1 Price 350
+Item "Case_Soft_Skin" Level 1 Price 200
+Item "Case_Soft_Small" Level 1 Price 150
+Item "Folded VestNew" Level 3 Price 200.0
+Item "Folded Razgr_smerch" Level 1 Price 100.0
+
+Item "Folded Ammo Belt" Level 1 Price 50
+Item "Folded Basic Belt" Level 1 Price 100
+Item "Folded Belt_02" Level 3 Price 120
+Item "Folded Belt_03" Level 2 Price 100
+Item "Folded Belt_04" Level 1 Price 5
+Item "Folded Ammo Cartouche6" Level 2 Price 50.0
+Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
+
+Item "Backpack_tourist" Level 1 Price 780.0
 
 Item	"Tactical Armor Vest M200" Level 3 Price 600.0
 Item	"Tactical Armor Vest M100" Level 1 Price 400
@@ -557,7 +606,9 @@ Item	"Steel Helmet" Level 2 Price 100.0
 Item	"Field Paramedic Kit" Level 1 Price 30.0
 Item	"Field Paramedic Kit1" Level 1 Price 50
 
-Item	"Flask" Level 1 Price 70.0
+Item "Field Paramedic Kit2"	Level 2 Price 340.0
+Item "Field Paramedic Kit3"	Level 3 Price 520.0
+
 
 Item	"Food_m_beef" Level 1 Price 60
 Item	"Food_m_mutton" Level 1 Price 60
@@ -565,13 +616,36 @@ Item	"Food_m_pork" Level 1 Price 60
 
 Item	"Canteen_st1" Level 1 Price 30
 Item	"Canteen_st2" Level 2 Price 80
-Item	"M406 HE" Level 3 Price 100.0
-Item	"VOG-25"	Level 3 Price 75.0
-Item	"M407 Smoke" Level 3 Price 50.0
-Item "Dynamite Stick" Level 1 Price 20
-Item	"Offensive Hand Grenade Type82-2" Level 2 Price 80.0
-Item "Offensive Hand Grenade Type 97" Level 2 Price 40
-Item "Hand Grenade M24" Level 1 Price 50
+
+Item "Machete" Level 1 Price 50
+Item "Cuchillo" Level 1 Price 30.0
+Item "Cuchillo de Combate" Level 1 Price 75.0
+
+Item "smersh5" Level 1 Price 170.0
+
+Item "Bayonet (East)" Level 2 Price 50.0
+Item "Bayonet M9 (West)" Level 2 Price 70.0
+Item "Bayonet (QBZ)" Level 2 Price 50
+
+
+Item "RadioBatt" Level 1 Price 150
+
+Item "Pen" Level 1 Price 2
+Item "Pencil" Level 1 Price 1
+
+Item "Wire" Level 3 Price 25
+
+Item "Lighter_matches" Level 1 Price 1
+
+Item "Glue" Level 1 Price 3
+Item "Nails_box" Level 1 Price 5
+
+Item "Smoke_camel" Level 3 Price 10
+Item "Smoke_serpent" Level 1 Price 5
+
+Item "Lighter_cryst_b" Level 1 Price 5
+Item "Lighter_cryst_g" Level 1 Price 5
+Item "Lighter_cryst_r" Level 1 Price 5
 
 
 /////////+++++++++
@@ -610,6 +684,8 @@ Item	"BigWoodBoxAK103"	Level 9 Price		6500
 Item "BigWoodBoxType56" Level 5 Price 1500
 Item "BigWoodBoxType56i" Level 5 Price 1500
 Item "BigWoodBoxType56ii" Level 6 Price 2500
+
+Item "BigWoodBoxKiparis" Level 3 Price 3000
 
 
 /////////========

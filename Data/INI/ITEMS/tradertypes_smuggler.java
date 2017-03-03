@@ -146,10 +146,10 @@ Item "REC7 NATO" Level 9 Price 3200
 Item "REC7 PDW SPC" Level 9 Price 3200
 Item "REC7 SPC" Level 10 Price 3400
 
-Item "Small Assault Rifle M933 Grendel (6.5)" Level XXXXXXXX Price 6500
-Item "Assault Rifle M4 Grendel (6.5)" Level XXXXXXXX Price 8000
-Item "Assault Rifle LAC Grendel (6.5)" Level XXXXXXXX Price 10000
-Item "Assault Rifle Grendel MWS (6.5)" Level XXXXXXXX Price 13000
+Item "Small Assault Rifle M933 Grendel (6.5)" Level 8 Price 6500
+Item "Assault Rifle M4 Grendel (6.5)" Level 9 Price 8000
+Item "Assault Rifle LAC Grendel (6.5)" Level 10 Price 10000
+Item "Assault Rifle Grendel MWS (6.5)" Level 11 Price 13000
 
 Item "LWRC PSD 556" Level 10 Price 3300
 Item "LWRC PSD 556 BLK" Level 10 Price 3300

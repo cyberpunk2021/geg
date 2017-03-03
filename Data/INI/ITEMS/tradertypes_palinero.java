@@ -2,6 +2,7 @@
 /////////Palinero Rico trader guns
 /////////==========================
 
+
 //PURCHASE
 Item	"Confidencial"						Level 16	Price	5250
 Item	"Military_sectret"					Level 16	Price	7700
@@ -450,6 +451,32 @@ Item "Rifle clip (SVDK/10)" Level 10 Price 40
 /////////MISC
 /////////+++++++++++++++++
 
+Item "Cuchillo" Level 1 Price 30.0
+Item "Cuchillo de Combate" Level 1 Price 75.0
+Item "Cuchillo tactico" Level 1 Price 55.0
+Item "NDK" Level 1 Price 200.0
+Item "smersh5" Level 1 Price 170.0
+
+Item "rpg-2" Level 3 Price 600
+Item "Launcher RPG-7 Type 69" Level 4 Price 750
+Item "rpg-2 Type 56" Level 3 Price 450
+Item "Launcher RPG-7" Level 6 Price 950
+
+Item "Rockect Launcher RPG-18 'Muha'" Level 4 Price 500
+
+Item "RPG-2 Grenade" Level 1 Price 170
+Item "RPG-7 Grenade" Level 3 Price 300.0
+Item "RPG-7 Grenade 2" Level 3 Price 300.0
+Item "RPG-7 Grenade(gtb-7vs)" Level 7 Price 300
+Item "RPG-7 Grenade(ipg-60)" Level 6 Price 300
+Item "RPG-7 Grenade(ipg-82)" Level 6 Price 300
+Item "RPG-7 Grenade(ko-7v)" Level 5 Price 300
+Item "RPG-7 Grenade(og-7ve)" Level 4 Price 300
+Item "RPG-7 Grenade(pg-7ei)" Level 5 Price 300
+Item "RPG-7 Grenade(pg-7pm)" Level 4 Price 300
+Item "RPG-7 Grenade(tbg-7v)" Level 5 Price 300
+Item "RPG-7 Grenade(type69-3)" Level 3 Price 300
+
 Item "PackedCamoBox" Level 3 Price 3000
 Item "PackedCleaningKitBox" Level 1 Price 1667
 Item "PackedContactFuzeBox" Level 1 Price 1000
@@ -457,7 +484,6 @@ Item "PackedRadioFuzeBox" Level 3 Price 2000
 Item "PackedRationBox" Level 1 Price 1120
 
 Item "PackedYellowTacVestBox" Level 5 Price 834
-Item "PackedMolleVestBox" Level 7 Price 1167
 Item "PackedVyzovBox" Level 4 Price 3667
 
 Item "PackedMetalPlateBox" Level 6 Price 834
@@ -473,13 +499,24 @@ Item "PackedVeryBigButtpackBox" Level 6 Price 667
 Item "Packed60MortarBox" Level 4 Price 1167
 Item "Packed82MortarBox" Level 8 Price 2000
 
-Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
-Item	"Folded Ammo Belt" Level 1 Price 50
-Item	"Folded Basic Belt" Level 1 Price 100
-Item	"Folded Razgr_smerch" Level 1 Price 100.0
-Item	"Folded Belt_04" Level 1 Price 20
+Item "Folded Tactical Vest" Level 5 Price 250.0
+Item "Folded VestNew" Level 3 Price 200.0
+Item "Folded Razgr_smerch" Level 1 Price 100.0
+Item "Folded Ammo Belt" Level 1 Price 50
+Item "Folded Basic Belt" Level 1 Price 100
+Item "Folded Belt_01" Level 7 Price 240
+Item "Folded Belt_02" Level 3 Price 120
+Item "Folded Belt_03" Level 2 Price 100
+Item "Folded Belt_04" Level 1 Price 5
+Item "Folded Tactical Belt" Level 5 Price 160
+Item "Folded Ammo Cartouche6" Level 2 Price 50.0
+Item "Folded Ammo Cartouche" Level 6 Price 200.0
+Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
 
-
+Item "Box_Wood_Empty" Level 1 Price 20
+Item "Box_Ammunition" Level 1 Price 300
+Item "Box_Explosives" Level 1 Price 300
+Item "Box_Med_Supplies" Level 1 Price 300
 
 Item	"Field Paramedic Kit" Level 1 Price 30.0
 Item	"Field Paramedic Kit1" Level 1 Price 50
@@ -511,40 +548,55 @@ Item "Offensive Hand Grenade RGZ89" Level 3 Price 115
 Item "AT RPG-40" Level 8 Price 800
 Item "Offensive Hand Grenade Type82" Level 5 Price 220
 
-
-Item "Launcher RPG-7 Type 69" Level 4 Price 750
-Item "rpg-2 Type 56" Level 3 Price 450
-Item "RPG-2 Grenade" Level 3 Price 200
-Item "rpg-2" Level 3 Price 600
-
-Item	"Launcher RG-6"	Level 8 Price					1700
-Item	"Launcher RPG-7"	Level 6 Price				950
-Item	"Rockect Launcher RPG-18 'Muha'" Level 4 Price			500
 Item	"RPO-A"		Level 8 Price					2000
 Item	"GP-30 (40mm VOG)"	Level 5 Price				1140
 
-Item	"RPG-7 Grenade"		Level 3 Price				300.0
-Item	"RPG-7 Grenade 2"			Level 3 Price		300.0
-Item	"RPG-7 Grenade(gtb-7vs)"	Level 7 Price		300
-Item	"RPG-7 Grenade(ipg-60)"		Level 6 Price		300
-Item	"RPG-7 Grenade(ipg-82)"		Level 6 Price		300
-Item	"RPG-7 Grenade(ko-7v)"		Level 5 Price		300
-Item	"RPG-7 Grenade(og-7ve)"		Level 4 Price		300
-Item	"RPG-7 Grenade(pg-7ei)"		Level 5 Price		300
-Item	"RPG-7 Grenade(pg-7pm)"		Level 4 Price		300
-Item	"RPG-7 Grenade(tbg-7v)"		Level 5 Price		300
-Item	"RPG-7 Grenade(type69-3)"	Level 3 Price		300
+Item "Tactical Armor Vest M500" Level 6 Price 2500.0
+Item "Tactical Armor Vest M200" Level 3 Price 600.0
+Item "Tactical Armor Vest M100" Level 1 Price 400
+Item "Tactical Armor Vest M300" Level 5 Price 800
 
-Item	"Helmet 6B6-3"		Level 11 Price			1000.0
-Item	"Helmet Sfera-S"	Level 9 Price			500.0
-Item	"Helmet Vitiaz"		Level 7 Price			750.0
+Item "Heavy Armor Predator" Level 9 Price 3300.0
 
-Item	"Heavy Armor Bastion"	Level 10 Price			3500.0
-Item	"Heavy Armor Predator"	Level 8 Price			3300.0
-Item	"Tactical Armor Vizov"		Level 4 Price		1100.0
+Item "Tactical Armor Vizov" Level 4 Price 1100.0
+
+Item "Steel Helmet" Level 2 Price 100.0
+Item "Helmet 6B6-3" Level 11 Price 1000.0
+Item "Helmet Sfera-S" Level 9 Price 850.0
+Item "Helmet Vitiaz" Level 7 Price 750.0
+
+Item "Titanium armor plate Lvl 4" Level 9 Price 300.0
+Item "Titanium armor plate Lvl 3" Level 5 Price 250.0
+Item "Ceramic armor plate Lvl 4" Level 9 Price 350.0
+Item "Ceramic armor plate Lvl 3" Level 5 Price 200.0
 
 Item	"VOG-25"	Level 3 Price 75.0
 Item	"VOG-25P"	Level 4 Price 75.0
+
+Item "Backpack" Level 3 Price 850.0
+Item "Backpack_tactic" Level 7 Price 1000.0
+
+Item "APS Belt" Level 1 Price 150
+
+Item "Groza Kits" Level 8 Price 3000.0
+
+Item "Flask" Level 1 Price 70.0
+
+Item "Bayonet (East)" Level 2 Price 50.0
+Item "Bayonet (QBZ)" Level 2 Price 50
+
+Item "SA Vz.58 Bayonet" Level 3 Price 70
+
+Item "Shovel" Level 1 Price 110
+
+Item "RadioBatt" Level 1 Price 150
+Item "RadioBatt_uc" Level 1 Price 100
+Item "Wire" Level 3 Price 25
+Item "Mine_detector" Level 6 Price 5000
+Item "Pen" Level 1 Price 2
+Item "Pencil" Level 1 Price 1
+
+Item "Nails_box" Level 1 Price 5
 
 /////////+++++++++
 /////////PACKEDBOX

@@ -1,5 +1,5 @@
 /////////==========================
-/////////Campecino Airsoft guy guns
+/////////Campecino Old Weapons store
 /////////==========================
 
 //////////////MAGS
@@ -414,6 +414,9 @@ Item "M1918 BAR" Level 2 Price 700
 /////////MISC
 /////////+++++++++++++++++
 
+Item "TrenchBayo" Level 1 Price 160
+Item "Arisaka Bayonet" Level 1 Price 120
+
 Item	"Case_Soft_Skin" Level 1 Price 200
 Item	"Case_Soft_Small" Level 1 Price 150
 Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
@@ -435,7 +438,54 @@ Item	"Food_m_pork" Level 1 Price 60
 Item	"Canteen_st1" Level 1 Price 30
 Item	"Canteen_st2" Level 2 Price 80
 
+Item "Dynamite Stick" Level 1 Price 20
+Item "Dynamite Stick 7" Level 2 Price 100
 
+Item "RPG-2 Grenade" Level 1 Price 170
+
+Item "rpg-2" Level 3 Price 600
+Item "rpg-2 Type 56" Level 3 Price 450
+
+Item "BigWoodBoxMosquefal" Level 2 Price 550
+
+Item "PackedBasicBeltBox" Level 1 Price 167
+Item "PackedHolsterBeltBox" Level 1 Price 334
+Item "PackedButtpackBox" Level 2 Price 167
+Item "PackedBigButtpackBox" Level 4 Price 417
+
+Item "Folded Razgr_smerch" Level 1 Price 100.0
+Item "Folded Ammo Belt" Level 1 Price 50
+Item "Folded Basic Belt" Level 1 Price 100
+Item "Folded Belt_02" Level 3 Price 120
+Item "Folded Belt_03" Level 2 Price 100
+Item "Folded Belt_04" Level 1 Price 5
+Item "Folded Ammo Cartouche6" Level 2 Price 50.0
+
+Item "Mauser Belt" Level 1 Price 300
+Item "APS Belt" Level 1 Price 150
+
+Item "Backpack" Level 3 Price 850.0
+Item "Backpack_tourist" Level 1 Price 780.0
+
+Item "Case_Hard_Medium" Level 2 Price 200
+Item "Case_Hard_Small" Level 1 Price 200
+Item "Case_Soft_Camo" Level 1 Price 300
+Item "Case_Soft_Fabric" Level 1 Price 350
+Item "Case_Soft_Skin" Level 1 Price 200
+Item "Case_Soft_Small" Level 1 Price 150
+
+Item "TouristBag" Level 1 Price 100
+Item "Box_Wood_Empty" Level 1 Price 20
+
+Item "Tactical Armor Vest M100" Level 1 Price 400
+
+Item "Helmet M1" Level 2 Price 150.0
+Item "Steel Helmet" Level 2 Price 100.0
+
+Item "Flask" Level 1 Price 70.0
+
+Item "Pen" Level 1 Price 2
+Item "Pencil" Level 1 Price 1
 
 /////////========
 /////////MAGS

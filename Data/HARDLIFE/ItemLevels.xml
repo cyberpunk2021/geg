@@ -274,8 +274,12 @@
   <item level="1">Cuchillo</item>
   <item level="1">Cuchillo de Combate</item>
   <item level="1">Cuchillo tactico</item>
-  <item level="7">Cuchillo Tora</item>
-  <item level="7">Daga</item>
+  <item level="1">Cuchillo Tora</item>
+  <item level="1">Daga</item>
+  <item level="1">NDK</item>
+  <item level="1">kabar</item>
+  <item level="1">smersh5</item>
+  <item level="1">sas_dagger</item>
   <item level="16">Coca paste</item>
   <item level="3">Shotgun M1014 JSCS (12ga)</item>
   <item level="3">Shotgun M1014 JSCS (12ga) folded</item>
@@ -286,10 +290,10 @@
   <item level="6">Tactical Armor Vest M500</item>
   <item level="3">Tactical Armor Vest M200</item>
   <item level="3">Titanium Helmet M100</item>
-  <item level="7">Titanium armor plate Lvl 4</item>
-  <item level="6">Titanium armor plate Lvl 3</item>
-  <item level="8">Ceramic armor plate Lvl 4</item>
-  <item level="7">Ceramic armor plate Lvl 3</item>
+  <item level="9">Titanium armor plate Lvl 4</item>
+  <item level="5">Titanium armor plate Lvl 3</item>
+  <item level="9">Ceramic armor plate Lvl 4</item>
+  <item level="5">Ceramic armor plate Lvl 3</item>
   <item level="3">VOG-25</item>
   <item level="4">VOG-25P</item>
   <item level="3">M407 Smoke</item>
@@ -815,7 +819,7 @@
   <item level="2">Tactical Armor Wildkat</item>
   <item level="4">Tactical Armor Vizov</item>
   <item level="10">Heavy Armor Bastion</item>
-  <item level="8">Heavy Armor Predator</item>
+  <item level="9">Heavy Armor Predator</item>
   <item level="7">Tactical Armor SWAT</item>
   <item level="3">Optical Sight PU</item>
   <item level="1">Pistol clip (Desert357)</item>
@@ -829,6 +833,7 @@
   <item level="1">kol</item>
   <item level="3">Wire</item>
   <item level="1">RadioBatt</item>
+  <item level="7">Notebook</item>
   <item level="1">Car_belt</item>
   <item level="8">RPO-A</item>
   <item level="8">RPO-A Grenade</item>
@@ -893,7 +898,7 @@
   <item level="1">Wine</item>
   <item level="2">Whisky</item>
   <item level="1">Map</item>
-  <item level="1">Tablets</item>
+  <item level="4">Tablets</item>
   <item level="1">Capsule</item>
   <item level="1">TouristBag</item>
   <item level="1">Gold_medallion</item>
@@ -984,7 +989,7 @@
   <item level="13">Night Sight L1A1 Schmidt und Bender+KN250 (AW)</item>
   <item level="5">Tactical Armor Vest M300</item>
   <item level="1">Tactical Armor Vest M100</item>
-  <item level="6">Kevlar Helmet</item>
+  <item level="10">Kevlar Helmet</item>
   <item level="2">Steel Helmet</item>
   <item level="3">Harris Bipod WR</item>
   <item level="1">Book_Bible</item>
@@ -1004,8 +1009,8 @@
   <item level="11">Rifle Elephant Gun Unique</item>
   <item level="11">Rifle Elephant Gun Unique Sawnoff</item>
   <item level="4">Ammo Box (700 nitro)</item>
-  <item level="4">Metal armor plate 1</item>
-  <item level="3">Metal armor plate 2</item>
+  <item level="2">Metal armor plate 1</item>
+  <item level="2">Metal armor plate 2</item>
   <item level="7">RPG-7 Grenade(gtb-7vs)</item>
   <item level="6">RPG-7 Grenade(ipg-60)</item>
   <item level="6">RPG-7 Grenade(ipg-82)</item>
@@ -4593,7 +4598,7 @@
   <item level="6">BigWoodBoxType56ii</item>
   <item level="5">BigWoodBoxGovCarbine</item>
   <item level="6">BigWoodBoxTacticalCarbine</item>
-  <item level="8">BigWoodBoxM964</item>
+  <item level="9">BigWoodBoxM964</item>
   <item level="9">BigWoodBoxAUGA1</item>
   <item level="9">BigWoodBoxAUGA2</item>
   <item level="8">BigWoodBoxVZ58</item>
@@ -4619,4 +4624,8 @@
   <item level="3">MON-50_remote</item>
   <item level="4">M-18 Claymore_contact</item>
   <item level="4">M-18 Claymore</item>
+  <item level="8">Small Assault Rifle M933 Grendel (6.5)</item>
+  <item level="9">Assault Rifle M4 Grendel (6.5)</item>
+  <item level="10">Assault Rifle LAC Grendel (6.5)</item>
+  <item level="11">Assault Rifle Grendel MWS (6.5)</item>
 </root>

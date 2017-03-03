@@ -34553,8 +34553,8 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
-StdPlug			"Shotgun clip (SPAS-15/8)"
-ACTOR			"Items\spas15fix.act"
+StdPlug			"Shotgun clip (SPAS-15Tan/8)"
+ACTOR			"Items\spas15tanstockedbk.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -34628,9 +34628,9 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
-StdPlug			"Shotgun clip (SPAS-15/8)"
+StdPlug			"Shotgun clip (SPAS-15Tan/8)"
 StdPlug			"fn_faldark_butt"
-ACTOR			"Items\spas15fixfolding.act"
+ACTOR			"Items\spas15tanfoldbk.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -34667,9 +34667,9 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
-StdPlug			"Shotgun clip (SPAS-15/8)"
+StdPlug			"Shotgun clip (SPAS-15Tan/8)"
 StdPlug			"fn_faldark_butt_folded"
-ACTOR			"Items\spas15fixfolding.act"
+ACTOR			"Items\spas15tanfoldbk.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -34786,7 +34786,7 @@ ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
 StdPlug			"Shotgun clip (SPAS-15/8)"
 StdPlug			"spas15_stock"
-ACTOR			"Items\spas15fixfoldingfull.act"
+ACTOR			"Items\spas15tanbk.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -34825,7 +34825,7 @@ ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
 StdPlug			"Shotgun clip (SPAS-15/8)"
 StdPlug			"spas15_stock_folded"
-ACTOR			"Items\spas15fixfoldingfull.act"
+ACTOR			"Items\spas15tanbk.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -34862,7 +34862,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
-StdPlug			"Shotgun clip (SPAS-15Tan/8)"
+StdPlug			"Shotgun clip (SPAS-15/8)"
 StdPlug			"spas15_stock"
 ACTOR			"Items\spas15tan.act"
 IMAGE			"2x5.e5b"
@@ -34901,7 +34901,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SPAS15"
-StdPlug			"Shotgun clip (SPAS-15Tan/8)"
+StdPlug			"Shotgun clip (SPAS-15/8)"
 StdPlug			"spas15_stock_folded"
 ACTOR			"Items\spas15tan.act"
 IMAGE			"2x4.e5b"
@@ -58898,7 +58898,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	158
+EffectiveRange	157
 RangeCurvature	2
 Balance			0.58
 ClipInSound		"Weapon\ClipIn\clip_in.wav"

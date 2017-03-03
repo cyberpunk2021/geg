@@ -7591,14 +7591,14 @@ WEIGHT			250
 Addon			"Craner_butt3"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\t91stock.act"
+ACTOR			"Items\t65bkcarstock.act"
 IMAGE			"None"
 WEIGHT			250
 //------------------------------------------------------
 Addon			"Craner_butt3_folded"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\t91stockfolded.act"
+ACTOR			"Items\t65bkcarstockfolded.act"
 IMAGE			"None"
 WEIGHT			250
 //------------------------------------------------------
