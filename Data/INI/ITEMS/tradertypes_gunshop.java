@@ -987,7 +987,7 @@ Item "Pistol Taurus PT 59 Rail (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail W (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail B (.380)" Level 1 Price 650
 
-Item "Pistol Beretta M9A1 (9mm)" Level 1 Price 990
+Item "Pistol Beretta M9A1 (9mm)" Level 3 Price 990
 Item "Pistol NP-56 (.45 ACP)" Level 1 Price 560
 Item "Pistol NP-26 (9mm)" Level 1 Price 540
 

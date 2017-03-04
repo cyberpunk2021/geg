@@ -373,7 +373,7 @@ Item	"Assault Rifle Groza-2 (9x39mm)" Level 7 Price 	2400
 Item	"Assault Rifle Groza-3 (9x39mm)" Level 7 Price 	2400
 Item	"Rifle ammo clip (Groza/20)" Level 2 Price 		10.0
 
-Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 	1400.0
+Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 	900.0
 
 Item	"Assault Rifle SR3 (9x39mm)" Level 3 Price 		1700.0
 
@@ -457,9 +457,9 @@ Item "Cuchillo tactico" Level 1 Price 55.0
 Item "NDK" Level 1 Price 200.0
 Item "smersh5" Level 1 Price 170.0
 
-Item "rpg-2" Level 3 Price 600
+Item "rpg-2" Level 2 Price 600
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
-Item "rpg-2 Type 56" Level 3 Price 450
+Item "rpg-2 Type 56" Level 1 Price 450
 Item "Launcher RPG-7" Level 6 Price 950
 
 Item "Rockect Launcher RPG-18 'Muha'" Level 4 Price 500

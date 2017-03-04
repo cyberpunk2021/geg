@@ -35,7 +35,7 @@ Item "Sniper rifle clip (WZ35/4)" Level 2 Price 40
 
 Item	"SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price                  40.0
 Item	"SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price                  60.0
-Item	"SMG ammo drum (Thompson/50)" Level 1 Price 			30.0
+Item	"SMG ammo drum (Thompson/50)" Level 1 Price 			100.0
 Item	"Double smg ammo clip (Thompson/40)" Level 1 Price                  80.0 
 Item	"Double smg ammo clip (Thompson/60)" Level 1 Price                  120.0 
 
@@ -443,8 +443,8 @@ Item "Dynamite Stick 7" Level 2 Price 100
 
 Item "RPG-2 Grenade" Level 1 Price 170
 
-Item "rpg-2" Level 3 Price 600
-Item "rpg-2 Type 56" Level 3 Price 450
+Item "rpg-2" Level 2 Price 600
+Item "rpg-2 Type 56" Level 1 Price 450
 
 Item "BigWoodBoxMosquefal" Level 2 Price 550
 

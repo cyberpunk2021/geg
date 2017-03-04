@@ -942,7 +942,7 @@ Item "Ammo box (DM11)" Level 6 Price 0.001
 //RPG-2
 /////////
 
-Item "RPG-2 Grenade" Level 3 Price 170
+Item "RPG-2 Grenade" Level 1 Price 170
 
 /////////
 //RPG-7

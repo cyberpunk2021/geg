@@ -87,9 +87,9 @@ Item "Pallad 40x47" Level 4 Price 85
 /////////RPG AMMO
 /////////+++++++++++++++++
 
-Item "rpg-2" Level 3 Price 600
+Item "rpg-2" Level 2 Price 600
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
-Item "rpg-2 Type 56" Level 3 Price 450
+Item "rpg-2 Type 56" Level 1 Price 450
 Item "Launcher RPG-7" Level 6 Price 950
 
 Item "Rockect Launcher RPG-18 'Muha'" Level 4 Price 500
@@ -114,7 +114,7 @@ Item "RPG-7 Grenade(type69-3)" Level 3 Price 300
 
 /////NATO
 
-Item "BigWoodBoxGalil" Level 7 Price 3750
+Item "BigWoodBoxGalil556" Level 7 Price 3750
 Item "BigWoodBoxM4A1" Level 7 Price 6500
 Item "BigWoodBoxM16A2" Level 8 Price 6500
 Item "BigWoodBoxG3" Level 7 Price 7125
@@ -132,7 +132,7 @@ Item "BigWoodBoxSPAS15" Level 3 Price 4750
 Item "BigWoodBoxSAFIRT14Classic" Level 3 Price 5250
 Item "BigWoodBoxMosquefal" Level 2 Price 550
 Item "BigWoodBoxAUGPARA" Level 5 Price 5250
-Item "BigWoodBoxGalil556" Level 8 Price 6750
+Item "BigWoodBoxGalil" Level 8 Price 6750
 Item "BigWoodBoxGalilACE556" Level 11 Price 7750
 Item "BigWoodBoxMD97" Level 6 Price 5250
 Item "BigWoodBoxIA2Cciv" Level 6 Price 6750
@@ -199,12 +199,34 @@ Item "PackedCleaningKitBox" Level 1 Price 1667
 Item "PackedContactFuzeBox" Level 1 Price 1000
 Item "PackedRadioFuzeBox" Level 3 Price 2000
 Item "PackedRationBox" Level 1 Price 1120
+
+Item "PackedMREBox" Level 1 Price 560
+Item "PackedMREHUGEBox" Level 1 Price 1120
+
 Item "PackedTacVestBox" Level 3 Price 667
 Item "PackedSmershBox" Level 1 Price 334
 
+Item "PackedVyzovBox" Level 4 Price 3667
 Item "PackedYellowTacVestBox" Level 5 Price 834
 Item "PackedMolleVestBox" Level 7 Price 1167
-Item "PackedVyzovBox" Level 4 Price 3667
+Item "PackedWildcatVestBox" Level 2 Price 3334
+Item "PackedKevlarVestBox" Level 5 Price 2000
+Item "PackedMetalPlateBox" Level 6 Price 834
+Item "PackedMetalPlateStrongBox" Level 7 Price 1000
+Item "PackedCeramicPlateBox" Level 7 Price 667
+Item "PackedCeramicPlateStrongBox" Level 8 Price 1167
+Item "PackedSteelHelmetBox" Level 2 Price 334
+Item "PackedPASGTBox" Level 4 Price 1500
+Item "PackedACHBox" Level 6 Price 1500
+Item "PackedMICHBox" Level 8 Price 2000
+Item "PackedBasicBeltBox" Level 1 Price 167
+Item "PackedHolsterBeltBox" Level 1 Price 334
+Item "PackedTacticalBeltBox" Level 7 Price 800
+Item "PackedButtpackBox" Level 2 Price 167
+Item "PackedBigButtpackBox" Level 4 Price 417
+Item "PackedVeryBigButtpackBox" Level 6 Price 667
+Item "Packed60MortarBox" Level 4 Price 1167
+Item "Packed82MortarBox" Level 8 Price 2000
 
 Item "PackedMetalPlateBox" Level 6 Price 834
 Item "PackedMetalPlateStrongBox" Level 7 Price 1000
@@ -352,8 +374,6 @@ Item "Scar Kits" Level 11 Price 2500.0
 // Food
 Item "Food_bag" Level 3 Price 800
 Item "PackedTushBox" Level 1 Price 1120
-Item "BottleOfWater" Level 1 Price 20
-Item "BottleOfWaterMini" Level 1 Price 10
 Item "Food_coconut" Level 1 Price 5
 Item "Food_apple_c" Level 1 Price 5
 Item "Food_apple_w" Level 1 Price 5
@@ -390,6 +410,8 @@ Item "Drink_rum_sol" Level 3 Price 35
 Item "Drink_tequila_big" Level 1 Price 25
 
 Item "Flask" Level 1 Price 70.0
+Item "BottleOfWater" Level 1 Price 20
+Item "BottleOfWaterMini" Level 1 Price 10
 
 /////////+++++++++
 /////////MISC
@@ -457,13 +479,10 @@ Item "Smoke_cigar_box" Level 1 Price 50
 Item "Smoke_serpent" Level 1 Price 5
 
 //SPARE PARTS
-Item	"Metal armor plate 1"				Level 1		Price 50
-Item	"Metal armor plate 2"				Level 1		Price 10
 Item	"Wood_plate"					Level 1		Price 30
 Item	"Tape"						Level 1		Price 5
 Item	"Wire"						Level 1		Price 40
 Item	"Car_belt"					Level 1		Price 500
-Item	"Flask"						Level 1		Price 50
 Item	"Car_can5_empty"				Level 1		Price 30
 Item	"Car_can5"					Level 1		Price 250
 Item	"Car_can20_empty" 				Level 1		Price 50
@@ -478,9 +497,9 @@ Item	"Car_wheel_hummer"				Level 6		Price 1500
 Item	"Car_wheel_yamamoto"				Level 3		Price 200
 Item	"Car_wheel_btr"					Level 9		Price 1500
 Item	"Car_wheel_btr40"				Level 9		Price 1500
-Item	"tool1"						Level 3		Price 100
-Item	"tool2"						Level 3		Price 1000
-Item	"tool3"						Level 5		Price 1000
+Item	"tool1"						Level 1		Price 100
+Item	"tool2"						Level 1		Price 1000
+Item	"tool3"						Level 1		Price 1000
 Item	"Car_rubber_patch"				Level 1		Price 3.0
 
 /////////+++++++++

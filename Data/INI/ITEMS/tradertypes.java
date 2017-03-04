@@ -7,7 +7,7 @@ Item	"SMG ammo clip (AEK919K/30)" Level 1 Price 30.0
 Item	"SMG ammo clip (VZ82/10)" Level 1 Price 20.0
 Item	"SMG ammo clip (VZ82/20)" Level 1 Price 40.0
 
-Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 1400.0
+Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 900.0
 
 Item "Submachine-gun Kiparis (9mm)" Level 3 Price 1200
 Item "SMG ammo clip (Kiparis/30)" Level 1 Price 40
@@ -68,7 +68,7 @@ Item "Pistol Taurus PT 59 Rail (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail W (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail B (.380)" Level 1 Price 650
 
-Item "Pistol Beretta M9A1 (9mm)" Level 1 Price 990
+Item "Pistol Beretta M9A1 (9mm)" Level 3 Price 990
 Item "Pistol NP-56 (.45 ACP)" Level 1 Price 560
 Item "Pistol NP-29 (9mm)" Level 1 Price 380
 Item "Pistol NP-28 (9mm)" Level 1 Price 500
@@ -573,9 +573,9 @@ Item "RPG-2 Grenade" Level 1 Price 170
 Item "RPG-7 Grenade" Level 3 Price 300.0
 Item "RPG-7 Grenade 2" Level 3 Price 300.0
 
-Item "rpg-2" Level 3 Price 600
+Item "rpg-2" Level 2 Price 600
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
-Item "rpg-2 Type 56" Level 3 Price 450
+Item "rpg-2 Type 56" Level 1 Price 450
 
 Item	"Case_Soft_Skin" Level 1 Price 200
 Item	"Case_Soft_Small" Level 1 Price 150

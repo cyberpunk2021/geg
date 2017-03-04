@@ -529,9 +529,9 @@ Item	"Car_can20_empty" 				Level 1		Price 50
 Item	"Car_can20"					Level 2		Price 220
 Item	"Car_wheel_willys"				Level 1		Price 700
 Item	"Car_wheel_hummer"				Level 6		Price 1500
-Item	"tool1"						Level 3		Price 100
-Item	"tool2"						Level 3		Price 1000
-Item	"tool3"						Level 5		Price 1000
+Item	"tool1"						Level 1		Price 100
+Item	"tool2"						Level 1		Price 600
+Item	"tool3"						Level 1		Price 250
 Item	"Car_rubber_patch"				Level 1		Price 3.0
 
 Item "BigWoodBoxVektorZ88" Level 2 Price 1825
@@ -544,7 +544,7 @@ Item "BigWoodBoxMosquefal" Level 2 Price 550
 Item "BigWoodBoxAUGPARA" Level 5 Price 5250
 Item "BigWoodBoxSIG540" Level 6 Price 5000
 Item "BigWoodBoxSIG542" Level 7 Price 6625
-Item "BigWoodBoxGalil556" Level 8 Price 6750
+Item "BigWoodBoxGalil" Level 8 Price 6750
 Item "BigWoodBoxMD97" Level 6 Price 5250
 Item "BigWoodBoxTacticalCarbine" Level 6 Price 4250
 
@@ -556,7 +556,7 @@ Item "BigWoodBoxAUGA1" Level 9 Price 6750
 Item "BigWoodBoxAUGA2" Level 9 Price 6250
 Item "BigWoodBoxHK33" Level 8 Price 5625
 
-Item	"BigWoodBoxGalil"	Level 7 Price				3750
+Item	"BigWoodBoxGalil556"	Level 7 Price				3750
 Item	"BigWoodBoxM4A1"	Level 	7 Price			6500
 Item	"BigWoodBoxM16A2"	Level 8 Price				6500
 Item	"BigWoodBoxG3"		Level 7 Price				7125
@@ -902,7 +902,7 @@ Item "Pistol Taurus PT 59 Rail (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail W (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail B (.380)" Level 1 Price 650
 
-Item "Pistol Beretta M9A1 (9mm)" Level 1 Price 990
+Item "Pistol Beretta M9A1 (9mm)" Level 3 Price 990
 Item "Pistol NP-56 (.45 ACP)" Level 1 Price 560
 Item "Pistol NP-26 (9mm)" Level 1 Price 540
 

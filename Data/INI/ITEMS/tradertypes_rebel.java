@@ -39,6 +39,14 @@ Item "Ozm4_contact" Level 2 Price 320
 
 ////////////REBEL GUNS
 
+Item	"SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price                  40.0
+Item	"SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price                  60.0
+Item	"SMG ammo drum (Thompson/50)" Level 1 Price 			100.0
+Item	"Double smg ammo clip (Thompson/40)" Level 1 Price                  80.0 
+Item	"Double smg ammo clip (Thompson/60)" Level 1 Price                  120.0 
+
+Item "Pistol clip (Cougar45/8)" Level 1 Price 60
+
 Item	"Rifle ammo clip (Norinco/10)" Level 3 Price 20
 Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
 
@@ -85,6 +93,9 @@ Item "QLG91B (35mm)" Level 5 Price 1000
 Item "QLG10A (35mm)" Level 5 Price 1300
 Item "QLG10 (35mm)" Level 5 Price 1200
 
+Item "M406 HE" Level 3 Price 100.0
+Item "M407 Smoke" Level 3 Price 50.0
+
 Item "35mm Smoke" Level 3 Price 30
 Item "35mm AB" Level 4 Price 90
 Item "35mm HE" Level 3 Price 80
@@ -114,7 +125,6 @@ Item "Rifle ammo clip (QBU 88\10)" Level 4 Price 20
 Item "Rifle ammo clip (QBZ/30)" Level 3 Price 30
 Item "Rifle ammo drum (QBZ/80)" Level 5 Price 75
 Item "Ammo box mag (Type 88/200)" Level 6 Price 180
-Item "Bayonet (QBZ)" Level 1 Price 50
 Item "SMG ammo clip (QCQ-05/50)" Level 2 Price 60
 Item "Assault Rifle QCQ05 (5.8)" Level 5 Price 2000
 
@@ -942,7 +952,6 @@ Item "Pistol clip (OTs-33/18)" Level 1 Price 42
 Item "Pistol clip (OTs-33/27)" Level 1 Price 70
 
 Item "Pistol OTs-33 Pernach (9x18mm)" Level 3 Price 900
-Item	"APS Belt"	Level 1 Price		150
 Item	"Pistol clip (APS/20)"   Level 1 Price      50.0
 
 Item	"Pistol APB (9x18mm)"	Level 2 Price			1050
@@ -1134,7 +1143,7 @@ Item	"Assault Rifle Groza-2 (9x39mm)" Level 7 Price 	2400
 Item	"Assault Rifle Groza-3 (9x39mm)" Level 7 Price 	2400
 Item	"Rifle ammo clip (Groza/20)" Level 2 Price 		10.0
 
-Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 	1400.0
+Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 	900.0
 
 
 Item	"AEK919K_silencer" Level 3 Price 			330.0 
@@ -1235,7 +1244,7 @@ Item "Pistol Taurus PT 59 Rail (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail W (.380)" Level 1 Price 650
 Item "Pistol Taurus PT 59 Rail B (.380)" Level 1 Price 650
 
-Item "Pistol Beretta M9A1 (9mm)" Level 1 Price 990
+Item "Pistol Beretta M9A1 (9mm)" Level 3 Price 990
 Item "Pistol NP-56 (.45 ACP)" Level 1 Price 560
 Item "Pistol NP-29 (9mm)" Level 1 Price 380
 Item "Pistol NP-28 (9mm)" Level 1 Price 500
@@ -1297,7 +1306,6 @@ Item "Pistol Glock 26 (9mm)" Level 2 Price 530
 
 Item "Pistol Beretta T75 (9mm)" Level 2 Price 620
 
-Item "Pistol Beretta M8000 Cougar (9mm)" Level 2 Price 510
 
 Item "Steyr TMP (9x19)" Level 2 Price 1300
 Item "Steyr TMP AUTO (9x19)" Level 3 Price 1900
@@ -1641,20 +1649,36 @@ Item "Launcher M79" Level 3 Price 900
 /////////MISC
 /////////+++++++++++++++++
 
+/////////////GRENADE BOX
+
+Item "Box_grenade_f-1" Level 8 Price 20
+Item "Box_grenade_m61" Level 6 Price 20
+Item "Box_grenade_m67" Level 4 Price 20
+Item "Box_grenade_rgd-5" Level 4 Price 20
+Item "Box_grenade_rgn" Level 6 Price 20
+Item "Box_grenade_rgo" Level 6 Price 20
+
+//////////////MISC BOX
+
 Item "PackedCamoBox" Level 3 Price 3000
 Item "PackedCleaningKitBox" Level 1 Price 1667
 Item "PackedContactFuzeBox" Level 1 Price 1000
 Item "PackedRadioFuzeBox" Level 3 Price 2000
 Item "PackedRationBox" Level 1 Price 1120
+Item "PackedMREBox" Level 1 Price 560
+Item "PackedMREHUGEBox" Level 1 Price 1120
+Item "PackedTacVestBox" Level 3 Price 667
+Item "PackedSmershBox" Level 1 Price 334
+Item "Food_irpb" Level 1 Price 80
 
 Item "PackedYellowTacVestBox" Level 5 Price 834
+Item "PackedWildcatVestBox" Level 2 Price 3334
 Item "PackedMolleVestBox" Level 7 Price 1167
 Item "PackedVyzovBox" Level 4 Price 3667
+Item "PackedSteelHelmetBox" Level 2 Price 334
 
 Item "PackedMetalPlateBox" Level 6 Price 834
-Item "PackedMetalPlateStrongBox" Level 7 Price 1000
 Item "PackedCeramicPlateBox" Level 7 Price 667
-Item "PackedCeramicPlateStrongBox" Level 8 Price 1167
 Item "PackedBasicBeltBox" Level 1 Price 167
 Item "PackedHolsterBeltBox" Level 1 Price 334
 Item "PackedTacticalBeltBox" Level 7 Price 800
@@ -1664,30 +1688,28 @@ Item "PackedVeryBigButtpackBox" Level 6 Price 667
 Item "Packed60MortarBox" Level 4 Price 1167
 Item "Packed82MortarBox" Level 8 Price 2000
 
-Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
-Item	"Folded Ammo Belt" Level 1 Price 50
-Item	"Folded Basic Belt" Level 1 Price 100
-Item	"Folded Razgr_smerch" Level 1 Price 100.0
-Item	"Folded Belt_04" Level 1 Price 20
+Item "Folded Tactical Vest" Level 5 Price 250.0
+Item "Folded VestNew" Level 3 Price 200.0
+Item "Folded Razgr_smerch" Level 1 Price 100.0
+Item "Folded Razgr_molle" Level 7 Price 350.0
+Item "Folded Ammo Belt" Level 1 Price 50
+Item "Folded Basic Belt" Level 1 Price 100
+Item "Folded Belt_01" Level 7 Price 240
+Item "Folded Belt_02" Level 3 Price 120
+Item "Folded Belt_03" Level 2 Price 100
+Item "Folded Belt_04" Level 1 Price 5
+Item "Folded Tactical Belt" Level 5 Price 160
+Item "Folded Ammo Cartouche6" Level 2 Price 50.0
+Item "Folded Ammo Cartouche" Level 6 Price 200.0
+Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
 
+Item "Mauser Belt" Level 1 Price 300
+Item "APS Belt" Level 1 Price 150
 
+Item "Backpack" Level 3 Price 850.0
+Item "Backpack_reid" Level 4 Price 900.0
+Item "Backpack_tourist" Level 1 Price 780.0
 
-Item	"Field Paramedic Kit" Level 1 Price 30.0
-Item	"Field Paramedic Kit1" Level 1 Price 50
-
-Item	"Field Paramedic Kit2"	Level 2 Price			340.0
-Item	"Field Paramedic Kit3"	Level 3 Price			520.0
-Item	"Field Paramedic Kit4"	Level 4 Price			940.0
-Item	"Field Paramedic Kit5"	Level 4 Price			750
-
-Item	"morphine"    Level 3 Price           110.0
-Item	"amphetamine"              Level 4 Price   150.0
-
-Item	"Food_ration"	Level 1 Price				80
-Item	"Box_grenade_f-1" Level 8 Price				20
-Item	"Box_grenade_rgd-5"	 Level 4 Price			20
-Item	"Box_grenade_rgn"	Level 6 Price			20
-Item	"Box_grenade_rgo"	Level 6 Price			20
 
 Item	"Flask"  Level 1 Price   70.0
 
@@ -1709,14 +1731,12 @@ Item "Offensive Hand Grenade M68" Level 6 Price 300
 Item "Defensive Hand Grenade M57" Level 7 Price 450
 Item "Offensive Hand Grenade V40" Level 2 Price 70
 
-Item	"Box_grenade_m61" Level 6 Price				20
-Item	"Box_grenade_m67" Level 4 Price				20
 
 
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
-Item "rpg-2 Type 56" Level 3 Price 450
-Item "RPG-2 Grenade" Level 3 Price 200
-Item "rpg-2" Level 3 Price 600
+Item "rpg-2 Type 56" Level 1 Price 450
+Item "RPG-2 Grenade" Level 1 Price 200
+Item "rpg-2" Level 2 Price 600
 
 Item	"Launcher RG-6"	Level 8 Price					1700
 Item	"Launcher RPG-7"	Level 6 Price				950
@@ -1747,13 +1767,192 @@ Item	"Tactical Armor Vizov"		Level 4 Price		1100.0
 Item	"VOG-25"	Level 3 Price 75.0
 Item	"VOG-25P"	Level 4 Price 75.0
 
+/////////+++++++++
+/////////ARMOR AND HELMET
+/////////+++++++++
 
+// Armor
+Item "Heavy Assault Armor Vest M1000" Level 9 Price 3500.0
+Item "Tactical Armor Vest M500" Level 6 Price 2500.0
+Item "Tactical Armor Vest M200" Level 3 Price 600.0
+Item "Tactical Armor Vest M100" Level 1 Price 400
+Item "Tactical Armor Vest M300" Level 5 Price 800
+Item "Heavy Armor Bastion" Level 10 Price 3500.0
+Item "Heavy Armor Predator" Level 9 Price 3300.0
+Item "Tactical Armor SWAT" Level 7 Price 1900.0
+Item "Tactical Armor Vizov" Level 4 Price 1100.0
+Item "Tactical Armor Wildkat" Level 2 Price 1000.0
+
+Item "Helmet M1" Level 2 Price 150.0
+Item "Steel Helmet" Level 2 Price 100.0
+Item "Helmet PASGT" Level 4 Price 450.0
+Item "Titanium Helmet M100" Level 3 Price 450.0
+Item "MICH Helmet" Level 8 Price 600.0
+Item "Helmet Sfera-S" Level 9 Price 850.0
+Item "Helmet Vitiaz" Level 7 Price 750.0
+
+Item "Titanium armor plate Lvl 3" Level 5 Price 250.0
+Item "Ceramic armor plate Lvl 3" Level 5 Price 200.0
+Item "Metal armor plate 1" Level 2 Price 100
+Item "Metal armor plate 2" Level 2 Price 100
+
+/////////+++++++++
+/////////MEDIC
+/////////+++++++++
+
+// Medic
+Item "Field Paramedic Kit" Level 1 Price 30.0
+Item "Field Paramedic Kit1" Level 1 Price 50
+
+Item "Field Paramedic Kit2"	Level 2 Price 340.0
+Item "Field Paramedic Kit3"	Level 3 Price 520.0
+Item "Field Paramedic Kit4"	Level 4 Price 940.0
+Item "Field Paramedic Kit5"	Level 4 Price 750
+
+Item "morphine" Level 3 Price 110.0
+Item "amphetamine" Level 4 Price 150.0
+Item "Tablets" Level 4 Price 220
+
+/////////+++++++++
+/////////KITS
+/////////+++++++++
+
+// Kits
+Item "Groza Kits" Level 8 Price 3000.0
+
+
+/////////+++++++++
+/////////KITS
+/////////+++++++++
+
+// Kits
+Item "Steyr AUG A1 Kits" Level 10 Price 3000.0
+Item "Steyr AUG A2 Kits" Level 10 Price 3000.0
+Item "Groza Kits" Level 8 Price 3000.0
+Item "Scar Kits" Level 11 Price 2500.0
+
+/////////+++++++++
+/////////FOOD
+/////////+++++++++
+
+// Food
+Item "PackedTushBox" Level 1 Price 1120
+Item "Food_apple_c" Level 1 Price 5
+Item "Food_apple_w" Level 1 Price 5
+Item "Food_banan" Level 1 Price 5
+Item "Food_irpb" Level 1 Price 80
+Item "Food_pear_c" Level 1 Price 5
+Item "Food_pear_w" Level 1 Price 5
+Item "Food_orange" Level 1 Price 5
+Item "Food_beans" Level 1 Price 20
+Item "Food_bread" Level 1 Price 10
+Item "Food_fish_c" Level 1 Price 30
+Item "Food_fish_f" Level 1 Price 40
+Item "Food_m_beef" Level 1 Price 60
+Item "Food_m_mutton" Level 1 Price 60
+Item "Food_m_pork" Level 1 Price 60
+Item "Food_meat_f" Level 1 Price 90
+Item "Food_meat_c" Level 1 Price 30
+Item "Food_ration" Level 2 Price 80
+Item "Food_sardinas" Level 1 Price 55
+Item "Food_tush_gov" Level 1 Price 70
+
+// Drinks
+
+Item "BottleOfWater" Level 1 Price 20
+Item "BottleOfWaterMini" Level 1 Price 10
+Item "Flask" Level 1 Price 70.0
+
+/////////+++++++++
+/////////MISC
+/////////+++++++++
+
+// KNIFES
+
+Item "Machete" Level 1 Price 50
+Item "Cuchillo" Level 1 Price 30.0
+Item "Cuchillo de Combate" Level 1 Price 75.0
+Item "Cuchillo tactico" Level 1 Price 55.0
+Item "Cuchillo Tora" Level 1 Price 90.0
+Item "Daga" Level 1 Price 120.0
+Item "kabar" Level 1 Price 100.0
+Item "sas_dagger" Level 1 Price 150.0
+Item "smersh5" Level 1 Price 170.0
+
+// BAYONETS
+
+Item "Bayonet (East)" Level 1 Price 50.0
+Item "Bayonet M9 (West)" Level 1 Price 70.0
+Item "Bayonet_fal" Level 1 Price 50.0
+Item "Bayonet_HK" Level 1 Price 70.0
+
+Item "M96 Bayonet" Level 1 Price 60
+
+
+Item "Bayonet (QBZ)" Level 1 Price 50
+
+Item "SA Vz.58 Bayonet" Level 3 Price 70
+
+// Items miscellaneous
+
+Item "Shovel" Level 1 Price 110
+
+Item "RadioBatt" Level 2 Price 150
+Item "RadioBatt_uc" Level 2 Price 100
+Item "Wire" Level 3 Price 25
+Item "Mine_detector" Level 6 Price 5000
+Item "Pen" Level 1 Price 2
+Item "Pencil" Level 1 Price 1
+Item "Fishing tackle" Level 1 Price 10
+Item "Lighter_matches" Level 1 Price 1
+Item "Lighter_piezo_g" Level 1 Price 5
+
+Item "Glue" Level 1 Price 3
+Item "Nails_box" Level 1 Price 5
+
+//SPARE PARTS
+Item	"Wood_plate"					Level 1		Price 30
+Item	"Tape"						Level 1		Price 5
+Item	"Wire"						Level 1		Price 40
+Item	"Car_belt"					Level 1		Price 500
+Item	"Car_can5_empty"				Level 3		Price 30
+Item	"Car_can5"					Level 3		Price 250
+Item	"Car_can20_empty" 				Level 3		Price 50
+Item	"Car_can20"					Level 3		Price 220
+Item	"Car_wheel_pascar"				Level 3		Price 200
+Item	"Car_wheel_pickup"				Level 3		Price 350
+Item	"Car_wheel_willys"				Level 3		Price 700
+Item	"Car_wheel_gaz69"				Level 3		Price 200
+Item	"Car_wheel_lrover"				Level 3		Price 700
+Item	"Car_wheel_ural"				Level 4	 	Price 1000
+Item	"Car_wheel_hummer"				Level 6		Price 1500
+Item	"Car_wheel_yamamoto"				Level 3		Price 200
+Item	"tool1"						Level 1		Price 100
+Item	"tool2"						Level 1		Price 600
+Item	"Car_rubber_patch"				Level 1		Price 3.0
 
 /////////+++++++++
 /////////PACKEDBOX
 /////////+++++++++
 
+/////NATO
 
+Item "BigWoodBoxGalil" Level 8 Price 6750
+Item "BigWoodBoxGalil556" Level 7 Price 3750
+Item "BigWoodBoxM4A1" Level 7 Price 6500
+Item "BigWoodBoxM16A2" Level 8 Price 6500
+Item "BigWoodBoxG3" Level 7 Price 7125
+Item "BigWoodBoxM964Civ" Level 7 Price 5000
+Item "BigWoodBoxSAF9" Level 4 Price 4250
+Item "BigWoodBoxMT40" Level 4 Price 4500
+Item "BigWoodBoxMosquefal" Level 2 Price 550
+Item "BigWoodBoxMD97" Level 6 Price 5250
+Item "BigWoodBoxTacticalCarbine" Level 6 Price 4250
+Item "BigWoodBoxM964" Level 9 Price 7000
+Item "BigWoodBoxHK33" Level 8 Price 5625
+Item "BigWoodBoxGovCarbine" Level 5 Price 4000
+Item "BigWoodBoxSIG540" Level 6 Price 5000
+Item "BigWoodBoxSIG542" Level 7 Price 6625
 
 Item "BigWoodBoxBizon" Level 3 Price 5500
 Item "BigWoodBoxVityaz" Level 4 Price 6500
@@ -1769,6 +1968,18 @@ Item "BigWoodBoxAK103"	Level 9 Price 6500
 Item "BigWoodBoxType56" Level 5 Price 1500
 Item "BigWoodBoxType56i" Level 5 Price 1500
 Item "BigWoodBoxType56ii" Level 6 Price 2500
+
+Item "BigWoodBoxQBZ95" Level 8 Price 5750
+Item "BigWoodBoxQBZ97" Level 8 Price 6250
+Item "BigWoodBoxQBZ951" Level 10 Price 6750
+Item "BigWoodBoxQBZ971" Level 10 Price 7000
+
+Item "BigWoodBoxType56" Level 5 Price 1500
+Item "BigWoodBoxType56i" Level 5 Price 1500
+Item "BigWoodBoxType56ii" Level 6 Price 2500
+
+Item "BigWoodBoxNorincoCQ" Level 7 Price 4250
+Item "BigWoodBoxNorincoCQCIV" Level 5 Price 3500
 
 
 /////////========
@@ -1897,43 +2108,6 @@ Item "Ammo box 40 (23v)" Level 5 Price 100
 
 
 
-/////////+++++++++++++++++
-/////////MISC
-/////////+++++++++++++++++
-
-Item	"Case_Soft_Skin" Level 1 Price 200
-Item	"Case_Soft_Small" Level 1 Price 150
-Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
-Item	"Folded Ammo Belt" Level 1 Price 50
-Item	"Folded Basic Belt" Level 1 Price 100
-Item	"Folded Razgr_smerch" Level 1 Price 100.0
-Item	"Folded Belt_04" Level 1 Price 20
-
-Item	"Tactical Armor Vest M200" Level 3 Price 600.0
-Item	"Tactical Armor Vest M100" Level 1 Price 400
-Item	"Tactical Armor Vest M300" Level 5 Price 800
-
-Item	"Helmet M1" Level 2 Price 150.0
-Item	"Steel Helmet" Level 2 Price 100.0
-
-Item	"Field Paramedic Kit" Level 1 Price 30.0
-Item	"Field Paramedic Kit1" Level 1 Price 50
-
-Item	"Flask" Level 1 Price 70.0
-
-Item	"Food_m_beef" Level 1 Price 60
-Item	"Food_m_mutton" Level 1 Price 60
-Item	"Food_m_pork" Level 1 Price 60
-
-Item	"Canteen_st1" Level 1 Price 30
-Item	"Canteen_st2" Level 2 Price 80
-Item	"M406 HE" Level 3 Price 100.0
-Item	"VOG-25"	Level 3 Price 75.0
-Item	"M407 Smoke" Level 3 Price 50.0
-Item "Dynamite Stick" Level 1 Price 20
-Item	"Offensive Hand Grenade Type82-2" Level 2 Price 80.0
-Item "Offensive Hand Grenade Type 97" Level 2 Price 40
-Item "Hand Grenade M24" Level 1 Price 50
 
 
 /////////+++++++++
@@ -1956,22 +2130,7 @@ Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
 Item "PackedAmmoBox Algeira (7.62x51/500)" Level 4 Price 624
 Item "PackedAmmoBox Algeira (30-06/500)" Level 1 Price 840
 
-Item "BigWoodBoxType56" Level 5 Price 1500
-Item "BigWoodBoxType56i" Level 5 Price 1500
-Item "BigWoodBoxType56ii" Level 6 Price 2500
-Item "BigWoodBoxGovCarbine" Level 5 Price 4000
-Item "BigWoodBoxNorincoCQ" Level 7 Price 4250
-Item "BigWoodBoxNorincoCQCIV" Level 5 Price 3500
-Item "BigWoodBoxSIG540" Level 6 Price 5000
-Item "BigWoodBoxSIG542" Level 7 Price 6625
 
-Item "BigWoodBoxBizon" Level 3 Price 5500
-Item	"BigWoodBoxAKM"	Level 5 Price 2000
-Item	"BigWoodBoxAKMN" Level 6 Price			2500
-Item	"BigWoodBoxAK103"	Level 9 Price		6500
-Item "BigWoodBoxType56" Level 5 Price 1500
-Item "BigWoodBoxType56i" Level 5 Price 1500
-Item "BigWoodBoxType56ii" Level 6 Price 2500
 
 
 /////////========
@@ -2053,16 +2212,11 @@ Item "Pistol clip (Guardian/6)" Level 1 Price 6
 Item "Pistol clip (Guardian380/6)" Level 1 Price 8
 Item "Pistol clip (P83/8)" Level 1 Price 45
 Item "Pistol clip (P64/6)" Level 1 Price 10
-Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
 Item "skif clip" Level 1 Price 20
 Item "Pistol clip (k9/7)" Level 1 Price 10
 Item "Pistol clip (K40/14)" Level 1 Price 30
 Item "Pistol clip (P5/8)" Level 1 Price 20
 Item "Pistol clip (BP18/16)" Level 1 Price 45
-Item "Pistol clip (BR1911Xodo9mm/16)" Level 1 Price 30
-Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
-Item "Pistol clip (BR1911Xodo45/14)" Level 1 Price 20
-Item "Pistol clip (BR1911Xodo/14)" Level 1 Price 20
 Item "Pistol clip (SW908/8)" Level 1 Price 45
 Item "Pistol clip (SW6906/12)" Level 1 Price 45
 Item "Pistol clip (SW5906/15)" Level 1 Price 45
@@ -2384,17 +2538,66 @@ Item "PackedAmmoBox DBP88 (5.8x42/500)" Level 6 Price 816
 Item "PackedAmmoBox DBP10 (5.8x42/500)" Level 7 Price 1056
 
 
+//OTHER
+Item	"tool3" 					Level 1		Price	250
+Item	"Nails_box" 					Level 1		Price	10
+Item	"Box_Wood_Empty"				Level 1		Price	30
+Item	"Literatura Revolucionaria"			Level 3		Price	450
+
+
 //MERCHANDISE BLOCK
-Item	"Caja con pornografia"					Level 16	Price	16000
-Item	"vino caro"						Level 16	Price	41000
-Item	"Caja con medicamentos"					Level 16	Price	12500
+Item	"Smoke_camel"					Level 16	Price	45
+Item	"Smoke_serpent"					Level 16	Price	30
+Item	"Book_Lenin"					Level 16	Price	300
+Item	"Wine" 						Level 16	Price	400
+Item	"Whisky" 					Level 16	Price	600
+Item	"Drink_tequila_big"				Level 16	Price	600
+Item	"Drink_rum_sol"					Level 16	Price	600
+Item	"Drink_rum_general"				Level 16	Price	1000
+Item	"Canazo_can20"					Level 16	Price	4000
+Item	"Canazo_can5"					Level 16	Price	1250
+Item	"vino caro"					Level 16	Price	8000
+Item	"Caja con medicamentos"				Level 16	Price	12500
+Item	"Smartphone"					Level 16	Price	3000
+
+Item	"Algeira police colonel uniform"		Level 16	Price	3000
+Item	"Algeira police major uniform"			Level 16	Price	2000
+Item	"Algeira police captain uniform"		Level 16	Price	1000
+Item	"Algeira police leutenant uniform"		Level 16	Price	500
+Item	"Algeira police sergant uniform"		Level 16	Price	250
+Item	"Algeira soldiers colonel uniform"		Level 16	Price	6000
+Item	"Algeira soldiers major uniform" 		Level 16	Price	3000
+Item	"Algeira soldiers captain uniform"		Level 16	Price	1500
+Item	"Algeira soldiers leutenant uniform"		Level 16	Price	750
+Item	"Algeira soldiers sergant uniform"		Level 16	Price	375
+Item	"Algeira guards colonel uniform"		Level 16	Price	8000
+Item	"Algeira guards major uniform"			Level 16	Price	4000
+Item	"Algeira guards captain uniform"		Level 16	Price	2000
+Item	"Algeira guards leutenant uniform"		Level 16	Price	1000
+Item	"Algeira guards sergant uniform"		Level 16	Price	500
+
+Item	"Algeira police colonel epaulets"		Level 16	Price	3000
+Item	"Algeira police major epaulets"			Level 16	Price	2000
+Item	"Algeira police captain epaulets"		Level 16	Price	1000
+Item	"Algeira police leutenant epaulets"		Level 16	Price	500
+Item	"Algeira police sergant epaulets"		Level 16	Price	250
+Item	"Algeira soldiers colonel epaulets"		Level 16	Price	6000
+Item	"Algeira soldiers major epaulets" 		Level 16	Price	3000
+Item	"Algeira soldiers captain epaulets"		Level 16	Price	1500
+Item	"Algeira soldiers leutenant epaulets"		Level 16	Price	750
+Item	"Algeira soldiers sergant epaulets"		Level 16	Price	375
+Item	"Algeira guards colonel epaulets"		Level 16	Price	8000
+Item	"Algeira guards major epaulets"			Level 16	Price	4000
+Item	"Algeira guards captain epaulets"		Level 16	Price	2000
+Item	"Algeira guards leutenant epaulets"		Level 16	Price	1000
+Item	"Algeira guards sergant epaulets"		Level 16	Price	500
+
 
 //PURCHASE
 Item	"Confidencial"						Level 16	Price	2625
 Item	"Confidencial_Pali"						Level 16	Price	2625
 Item	"Military_sectret"					Level 16	Price	3850
 Item	"Rosario_envelope"					Level 16	Price	7700
-Item	"Smartphone"						Level 16	Price	7700
 Item	"Harold_Haroldson"					Level 16	Price	3500
 Item	"Exploration_report"					Level 16	Price	7700
 Item	"Some_drugs"						Level 16	Price	3333

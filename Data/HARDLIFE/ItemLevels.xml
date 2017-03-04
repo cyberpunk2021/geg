@@ -162,8 +162,11 @@
   <item level="4">Ammo box 500 HLA (BPZ 7.62x39)</item>
   <item level="5">BigWoodBoxAKM</item>
   <item level="6">BigWoodBoxAKMN</item>
-  <item level="7">BigWoodBoxGalil</item>
+  <item level="8">BigWoodBoxGalil</item>
   <item level="7">BigWoodBoxM4A1</item>
+  <item level="1">tool1</item>
+  <item level="1">tool2</item>
+  <item level="1">tool3</item>
   <item level="8">BigWoodBoxM16A2</item>
   <item level="7">BigWoodBoxG3</item>
   <item level="9">BigWoodBoxG36</item>
@@ -4403,9 +4406,9 @@
   <item level="1">Submachine-gun Type 79 (7.62x25mm) folded</item>
   <item level="1">SMG ammo clip (Type79/20)</item>
   <item level="1">SMG ammo clip (Type85/30)</item>
-  <item level="3">rpg-2</item>
-  <item level="3">rpg-2 Type 56</item>
-  <item level="3">RPG-2 Grenade</item>
+  <item level="2">rpg-2</item>
+  <item level="1">rpg-2 Type 56</item>
+  <item level="1">RPG-2 Grenade</item>
   <item level="2">Pistol clip (Beretta 90Two/17)</item>
   <item level="2">Pistol clip (Beretta 90Two40/15)</item>
   <item level="2">Pistol clip (P30/15)</item>
@@ -4595,7 +4598,7 @@
   <item level="9">BigWoodBoxK2</item>
   <item level="6">BigWoodBoxSIG540</item>
   <item level="7">BigWoodBoxSIG542</item>
-  <item level="8">BigWoodBoxGalil556</item>
+  <item level="7">BigWoodBoxGalil556</item>
   <item level="11">BigWoodBoxGalilACE556</item>
   <item level="6">BigWoodBoxMD97</item>
   <item level="6">BigWoodBoxIA2Cciv</item>
