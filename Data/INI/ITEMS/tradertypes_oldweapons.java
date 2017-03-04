@@ -589,8 +589,8 @@ Item "Big Ammo box 500 (6.5 Arisaka FMJ)" Level 2 Price 100
 Item "Big Ammo box 500 (6.5 Arisaka SP)" Level 2 Price 100
 Item "Big Ammo box (7.7 Arisaka FMJ)" Level 1 Price 0.001
 Item "Big Ammo box (7.7 Arisaka SP)" Level 1 Price 0.001
-Item "Big Ammo box 500 (7.7 Arisaka FMJ)" 100
-Item "Big Ammo box 500 (7.7 Arisaka SP)" 100
+Item "Big Ammo box 500 (7.7 Arisaka FMJ)" Level 1 Price 100
+Item "Big Ammo box 500 (7.7 Arisaka SP)" Level 1 Price 100
 
 Item "Ammo box (Nagant +P)" Level 1 Price 0.001
 Item "Ammo box 500 (Nagant +P)" Level 1 Price 100
