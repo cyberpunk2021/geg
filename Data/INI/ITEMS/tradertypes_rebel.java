@@ -961,8 +961,8 @@ Item "Submachine-gun M92 Pistol AUTO No Stock (7.62mm)" Level 4 Price 1400
 Item "Submachine-gun M92 Pistol AUTO (7.62mm)" Level 5 Price 1800
 
 Item "Assault Rifle 9A91 (9x39mm)" Level 4 Price 2400
-Item "Rifle ammo clip (9a91/20)" 20
-Item "Double rifle ammo clip (9a91/40)" 40
+Item "Rifle ammo clip (9a91/20)" Level 2 Price 20
+Item "Double rifle ammo clip (9a91/40)" Level 3 Price 40
 
 Item "Shotgun VEPR12K (12ga)" Level 5 Price 2200
 Item "Shotgun VEPR12 (12ga)" Level 3 Price 1600
@@ -1039,7 +1039,7 @@ Item "Rifle ammo clip (EM352/10)" Level 5 Price 20
 
 Item	"Sniper Rifle SVU-AS (7.62x54mm)" Level 10 Price 3500
 Item	"Sniper Rifle SV98 (7.62x54mm)" Level 10 Price 	6000
-Item	"Sniper rifle clip (SV98/10)"				30.0
+Item	"Sniper rifle clip (SV98/10)" Level 6 Price 30.0
 
 Item "Sniper Rifle Dragunov SVD Wood (7.62x54mm)" Level 9 Price 3100
 
