@@ -527,6 +527,13 @@
   <item level="6">Anti-personnel Land Mine PMN-2</item>
   <item level="6">SZ-3a</item>
   <item level="5">m86</item>
+  <item level="4">Pmr2a_string</item>
+  <item level="4">Pmr2a_contact</item>
+  <item level="4">M16_contact</item>
+  <item level="5">M3a1_contact</item>
+  <item level="5">Mk2_contact</item>
+  <item level="2">Ozm4_contact</item>
+  <item level="4">Ozm72_contact</item>
   <item level="2">Ammo box (.357 SP)</item>
   <item level="2">Ammo box (.40 S&amp;W)</item>
   <item level="1">Ammo box (00 Buckshot)</item>

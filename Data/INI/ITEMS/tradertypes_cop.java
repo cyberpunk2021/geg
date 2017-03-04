@@ -744,22 +744,46 @@ Item	"Glock-17 threaded barrel" Level 1 Price 200
 Item	"Glock-22 threaded barrel" Level 1 Price 300
 Item	"Glock-21 threaded barrel" Level 1 Price 400
 
-Item	"Folded Ammo Cartouche6" Level 2 Price 50.0
-Item	"Folded Ammo Belt" Level 1 Price 50
-Item	"Folded Basic Belt" Level 1 Price 100
-Item	"Folded Razgr_smerch" Level 1 Price 100.0
-Item	"Folded Belt_04" Level 1 Price 20
 
 Item	"Tactical Armor Vest M200" Level 3 Price 600.0
 Item	"Tactical Armor Vest M100" Level 1 Price 400
 Item	"Tactical Armor Vest M300" Level 5 Price 800
 
 Item	"Helmet M1" Level 2 Price 150.0
-Item	"Steel Helmet" Level 2 Price 100.0
 
 Item	"Field Paramedic Kit" Level 1 Price 30.0
 Item	"Field Paramedic Kit1" Level 1 Price 50
+Item "Field Paramedic Kit2"	Level 2 Price 340.0
+Item "Field Paramedic Kit3"	Level 3 Price 520.0
+Item "Field Paramedic Kit4"	Level 4 Price 940.0
 
+Item "Flask" Level 1 Price 70.0
+
+Item "Tactical Armor SWAT" Level 7 Price 1900.0
+
+Item "Titanium armor plate Lvl 4" Level 9 Price 300.0
+Item "Titanium armor plate Lvl 3" Level 5 Price 250.0
+Item "Ceramic armor plate Lvl 4" Level 9 Price 350.0
+Item "Ceramic armor plate Lvl 3" Level 5 Price 200.0
+
+Item "Folded Tactical Vest" Level 5 Price 250.0
+Item "Folded VestNew" Level 3 Price 200.0
+Item "Folded Razgr_molle" Level 7 Price 350.0
+Item "Folded Ammo Belt" Level 1 Price 50
+Item "Folded Basic Belt" Level 1 Price 100
+Item "Folded Belt_01" Level 7 Price 240
+Item "Folded Belt_02" Level 3 Price 120
+Item "Folded Belt_03" Level 2 Price 100
+Item "Folded Belt_04" Level 1 Price 5
+Item "Folded Tactical Belt" Level 5 Price 160
+Item "Folded Ammo Cartouche6" Level 2 Price 50.0
+Item "Folded Ammo Cartouche" Level 6 Price 200.0
+Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
+
+Item "Titanium Helmet M100" Level 3 Price 450.0
+
+Item "Backpack" Level 3 Price 850.0
+Item "Backpack_tactic" Level 7 Price 1000.0
 
 Item	"Food_m_beef" Level 1 Price 60
 Item	"Food_m_mutton" Level 1 Price 60
@@ -772,7 +796,47 @@ Item	"M407 Smoke" Level 3 Price 50.0
 Item	"Smoke Hand Grenade AN-M8 HC" Level 1 Price 150.0
 Item	"Flash Hand Grenade M84" Level 1 Price 150.0
 
+// KNIFES
 
+Item "Cuchillo" Level 1 Price 30.0
+Item "Cuchillo de Combate" Level 1 Price 75.0
+Item "Cuchillo tactico" Level 1 Price 55.0
+Item "Cuchillo Tora" Level 1 Price 90.0
+Item "Daga" Level 1 Price 120.0
+Item "kabar" Level 1 Price 100.0
+
+Item "Bayonet M9 (West)" Level 2 Price 70.0
+Item "Bayonet_fal" Level 2 Price 50.0
+Item "Bayonet_HK" Level 2 Price 70.0
+
+Item "M96 Bayonet" Level 2 Price 60
+
+Item "Pen" Level 1 Price 2
+Item "Pencil" Level 1 Price 1
+
+Item "RadioBatt" Level 1 Price 150
+Item "RadioBatt_uc" Level 1 Price 100
+Item "Wire" Level 3 Price 25
+
+Item "Pen" Level 1 Price 2
+Item "Pencil" Level 1 Price 1
+
+//SPARE PARTS
+Item	"Metal armor plate 1"				Level 1		Price 50
+Item	"Metal armor plate 2"				Level 1		Price 10
+Item	"Wood_plate"					Level 1		Price 30
+Item	"Tape"						Level 1		Price 5
+Item	"Wire"						Level 1		Price 40
+Item	"Car_belt"					Level 1		Price 500
+Item	"Car_can20_empty" 				Level 1		Price 50
+Item	"Car_can20"					Level 2		Price 220
+Item	"Car_wheel_pascar"				Level 1		Price 200
+Item	"Car_wheel_pickup"				Level 1		Price 350
+Item	"Car_wheel_lrover"				Level 3		Price 700
+Item	"tool1"						Level 3		Price 100
+Item	"tool2"						Level 3		Price 1000
+Item	"tool3"						Level 5		Price 1000
+Item	"Car_rubber_patch"				Level 1		Price 3.0
 
 /////////+++++++++
 /////////PACKEDBOX
@@ -819,7 +883,6 @@ Item "BigWoodBoxIA2Cciv" Level 6 Price 6750
 Item "BigWoodBoxTacticalCarbine" Level 6 Price 4250
 
 Item "PackedCleaningKitBox" Level 1 Price 1667
-Item "PackedSmershBox" Level 1 Price 334
 Item "PackedTacVestBox" Level 3 Price 667
 Item "PackedYellowTacVestBox" Level 5 Price 834
 
@@ -836,6 +899,7 @@ Item "PackedTacticalBeltBox" Level 7 Price 800
 
 Item "PackedButtpackBox" Level 2 Price 167
 Item "PackedBigButtpackBox" Level 6 Price 417
+Item "PackedVeryBigButtpackBox" Level 6 Price 667
 
 /////////========
 /////////MAGS

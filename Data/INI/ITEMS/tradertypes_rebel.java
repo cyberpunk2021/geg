@@ -11,6 +11,32 @@ Item	"IDSpecial_dud"					Level 16	Price	250000
 
 Item "DPM/RP-46 Kit" Level 3 Price 150
 
+/////////+++++++++++++++++
+/////////MINES
+/////////+++++++++++++++++
+
+////BASIC
+
+Item "Remote Mine Controller" Level 1 Price 50.0
+Item "TNT Radio" Level 4 Price 250
+Item "Bomb60" Level 4 Price 350
+Item "Bomb82" Level 8 Price 600
+Item "Fuze_m605" Level 3 Price 150
+Item "Fuze_mve72" Level 3 Price 200
+Item "Fuze_radio" Level 3 Price 300
+
+////NATO
+
+Item "Pmr2a_string" Level 4 Price 390
+Item "M16_contact" Level 4 Price 500
+Item "Pmr2a_contact" Level 4 Price 390
+Item "M3a1_contact" Level 5 Price 450
+
+////SOVIET
+
+Item "SZ-3a" Level 6 Price 420.0
+Item "Ozm4_contact" Level 2 Price 320
+
 ////////////REBEL GUNS
 
 Item	"Rifle ammo clip (Norinco/10)" Level 3 Price 20
@@ -1720,6 +1746,8 @@ Item	"Tactical Armor Vizov"		Level 4 Price		1100.0
 
 Item	"VOG-25"	Level 3 Price 75.0
 Item	"VOG-25P"	Level 4 Price 75.0
+
+
 
 /////////+++++++++
 /////////PACKEDBOX

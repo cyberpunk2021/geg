@@ -598,6 +598,32 @@ Item "Pencil" Level 1 Price 1
 
 Item "Nails_box" Level 1 Price 5
 
+Item	"Car_wheel_gaz69"				Level 1		Price 200
+Item	"Car_wheel_ural"				Level 4	 	Price 1000
+Item	"Car_wheel_btr"					Level 9		Price 1500
+Item	"Car_wheel_btr40"				Level 9		Price 1500
+
+/////////+++++++++++++++++
+/////////MINES
+/////////+++++++++++++++++
+
+////BASIC
+
+Item "Remote Mine Controller" Level 1 Price 50.0
+Item "TNT Radio" Level 4 Price 250
+Item "Bomb60" Level 4 Price 350
+Item "Bomb82" Level 8 Price 600
+Item "Fuze_m605" Level 3 Price 150
+Item "Fuze_mve72" Level 3 Price 200
+Item "Fuze_radio" Level 3 Price 300
+
+////SOVIET
+
+Item "Anti-personnel Land Mine PMN-2" Level 6 Price 270.0
+Item "SZ-3a" Level 6 Price 420.0
+Item "Ozm4_contact" Level 2 Price 320
+Item "Ozm72_contact" Level 4 Price 420
+
 /////////+++++++++
 /////////PACKEDBOX
 /////////+++++++++

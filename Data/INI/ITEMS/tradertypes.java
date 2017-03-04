@@ -647,6 +647,9 @@ Item "Lighter_cryst_b" Level 1 Price 5
 Item "Lighter_cryst_g" Level 1 Price 5
 Item "Lighter_cryst_r" Level 1 Price 5
 
+Item "PayCard_mobile" Level 1 Price 30
+Item "PayCard_phone" Level 1 Price 20
+
 
 /////////+++++++++
 /////////PACKEDBOX
@@ -1103,3 +1106,13 @@ Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
 Item	"Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
 Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	10000
 Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
+
+/////////+++++++++
+/////////SMUGGLE OBJECTS BUYER
+/////////+++++++++
+
+Item "Canteen_g1" Level 16 Price 2600
+Item "Canteen_g2" Level 16 Price 2500
+Item "Drink_rum_general" Level 16 Price 1500
+
+

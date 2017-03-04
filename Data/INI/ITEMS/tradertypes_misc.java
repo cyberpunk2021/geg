@@ -29,6 +29,39 @@ Item "Offensive Hand Grenade V40" Level 2 Price 70
 Item "Offensive Hand Grenade Type 97" Level 2 Price 40
 Item "Hand Grenade M24" Level 1 Price 50
 
+Item	"Smoke Hand Grenade AN-M8 HC" Level 1 Price 150.0
+Item	"Flash Hand Grenade M84" Level 1 Price 150.0
+
+/////////+++++++++++++++++
+/////////MINES
+/////////+++++++++++++++++
+
+////BASIC
+
+Item "Remote Mine Controller" Level 1 Price 50.0
+Item "TNT Radio" Level 4 Price 250
+Item "Bomb60" Level 4 Price 350
+Item "Bomb82" Level 8 Price 600
+Item "Fuze_m605" Level 3 Price 150
+Item "Fuze_mve72" Level 3 Price 200
+Item "Fuze_radio" Level 3 Price 300
+
+////NATO
+
+Item "m86" Level 5 Price 300.0
+Item "Pmr2a_string" Level 4 Price 390
+Item "M16_contact" Level 4 Price 500
+Item "Pmr2a_contact" Level 4 Price 390
+Item "M3a1_contact" Level 5 Price 450
+Item "Mk2_contact" Level 5 Price 700
+
+////SOVIET
+
+Item "Anti-personnel Land Mine PMN-2" Level 6 Price 270.0
+Item "SZ-3a" Level 6 Price 420.0
+Item "Ozm4_contact" Level 2 Price 320
+Item "Ozm72_contact" Level 4 Price 420
+
 
 /////////+++++++++++++++++
 /////////GL AMMO
@@ -166,6 +199,8 @@ Item "PackedCleaningKitBox" Level 1 Price 1667
 Item "PackedContactFuzeBox" Level 1 Price 1000
 Item "PackedRadioFuzeBox" Level 3 Price 2000
 Item "PackedRationBox" Level 1 Price 1120
+Item "PackedTacVestBox" Level 3 Price 667
+Item "PackedSmershBox" Level 1 Price 334
 
 Item "PackedYellowTacVestBox" Level 5 Price 834
 Item "PackedMolleVestBox" Level 7 Price 1167
@@ -368,7 +403,7 @@ Item "Cuchillo de Combate" Level 1 Price 75.0
 Item "Cuchillo tactico" Level 1 Price 55.0
 Item "Cuchillo Tora" Level 1 Price 90.0
 Item "Daga" Level 1 Price 120.0
-Item "kabar" Level 1 Price 100.0   
+Item "kabar" Level 1 Price 100.0
 Item "NDK" Level 1 Price 200.0
 Item "sas_dagger" Level 1 Price 150.0
 Item "smersh5" Level 1 Price 170.0
@@ -414,12 +449,39 @@ Item "Lighter_piezo_g" Level 1 Price 5
 Item "Epipen" Level 3 Price 60
 Item "Glue" Level 1 Price 3
 Item "Nails_box" Level 1 Price 5
-Item "PayCard_mobile" Level 1 Price 30
-Item "PayCard_phone" Level 1 Price 20
+Item "PayCard_mobile" Level 1 Price 250
+Item "PayCard_phone" Level 1 Price 200
 Item "Smoke_camel" Level 3 Price 10
 Item "Smoke_cigar" Level 1 Price 33
 Item "Smoke_cigar_box" Level 1 Price 50
 Item "Smoke_serpent" Level 1 Price 5
+
+//SPARE PARTS
+Item	"Metal armor plate 1"				Level 1		Price 50
+Item	"Metal armor plate 2"				Level 1		Price 10
+Item	"Wood_plate"					Level 1		Price 30
+Item	"Tape"						Level 1		Price 5
+Item	"Wire"						Level 1		Price 40
+Item	"Car_belt"					Level 1		Price 500
+Item	"Flask"						Level 1		Price 50
+Item	"Car_can5_empty"				Level 1		Price 30
+Item	"Car_can5"					Level 1		Price 250
+Item	"Car_can20_empty" 				Level 1		Price 50
+Item	"Car_can20"					Level 2		Price 220
+Item	"Car_wheel_pascar"				Level 1		Price 200
+Item	"Car_wheel_pickup"				Level 1		Price 350
+Item	"Car_wheel_willys"				Level 1		Price 700
+Item	"Car_wheel_gaz69"				Level 1		Price 200
+Item	"Car_wheel_lrover"				Level 3		Price 700
+Item	"Car_wheel_ural"				Level 4	 	Price 1000
+Item	"Car_wheel_hummer"				Level 6		Price 1500
+Item	"Car_wheel_yamamoto"				Level 3		Price 200
+Item	"Car_wheel_btr"					Level 9		Price 1500
+Item	"Car_wheel_btr40"				Level 9		Price 1500
+Item	"tool1"						Level 3		Price 100
+Item	"tool2"						Level 3		Price 1000
+Item	"tool3"						Level 5		Price 1000
+Item	"Car_rubber_patch"				Level 1		Price 3.0
 
 /////////+++++++++
 /////////SMUGGLE OBJECTS SELLER
