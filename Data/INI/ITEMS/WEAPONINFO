@@ -18787,7 +18787,7 @@ StdPlug			"SMG ammo clip (VZ61/20)"
 StdPlug			"vz82butt"
 ACTOR			"Items\vz61.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun Vz61 (7.65mm) folded"
 Class			SMG
@@ -18826,7 +18826,7 @@ StdPlug			"SMG ammo clip (VZ61/20)"
 StdPlug			"vz82butt_folded"
 ACTOR			"Items\vz61.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun VZ82 (380)"
 Class			SMG
@@ -18945,7 +18945,7 @@ StdPlug			"SMG ammo clip (VZ82/10)"
 StdPlug			"vz82butt"
 ACTOR			"Items\vz82.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun Vz82 (9x18mm) folded"
 Class			SMG
@@ -18984,7 +18984,7 @@ StdPlug			"SMG ammo clip (VZ82/10)"
 StdPlug			"vz82butt_folded"
 ACTOR			"Items\vz82.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtRifle
+HANDS			ahtRG
 
 ITEM "Submachine-gun VZ82 (9x19mm)"
 Class			SMG
