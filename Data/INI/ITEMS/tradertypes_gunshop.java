@@ -1925,13 +1925,6 @@ Item "Ammo box .30 Carbine SP 500" Level 2 Price 100
 Item "Ammo box .30 Carbine FMJ 500" Level 3 Price 100
 
 /////////
-//.458 socom
-/////////
-
-Item "Ammo box (.458 socom)" Level 5 Price 0.001
-Item "Big Ammo box (.458 socom)" Level 7 Price 100
-
-/////////
 //.50 Beowulf
 /////////
 

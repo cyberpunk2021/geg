@@ -34478,7 +34478,7 @@ StdPlug			"Shotgun ammo clip (SPAS12/8)"
 StdPlug			"SPAS12 butt"
 ACTOR			"Items\spas12.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtAutoShotgun
+HANDS			ahtRifle
 
 ITEM "Shotgun SPAS12 (12ga) folded"
 Class			Shotgun
@@ -34517,7 +34517,7 @@ StdPlug			"Shotgun ammo clip (SPAS12/8)"
 StdPlug			"SPAS12 butt folded"
 ACTOR			"Items\spas12.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtAutoShotgun
+HANDS			ahtRifle
 
 ///////---------------------
 

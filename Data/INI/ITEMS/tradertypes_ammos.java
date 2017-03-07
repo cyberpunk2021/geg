@@ -214,6 +214,15 @@ Item "Ammo box 500 (7.62x25mm Palinero)" Level 2 Price 100
 Item "Ammo box 500 (7.62x25mm AP)" Level 2 Price 100
 
 /////////
+//4.6x30
+/////////
+
+Item "Ammo box Fiocchi Frangible (4.6x30mm)" Level 2 Price 0.001
+Item "Ammo box (4.6x30mm)" Level 2 Price 0.001
+Item "Big Ammo box (4.6x30mm)" Level 3 Price 100
+Item "Big Ammo box (4.6x30mm HP)" Level 3 Price 100
+
+/////////
 //9x21
 /////////
 
@@ -589,7 +598,7 @@ Item "Ammo box (FM7.62x51)" Level 5 Price 0.0001
 Item "Ammo box (M80)" Level 6 Price 0.0001
 Item "Ammo box (M993)" Level 8 Price 0.0001
 Item "Ammo box (7.62x51SP)" Level 4 Price 0.0001
-Item "Ammo box (7.62x51 SN)" Level 7 Price Level 4 0.0001
+Item "Ammo box (7.62x51 SN)" Level 7 Price 0.0001
 
 Item "Ammo box 500 HLA (7.62x51 SN)" Level 9 Price 100
 Item "Ammo Box 500 CoreLokt .308" Level 7 Price 100

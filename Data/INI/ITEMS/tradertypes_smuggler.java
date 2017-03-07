@@ -4,6 +4,13 @@
 
 //////////////SMUGGLER STUFF
 
+Item "SMG ammo clip (CBJMS/30)" Level 2 Price 50
+Item "SMG ammo clip (CBJMS/100)" Level 3 Price 200
+
+Item "Rifle ammo clip (KACPDW/30)" Level 3 Price 40
+
+Item "SMG ammo clip (KRISS/28)" Level 2 Price 45
+
 Item	"Rifle ammo clip (Norinco/10)" Level 3 Price 20
 Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
 
@@ -31,7 +38,9 @@ Item "Sniper Rifle SVK-12 (308)" Level 10 Price 4500
 
 Item "MAG-7" Level 3 Price 1000
 
-
+Item "SMG ammo clip (CPW 9x19mm/30)" Level 2 Price 20
+Item "SMG ammo clip (CPW 4.6x30mm/30)" Level 2 Price 30
+Item "SMG ammo clip (CPW 5.7x28mm/30)" Level 2 Price 30
 
 Item "Submachine-gun XCR Pistol RUSL" Level 5 Price 3100
 Item "Submachine-gun XCR Pistol NATO" Level 5 Price 3100
@@ -43,6 +52,20 @@ Item "Submachine-gun Type CF05 (9mm)" Level 4 Price 1900
 
 Item "CPW (4.6)" Level 4 Price 2100
 Item "MP7" Level 4 Price 2000
+
+/////////
+//4.6x30
+/////////
+
+Item "Ammo box Fiocchi Frangible (4.6x30mm)" Level 2 Price 0.001
+Item "Ammo box (4.6x30mm)" Level 2 Price 0.001
+Item "Big Ammo box (4.6x30mm)" Level 3 Price 100
+Item "Big Ammo box (4.6x30mm HP)" Level 3 Price 100
+
+Item "SMG ammo clip (MP7/20)" Level 2 Price 30
+Item "SMG ammo clip (MP7/40)" Level 2 Price 50
+
+/////////////
 
 Item "Submachine-gun Colt 635 WR (9mm)" Level 5 Price 2000
 Item "Submachine-gun Colt 635 WR LB (9mm)" Level 6 Price 2200
@@ -58,12 +81,20 @@ Item "Submachine-gun Daewoo K7 (9mm)" Level 5 Price 2300
 Item "Pistol Liberator" Level 1 Price 50
 
 Item "Shotgun AA12 (12ga)" Level 6 Price 3500
-Item	"Shotgun USAS-12 (12ga)" Level 5 Price 			3000
+Item "Shotgun USAS-12 (12ga)" Level 5 Price 3000
 
-Item	"Submachine-gun Calico M950 (9mm)" Level 3 Price 	1000
+Item "Shotgun ammo clip (AA-12/8)" Level 4 Price 45
+Item "Shotgun drum (AA-12/20)" Level 5 Price 120
+Item "Shotgun ammo clip (USAS-12/10)" Level 3 Price 12.0
+Item "Shotgun drum (USAS-12/20)" Level 4 Price 55.0
+
+Item "Submachine-gun Calico M950 (9mm)" Level 3 Price 1000
 Item "Calico M900 CQC (9 mm)" Level 4 Price 1800
 
-Item	"Carabine Calico M900 (9mm)" Level 4 Price 		1100
+Item "Calico clip (Calico/50)" Level 2 Price 100.0
+Item "Calico clip (Calico/100)" Level 3 Price 200.0
+
+Item "Carabine Calico M900 (9mm)" Level 4 Price 1100
 Item "Assault Rifle FAMAS F1 (5.56mm)" Level 6 Price 2100
 Item "Assault Rifle clip (FAMAS/25)" Level 3 Price 45
 Item "FAMAS G2 Commando" Level 6 Price 2200
@@ -100,9 +131,12 @@ Item "Assault Rifle CZ-805 Bren A2 (5.56mm)" Level 11 Price 3200
 Item "Assault Rifle CZ-805 Bren A1 (7.62mm)" Level 10 Price 2900
 Item "Assault Rifle CZ-805 Bren A2 (7.62mm)" Level 11 Price 3100
 
+Item "Rifle ammo clip (CZ-805/30)" Level 4 Price 40
+Item "Rifle ammo clip double (CZ-805/60)" Level 5 Price 80
 
 Item "HCAR" Level 9 Price 4000
 Item "HCAR BK" Level 9 Price 4000
+Item "Rifle ammo clip (HCAR/30)" Level 6 Price 60
 Item "Assault Rifle Type 64 (7.62mm)" Level 7 Price 2700
 Item "Assault Rifle Type 89O (5.56mm)" Level 7 Price 2900
 Item "Assault Rifle Type 89 (5.56mm)" Level 8 Price 3000
@@ -174,6 +208,10 @@ Item "Assault Rifle DPMS 308" Level 11 Price 3800
 Item "SW MP15 CQC" Level 8 Price 2000
 Item "SW MP15" Level 9 Price 2800
 Item "SW MP15 LB" Level 10 Price 3200
+
+Item "Rifle ammo clip (Socom/15)" Level 5 Price 50
+Item "Rifle ammo clip (Socom Stanag/15)" Level 5 Price 50
+Item "Rifle ammo clip (Socom/30)" Level 5 Price 100
 
 Item "Assault ARX (5.45x39mm)" Level 9 Price 2600
 Item "Assault ARX LB (5.45x39mm)" Level 10 Price 3200
@@ -2606,7 +2644,312 @@ Item "PackedAmmoBox Algeira (6.8 SPC/500)" Level 4 Price 1056
 Item "PackedAmmoBox Algeira (.300 WM/500)" Level 8 Price 1240
 Item "PackedAmmoBox Algeira (.338 Lapua/500)" Level 9 Price 1772
 
+/////////========
+/////////MAGS
+/////////========
+Item "Pistol clip (BerettaElite .40/12)" Level 1 Price 50
+Item "Pistol clip (BerettaElite 92FS/15)" Level 1 Price 45
+Item "Rifle clip (JNG90/10)" Level 7 Price 50
+Item "Rifle clip (TRG-22/5)" Level 7 Price 45
+Item "Rifle ammo clip (L42A1/10)" Level 3 Price 45
+Item	"Rifle ammo clip (HK/5)" Level 2 Price 30.0
+Item	"Rifle ammo clip (HK/20)" Level 3 Price 40.0
+Item	"Double rifle ammo clip (HK/40)" Level 4 Price 80.0
+Item "Rifle ammo clip (SG751/20)" Level 5 Price 50
+Item "Rifle clip (Mosquetao/10)" Level 1 Price 15
+Item	"Rifle clip (Garand/8)" Level 1 Price 			10
+Item "Rifle ammo clip (T14/15)" Level 1 Price 45
+Item "Double rifle ammo clip (T14/30)" Level 1 Price 45
+Item "Double rifle ammo clip (T14/30c)" Level 1 Price 45
+Item "Shotgun clip (SPAS-15/8)" Level 2 Price 40
+Item "Shotgun clip (SPAS-15Tan/8)" Level 2 Price 40
+Item "SMG ammo clip (MPX40/30)" Level 2 Price 20
+Item "SMG ammo clip (MPX357/30)" Level 2 Price 20
+Item "SMG ammo clip (MPX/30)" Level 2 Price 20
+Item "SMG ammo clip (Skorpion 3/30)" Level 2 Price 45
+Item "Double SMG ammo clip (Skorpion 3/60c)" Level 3 Price 45
+Item "Double SMG ammo clip (MPX/60)" Level 3 Price 40
+Item "Double SMG ammo clip (MPX357/60)" Level 3 Price 40
+Item "Double SMG ammo clip (MPX40/60)" Level 3 Price 40
+Item "Pistol clip (SAColt/14)" Level 1 Price 60
+Item "SMG ammo clip (MP5-10/30)" Level 3 Price 45
+Item "Double SMG ammo clip (MP5-10/60)" Level 3 Price 45
+Item "SMG ammo clip (AR-15 10mm/30)" Level 3 Price 45
+Item "SMG ammo clip (SpectreM445/50)" Level 2 Price 80
+Item "SMG ammo clip (SpectreM49mm/50)" Level 2 Price 65
+Item "SMG ammo clip (SpectreM440/50)" Level 2 Price 75
+Item "SMG ammo clip (MPL/32)" Level 1 Price 50
+Item "SMG ammo clip (MT12/32)" Level 1 Price 40
+Item "SMG ammo clip (MT12/40)" Level 1 Price 50
+Item "SMG ammo clip (Steyr69/25)" Level 1 Price 30
+Item "SMG ammo clip (Steyr69/32)" Level 1 Price 40
+Item "SMG ammo clip (PM98/15)" Level 1 Price 30
+Item "SMG ammo clip (PM98/25)" Level 1 Price 55
+Item "SMG ammo clip (PM84P/15)" Level 1 Price 30
+Item "SMG ammo clip (PM84P/25)" Level 1 Price 55
+Item	"SMG ammo clip (AUG/30)" Level 3 Price    35.0
+Item	"SMG ammo clip (SAF/30)" Level 3 Price 		35
+Item	"Double SMG ammo clip (SAF/60)" Level 3 Price 		70
+Item	"SMG ammo clip (MT-40/30)" Level 3 Price 		30
+Item	"Double SMG ammo clip (MT-40/60)" Level 3 Price 60
+Item	"SMG ammo clip (MP5-40/30)" Level 3 Price 			75
+Item	"Double SMG ammo clip (MP5-40/60)" Level 3 Price 		150
+Item	"SMG ammo clip (UMP45/30)" Level 3 Price 			70.0
+Item	"Double SMG ammo clip (UMP45/50)" Level 3 Price 		140
+Item "SMG ammo clip (AR-15 40SW/32)" Level 2 Price 50
+Item "SMG ammo clip (UMP40/30)" Level 2 Price 50
+Item "SMG ammo clip (PindadPM2/30)" Level 1 Price 20
+Item "Pistol clip (P22010mm/8)" Level 1 Price 45
+Item "Pistol clip (Glock 29/10)" Level 1 Price 45
+Item "Pistol clip (Megastar45/12)" Level 1 Price 30
+Item "Pistol clip (Megastar10/14)" Level 1 Price 50
+Item "Pistol clip (SW4006/11)" Level 1 Price 30
+Item "Pistol clip (SW4506/8)" Level 1 Price 25
+Item "Pistol clip (SW1006/9)" Level 1 Price 25
+Item "Pistol clip (Glock 30/10)" Level 1 Price 60
+Item "Pistol clip (Glock 27/9)" Level 1 Price 50
+Item "Pistol clip (Glock 23/12)" Level 1 Price 20
+Item "Pistol clip (FNP/14)" Level 1 Price 30
+Item "Pistol clip (FNP/15)" Level 1 Price 45
+Item "Pistol clip (P226357/12)" Level 1 Price 50
+Item "Pistol clip (Cougar45/8)" Level 1 Price 60
+Item "Pistol clip (Cougar357/11)" Level 1 Price 50
+Item "Pistol clip (Cougar40/11)" Level 1 Price 50
+Item "Pistol clip (Glock 32/12)" Level 1 Price 22
+Item "Pistol clip (Glock 31/15)" Level 1 Price 50
+Item "Pistol clip (Glock 33/9)" Level 1 Price 50
+Item "Pistol clip (K357/14)" Level 1 Price 40
+Item "Pistol clip (K40/14)" Level 1 Price 30
+Item "Pistol clip (K45/12)" Level 1 Price 30
+Item "Pistol clip (K100/17)" Level 1 Price 20
+Item "Pistol clip (QSZ-92/15)" Level 1 Price 20
+Item "Pistol clip (CZ 75 10mm/11)" Level 1 Price 40
+Item "Pistol clip (CZ 75 Shadow 10mm/15)" Level 1 Price 50
+Item "Pistol clip (CZ 75 Shadow 10mmW/15)" Level 1 Price 50
+Item "Pistol clip (CZ 75 Shadow/18)" Level 1 Price 15
+Item "Pistol clip (CZ 75 Shadow/12)" Level 1 Price 20
+Item "Pistol clip (Px4 45/10)" Level 1 Price 30
+Item "Pistol clip (Px4 9mm/17)" Level 1 Price 25
+Item "Pistol clip (DP-51/13)" Level 1 Price 30
+Item "Pistol clip (SteyrS9A1/10)" Level 1 Price 25
+Item "Pistol clip (SteyrM9A1/17)" Level 1 Price 40
+Item "Pistol clip (p7m13/13)" Level 1 Price 15
+Item "Pistol clip (p7m10/10)" Level 1 Price 15
+Item "Pistol clip (MK22/14)" Level 1 Price 45
+Item "Pistol clip (P30/15)" Level 1 Price 40
+Item "Pistol clip (P30/12)" Level 1 Price 45
+Item "Pistol clip (Beretta M9A1/15)" Level 1 Price 30
+Item "Pistol clip (XDM9/19)" Level 1 Price 35
+Item "Pistol clip (XDM9Compact/13)" Level 1 Price 30
+Item "Pistol clip (XDM40Compact/11)" Level 1 Price 35
+Item "Pistol clip (XDM40/16)" Level 1 Price 40
+Item "Pistol clip (XDM45Compact/9)" Level 1 Price 35
+Item "Pistol clip (XDM45/13)" Level 1 Price 40
+Item "Pistol clip (P2000/13)" Level 1 Price 30
+Item "Pistol clip (P2000357/12)" Level 1 Price 35
+Item "Pistol clip (P200040/12)" Level 1 Price 35
+Item "Pistol clip (SteyrM357A1/12)" Level 1 Price 30
+Item "Pistol clip (SteyrS40A1/10)" Level 1 Price 20
+Item "Pistol clip (SteyrM40A1/12)" Level 1 Price 25
+Item "Pistol clip (M93R/20)" Level 1 Price 50
 
+Item "Pistol clip (P2209mm/7)" Level 1 Price 20
+Item "Pistol clip (P2269MM/12)" Level 1 Price 25
+
+Item "Pistol clip (VP70/18)" Level 1 Price 15
+
+Item "Pistol clip (SWMP40/15)" Level 1 Price 30
+Item "Pistol clip (SWMP357/15)" Level 1 Price 28
+Item "Pistol clip (SWMP45/10)" Level 1 Price 26
+Item "Pistol clip (SWMP9/17)" Level 1 Price 24
+
+Item "Pistol clip (PT1911/12)" Level 1 Price 30
+
+Item "Pistol clip (HK45/10)" Level 1 Price 20
+Item "Pistol clip (HK45C/10)" Level 1 Price 20
+
+Item "Pistol clip (Beretta 90Two/17)" Level 1 Price 40
+Item "Pistol clip (Beretta 90Two40/15)" Level 1 Price 45
+
+Item	"Pistol clip (USP/14)" Level 1 Price 				70
+Item	"Pistol clip (USP/12)" Level 1 Price                                70.0
+Item	"Pistol clip (BDA/14)" Level 1 Price 			35.0
+
+Item	"Pistol clip (USP/15)" Level 1 Price 			45.0
+
+Item	"Pistol clip (Cherokee/17)" Level 1 Price 			40.0
+
+Item	"Pistol clip (CZ 75/15)" Level 1 Price 			70
+
+Item	"Pistol clip (PX4/14)" Level 1 Price					70
+Item	"Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
+
+Item	"Pistol clip (PPK/S)" Level 1 Price				20
+Item	"Pistol clip (FNP/16)" Level 1 Price				35.0
+
+Item	"Pistol clip (Glock 20/15)"	Level 2 Price			70
+
+Item	"Pistol clip (Glock 17/10)"	Level 1 Price 50
+Item	"Pistol clip (Glock 21/10)"	Level 1 Price 50
+Item	"Pistol clip (Glock 22/10)"	Level 1 Price 50
+Item	"Pistol clip (Glock 22/15)"	Level 1 Price 55
+
+Item	"Pistol clip (P99-40/10)" Level 1 Price 75
+Item	"Pistol clip (P99/10)" Level 1 Price 75
+Item	"Pistol clip (CZ 75/10)" Level 1 Price 40
+Item	"Pistol clip (FNP/10)" Level 1 Price 40
+Item	"Pistol clip (Beretta 92FS/10)" Level 1 Price 45
+Item	"Pistol clip (Glock 21/13)" Level 1 Price 45
+
+Item "Pistol clip (PT59/17)" Level 1 Price 25
+Item "Pistol clip (PT59B/17)" Level 1 Price 25
+Item "Pistol clip (PT59W/17)" Level 1 Price 25
+Item "Pistol clip (Beretta M9/15)" Level 1 Price 30.0
+Item "Pistol clip (Beretta 92FS/15)" Level 1 Price 30.0
+Item "Pistol clip (Beretta 92FS/17)" Level 2 Price 40.0
+Item "Pistol clip (Beretta 92FS/20)" Level 3 Price 55.0
+Item "Pistol clip (P220/7)" Level 1 Price 45.0
+Item "Pistol clip (Colt/9)" Level 1 Price 15
+Item "Pistol clip (Colt/16)" Level 1 Price 30
+Item "Pistol clip (Colt/14)" Level 1 Price 30
+Item "Pistol clip (SIG/15)" Level 1 Price 80.0
+
+Item "Pistol clip (CZ 75/16)" Level 1 Price 25
+Item "Pistol clip (Beretta951/8)" Level 1 Price 20
+
+
+Item "Pistol clip (Fort17380/16)" Level 1 Price 20.0
+
+Item "Pistol clip (p7m380/8)" Level 1 Price 10
+Item "Pistol clip (HSC/8)" Level 1 Price 30
+Item "Pistol clip (HSC/7)" Level 1 Price 45
+Item "Pistol clip (Glock 25/15)" Level 1 Price 45
+Item "Pistol clip (Glock 28/10)" Level 1 Price 45
+Item "Pistol clip (BR1911380/19)" Level 1 Price 45
+Item "Pistol clip (FEG37/7)" Level 1 Price 16
+Item "Pistol clip (FEG3732/7)" Level 1 Price 6
+Item "Pistol clip (Guardian/6)" Level 1 Price 6
+Item "Pistol clip (Guardian380/6)" Level 1 Price 8
+Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
+Item "Pistol clip (P5/8)" Level 1 Price 20
+Item "Pistol clip (BP18/16)" Level 1 Price 45
+Item "Pistol clip (BR1911Xodo9mm/16)" Level 1 Price 30
+Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
+Item "Pistol clip (BR1911Xodo45/14)" Level 1 Price 20
+Item "Pistol clip (BR1911Xodo/14)" Level 1 Price 20
+Item "Pistol clip (BR19119mm/16)" Level 1 Price 15
+Item "Pistol clip (BR1911/14)" Level 1 Price 20
+Item "Pistol clip (BR191145/14)" Level 1 Price 20
+Item "Pistol clip (SW908/8)" Level 1 Price 45
+Item "Pistol clip (SW6906/12)" Level 1 Price 45
+Item "Pistol clip (SW5906/15)" Level 1 Price 45
+Item "Pistol clip (SW459/14)" Level 1 Price 45
+Item "Pistol clip (Glock 19/13)" Level 1 Price 20
+Item "Pistol clip (Glock 26/10)" Level 1 Price 20
+Item "Pistol clip (Cougar9mm/15)" Level 1 Price 45
+Item "SMG ammo clip (tmp/20)" Level 1 Price 30
+Item "SMG ammo clip (tmp/30)" Level 2 Price 50
+Item "SMG ammo clip (mp9/30)" Level 2 Price 50
+Item "Pistol clip (P226/12)" Level 1 Price 25
+Item "Pistol clip (Browning-hp/10)" Level 1 Price 30
+Item "Pistol clip (Jericho40/12)" Level 1 Price 50
+Item "Pistol clip (JerichoW40/12)" Level 1 Price 50
+Item "Pistol clip (Jericho9mm/15)" Level 1 Price 45
+Item "Pistol clip (JerichoW9mm/15)" Level 1 Price 45
+Item "Pistol clip (Jericho45/10)" Level 1 Price 60
+Item "Pistol clip (JerichoW45/10)" Level 1 Price 60
+Item "Pistol clip (Glock 27/9)" Level 1 Price 50
+Item "Pistol clip (PT100B/10)" Level 1 Price 35
+Item "Pistol clip (PT100BK/10)" Level 1 Price 35
+Item "Pistol clip (PT100W/10)" Level 1 Price 35
+Item "Pistol clip (PT100/15)" Level 2 Price 50
+Item "Pistol clip (Colt/7)" Level 1 Price 35.0
+Item "Pistol clip (Colt/8)" Level 1 Price 70.0
+Item "Pistol clip (Nighthawk/8)" Level 1 Price 70.0
+Item "Pistol clip (Para/14)" Level 1 Price 105.0
+Item "SMG ammo clip (UZI/20)" Level 1 Price 20.0
+Item "SMG ammo clip (UZI/25)" Level 2 Price 25.0
+Item "SMG ammo clip (UZI/32)" Level 2 Price 20.0
+Item "SMG ammo clip (M5/15)" Level 1 Price 22.0
+Item "SMG ammo clip (M5/30)" Level 2 Price 30.0
+Item "Double SMG ammo clip (MP5/60)" Level 3 Price 60.0
+Item "SMG ammo clip (MAT-49/32)" Level 1 Price 20
+Item "SMG ammo clip (L2A3/34)" Level 1 Price 20.0
+Item "SMG ammo clip (M45/36)" Level 1 Price 50
+Item "SMG ammo clip (INA9/32)" Level 1 Price 45
+Item "SMG ammo clip (INA45/30)" Level 1 Price 50
+Item "Pistol clip (PPK/7.65)" Level 1 Price 20
+Item "Double rifle ammo clip (Mini-14/40)" Level 3 Price 60.0
+Item "Double rifle ammo clip (Mini-14/60)" Level 3 Price 70.0
+Item "Double rifle ammo clip (Mini-14/80)" Level 4 Price 100.0
+Item "Rifle ammo clip (Mini-14/10)" Level 2 Price 20.0
+Item "Rifle ammo clip (Mini-14/20)" Level 2 Price 30.0
+Item "Rifle ammo clip (Mini-14/30)" Level 2 Price 35.0
+Item "Rifle ammo clip (Mini-14/40)" Level 3 Price 50.0
+Item "Rifle ammo clip (Mini-68/10)" Level 3 Price 20
+Item "Rifle ammo clip (Mini-68/20)" Level 3 Price 30
+Item "Double rifle ammo clip (Mini-68/40)" Level 4 Price 50
+Item "Rifle ammo clip (Mini-68/30)" Level 4 Price 40
+Item "Double rifle ammo clip (Mini-68/60)" Level 5 Price 70
+Item "Rifle ammo clip (Mini-68/40)" Level 4 Price 55
+Item "Double rifle ammo clip (Mini-68/80)" Level 5 Price 90
+Item "Rifle ammo clip (M14/10)" Level 3 Price 30.0
+Item "Rifle ammo clip (M14/20)" Level 3 Price 40.0
+Item "Double rifle ammo clip (M14/40)" Level 4 Price 80.0 
+
+
+
+Item "Double rifle ammo clip (HK/50)" Level 4 Price 60
+Item "Double rifle ammo clip (HK/60)" Level 5 Price 100
+Item "Rifle ammo clip (HK/25)" Level 3 Price 30
+Item "Rifle ammo clip (HK/30)" Level 4 Price 40
+Item "Rifle ammo clip (HK/40)" Level 4 Price 50
+Item "Double rifle ammo clip (HK/80)" Level 5 Price 100
+Item "Double rifle ammo clip (M16/40)" Level 4 Price 45
+Item "Rifle ammo clip (AR-15/10)" Level 1 Price 50.0
+Item "Rifle ammo clip (M16/20)" Level 3 Price 35.0
+Item "Rifle ammo clip (M16/30)" Level 3 Price 50.0
+
+
+Item "Rifle ammo clip (MD97/30)" Level 3 Price 50.0
+Item "Twin rifle ammo clip (MD97/60)" Level 4 Price 100.0
+
+
+Item "Double rifle ammo clip (M16/60)" Level 4 Price 100.0
+Item "Double rifle ammo clip (M16/60c)" Level 4 Price 100.0
+Item "Rifle ammo clip (L1A1/20)" Level 4 Price 20
+Item "Double rifle ammo clip (L1A1/40)" Level 5 Price 40
+
+Item "Rifle ammo clip (ROMAT/20)" Level 4 Price 20
+Item "Double rifle ammo clip (ROMAT/40)" Level 5 Price 40
+
+Item "Rifle ammo clip (FN FAL/20)" Level 4 Price 20
+Item "Double rifle ammo clip (FN FAL/40)" Level 5 Price 40
+
+Item "Rifle ammo clip (IMBEL/20)" Level 4 Price 20
+Item "Double rifle ammo clip (IMBEL/40)" Level 5 Price 40
+
+Item "Rifle ammo clip (CETME/20)" Level 4 Price 20
+Item "Rifle ammo clip (AR70/30)" Level 4 Price 40
+Item "Double rifle ammo clip (AR70/60)" Level 5 Price 80
+
+Item "Galil clip 5.56" Level 3 Price 35.0
+Item "Rifle ammo clip (SG542BLK/20)" Level 5 Price 40
+Item "Rifle ammo clip (SG542/20)" Level 5 Price 40
+Item "Double rifle ammo clip (SG542/40)" Level 6 Price 80
+Item "Double rifle ammo clip (SIG551/40)" Level 4 Price 80.0
+Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
+Item "Rifle ammo clip (SIG551/10)" Level 1 Price 40.0
+Item "Rifle ammo clip (SIG551/20)" Level 3 Price 40.0
+Item "Rifle ammo clip (SIG551/30)" Level 3 Price 50.0 
+Item "Double rifle ammo clip (SIG551/40)" Level 4 Price 80.0
+Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
+Item "Rifle ammo clip (SIG551OPAQUE/30)" Level 3 Price 50
+Item "Double rifle ammo clip (SIG551OPAQUE/60)" Level 4 Price 100
+Item "Rifle ammo clip (SIG551OPAQUEBLK/30)" Level 3 Price 50
+Item "Double rifle ammo clip (SIG551OPAQUEBLK/60)" Level 4 Price 100
+Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
+Item "Shotgun clip (MAG7/5)" Level 1 Price 40
 
 /////////========
 /////////MAGS
@@ -3442,7 +3785,7 @@ Item "Ammo box (FM7.62x51)" Level 5 Price 0.0001
 Item "Ammo box (M80)" Level 6 Price 0.0001
 Item "Ammo box (M993)" Level 8 Price 0.0001
 Item "Ammo box (7.62x51SP)" Level 4 Price 0.0001
-Item "Ammo box (7.62x51 SN)" Level 7 Price Level 4 0.0001
+Item "Ammo box (7.62x51 SN)" Level 7 Price 0.0001
 
 Item "Ammo box 500 HLA (7.62x51 SN)" Level 9 Price 100
 Item "Ammo Box 500 CoreLokt .308" Level 7 Price 100

@@ -2228,6 +2228,7 @@ fazer stats winchester 70 e outros hunting rifles
 6.8 spc mag clipped faltando
 verificar misc items nas shops, mines, helmets, launchers, attachments etc
 m16a4 e m16a2 LMG nerfar stats, estao iguais a m27 iar
+fazer T91 handle e colocar como "T65 Handle"
 
 PAREI TERMINANDO O TRADERTYPES STREET, COLOCAR MISC ITEMS
 
