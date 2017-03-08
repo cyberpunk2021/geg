@@ -11,6 +11,8 @@ Item	"Assault Rifle M4A1 CQB AG (.300 BLK)"	Level 6 Price			3200
 Item "Machinegun Madsen (308)" Level 3 Price 1000
 Item "Machinegun ammo clip (Madsen/30)" Level 1 Price 40
 
+Item "SIG550GL Standalone" Level 7 Price 1300
+
 Item "Assault Rifle SC2010 (7.62mm)" Level 11 Price 3800
 
 Item	"Pistol M.1911 A1 (.45 ACP)" Level 1 Price			570

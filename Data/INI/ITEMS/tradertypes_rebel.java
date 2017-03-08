@@ -698,6 +698,10 @@ Item "Ozm4_contact" Level 2 Price 320
 
 ////////////REBEL GUNS
 
+Item "Machinegun UKM2000" Level 11 Price 4300
+
+Item "GM94" Level 3 Price 1300
+
 Item	"SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price                  40.0
 Item	"SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price                  60.0
 Item	"SMG ammo drum (Thompson/50)" Level 1 Price 			100.0

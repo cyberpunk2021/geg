@@ -6,6 +6,8 @@
 
 ////WEAPONS FOR COPS
 
+Item "SIG550GL Standalone" Level 7 Price 1300
+
 Item	"Ammo box (Rubber)"	Level 1 Price			0.001
 Item "Ammo box 500 HLA (Rubber)" Level 1 Price 100
 

@@ -4,6 +4,11 @@
 
 //////////////SMUGGLER STUFF
 
+Item "Machinegun UKM2000" Level 11 Price 4300
+
+Item "SIG550GL Standalone" Level 7 Price 1300
+Item "GM94" Level 3 Price 1300
+
 Item "SMG ammo clip (CBJMS/30)" Level 2 Price 50
 Item "SMG ammo clip (CBJMS/100)" Level 3 Price 200
 

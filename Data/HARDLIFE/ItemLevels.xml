@@ -55,8 +55,8 @@
   <item level="3">Silencer Blackside (45 ACP)</item>
   <item level="5">Silencer CYCLONE-K (.300 BLK)</item>
   <item level="2">Silencer Ti-RANT 9mm</item>
+  <item level="2">USP45 threaded barrel</item>
   <item level="2">Silencer Tundra (9 mm Para)</item>
-  <item level="2">Taurus PT100 threaded barrel</item>
   <item level="5">Twin rifle ammo clip (Pl.300BLK/60)</item>
   <item level="5">Twin rifle ammo clip (Stl.300BLK/60)</item>
   <item level="3">Pistol Glock 20 (10mm)</item>
@@ -135,6 +135,7 @@
   <item level="3">SIG bipod folded</item>
   <item level="1">catty_eye</item>
   <item level="1">APS_butt</item>
+  <item level="1">M712_butt</item>
   <item level="1">Ammo box 7.62x25 Norinco</item>
   <item level="4">Assault Rifle Krinkov (7.62x39mm)</item>
   <item level="4">Assault Rifle Krinkov (7.62x39mm) folded</item>
@@ -317,6 +318,7 @@
   <item level="5">Collimator M68 CCO (M16)</item>
   <item level="8">F2000 Launcher</item>
   <item level="4">G36 bipod</item>
+  <item level="4">G3SG1 bipod</item>
   <item level="7">Optical Sight Hendsoldt G36E 3.5x (G36)</item>
   <item level="6">Optical Sight Hendsoldt G36E 1.5x (G36)</item>
   <item level="5">GP-30 (40mm VOG)</item>
@@ -337,10 +339,8 @@
   <item level="6">MP M203</item>
   <item level="7">Night Sight 1PN93-1 (AK)</item>
   <item level="8">Night Sight 1PN93-4 (Dragunov)</item>
-  <item level="8">Night Sight AN/PVS-4 (M16)</item>
   <item level="8">Night Sight AN/PVS-4 (WR)</item>
   <item level="8">Optical Sight (F2000)</item>
-  <item level="7">Optical Sight ACOG 4x32 (M16)</item>
   <item level="7">Optical Sight ACOG 4x32 (WR)</item>
   <item level="8">Optical Sight ZF Hensoldt 10x42 (MSG)</item>
   <item level="7">Optical Sight PSO1-M2 (Dragunov)</item>
@@ -353,7 +353,6 @@
   <item level="6">Silencer PBS-4 (5.45 mm)</item>
   <item level="1">Silencer PBS-4 (.22)</item>
   <item level="3">Sniper Bipod Series 1A2</item>
-  <item level="7">Std. Optical Sight (G11)</item>
   <item level="7">Supressor (5.56 mm)</item>
   <item level="3">Tactical Bipod TL-BP16</item>
   <item level="7">Tactical Light Module (F2000)</item>
@@ -754,10 +753,14 @@
   <item level="5">Carabine M1A Scout POLY (7.62x51mm)</item>
   <item level="11">Sniper Rifle M21 (7.62x51mm)</item>
   <item level="7">Optical Sight Leatherwood 3-9x (M14)</item>
+  <item level="8">Optical Sight SN-3 5-25x TPAL (WR)</item>
+  <item level="8">Optical Sight SN-3 5-25x TPAL (M14)</item>
   <item level="3">Carabine Mini14 (5.56mm)</item>
   <item level="2">Rifle ammo clip (Mini-14/10)</item>
+  <item level="4">Optical Sight Leupold Rifleman 3-9x (M24)</item>
   <item level="2">Rifle ammo clip (Mini-14/20)</item>
   <item level="3">Double rifle ammo clip (Mini-14/40)</item>
+  <item level="7">Optical Sight Leatherwood 3-9x (WR)</item>
   <item level="2">Rifle ammo clip (Mini-14/30)</item>
   <item level="3">Double rifle ammo clip (Mini-14/60)</item>
   <item level="4">Double rifle ammo clip (Mini-14/80)</item>
@@ -797,6 +800,7 @@
   <item level="4">Double rifle ammo clip (SIG551/60)</item>
   <item level="9">Assault Rifle SIG550 (5.56mm)</item>
   <item level="5">Assault Rifle SIG552 (5.56mm)</item>
+  <item level="5">Optical Sight Leupold VX-1 3-9x50 (WR)</item>
   <item level="10">Sniper Rifle SIG-550-1 Sniper (5.56mm)</item>
   <item level="2">Rifle Mosin_1944 (7.62x54mm)</item>
   <item level="1">Mosin_bayonet</item>
@@ -831,7 +835,7 @@
   <item level="10">Heavy Armor Bastion</item>
   <item level="9">Heavy Armor Predator</item>
   <item level="7">Tactical Armor SWAT</item>
-  <item level="3">Optical Sight PU</item>
+  <item level="1">Optical Sight PU</item>
   <item level="1">Pistol clip (Desert357)</item>
   <item level="8">Night Sight AN/PVS-4 (MP5)</item>
   <item level="4">Double SMG ammo clip (UMP45/50)</item>
@@ -989,9 +993,10 @@
   <item level="10">NSA80</item>
   <item level="10">KN250</item>
   <item level="9">Assault Rifle G36KE+AG36 (5.56mm)</item>
-  <item level="8">Night Sight Leatherwood 3-9x (M14)</item>
   <item level="4">Bomb60</item>
   <item level="8">Bomb82</item>
+  <item level="3">Mount dual clip (M16)</item>
+  <item level="3">Mount dual clip (MP5)</item>
   <item level="3">Fuze_muv</item>
   <item level="3">Fuze_mve72</item>
   <item level="3">Fuze_radio</item>
@@ -1098,8 +1103,8 @@
   <item level="10">Chain-gun HK21e (7.62x51mm)</item>
   <item level="9">Chain-gun HK23e TB (5.56x45mm)</item>
   <item level="9">Chain-gun HK23e (5.56x45mm)</item>
-  <item level="9">HK23 barrel</item>
-  <item level="9">HK21 barrel</item>
+  <item level="8">HK23 barrel</item>
+  <item level="7">HK21 barrel</item>
   <item level="8">Scar launcher</item>
   <item level="3">Scar_bipod</item>
   <item level="9">Assault Rifle SCAR-L CQC (5.56mm)</item>
@@ -1429,6 +1434,7 @@
   <item level="3">M16A2forestock</item>
   <item level="3">M16A2M203forestock</item>
   <item level="1">Mount (WR-Galil)</item>
+  <item level="3">Mount harris (WR)</item>
   <item level="3">Rifle M1 Garand (.30-06)</item>
   <item level="2">Ammo box (30-06)</item>
   <item level="4">Ammo box (30-06 Korean)</item>
@@ -4216,6 +4222,7 @@
   <item level="3">Docter Sight (WR)</item>
   <item level="4">Vision Plus Dot</item>
   <item level="5">Barska Red Dot</item>
+  <item level="2">Barska Red Dot</item>
   <item level="5">Leupold Prismatic (WR)</item>
   <item level="8">M26 Mass Reflex</item>
   <item level="4">FN SSR Reflex</item>
@@ -4300,13 +4307,14 @@
   <item level="7">Assault Rifle Daewoo DR200 RIS (5.56mm)</item>
   <item level="7">Assault Rifle Daewoo DR300 RIS (7.62mm)</item>
   <item level="1">Madsen Bipod</item>
+  <item level="3">QBUBipod</item>
   <item level="3">M96 Bayonet</item>
   <item level="1">Arisaka Bayonet</item>
   <item level="1">TrenchBayo</item>
   <item level="3">SA Vz.58 Bayonet</item>
   <item level="8">M302 (40mm)</item>
   <item level="3">MP7 Silencer</item>
-  <item level="3">10x42 Leupold Ultra M3A</item>
+  <item level="4">10x42 Leupold Ultra M3A</item>
   <item level="13">CheyTac Suppressor</item>
   <item level="9">MGL</item>
   <item level="6">Assault Rifle Imbel MD-4 (5.56mm)</item>
@@ -4350,7 +4358,7 @@
   <item level="5">QLG10 (35mm)</item>
   <item level="5">Optical Sight PO4x34 (QBZ)</item>
   <item level="6">Optical Sight PO6x39 (QBZ)</item>
-  <item level="5">Night Sight 1PN93-4 (QBZ)</item>
+  <item level="7">Night Sight 1PN93-4 (QBZ)</item>
   <item level="3">Pistol QSW06 (5.8)</item>
   <item level="3">35mm Smoke</item>
   <item level="4">35mm AB</item>

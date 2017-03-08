@@ -9,6 +9,8 @@ Item	"Military_sectret"					Level 16	Price	7700
 
 //////////
 
+Item "GM94" Level 3 Price 1300
+
 Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
 
 Item "Type66_contact" Level 3 Price 120

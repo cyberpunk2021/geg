@@ -2,31 +2,37 @@
 /////////TRADER MISC
 /////////==========================
 
+Item "SIG550GL Standalone" Level 7 Price 1300
+
 /////////+++++++++
 /////////RIS / STOCKS / KITS
 /////////+++++++++
 
-Item	"APS_butt"					30 
-Item	"APB_butt"					30 
-Item	"M712_butt"					150
+Item "RK71HG" Level 3 Price 30
+Item "RK71W2HG" Level 3 Price 30
+Item "DaewooHG" Level 4 Price 60
+Item "DaewooRIS" Level 4 Price 100
+
+Item "APS_butt" Level 1 Price 30 
+Item "APB_butt" Level 1 Price 30 
+Item "M712_butt" Level 1 Price 150
 
 // Mounts
-Item	"Tactical grip"					100
-Item	"MP5 butt A2"					50
-Item	"MP5 butt A3"					150
-Item	"MP5 forestock"					50
-Item	"MP5 forestock RIS"				150
-Item	"HK53 forestock"				150
-Item	"HK53 forestock RIS"			300
-Item	"Type81 forestock"				150
-Item	"Type81 forestock RIS"			300
-Item	"MC51 forestock"				150
-Item	"MC51 forestock RIS"			300
-Item	"Galil forestock"				100
-Item	"M4 forestock"					20
-Item	"M4 forestock RIS"				100
-Item	"M16A2forestock"				20
-Item	"M16A2M203forestock"			100
+Item "Tactical grip" Level 1 Price 100
+Item "MP5 butt A2" Level 2 Price 50
+Item "MP5 butt A3" Level 2 Price 150
+Item "MP5 forestock" Level 2 Price 50
+Item "MP5 forestock RIS" Level 2 Price 150
+Item "HK53 forestock" Level 3 Price 150
+Item "HK53 forestock RIS" Level 3 Price 300
+Item "Type81 forestock" Level 3 Price 150
+Item "Type81 forestock RIS" Level 3 Price 300
+Item "MC51 forestock" Level 3 Price 150
+Item "MC51 forestock RIS" Level 3 Price 300
+Item "M4 forestock" Level 3 Price 20
+Item "M4 forestock RIS" Level 3 Price 100
+Item "M16A2forestock" Level 3 Price 20
+Item "M16A2M203forestock" Level 3 Price 100
 
 // Kits
 Item "Steyr AUG A1 Kits" Level 10 Price 3000.0
@@ -35,119 +41,126 @@ Item "Groza Kits" Level 8 Price 3000.0
 Item "Scar Kits" Level 11 Price 2500.0
 
 // Merca RIS kits
-Item	"RIS kit (Mateba Model 6)"		100
-Item	"Stock kit (Mateba Model 6)"	100
-Item	"RIS kit (PP-90M1)"				100
-Item	"Stock kit (PP-90M1)"			100
-Item	"RIS kit (IMBEL M964A1)"		250
-Item	"Stock kit (IMBEL M964A1)"		250
-Item	"RIS kit (M1A)"					100
-Item	"Stock kit (M1A)"				100
+Item "RIS kit (Mateba Model 6)"	Level 2 Price	100
+Item "Stock kit (Mateba Model 6)"	Level 2 Price	100
+Item "RIS kit (PP-90M1)"	Level 2 Price				100
+Item "Stock kit (PP-90M1)"	Level 2 Price			100
+Item "RIS kit (IMBEL M964A1)"	Level 3 Price		250
+Item "Stock kit (IMBEL M964A1)"	Level 3 Price		250
+Item "RIS kit (M1A)"	Level 3 Price					100
+Item "Stock kit (M1A)"	Level 3 Price				100
 
 // Merca module kits
-Item	".300 AAC Blackout Kits"		4000
-Item	"AK Kit"						1500
-Item	"Contender Kit"					250
-Item	"CPW Kit"						500
-Item	"DPM/RP-46 Kit"					350
-Item	"Encore Kit"					250
-Item	"F2000 Kits"					1800
-Item	"Keltec Kits"					3200
-Item	"Groza Kits"					3000
-Item	"MPX Kit"						900
-Item	"MSBS Kit"						1500
-Item	"Scar Kits"						2500
-Item	"SPAS-12 Kits"					200
-Item	"Steyr AUG A1 Kits"				3000
-Item	"Steyr AUG A2 Kits"				3000
+Item ".300 AAC Blackout Kits" Level 6 Price 4000
+Item "Contender Kit" Level 1 Price 250
+Item "CPW Kit" Level 4 Price 500
+Item "DPM/RP-46 Kit" Level 3 Price 350
+Item "Encore Kit" Level 2 Price 250
+Item "F2000 Kits" Level 11 Price 1800
+Item "Keltec Kits" Level 9 Price 3200
+Item "Groza Kits" Level 8 Price 3000
+Item "MPX Kit" Level 4 Price 900
+Item "Scar Kits" Level 11 Price 2500
+Item "SPAS-12 Kits" Level 3 Price 200
+Item "Steyr AUG A1 Kits" Level 10 Price 3000
+Item "Steyr AUG A2 Kits" Level 10 Price 3000
 
 /////////+++++++++++++++++
 /////////CAMO KIT / CLEANING KIT
 /////////+++++++++++++++++
 
-Item	"Cleaning Kit"                                    250.0
-Item	"Camo Kit"                                        300.0
+Item "Cleaning Kit" Level 1 Price 250.0
+Item "Camo Kit" Level 3 Price 300.0
 
 /////////+++++++++++++++++
 /////////NV GOGGLES
 /////////+++++++++++++++++
 
-Item	"PVS-7B"						6500.0
+Item	"PVS-7B" Level 8 Price 6500.0
 
 /////////+++++++++++++++++
 /////////MG BARRELS
 /////////+++++++++++++++++
 
-Item	"HK21 barrel"						500
-Item	"HK23 barrel"						500
-Item	"M-60 barrel"                                     340.0
-Item	"Mk 46 Barrel"                                    500.0
-Item	"Mk 48 Barrel"                                    500.0
-Item	"Minimi Barrel"                                   510.0
-Item	"Minimi SPW Barrel"                               520.0
-Item	"PKM barrel"                                      270.0
+Item "HK21 barrel" Level 7 Price 500
+Item "HK23 barrel" Level 8 Price 500
+Item "M-60 barrel" Level 10 Price 340.0
+Item "Mk 46 Barrel" Level 7 Price 500.0
+Item "Mk 48 Barrel" Level 7 Price 500.0
+Item "Minimi Barrel" Level 7 Price 510.0
+Item "Minimi SPW Barrel" Level 7 Price 520.0
+Item "PKM barrel" Level 7 Price 270.0
 
 /////////+++++++++++++++++
 /////////GLs / UNDER SHOTGUNS
 /////////+++++++++++++++++
 
-Item	"GP-30 (40mm VOG)"					1140
-Item	"M203B (40mm LV)" 					1400
-Item	"M203PI (40mm LV)" 					1600
-Item	"M203 AK (40mm LV)" 					1500
-Item	"IMC-40 (40mm LV)"					1700
-Item	"F2000 Launcher"					2000
-Item	"hk79 launcher"						1300
-Item	"Scar launcher"						2000
-Item	"MP M203"						1200
-Item	"ag36_launcher"						2000 
-Item	"Knight Masterkey Shotgun (12 ga)"			1100.0
-Item	"Knight Masterkey Shotgun AK (12 ga)"			1100.0
+Item "GP-30 (40mm VOG)" Level 5 Price 1140
+Item "M203B (40mm LV)" Level 6 Price 1400
+Item "M203PI (40mm LV)" Level 5 Price 1600
+Item "M203 AK (40mm LV)" Level 6 Price 1500
+Item "IMC-40 (40mm LV)" Level 5 Price 1700
+Item "F2000 Launcher" Level 8 Price 2000
+Item "hk79 launcher" Level 6 Price 1300
+Item "Scar launcher" Level 8 Price 2000
+Item "MP M203" Level 6 Price 1200
+Item "ag36_launcher" Level 7 Price 2000 
+Item "Knight Masterkey Shotgun (12 ga)" Level 6 Price 1100.0
+Item "Knight Masterkey Shotgun AK (12 ga)" Level 5 Price 1100.0
 
-Item "QLG91B (35mm)" 1000
-Item "QLG10A (35mm)" 1300
-Item "QLG10 (35mm)" 1200
+
+Item "SIG550 Launcher" Level 7 Price 1300
+Item "SIG551 Launcher" Level 6 Price 1100
+
+Item "M302 (40mm)" Level 8 Price 2000
+
+Item "QLG91B (35mm)" Level 5 Price 1000
+Item "QLG10A (35mm)" Level 5 Price 1300
+Item "QLG10 (35mm)" Level 5 Price 1200
 
 /////////+++++++++++++++++
 /////////THREADED BARREL
 /////////+++++++++++++++++
 
-Item	"Glock-17 threaded barrel"				200
-Item	"Glock-22 threaded barrel"				300
-Item	"Glock-21 threaded barrel"				400
-Item	"Taurus PT100 threaded barrel"				350
+Item "Glock-17 threaded barrel" Level 1 Price 200
+Item "Glock-22 threaded barrel" Level 2 Price 300
+Item "Glock-21 threaded barrel" Level 2 Price 400
+Item "USP45 threaded barrel" Level 2 Price 320
+Item "SR9 threaded barrel" Level 10 Price 300
+Item "HK21 threaded barrel" Level 10 Price 200
+Item "HK23 threaded barrel" Level 10 Price 100
 
 /////////+++++++++++++++++
 /////////SIGHTS
 /////////+++++++++++++++++
 
+Item "Docter Sight (Pistol)" Level 1 Price 150
 
-Item "Docter Sight (WR)" 200
-Item "Vision Plus Dot" 290
-Item "Barska Red Dot" 350
-Item "Leupold Prismatic (WR)" 320
-Item "M26 Mass Reflex" 440
-Item "FN SSR Reflex" 300
-Item "Aimpoint Micro" 370
-Item "C-MORE Red Dot" 390
-Item "Barska AC" 430
-Item "Kobra WR" 260
+Item "Docter Sight (WR)" Level 3 Price 200
+Item "Vision Plus Dot" Level 4 Price 290
+Item "Barska Red Dot" Level 5 Price 350
+Item "Leupold Prismatic (WR)" Level 5 Price 320
+Item "M26 Mass Reflex" Level 8 Price 440
+Item "FN SSR Reflex" Level 4 Price 300
+Item "Aimpoint Micro" Level 6 Price 370
+Item "C-MORE Red Dot" Level 8 Price 390
+Item "Barska AC" Level 9 Price 430
+Item "Kobra WR" Level 4 Price 260
 
-Item "CF05 Collimator" 140
+Item "CF05 Collimator" Level 2 Price 140
 
-Item "Optical Sight (QCQ)" 300
-Item "Optical Sight (QBU)" 800
+Item "Optical Sight (QCQ)" Level 3 Price 300
+Item "Optical Sight (QBU)" Level 7 Price 800
 
-Item	"Collimator EKP-8-02 'Cobra' (AK)"                	350
+Item "Collimator EKP-8-02 'Cobra' (AK)" Level 5 Price 350
 
-Item	"Collimator Aimpoint Comp M (WR)"                 	400
+Item "Collimator Aimpoint Comp M (WR)" Level 6 Price 400
 
-Item	"EOTech Holosight 552 (WR)"				470
-Item "PK AS Red Dot (AK)" 420
+Item "EOTech Holosight 552 (WR)" Level 6 Price 470
+Item "PK AS Red Dot (AK)" Level 6 Price 420
 
-Item	"Collimator AEK919K"				100.0
-Item	"Std. Optical Sight (G11)"			100.0
-Item	"Optical Sight PO4x34 (G)"			130.0
+Item "Collimator AEK919K" Level 2 Price 100.0
+
 
 
 
@@ -155,101 +168,132 @@ Item	"Optical Sight PO4x34 (G)"			130.0
 /////////ACOGS
 /////////+++++++++++++++++
 
-Item "Optical Sight Elcan 3.4x28 (C7)" 700
-Item "Optical Sight Elcan 3.4x28 (WR)" 700
-Item	"Optical Sight ACOG 4x32 (WR)"				800
-Item	"Magnifier"						1250
-Item	"Optical Sight SUSAT L9A1 (SA80)"                 	1000.0
+Item "Optical Sight PO4x34 (G)" Level 7 Price 130.0
+Item "Optical Sight Elcan 3.4x28 (C7)" Level 6 Price 700
+Item "Optical Sight Elcan 3.4x28 (WR)" Level 6 Price 700
+Item "Optical Sight ACOG 4x32 (WR)" Level 7 Price 800
+Item "Magnifier" Level 5 Price 1250
+Item "Optical Sight SUSAT L9A1 (SA80)" Level 6 Price 1000.0
 
-Item	"Groza GP"                                           300.0
+Item "Groza GP" Level 7 Price 300.0
 
-Item "Optical Sight PO4x34 (QBZ)" 100
-Item "Optical Sight PO6x39 (QBZ)" 400
+Item "Optical Sight PO4x34 (QBZ)" Level 5 Price 100
+Item "Optical Sight PO6x39 (QBZ)" Level 6 Price 400
 
 
 /////////+++++++++++++++++
 /////////SCOPES
 /////////+++++++++++++++++
 
-Item "Night Sight 1PN93-4 (QBZ)" 1500
+Item "Night Sight 1PN93-4 (QBZ)" Level 7 Price 1500
 
-Item "L42A1 Scope" 300
-Item "BFR Scope" 300
-Item "M84 Scope" 300
-Item "Zeiss ZF42" 250
-Item "Zeiss ZF4" 200
-Item "Optical Sight PU NEW" 300
-Item "Japanese Scope" 90
-Item "French Scope" 80
-Item "PKS07 optic" 200
-Item "Win 1886 Scope" 800
-Item "10x42 Leupold Ultra M3A" 500
-Item	"Optical Sight Leupold Mark 4 10x40 (M24)"        	1000
-Item	"Optical Sight Leupold Mark 4 10x40 (WR)"         	1050
+Item "L42A1 Scope" Level 1 Price 300
+Item "BFR Scope" Level 1 Price 300
+Item "M84 Scope" Level 1 Price 300
+Item "Zeiss ZF42" Level 1 Price 250
+Item "Zeiss ZF4" Level 1 Price 200
+Item "Optical Sight PU NEW" Level 1 Price 300
+Item "Japanese Scope" Level 1 Price 90
+Item "French Scope" Level 1 Price 80
+Item "PKS07 optic" Level 6 Price 200
+Item "10x42 Leupold Ultra M3A" Level 4 Price 500
+Item "Optical Sight Leupold Mark 4 10x40 (M24)" Level 7 Price 1000
+Item "Optical Sight Leupold Mark 4 10x40 (WR)" Level 8 Price 1050
 
-Item	"Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)"   	1100
-Item	"Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG L)" 	1100
-Item	"Optical Sight Leupold VX-1 3-9x50 (WR)"		600
-Item	"Optical Sight ZF Hensoldt 6x42 BL (SIG)"		1100
-Item	"Optical Sight Leatherwood 3-9x (M14)"            	500
-Item	"Optical Sight Leatherwood 3-9x (WR)"            	450
-Item	"Optical Sight SN-3 5-25x TPAL (WR)"			2300
-Item	"Optical Sight SN-3 5-25x TPAL (M14)"			2300
-Item	"Optical Sight Leupold Rifleman 3-9x (M24)"		300
+Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)" Level 8 Price 1100
+Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG L)" Level 8 Price 1100
+Item "Optical Sight Leupold VX-1 3-9x50 (WR)" Level 5 Price 600
+Item "Optical Sight ZF Hensoldt 6x42 BL (SIG)"	Level 7 Price	1100
+Item "Optical Sight Leatherwood 3-9x (M14)" Level 7 Price 500
+Item "Optical Sight Leatherwood 3-9x (WR)" Level 7 Price 450
+Item "Optical Sight SN-3 5-25x TPAL (WR)" Level 8 Price 1200
+Item "Optical Sight SN-3 5-25x TPAL (M14)" Level 8 Price 1200
+Item "Optical Sight Leupold Rifleman 3-9x (M24)" Level 4 Price 300
 
-Item	"Optical Sight L1A1 Schmidt und Bender (AW)"     	1500.0
-Item	"Optical Sight ZF Hendsoldt 6x42 (PSG)"   	        1500.0
-Item	"Optical Sight Nimrod 6x40 (Galatz)"			1500.0
+Item "Optical Sight L1A1 Schmidt und Bender (AW)" Level 11 Price 1500.0
+Item "Optical Sight ZF Hendsoldt 6x42 (PSG)" Level 6 Price 1500.0
+Item "Optical Sight Nimrod 6x40 (Galatz)" Level 7 Price 1500.0
 
-Item	"Optical Sight ZF Hensoldt 10x42 (MSG)"		  	2000.0
-Item	"Optical Sight (F2000)"                          	1100.0
+Item "Optical Sight ZF Hensoldt 10x42 (MSG)" Level 8 Price 2000.0
+Item "Optical Sight (F2000)" Level 8 Price 1100.0
 
-Item	"Night Sight AN/PVS-4 (WR)"                       	2750
+Item "Night Sight AN/PVS-4 (WR)" Level 8 Price 2750
 
-Item	"Optical Sight PSO1-M2 (Dragunov)"              	350.0
-Item	"Optical Sight PSO1-M2-02 (AK)"                  	350.0
-Item	"Optical Sight PO6x39 (SVD)"				500
-Item	"Optical Sight PU"                                	250
-Item	"Optical Sight Zrak M89 (Z)"                      	250
-Item	"Optical Sight ON-M76 4x" 	                     	300
-Item	"Optical Sight ON-M91 6x42"                      	450
-Item	"Optical Sight 1P69 Giperon (WR)"                 	500
-Item	"Night Sight 1PN93-1 (AK)"                        1850
-Item	"Night Sight 1PN93-4 (Dragunov)"                  	1850
+Item "Optical Sight PSO1-M2 (Dragunov)" Level 7 Price 350.0
+Item "Optical Sight PSO1-M2-02 (AK)" Level 7 Price 350.0
+Item "Optical Sight PO6x39 (SVD)" Level 8 Price 500
+Item "Optical Sight PU" Level 1 Price 250
+Item "Optical Sight Zrak M89 (Z)" Level 4 Price 250
+Item "Optical Sight ON-M76 4x" Level 4 Price 300
+Item "Optical Sight ON-M91 6x42" Level 5 Price 450
+Item "Optical Sight 1P69 Giperon (WR)" Level 10 Price 500
+Item "Night Sight 1PN93-1 (AK)" Level 7 Price 1850
+Item "Night Sight 1PN93-4 (Dragunov)" Level 8 Price 1850
 
-Item	"KN250"							3000 
-Item	"Night Sight 1P69 Giperon+KN250 (WR)"			3600 
-Item	"Night Sight L1A1 Schmidt und Bender+KN250 (AW)"	4550 
-Item	"Night Sight Leatherwood 3-9x (M14)"			3500 
-Item	"Night Sight Leatherwood 3-9x (WR)"			3450
+Item "KN250" Level 10 Price 3000 
 
-Item	"NSA80"							2000
+Item "NSA80" Level 10 Price 2000
 
 
 /////////+++++++++++++++++
 /////////LASERS
 /////////+++++++++++++++++
 
-Item	"Laser Aiming Module (Rifle)"                     270.0
-Item	"Laser Aiming Module (F2000)"                     350.0
-Item	"Tactical Light Module (F2000)"                   450.0
+Item	"Laser Aiming Module (Rifle)" Level 5 Price 270.0
+Item	"Laser Aiming Module (F2000)" Level 6 Price 350.0
+Item	"Tactical Light Module (F2000)" Level 7 Price 450.0
+Item "ANPEQ Laser" Level 7 Price 800
+Item "ANPEQ 15 Laser" Level 8 Price 1000
+Item "ANPEQ 15 Laser Black" Level 8 Price 1000
+Item "DBAL A2" Level 9 Price 1500
 
 /////////+++++++++++++++++
 /////////LIGHTS
 /////////+++++++++++++++++
 
-Item "Universal Tactical Light (Rifle)" 400
-Item "Universal Tactical Light Black (Rifle)" 400
+Item "Universal Tactical Light (Rifle)" Level 3 Price 400
+Item "Universal Tactical Light Black (Rifle)" Level 3 Price 400
 
-Item	"Insight M3 Tactical Flashlight (WR)"			70 
-Item	"Beamshot 5000S (WR)"					100 
-Item	"Surefire CUS Flashlight (WR)"				200 
-Item	"Surefire CUS IR-Laser Sight (WR)"			400 
-Item	"Surefire CUS Laser Sight (WR)"				300 
+Item "Insight M3 Tactical Flashlight (WR)" Level 1 Price 70 
+Item "Beamshot 5000S (WR)" Level 1 Price 100 
+Item "Surefire CUS Flashlight (WR)" Level 1 Price 200 
+Item "Surefire CUS IR-Laser Sight (WR)" Level 2 Price 400 
+Item "Surefire CUS Laser Sight (WR)" Level 1 Price 300 
+Item "MP5 Flashlight" Level 2 Price 100
 
 /////////+++++++++++++++++
 /////////SILENCER
 /////////+++++++++++++++++
+
+Item "Silencer PBS-4 (.22)" 500
+Item "GemtechM4-96D Suppressor (.22)" 500
+
+Item "Silencer (22 Para)" 150
+Item "Silencer (32 Para)" 300
+Item "Silencer (380 Para)" 500
+Item "Silencer (x21 Para)" 1000
+Item "Silencer (x21 QCW)" 1200
+Item "Silencer (.40 P99)" 1200
+Item "357 Silencer" 1100
+Item "10mm Silencer" 2000
+Item "Silencer (MAC/380)" 600
+Item "Silencer (CBJ Para)" 1700
+Item "Silencer (10mm)" 2000
+Item "7,62 Sniper Rifle Suppressor" 2250
+Item "M110_silencer" 1800
+Item "SVD Sniper Rifle Suppressor" 2200
+Item "Brenneke Sniper Rifle Suppressor" 3000
+Item ".300 Sniper Rifle Suppressor" 3200
+Item ".338 AAC Titan-Ti" 4000
+Item "Supressor (5.8 mm)" 1800
+Item "Supressor (6x35 mm)" 1600
+Item "Supressor (6.5 mm)" 2100
+Item ".50 Beo silencer" 3600
+Item "Ash 12.7 Silencer" 3800
+Item "Silencer PBS (9x39mm)" 1300
+Item "Suppressor (6.8x43 mm)" 2000
+Item "MP7 Silencer" 600
+Item "30-06 Silencer" 1200
 
 Item	"AEK919K_silencer"				330.0 
 Item	"Groza silencer"                                300.0
@@ -296,29 +340,23 @@ Item	"Suppressor ZA-N-M76"				1000
 /////////BIPODS
 /////////+++++++++++++++++
 
-Item "Type 89 Bipod" 50
-Item "SSG08 Bipod" 50
+Item "Type 89 Bipod" Level 3 Price 50
+Item "SSG08 Bipod" Level 3 Price 50
 
-Item "Stoner63 Bipod" 50
+Item "Stoner63 Bipod" Level 3 Price 50
 
-Item "Madsen Bipod" 50
-Item "Madsen Bipod Folded" 50
-Item "Big Ammo box Algeira (Magnum .44)" 100
-Item "QBUBipod" 50
+Item "Madsen Bipod" Level 1 Price 50
+Item "QBUBipod" Level 3 Price 50
 
-Item	"Tactical Bipod BM"					250
-Item	"Barret bipod"						150
-Item	"Sniper Bipod Series 1A2"                         250.0
-Item	"Harris Bipod WR"				300
-Item	"Tactical Bipod TL-BP16"                          200.0
-Item	"G36 bipod"                                         150.0
-Item	"L86_Bipod"                                       100.0
-Item	"L96A1 bipod"                                     150.0
-Item	"SV98 bipod"                                      150.0
+Item	"Tactical Bipod BM" Level 3 Price 250
+Item	"Sniper Bipod Series 1A2" Level 3 Price 250.0
+Item	"Harris Bipod WR" Level 3 Price 300
+Item	"Tactical Bipod TL-BP16" Level 3 Price 200.0
+Item	"G36 bipod" Level 4 Price 150.0
 
-Item	"G3SG1 bipod"                                        100.0
+Item	"G3SG1 bipod" Level 4 Price 100.0
 
-Item	"SIG bipod"					50
+Item	"SIG bipod" Level 3 Price 50
 
 /////////+++++++++++++++++
 /////////BAYONETS
@@ -344,33 +382,33 @@ Item "SA Vz.58 Bayonet" Level 3 Price 70
 /////////MOUNTS
 /////////+++++++++++++++++
 
-Item	"Mount (WR-Galil)"				100
-Item	"Mount (M16-WR)"				100
-Item	"Mount (WR-HK)"					100
-Item	"Mount (WR-M16)"				100
-Item	"Mount (WR-AK)"					100
-Item	"Mount (WR-M14)"				100
-Item	"Mount (WR-Mini14)"				100
-Item	"Mount (WR-SIG)"				100
-Item	"Mount harris (WR)"				100
-Item	"Mount TL (WR)"					100
-Item	"Mount TL (WR-Barrel)"			100
-Item	"Mount TL (WR-HK)"				100
-Item	"Mount dual clip (M16)"			50
-Item	"Mount dual clip (MP5)"			50
+Item "Mount (WR-Galil)" Level 1 Price 100
+Item "Mount (M16-WR)" Level 1 Price				100
+Item "Mount (WR-HK)" Level 1 Price					100
+Item "Mount (WR-M16)" Level 1 Price				100
+Item "Mount (WR-AK)" Level 1 Price					100
+Item "Mount (WR-M14)" Level 1 Price				100
+Item "Mount (WR-Mini14)" Level 1 Price				100
+Item "Mount (WR-SIG)" Level 1 Price				100
+Item "Mount harris (WR)" Level 3 Price				100
+Item "Mount TL (WR)" Level 1 Price					100
+Item "Mount TL (WR-Barrel)" Level 1 Price			100
+Item "Mount TL (WR-HK)" Level 1 Price				100
+Item "Mount dual clip (M16)" Level 3 Price 50
+Item "Mount dual clip (MP5)" Level 3 Price 50
 
 /////////+++++++++++++++++
 /////////HANDLES
 /////////+++++++++++++++++
 
-Item "M4A1 Handle" 25
-Item "SS2 Handle" 30
-Item "T65 Handle" 35
-Item "AR7090 Handle" 30
-Item	"G36 Handle"					   50.0
-Item	"M16 Handle"                                       25.0
-Item	"L85A2 Handle"                                     55.0
-Item	"G36 Handle"					   50.0
+Item "M4A1 Handle" Level 2 Price 25
+Item "SS2 Handle" Level 2 Price 30
+Item "T65 Handle" Level 2 Price 35
+Item "AR7090 Handle" Level 2 Price 30
+Item "G36 Handle" Level 3 Price 50.0
+Item "M16 Handle" Level 3 Price 25.0
+Item "L85A2 Handle" Level 5 Price 55.0
+Item "G36 Handle" Level 3 Price 50.0
 
 /////////+++++++++++++++++
 /////////BOMBS
@@ -396,6 +434,7 @@ Item "Offensive Hand Grenade M68" Level 6 Price 300
 Item "Defensive Hand Grenade M57" Level 7 Price 450
 Item "Offensive Hand Grenade V40" Level 2 Price 70
 Item "Offensive Hand Grenade Type 97" Level 2 Price 40
+Item "Defensive Hand Grenade DM51" Level 4 Price 300
 Item "Hand Grenade M24" Level 1 Price 50
 
 Item	"Smoke Hand Grenade AN-M8 HC" Level 1 Price 150.0
