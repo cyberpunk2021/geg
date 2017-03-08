@@ -17936,7 +17936,7 @@ IMAGE			"2x4.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Carabine M712 (7.63mm)"
-Class			Rifle
+Class			SMG
 Caliber			"7.62υ25 μμ"
 Weight			2330
 PrepareTime		0.28
@@ -32489,7 +32489,7 @@ ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Shotgun ammo clip (m870/7)"
 ACTOR			"Items\cbcpump_pgrip.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Shotgun CBC PUMP PGRIP LB (12ga)"
