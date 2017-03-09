@@ -257,7 +257,6 @@ Item "Pistol Llama Extra (Largo)" Level 1 Price 490
 
 Item "Pistol Astra 900 (Largo)" Level 1 Price 970
 Item "Pistol Star A Super (Largo)" Level 1 Price 320
-Item "Pistol Llama (Largo)" Level 1 Price 410
 
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
 Item "Pistol Browning-hp (9mm)" Level 1 Price 		420
@@ -335,7 +334,6 @@ Item "Submachine-gun K50M (7.62x25mm)" Level 3 Price 400
 Item "Submachine-gun M3A1 (9mm)" Level 2 Price 300
 
 
-Item "Submachine-gun Sten (9mm)" Level 2 Price 190
 Item "Carl Gustaf Kpist M45 (9mm)" Level 4 Price 780
 
 Item "MAT-49 (7.62x25)" Level 4 Price 700
@@ -453,13 +451,8 @@ Item "PackedHolsterBeltBox" Level 1 Price 334
 Item "PackedButtpackBox" Level 2 Price 167
 Item "PackedBigButtpackBox" Level 4 Price 417
 
-Item "Folded Razgr_smerch" Level 1 Price 100.0
-Item "Folded Ammo Belt" Level 1 Price 50
-Item "Folded Basic Belt" Level 1 Price 100
 Item "Folded Belt_02" Level 3 Price 120
 Item "Folded Belt_03" Level 2 Price 100
-Item "Folded Belt_04" Level 1 Price 5
-Item "Folded Ammo Cartouche6" Level 2 Price 50.0
 
 Item "Mauser Belt" Level 1 Price 300
 Item "APS Belt" Level 1 Price 150
@@ -471,8 +464,6 @@ Item "Case_Hard_Medium" Level 2 Price 200
 Item "Case_Hard_Small" Level 1 Price 200
 Item "Case_Soft_Camo" Level 1 Price 300
 Item "Case_Soft_Fabric" Level 1 Price 350
-Item "Case_Soft_Skin" Level 1 Price 200
-Item "Case_Soft_Small" Level 1 Price 150
 
 Item "TouristBag" Level 1 Price 100
 Item "Box_Wood_Empty" Level 1 Price 20
@@ -482,7 +473,6 @@ Item "Tactical Armor Vest M100" Level 1 Price 400
 Item "Helmet M1" Level 2 Price 150.0
 Item "Steel Helmet" Level 2 Price 100.0
 
-Item "Flask" Level 1 Price 70.0
 
 Item "Pen" Level 1 Price 2
 Item "Pencil" Level 1 Price 1
@@ -503,7 +493,6 @@ Item "Pistol clip (TT-33/8)" Level 1 Price 18.0
 Item "Pistol clip (PM/8)" Level 1 Price 15.0
 Item "Pistol clip (PMM/12)" Level 1 Price 45
 
-Item "Pistol clip (Mustang/6)" Level 1 Price 10
 Item "Pistol clip (BabyBrowning/6)" Level 1 Price 10
 Item "Pistol clip (Walther9/6)" Level 1 Price 12
 Item "Pistol clip (Sauer/8)" Level 1 Price 30
@@ -764,11 +753,9 @@ Item "Ammo box 500 (.45-70 Surplus)" Level 2 Price 100
 /////////
 
 Item "Ammo box (8mm FMJ BT)" Level 1 Price 0.001
-Item "Ammo box (7.92x57 HP)" Level 2 Price 0.001
 Item "Ammo box (7.92x57)" Level 2 Price 0.001
 Item "Ammo box (8mm SP)" Level 2 Price 0.001
 
-Item "BigAmmoBox (7.92x57 HP/200)" Level 3 Price 100
 Item "Ammo box 500 HLA (7.92x57)" Level 3 Price 100
 Item "Ammo box 500 HLA (8mm SP)" Level 2 Price 100
 Item "Ammo box 500 HLA (8mm FMJ BT)" Level 3 Price 100

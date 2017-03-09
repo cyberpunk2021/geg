@@ -58,12 +58,8 @@ Item "DPM/RP-46 Kit" Level 3 Price 350
 Item "Encore Kit" Level 2 Price 250
 Item "F2000 Kits" Level 11 Price 1800
 Item "Keltec Kits" Level 9 Price 3200
-Item "Groza Kits" Level 8 Price 3000
 Item "MPX Kit" Level 4 Price 900
-Item "Scar Kits" Level 11 Price 2500
 Item "SPAS-12 Kits" Level 3 Price 200
-Item "Steyr AUG A1 Kits" Level 10 Price 3000
-Item "Steyr AUG A2 Kits" Level 10 Price 3000
 
 /////////+++++++++++++++++
 /////////CAMO KIT / CLEANING KIT
@@ -408,7 +404,6 @@ Item "AR7090 Handle" Level 2 Price 30
 Item "G36 Handle" Level 3 Price 50.0
 Item "M16 Handle" Level 3 Price 25.0
 Item "L85A2 Handle" Level 5 Price 55.0
-Item "G36 Handle" Level 3 Price 50.0
 
 /////////+++++++++++++++++
 /////////BOMBS
@@ -636,18 +631,6 @@ Item "PackedVeryBigButtpackBox" Level 6 Price 667
 Item "Packed60MortarBox" Level 4 Price 1167
 Item "Packed82MortarBox" Level 8 Price 2000
 
-Item "PackedMetalPlateBox" Level 6 Price 834
-Item "PackedMetalPlateStrongBox" Level 7 Price 1000
-Item "PackedCeramicPlateBox" Level 7 Price 667
-Item "PackedCeramicPlateStrongBox" Level 8 Price 1167
-Item "PackedBasicBeltBox" Level 1 Price 167
-Item "PackedHolsterBeltBox" Level 1 Price 334
-Item "PackedTacticalBeltBox" Level 7 Price 800
-Item "PackedButtpackBox" Level 2 Price 167
-Item "PackedBigButtpackBox" Level 4 Price 417
-Item "PackedVeryBigButtpackBox" Level 6 Price 667
-Item "Packed60MortarBox" Level 4 Price 1167
-Item "Packed82MortarBox" Level 8 Price 2000
 
 /////////+++++++++
 /////////BAGS
@@ -867,7 +850,6 @@ Item "Smoke_serpent" Level 1 Price 5
 //SPARE PARTS
 Item "Wood_plate"					Level 1		Price 30
 Item "Tape"						Level 1		Price 5
-Item "Wire"						Level 1		Price 40
 Item "Car_belt"					Level 1		Price 500
 Item "Car_can5_empty"				Level 1		Price 30
 Item "Car_can5"					Level 1		Price 250

@@ -426,8 +426,6 @@ Item "Assault Rifle MD65 (7.62x39mm)" Level 6 Price 1100
 
 Item "Assault Rifle MD90 (7.62x39mm)" Level 5 Price 900
 Item "Assault Rifle MD90 LB (7.62x39mm)" Level 7 Price 1300
-Item "Assault Rifle MD86C (5.45x39mm)" Level 5 Price 1000
-Item "Assault Rifle MD86 (5.45x39mm)" Level 6 Price 1400
 Item "Assault Rifle Type56-1 Y (7.62x39mm)" Level 5 Price 600
 Item "Assault Rifle Type 56 Y (7.62x39mm)" Level 5 Price 600
 
@@ -578,11 +576,9 @@ Item "VOG-25P"	Level 4 Price 75.0
 Item "Backpack" Level 3 Price 850.0
 Item "Backpack_tactic" Level 7 Price 1000.0
 
-Item "APS Belt" Level 1 Price 150
 
 Item "Groza Kits" Level 8 Price 3000.0
 
-Item "Flask" Level 1 Price 70.0
 
 Item "Bayonet (East)" Level 2 Price 50.0
 Item "Bayonet (QBZ)" Level 2 Price 50
@@ -729,7 +725,6 @@ Item "PackedAmmoBox Palinero (9x18/500)" Level 1 Price 240
 Item "PackedAmmoBox Palinero (12ga/200)" Level 1 Price 324
 Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
 Item "PackedAmmoBox Palinero (5.45x39/500)" Level 3 Price 480
-Item "PackedAmmoBox Palinero (7.62x39/500)" Level 3 Price 274
 Item "PackedAmmoBox Palinero (7.62x54R/500)" Level 1 Price 720
 Item "PackedAmmoBox Palinero (9x39/500)" Level 4 Price 960
 Item "PackedAmmoBox Norinco (7.62x39/500)" Level 4 Price 303

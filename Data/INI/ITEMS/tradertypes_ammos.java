@@ -339,7 +339,6 @@ Item "Ammo box (N4 Buckshot MAG7)" Level 2 Price 0.001
 Item "Ammo box (Flechette MAG7)" Level 3 Price 0.001
 Item "Ammo box 500 (00 Buckshot MAG7)" Level 2 Price 100
 Item "Ammo box 500 (N4 Buckshot MAG7)" Level 3 Price 100
-Item "Ammo box (Flechette MAG7)" Level 4 Price 100
 
 /////////
 //12 GAUGE

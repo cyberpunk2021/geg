@@ -1078,30 +1078,11 @@ Item "PackedAmmoBox Algeira (.338 Lapua/500)" Level 9 Price 1772
 Item "BigWoodBoxGovCarbine" Level 5 Price 4000
 Item "BigWoodBoxNorincoCQ" Level 7 Price 4250
 Item "BigWoodBoxNorincoCQCIV" Level 5 Price 3500
-Item "BigWoodBoxSIG540" Level 6 Price 5000
-Item "BigWoodBoxSIG542" Level 7 Price 6625
 
 
-Item "PackedCamoBox" Level 3 Price 3000
-Item "PackedCleaningKitBox" Level 1 Price 1667
-Item "PackedContactFuzeBox" Level 1 Price 1000
-Item "PackedRadioFuzeBox" Level 3 Price 2000
 Item "PackedRationBox" Level 1 Price 1120
 
-Item "PackedMolleVestBox" Level 7 Price 1167
 
-Item "PackedMetalPlateBox" Level 6 Price 834
-Item "PackedMetalPlateStrongBox" Level 7 Price 1000
-Item "PackedCeramicPlateBox" Level 7 Price 667
-Item "PackedCeramicPlateStrongBox" Level 8 Price 1167
-Item "PackedBasicBeltBox" Level 1 Price 167
-Item "PackedHolsterBeltBox" Level 1 Price 334
-Item "PackedTacticalBeltBox" Level 7 Price 800
-Item "PackedButtpackBox" Level 2 Price 167
-Item "PackedBigButtpackBox" Level 4 Price 417
-Item "PackedVeryBigButtpackBox" Level 6 Price 667
-Item "Packed60MortarBox" Level 4 Price 1167
-Item "Packed82MortarBox" Level 8 Price 2000
 
 Item "Box_Wood_Empty" Level 1 Price 20
 Item "Box_Ammunition" Level 1 Price 300
@@ -1234,7 +1215,6 @@ Item "Pistol clip (HK45/10)" Level 1 Price 20
 Item "Pistol clip (HK45C/10)" Level 1 Price 20
 
 
-Item "Pistol clip (CZ 75 Shadow/18)" Level 1 Price 15
 Item "Pistol clip (USP/12)" Level 1 Price                                70.0
 
 Item "Pistol clip (USP/15)" Level 1 Price 			45.0
@@ -1287,7 +1267,6 @@ Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
 Item "Pistol clip (P5/8)" Level 1 Price 20
 Item "Pistol clip (BP18/16)" Level 1 Price 45
 Item "Pistol clip (BR1911Xodo9mm/16)" Level 1 Price 30
-Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
 Item "Pistol clip (BR1911Xodo45/14)" Level 1 Price 20
 Item "Pistol clip (BR19119mm/16)" Level 1 Price 15
 Item "Pistol clip (BR191145/14)" Level 1 Price 20
@@ -1366,8 +1345,6 @@ Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
 Item "Rifle ammo clip (SIG551/10)" Level 1 Price 40.0
 Item "Rifle ammo clip (SIG551/20)" Level 3 Price 40.0
 Item "Rifle ammo clip (SIG551/30)" Level 3 Price 50.0
-Item "Double rifle ammo clip (SIG551/40)" Level 4 Price 80.0
-Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
 Item "Rifle ammo clip (SIG551OPAQUE/30)" Level 3 Price 50
 Item "Double rifle ammo clip (SIG551OPAQUE/60)" Level 4 Price 100
 Item "Rifle ammo clip (SIG551OPAQUEBLK/30)" Level 3 Price 50
@@ -1390,22 +1367,17 @@ Item "Ammo box (30-06)" Level 2 Price 0.001
 Item "Big Ammo box (5.56)" Level 2 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo box (10mm SP)" Level 1 Price 0.001
-Item "PackedAmmoBox Algeira (10mm/500)" Level 2 Price 600
 
 Item "Ammo box (.300 Rem 220grn)" Level 2 Price 0.001
-Item "PackedAmmoBox Algeira (300 BLK/500)" Level 3 Price 1632
 
 Item "Ammo box 6.8x43 FMJ" Level 3 Price 0.001
 
-Item "PackedAmmoBox Algeira (6.8 SPC/500)" Level 4 Price 1056
 
 Item "Ammo box (.300 WM SP)" Level 6 Price 0.001
 
-Item "PackedAmmoBox Algeira (.300 WM/500)" Level 7 Price 1240
 
 Item "Ammo box Surplus (Lapua/20)" Level 8 Price 0.001
 
-Item "PackedAmmoBox Algeira (.338 Lapua/500)" Level 9 Price 1772
 
 /////////
 //5.7
