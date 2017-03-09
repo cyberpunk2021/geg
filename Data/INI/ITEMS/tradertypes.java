@@ -2,23 +2,23 @@
 /////////Street trader guns
 /////////==========================
 
-Item	"SMG ammo clip (AEK919K/20)" Level 1 Price 20.0
-Item	"SMG ammo clip (AEK919K/30)" Level 1 Price 30.0 
-Item	"SMG ammo clip (VZ82/10)" Level 1 Price 20.0
-Item	"SMG ammo clip (VZ82/20)" Level 1 Price 40.0
+Item "SMG ammo clip (AEK919K/20)" Level 1 Price 20.0
+Item "SMG ammo clip (AEK919K/30)" Level 1 Price 30.0
+Item "SMG ammo clip (VZ82/10)" Level 1 Price 20.0
+Item "SMG ammo clip (VZ82/20)" Level 1 Price 40.0
 
-Item	"Submachine-gun AEK919K (9x18mm)" Level 2 Price 900.0
+Item "Submachine-gun AEK919K (9x18mm)" Level 2 Price 900.0
 
 Item "Submachine-gun Kiparis (9mm)" Level 3 Price 1200
 Item "SMG ammo clip (Kiparis/30)" Level 1 Price 40
 
 Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
-Item	"Rifle ammo clip (Dragunov/10)"	Level 3 Price	20.0
-Item	"Sniper Rifle Zastava M-91 (7.62x54mm)" Level 8 Price 3000
+Item "Rifle ammo clip (Dragunov/10)"	Level 3 Price	20.0
+Item "Sniper Rifle Zastava M-91 (7.62x54mm)" Level 8 Price 3000
 Item "Sniper Rifle Norinco EM352 (7.62x51mm)" Level 8 Price 2300
-Item	"Sniper Rifle Norinco NDM86 (7.62x51mm)" Level 8 Price	2300
-Item	"Sniper Rifle Zastava M76 (7.92x57mm)"	Level 8 Price	2800
+Item "Sniper Rifle Norinco NDM86 (7.62x51mm)" Level 8 Price	2300
+Item "Sniper Rifle Zastava M76 (7.92x57mm)"	Level 8 Price	2800
 
 Item "Sniper Rifle PSL (7.62x54mm)" Level 7 Price 2900
 Item "Rifle ammo clip (PSL/10)" Level 5 Price 40
@@ -26,10 +26,10 @@ Item "Sniper Rifle Norinco NDM86 (7.62x54)" Level 8 Price 2400
 Item "Sniper Rifle Norinco EM352 (7.62x54)" Level 8 Price 2400
 Item "Rifle ammo clip (EM352/10)" Level 5 Price 20
 
-Item	"Rifle ammo clip (Norinco/10)" Level 3 Price 20
+Item "Rifle ammo clip (Norinco/10)" Level 3 Price 20
 Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
 
-Item	"Carabine M59 (7.62x39mm)"	Level 3 Price			700
+Item "Carabine M59 (7.62x39mm)"	Level 3 Price			700
 
 Item "Submachine-gun Calico M950 (9mm)" Level 3 Price 1000
 Item "Carabine Calico M900 (9mm)" Level 4 Price 1100
@@ -157,13 +157,12 @@ Item "Pistol Llama Extra (Largo)" Level 1 Price 490
 
 Item "Pistol Astra 900 (Largo)" Level 1 Price 970
 Item "Pistol Star A Super (Largo)" Level 1 Price 320
-Item "Pistol Llama (Largo)" Level 1 Price 410
 
 Item "Pistol NP-58 (.40)" Level 1 Price 600
 
 Item "Pistol Kahr K40 (.40)" Level 1 Price 470
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
-Item	"Pistol Browning-hp (9mm)" Level 1 Price 		420
+Item "Pistol Browning-hp (9mm)" Level 1 Price 		420
 Item "Pistol Jericho (9mm)" Level 2 Price 690
 Item "Pistol Jericho W (9mm)" Level 2 Price 690
 
@@ -206,7 +205,6 @@ Item "Revolver Taurus 44 Stainless (.44 Magnum)" Level 3 Price 600
 Item "Revolver Taurus 44 Blue (.44 Magnum)" Level 3 Price 550
 Item "Revolver Taurus 65 Stainless (.357 Magnum)" Level 3 Price 450
 Item "Revolver Taurus 608 (.357 Magnum)" Level 1 Price 900
-Item "Revolver Taurus 850 (.38 Special)" Level 1 Price 400
 
 
 
@@ -332,7 +330,6 @@ Item "Shotgun TOZ 87 (12ga)" Level 2 Price 500
 Item "Shotgun Remington 11-87 SB (12ga)" Level 2 Price 900
 Item "Mossberg 500 v2" Level 1 Price 300
 Item "Shotgun CoachGun (20ga)" Level 1 Price 160
-Item "Sgun2Bs (20ga)" Level 1 Price 80
 Item "Sgun2Bs (20ga)" Level 1 Price 80
 Item "ScatterGun" Level 1 Price 140
 Item "ScatterGun 20ga" Level 1 Price 120
@@ -577,12 +574,10 @@ Item "rpg-2" Level 2 Price 600
 Item "Launcher RPG-7 Type 69" Level 4 Price 750
 Item "rpg-2 Type 56" Level 1 Price 450
 
-Item	"Case_Soft_Skin" Level 1 Price 200
-Item	"Case_Soft_Small" Level 1 Price 150
-Item "Case_Guitar" Level 1 Price 150
-Item "Case_Soft_Fabric" Level 1 Price 350
 Item "Case_Soft_Skin" Level 1 Price 200
 Item "Case_Soft_Small" Level 1 Price 150
+Item "Case_Guitar" Level 1 Price 150
+Item "Case_Soft_Fabric" Level 1 Price 350
 Item "Folded VestNew" Level 3 Price 200.0
 Item "Folded Razgr_smerch" Level 1 Price 100.0
 
@@ -596,26 +591,26 @@ Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
 
 Item "Backpack_tourist" Level 1 Price 780.0
 
-Item	"Tactical Armor Vest M200" Level 3 Price 600.0
-Item	"Tactical Armor Vest M100" Level 1 Price 400
-Item	"Tactical Armor Vest M300" Level 5 Price 800
+Item "Tactical Armor Vest M200" Level 3 Price 600.0
+Item "Tactical Armor Vest M100" Level 1 Price 400
+Item "Tactical Armor Vest M300" Level 5 Price 800
 
-Item	"Helmet M1" Level 2 Price 150.0
-Item	"Steel Helmet" Level 2 Price 100.0
+Item "Helmet M1" Level 2 Price 150.0
+Item "Steel Helmet" Level 2 Price 100.0
 
-Item	"Field Paramedic Kit" Level 1 Price 30.0
-Item	"Field Paramedic Kit1" Level 1 Price 50
+Item "Field Paramedic Kit" Level 1 Price 30.0
+Item "Field Paramedic Kit1" Level 1 Price 50
 
 Item "Field Paramedic Kit2"	Level 2 Price 340.0
 Item "Field Paramedic Kit3"	Level 3 Price 520.0
 
 
-Item	"Food_m_beef" Level 1 Price 60
-Item	"Food_m_mutton" Level 1 Price 60
-Item	"Food_m_pork" Level 1 Price 60
+Item "Food_m_beef" Level 1 Price 60
+Item "Food_m_mutton" Level 1 Price 60
+Item "Food_m_pork" Level 1 Price 60
 
-Item	"Canteen_st1" Level 1 Price 30
-Item	"Canteen_st2" Level 2 Price 80
+Item "Canteen_st1" Level 1 Price 30
+Item "Canteen_st2" Level 2 Price 80
 
 Item "Machete" Level 1 Price 50
 Item "Cuchillo" Level 1 Price 30.0
@@ -681,13 +676,9 @@ Item "BigWoodBoxSIG540" Level 6 Price 5000
 Item "BigWoodBoxSIG542" Level 7 Price 6625
 
 Item "BigWoodBoxBizon" Level 3 Price 5500
-Item	"BigWoodBoxAKM"	Level 5 Price 2000						
-Item	"BigWoodBoxAKMN" Level 6 Price			2500
-Item	"BigWoodBoxAK103"	Level 9 Price		6500
-Item "BigWoodBoxType56" Level 5 Price 1500
-Item "BigWoodBoxType56i" Level 5 Price 1500
-Item "BigWoodBoxType56ii" Level 6 Price 2500
-
+Item "BigWoodBoxAKM"	Level 5 Price 2000
+Item "BigWoodBoxAKMN" Level 6 Price			2500
+Item "BigWoodBoxAK103"	Level 9 Price		6500
 Item "BigWoodBoxKiparis" Level 3 Price 3000
 
 
@@ -695,7 +686,7 @@ Item "BigWoodBoxKiparis" Level 3 Price 3000
 /////////MAGS
 /////////========
 
-Item	"Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
+Item "Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
 
 Item "Calico clip (Calico/50)" Level 2 Price 100.0
 Item "Calico clip (Calico/100)" Level 3 Price 200.0
@@ -777,7 +768,6 @@ Item "Pistol clip (K40/14)" Level 1 Price 30
 Item "Pistol clip (P5/8)" Level 1 Price 20
 Item "Pistol clip (BP18/16)" Level 1 Price 45
 Item "Pistol clip (BR1911Xodo9mm/16)" Level 1 Price 30
-Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
 Item "Pistol clip (BR1911Xodo45/14)" Level 1 Price 20
 Item "Pistol clip (BR1911Xodo/14)" Level 1 Price 20
 Item "Pistol clip (SW908/8)" Level 1 Price 45
@@ -835,10 +825,8 @@ Item "SMG ammo clip (Sten/32)" Level 1 Price 10
 Item "SMG ammo clip (M45/36)" Level 1 Price 50
 Item "SMG ammo clip (INA9/32)" Level 1 Price 45
 Item "SMG ammo clip (INA45/30)" Level 1 Price 50
-Item "Double smg ammo clip (VZ82/20)" Level 2 Price 25.0 
+Item "Double smg ammo clip (VZ82/20)" Level 2 Price 25.0
 Item "Double smg ammo clip (VZ82/40)" Level 2 Price 50.0
-Item "SMG ammo clip (VZ82/10)" Level 1 Price 20.0
-Item "SMG ammo clip (VZ82/20)" Level 1 Price 40.0
 Item "kedr clip" Level 1 Price  32
 Item "SMG ammo clip (VZ61/20)" Level 1 Price 30
 Item "SMG ammo clip (PPS/35)" Level 1 Price 20
@@ -863,7 +851,7 @@ Item "Rifle ammo clip (Mini-68/40)" Level 4 Price 55
 Item "Double rifle ammo clip (Mini-68/80)" Level 5 Price 90
 Item "Rifle ammo clip (M14/10)" Level 3 Price 30.0
 Item "Rifle ammo clip (M14/20)" Level 3 Price 40.0
-Item "Double rifle ammo clip (M14/40)" Level 4 Price 80.0 
+Item "Double rifle ammo clip (M14/40)" Level 4 Price 80.0
 Item "Rifle ammo clip (AK 7.62/30)" Level 3 Price 8.0
 Item "Plastic rifle ammo clip (AK 7.62/30)" Level 5 Price 10.0
 Item "Rifle ammo clip (AK 7.62/40)" Level 4 Price 15.0
@@ -942,14 +930,12 @@ Item "Double rifle ammo clip (SIG551/40)" Level 4 Price 80.0
 Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
 Item "Rifle ammo clip (SIG551/10)" Level 1 Price 40.0
 Item "Rifle ammo clip (SIG551/20)" Level 3 Price 40.0
-Item "Rifle ammo clip (SIG551/30)" Level 3 Price 50.0 
-Item "Double rifle ammo clip (SIG551/40)" Level 4 Price 80.0
-Item "Double rifle ammo clip (SIG551/60)" Level 4 Price 100.0
+Item "Rifle ammo clip (SIG551/30)" Level 3 Price 50.0
 Item "Rifle ammo clip (SIG551OPAQUE/30)" Level 3 Price 50
 Item "Double rifle ammo clip (SIG551OPAQUE/60)" Level 4 Price 100
 Item "Rifle ammo clip (SIG551OPAQUEBLK/30)" Level 3 Price 50
 Item "Double rifle ammo clip (SIG551OPAQUEBLK/60)" Level 4 Price 100
-Item "Machinegun box (RPD/100)" Level 5 Price 100.0   
+Item "Machinegun box (RPD/100)" Level 5 Price 100.0
 Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
 
 Item "Shotgun clip (MAG7/5)" Level 1 Price 40
@@ -1083,29 +1069,29 @@ Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
 
 
 //MERCHANDISE BLOCK
-Item	"Caja con pornografia"					Level 16	Price	16000
-Item	"vino caro"						Level 16	Price	41000
-Item	"Caja con medicamentos"					Level 16	Price	12500
+Item "Caja con pornografia"					Level 16	Price	16000
+Item "vino caro"						Level 16	Price	41000
+Item "Caja con medicamentos"					Level 16	Price	12500
 
 //PURCHASE
-Item	"Confidencial"						Level 16	Price	2625
-Item	"Confidencial_Pali"						Level 16	Price	2625
-Item	"Military_sectret"					Level 16	Price	3850
-Item	"Rosario_envelope"					Level 16	Price	7700
-Item	"Smartphone"						Level 16	Price	7700
-Item	"Harold_Haroldson"					Level 16	Price	3500
-Item	"Exploration_report"					Level 16	Price	7700
-Item	"Some_drugs"						Level 16	Price	3333
-Item	"Money_euro20"						Level 16	Price	4100
-Item	"Money_euro100"						Level 16	Price	41000
-Item	"Money_euro500"						Level 16	Price	205000
+Item "Confidencial"						Level 16	Price	2625
+Item "Confidencial_Pali"						Level 16	Price	2625
+Item "Military_sectret"					Level 16	Price	3850
+Item "Rosario_envelope"					Level 16	Price	7700
+Item "Smartphone"						Level 16	Price	7700
+Item "Harold_Haroldson"					Level 16	Price	3500
+Item "Exploration_report"					Level 16	Price	7700
+Item "Some_drugs"						Level 16	Price	3333
+Item "Money_euro20"						Level 16	Price	4100
+Item "Money_euro100"						Level 16	Price	41000
+Item "Money_euro500"						Level 16	Price	205000
 
 ////PURCHASE
-Item	"Pistol Colt Delta Elite (10mm)"			Level 16	Price	3750
-Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
-Item	"Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
-Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	10000
-Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
+Item "Pistol Colt Delta Elite (10mm)"			Level 16	Price	3750
+Item "AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
+Item "Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
+Item "Pistol Springfield Golden (.45 ACP)"			Level 16	Price	10000
+Item "Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
 
 /////////+++++++++
 /////////SMUGGLE OBJECTS BUYER

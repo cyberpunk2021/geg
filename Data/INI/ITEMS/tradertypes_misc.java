@@ -13,8 +13,8 @@ Item "RK71W2HG" Level 3 Price 30
 Item "DaewooHG" Level 4 Price 60
 Item "DaewooRIS" Level 4 Price 100
 
-Item "APS_butt" Level 1 Price 30 
-Item "APB_butt" Level 1 Price 30 
+Item "APS_butt" Level 1 Price 30
+Item "APB_butt" Level 1 Price 30
 Item "M712_butt" Level 1 Price 150
 
 // Mounts
@@ -76,7 +76,7 @@ Item "Camo Kit" Level 3 Price 300.0
 /////////NV GOGGLES
 /////////+++++++++++++++++
 
-Item	"PVS-7B" Level 8 Price 6500.0
+Item "PVS-7B" Level 8 Price 6500.0
 
 /////////+++++++++++++++++
 /////////MG BARRELS
@@ -104,7 +104,7 @@ Item "F2000 Launcher" Level 8 Price 2000
 Item "hk79 launcher" Level 6 Price 1300
 Item "Scar launcher" Level 8 Price 2000
 Item "MP M203" Level 6 Price 1200
-Item "ag36_launcher" Level 7 Price 2000 
+Item "ag36_launcher" Level 7 Price 2000
 Item "Knight Masterkey Shotgun (12 ga)" Level 6 Price 1100.0
 Item "Knight Masterkey Shotgun AK (12 ga)" Level 5 Price 1100.0
 
@@ -230,7 +230,7 @@ Item "Optical Sight 1P69 Giperon (WR)" Level 10 Price 500
 Item "Night Sight 1PN93-1 (AK)" Level 7 Price 1850
 Item "Night Sight 1PN93-4 (Dragunov)" Level 8 Price 1850
 
-Item "KN250" Level 10 Price 3000 
+Item "KN250" Level 10 Price 3000
 
 Item "NSA80" Level 10 Price 2000
 
@@ -239,9 +239,9 @@ Item "NSA80" Level 10 Price 2000
 /////////LASERS
 /////////+++++++++++++++++
 
-Item	"Laser Aiming Module (Rifle)" Level 5 Price 270.0
-Item	"Laser Aiming Module (F2000)" Level 6 Price 350.0
-Item	"Tactical Light Module (F2000)" Level 7 Price 450.0
+Item "Laser Aiming Module (Rifle)" Level 5 Price 270.0
+Item "Laser Aiming Module (F2000)" Level 6 Price 350.0
+Item "Tactical Light Module (F2000)" Level 7 Price 450.0
 Item "ANPEQ Laser" Level 7 Price 800
 Item "ANPEQ 15 Laser" Level 8 Price 1000
 Item "ANPEQ 15 Laser Black" Level 8 Price 1000
@@ -254,11 +254,11 @@ Item "DBAL A2" Level 9 Price 1500
 Item "Universal Tactical Light (Rifle)" Level 3 Price 400
 Item "Universal Tactical Light Black (Rifle)" Level 3 Price 400
 
-Item "Insight M3 Tactical Flashlight (WR)" Level 1 Price 70 
-Item "Beamshot 5000S (WR)" Level 1 Price 100 
-Item "Surefire CUS Flashlight (WR)" Level 1 Price 200 
-Item "Surefire CUS IR-Laser Sight (WR)" Level 2 Price 400 
-Item "Surefire CUS Laser Sight (WR)" Level 1 Price 300 
+Item "Insight M3 Tactical Flashlight (WR)" Level 1 Price 70
+Item "Beamshot 5000S (WR)" Level 1 Price 100
+Item "Surefire CUS Flashlight (WR)" Level 1 Price 200
+Item "Surefire CUS IR-Laser Sight (WR)" Level 2 Price 400
+Item "Surefire CUS Laser Sight (WR)" Level 1 Price 300
 Item "MP5 Flashlight" Level 2 Price 100
 
 /////////+++++++++++++++++
@@ -295,46 +295,46 @@ Item "Suppressor (6.8x43 mm)" 2000
 Item "MP7 Silencer" 600
 Item "30-06 Silencer" 1200
 
-Item	"AEK919K_silencer"				330.0 
-Item	"Groza silencer"                                300.0
+Item "AEK919K_silencer"				330.0
+Item "Groza silencer"                                300.0
 
 Item "CheyTac Suppressor" 5000
 
-Item	"APB Silencer"					600
-Item	"Silencer (9 mm Para)"				1000
-Item	"Silencer Trident (9 mm Para)"                  1250
-Item	"UZI Silencer"					500
-Item	"USP Silencer"					1250
-Item	"Mk23 Silencer"					1250
-Item	"Silencer Ti-RANT 45"				1500
-Item	"Silencer (5.7 mm FN)"				1500
-Item	"Silencer (5.7 mm P90)"				2000
-Item	"Silencer (.40 S&W)"				1500
-Item	"Silencer (MAC/.45)"				500
-Item	"ump45_silencer"				1500
-Item	"VZ82_silencer"					400
-Item	"GSh-18 Silenser"				900
-Item	"Saiga Suppressor (12ga)"			2000
-Item	"Silencer PBS-4 (5.45 mm)"			500
-Item	"Silencer PBS-1 (7.62x39 mm)"			1000
-Item	"Silencer PBS-1 M24x1.5 (7.62x39 mm)"		500
-Item	"Silencer PBS-4m (5.45 mm)"			500
-Item	"Suppressor TGP-A"				1500
-Item	"Galil Suppressor"				1000
-Item	"Supressor (5.56 mm)"				1500
-Item	"Suppressor M4-2000 (5.56 mm)"			2000
-Item	"Suppressor M4-2000 adapted"			2200
-Item	"GemtechM4-96D Suppressor (5.56 mm)"		1600
-Item	"GemtechM4-96D Suppressor adapted"		1600
-Item	"Silencer CYCLONE-K (7.62x51mm)"		1500
-Item	"762x51 Suppressor"				2250
-Item	"Gemtech Quickmount Kit"			200
-Item	"AAC Blackout Kit"				200
-Item	"L85A2 silencer"				2000
-Item	"SIG551 Silencer"				2000
-Item	"SR25_silencer"					1800
-Item	"SV98 silencer"					1000
-Item	"Suppressor ZA-N-M76"				1000
+Item "APB Silencer"					600
+Item "Silencer (9 mm Para)"				1000
+Item "Silencer Trident (9 mm Para)"                  1250
+Item "UZI Silencer"					500
+Item "USP Silencer"					1250
+Item "Mk23 Silencer"					1250
+Item "Silencer Ti-RANT 45"				1500
+Item "Silencer (5.7 mm FN)"				1500
+Item "Silencer (5.7 mm P90)"				2000
+Item "Silencer (.40 S&W)"				1500
+Item "Silencer (MAC/.45)"				500
+Item "ump45_silencer"				1500
+Item "VZ82_silencer"					400
+Item "GSh-18 Silenser"				900
+Item "Saiga Suppressor (12ga)"			2000
+Item "Silencer PBS-4 (5.45 mm)"			500
+Item "Silencer PBS-1 (7.62x39 mm)"			1000
+Item "Silencer PBS-1 M24x1.5 (7.62x39 mm)"		500
+Item "Silencer PBS-4m (5.45 mm)"			500
+Item "Suppressor TGP-A"				1500
+Item "Galil Suppressor"				1000
+Item "Supressor (5.56 mm)"				1500
+Item "Suppressor M4-2000 (5.56 mm)"			2000
+Item "Suppressor M4-2000 adapted"			2200
+Item "GemtechM4-96D Suppressor (5.56 mm)"		1600
+Item "GemtechM4-96D Suppressor adapted"		1600
+Item "Silencer CYCLONE-K (7.62x51mm)"		1500
+Item "762x51 Suppressor"				2250
+Item "Gemtech Quickmount Kit"			200
+Item "AAC Blackout Kit"				200
+Item "L85A2 silencer"				2000
+Item "SIG551 Silencer"				2000
+Item "SR25_silencer"					1800
+Item "SV98 silencer"					1000
+Item "Suppressor ZA-N-M76"				1000
 
 /////////+++++++++++++++++
 /////////BIPODS
@@ -348,15 +348,15 @@ Item "Stoner63 Bipod" Level 3 Price 50
 Item "Madsen Bipod" Level 1 Price 50
 Item "QBUBipod" Level 3 Price 50
 
-Item	"Tactical Bipod BM" Level 3 Price 250
-Item	"Sniper Bipod Series 1A2" Level 3 Price 250.0
-Item	"Harris Bipod WR" Level 3 Price 300
-Item	"Tactical Bipod TL-BP16" Level 3 Price 200.0
-Item	"G36 bipod" Level 4 Price 150.0
+Item "Tactical Bipod BM" Level 3 Price 250
+Item "Sniper Bipod Series 1A2" Level 3 Price 250.0
+Item "Harris Bipod WR" Level 3 Price 300
+Item "Tactical Bipod TL-BP16" Level 3 Price 200.0
+Item "G36 bipod" Level 4 Price 150.0
 
-Item	"G3SG1 bipod" Level 4 Price 100.0
+Item "G3SG1 bipod" Level 4 Price 100.0
 
-Item	"SIG bipod" Level 3 Price 50
+Item "SIG bipod" Level 3 Price 50
 
 /////////+++++++++++++++++
 /////////BAYONETS
@@ -437,8 +437,8 @@ Item "Offensive Hand Grenade Type 97" Level 2 Price 40
 Item "Defensive Hand Grenade DM51" Level 4 Price 300
 Item "Hand Grenade M24" Level 1 Price 50
 
-Item	"Smoke Hand Grenade AN-M8 HC" Level 1 Price 150.0
-Item	"Flash Hand Grenade M84" Level 1 Price 150.0
+Item "Smoke Hand Grenade AN-M8 HC" Level 1 Price 150.0
+Item "Flash Hand Grenade M84" Level 1 Price 150.0
 
 /////////+++++++++++++++++
 /////////MINES
@@ -865,28 +865,28 @@ Item "Smoke_cigar_box" Level 1 Price 50
 Item "Smoke_serpent" Level 1 Price 5
 
 //SPARE PARTS
-Item	"Wood_plate"					Level 1		Price 30
-Item	"Tape"						Level 1		Price 5
-Item	"Wire"						Level 1		Price 40
-Item	"Car_belt"					Level 1		Price 500
-Item	"Car_can5_empty"				Level 1		Price 30
-Item	"Car_can5"					Level 1		Price 250
-Item	"Car_can20_empty" 				Level 1		Price 50
-Item	"Car_can20"					Level 2		Price 220
-Item	"Car_wheel_pascar"				Level 1		Price 200
-Item	"Car_wheel_pickup"				Level 1		Price 350
-Item	"Car_wheel_willys"				Level 1		Price 700
-Item	"Car_wheel_gaz69"				Level 1		Price 200
-Item	"Car_wheel_lrover"				Level 3		Price 700
-Item	"Car_wheel_ural"				Level 4	 	Price 1000
-Item	"Car_wheel_hummer"				Level 6		Price 1500
-Item	"Car_wheel_yamamoto"				Level 3		Price 200
-Item	"Car_wheel_btr"					Level 9		Price 1500
-Item	"Car_wheel_btr40"				Level 9		Price 1500
-Item	"tool1"						Level 1		Price 100
-Item	"tool2"						Level 1		Price 1000
-Item	"tool3"						Level 1		Price 1000
-Item	"Car_rubber_patch"				Level 1		Price 3.0
+Item "Wood_plate"					Level 1		Price 30
+Item "Tape"						Level 1		Price 5
+Item "Wire"						Level 1		Price 40
+Item "Car_belt"					Level 1		Price 500
+Item "Car_can5_empty"				Level 1		Price 30
+Item "Car_can5"					Level 1		Price 250
+Item "Car_can20_empty" 				Level 1		Price 50
+Item "Car_can20"					Level 2		Price 220
+Item "Car_wheel_pascar"				Level 1		Price 200
+Item "Car_wheel_pickup"				Level 1		Price 350
+Item "Car_wheel_willys"				Level 1		Price 700
+Item "Car_wheel_gaz69"				Level 1		Price 200
+Item "Car_wheel_lrover"				Level 3		Price 700
+Item "Car_wheel_ural"				Level 4	 	Price 1000
+Item "Car_wheel_hummer"				Level 6		Price 1500
+Item "Car_wheel_yamamoto"				Level 3		Price 200
+Item "Car_wheel_btr"					Level 9		Price 1500
+Item "Car_wheel_btr40"				Level 9		Price 1500
+Item "tool1"						Level 1		Price 100
+Item "tool2"						Level 1		Price 1000
+Item "tool3"						Level 1		Price 1000
+Item "Car_rubber_patch"				Level 1		Price 3.0
 
 /////////+++++++++
 /////////SMUGGLE OBJECTS SELLER
