@@ -7684,7 +7684,7 @@ ATT Bipod		0
 ATT Silencer	1 ".40 (P99)"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "K40Mag"
+ATT Magazine	1 "GPK40Mag"
 StdPlug			"Pistol clip (K40/14)"
 ACTOR			"Items\k100nova.act"
 IMAGE			"2x2.e5b"

@@ -1945,7 +1945,7 @@ USEPREFIX  ""
 IMAGE  "SIG_P226_clip.e5b"
 DEFAMMO  "Ammo .40 S&W"
 
-CLIP  "Pistol clip (K40/14)"".40 S&W""K40Mag"14 78 "None"1500 
+CLIP  "Pistol clip (K40/14)"".40 S&W""GPK40Mag"14 78 "None"1500 
 ACTOR  "Items\k100novamag.act"
 USEPREFIX  ""
 IMAGE  "beretta92-clip15.e5b"
