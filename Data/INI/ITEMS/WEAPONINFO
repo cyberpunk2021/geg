@@ -7273,7 +7273,7 @@ ATT Bipod		0
 ATT Silencer	1 "357 Sil"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "P2000"
+ATT Magazine	1 "P2000357"
 StdPlug			"Pistol clip (P2000357/12)"
 ACTOR			"Items\p2000.act"
 IMAGE			"2x2.e5b"
