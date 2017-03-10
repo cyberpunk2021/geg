@@ -186,31 +186,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -235,12 +210,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -260,11 +260,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -298,22 +298,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -421,113 +414,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -549,18 +444,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -572,8 +455,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -589,7 +484,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -605,18 +500,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -632,8 +515,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -649,7 +544,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -922,31 +817,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -971,12 +841,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -996,11 +891,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1034,22 +929,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -1157,113 +1045,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1285,18 +1075,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -1308,8 +1086,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -1325,7 +1115,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -1341,18 +1131,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -1368,8 +1146,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -1385,7 +1175,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -1658,31 +1448,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -1707,12 +1472,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1732,11 +1522,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1770,22 +1560,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -1893,113 +1676,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2021,18 +1706,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -2044,8 +1717,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2061,7 +1746,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2077,18 +1762,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -2104,8 +1777,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2121,7 +1806,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2394,31 +2079,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -2443,12 +2103,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2468,11 +2153,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2506,22 +2191,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -2629,113 +2307,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2757,18 +2337,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -2780,8 +2348,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2797,7 +2377,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2813,18 +2393,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -2840,8 +2408,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -2857,7 +2437,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -3130,31 +2710,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -3179,12 +2734,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3204,11 +2784,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3242,22 +2822,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -3365,113 +2938,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3493,18 +2968,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -3516,8 +2979,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -3533,7 +3008,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -3549,18 +3024,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -3576,8 +3039,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -3593,7 +3068,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -3866,31 +3341,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -3915,12 +3365,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3940,11 +3415,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3978,22 +3453,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -4101,113 +3569,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4229,18 +3599,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -4252,8 +3610,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -4269,7 +3639,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -4285,18 +3655,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -4312,8 +3670,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -4329,7 +3699,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -4602,31 +3972,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -4651,12 +3996,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4676,11 +4046,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4714,22 +4084,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -4837,113 +4200,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4965,18 +4230,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -4988,8 +4241,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5005,7 +4270,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5021,18 +4286,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -5048,8 +4301,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5065,7 +4330,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5338,31 +4603,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -5387,12 +4627,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5412,11 +4677,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5450,22 +4715,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -5573,113 +4831,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5701,18 +4861,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -5724,8 +4872,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5741,7 +4901,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5757,18 +4917,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -5784,8 +4932,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -5801,7 +4961,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -6074,31 +5234,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -6123,12 +5258,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6148,11 +5308,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6186,22 +5346,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -6309,113 +5462,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6437,18 +5492,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -6460,8 +5503,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -6477,7 +5532,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -6493,18 +5548,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -6520,8 +5563,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -6537,7 +5592,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -6810,31 +5865,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -6859,12 +5889,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6884,11 +5939,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6922,22 +5977,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -7045,113 +6093,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -7173,18 +6123,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -7196,8 +6134,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -7213,7 +6163,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -7229,18 +6179,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -7256,8 +6194,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -7273,7 +6223,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -7546,31 +6496,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -7595,12 +6520,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7620,11 +6570,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7658,22 +6608,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -7781,113 +6724,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -7909,18 +6754,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -7932,8 +6765,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -7949,7 +6794,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -7965,18 +6810,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -7992,8 +6825,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -8009,7 +6854,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -8282,31 +7127,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -8331,12 +7151,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -8356,11 +7201,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -8394,22 +7239,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -8517,113 +7355,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -8645,18 +7385,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -8668,8 +7396,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -8685,7 +7425,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -8701,18 +7441,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -8728,8 +7456,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -8745,7 +7485,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -9018,31 +7758,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -9067,12 +7782,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -9092,11 +7832,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -9130,22 +7870,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -9253,113 +7986,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -9381,18 +8016,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -9404,8 +8027,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -9421,7 +8056,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -9437,18 +8072,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -9464,8 +8087,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -9481,7 +8116,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -9754,31 +8389,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -9803,12 +8413,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -9828,11 +8463,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -9866,22 +8501,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -9989,113 +8617,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -10117,18 +8647,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -10140,8 +8658,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10157,7 +8687,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10173,18 +8703,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -10200,8 +8718,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10217,7 +8747,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10490,31 +9020,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -10539,12 +9044,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -10564,11 +9094,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -10602,22 +9132,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -10725,113 +9248,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -10853,18 +9278,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -10876,8 +9289,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10893,7 +9318,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10909,18 +9334,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -10936,8 +9349,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -10953,7 +9378,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -11226,31 +9651,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 0 
-Name  "Offensive Hand Grenade Type82-2"
-SpecificData  
-WeaponInfo  1 1 0 1 0 
-Jammed  0 
-AddonsCount  1 0 0 8 
-Name  "Grenade Ring (West)"
-SpecificData  
-AddonInfo  
-Resource  1 
-BulletsCount  0 
-MasterBone  -1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-GrenadeInfo  
-Explodable  0 
-Armed  0 
-VisForPlayer  1 
-Destination  0 0 0 
-IsCase  0 
-JumpTimerUsed  0 
-Used  0 
-Prob  1 
 Item  0 0 0 
 Name  "Offensive Hand Grenade Type82-2"
 SpecificData  
@@ -11275,12 +9675,37 @@ Destination  0 0 0
 IsCase  0 
 JumpTimerUsed  0 
 Used  0 
+Prob  1 
+Item  1 0 0 
+Name  "Offensive Hand Grenade Type82-2"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
 Prob  1 11 
-Item  1 1 10 
-Name  "Money"
+Item  1 0 10 
+Name  "PhoneMoto"
 SpecificData  
 OtherInfo  
-GUID  534 
+GUID  390 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -11300,11 +9725,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 0 10 
-Name  "PhoneMoto"
+Item  1 1 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  390 
+GUID  534 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -11338,22 +9763,15 @@ EndOfSpecificData
 Stuff  7 
 Pockets  59 
 Item  0 0 0 
-Name  "Pistol Glock 40 (10mm)"
+Name  "Pistol Megastar 10"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
+BulletsCount  14 0 0 6 
 Name  "10mm Auto JHP"
 SpecificData  
 AmmoInfo  
@@ -11461,113 +9879,15 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Pistol clip (Glock 20/15)"
+Name  "Pistol clip (Megastar10/14)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  15 0 0 6 
-Name  "10mm Auto JHP"
+BulletsCount  1 0 0 6 
+Name  "10mm Auto Surplus"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "10mm Auto JHP"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  14 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -11589,18 +9909,6 @@ Extended  0
 EndOfSpecificData  
 Stuff  5 
 Pockets  48 
-Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  546 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 10 
 Name  "Field Paramedic Kit"
 SpecificData  
@@ -11612,8 +9920,20 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  546 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 49 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -11629,7 +9949,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -11645,18 +9965,6 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 50 
-Item  0 0 10 
-Name  "Field Paramedic Kit2"
-SpecificData  
-OtherInfo  
-GUID  290 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  1 0 7 
 Name  "Ammo box (10mm JHP)"
 SpecificData  
@@ -11672,8 +9980,20 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Field Paramedic Kit2"
+SpecificData  
+OtherInfo  
+GUID  290 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
 Prob  1 51 
-Item  1 0 7 
+Item  0 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  
@@ -11689,7 +10009,7 @@ Prob  1
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
+Item  1 0 7 
 Name  "Ammo Box CoreLokt .308"
 SpecificData  
 ClipInfo  

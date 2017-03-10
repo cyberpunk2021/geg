@@ -8899,8 +8899,8 @@ Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
 Scope
 Collimator		"M16.e6b"
 Distance		56
-ACTOR			"Items\ss2handle.act"
-IMAGE			"ss2handle.e5b"
+ACTOR			"Items\t65handle.act"
+IMAGE			"m16handle.e5b"
 WEIGHT			300
 Resource		10000
 // ------------------------------------------------------
