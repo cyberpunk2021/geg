@@ -17,7 +17,6 @@ Item "Camo Kit" Level 3 Price 300.0
 /////////RIS / STOCKS / KITS
 /////////+++++++++
 
-
 // Merca RIS kits
 Item "RIS kit (PP-90M1)"	Level 2 Price				100
 Item "Stock kit (PP-90M1)"	Level 2 Price			100
@@ -201,8 +200,6 @@ Item "Type66_remote" Level 3 Price 120
 Item "MON-50_remote" Level 3 Price 160
 Item "MON-50" Level 3 Price 160
 
-Item "DPM/RP-46 Kit" Level 3 Price 150
-
 Item "Machinegun M72 (7.62x39mm)" Level 8 Price 2750
 Item "Machinegun M72 F (7.62x39mm)" Level 8 Price 2800
 Item "Machinegun Vz58 (7.62x39mm)" Level 9 Price 2900
@@ -223,7 +220,6 @@ Item "Assault Rifle AKM (7.62x39mm) sniper" Level 6 Price 2000
 
 Item "Pistol PSS (7.62x42mm)"	Level 1 Price		1600
 
-
 Item "Pistol clip (SPS-SR1/18)"   Level 1 Price         50.0
 Item "Pistol SPS-SR-1 (9x21mm)"	Level 3 Price	1200
 
@@ -242,15 +238,12 @@ Item "Pistol TT-33 M213 (9mm)" Level 1 Price 300
 Item "Pistol TT-33 M213 WQ213B54 (9mm)" Level 1 Price 500
 Item "Pistol TT-33 M213 (7.62x25mm)" Level 1 Price 280
 
-
 Item "Pistol PM Type 59 (9x18mm)" Level 1 Price 190
 
 Item "Pistol PMM (9x18 mm)" Level 2 Price 280
 Item "Pistol MP-448 Skif" Level 1 Price 250
 Item "Pistol P64" Level 1 Price 190
 Item "Pistol P83" Level 1 Price 220
-
-
 
 Item "Revolver Nagant" Level 1 Price 160
 Item "Ammo box (Nagant +P)" Level 1 Price 0.001
@@ -268,17 +261,14 @@ Item "Submachine-gun Type 85 (7.62x25mm)" Level 2 Price 160
 Item "Submachine-gun Type 79 (7.62x25mm)" Level 3 Price 220
 Item "Submachine-gun K50M (7.62x25mm)" Level 3 Price 400
 
-
 Item "MAT-49 (7.62x25)" Level 4 Price 700
 
 Item "Submachine-gun VZ82 (9x19mm)" Level 2 Price 650
 
 Item "Submachine-gun kedr" Level 1 Price 420
 
-
 Item "Submachine-gun Type 54 (7.62x25mm)" Level 2 Price 420
 Item "Submachine-gun Vz82 (9x18mm)" Level 2 Price 580
-
 
 Item "Baikal 133 (12ga)" Level 2 Price 420
 Item "Shotgun TOZ 87 (12ga)" Level 2 Price 500
@@ -349,7 +339,6 @@ Item "Rifle ammo clip (AS/VSS/20)"  Level 2 Price           90.0
 Item "Double rifle ammo clip (AS/VSS/40)" Level 2 Price          100.0
 Item "Rifle ammo clip (AS/VSS/30)" Level 3 Price 110
 
-
 Item "Shotgun Hawk Pump Internal (12ga)" Level 2 Price 1100
 Item "Shotgun clip (HAWK/5)" Level 2 Price 45
 Item "Shotgun Hawk Pump (12ga)" Level 4 Price 1400
@@ -378,8 +367,6 @@ Item "Shotgun Saiga12-30 (12ga)" Level 4 Price 			1500
 /////////RIFLES
 /////////==========
 
-Item "Mount (WR-AK)" Level 1 Price 				100
-
 Item "Pallad GL" Level 5 Price 900
 Item "Pallad Standalone" Level 5 Price 900
 Item "Pallad 40x47" Level 4 Price 85
@@ -387,8 +374,6 @@ Item "Pallad 40x47" Level 4 Price 85
 Item "Ammo box (PKM 7.62/150)" Level 7 Price 100
 
 Item "Ammo box (PKM 7.62/100)" Level 7 Price	55.0
-
-Item "PKM barrel"    Level 7 Price  270.0
 
 Item "Machinegun RPK (7.62x39mm)" Level 8 Price 			2500
 Item "Machinegun RPKN (7.62x39mm)" Level 8 Price 			2550
@@ -446,7 +431,6 @@ Item "Sniper Rifle PTRS41 (14.5mm)" Level 5 Price 2800
 
 Item "Assault Rifle A91 2 (5.45x39mm)" Level 9 Price 2500
 Item "Assault Rifle A91 (7.62x39mm)" Level 9 Price 2700
-
 
 Item "Assault Rifle Ash (12.7)" Level 12 Price 3800
 Item "Assault Rifle Ash FG (12.7)" Level 12 Price 3800
@@ -562,12 +546,7 @@ Item "Submachine-gun AEK919K (9x18mm)" Level 2 Price 	900.0
 
 Item "Assault Rifle SR3 (9x39mm)" Level 3 Price 		1700.0
 
-Item "AEK919K_silencer" Level 3 Price 			330.0
-Item "Collimator AEK919K" Level 2 Price 			100.0
-
 Item "Pistol clip (PSS/6)" Level 1 Price 			20.0
-
-
 
 Item "Shotgun KS-23 (23mm)" Level 4 Price 			2000.0
 Item "Shotgun TOZ-123 (23mm)" Level 3 Price 		1800
@@ -612,14 +591,12 @@ Item "Assault Rifle MD90 LB (7.62x39mm)" Level 7 Price 1300
 Item "Assault Rifle Type56-1 Y (7.62x39mm)" Level 5 Price 600
 Item "Assault Rifle Type 56 Y (7.62x39mm)" Level 5 Price 600
 
-
 Item "Assault Rifle Type 63 (7.62x39mm)" Level 4 Price 450
 
 Item "Assault Rifle Type 56 (7.62x39mm)" Level 5 Price 600
 Item "Assault Rifle Type56-1 (7.62x39mm)" Level 5 Price 600
 Item "Assault Rifle Type56-2 (7.62x39mm)" Level 6 Price 1000
 Item "Assault Rifle Type 56C (7.62x39mm)" Level 4 Price 700
-
 
 Item "Machinegun RPD (7.62x39mm)" Level 7 Price 1050
 
@@ -736,17 +713,6 @@ Item "Box_grenade_rgo"	Level 6 Price			20
 
 Item "Flask"  Level 1 Price   70.0
 
-Item "TNT" Level 1 Price						160.0
-Item "Offensive Hand Grenade Type82-2" Level 2 Price		80.0
-Item "Defensive Hand Grenade RGO" Level 5 Price			200.0
-Item "Offensive Hand Grenade RGN" Level 5 Price			200.0
-Item "Defensive Hand Grenade F-1" Level 7 Price		240.0
-Item "Offensive Hand Grenade RGD-5" Level 3 Price			110.0
-Item "Offensive Hand Grenade RG42" Level 3 Price 130
-Item "Offensive Hand Grenade RGZ89" Level 3 Price 115
-Item "AT RPG-40" Level 8 Price 800
-Item "Offensive Hand Grenade Type82" Level 5 Price 220
-
 Item "RPO-A"		Level 8 Price					2000
 Item "GP-30 (40mm VOG)"	Level 5 Price				1140
 
@@ -775,15 +741,6 @@ Item "VOG-25P"	Level 4 Price 75.0
 Item "Backpack" Level 3 Price 850.0
 Item "Backpack_tactic" Level 7 Price 1000.0
 
-
-Item "Groza Kits" Level 8 Price 3000.0
-
-
-Item "Bayonet (East)" Level 2 Price 50.0
-Item "Bayonet (QBZ)" Level 2 Price 50
-
-Item "SA Vz.58 Bayonet" Level 3 Price 70
-
 Item "Shovel" Level 1 Price 110
 
 Item "RadioBatt" Level 1 Price 150
@@ -800,32 +757,9 @@ Item "Car_wheel_ural"				Level 4	 	Price 1000
 Item "Car_wheel_btr"					Level 9		Price 1500
 Item "Car_wheel_btr40"				Level 9		Price 1500
 
-/////////+++++++++++++++++
-/////////MINES
-/////////+++++++++++++++++
-
-////BASIC
-
-Item "Remote Mine Controller" Level 1 Price 50.0
-Item "TNT Radio" Level 4 Price 250
-Item "Bomb60" Level 4 Price 350
-Item "Bomb82" Level 8 Price 600
-Item "Fuze_m605" Level 3 Price 150
-Item "Fuze_mve72" Level 3 Price 200
-Item "Fuze_radio" Level 3 Price 300
-
-////SOVIET
-
-Item "Anti-personnel Land Mine PMN-2" Level 6 Price 270.0
-Item "SZ-3a" Level 6 Price 420.0
-Item "Ozm4_contact" Level 2 Price 320
-Item "Ozm72_contact" Level 4 Price 420
-
 /////////+++++++++
 /////////PACKEDBOX
 /////////+++++++++
-
-
 
 Item "BigWoodBoxBizon" Level 3 Price 5500
 Item "BigWoodBoxVityaz" Level 4 Price 6500
@@ -841,7 +775,6 @@ Item "BigWoodBoxAK103"	Level 9 Price 6500
 Item "BigWoodBoxType56" Level 5 Price 1500
 Item "BigWoodBoxType56i" Level 5 Price 1500
 Item "BigWoodBoxType56ii" Level 6 Price 2500
-
 
 /////////========
 /////////MAGS
@@ -863,7 +796,6 @@ Item "Pistol clip (TT-33/8)" Level 1 Price 18.0
 Item "Pistol clip (PM/8)" Level 1 Price 15.0
 Item "Pistol clip (Fort17/15)" Level 1 Price 20.0
 Item "Pistol clip (PMM/12)" Level 1 Price 45
-
 
 Item "Pistol clip (PA63/7)" Level 1 Price 10
 Item "SMG ammo clip (MAT-49Viet/35)" Level 1 Price 45
@@ -950,7 +882,6 @@ Item "Ammo box (VSSK SP)" Level 9 Price 0.001
 Item "Ammo box 500 (VSSK SP)" Level 10 Price 100
 Item "Ammo box (ASH Surplus)" Level 9 Price 0.001
 Item "Ammo box 500 (ASH Surplus)" Level 10 Price 100
-Item "Ash 12.7 Silencer" Level 14 Price 3800
 Item "Big Ammo box (9x39)" Level 2 Price 0.001
 
 Item "Ammo box (Rubber)" Level 1 Price 0.001
@@ -1008,5 +939,3 @@ Item "Ammo Box 500 (14.5x114mm BS)" Level 7 Price 100
 Item "Ammo Box 500 (14.5x114mm B32)" Level 7 Price 100
 Item "Ammo Box 500 (14.5x114mm DGJ02)" Level 7 Price 100
 Item "Ammo Box 500 (14.5x114mm Surplus)" Level 5 Price 100
-
-

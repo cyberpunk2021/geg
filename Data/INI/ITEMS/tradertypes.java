@@ -47,13 +47,11 @@ Item "Docter Sight (WR)" Level 3 Price 200
 Item "Vision Plus Dot" Level 4 Price 290
 Item "Kobra WR" Level 4 Price 260
 
-
 Item "Collimator AEK919K" Level 2 Price 100.0
 
 /////////+++++++++++++++++
 /////////BAYONETS
 /////////+++++++++++++++++
-
 
 Item "Bayonet (East)" Level 2 Price 50.0
 Item "Bayonet M9 (West)" Level 2 Price 70.0
@@ -135,7 +133,6 @@ Item "Revolver Police Positive W (.38 spc)" Level 1 Price 100
 Item "Revolver Police Positive WB (.38 spc)" Level 1 Price 100
 Item "Revolver Police Positive BB (.38 spc)" Level 1 Price 100
 Item "Revolver Police Positive GB (.38 spc)" Level 1 Price 100
-
 
 Item "Pistol Taurus PT 59 (.380)" Level 1 Price 500
 Item "Pistol Taurus PT 59 W (.380)" Level 1 Price 500
@@ -266,7 +263,6 @@ Item "Revolver Taurus Model 650 H W (.357 Magnum)" Level 2 Price 350
 Item "Revolver Taurus 82 Stainless (.38 spc)" Level 1 Price 320
 Item "Revolver Taurus 82 B (.38 spc)" Level 1 Price 320
 
-
 Item "Revolver Taurus 65 B (.357 Magnum)" Level 2 Price 450
 Item "Revolver Taurus 66 Stainless (.357 Magnum)" Level 2 Price 600
 Item "Revolver Taurus 66 B (.357 Magnum)" Level 2 Price 600
@@ -276,18 +272,12 @@ Item "Revolver Taurus 608 Stainless (.357 Magnum)" Level 3 Price 900
 Item "Revolver Taurus 608 Stainless SB (.357 Magnum)" Level 3 Price 800
 Item "Revolver Taurus 608 SB (.357 Magnum)" Level 3 Price 800
 
-
 Item "Revolver Taurus 44 Stainless (.44 Magnum)" Level 3 Price 600
 Item "Revolver Taurus 44 Blue (.44 Magnum)" Level 3 Price 550
 Item "Revolver Taurus 65 Stainless (.357 Magnum)" Level 3 Price 450
 Item "Revolver Taurus 608 (.357 Magnum)" Level 1 Price 900
 
-
-
-
 Item "Revolver 410 Jury" Level 2 Price 1000
-
-
 
 Item "Pistol PM (9x18mm)" Level 1 Price 240
 Item "Pistol Fort 17 (9x18mm)" Level 1 Price 300
@@ -318,16 +308,12 @@ Item "Pistol HSC (380)" Level 1 Price 110
 Item "Pistol HSC B (380)" Level 1 Price 110
 Item "Pistol FEG37 (380)" Level 1 Price 120
 
-
-
 Item "Submachine-gun Micro UZI (9mm)" Level 2 Price 1050
 
 Item "Submachine-gun Mini UZI (9mm)" Level 3 Price 1200
 
-
 Item "Submachine-gun HK MP5KA4 (9mm)" Level 3 Price 1300
 Item "Submachine-gun HK MP5PDW (9mm)" Level 4 Price 1400
-
 
 Item "Submachine-gun MP40 (9mm)" Level 2 Price 500
 
@@ -335,9 +321,7 @@ Item "Submachine-gun MAT49 (9mm)" Level 3 Price 650
 
 Item "Submachine-gun Sterling L2A3 (9mm)" Level 2 Price 580
 
-
 Item "Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
-
 
 Item "Submachine-gun MAC-10 (.45 ACP)" Level 3 Price 700
 
@@ -350,7 +334,6 @@ Item "Submachine-gun K50M (7.62x25mm)" Level 3 Price 400
 
 Item "Submachine-gun M3A1 (9mm)" Level 2 Price 300
 
-
 Item "Submachine-gun Sten (9mm)" Level 2 Price 190
 Item "Carl Gustaf Kpist M45 (9mm)" Level 4 Price 780
 
@@ -359,7 +342,6 @@ Item "MAT-49 (7.62x25)" Level 4 Price 700
 Item "Carl Gustaf Kpist M50 (9mm)" Level 3 Price 520
 Item "Carl Gustaf Kpist INA (9mm)" Level 3 Price 400
 Item "Carl Gustaf Kpist M45 (45)" Level 4 Price 580
-
 
 Item "Submachine-gun VZ82 (380)" Level 1 Price 430
 Item "Submachine-gun VZ82 (9x19mm)" Level 2 Price 650
@@ -435,12 +417,9 @@ Item "Shotgun Benelli M1 (20ga)" Level 2 Price 850
 Item "Shotgun Benelli M2 (20ga)" Level 2 Price 800
 Item "TOZ194 unstock (12ga)" Level 2 Price 900
 
-
-
 /////////==========
 /////////RIFLES
 /////////==========
-
 
 Item "Carabine SKS (7.62x39mm)" Level 3 Price 550
 Item "Carabine Type 56 (7.62x39mm)" Level 3 Price 300
@@ -490,7 +469,6 @@ Item "Assault Rifle Sporter Lightweight (5.56mm)" Level 4 Price 1500
 Item "Assault Rifle M16A1 HG CIV (5.56mm)" Level 6 Price 1400
 Item "Assault Rifle M16 CIV (5.56mm)" Level 6 Price 1200
 Item "Assault Rifle M16A2 CIV (5.56mm)" Level 7 Price 1800
-
 
 Item "Assault Rifle DIO S (5.56mm)" Level 6 Price 1650
 Item "Assault Rifle Terab (5.56mm)" Level 5 Price 1600
@@ -542,7 +520,6 @@ Item "Assault Rifle AR70S (5.56mm)" Level 6 Price 1800
 Item "Assault Rifle AR70 CAR (5.56mm)" Level 5 Price 1400
 
 Item "Assault Rifle AK47 (7.62x39mm)" Level 5 Price 750
-
 
 Item "Assault Rifle AK-47 (7.62x39mm)" Level 5 Price 700
 Item "Assault Rifle AKM (7.62x39mm)" Level 5 Price 800
@@ -675,7 +652,6 @@ Item "Belt_04" Level 1 Price 5
 Item "Ammo Cartouche6" Level 2 Price 50.0
 Item "Ammo CartoucheVert" Level 4 Price 125.0
 
-
 Item "Backpack_tourist" Level 1 Price 780.0
 
 Item "Tactical Armor Vest M200" Level 3 Price 600.0
@@ -691,7 +667,6 @@ Item "Field Paramedic Kit1" Level 1 Price 50
 Item "Field Paramedic Kit2"	Level 2 Price 340.0
 Item "Field Paramedic Kit3"	Level 3 Price 520.0
 
-
 Item "Food_m_beef" Level 1 Price 60
 Item "Food_m_mutton" Level 1 Price 60
 Item "Food_m_pork" Level 1 Price 60
@@ -704,11 +679,6 @@ Item "Cuchillo" Level 1 Price 30.0
 Item "Cuchillo de Combate" Level 1 Price 75.0
 
 Item "smersh5" Level 1 Price 170.0
-
-Item "Bayonet (East)" Level 2 Price 50.0
-Item "Bayonet M9 (West)" Level 2 Price 70.0
-Item "Bayonet (QBZ)" Level 2 Price 50
-
 
 Item "RadioBatt" Level 1 Price 150
 
@@ -728,8 +698,6 @@ Item "Smoke_serpent" Level 1 Price 5
 Item "Lighter_cryst_b" Level 1 Price 5
 Item "Lighter_cryst_g" Level 1 Price 5
 Item "Lighter_cryst_r" Level 1 Price 5
-
-
 
 /////////+++++++++
 /////////PACKEDBOX
@@ -766,7 +734,6 @@ Item "BigWoodBoxAKMN" Level 6 Price			2500
 Item "BigWoodBoxAK103"	Level 9 Price		6500
 Item "BigWoodBoxKiparis" Level 3 Price 3000
 
-
 /////////========
 /////////MAGS
 /////////========
@@ -775,7 +742,6 @@ Item "Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
 
 Item "Calico clip (Calico/50)" Level 2 Price 100.0
 Item "Calico clip (Calico/100)" Level 3 Price 200.0
-
 
 Item "Pistol clip (PT59/17)" Level 1 Price 25
 Item "Pistol clip (PT59B/17)" Level 1 Price 25
@@ -805,7 +771,6 @@ Item "Pistol clip (Fort17380/16)" Level 1 Price 20.0
 Item "Pistol clip (PMM/12)" Level 1 Price 45
 
 Item "Pistol clip (Guardian25/6)" Level 1 Price 20
-
 
 Item "Pistol clip (PA6332/7)" Level 1 Price 10
 Item "Pistol clip (p7m32/8)" Level 1 Price 10
@@ -984,10 +949,8 @@ Item "Rifle ammo clip (AR-15/10)" Level 1 Price 50.0
 Item "Rifle ammo clip (M16/20)" Level 3 Price 35.0
 Item "Rifle ammo clip (M16/30)" Level 3 Price 50.0
 
-
 Item "Rifle ammo clip (MD97/30)" Level 3 Price 50.0
 Item "Twin rifle ammo clip (MD97/60)" Level 4 Price 100.0
-
 
 Item "Double rifle ammo clip (M16/60)" Level 4 Price 100.0
 Item "Double rifle ammo clip (M16/60c)" Level 4 Price 100.0
@@ -1152,7 +1115,6 @@ Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
 Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
 
-
 //MERCHANDISE BLOCK
 Item "Caja con pornografia"					Level 16	Price	16000
 Item "vino caro"						Level 16	Price	41000
@@ -1185,5 +1147,3 @@ Item "Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
 Item "Canteen_g1" Level 16 Price 2600
 Item "Canteen_g2" Level 16 Price 2500
 Item "Drink_rum_general" Level 16 Price 1500
-
-

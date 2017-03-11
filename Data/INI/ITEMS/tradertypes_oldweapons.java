@@ -173,8 +173,6 @@ Item "Rifle Mosin_m91-30 Unique (7.62x54mm)"	Level 5 Price		1650
 
 Item "Carabine Type 84 (7.62x39mm)"		Level 2 Price		500
 
-
-
 Item "Rifle M1917 Enfield (.30-06)" Level 2 Price 300
 Item "Rifle Lebel (8x50)" Level 1 Price 120
 Item "Rifle Lebel Carbine (8x50)" Level 1 Price 105
@@ -265,7 +263,6 @@ Item "Hand Grenade M24" Level 1 Price 50
 
 Item "Carabine M59 (7.62x39mm)"	Level 3 Price			700
 
-
 Item "Pistol Baby Browning" Level 1 Price 30
 Item "Pistol Colt Mustang (.380 ACP)" Level 1 Price 70
 Item "Pistol Walther 9" Level 1 Price 30
@@ -287,9 +284,7 @@ Item "Pistol Star A Super (Largo)" Level 1 Price 320
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
 Item "Pistol Browning-hp (9mm)" Level 1 Price 		420
 
-
 Item "Revolver Nagant" Level 1 Price 160
-
 
 Item "Revolver Colt SAA 357_4 BK (.357 Magnum)" Level 1 Price 400
 Item "Revolver Colt SAA 357_5 BK (.357 Magnum)" Level 1 Price 550
@@ -304,7 +299,6 @@ Item "Revolver Uberti El Patron (.357)" Level 1 Price 600
 Item "Revolver Uberti El Patron W (.357)" Level 1 Price 600
 Item "Revolver Uberti Old West (.357)" Level 1 Price 600
 
-
 Item "Revolver Uberti Callahan (.44)" Level 2 Price 900
 
 Item "Revolver Uberti Cody (.45 Colt)" Level 1 Price 590
@@ -318,9 +312,6 @@ Item "Revolver Colt SAA 45_4 BK (.45 Colt)" Level 1 Price 390
 Item "Revolver Colt SAA 45_5 BK (.45 Colt)" Level 1 Price 540
 Item "Revolver Colt SAA 45_7 BK (.45 Colt)" Level 2 Price 610
 
-
-
-
 Item "Pistol PM (9x18mm)" Level 1 Price 240
 
 Item "Pistol Type 51 (7.62x25mm)" Level 1 Price 220
@@ -330,7 +321,6 @@ Item "Pistol Zastava M70(d)" Level 2 Price 380
 
 Item "Pistol Beretta 951 (9mm)" Level 1 Price 400
 
-
 Item "Pistol Star B Super (9mm)" Level 1 Price 270
 Item "Pistol Ballester-Molina (.45 ACP)" Level 1 Price 310
 
@@ -338,18 +328,13 @@ Item "Pistol HSC (380)" Level 1 Price 110
 Item "Pistol HSC B (380)" Level 1 Price 110
 Item "Pistol FEG37 (380)" Level 1 Price 120
 
-
-
-
 Item "Submachine-gun MP40 (9mm)" Level 2 Price 500
 
 Item "Submachine-gun MAT49 (9mm)" Level 3 Price 650
 
 Item "Submachine-gun Sterling L2A3 (9mm)" Level 2 Price 580
 
-
 Item "Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
-
 
 Item "Submachine-gun CETME C2 (9mm)" Level 2 Price 630
 
@@ -359,13 +344,11 @@ Item "Submachine-gun K50M (7.62x25mm)" Level 3 Price 400
 
 Item "Submachine-gun M3A1 (9mm)" Level 2 Price 300
 
-
 Item "Carl Gustaf Kpist M45 (9mm)" Level 4 Price 780
 
 Item "MAT-49 (7.62x25)" Level 4 Price 700
 
 Item "Submachine-gun Type 54 (7.62x25mm)" Level 2 Price 420
-
 
 Item "Winchester 1892 trapper 12ga" Level 1 Price 240
 Item "Winchester 1892 carbine 12ga" Level 1 Price 370
@@ -375,12 +358,9 @@ Item "Shotgun Auto 5 (20ga)" Level 1 Price 470
 Item "Shotgun 1912 (12ga)" Level 2 Price 610
 Item "Shotgun 1912 (20ga)" Level 1 Price 420
 
-
-
 /////////==========
 /////////RIFLES
 /////////==========
-
 
 Item "Carabine Winchester 1892 trapper (.357 Magnum)" Level 1 Price 650
 Item "Carabine Winchester 1892 (.357 Magnum)" Level 2 Price 720
@@ -433,13 +413,9 @@ Item "Machinegun RPD Type 56 (7.62x39mm)" Level 8 Price 950
 Item "BAR" Level 2 Price 600
 Item "M1918 BAR" Level 2 Price 700
 
-
 /////////+++++++++++++++++
 /////////MISC
 /////////+++++++++++++++++
-
-Item "TrenchBayo" Level 1 Price 160
-Item "Arisaka Bayonet" Level 1 Price 120
 
 Item "Case_Soft_Skin" Level 1 Price 200
 Item "Case_Soft_Small" Level 1 Price 150
@@ -454,7 +430,6 @@ Item "Razgr_smerch" Level 1 Price 100.0
 Item "Ammo Belt" Level 1 Price 50
 Item "Basic Belt" Level 1 Price 100
 Item "Belt_04" Level 1 Price 5
-
 
 Item "Field Paramedic Kit" Level 1 Price 30.0
 Item "Field Paramedic Kit1" Level 1 Price 50
@@ -504,7 +479,6 @@ Item "Tactical Armor Vest M100" Level 1 Price 400
 Item "Helmet M1" Level 2 Price 150.0
 Item "Steel Helmet" Level 2 Price 100.0
 
-
 Item "Pen" Level 1 Price 2
 Item "Pencil" Level 1 Price 1
 
@@ -513,7 +487,6 @@ Item "Pencil" Level 1 Price 1
 /////////========
 
 Item "Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
-
 
 Item "Pistol clip (Tokagypt/7)" Level 1 Price 15
 Item "Pistol clip (Beretta951/8)" Level 1 Price 20
@@ -575,7 +548,6 @@ Item "Double rifle ammo clip (RK95/60)" Level 5 Price 90
 Item "Rifle ammo clip (T81 7.62/30)" Level 3 Price 8
 Item "Double rifle ammo clip (T81 7.62/60)" Level 4 Price 16
 
-
 Item "Rifle ammo clip (CETME/20)" Level 4 Price 20
 
 Item "Machinegun box (RPD/100)" Level 5 Price 100.0
@@ -585,8 +557,6 @@ Item "Rifle ammo clip (BAR/20)" Level 1 Price 40
 /////////boxes
 /////////=======
 
-
-
 Item "Big Ammo box (6.5 Carcano FMJ)" Level 1 Price 0.001
 Item "Big Ammo box 500 (6.5 Carcano FMJ)" Level 1 Price 100
 Item "Big Ammo box (.303 British +P)" Level 2 Price 0.001
@@ -595,8 +565,6 @@ Item "Big Ammo box (.303 British FMJ)" Level 1 Price 0.001
 Item "Big Ammo box 500 (.303 British +P)" Level 4 Price 100
 Item "Big Ammo box 500 (.303 British AP)" Level 3 Price 100
 Item "Big Ammo box 500 (.303 British FMJ)" Level 2 Price 100
-
-
 
 Item "Ammo Box (Patronen AP)" Level 3 Price 0.001
 Item "Ammo Box 500 (Patronen AP)" Level 5 Price 100
@@ -730,17 +698,12 @@ Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
 Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
 
-
-
-
 /////////
 //8x22 Nambu
 /////////
 
 Item "Ammo box FMJ 500 (8x22)" Level 1 Price 100
 Item "Ammo box FMJ (8x22)" Level 1 Price 0.001
-
-
 
 /////////
 //7.92x33 Kurz
@@ -749,11 +712,9 @@ Item "Ammo box FMJ (8x22)" Level 1 Price 0.001
 Item "Ammo box (7.92mm Kurz/20)" Level 2 Price 0.001
 Item "Ammo box (7.92mm Kurz/200)" Level 4 Price 100
 
-
 /////////
 //.30-30
 /////////
-
 
 Item "Ammo box (.30-30 Surplus)" Level 1 Price 0.001
 Item "Ammo box (.30-30 FMJ)" Level 2 Price 0.001
@@ -804,6 +765,3 @@ Item "Big Ammo box 500 (French FMJ)" Level 2 Price 100
 
 Item "Big Ammo box (8x50 FMJ)" Level 1 Price 0.001
 Item "Big Ammo box 500 (8x50 FMJ)" Level 2 Price 100
-
-
-
