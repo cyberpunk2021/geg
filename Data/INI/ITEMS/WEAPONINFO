@@ -17941,7 +17941,7 @@ Caliber			"7.62υ25 μμ"
 Weight			2330
 PrepareTime		0.28
 SingleFireTime	0.81
-BurstFireTime	0.07 
+BurstFireTime	0.07
 SpeedModifier	1.05
 Resource		2400
 DirtResource	160000
@@ -33922,7 +33922,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange 50
+EffectiveRange	50
 RangeCurvature	5
 Balance			0.65
 Unfold			"QBS09 (12ga) folded"
@@ -33961,7 +33961,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		200
-EffectiveRange 30
+EffectiveRange	30
 RangeCurvature	5
 Balance			0.65
 Unfold			"QBS09 (12ga)"
@@ -44123,7 +44123,7 @@ ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 blocks
 Bayonet
-ATT ILauncher 0
+ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet"
 blocks
 Silencer
@@ -44166,7 +44166,7 @@ ATT Bipod		2 "AssaultBipod""BM1"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 blocks
 Bayonet
-ATT ILauncher 0
+ATT ILauncher	0
 ATT Bayonet		1 "StdBayonet"
 blocks
 Silencer
@@ -44208,7 +44208,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "AK"
 ATT Bipod		1 "WR"
 ATT Silencer	1 "built-in"
-ATT ILauncher 0
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
@@ -54243,23 +54243,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle G41K (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight		3100 
-PrepareTime     0.34 
-SingleFireTime  0.71 
-BurstFireTime   0.08 
-SpeedModifier   0.99 
-Resource  	2200 
-DirtResource  	240000
-MisfireProb     0.003 
-HeatCapacity    60 
-Single		1 
-Burst		1 
-CutOff		3 
-BurstHitStart   1 
-MaxRange  	250 
-EffectiveRange  108 
-RangeCurvature  5 
-Balance  	0.59
+Weight			3100
+PrepareTime		0.34
+SingleFireTime	0.71
+BurstFireTime	0.08
+SpeedModifier	0.99
+Resource		2200
+DirtResource	240000
+MisfireProb		0.003
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	108
+RangeCurvature	5
+Balance			0.59
 Unfold			"Assault Rifle G41K (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
@@ -54282,23 +54282,23 @@ HANDS			ahtRifle
 ITEM "Assault Rifle G41K (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight		3100 
-PrepareTime     0.30 
-SingleFireTime  0.71 
-BurstFireTime   0.08 
-SpeedModifier   0.99 
-Resource  	2200 
-DirtResource  	240000
-MisfireProb     0.003 
-HeatCapacity    60 
-Single		1 
-Burst		1 
-CutOff		3 
-BurstHitStart   1 
-MaxRange  	250 
-EffectiveRange  88 
-RangeCurvature  5 
-Balance  	0.59
+Weight			3100
+PrepareTime		0.30
+SingleFireTime	0.71
+BurstFireTime	0.08
+SpeedModifier	0.99
+Resource		2200
+DirtResource	240000
+MisfireProb		0.003
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	88
+RangeCurvature	5
+Balance			0.59
 Unfold			"Assault Rifle G41K (5.56mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
@@ -88490,154 +88490,154 @@ HANDS			ahtRifle
 ITEM "Sniper Carcano91 (6.5)"
 Class			Sniper
 Caliber			"6.5x52mm Carcano"
-Weight 4300
-PrepareTime 0.73
-SingleFireTime 1.26
-BurstFireTime 0
-SpeedModifier 1.11
-Resource 1400
-DirtResource 80000
-MisfireProb 0.0039
-HeatCapacity 40
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 203
-RangeCurvature 2
-Balance 0.35
+Weight			4300
+PrepareTime		0.73
+SingleFireTime	1.26
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		1400
+DirtResource		80000
+MisfireProb		0.0039
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	203
+RangeCurvature	2
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Carcano Clip"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\carcano91nova.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Carcano38 (6.5)"
 Class			Sniper
 Caliber			"6.5x52mm Carcano"
-Weight 4100
-PrepareTime 0.63
-SingleFireTime 1.21
-BurstFireTime 0
-SpeedModifier 1.06
-Resource 1200
-DirtResource 70000
-MisfireProb 0.0039
-HeatCapacity 40
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 182
-RangeCurvature 2
-Balance 0.35
+Weight			4100
+PrepareTime		0.63
+SingleFireTime	1.21
+BurstFireTime	0
+SpeedModifier	1.06
+Resource		1200
+DirtResource		70000
+MisfireProb		0.0039
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	182
+RangeCurvature	2
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Carcano Clip"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\carcano38nova.act"
-IMAGE "2x4.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Carcano41 (6.5)"
 Class			Sniper
 Caliber			"6.5x52mm Carcano"
-Weight 4200
-PrepareTime 0.70
-SingleFireTime 1.23
-BurstFireTime 0
-SpeedModifier 1.09
-Resource 1300
-DirtResource 75000
-MisfireProb 0.0039
-HeatCapacity 40
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 197
-RangeCurvature 2
-Balance 0.35
+Weight			4200
+PrepareTime		0.70
+SingleFireTime	1.23
+BurstFireTime	0
+SpeedModifier	1.09
+Resource		1300
+DirtResource		75000
+MisfireProb		0.0039
+HeatCapacity	40
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	197
+RangeCurvature	2
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Carcano Clip"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\carcano38novalb.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Type 97 (6.5)"
 Class			Sniper
 Caliber			"6.5x50mmSR Arisaka"
-Weight 4600
-PrepareTime 0.75
-SingleFireTime 1.28
-BurstFireTime 0
-SpeedModifier 1.13
-Resource 2400
-DirtResource 99000
-MisfireProb 0.0039
-HeatCapacity 70
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 207
-RangeCurvature 2
-Balance 0.35
+Weight			4600
+PrepareTime		0.75
+SingleFireTime	1.28
+BurstFireTime	0
+SpeedModifier	1.13
+Resource		2400
+DirtResource		99000
+MisfireProb		0.0039
+HeatCapacity	70
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	207
+RangeCurvature	2
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "Japscope"
-ATT Bipod 1 "ArisakaBipod"
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		1 "ArisakaBipod"
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet		1 "AriBayo"
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"6.5 Arisaka Clip"
 StdPlug			"Arisaka Bipod Folded"
 StdPlug			"Japanese Scope"
 ACTOR			"Items\arisakat97lbmais.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Type 99 (7.7)"
@@ -88664,19 +88664,19 @@ ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "Japscope"
-ATT Bipod 1 "ArisakaBipod"
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		1 "ArisakaBipod"
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet		1 "AriBayo"
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"7.7 Arisaka Clip"
 StdPlug			"Arisaka Bipod Folded"
 StdPlug			"Japanese Scope"
 ACTOR			"Items\arisakat97lb.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Type 99L (7.7)"
@@ -88949,7 +88949,7 @@ HANDS			ahtBoltRifle
 ITEM "Sniper MAS49 MSE (7.5)"
 Class			Sniper
 Caliber			"7.5x54mm French"
-Weight 4200
+Weight			4200
 PrepareTime		0.71
 SingleFireTime	0.96
 BurstFireTime	0
@@ -88987,39 +88987,39 @@ HANDS			ahtRifle
 ITEM "Sniper G98 (7.62x54mm)"
 Class			Sniper
 Caliber "7.92x57 Mauser"
-Weight 4100
-PrepareTime 0.79
-SingleFireTime 1.36
-BurstFireTime 0
-SpeedModifier 1.15
-Resource 1700
-DirtResource 78000
-MisfireProb 0.0039
-HeatCapacity 70
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 226
-RangeCurvature 1.5
-Balance 0.35
+Weight			4100
+PrepareTime		0.79
+SingleFireTime	1.36
+BurstFireTime	0
+SpeedModifier	1.15
+Resource		1700
+DirtResource		78000
+MisfireProb		0.0039
+HeatCapacity	70
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	226
+RangeCurvature	1.5
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (Kar98k/5)"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\g98.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper G98a (7.62x54mm)"
@@ -89046,208 +89046,208 @@ ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (Kar98k/5)"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\g98car.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Karabiner 98k (7.62x54mm)"
 Class			Sniper
 Caliber "7.92x57 Mauser"
-Weight 4100
-PrepareTime 0.74
-SingleFireTime 1.33
-BurstFireTime 0
-SpeedModifier 1.11
-Resource 1800
-DirtResource 80000
-MisfireProb 0.0039
-HeatCapacity 70
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 215
-RangeCurvature 1.5
-Balance 0.35
+Weight			4100
+PrepareTime		0.74
+SingleFireTime	1.33
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		1800
+DirtResource		80000
+MisfireProb		0.0039
+HeatCapacity	70
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	215
+RangeCurvature	1.5
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (Kar98k/5)"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\KAR98.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper Mosquefal"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
-Weight 4100
-PrepareTime 0.74
-SingleFireTime 1.31
-BurstFireTime 0
-SpeedModifier 1.11
-Resource 1800
-DirtResource 80000
-MisfireProb 0.0039
-HeatCapacity 70
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 215
-RangeCurvature 1.5
-Balance 0.35
+Weight			4100
+PrepareTime		0.74
+SingleFireTime	1.31
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		1800
+DirtResource		80000
+MisfireProb		0.0039
+HeatCapacity	70
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	215
+RangeCurvature	1.5
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"m24 mag"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\KAR98.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper G98 (Brenneke)"
 Class			Sniper
 Caliber "9.3x64mm"
-Weight 4100
-PrepareTime 0.81
-SingleFireTime 1.42
-BurstFireTime 0
-SpeedModifier 1.11
-Resource 1800
-DirtResource 80000
-MisfireProb 0.0039
-HeatCapacity 70
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 226
-RangeCurvature 1.5
-Balance 0.35
+Weight			4100
+PrepareTime		0.81
+SingleFireTime	1.42
+BurstFireTime	0
+SpeedModifier	1.11
+Resource		1800
+DirtResource		80000
+MisfireProb		0.0039
+HeatCapacity	70
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	226
+RangeCurvature	1.5
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\KAR98_fire.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "KAR98Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (KARBrenneke/5)"
 StdPlug			"Zeiss ZF42"
 ACTOR			"Items\g98.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper G41 (7.62x54mm)"
 Class			Sniper
 Caliber "7.92x57 Mauser"
-Weight 5100
-PrepareTime 0.74
-SingleFireTime 0.94
-BurstFireTime 0
-SpeedModifier 1.14
-Resource 500
-DirtResource 20000
-MisfireProb 0.0039
-HeatCapacity 25
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 199
-RangeCurvature 1.5
-Balance 0.35
+Weight			5100
+PrepareTime		0.74
+SingleFireTime	0.94
+BurstFireTime	0
+SpeedModifier	1.14
+Resource		500
+DirtResource		20000
+MisfireProb		0.0039
+HeatCapacity	25
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	199
+RangeCurvature	1.5
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\Gewehr_v2.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "G43Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
-ATT Magazine 1 "built-in"
+ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (G41/10)"
 StdPlug			"Zeiss ZF4"
 ACTOR			"Items\g41.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Sniper G43 (7.62x54mm)"
 Class			Sniper
 Caliber "7.92x57 Mauser"
-Weight 4600
-PrepareTime 0.72
-SingleFireTime 0.94
-BurstFireTime 0
-SpeedModifier 1.12
-Resource 900
-DirtResource 40000
-MisfireProb 0.0039
-HeatCapacity 30
-Single 1
-Burst 0
-CutOff 0
-BurstHitStart 0
-MaxRange 300
-EffectiveRange 199
-RangeCurvature 1.5
-Balance 0.35
+Weight			4600
+PrepareTime		0.72
+SingleFireTime	0.94
+BurstFireTime	0
+SpeedModifier	1.12
+Resource		900
+DirtResource		40000
+MisfireProb		0.0039
+HeatCapacity	30
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		300
+EffectiveRange	199
+RangeCurvature	1.5
+Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
 ReLockSound		"Weapon\ReLock\Mosin_sniper_slide.wav"
 ShootSound		"Weapon\Shoot\Gewehr_v2.wav"
-ATT Laser 0
-ATT Light 0
+ATT Laser		0
+ATT Light		0
 ATT Scope		1 "G43Scope"
-ATT Bipod 0
-ATT Silencer 0
-ATT ILauncher 0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
 ATT Bayonet 0
 ATT Magazine	1 "G43"
 StdPlug			"Rifle clip (Gewehr 43/10)"
 StdPlug			"Zeiss ZF4"
 ACTOR			"Items\g43nova.act"
-IMAGE "2x5.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
 ITEM "Rifle Mosin_m91-30pu (7.62x54mm)"
@@ -89267,7 +89267,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange 201
+EffectiveRange	201
 RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -95581,7 +95581,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		320
 EffectiveRange	258
-RangeCurvature 1.5
+RangeCurvature	1.5
 Balance			0.2
 Unfold "Sniper Rifle SVDK (Brenneke) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95621,7 +95621,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		320
 EffectiveRange	228
-RangeCurvature 1.5
+RangeCurvature	1.5
 Balance			0.2
 Unfold "Sniper Rifle SVDK (Brenneke)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -95661,7 +95661,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		320
 EffectiveRange	247
-RangeCurvature 1.5
+RangeCurvature	1.5
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -99295,7 +99295,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
-ATT Silencer 1 "Supressor - 5,56"
+ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG4"
@@ -99333,7 +99333,7 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
-ATT Silencer 1 "Supressor - 5,56"
+ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "MG4"
