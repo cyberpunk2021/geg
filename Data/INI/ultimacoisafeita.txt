@@ -2227,8 +2227,7 @@ colocar IMC-40 GL nas galils
 fazer stats winchester 70 e outros hunting rifles
 6.8 spc mag clipped faltando
 verificar misc items nas shops, mines, helmets, launchers, attachments etc
-m16a4 e m16a2 LMG nerfar stats, estao iguais a m27 iar
-fazer T91 handle e colocar como "T65 Handle"
+
 
 PAREI TERMINANDO O TRADERTYPES STREET, COLOCAR MISC ITEMS
 
@@ -2348,3 +2347,28 @@ So first question is where you want to add your rules? I think the second rule s
 16:12 - Xelat: ah, forget in first case add check for shotgun. then  "if weaponClass == wcShotgun and plugFamily == Family.ifClip and plugItem:IsBuiltIn() then return LawType.Special end"
 16:12 - Xelat: also definitely you should move line "local weaponClass = info["Class"]" upper before cycle with plugs checks
 21:35 - Xelat agora está Offline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

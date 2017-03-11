@@ -199,7 +199,7 @@ Item "Optical Sight Leupold Mark 4 10x40 (WR)" Level 8 Price 1050
 Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)" Level 8 Price 1100
 Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG L)" Level 8 Price 1100
 Item "Optical Sight Leupold VX-1 3-9x50 (WR)" Level 5 Price 600
-Item "Optical Sight ZF Hensoldt 6x42 BL (SIG)"	Level 7 Price	1100
+Item "Optical Sight ZF Hensoldt 6x42 BL (SIG)"	Level 7 Price 1100
 Item "Optical Sight Leatherwood 3-9x (M14)" Level 7 Price 500
 Item "Optical Sight Leatherwood 3-9x (WR)" Level 7 Price 450
 Item "Optical Sight SN-3 5-25x TPAL (WR)" Level 8 Price 1200
@@ -261,76 +261,69 @@ Item "MP5 Flashlight" Level 2 Price 100
 /////////SILENCER
 /////////+++++++++++++++++
 
-Item "Silencer PBS-4 (.22)" 500
-Item "GemtechM4-96D Suppressor (.22)" 500
+Item "Silencer PBS-4 (.22)" Level 1 Price 500
+Item "GemtechM4-96D Suppressor (.22)" Level 1 Price 500
 
-Item "Silencer (22 Para)" 150
-Item "Silencer (32 Para)" 300
-Item "Silencer (380 Para)" 500
-Item "Silencer (x21 Para)" 1000
-Item "Silencer (x21 QCW)" 1200
-Item "Silencer (.40 P99)" 1200
-Item "357 Silencer" 1100
-Item "10mm Silencer" 2000
-Item "Silencer (MAC/380)" 600
-Item "Silencer (CBJ Para)" 1700
-Item "Silencer (10mm)" 2000
-Item "7,62 Sniper Rifle Suppressor" 2250
-Item "M110_silencer" 1800
-Item "SVD Sniper Rifle Suppressor" 2200
-Item "Brenneke Sniper Rifle Suppressor" 3000
-Item ".300 Sniper Rifle Suppressor" 3200
-Item ".338 AAC Titan-Ti" 4000
-Item "Supressor (5.8 mm)" 1800
-Item "Supressor (6x35 mm)" 1600
-Item "Supressor (6.5 mm)" 2100
-Item ".50 Beo silencer" 3600
-Item "Ash 12.7 Silencer" 3800
-Item "Silencer PBS (9x39mm)" 1300
-Item "Suppressor (6.8x43 mm)" 2000
-Item "MP7 Silencer" 600
-Item "30-06 Silencer" 1200
+Item "Silencer (22 Para)" Level 1 Price 150
+Item "Silencer (32 Para)" Level 1 Price 300
+Item "Silencer (380 Para)" Level 2 Price 500
+Item "Silencer (x21 Para)" Level 4 Price 1000
+Item "Silencer (x21 QCW)" Level 4 Price 1200
+Item "Silencer (.40 P99)" Level 4 Price 1200
+Item "357 Silencer" Level 4 Price 1100
+Item "10mm Silencer" Level 6 Price 2000
+Item "Silencer (MAC/380)" Level 1 Price 600
+Item "Silencer (CBJ Para)" Level 5 Price 1700
+Item "Silencer (10mm)" Level 6 Price 2000
+Item "7,62 Sniper Rifle Suppressor" Level 9 Price 2250
+Item "M110_silencer" Level 10 Price 1800
+Item "SVD Sniper Rifle Suppressor" Level 10 Price 2200
+Item "Brenneke Sniper Rifle Suppressor" Level 13 Price 3000
+Item ".300 Sniper Rifle Suppressor" Level 14 Price 3200
+Item ".338 AAC Titan-Ti" Level 15 Price 4000
+Item "Supressor (5.8 mm)" Level 9 Price 1800
+Item "Supressor (6x35 mm)" Level 7 Price 1600
+Item "Supressor (6.5 mm)" Level 10 Price 2100
+Item ".50 Beo silencer" Level 11 Price 3600
+Item "Ash 12.7 Silencer" Level 15 Price 3800
+Item "Silencer PBS (9x39mm)" Level 4 Price 1300
+Item "Suppressor (6.8x43 mm)" Level 11 Price 2000
+Item "MP7 Silencer" Level 3 Price 600
+Item "30-06 Silencer" Level 10 Price 1200
 
-Item "AEK919K_silencer"				330.0
-Item "Groza silencer"                                300.0
+Item "AEK919K_silencer" Level 3 Price 330.0
 
-Item "CheyTac Suppressor" 5000
+Item "CheyTac Suppressor" Level 13 Price 5000
 
-Item "APB Silencer"					600
-Item "Silencer (9 mm Para)"				1000
-Item "Silencer Trident (9 mm Para)"                  1250
-Item "UZI Silencer"					500
-Item "USP Silencer"					1250
-Item "Mk23 Silencer"					1250
-Item "Silencer Ti-RANT 45"				1500
-Item "Silencer (5.7 mm FN)"				1500
-Item "Silencer (5.7 mm P90)"				2000
-Item "Silencer (.40 S&W)"				1500
-Item "Silencer (MAC/.45)"				500
-Item "ump45_silencer"				1500
-Item "VZ82_silencer"					400
-Item "GSh-18 Silenser"				900
-Item "Saiga Suppressor (12ga)"			2000
-Item "Silencer PBS-4 (5.45 mm)"			500
-Item "Silencer PBS-1 (7.62x39 mm)"			1000
-Item "Silencer PBS-1 M24x1.5 (7.62x39 mm)"		500
-Item "Silencer PBS-4m (5.45 mm)"			500
-Item "Suppressor TGP-A"				1500
-Item "Galil Suppressor"				1000
-Item "Supressor (5.56 mm)"				1500
-Item "Suppressor M4-2000 (5.56 mm)"			2000
-Item "Suppressor M4-2000 adapted"			2200
-Item "GemtechM4-96D Suppressor (5.56 mm)"		1600
-Item "GemtechM4-96D Suppressor adapted"		1600
-Item "Silencer CYCLONE-K (7.62x51mm)"		1500
-Item "762x51 Suppressor"				2250
-Item "Gemtech Quickmount Kit"			200
-Item "AAC Blackout Kit"				200
-Item "L85A2 silencer"				2000
-Item "SIG551 Silencer"				2000
-Item "SR25_silencer"					1800
-Item "SV98 silencer"					1000
-Item "Suppressor ZA-N-M76"				1000
+Item "APB Silencer" Level 2 Price 600
+Item "Silencer (9 mm Para)" Level 3 Price 1000
+Item "Silencer Trident (9 mm Para)" Level 3 Price 1250
+Item "UZI Silencer" Level 1 Price 500
+Item "USP Silencer" Level 3 Price 1250
+Item "Mk23 Silencer" Level 3 Price 1250
+Item "Silencer Ti-RANT 45" Level 3 Price 1500
+Item "Silencer (5.7 mm FN)" Level 4 Price 1500
+Item "Silencer (5.7 mm P90)" Level 6 Price 2000
+Item "Silencer (.40 S&W)" Level 4 Price 1500
+Item "Silencer (MAC/.45)" Level 3 Price 500
+Item "ump45_silencer" Level 5 Price 1500
+Item "VZ82_silencer" Level 2 Price 400
+Item "GSh-18 Silenser" Level 3 Price 900
+Item "Silencer PBS-4 (5.45 mm)" Level 6 Price 500
+Item "Silencer PBS-1 (7.62x39 mm)" Level 6 Price 1000
+Item "Silencer PBS-1 M24x1.5 (7.62x39 mm)" Level 7 Price 500
+Item "Silencer PBS-4m (5.45 mm)" Level 7 Price 500
+Item "Suppressor TGP-A" Level 7 Price 1500
+Item "Galil Suppressor" Level 7 Price 1000
+Item "Supressor (5.56 mm)" Level 7 Price 1500
+Item "Suppressor M4-2000 (5.56 mm)" Level 7 Price 2000
+Item "GemtechM4-96D Suppressor (5.56 mm)" Level 6 Price 1600
+Item "Silencer CYCLONE-K (7.62x51mm)" Level 7 Price 1500
+Item "762x51 Suppressor" Level 7 Price 2250
+Item "L85A2 silencer" Level 5 Price 1000
+Item "SR25_silencer" Level 10 Price 2400
+Item "SV98 silencer" Level 10 Price 2100
+Item "Suppressor ZA-N-M76" Level 8 Price 1000
 
 /////////+++++++++++++++++
 /////////BIPODS
@@ -358,7 +351,6 @@ Item "SIG bipod" Level 3 Price 50
 /////////BAYONETS
 /////////+++++++++++++++++
 
-// BAYONETS
 
 Item "Bayonet (East)" Level 2 Price 50.0
 Item "Bayonet M9 (West)" Level 2 Price 70.0
@@ -874,7 +866,7 @@ Item "Car_rubber_patch"				Level 1		Price 3.0
 /////////SMUGGLE OBJECTS SELLER
 /////////+++++++++
 
-Item "PackedMedBox" Level 7 Price 3020
+Item "PackedMedBox" Level 7 Price 8020
 
 /////////+++++++++
 /////////SMUGGLE OBJECTS BUYER

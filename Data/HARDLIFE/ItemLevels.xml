@@ -94,7 +94,7 @@
   <item level="1">SMG ammo clip (L2A3/34)</item>
   <item level="3">Tactical Bipod BM</item>
   <item level="3">Tactical Bipod BM folded</item>
-  <item level="7">Suppressor ZA-N-M76</item>
+  <item level="8">Suppressor ZA-N-M76</item>
   <item level="5">CajaMunicionGrande (5.56/500)</item>
   <item level="3">CajaMunicionGrande (.45/1000)</item>
   <item level="2">CajaMunicionGrande (9mm/1000)</item>
@@ -140,16 +140,12 @@
   <item level="4">Assault Rifle Krinkov (7.62x39mm)</item>
   <item level="4">Assault Rifle Krinkov (7.62x39mm) folded</item>
   <item level="7">Suppressor M4-2000 (5.56 mm)</item>
-  <item level="9">Suppressor M4-2000 adapted</item>
   <item level="6">GemtechM4-96D Suppressor (5.56 mm)</item>
   <item level="1">GemtechM4-96D Suppressor (.22)</item>
-  <item level="8">GemtechM4-96D Suppressor adapted</item>
   <item level="7">Silencer PBS-1 M24x1.5 (7.62x39 mm)</item>
   <item level="1">UZI Silencer</item>
   <item level="3">Silencer Ti-RANT 45</item>
   <item level="3">Silencer Trident (9 mm Para)</item>
-  <item level="7">Gemtech Quickmount Kit</item>
-  <item level="6">AAC Blackout Kit</item>
   <item level="7">Assault Rifle Colt Commando 933 FG</item>
   <item level="8">Assault Rifle M4A1 RIS FG (5.56mm)</item>
   <item level="1">Ammo box (8mm FMJ BT)</item>
@@ -308,7 +304,7 @@
   <item level="3">RPG-7 Grenade</item>
   <item level="3">RPG-7 Grenade 2</item>
   <item level="7">Optical Sight Leupold Mark 4 10x40 (M24)</item>
-  <item level="3">APB Silencer</item>
+  <item level="2">APB Silencer</item>
   <item level="2">Bayonet (East)</item>
   <item level="2">Bayonet M9 (West)</item>
   <item level="3">Bizon silencer</item>
@@ -348,6 +344,7 @@
   <item level="4">Silencer (5.7 mm FN)</item>
   <item level="6">Silencer (5.7 mm P90)</item>
   <item level="3">Silencer (9 mm Para)</item>
+  <item level="5">ump45_silencer</item>
   <item level="3">Silencer (MAC/.45)</item>
   <item level="6">Silencer PBS-1 (7.62x39 mm)</item>
   <item level="6">Silencer PBS-4 (5.45 mm)</item>
@@ -712,7 +709,7 @@
   <item level="7">Assault Rifle L85A2 (5.56mm)</item>
   <item level="6">Optical Sight SUSAT L9A1 (SA80)</item>
   <item level="5">L85A2 Handle</item>
-  <item level="8">L85A2 silencer</item>
+  <item level="5">L85A2 silencer</item>
   <item level="3">Rifle ammo clip (SIG551/20)</item>
   <item level="3">Rifle ammo clip (SIG551/30)</item>
   <item level="8">Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)</item>
@@ -772,6 +769,7 @@
   <item level="11">Sniper Rifle SR25 (7.62x51mm)</item>
   <item level="5">Rifle ammo clip (SR25\20)</item>
   <item level="10">SR25_silencer</item>
+  <item level="10">SV98 silencer</item>
   <item level="4">Shotgun KS-23 (23mm)</item>
   <item level="5">Machinegun box (RPD/100)</item>
   <item level="7">Machinegun RPD (7.62x39mm)</item>

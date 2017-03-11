@@ -990,12 +990,14 @@ FOR  "Chain-gun PKMN Type 86 (7.62x54mm)"
 Barrel
 None  "Items\HK21e-barrel.act""HK21-barrel.e5b"
 FOR  "Chain-gun HK21e (7.62x51mm)"
+FOR  "Chain-gun HK21e TB (7.62x51mm)"
 2500
 
 "HK23 barrel"
 Barrel
 None  "Items\HK23e-barrel.act""HK23-barrel.e5b"
 FOR  "Chain-gun HK23e (5.56x45mm)"
+FOR  "Chain-gun HK23e TB (5.56x45mm)"
 2200
 
 "16 inch Upper .300 AAC Blackout"

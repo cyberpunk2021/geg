@@ -45,6 +45,9 @@ end
 function buildItemLawType(item)
     local family = item:GetFamily()
     local info = item:GetSpecificInfo()
+	if family == Family.ifMine then
+		return LawType.Military
+	end
     if family == Family.ifWeapon then
         local clip_capacity = 0
         local stdPlugList = info["StdPlug"]
@@ -64,21 +67,22 @@ function buildItemLawType(item)
             end
         end
         local weaponClass = info["Class"]
+		if item:IsGrenade() then
+            return LawType.Military
+        end
+		
+		
         if ((info["Burst"]) and (weaponClass ~= wcSMG and weaponClass ~= wcPistol)) then -- автоматическое оружие (постоянный параметр)
             return LawType.Military
         end
-
+		if (weaponClass == wcShotgun and plugFamily == Family.ifClip and plugItem:IsBuiltIn() == false) then
+            return LawType.Police
+        end
         if ((info["Burst"]) and (weaponClass == wcSMG or weaponClass == wcPistol)) then -- Law.Police по признаку наличия складного приклада (постоянный параметр)
             return LawType.Police
         end
 
-			if item:IsGrenade() then
-            return LawType.Military
-        end
 		
-		if family == Family.ifMine then
-        return LawType.Military
-		end
 
         if ((weaponClass ~= wcPistol) or (weaponClass == wcShotgun and clip_capacity > 5)) then
           return LawType.Hunter
@@ -184,7 +188,7 @@ function GetLawForItem(item)
                 local clipInfo = clip:GetInfo():GetSpecificInfo()
                 local clip_capacity = clipInfo["Rounds"]
 				
-        if ((info["Burst"]) and (info["Class"] == wcSMG or info["Class"] == wcPistol)) then -- Law.Police по признаку наличия складного приклада (постоянный параметр)
+        if ((info["Burst"]) and (info["Class"] == wcSMG or info["Class"] == wcPistol) or (weaponClass == wcShotgun and (plugFamily == Family.ifClip and plugItem:IsBuiltIn() == false))) then -- Law.Police по признаку наличия складного приклада (постоянный параметр)
             return LawType.Police
         end
 				

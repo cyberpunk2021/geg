@@ -10497,7 +10497,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "USP"
 StdPlug			"Pistol clip (USP/12)"
-StdPlug			"USP Silencer"
+//StdPlug			"USP Silencer"
 ACTOR			"Items\usp_tactical.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -10656,7 +10656,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "USP"
 StdPlug			"Pistol clip (USP/12)"
-StdPlug			"Mk23 Silencer"
+//StdPlug			"Mk23 Silencer"
 ACTOR			"Items\hkmk23.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
