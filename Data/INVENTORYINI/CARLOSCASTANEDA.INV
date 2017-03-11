@@ -1,0 +1,8754 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 
+Item  0 0 12 
+Name  "note"
+SpecificData  
+EndOfSpecificData  
+Used  0 
+Prob  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle DaewooK1 (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  12 12 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 6 15 8 
+Name  "Barska AC"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "k1a1stock"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 
+Item  0 0 10 
+Name  "Gold_medallion"
+SpecificData  
+OtherInfo  
+GUID  4841 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 9 
+Item  0 0 1 
+Name  "Tactical Armor Vest M200"
+SpecificData  
+ArmourInfo  
+Prob  0.7 -1 -1 -1 -1 
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+Nothing  
+EndOfSpecificData  
+Used  0 
+Prob  1 10 
+Item  1 1 10 
+Name  "Capsule"
+SpecificData  
+OtherInfo  
+GUID  4800 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tablets"
+SpecificData  
+OtherInfo  
+GUID  4952 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 0 
+Name  "Offensive Hand Grenade M67"
+SpecificData  
+WeaponInfo  1 1 0 1 0 
+Jammed  0 
+AddonsCount  1 0 0 8 
+Name  "Grenade Ring (West)"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+GrenadeInfo  
+Explodable  0 
+Armed  0 
+VisForPlayer  1 
+Destination  0 0 0 
+IsCase  0 
+JumpTimerUsed  0 
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  4894 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 11 
+Item  1 1 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Some_drugs"
+SpecificData  
+OtherInfo  
+GUID  2510 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Basic Belt"
+SpecificData  
+OtherInfo  
+GUID  2011 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  7 
+Pockets  59 
+Item  0 0 0 
+Name  "Pistol Desert Eagle 50"
+SpecificData  
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  7 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 60 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  2082 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  2173 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 
+Item  0 1 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 37 
+Item  1 0 10 
+Name  "XXX2"
+SpecificData  
+OtherInfo  
+GUID  2186 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  2 0 10 
+Name  "Drink_tequila_big"
+SpecificData  
+OtherInfo  
+GUID  2525 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 33 
+Item  0 0 10 
+Name  "Pen"
+SpecificData  
+OtherInfo  
+GUID  2004 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 7 
+Name  "Ammo box (.50AE HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  23 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Pistol clip (Desert50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".50AE FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  7 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 
+Item  0 0 10 
+Name  "Map (SMM)"
+SpecificData  
+OtherInfo  
+GUID  2254 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 39 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2507 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 13 
+Money  1000 
+END_VARIANT  
+EndStage  
