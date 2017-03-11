@@ -2,6 +2,82 @@
 /////////Street trader guns
 /////////==========================
 
+/////////==========================
+/////////TRADER MISC
+/////////==========================
+
+/////////+++++++++
+/////////RIS / STOCKS / KITS
+/////////+++++++++
+
+Item "RK71HG" Level 3 Price 30
+Item "RK71W2HG" Level 3 Price 30
+
+Item "APS_butt" Level 1 Price 30
+Item "APB_butt" Level 1 Price 30
+Item "M712_butt" Level 1 Price 150
+
+// Mounts
+Item "Tactical grip" Level 1 Price 100
+Item "MP5 butt A2" Level 2 Price 50
+Item "MP5 butt A3" Level 2 Price 150
+Item "MP5 Flashlight" Level 2 Price 100
+
+/////////+++++++++++++++++
+/////////MINES
+/////////+++++++++++++++++
+
+////BASIC
+
+Item "Remote Mine Controller" Level 1 Price 50.0
+Item "Fuze_m605" Level 3 Price 150
+Item "Fuze_radio" Level 3 Price 300
+
+////SOVIET
+
+Item "Ozm4_contact" Level 2 Price 320
+
+/////////+++++++++++++++++
+/////////SIGHTS
+/////////+++++++++++++++++
+
+Item "Docter Sight (Pistol)" Level 1 Price 150
+
+Item "Docter Sight (WR)" Level 3 Price 200
+Item "Vision Plus Dot" Level 4 Price 290
+Item "Kobra WR" Level 4 Price 260
+
+
+Item "Collimator AEK919K" Level 2 Price 100.0
+
+/////////+++++++++++++++++
+/////////BAYONETS
+/////////+++++++++++++++++
+
+
+Item "Bayonet (East)" Level 2 Price 50.0
+Item "Bayonet M9 (West)" Level 2 Price 70.0
+
+Item "Bayonet (QBZ)" Level 2 Price 50
+
+Item "Mount dual clip (M16)" Level 3 Price 50
+Item "Mount dual clip (MP5)" Level 3 Price 50
+
+/////////+++++++++++++++++
+/////////HANDLES
+/////////+++++++++++++++++
+
+Item "M4A1 Handle" Level 2 Price 25
+Item "M16 Handle" Level 3 Price 25.0
+/////////==========================
+/////////TRADER MISC
+/////////==========================
+
+Item "Pistol clip (APS/20)"   Level 1 Price      50.0
+
+Item "Pistol APB (9x18mm)"	Level 2 Price			1050
+Item "Pistol APS (9x18mm)"	Level 1 Price			750
+
 Item "SMG ammo clip (AEK919K/20)" Level 1 Price 20.0
 Item "SMG ammo clip (AEK919K/30)" Level 1 Price 30.0
 Item "SMG ammo clip (VZ82/10)" Level 1 Price 20.0
@@ -578,9 +654,9 @@ Item "Case_Soft_Skin" Level 1 Price 200
 Item "Case_Soft_Small" Level 1 Price 150
 Item "Case_Guitar" Level 1 Price 150
 Item "Case_Soft_Fabric" Level 1 Price 350
+
 Item "Folded VestNew" Level 3 Price 200.0
 Item "Folded Razgr_smerch" Level 1 Price 100.0
-
 Item "Folded Ammo Belt" Level 1 Price 50
 Item "Folded Basic Belt" Level 1 Price 100
 Item "Folded Belt_02" Level 3 Price 120
@@ -588,6 +664,17 @@ Item "Folded Belt_03" Level 2 Price 100
 Item "Folded Belt_04" Level 1 Price 5
 Item "Folded Ammo Cartouche6" Level 2 Price 50.0
 Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
+
+Item "VestNew" Level 3 Price 200.0
+Item "Razgr_smerch" Level 1 Price 100.0
+Item "Ammo Belt" Level 1 Price 50
+Item "Basic Belt" Level 1 Price 100
+Item "Belt_02" Level 3 Price 120
+Item "Belt_03" Level 2 Price 100
+Item "Belt_04" Level 1 Price 5
+Item "Ammo Cartouche6" Level 2 Price 50.0
+Item "Ammo CartoucheVert" Level 4 Price 125.0
+
 
 Item "Backpack_tourist" Level 1 Price 780.0
 
@@ -642,8 +729,6 @@ Item "Lighter_cryst_b" Level 1 Price 5
 Item "Lighter_cryst_g" Level 1 Price 5
 Item "Lighter_cryst_r" Level 1 Price 5
 
-Item "PayCard_mobile" Level 1 Price 30
-Item "PayCard_phone" Level 1 Price 20
 
 
 /////////+++++++++
