@@ -2413,7 +2413,7 @@ Item "Rifle ammo clip (PMAG/30)" Level 4 Price 100
 Item "Sniper rifle clip (Vepr3006/10)" Level 6 Price 60
 Item "Sniper rifle clip (Vepr/10)" Level 5 Price 30
 Item "Sniper rifle clip (CSLR4/10)" Level 7 Price 45
-Item "Rifle ammo clip (DSR/5)" Level 9 50
+Item "Rifle ammo clip (DSR/5)" Level 9 Price 50
 Item "Pistol clip (MAB/9)" Level 1 Price 10
 Item "Pistol clip (MAB/7)" Level 1 Price 15
 Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
