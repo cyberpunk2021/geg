@@ -765,3 +765,19 @@ Item "Big Ammo box 500 (French FMJ)" Level 2 Price 100
 
 Item "Big Ammo box (8x50 FMJ)" Level 1 Price 0.001
 Item "Big Ammo box 500 (8x50 FMJ)" Level 2 Price 100
+
+// Missing magazines
+Item "Pistol clip (M213/8)" Level 1 Price 20
+Item "Pistol clip (M213/14)" Level 1 Price 30
+Item "SMG ammo clip (M45/36)" Level 1 Price 50
+Item "SMG ammo clip (K50M/35)" Level 1 Price 30
+Item "SMG ammo clip (Type79/20)" Level 1 Price 20
+Item "SMG ammo clip (Type85/30)" Level 1 Price 15
+Item "SMG ammo clip (MAT-49Viet/35)" Level 1 Price 45
+Item "Rifle clip (Mosquetao/10)" Level 1 Price 15
+Item "Machinegun ammo clip (Madsen/30)" Level 2 Price 40
+Item "Rifle ammo clip (DSA-58OSW/30)" Level 4 Price 25.0
+Item "Machinegun clip (Type 96/30)" Level 1 Price 30
+Item "Machinegun clip (Type 99/30)" Level 1 Price 40
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15

@@ -1475,3 +1475,25 @@ Item "Ammo Box Duplex .308" Level 5 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
 Item "Ammo box (10mm SP)" Level 1 Price 0.001
+
+// Missing magazines
+Item "Magpul PMAG Tan Window BLK New (M16/30)" Level 3 Price 50
+Item "Galil clip 7.62" Level 4 Price 35.0
+Item "Pistol clip (P99/15)" Level 1 Price 100
+Item "Pistol clip (p99/12)" Level 1 Price 75
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
+Item "Pistol clip (Glock 17/17)" Level 1 Price 30.0
+Item "Pistol clip (Glock 18/19)" Level 1 Price 45.0
+Item "Pistol clip (PT92/15)" Level 1 Price 30
+Item "Pistol clip (PT92B/15)" Level 1 Price 30
+Item "Pistol clip (PT92W/15)" Level 1 Price 30
+Item "Pistol clip (PT100/10)" Level 1 Price 35
+Item "Pistol clip (K10/13)" Level 2 Price 30
+Item "SMG ammo clip (INA/30)" Level 1 Price 15
+Item "SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price 60.0
+Item "Rifle clip (SteyrScout/5)" Level 4 Price 45
+Item "Rifle clip (Scout Elite223/10)" Level 4 Price 20
+Item "Rifle clip (SteyrScout308/5)" Level 5 Price 45
+Item "Rifle clip (Scout Elite308/10)" Level 5 Price 30

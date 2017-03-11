@@ -3945,3 +3945,46 @@ Item "Ammo box (SP-4)" Level 1 Price 0.001
 /////////
 
 Item "Ammo box (DM11)" Level 6 Price 0.001
+
+// Missing magazines
+Item "SMG ammo drum (Thompson/50)" Level 1 Price 100.0
+Item "SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price 40.0
+Item "SMG ammo clip (MP18/30)" Level 1 Price 25
+Item "Pistol clip (m712/30)" Level 1 Price 50.0
+Item "SMG ammo clip (PPSH-41/71)" Level 2 Price 200
+Item "SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price 60.0
+Item "Rifle ammo clip (AK 5.56/30)" Level 1 Price 40.0
+Item "Rifle ammo clip (Al.300BLK/30)" Level 3 Price 50
+Item "Rifle ammo clip PMAG (6.5/30)" Level 3 Price 80
+Item "Magpul PMAG Window (Badger/30)" Level 3 Price 50
+Item "Metal rifle ammo clip (AK 5.56/30)" Level 1 Price 30
+Item "Chain-gun ammo box Alt (FN MAG 7.62x51/200)" Level 7 Price 500
+Item "Chain-gun ammo box Alt (M240 7.62x51/100)" Level 7 Price 200
+Item "SMG ammo clip (CF05/50)" Level 3 Price 80
+Item "Rifle ammo clip (Type64/20)" Level 5 Price 45
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
+Item "Pistol clip (P99/15)" Level 1 Price 100
+Item "Pistol clip (Glock 17/17)" Level 1 Price 30.0
+Item "Pistol clip (Glock 18/19)" Level 1 Price 45.0
+Item "Pistol clip (PT92/15)" Level 1 Price 30
+Item "Pistol clip (PT92B/15)" Level 1 Price 30
+Item "Pistol clip (PT92W/15)" Level 1 Price 30
+Item "Pistol clip (p99/12)" Level 1 Price 75
+Item "Pistol clip (PT100/10)" Level 1 Price 35
+Item "Pistol clip (K10/13)" Level 2 Price 30
+Item "SMG ammo clip (INA/30)" Level 1 Price 15
+Item "SMG ammo clip (T82/30)" Level 1 Price 25
+Item "SMG ammo clip (PM84/25)" Level 1 Price 55
+Item "Magpul PMAG Tan Window (M16/30)" Level 5 Price 60
+Item "Shotgun ammo clip (DBV/8)" Level 3 Price 40
+Item "Rifle ammo clip (M76/10)" Level 4 Price 25
+Item "Rifle clip (SteyrScout/5)" Level 4 Price 45
+Item "Rifle clip (Scout Elite223/10)" Level 4 Price 20
+Item "Rifle clip (SteyrScout308/5)" Level 5 Price 45
+Item "Rifle clip (Scout Elite308/10)" Level 5 Price 30
+Item "Rifle ammo clip (DSA/10)" Level 2 Price 50.0
+Item "Rifle ammo clip (VZ58/75)" Level 7 Price 130
+Item "C-MAG (M16/100)" Level 8 Price 100
+Item "Machinegun clip (NG7/100)" Level 8 Price 300

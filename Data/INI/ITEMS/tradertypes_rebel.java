@@ -3188,3 +3188,37 @@ Item "AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
 Item "Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
 Item "Pistol Springfield Golden (.45 ACP)"			Level 16	Price	10000
 Item "Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
+
+// Missing magazines
+Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
+Item "Pistol clip (BR1911Xodo9mm/16)" Level 1 Price 30
+Item "Pistol clip (BR19119mm/16)" Level 1 Price 15
+Item "Pistol clip (BR1911Xodo/14)" Level 1 Price 20
+Item "Pistol clip (BR1911Xodo45/14)" Level 1 Price 20
+Item "Pistol clip (BR191145/14)" Level 1 Price 20
+Item "Pistol clip (Desert)" Level 1 Price 75.0
+Item "SMG ammo clip (MP18/30)" Level 1 Price 25
+Item "Pistol clip (m712/30)" Level 1 Price 50.0
+Item "SMG ammo clip (PPSH-41/71)" Level 2 Price 200
+Item "Shotgun clip (HAWK/5)" Level 2 Price 45
+Item "Galil clip 7.62" Level 4 Price 35.0
+Item "Rifle ammo clip (AS/VSS/20)" Level 2 Price 90.0
+Item "Rifle ammo clip (SR25\20)" Level 5 Price 70.0
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
+Item "Pistol clip (Glock 17/17)" Level 1 Price 30.0
+Item "Pistol clip (PT92/15)" Level 1 Price 30
+Item "Pistol clip (PT92B/15)" Level 1 Price 30
+Item "Pistol clip (PT92W/15)" Level 1 Price 30
+Item "Pistol clip (K40/6)" Level 2 Price 5
+Item "Pistol clip (PT100/10)" Level 1 Price 35
+Item "Pistol clip (K10/13)" Level 2 Price 30
+Item "Pistol clip (Delta Elite/8)" Level 1 Price 75
+Item "SMG ammo clip (INA/30)" Level 1 Price 15
+Item "SMG ammo clip (T82/30)" Level 1 Price 25
+Item "SMG ammo clip (PM84/25)" Level 1 Price 55
+Item "Shotgun ammo clip (DBV/8)" Level 3 Price 40
+Item "Rifle ammo clip (M76/10)" Level 4 Price 25
+Item "Rifle ammo clip (DSA/10)" Level 2 Price 50.0
+Item "Rifle ammo clip (VZ58/75)" Level 7 Price 130

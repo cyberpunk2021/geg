@@ -1608,3 +1608,31 @@ Item "Ammo box (SS190)" Level 3 Price 0.001
 Item "Big Ammo box (SS190)" Level 4 Price 100
 Item "Big Ammo box (SS192)" Level 5 Price 100
 Item "Big Ammo box (SS193)" Level 6 Price 100
+
+// Missing magazines
+Item "Pistol clip (Browning-hp/10)" Level 1 Price 30
+Item "Shotgun clip (MAG7/5)" Level 1 Price 40
+Item "Rifle ammo clip (Mini-14/30)" Level 2 Price 35.0
+Item "Pistol clip (Glock 17/17)" Level 1 Price 30.0
+Item "Pistol clip (Glock 18/19)" Level 1 Price 45.0
+Item "Pistol clip (BR1911/14)" Level 1 Price 20
+Item "Pistol clip (K10/13)" Level 2 Price 30
+Item "SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price 60.0
+Item "Magpul PMAG Tan Window (M16/30)" Level 5 Price 60
+Item "Rifle ammo clip (Al.300BLK/30)" Level 4 Price 50
+Item "Magpul PMAG Window (Badger/30)" Level 5 Price 50
+Item "Rifle clip (SteyrScout/5)" Level 4 Price 45
+Item "Rifle clip (Scout Elite223/10)" Level 4 Price 20
+Item "Rifle clip (SteyrScout308/5)" Level 5 Price 45
+Item "Rifle clip (Scout Elite308/10)" Level 5 Price 30
+Item "Rifle ammo clip (DSA/10)" Level 2 Price 50.0
+Item "C-MAG (M16/100)" Level 8 Price 100
+Item "Machinegun clip (NG7/100)" Level 8 Price 300
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
+Item "Pistol clip (PT92/15)" Level 1 Price 30
+Item "Pistol clip (PT92B/15)" Level 1 Price 30
+Item "Pistol clip (PT92W/15)" Level 1 Price 30
+Item "Pistol clip (BerettaElite 92FS/15)" Level 1 Price 45
+Item "SMG ammo clip (INA/30)" Level 1 Price 15

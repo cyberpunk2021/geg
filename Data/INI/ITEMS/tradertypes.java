@@ -1147,3 +1147,21 @@ Item "Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
 Item "Canteen_g1" Level 16 Price 2600
 Item "Canteen_g2" Level 16 Price 2500
 Item "Drink_rum_general" Level 16 Price 1500
+
+// Missing magazines
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
+Item "Pistol clip (Beretta M9A1/15)" Level 1 Price 30
+Item "Pistol clip (PT92/15)" Level 1 Price 30
+Item "Pistol clip (PT92B/15)" Level 1 Price 30
+Item "Pistol clip (PT92W/15)" Level 1 Price 30
+Item "Pistol clip (BerettaElite 92FS/15)" Level 1 Price 45
+Item "Pistol clip (K40/6)" Level 2 Price 5
+Item "Pistol clip (PT100/10)" Level 1 Price 35
+Item "Pistol clip (Desert)" Level 1 Price 75.0
+Item "Pistol clip (Delta Elite/8)" Level 1 Price 75
+Item "SMG ammo clip (INA/30)" Level 1 Price 15
+Item "SMG ammo clip (VZ68/20)" Level 1 Price 25
+Item "Rifle ammo clip (AK 308/20)" Level 6 Price 80
+Item "Rifle ammo clip (M76/10)" Level 4 Price 25

@@ -2396,3 +2396,38 @@ Item "BigAmmoBox (7.92x57 HP/200)" Level 3 Price 100
 Item "Ammo box 500 HLA (7.92x57)" Level 3 Price 100
 Item "Ammo box 500 HLA (8mm SP)" Level 2 Price 100
 Item "Ammo box 500 HLA (8mm FMJ BT)" Level 3 Price 100
+
+// Missing magazines
+Item "Magpul PMAG Window (6.8SPC/30)" Level 3 Price 50
+Item "Rifle ammo clip (G36/30)" Level 3 Price             60.0
+Item "Rifle ammo clip (Norinco/10)" Level 3 Price 20
+Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
+Item "Rifle clip (MSR338/5)" Level 9 Price 60
+Item "Rifle clip (MSR338BK/5)" Level 9 Price 60
+Item "Rifle clip (SSG08/6)" Level 9 Price 60
+Item "Pistol clip (Automag50)" Level 3 Price 40
+Item "Pistol clip (Automag10)" Level 2 Price 40
+Item "Pistol clip (Automag30)" Level 2 Price 40
+Item "Pistol clip (Contender/3006)" Level 1 Price 0.001
+Item "Rifle ammo clip (PMAG/30)" Level 4 Price 100
+Item "Sniper rifle clip (Vepr3006/10)" Level 6 Price 60
+Item "Sniper rifle clip (Vepr/10)" Level 5 Price 30
+Item "Sniper rifle clip (CSLR4/10)" Level 7 Price 45
+Item "Rifle ammo clip (DSR/5)" Level 9 50
+Item "Pistol clip (MAB/9)" Level 1 Price 10
+Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (BerettaElite380/19)" Level 1 Price 30
+Item "Pistol clip (P99/15)" Level 1 Price 100
+Item "Pistol clip (Glock 17/17)" Level 1 Price 30.0
+Item "Pistol clip (PT92/15)" Level 1 Price 30
+Item "Pistol clip (PT92B/15)" Level 1 Price 30
+Item "Pistol clip (PT92W/15)" Level 1 Price 30
+Item "Pistol clip (p99/12)" Level 1 Price 75
+Item "Pistol clip (PT100/10)" Level 1 Price 35
+Item "Pistol clip (K10/13)" Level 2 Price 30
+Item "Rifle ammo clip (M76/10)" Level 4 Price 25
+Item "Rifle clip (SteyrScout/5)" Level 4 Price 45
+Item "Rifle clip (Scout Elite223/10)" Level 4 Price 20
+Item "Rifle clip (SteyrScout308/5)" Level 5 Price 45
+Item "Rifle clip (Scout Elite308/10)" Level 5 Price 30
+Item "Rifle ammo clip (DSA/10)" Level 2 Price 50.0

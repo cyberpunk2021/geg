@@ -939,3 +939,11 @@ Item "Ammo Box 500 (14.5x114mm BS)" Level 7 Price 100
 Item "Ammo Box 500 (14.5x114mm B32)" Level 7 Price 100
 Item "Ammo Box 500 (14.5x114mm DGJ02)" Level 7 Price 100
 Item "Ammo Box 500 (14.5x114mm Surplus)" Level 5 Price 100
+
+// Missing magazines
+Item "SMG ammo clip (PM84P/25)" Level 1 Price 55
+Item "SMG ammo clip (UZI/32)" Level 2 Price 20.0
+Item "SMG ammo clip (T82/30)" Level 1 Price 25
+Item "SMG ammo clip (PM84/25)" Level 1 Price 55
+Item "Shotgun ammo clip (DBV/8)" Level 3 Price 40
+Item "Rifle ammo clip (VZ58/75)" Level 7 Price 130
