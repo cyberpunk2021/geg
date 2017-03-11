@@ -2,6 +2,395 @@
 /////////GUNSHOP guns
 /////////==========================
 
+/////////+++++++++
+/////////RIS / STOCKS / KITS
+/////////+++++++++
+
+Item "RK71HG" Level 3 Price 30
+Item "RK71W2HG" Level 3 Price 30
+
+// Mounts
+Item "Tactical grip" Level 1 Price 100
+Item "MP5 butt A2" Level 2 Price 50
+Item "MP5 butt A3" Level 2 Price 150
+Item "MP5 forestock" Level 2 Price 50
+Item "MP5 forestock RIS" Level 2 Price 150
+Item "HK53 forestock" Level 3 Price 150
+Item "HK53 forestock RIS" Level 3 Price 300
+Item "Type81 forestock" Level 3 Price 150
+Item "Type81 forestock RIS" Level 3 Price 300
+Item "MC51 forestock" Level 3 Price 150
+Item "MC51 forestock RIS" Level 3 Price 300
+Item "M4 forestock" Level 3 Price 20
+Item "M4 forestock RIS" Level 3 Price 100
+Item "M16A2forestock" Level 3 Price 20
+
+// Merca RIS kits
+Item "RIS kit (Mateba Model 6)"	Level 2 Price	100
+Item "Stock kit (Mateba Model 6)"	Level 2 Price	100
+Item "RIS kit (IMBEL M964A1)"	Level 3 Price		250
+Item "Stock kit (IMBEL M964A1)"	Level 3 Price		250
+Item "RIS kit (M1A)"	Level 3 Price					100
+Item "Stock kit (M1A)"	Level 3 Price				100
+
+// Merca module kits
+Item "Contender Kit" Level 1 Price 250
+Item "Encore Kit" Level 2 Price 250
+Item "Keltec Kits" Level 9 Price 3200
+Item "SPAS-12 Kits" Level 3 Price 200
+
+/////////+++++++++++++++++
+/////////CAMO KIT / CLEANING KIT
+/////////+++++++++++++++++
+
+Item "Cleaning Kit" Level 1 Price 250.0
+Item "Camo Kit" Level 3 Price 300.0
+
+/////////+++++++++++++++++
+/////////NV GOGGLES
+/////////+++++++++++++++++
+
+Item "PVS-7B" Level 8 Price 6500.0
+
+
+/////////+++++++++++++++++
+/////////THREADED BARREL
+/////////+++++++++++++++++
+
+Item "Glock-17 threaded barrel" Level 1 Price 200
+Item "Glock-22 threaded barrel" Level 2 Price 300
+Item "Glock-21 threaded barrel" Level 2 Price 400
+Item "USP45 threaded barrel" Level 2 Price 320
+Item "SR9 threaded barrel" Level 10 Price 300
+
+/////////+++++++++++++++++
+/////////SIGHTS
+/////////+++++++++++++++++
+
+Item "Docter Sight (Pistol)" Level 1 Price 150
+
+Item "Docter Sight (WR)" Level 3 Price 200
+Item "Vision Plus Dot" Level 4 Price 290
+Item "Barska Red Dot" Level 5 Price 350
+Item "Leupold Prismatic (WR)" Level 5 Price 320
+Item "M26 Mass Reflex" Level 8 Price 440
+Item "FN SSR Reflex" Level 4 Price 300
+Item "Aimpoint Micro" Level 6 Price 370
+Item "C-MORE Red Dot" Level 8 Price 390
+Item "Barska AC" Level 9 Price 430
+Item "Kobra WR" Level 4 Price 260
+
+
+
+Item "Collimator EKP-8-02 'Cobra' (AK)" Level 5 Price 350
+
+Item "Collimator Aimpoint Comp M (WR)" Level 6 Price 400
+
+Item "EOTech Holosight 552 (WR)" Level 6 Price 470
+Item "PK AS Red Dot (AK)" Level 6 Price 420
+
+
+
+
+
+/////////+++++++++++++++++
+/////////ACOGS
+/////////+++++++++++++++++
+
+Item "Optical Sight PO4x34 (G)" Level 7 Price 130.0
+Item "Optical Sight Elcan 3.4x28 (C7)" Level 6 Price 700
+Item "Optical Sight Elcan 3.4x28 (WR)" Level 6 Price 700
+Item "Optical Sight ACOG 4x32 (WR)" Level 7 Price 800
+Item "Magnifier" Level 5 Price 1250
+Item "Optical Sight SUSAT L9A1 (SA80)" Level 6 Price 1000.0
+
+
+/////////+++++++++++++++++
+/////////SCOPES
+/////////+++++++++++++++++
+
+
+Item "BFR Scope" Level 1 Price 300
+Item "10x42 Leupold Ultra M3A" Level 4 Price 500
+Item "Optical Sight Leupold Mark 4 10x40 (M24)" Level 7 Price 1000
+Item "Optical Sight Leupold Mark 4 10x40 (WR)" Level 8 Price 1050
+
+Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)" Level 8 Price 1100
+Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG L)" Level 8 Price 1100
+Item "Optical Sight Leupold VX-1 3-9x50 (WR)" Level 5 Price 600
+Item "Optical Sight ZF Hensoldt 6x42 BL (SIG)"	Level 7 Price 1100
+Item "Optical Sight Leatherwood 3-9x (M14)" Level 7 Price 500
+Item "Optical Sight Leatherwood 3-9x (WR)" Level 7 Price 450
+Item "Optical Sight SN-3 5-25x TPAL (WR)" Level 8 Price 1200
+Item "Optical Sight SN-3 5-25x TPAL (M14)" Level 8 Price 1200
+Item "Optical Sight Leupold Rifleman 3-9x (M24)" Level 4 Price 300
+
+Item "Optical Sight L1A1 Schmidt und Bender (AW)" Level 11 Price 1500.0
+Item "Optical Sight ZF Hendsoldt 6x42 (PSG)" Level 6 Price 1500.0
+Item "Optical Sight Nimrod 6x40 (Galatz)" Level 7 Price 1500.0
+
+Item "Optical Sight ZF Hensoldt 10x42 (MSG)" Level 8 Price 2000.0
+Item "Optical Sight (F2000)" Level 8 Price 1100.0
+
+Item "Night Sight AN/PVS-4 (WR)" Level 8 Price 2750
+
+Item "Optical Sight PSO1-M2 (Dragunov)" Level 7 Price 350.0
+Item "Optical Sight PSO1-M2-02 (AK)" Level 7 Price 350.0
+Item "Optical Sight PO6x39 (SVD)" Level 8 Price 500
+Item "Optical Sight PU" Level 1 Price 250
+Item "Optical Sight Zrak M89 (Z)" Level 4 Price 250
+Item "Optical Sight ON-M76 4x" Level 4 Price 300
+Item "Optical Sight ON-M91 6x42" Level 5 Price 450
+Item "Optical Sight 1P69 Giperon (WR)" Level 10 Price 500
+Item "Night Sight 1PN93-1 (AK)" Level 7 Price 1850
+Item "Night Sight 1PN93-4 (Dragunov)" Level 8 Price 1850
+
+Item "KN250" Level 10 Price 3000
+
+Item "NSA80" Level 10 Price 2000
+
+
+/////////+++++++++++++++++
+/////////LASERS
+/////////+++++++++++++++++
+
+Item "Laser Aiming Module (Rifle)" Level 5 Price 270.0
+Item "Laser Aiming Module (F2000)" Level 6 Price 350.0
+Item "Tactical Light Module (F2000)" Level 7 Price 450.0
+Item "ANPEQ Laser" Level 7 Price 800
+Item "ANPEQ 15 Laser" Level 8 Price 1000
+Item "ANPEQ 15 Laser Black" Level 8 Price 1000
+Item "DBAL A2" Level 9 Price 1500
+
+/////////+++++++++++++++++
+/////////LIGHTS
+/////////+++++++++++++++++
+
+Item "Universal Tactical Light (Rifle)" Level 3 Price 400
+Item "Universal Tactical Light Black (Rifle)" Level 3 Price 400
+
+Item "Insight M3 Tactical Flashlight (WR)" Level 1 Price 70
+Item "Beamshot 5000S (WR)" Level 1 Price 100
+Item "Surefire CUS Flashlight (WR)" Level 1 Price 200
+Item "Surefire CUS IR-Laser Sight (WR)" Level 2 Price 400
+Item "Surefire CUS Laser Sight (WR)" Level 1 Price 300
+Item "MP5 Flashlight" Level 2 Price 100
+
+/////////+++++++++++++++++
+/////////SILENCER
+/////////+++++++++++++++++
+
+Item "Silencer PBS-4 (.22)" Level 1 Price 500
+Item "GemtechM4-96D Suppressor (.22)" Level 1 Price 500
+
+Item "Silencer (22 Para)" Level 1 Price 150
+
+
+/////////+++++++++++++++++
+/////////BIPODS
+/////////+++++++++++++++++
+
+Item "SSG08 Bipod" Level 3 Price 50
+
+Item "Stoner63 Bipod" Level 3 Price 50
+
+
+Item "Tactical Bipod BM" Level 3 Price 250
+Item "Sniper Bipod Series 1A2" Level 3 Price 250.0
+Item "Harris Bipod WR" Level 3 Price 300
+Item "Tactical Bipod TL-BP16" Level 3 Price 200.0
+Item "G36 bipod" Level 4 Price 150.0
+
+Item "G3SG1 bipod" Level 4 Price 100.0
+
+Item "SIG bipod" Level 3 Price 50
+
+/////////+++++++++++++++++
+/////////BAYONETS
+/////////+++++++++++++++++
+
+
+Item "Bayonet (East)" Level 2 Price 50.0
+Item "Bayonet M9 (West)" Level 2 Price 70.0
+Item "Bayonet_fal" Level 2 Price 50.0
+Item "Bayonet_HK" Level 2 Price 70.0
+
+Item "M96 Bayonet" Level 2 Price 60
+
+
+Item "Bayonet (QBZ)" Level 2 Price 50
+
+Item "SA Vz.58 Bayonet" Level 3 Price 70
+
+/////////+++++++++++++++++
+/////////MOUNTS
+/////////+++++++++++++++++
+
+Item "Mount (WR-Galil)" Level 1 Price 100
+Item "Mount (M16-WR)" Level 1 Price				100
+Item "Mount (WR-HK)" Level 1 Price					100
+Item "Mount (WR-M16)" Level 1 Price				100
+Item "Mount (WR-AK)" Level 1 Price					100
+Item "Mount (WR-M14)" Level 1 Price				100
+Item "Mount (WR-Mini14)" Level 1 Price				100
+Item "Mount (WR-SIG)" Level 1 Price				100
+Item "Mount harris (WR)" Level 3 Price				100
+Item "Mount TL (WR)" Level 1 Price					100
+Item "Mount TL (WR-Barrel)" Level 1 Price			100
+Item "Mount TL (WR-HK)" Level 1 Price				100
+Item "Mount dual clip (M16)" Level 3 Price 50
+Item "Mount dual clip (MP5)" Level 3 Price 50
+
+/////////+++++++++++++++++
+/////////HANDLES
+/////////+++++++++++++++++
+
+Item "M4A1 Handle" Level 2 Price 25
+Item "SS2 Handle" Level 2 Price 30
+Item "T65 Handle" Level 2 Price 35
+Item "AR7090 Handle" Level 2 Price 30
+Item "G36 Handle" Level 3 Price 50.0
+Item "M16 Handle" Level 3 Price 25.0
+Item "L85A2 Handle" Level 5 Price 55.0
+
+//////////////MISC BOX
+
+Item "PackedCamoBox" Level 3 Price 3000
+Item "PackedCleaningKitBox" Level 1 Price 1667
+
+Item "PackedMREBox" Level 1 Price 560
+Item "PackedMREHUGEBox" Level 1 Price 1120
+
+Item "PackedTacVestBox" Level 3 Price 667
+Item "PackedSmershBox" Level 1 Price 334
+
+Item "PackedYellowTacVestBox" Level 5 Price 834
+Item "PackedMolleVestBox" Level 7 Price 1167
+Item "PackedWildcatVestBox" Level 2 Price 3334
+Item "PackedKevlarVestBox" Level 5 Price 2000
+Item "PackedBasicBeltBox" Level 1 Price 167
+Item "PackedHolsterBeltBox" Level 1 Price 334
+Item "PackedTacticalBeltBox" Level 7 Price 800
+Item "PackedButtpackBox" Level 2 Price 167
+Item "PackedBigButtpackBox" Level 4 Price 417
+Item "PackedVeryBigButtpackBox" Level 6 Price 667
+
+
+/////////+++++++++
+/////////BAGS
+/////////+++++++++
+
+// Bags & boxes
+Item "Box_Wood_Empty" Level 1 Price 20
+Item "Case_Guitar" Level 1 Price 150
+Item "Case_Hard_Aluminium" Level 2 Price 350
+Item "Case_Hard_Big" Level 2 Price 200
+Item "Case_Hard_Medium" Level 2 Price 200
+Item "Case_Hard_Small" Level 1 Price 200
+Item "Case_Soft_Camo" Level 1 Price 300
+Item "Case_Soft_Fabric" Level 1 Price 350
+Item "Case_Soft_Skin" Level 1 Price 200
+Item "Case_Soft_Small" Level 1 Price 150
+
+/////////+++++++++
+/////////LBE
+/////////+++++++++
+
+Item "Folded Tactical Vest" Level 5 Price 250.0
+Item "Folded VestNew" Level 3 Price 200.0
+Item "Folded Razgr_smerch" Level 1 Price 100.0
+Item "Folded Razgr_molle" Level 7 Price 350.0
+Item "Folded Ammo Belt" Level 1 Price 50
+Item "Folded Basic Belt" Level 1 Price 100
+Item "Folded Belt_01" Level 7 Price 240
+Item "Folded Belt_02" Level 3 Price 120
+Item "Folded Belt_03" Level 2 Price 100
+Item "Folded Belt_04" Level 1 Price 5
+Item "Folded Tactical Belt" Level 5 Price 160
+Item "Folded Ammo Cartouche6" Level 2 Price 50.0
+Item "Folded Ammo Cartouche" Level 6 Price 200.0
+Item "Folded Ammo CartoucheVert" Level 4 Price 125.0
+
+Item "Mauser Belt" Level 1 Price 300
+Item "APS Belt" Level 1 Price 150
+
+Item "Backpack" Level 3 Price 850.0
+Item "Backpack_reid" Level 4 Price 900.0
+Item "Backpack_tactic" Level 7 Price 1000.0
+Item "Backpack_tourist" Level 1 Price 780.0
+
+//UNFOLDED
+
+Item "Tactical Vest" Level 5 Price 250.0
+Item "VestNew" Level 3 Price 200.0
+Item "Razgr_smerch" Level 1 Price 100.0
+Item "Razgr_molle" Level 7 Price 350.0
+Item "Ammo Belt" Level 1 Price 50
+Item "Basic Belt" Level 1 Price 100
+Item "Belt_01" Level 7 Price 240
+Item "Belt_02" Level 3 Price 120
+Item "Belt_03" Level 2 Price 100
+Item "Belt_04" Level 1 Price 5
+Item "Tactical Belt" Level 5 Price 160
+Item "Ammo Cartouche6" Level 2 Price 50.0
+Item "Ammo Cartouche" Level 6 Price 200.0
+Item "Ammo CartoucheVert" Level 4 Price 125.0
+
+
+
+
+/////////+++++++++
+/////////MEDIC
+/////////+++++++++
+
+// Medic
+Item "Field Paramedic Kit" Level 1 Price 30.0
+Item "Field Paramedic Kit1" Level 1 Price 50
+
+Item "Field Paramedic Kit2"	Level 2 Price 340.0
+Item "Field Paramedic Kit3"	Level 3 Price 520.0
+Item "Field Paramedic Kit4"	Level 4 Price 940.0
+Item "Field Paramedic Kit5"	Level 4 Price 750
+
+
+
+
+/////////+++++++++
+/////////FOOD
+/////////+++++++++
+
+// Food
+Item "Food_bag" Level 3 Price 800
+Item "PackedTushBox" Level 1 Price 1120
+Item "Food_irpb" Level 1 Price 80
+Item "Food_ration" Level 2 Price 80
+Item "Food_sardinas" Level 1 Price 55
+Item "Food_tush_gov" Level 1 Price 70
+
+// Drinks
+
+
+Item "Flask" Level 1 Price 70.0
+Item "BottleOfWater" Level 1 Price 20
+Item "BottleOfWaterMini" Level 1 Price 10
+
+/////////+++++++++
+/////////MISC
+/////////+++++++++
+
+// KNIFES
+
+Item "Machete" Level 1 Price 50
+Item "Cuchillo" Level 1 Price 30.0
+Item "Cuchillo de Combate" Level 1 Price 75.0
+Item "Cuchillo tactico" Level 1 Price 55.0
+Item "Cuchillo Tora" Level 1 Price 90.0
+Item "Daga" Level 1 Price 120.0
+Item "kabar" Level 1 Price 100.0
+Item "NDK" Level 1 Price 200.0
+Item "sas_dagger" Level 1 Price 150.0
+Item "smersh5" Level 1 Price 170.0
+
 
 //////////GUNSHOP GUNS
 
@@ -1117,42 +1506,6 @@ Item "Carabine IMBEL MD-97LC (5.56mm)" Level 4 Price 1300
 Item "Carabine Imbel MD-2A1 (5.56mm)" Level 6 Price 1660
 
 
-
-/////////+++++++++++++++++
-/////////MISC
-/////////+++++++++++++++++
-
-Item "Glock-17 threaded barrel" Level 1 Price 200
-Item "Glock-22 threaded barrel" Level 1 Price 300
-Item "Glock-21 threaded barrel" Level 1 Price 400
-
-
-
-Item "Field Paramedic Kit" Level 1 Price 30.0
-Item "Field Paramedic Kit1" Level 1 Price 50
-
-
-Item "Food_m_beef" Level 1 Price 60
-Item "Food_m_mutton" Level 1 Price 60
-Item "Food_m_pork" Level 1 Price 60
-
-Item "Canteen_st1" Level 1 Price 30
-Item "Canteen_st2" Level 2 Price 80
-
-Item "PackedCamoBox" Level 3 Price 3000
-Item "PackedCleaningKitBox" Level 1 Price 1667
-Item "PackedContactFuzeBox" Level 1 Price 1000
-Item "PackedRadioFuzeBox" Level 3 Price 2000
-Item "PackedMREBox" Level 1 Price 560
-Item "PackedMREHUGEBox" Level 1 Price 1120
-
-Item "PackedBasicBeltBox" Level 1 Price 167
-Item "PackedHolsterBeltBox" Level 1 Price 334
-Item "PackedButtpackBox" Level 2 Price 167
-Item "PackedBigButtpackBox" Level 4 Price 417
-Item "PackedVeryBigButtpackBox" Level 6 Price 667
-
-Item "PackedTushBox"	Level 1 Price			1120
 
 
 /////////+++++++++

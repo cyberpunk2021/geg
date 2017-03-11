@@ -2,6 +2,32 @@
 /////////Campecino Old Weapons store
 /////////==========================
 
+Item "M712_butt" Level 1 Price 150
+Item "DPM/RP-46 Kit" Level 3 Price 350
+
+/////////+++++++++++++++++
+/////////CAMO KIT / CLEANING KIT
+/////////+++++++++++++++++
+
+Item "Cleaning Kit" Level 1 Price 250.0
+Item "Camo Kit" Level 3 Price 300.0
+
+Item "L42A1 Scope" Level 1 Price 300
+Item "M84 Scope" Level 1 Price 300
+Item "Zeiss ZF42" Level 1 Price 250
+Item "Zeiss ZF4" Level 1 Price 200
+Item "Optical Sight PU NEW" Level 1 Price 300
+Item "Japanese Scope" Level 1 Price 90
+Item "French Scope" Level 1 Price 80
+Item "PKS07 optic" Level 6 Price 200
+
+Item "Madsen Bipod" Level 1 Price 50
+
+Item "M96 Bayonet" Level 2 Price 60
+
+Item "TrenchBayo" Level 1 Price 160
+Item "Arisaka Bayonet" Level 1 Price 120
+
 //////////////MAGS
 
 Item "Pistol clip (Type 14/8)" Level 1 Price 20
@@ -423,6 +449,12 @@ Item "Folded Basic Belt" Level 1 Price 100
 Item "Folded Razgr_smerch" Level 1 Price 100.0
 Item "Folded Belt_04" Level 1 Price 20
 
+Item "Ammo Cartouche6" Level 2 Price 50.0
+Item "Razgr_smerch" Level 1 Price 100.0
+Item "Ammo Belt" Level 1 Price 50
+Item "Basic Belt" Level 1 Price 100
+Item "Belt_04" Level 1 Price 5
+
 
 Item "Field Paramedic Kit" Level 1 Price 30.0
 Item "Field Paramedic Kit1" Level 1 Price 50
@@ -453,9 +485,8 @@ Item "PackedBigButtpackBox" Level 4 Price 417
 
 Item "Folded Belt_02" Level 3 Price 120
 Item "Folded Belt_03" Level 2 Price 100
-
-Item "Mauser Belt" Level 1 Price 300
-Item "APS Belt" Level 1 Price 150
+Item "Belt_02" Level 3 Price 120
+Item "Belt_03" Level 2 Price 100
 
 Item "Backpack" Level 3 Price 850.0
 Item "Backpack_tourist" Level 1 Price 780.0
