@@ -2200,7 +2200,7 @@ Item "Ammo box (FM7.62x51)" Level 5 Price 0.0001
 Item "Ammo box (M80)" Level 6 Price 0.0001
 Item "Ammo box (M993)" Level 8 Price 0.0001
 Item "Ammo box (7.62x51SP)" Level 4 Price 0.0001
-Item "Ammo box (7.62x51 SN)" Level 7 Price Level 4 0.0001
+Item "Ammo box (7.62x51 SN)" Level 7 Price 0.0001
 
 Item "Ammo box 500 HLA (7.62x51 SN)" Level 9 Price 100
 Item "Ammo Box 500 CoreLokt .308" Level 7 Price 100
