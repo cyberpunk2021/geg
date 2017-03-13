@@ -38,8 +38,6 @@
  ["Assault Rifle DPMS 308 no FG"] = "Assault Rifle DPMS 308",
  ["Assault Rifle DPMS 308 no FG folded"] = "Assault Rifle DPMS 308 folded",
  ["Assault Rifle SAR21 (5.56mm)"] = "Assault Rifle SAR21 FG (5.56mm)",
- ["Assault Rifle T91 (5.56mm)"] = "Assault Rifle T91 FG (5.56mm)",
- ["Assault Rifle T91 (5.56mm) folded"] = "Assault Rifle T91 FG (5.56mm) folded",
  ["REC7 PDW NATO"] = "REC7 PDW NATO FG",
  ["REC7 PDW NATO folded"] = "REC7 PDW NATO FG folded",
  ["REC7 NATO"] = "REC7 NATO FG",
@@ -382,8 +380,6 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AR15 5.56x45 no FG folded"
 AddItemCombineHandler("Tactical grip", "Assault Rifle DPMS 308 no FG", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle DPMS 308 no FG folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SAR21 (5.56mm)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Assault Rifle T91 (5.56mm)", AttachForegrip)
-AddItemCombineHandler("Tactical grip", "Assault Rifle T91 (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 PDW NATO", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 PDW NATO folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "REC7 NATO", AttachForegrip)
@@ -588,8 +584,6 @@ AddItemContextMenu("LWRC PSD FG folded", action_detach_handle, DetachForegrip, C
 AddItemContextMenu("LWRC PSD BLK FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("LWRC PSD BLK FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SAR21 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Assault Rifle T91 FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
-AddItemContextMenu("Assault Rifle T91 FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("REC7 PDW NATO FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("REC7 PDW NATO FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("REC7 NATO FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
