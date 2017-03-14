@@ -315,6 +315,8 @@ local FoldBipodItems = {
 	["RPK12 Bipod"] = "RPK12 Bipod Folded",
 	["Zastava Bipod"] = "Zastava Bipod Folded",
 	["Valmet78 Bipod"] = "Valmet78 Bipod Folded",
+	["Madsen Bipod"] = "Madsen Bipod Folded",
+	["MG4 Bipod"] = "MG4 Bipod Folded",
 }
 local UnFoldBipodItems = {}
 for unfolded,folded in pairs(FoldBipodItems) do
@@ -808,6 +810,8 @@ AddItemContextMenu("RPK Bipod Nova Wide", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("RPK12 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("Zastava Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("Valmet78 Bipod", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Madsen Bipod", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("MG4 Bipod", action_fold, FoldBipod, CanFoldBipod)
 
 AddItemContextMenu("AUG Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("FALO Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
@@ -862,6 +866,8 @@ AddItemContextMenu("RPK Bipod Nova Wide Folded", action_unfold, FoldBipod, CanFo
 AddItemContextMenu("RPK12 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("Zastava Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("Valmet78 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Madsen Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("MG4 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 
 AddContextMenu(_t"lang/lua/tuning/fold_bipods", FoldWeaponBipod, CanFoldWeaponBipod)
 AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWeaponBipod)

@@ -2223,6 +2223,9 @@ cheytac
 hecate
 mg15 bipod bug
 
+type 44 arisaka bayonet coord
+g1888k modelo errado
+
 colocar IMC-40 GL nas galils
 fazer stats winchester 70 e outros hunting rifles
 6.8 spc mag clipped faltando

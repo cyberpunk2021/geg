@@ -93943,8 +93943,8 @@ ITEM "Hunting Rifle Winchester Model 70 (3006)"
 Class			Sniper
 Caliber			"30-06 Springfield"
 Weight			4490
-PrepareTime		0.66
-SingleFireTime	1.41
+PrepareTime		0.62
+SingleFireTime	1.38
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		2000
@@ -93956,7 +93956,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	210
+EffectiveRange	204
 RangeCurvature	5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93980,8 +93980,8 @@ ITEM "Hunting Rifle Winchester Model 70 (308)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4490
-PrepareTime		0.66
-SingleFireTime	1.41
+PrepareTime		0.62
+SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		2000
@@ -93993,7 +93993,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	210
+EffectiveRange	204
 RangeCurvature	5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -94017,7 +94017,7 @@ ITEM "Hunting Rifle Winchester Model 70 (300)"
 Class			Sniper
 Caliber			".300 WM"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.64
 SingleFireTime	1.41
 BurstFireTime	0
 SpeedModifier	1.11
@@ -94030,7 +94030,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	210
+EffectiveRange	207
 RangeCurvature	5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -94054,8 +94054,8 @@ ITEM "Hunting Rifle Winchester Model 70 (338)"
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			4490
-PrepareTime		0.66
-SingleFireTime	1.41
+PrepareTime		0.69
+SingleFireTime	1.44
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		2000
@@ -94067,7 +94067,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		300
-EffectiveRange	210
+EffectiveRange	207
 RangeCurvature	5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -94091,8 +94091,8 @@ ITEM "Hunting Rifle Winchester Model 70 (375)"
 Class			Sniper
 Caliber			".375 H&H"
 Weight			4490
-PrepareTime		0.66
-SingleFireTime	1.41
+PrepareTime		0.71
+SingleFireTime	1.48
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		2000
