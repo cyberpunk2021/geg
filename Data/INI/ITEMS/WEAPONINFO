@@ -79141,7 +79141,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	143
+EffectiveRange	123
 RangeCurvature	1
 Balance			0.48
 Unfold			"Assault Rifle MD65 (7.62x39mm)"
@@ -79297,7 +79297,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	143
+EffectiveRange	123
 RangeCurvature	1
 Balance			0.48
 Unfold			"Assault Rifle MD90 LB (7.62x39mm)"
