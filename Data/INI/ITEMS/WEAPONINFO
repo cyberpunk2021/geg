@@ -79284,7 +79284,7 @@ ITEM "Assault Rifle MD90 LB (7.62x39mm) folded"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3300
-PrepareTime		0.40
+PrepareTime		0.36
 SingleFireTime	0.71
 BurstFireTime	0.1
 SpeedModifier	1.05
