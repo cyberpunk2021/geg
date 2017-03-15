@@ -2002,22 +2002,22 @@ None  "Items\caja_a.act""caja_a.e5b"
 
 "PackedCamoBox"
 None
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 3000
 
 "PackedCleaningKitBox"
 None
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\box_util_green.act""boxutil_green.e5b"
 9000
 
 "PackedContactFuzeBox"
 None
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 1000
 
 "PackedRadioFuzeBox"
 None
-None  "Items\caja_a.act""caja_a.e5b"
+None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 1300
 
 "PackedMREBox"

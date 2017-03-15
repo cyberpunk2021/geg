@@ -40037,7 +40037,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (Kar98k/5)"
-ACTOR			"Items\g98car.act"
+ACTOR			"Items\g1888k.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
