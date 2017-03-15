@@ -4650,7 +4650,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -4937,7 +4937,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -9943,7 +9943,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -10230,7 +10230,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -15236,7 +15236,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -15523,7 +15523,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -20529,7 +20529,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -20816,7 +20816,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -25822,7 +25822,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -26109,7 +26109,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -31115,7 +31115,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -31402,7 +31402,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -36408,7 +36408,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -36695,7 +36695,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -41701,7 +41701,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -41988,7 +41988,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -46994,7 +46994,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -47281,7 +47281,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -52287,7 +52287,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -52574,7 +52574,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -57580,7 +57580,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -57867,7 +57867,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -62873,7 +62873,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -63160,7 +63160,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -68166,7 +68166,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -68453,7 +68453,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -73459,7 +73459,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -73746,7 +73746,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -78752,7 +78752,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -79039,7 +79039,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -84045,7 +84045,7 @@ Name  "Submachine-gun TEC-9 (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  12 12 7 
-Name  "SMG ammo clip (mp9/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -84332,7 +84332,7 @@ Name  "Submachine-gun TEC-9 AUTO Mini (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 

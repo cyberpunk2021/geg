@@ -9,7 +9,7 @@ Name  "Submachine-gun AB-10 AUTO (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -245,7 +245,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -372,7 +372,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -495,7 +495,7 @@ Name  "Submachine-gun AB-10 AUTO (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -731,7 +731,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -858,7 +858,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -981,7 +981,7 @@ Name  "Submachine-gun AB-10 AUTO (9mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1217,7 +1217,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  1 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1344,7 +1344,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Item  0 0 7 
-Name  "SMG ammo clip (tmp/30)"
+Name  "SMG ammo clip (TEC9/32)"
 SpecificData  
 ClipInfo  
 Resource  1 
