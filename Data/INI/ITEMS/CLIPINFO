@@ -1414,6 +1414,16 @@ ACTOR  "Items\tmp-30mag.act"
 USEPREFIX  ""
 IMAGE  "tmp30.e5b"
 DEFAMMO  "9x19 FMJ Ball"
+CLIP  "SMG ammo clip (TEC9/20)""9υ19 μμ""tec9"20 100 "None"1000 
+ACTOR  "Items\tmp-20mag.act"
+USEPREFIX  ""
+IMAGE  "tmp20.e5b"
+DEFAMMO  "9x19 FMJ Ball"
+CLIP  "SMG ammo clip (TEC9/32)""9υ19 μμ""tec9"32 150 "None"1500 
+ACTOR  "Items\tmp-30mag.act"
+USEPREFIX  ""
+IMAGE  "tmp30.e5b"
+DEFAMMO  "9x19 FMJ Ball"
 CLIP  "SMG ammo clip (mp9/30)""9υ19 μμ""tmp"30 150 "None"1500 
 ACTOR  "Items\btmp9novamag.act"
 USEPREFIX  ""

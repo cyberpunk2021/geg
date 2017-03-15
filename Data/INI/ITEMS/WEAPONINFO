@@ -20740,8 +20740,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/20)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/20)"
 StdPlug			"kg99_stock"
 ACTOR			"Items\kg99.act"
 IMAGE			"2x3.e5b"
@@ -20779,8 +20779,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/20)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/20)"
 StdPlug			"kg99_stock_folded"
 ACTOR			"Items\kg99.act"
 IMAGE			"2x2.e5b"
@@ -20818,8 +20818,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/30)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/32)"
 StdPlug			"kg99_stock"
 ACTOR			"Items\kg99.act"
 IMAGE			"2x3.e5b"
@@ -20857,8 +20857,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/30)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/32)"
 StdPlug			"kg99_stock_folded"
 ACTOR			"Items\kg99.act"
 IMAGE			"2x2.e5b"
@@ -20895,8 +20895,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/20)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/20)"
 ACTOR			"Items\TEC9.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -20932,8 +20932,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/30)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/32)"
 ACTOR			"Items\TEC9.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -20969,8 +20969,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/20)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/20)"
 ACTOR			"Items\tec9mini.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -21006,8 +21006,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/30)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/32)"
 ACTOR			"Items\tec9mini.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -21043,8 +21043,8 @@ ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/20)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/20)"
 ACTOR			"Items\ab10.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -21080,8 +21080,8 @@ ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "tmp"
-StdPlug			"SMG ammo clip (tmp/30)"
+ATT Magazine	1 "tec9"
+StdPlug			"SMG ammo clip (TEC9/32)"
 ACTOR			"Items\ab10.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol

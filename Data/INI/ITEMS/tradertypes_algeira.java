@@ -1505,6 +1505,8 @@ Item "Pistol clip (Glock 26/10)" Level 1 Price 20
 Item "Pistol clip (Cougar9mm/15)" Level 1 Price 45
 Item "SMG ammo clip (tmp/20)" Level 1 Price 30
 Item "SMG ammo clip (tmp/30)" Level 2 Price 50
+Item "SMG ammo clip (TEC9/20)" Level 1 Price 30
+Item "SMG ammo clip (TEC9/30)" Level 2 Price 50
 Item "SMG ammo clip (mp9/30)" Level 2 Price 50
 Item "Pistol clip (Jericho9mm/15)" Level 1 Price 45
 Item "Pistol clip (JerichoW9mm/15)" Level 1 Price 45
