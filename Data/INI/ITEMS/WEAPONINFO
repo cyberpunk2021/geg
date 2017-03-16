@@ -46966,7 +46966,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -46975,6 +46975,43 @@ StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\HKMC51ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "HK MC51 RIS S CIV FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3190
+PrepareTime		0.29
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	0.94
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	94
+RangeCurvature	3
+Balance			0.65
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "HK MP5"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+ACTOR			"Items\HKMC51risfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "HK MC51 RIS CIV (7.62x51mm)"
 Class			Rifle
@@ -47004,7 +47041,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -47043,7 +47080,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -47053,6 +47090,84 @@ StdPlug			"G3 Butt folded"
 ACTOR			"Items\hkmc51foldingris.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
+
+ITEM "HK MC51 RIS CIV FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3190
+PrepareTime		0.29
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	0.94
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	94
+RangeCurvature	3
+Balance			0.65
+Unfold			"HK MC51 RIS CIV FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "HK MP5"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3 Butt"
+ACTOR			"Items\hkmc51foldingrisfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "HK MC51 RIS CIV FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3190
+PrepareTime		0.25
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	0.94
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	74
+RangeCurvature	3
+Balance			0.65
+Unfold			"HK MC51 RIS CIV FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "HK MP5"
+ATT Bipod		2 "WR""WRFG"
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3 Butt folded"
+ACTOR			"Items\hkmc51foldingrisfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle HK93EA2 (5.56mm)"
 Class			Rifle
@@ -53978,7 +54093,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -53987,6 +54102,43 @@ StdPlug			"Rifle ammo clip (HK/20)"
 ACTOR			"Items\HKMC51ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "HK MC51 RIS S FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3190
+PrepareTime		0.29
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	0.94
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	94
+RangeCurvature	3
+Balance			0.65
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+ACTOR			"Items\HKMC51risfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "HK MC51 RIS (7.62x51mm)"
 Class			Rifle
@@ -54016,7 +54168,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -54055,7 +54207,7 @@ ShootSound		"Weapon\Shoot\G3.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "HK MP5"
-ATT Bipod		0
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -54065,6 +54217,84 @@ StdPlug			"G3 Butt folded"
 ACTOR			"Items\hkmc51foldingris.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
+
+ITEM "HK MC51 RIS FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3190
+PrepareTime		0.29
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	0.94
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	94
+RangeCurvature	3
+Balance			0.65
+Unfold			"HK MC51 RIS FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3 Butt"
+ACTOR			"Items\hkmc51foldingrisfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "HK MC51 RIS FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3190
+PrepareTime		0.25
+SingleFireTime	0.74
+BurstFireTime	0.08
+SpeedModifier	0.94
+Resource		2000
+DirtResource	200000
+MisfireProb		0.003
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	74
+RangeCurvature	3
+Balance			0.65
+Unfold			"HK MC51 RIS FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\G3.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "HK MP5"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "MSG-90"
+StdPlug			"Rifle ammo clip (HK/20)"
+StdPlug			"G3 Butt folded"
+ACTOR			"Items\hkmc51foldingrisfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
 
 ////////-------------------
 
