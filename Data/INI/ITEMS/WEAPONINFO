@@ -6709,8 +6709,8 @@ ITEM "Steyr TMP (9x19)"
 Class			Pistol
 Caliber			"9ץ19 לל"
 Weight			1300
-PrepareTime		0.20
-SingleFireTime	0.57
+PrepareTime		0.19
+SingleFireTime	0.59
 BurstFireTime	0.07
 SpeedModifier	1.06
 Resource		1500
@@ -6722,7 +6722,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	55
+EffectiveRange	61
 RangeCurvature	3
 Balance			0.42
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -6746,8 +6746,8 @@ ITEM "Steyr TMP AUTO (9x19)"
 Class			Pistol
 Caliber			"9ץ19 לל"
 Weight			1300
-PrepareTime		0.20
-SingleFireTime	0.57
+PrepareTime		0.19
+SingleFireTime	0.59
 BurstFireTime	0.07
 SpeedModifier	1.06
 Resource		1300
@@ -6759,7 +6759,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	55
+EffectiveRange	61
 RangeCurvature	3
 Balance			0.42
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -18767,7 +18767,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	47
+EffectiveRange	62
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun Vz61 (7.65mm) folded"
@@ -18806,7 +18806,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
+EffectiveRange	42
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun Vz61 (7.65mm)"
@@ -18845,7 +18845,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	47
+EffectiveRange	62
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun VZ82 (380) folded"
@@ -18884,7 +18884,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
+EffectiveRange	42
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun VZ82 (380)"
@@ -18925,7 +18925,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	47
+EffectiveRange	62
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun Vz82 (9x18mm) folded"
@@ -18964,7 +18964,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
+EffectiveRange	42
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun Vz82 (9x18mm)"
@@ -19003,7 +19003,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	47
+EffectiveRange	62
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun VZ82 (9x19mm) folded"
@@ -19042,7 +19042,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
+EffectiveRange	42
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun VZ82 (9x19mm)"
@@ -19068,7 +19068,7 @@ ITEM "Submachine-gun Kiparis (9mm)"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1570
-PrepareTime		0.21
+PrepareTime		0.22
 SingleFireTime	0.52
 BurstFireTime	0.07
 SpeedModifier	1.04
@@ -19081,7 +19081,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	56
+EffectiveRange	71
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun Kiparis (9mm) folded"
@@ -19107,7 +19107,7 @@ ITEM "Submachine-gun Kiparis (9mm) folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1570
-PrepareTime		0.18
+PrepareTime		0.19
 SingleFireTime	0.52
 BurstFireTime	0.07
 SpeedModifier	1.04
@@ -19120,7 +19120,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	36
+EffectiveRange	48
 RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun Kiparis (9mm)"
@@ -19146,7 +19146,7 @@ ITEM "Submachine-gun kedr"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1550
-PrepareTime		0.21
+PrepareTime		0.20
 SingleFireTime	0.51
 BurstFireTime	0.075
 SpeedModifier	1.02
@@ -19159,7 +19159,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	52
+EffectiveRange	64
 RangeCurvature	5
 Balance			0.48
 Unfold			"Submachine-gun kedr folded"
@@ -19185,7 +19185,7 @@ ITEM "Submachine-gun kedr folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1550
-PrepareTime		0.17
+PrepareTime		0.16
 SingleFireTime	0.51
 BurstFireTime	0.075
 SpeedModifier	1.02
@@ -19198,7 +19198,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	38
+EffectiveRange	44
 RangeCurvature	5
 Balance			0.48
 Unfold			"Submachine-gun kedr"
@@ -19224,7 +19224,7 @@ ITEM "Submachine-gun AEK919K (9x18mm)"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1650
-PrepareTime		0.23
+PrepareTime		0.21
 SingleFireTime	0.53
 BurstFireTime	0.066
 SpeedModifier	1.07
@@ -19237,8 +19237,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	55
-RangeCurvature	8
+EffectiveRange	67
+RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun AEK919K (9x18mm) folded"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -19263,7 +19263,7 @@ ITEM "Submachine-gun AEK919K (9x18mm) folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1650
-PrepareTime		0.19
+PrepareTime		0.18
 SingleFireTime	0.53
 BurstFireTime	0.066
 SpeedModifier	1.07
@@ -19276,8 +19276,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	35
-RangeCurvature	8
+EffectiveRange	47
+RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun AEK919K (9x18mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -19302,7 +19302,7 @@ ITEM "Submachine-gun PM63 (9mm)"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1600
-PrepareTime		0.22
+PrepareTime		0.24
 SingleFireTime	0.55
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19315,7 +19315,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
+EffectiveRange	74
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM63 (9mm) folded"
@@ -19341,7 +19341,7 @@ ITEM "Submachine-gun PM63 (9mm) folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1600
-PrepareTime		0.18
+PrepareTime		0.20
 SingleFireTime	0.55
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19354,7 +19354,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
+EffectiveRange	54
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM63 (9mm)"
@@ -19380,7 +19380,7 @@ ITEM "Submachine-gun T82 (7.62x25mm)"
 Class			SMG
 Caliber			"7.62ץ25 לל"
 Weight			1600
-PrepareTime		0.23
+PrepareTime		0.24
 SingleFireTime	0.6
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19393,7 +19393,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
+EffectiveRange	74
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun T82 (7.62x25mm) folded"
@@ -19419,7 +19419,7 @@ ITEM "Submachine-gun T82 (7.62x25mm) folded"
 Class			SMG
 Caliber			"7.62ץ25 לל"
 Weight			1600
-PrepareTime		0.18
+PrepareTime		0.20
 SingleFireTime	0.6
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19432,7 +19432,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
+EffectiveRange	54
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun T82 (7.62x25mm)"
@@ -19458,7 +19458,7 @@ ITEM "Submachine-gun PM84 (9mm)"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1840
-PrepareTime		0.22
+PrepareTime		0.24
 SingleFireTime	0.56
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19471,7 +19471,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	66
+EffectiveRange	77
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84 (9mm) folded"
@@ -19497,7 +19497,7 @@ ITEM "Submachine-gun PM84 (9mm) folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1840
-PrepareTime		0.18
+PrepareTime		0.20
 SingleFireTime	0.56
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19510,7 +19510,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	46
+EffectiveRange	56
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84 (9mm)"
@@ -19536,7 +19536,7 @@ ITEM "Submachine-gun PM84P (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2170
-PrepareTime		0.23
+PrepareTime		0.24
 SingleFireTime	0.58
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19549,7 +19549,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	66
+EffectiveRange	76
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84P (9mm) folded"
@@ -19575,7 +19575,7 @@ ITEM "Submachine-gun PM84P (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2170
-PrepareTime		0.19
+PrepareTime		0.20
 SingleFireTime	0.58
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19588,7 +19588,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	46
+EffectiveRange	56
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM84P (9mm)"
@@ -19614,7 +19614,7 @@ ITEM "Submachine-gun PM98 (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2300
-PrepareTime		0.24
+PrepareTime		0.23
 SingleFireTime	0.6
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19627,7 +19627,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	68
+EffectiveRange	76
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM98 (9mm) folded"
@@ -19654,7 +19654,7 @@ ITEM "Submachine-gun PM98 (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2300
-PrepareTime		0.20
+PrepareTime		0.19
 SingleFireTime	0.6
 BurstFireTime	0.067
 SpeedModifier	1.06
@@ -19667,7 +19667,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	48
+EffectiveRange	56
 RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PM98 (9mm)"
@@ -19770,7 +19770,7 @@ ITEM "PP92"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			1830
-PrepareTime		0.28
+PrepareTime		0.3
 SingleFireTime	0.56
 BurstFireTime	0.1
 SpeedModifier	1.08
@@ -19846,7 +19846,7 @@ ITEM "Submachine-gun PP93 (9mm)"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1470
-PrepareTime		0.22
+PrepareTime		0.21
 SingleFireTime	0.59
 BurstFireTime	0.067
 SpeedModifier	1.05
@@ -19859,8 +19859,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	55
-RangeCurvature	8
+EffectiveRange	57
+RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PP93 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -19885,7 +19885,7 @@ ITEM "Submachine-gun PP93 (9mm) folded"
 Class			SMG
 Caliber			"9ץ18 לל ÏÌ"
 Weight			1470
-PrepareTime		0.19
+PrepareTime		0.18
 SingleFireTime	0.59
 BurstFireTime	0.067
 SpeedModifier	1.05
@@ -19898,8 +19898,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	35
-RangeCurvature	8
+EffectiveRange	39
+RangeCurvature	5
 Balance			0.46
 Unfold			"Submachine-gun PP93 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -19924,7 +19924,7 @@ ITEM "PP2000"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			1400
-PrepareTime		0.23
+PrepareTime		0.22
 SingleFireTime	0.55
 BurstFireTime	0.1
 SpeedModifier	1.07
@@ -19937,7 +19937,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	68
+EffectiveRange	73
 RangeCurvature	3
 Balance			0.47
 Unfold			"PP2000 folded"
@@ -19976,7 +19976,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	48
+EffectiveRange	53
 RangeCurvature	3
 Balance			0.47
 Unfold			"PP2000"
@@ -20645,8 +20645,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
-RangeCurvature	6
+EffectiveRange	77
+RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun SR2 (9x21) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -20671,7 +20671,7 @@ ITEM "Submachine-gun SR2 (9x21) folded"
 Class			SMG
 Caliber			"9x21 לל"
 Weight			1650
-PrepareTime		0.19
+PrepareTime		0.20
 SingleFireTime	0.64
 BurstFireTime	0.083
 SpeedModifier	1.08
@@ -20684,8 +20684,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
-RangeCurvature	6
+EffectiveRange	57
+RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun SR2 (9x21)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -20725,8 +20725,8 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	57
-RangeCurvature	3
+EffectiveRange	66
+RangeCurvature	5
 Balance			0.42
 Unfold			"Submachine-gun KG-99 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20764,8 +20764,8 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
-RangeCurvature	3
+EffectiveRange	46
+RangeCurvature	5
 Balance			0.42
 Unfold			"Submachine-gun KG-99 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20803,8 +20803,8 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	57
-RangeCurvature	3
+EffectiveRange	66
+RangeCurvature	5
 Balance			0.42
 Unfold			"Submachine-gun KG-99 AUTO (9mm) folded"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20842,8 +20842,8 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
-RangeCurvature	3
+EffectiveRange	46
+RangeCurvature	5
 Balance			0.42
 Unfold			"Submachine-gun KG-99 AUTO (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -21090,7 +21090,7 @@ ITEM "Steyr69 (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			3130
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.59
 BurstFireTime	0.09
 SpeedModifier	1.08
@@ -21103,8 +21103,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	78
-RangeCurvature	6
+EffectiveRange	80
+RangeCurvature	5
 Balance			0.6
 Unfold			"Steyr69 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21129,7 +21129,7 @@ ITEM "Steyr69 (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			3130
-PrepareTime		0.19
+PrepareTime		0.21
 SingleFireTime	0.59
 BurstFireTime	0.09
 SpeedModifier	1.08
@@ -21142,8 +21142,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
-RangeCurvature	6
+EffectiveRange	60
+RangeCurvature	5
 Balance			0.6
 Unfold			"Steyr69 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21181,8 +21181,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	78
-RangeCurvature	6
+EffectiveRange	80
+RangeCurvature	5
 Balance			0.6
 Unfold			"Steyr81 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21220,8 +21220,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
-RangeCurvature	6
+EffectiveRange	60
+RangeCurvature	5
 Balance			0.6
 Unfold			"Steyr81 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21259,8 +21259,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	69
-RangeCurvature	3
+EffectiveRange	73
+RangeCurvature	5
 Balance			0.47
 Unfold			"Submachine-gun Walter MPK (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21285,7 +21285,7 @@ ITEM "Submachine-gun Walter MPK (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2800
-PrepareTime		0.18
+PrepareTime		0.19
 SingleFireTime	0.6
 BurstFireTime	0.11
 SpeedModifier	1.03
@@ -21298,8 +21298,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	49
-RangeCurvature	3
+EffectiveRange	53
+RangeCurvature	5
 Balance			0.47
 Unfold			"Submachine-gun Walter MPK (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21324,7 +21324,7 @@ ITEM "Submachine-gun Walter MPL (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			3000
-PrepareTime		0.25
+PrepareTime		0.26
 SingleFireTime	0.62
 BurstFireTime	0.11
 SpeedModifier	1.07
@@ -21363,7 +21363,7 @@ ITEM "Submachine-gun Walter MPL (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			3000
-PrepareTime		0.20
+PrepareTime		0.22
 SingleFireTime	0.62
 BurstFireTime	0.11
 SpeedModifier	1.07
@@ -21402,7 +21402,7 @@ ITEM "PM12"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2780
-PrepareTime		0.22
+PrepareTime		0.24
 SingleFireTime	0.59
 BurstFireTime	0.067
 SpeedModifier	1.08
@@ -21415,8 +21415,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	77
+RangeCurvature	5
 Balance			0.47
 Unfold			"PM12 folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21441,7 +21441,7 @@ ITEM "PM12 folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2780
-PrepareTime		0.19
+PrepareTime		0.20
 SingleFireTime	0.59
 BurstFireTime	0.067
 SpeedModifier	1.08
@@ -21454,8 +21454,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	57
+RangeCurvature	5
 Balance			0.47
 Unfold			"PM12"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21530,8 +21530,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	57
-RangeCurvature	6
+EffectiveRange	67
+RangeCurvature	5
 Balance			0.5
 Unfold			"Submachine-gun RATMIL md96 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21569,8 +21569,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	37
-RangeCurvature	6
+EffectiveRange	47
+RangeCurvature	5
 Balance			0.5
 Unfold			"Submachine-gun RATMIL md96 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21675,7 +21675,7 @@ ITEM "Submachine-gun Mini UZI (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2700
-PrepareTime		0.23
+PrepareTime		0.22
 SingleFireTime	0.59
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -21688,8 +21688,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
-RangeCurvature	6
+EffectiveRange	64
+RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun Mini UZI (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21727,8 +21727,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
-RangeCurvature	6
+EffectiveRange	44
+RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun Mini UZI (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -21846,7 +21846,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	50
 RangeCurvature	6
 Balance			0.58
 Unfold			"Submachine-gun MAC-10 (380) folded"
@@ -21872,7 +21872,7 @@ ITEM "Submachine-gun MAC-10 (380) folded"
 Class			SMG
 Caliber			".380 ACP"
 Weight			2140
-PrepareTime		0.14
+PrepareTime		0.15
 SingleFireTime	0.46
 BurstFireTime	0.052
 SpeedModifier	1.07
@@ -21885,7 +21885,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	24
+EffectiveRange	30
 RangeCurvature	6
 Balance			0.58
 Unfold			"Submachine-gun MAC-10 (380)"
@@ -21926,7 +21926,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	44
+EffectiveRange	50
 RangeCurvature	6
 Balance			0.58
 Unfold			"Submachine-gun MAC-10 (.45 ACP) folded"
@@ -21952,7 +21952,7 @@ ITEM "Submachine-gun MAC-10 (.45 ACP) folded"
 Class			SMG
 Caliber			".45 ACP"
 Weight			2340
-PrepareTime		0.15
+PrepareTime		0.16
 SingleFireTime	0.56
 BurstFireTime	0.052
 SpeedModifier	1.07
@@ -21965,7 +21965,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	24
+EffectiveRange	30
 RangeCurvature	6
 Balance			0.58
 Unfold			"Submachine-gun MAC-10 (.45 ACP)"
@@ -22041,7 +22041,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	48
+EffectiveRange	53
 RangeCurvature	6
 Balance			0.58
 Unfold			"Submachine-gun MAC-11 (9mm) folded"
@@ -22080,7 +22080,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	34
+EffectiveRange	33
 RangeCurvature	6
 Balance			0.58
 Unfold			"Submachine-gun MAC-11 (9mm)"
@@ -22119,8 +22119,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
-RangeCurvature	3
+EffectiveRange	75
+RangeCurvature	5
 Balance			0.47
 Unfold			"Spectre M4 folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22158,8 +22158,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
-RangeCurvature	3
+EffectiveRange	55
+RangeCurvature	5
 Balance			0.47
 Unfold			"Spectre M4"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22197,8 +22197,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
-RangeCurvature	3
+EffectiveRange	75
+RangeCurvature	5
 Balance			0.47
 Unfold			"Spectre M4 40 folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22236,8 +22236,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
-RangeCurvature	3
+EffectiveRange	55
+RangeCurvature	5
 Balance			0.47
 Unfold			"Spectre M4 40"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22275,8 +22275,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	60
-RangeCurvature	3
+EffectiveRange	75
+RangeCurvature	5
 Balance			0.47
 Unfold			"Spectre M4 45 folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22314,8 +22314,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	40
-RangeCurvature	3
+EffectiveRange	55
+RangeCurvature	5
 Balance			0.47
 Unfold			"Spectre M4 45"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22574,7 +22574,7 @@ ITEM "Submachine-gun Ruger MP9 (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			3000
-PrepareTime		0.24
+PrepareTime		0.23
 SingleFireTime	0.53
 BurstFireTime	0.1
 SpeedModifier	1.07
@@ -22587,8 +22587,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	66
-RangeCurvature	6
+EffectiveRange	74
+RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun Ruger MP9 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22613,7 +22613,7 @@ ITEM "Submachine-gun Ruger MP9 (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			3000
-PrepareTime		0.18
+PrepareTime		0.20
 SingleFireTime	0.53
 BurstFireTime	0.1
 SpeedModifier	1.07
@@ -22626,8 +22626,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	43
-RangeCurvature	6
+EffectiveRange	54
+RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun Ruger MP9 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22665,8 +22665,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	66
-RangeCurvature	6
+EffectiveRange	72
+RangeCurvature	5
 Balance			0.6
 Unfold			"CBJMS (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22704,8 +22704,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	46
-RangeCurvature	6
+EffectiveRange	52
+RangeCurvature	5
 Balance			0.6
 Unfold			"CBJMS (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22743,8 +22743,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	66
-RangeCurvature	6
+EffectiveRange	72
+RangeCurvature	5
 Balance			0.6
 Unfold			"CBJMS (6.25) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22782,8 +22782,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	46
-RangeCurvature	6
+EffectiveRange	52
+RangeCurvature	5
 Balance			0.6
 Unfold			"CBJMS (6.25)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22808,7 +22808,7 @@ ITEM "CPW (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			1500
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.59
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -22821,8 +22821,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
+EffectiveRange	82
+RangeCurvature	5
 Balance			0.62
 Unfold			"CPW (9mm) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22847,7 +22847,7 @@ ITEM "CPW (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			1500
-PrepareTime		0.19
+PrepareTime		0.21
 SingleFireTime	0.59
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -22860,8 +22860,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
+EffectiveRange	62
+RangeCurvature	5
 Balance			0.62
 Unfold			"CPW (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22899,7 +22899,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	67
+EffectiveRange	61
 RangeCurvature	3
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -22936,8 +22936,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	71
-RangeCurvature	3
+EffectiveRange	73
+RangeCurvature	5
 Balance			0.42
 Unfold			"Submachine-gun BT MP9 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -22975,8 +22975,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	51
-RangeCurvature	3
+EffectiveRange	53
+RangeCurvature	5
 Balance			0.42
 Unfold			"Submachine-gun BT MP9 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -23079,7 +23079,7 @@ ITEM "CPW (4.6)"
 Class			SMG
 Caliber			"4.6x30 mm"
 Weight			1500
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.59
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -23092,8 +23092,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
+EffectiveRange	82
+RangeCurvature	5
 Balance			0.62
 Unfold			"CPW (4.6) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -23118,7 +23118,7 @@ ITEM "CPW (4.6) folded"
 Class			SMG
 Caliber			"4.6x30 mm"
 Weight			1500
-PrepareTime		0.19
+PrepareTime		0.21
 SingleFireTime	0.59
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -23131,8 +23131,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
+EffectiveRange	62
+RangeCurvature	5
 Balance			0.62
 Unfold			"CPW (4.6)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -23157,7 +23157,7 @@ ITEM "MP7"
 Class			SMG
 Caliber			"4.6x30 mm"
 Weight			1600
-PrepareTime		0.25
+PrepareTime		0.24
 SingleFireTime	0.58
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -23171,7 +23171,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		200
 EffectiveRange	82
-RangeCurvature	2
+RangeCurvature	4
 Balance			0.24
 Unfold			"MP7 folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23196,7 +23196,7 @@ ITEM "MP7 folded"
 Class			SMG
 Caliber			"4.6x30 mm"
 Weight			1600
-PrepareTime		0.22
+PrepareTime		0.21
 SingleFireTime	0.58
 BurstFireTime	0.063
 SpeedModifier	1.08
@@ -23210,7 +23210,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		200
 EffectiveRange	62
-RangeCurvature	2
+RangeCurvature	4
 Balance			0.28
 Unfold			"MP7"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23251,7 +23251,7 @@ CutOff			3
 BurstHitStart	1
 MaxRange		150
 EffectiveRange	53
-RangeCurvature	3
+RangeCurvature	5
 Balance			0.47
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
@@ -23274,7 +23274,7 @@ ITEM "Submachine-gun HK MP5PDW (9mm)"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2500
-PrepareTime		0.23
+PrepareTime		0.24
 SingleFireTime	0.57
 BurstFireTime	0.066
 SpeedModifier	1.06
@@ -23287,8 +23287,8 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
+EffectiveRange	77
+RangeCurvature	5
 Balance			0.47
 Unfold			"Submachine-gun HK MP5PDW (9mm) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23326,8 +23326,8 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
+EffectiveRange	57
+RangeCurvature	5
 Balance			0.47
 Unfold			"Submachine-gun HK MP5PDW (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24793,8 +24793,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	79
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (9mm) folded"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -24819,7 +24819,7 @@ ITEM "Submachine-gun MPXK (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2000
-PrepareTime		0.20
+PrepareTime		0.21
 SingleFireTime	0.61
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -24832,8 +24832,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	59
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -24871,8 +24871,8 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	79
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (9mm) folded"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -24897,7 +24897,7 @@ ITEM "Submachine-gun MPXK FG (9mm) folded"
 Class			SMG
 Caliber			"9ץ19 לל"
 Weight			2000
-PrepareTime		0.20
+PrepareTime		0.21
 SingleFireTime	0.59
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -24910,8 +24910,8 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	59
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -24936,7 +24936,7 @@ ITEM "Submachine-gun MPXK (40)"
 Class			SMG
 Caliber			".40 S&W"
 Weight			2000
-PrepareTime		0.25
+PrepareTime		0.24
 SingleFireTime	0.66
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -24949,8 +24949,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	79
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (40) folded"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -24988,8 +24988,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	59
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (40)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25014,7 +25014,7 @@ ITEM "Submachine-gun MPXK FG (40)"
 Class			SMG
 Caliber			".40 S&W"
 Weight			2000
-PrepareTime		0.25
+PrepareTime		0.24
 SingleFireTime	0.64
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -25027,8 +25027,8 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	79
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (40) folded"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25053,7 +25053,7 @@ ITEM "Submachine-gun MPXK FG (40) folded"
 Class			SMG
 Caliber			".40 S&W"
 Weight			2000
-PrepareTime		0.25
+PrepareTime		0.21
 SingleFireTime	0.64
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -25066,8 +25066,8 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	59
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (40)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25092,7 +25092,7 @@ ITEM "Submachine-gun MPXK (357)"
 Class			SMG
 Caliber			".357 SIG"
 Weight			2000
-PrepareTime		0.25
+PrepareTime		0.24
 SingleFireTime	0.67
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -25105,8 +25105,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	79
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (357) folded"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25144,8 +25144,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	59
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (357)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25170,7 +25170,7 @@ ITEM "Submachine-gun MPXK FG (357)"
 Class			SMG
 Caliber			".357 SIG"
 Weight			2000
-PrepareTime		0.25
+PrepareTime		0.24
 SingleFireTime	0.65
 BurstFireTime	0.092
 SpeedModifier	1.07
@@ -25183,8 +25183,8 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		150
-EffectiveRange	70
-RangeCurvature	3
+EffectiveRange	79
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (357) folded"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25222,8 +25222,8 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		150
-EffectiveRange	50
-RangeCurvature	3
+EffectiveRange	59
+RangeCurvature	5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (357)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25923,9 +25923,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	78
-RangeCurvature	3
+MaxRange		150
+EffectiveRange	71
+RangeCurvature	5
 Balance			0.64
 Unfold			"Submachine-gun Pindad PM2 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -25962,9 +25962,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	58
-RangeCurvature	3
+MaxRange		150
+EffectiveRange	51
+RangeCurvature	5
 Balance			0.64
 Unfold			"Submachine-gun Pindad PM2 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -28173,7 +28173,7 @@ ITEM "CPW (5.7)"
 Class			SMG
 Caliber			"5.7ץ28 לל"
 Weight			1500
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.58
 BurstFireTime	0.063
 SpeedModifier	0.97
@@ -28186,8 +28186,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	73
-RangeCurvature	3
+EffectiveRange	82
+RangeCurvature	5
 Balance			0.62
 Unfold			"CPW (5.7) folded"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -28212,7 +28212,7 @@ ITEM "CPW (5.7) folded"
 Class			SMG
 Caliber			"5.7ץ28 לל"
 Weight			1500
-PrepareTime		0.19
+PrepareTime		0.21
 SingleFireTime	0.58
 BurstFireTime	0.063
 SpeedModifier	0.97
@@ -28225,8 +28225,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	53
-RangeCurvature	3
+EffectiveRange	62
+RangeCurvature	5
 Balance			0.62
 Unfold			"CPW (5.7)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -34213,6 +34213,43 @@ ACTOR			"Items\neostead.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Shotgun M1216 (12ga)"
+Class			Shotgun
+Caliber			"12 ךאכטבנ"
+Weight			3290
+PrepareTime		0.38
+SingleFireTime	0.91
+BurstFireTime	0.3333
+SpeedModifier	1.01
+Resource		1300
+DirtResource	150000
+MisfireProb		0.03
+HeatCapacity	45
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	0
+MaxRange		150
+EffectiveRange	57
+RangeCurvature	5
+Balance			0.43
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
+ReLockSound		"Weapon\ReLock\m3_pump.wav"
+ShootSound		"Weapon\Shoot\SPAS12.wav"
+ATT Laser		2 "WR""WRRifle" blocks Light
+ATT Light		2 "WR""WRRifle" blocks Laser
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "M1216"
+StdPlug			"Shotgun ammo clip (M1216/16)"
+ACTOR			"Items\m1216.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Shotgun UTAS (12ga)"
 Class			Shotgun
 Caliber			"12 ךאכטבנ"
@@ -39070,6 +39107,154 @@ StdPlug			"marlin1895g"
 ACTOR			"Items\marlinmudada.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
+
+ITEM "Rifle Elephant Gun"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			6110
+PrepareTime		0.83
+SingleFireTime	1.33
+BurstFireTime	0.001
+SpeedModifier	1
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		450
+EffectiveRange	320
+RangeCurvature	1.3
+Balance			0.36
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitro.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Unique"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			6110
+PrepareTime		0.83
+SingleFireTime	1.33
+BurstFireTime	0.001
+SpeedModifier	1
+Resource		8000
+DirtResource	120000
+MisfireProb		0.0017
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		450
+EffectiveRange	320
+RangeCurvature	1.3
+Balance			0.36
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitrounique.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Sawnoff"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			4950
+PrepareTime		0.68
+SingleFireTime	1.38
+BurstFireTime	0.001
+SpeedModifier	0.93
+Resource		6000
+DirtResource	80000
+MisfireProb		0.0017
+HeatCapacity	20
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	150
+RangeCurvature	1.8
+Balance			0.48
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitro_sawnoff.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtAutoShotgun
+
+ITEM "Rifle Elephant Gun Unique Sawnoff"
+Class			Rifle
+Caliber			"700 Nitro"
+Weight			4950
+PrepareTime		0.68
+SingleFireTime	1.38
+BurstFireTime	0.001
+SpeedModifier	0.93
+Resource		6000
+DirtResource	80000
+MisfireProb		0.0017
+HeatCapacity	20
+Single			1
+Burst			1
+CutOff			2
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	150
+RangeCurvature	1.8
+Balance			0.48
+ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\M1014.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "built-in"
+StdPlug			"Rifle ammo clip (700nitro/2)"
+ACTOR			"Items\700nitrounique_sawnoff.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtAutoShotgun
 
 ///////-----RIFLES SEGUNDA GUERRA
 
@@ -62566,6 +62751,162 @@ ACTOR			"Items\bcmbfh.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Assault Rifle LVOAS (5.56x45mm)"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3062
+PrepareTime		0.35
+SingleFireTime	0.76
+BurstFireTime	0.07
+SpeedModifier	1.01
+Resource		2300
+DirtResource	230000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		270
+EffectiveRange	123
+RangeCurvature	5.1
+Balance			0.63
+Unfold			"Assault Rifle LVOAS (5.56x45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock"
+ACTOR			"Items\LVOAS.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle LVOAS (5.56x45mm) folded"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3062
+PrepareTime		0.32
+SingleFireTime	0.76
+BurstFireTime	0.07
+SpeedModifier	1.01
+Resource		2300
+DirtResource	230000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	1
+MaxRange		270
+EffectiveRange	108
+RangeCurvature	5.1
+Balance			0.63
+Unfold			"Assault Rifle LVOAS (5.56x45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "WRFG"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock_folded"
+ACTOR			"Items\LVOAS.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle LVOAS FG (5.56x45mm)"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3062
+PrepareTime		0.34
+SingleFireTime	0.74
+BurstFireTime	0.07
+SpeedModifier	1.01
+Resource		2300
+DirtResource	230000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		270
+EffectiveRange	123
+RangeCurvature	5.1
+Balance			0.63
+Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock"
+ACTOR			"Items\lvoasfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle LVOAS FG (5.56x45mm) folded"
+Class			Rifle
+Caliber			"5.56ץ45 לל"
+Weight			3062
+PrepareTime		0.30
+SingleFireTime	0.74
+BurstFireTime	0.07
+SpeedModifier	1.01
+Resource		2300
+DirtResource	230000
+MisfireProb		0.021
+HeatCapacity	53
+Single			1
+Burst			1
+CutOff			3
+BurstHitStart	2
+MaxRange		270
+EffectiveRange	108
+RangeCurvature	5.1
+Balance			0.63
+Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"LVOASstock_folded"
+ACTOR			"Items\lvoasfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "HK416CQB PISTOL"
 Class			Rifle
 Caliber			"5.56ץ45 לל"
@@ -77982,6 +78323,47 @@ StdPlug			"Rifle ammo clip (AK 308/20)"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\ak_custom_2308.act"
 IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Maadi MISR (7.62x39mm)"
+Class			Rifle
+Caliber			"7.62ץ39 לל"
+Weight			3100
+PrepareTime		0.40
+SingleFireTime	0.71
+BurstFireTime	0.1
+SpeedModifier	1.04
+Resource		3400
+DirtResource	410000
+MisfireProb		0.005
+HeatCapacity	70
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		250
+EffectiveRange	137
+RangeCurvature	1
+Balance			0.51
+ClipInSound		"Weapon\ClipIn\AK-102_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AK47_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		0
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+blocks
+Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet"
+blocks
+Silencer
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Rifle ammo clip (AK 7.62/30)"
+ACTOR			"Items\AKM_egypt.act"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle RK62 (7.62x39mm)"
@@ -103953,387 +104335,5 @@ StdPlug			"ak101_butt-folded"
 ACTOR			"Items\arsenal_m7f_grip.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
-
-ITEM "Assault Rifle Maadi MISR (7.62x39mm)"
-Class			Rifle
-Caliber			"7.62ץ39 לל"
-Weight			3100
-PrepareTime		0.40
-SingleFireTime	0.71
-BurstFireTime	0.1
-SpeedModifier	1.04
-Resource		3400
-DirtResource	410000
-MisfireProb		0.005
-HeatCapacity	70
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	137
-RangeCurvature	1
-Balance			0.51
-ClipInSound		"Weapon\ClipIn\AK-102_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AK47_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-blocks
-Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "StdBayonet"
-blocks
-Silencer
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Rifle ammo clip (AK 7.62/30)"
-ACTOR			"Items\AKM_egypt.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Rifle Elephant Gun"
-Class			Rifle
-Caliber			"700 Nitro"
-Weight			6110
-PrepareTime		0.83
-SingleFireTime	1.33
-BurstFireTime	0.001
-SpeedModifier	1
-Resource		8000
-DirtResource	120000
-MisfireProb		0.0017
-HeatCapacity	25
-Single			1
-Burst			1
-CutOff			2
-BurstHitStart	2
-MaxRange		450
-EffectiveRange	320
-RangeCurvature	1.3
-Balance			0.36
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
-ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
-ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "built-in"
-StdPlug			"Rifle ammo clip (700nitro/2)"
-ACTOR			"Items\700nitro.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtAutoShotgun
-
-ITEM "Rifle Elephant Gun Unique"
-Class			Rifle
-Caliber			"700 Nitro"
-Weight			6110
-PrepareTime		0.83
-SingleFireTime	1.33
-BurstFireTime	0.001
-SpeedModifier	1
-Resource		8000
-DirtResource	120000
-MisfireProb		0.0017
-HeatCapacity	25
-Single			1
-Burst			1
-CutOff			2
-BurstHitStart	2
-MaxRange		450
-EffectiveRange	320
-RangeCurvature	1.3
-Balance			0.36
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
-ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
-ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "built-in"
-StdPlug			"Rifle ammo clip (700nitro/2)"
-ACTOR			"Items\700nitrounique.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtAutoShotgun
-
-ITEM "Rifle Elephant Gun Sawnoff"
-Class			Rifle
-Caliber			"700 Nitro"
-Weight			4950
-PrepareTime		0.68
-SingleFireTime	1.38
-BurstFireTime	0.001
-SpeedModifier	0.93
-Resource		6000
-DirtResource	80000
-MisfireProb		0.0017
-HeatCapacity	20
-Single			1
-Burst			1
-CutOff			2
-BurstHitStart	2
-MaxRange		300
-EffectiveRange	150
-RangeCurvature	1.8
-Balance			0.48
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
-ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
-ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "built-in"
-StdPlug			"Rifle ammo clip (700nitro/2)"
-ACTOR			"Items\700nitro_sawnoff.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtAutoShotgun
-
-ITEM "Rifle Elephant Gun Unique Sawnoff"
-Class			Rifle
-Caliber			"700 Nitro"
-Weight			4950
-PrepareTime		0.68
-SingleFireTime	1.38
-BurstFireTime	0.001
-SpeedModifier	0.93
-Resource		6000
-DirtResource	80000
-MisfireProb		0.0017
-HeatCapacity	20
-Single			1
-Burst			1
-CutOff			2
-BurstHitStart	2
-MaxRange		300
-EffectiveRange	150
-RangeCurvature	1.8
-Balance			0.48
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
-ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
-ShootSound		"Weapon\Shoot\M1014.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "built-in"
-StdPlug			"Rifle ammo clip (700nitro/2)"
-ACTOR			"Items\700nitrounique_sawnoff.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtAutoShotgun
-
-ITEM "Assault Rifle LVOAS (5.56x45mm)"
-Class			Rifle
-Caliber			"5.56ץ45 לל"
-Weight			3062
-PrepareTime		0.35
-SingleFireTime	0.76
-BurstFireTime	0.07
-SpeedModifier	1.01
-Resource		2300
-DirtResource	230000
-MisfireProb		0.021
-HeatCapacity	53
-Single			1
-Burst			1
-CutOff			3
-BurstHitStart	1
-MaxRange		270
-EffectiveRange	123
-RangeCurvature	5.1
-Balance			0.63
-Unfold			"Assault Rifle LVOAS (5.56x45mm) folded"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
-ATT Bipod		1 "WRFG"
-ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
-StdPlug			"LVOASstock"
-ACTOR			"Items\LVOAS.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle LVOAS (5.56x45mm) folded"
-Class			Rifle
-Caliber			"5.56ץ45 לל"
-Weight			3062
-PrepareTime		0.32
-SingleFireTime	0.76
-BurstFireTime	0.07
-SpeedModifier	1.01
-Resource		2300
-DirtResource	230000
-MisfireProb		0.021
-HeatCapacity	53
-Single			1
-Burst			1
-CutOff			3
-BurstHitStart	1
-MaxRange		270
-EffectiveRange	108
-RangeCurvature	5.1
-Balance			0.63
-Unfold			"Assault Rifle LVOAS (5.56x45mm)"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
-ATT Bipod		1 "WRFG"
-ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
-StdPlug			"LVOASstock_folded"
-ACTOR			"Items\LVOAS.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle LVOAS FG (5.56x45mm)"
-Class			Rifle
-Caliber			"5.56ץ45 לל"
-Weight			3062
-PrepareTime		0.34
-SingleFireTime	0.74
-BurstFireTime	0.07
-SpeedModifier	1.01
-Resource		2300
-DirtResource	230000
-MisfireProb		0.021
-HeatCapacity	53
-Single			1
-Burst			1
-CutOff			3
-BurstHitStart	2
-MaxRange		270
-EffectiveRange	123
-RangeCurvature	5.1
-Balance			0.63
-Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
-StdPlug			"LVOASstock"
-ACTOR			"Items\lvoasfg.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRG
-
-ITEM "Assault Rifle LVOAS FG (5.56x45mm) folded"
-Class			Rifle
-Caliber			"5.56ץ45 לל"
-Weight			3062
-PrepareTime		0.30
-SingleFireTime	0.74
-BurstFireTime	0.07
-SpeedModifier	1.01
-Resource		2300
-DirtResource	230000
-MisfireProb		0.021
-HeatCapacity	53
-Single			1
-Burst			1
-CutOff			3
-BurstHitStart	2
-MaxRange		270
-EffectiveRange	108
-RangeCurvature	5.1
-Balance			0.63
-Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\M4A1.WAV"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
-StdPlug			"LVOASstock_folded"
-ACTOR			"Items\lvoasfg.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRG
-
-ITEM "Shotgun M1216 (12ga)"
-Class			Shotgun
-Caliber			"12 ךאכטבנ"
-Weight			3290
-PrepareTime		0.38
-SingleFireTime	0.91
-BurstFireTime	0.3333
-SpeedModifier	1.01
-Resource		1300
-DirtResource	150000
-MisfireProb		0.03
-HeatCapacity	45
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	0
-MaxRange		150
-EffectiveRange	57
-RangeCurvature	5
-Balance			0.43
-ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
-ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
-ReLockSound		"Weapon\ReLock\m3_pump.wav"
-ShootSound		"Weapon\Shoot\SPAS12.wav"
-ATT Laser		2 "WR""WRRifle" blocks Light
-ATT Light		2 "WR""WRRifle" blocks Laser
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "M1216"
-StdPlug			"Shotgun ammo clip (M1216/16)"
-ACTOR			"Items\m1216.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
 
 END
