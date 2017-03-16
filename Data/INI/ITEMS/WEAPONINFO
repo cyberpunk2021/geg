@@ -4510,7 +4510,7 @@ HANDS			ahtPistol
 ITEM "Pistol SIG Sauer P228 (9mm)"
 Class			Pistol
 Caliber			"9υ19 μμ"
-Weight			905
+Weight			730
 PrepareTime		0.14
 SingleFireTime	0.62
 BurstFireTime	0.25
@@ -7393,7 +7393,7 @@ HANDS			ahtPistol
 ITEM "Pistol SIG Sauer P228 (357)"
 Class			Pistol
 Caliber			".357 SIG"
-Weight			905
+Weight			770
 PrepareTime		0.14
 SingleFireTime	0.66
 BurstFireTime	0.25
@@ -9399,7 +9399,7 @@ HANDS			ahtPistol
 ITEM "Pistol SIG Sauer P228 (.357)"
 Class			Pistol
 Caliber			".40 S&W"
-Weight			905
+Weight			770
 PrepareTime		0.14
 SingleFireTime	0.65
 BurstFireTime	0.25
