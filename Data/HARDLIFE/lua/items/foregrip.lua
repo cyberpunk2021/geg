@@ -110,6 +110,44 @@
  ["Assault Rifle AK-12U (7.62mm) folded"] = "Assault Rifle AK-12U FG (7.62mm) folded",
  ["Assault Rifle AK-12U (308)"] = "Assault Rifle AK-12U FG (308)",
  ["Assault Rifle AK-12U (308) folded"] = "Assault Rifle AK-12U FG (308) folded",
+ ["Assault Rifle XCR (5.56mm)"] = "Assault Rifle XCR FG (5.56mm)",
+ ["Assault Rifle XCR (5.56mm) folded"] = "Assault Rifle XCR FG (5.56mm) folded",
+ ["Assault Rifle XCR LB (5.56mm)"] = "Assault Rifle XCR LB FG (5.56mm)",
+ ["Assault Rifle XCR LB (5.56mm) folded"] = "Assault Rifle XCR LB FG (5.56mm) folded",
+ ["Assault Rifle XCR CQC (5.56mm)"] = "Assault Rifle XCR CQC FG (5.56mm)",
+ ["Assault Rifle XCR CQC (5.56mm) folded"] = "Assault Rifle XCR CQC FG (5.56mm) folded",
+ ["Submachine-gun XCR Pistol NATO"] = "Submachine-gun XCR Pistol NATO FG",
+ ["Submachine-gun XCR Pistol NATO folded"] = "Submachine-gun XCR Pistol NATO FG folded",
+ ["Assault Rifle XCR (7.62mm)"] = "Assault Rifle XCR FG (7.62mm)",
+ ["Assault Rifle XCR (7.62mm) folded"] = "Assault Rifle XCR FG (7.62mm) folded",
+ ["Assault Rifle XCR LB (7.62mm)"] = "Assault Rifle XCR LB FG (7.62mm)",
+ ["Assault Rifle XCR LB (7.62mm) folded"] = "Assault Rifle XCR LB FG (7.62mm) folded",
+ ["Assault Rifle XCR CQC (7.62mm)"] = "Assault Rifle XCR CQC FG (7.62mm)",
+ ["Assault Rifle XCR CQC (7.62mm) folded"] = "Assault Rifle XCR CQC FG (7.62mm) folded",
+ ["Submachine-gun XCR Pistol RUSM"] = "Submachine-gun XCR Pistol RUSM FG",
+ ["Submachine-gun XCR Pistol RUSM folded"] = "Submachine-gun XCR Pistol RUSM FG folded",
+ ["Assault Rifle XCR (6.8mm)"] = "Assault Rifle XCR FG (6.8mm)",
+ ["Assault Rifle XCR (6.8mm) folded"] = "Assault Rifle XCR FG (6.8mm) folded",
+ ["Assault Rifle XCR LB (6.8mm)"] = "Assault Rifle XCR LB FG (6.8mm)",
+ ["Assault Rifle XCR LB (6.8mm) folded"] = "Assault Rifle XCR LB FG (6.8mm) folded",
+ ["Assault Rifle XCR CQC (6.8mm)"] = "Assault Rifle XCR CQC FG (6.8mm)",
+ ["Assault Rifle XCR CQC (6.8mm) folded"] = "Assault Rifle XCR CQC FG (6.8mm) folded",
+ ["Submachine-gun XCR Pistol SPC"] = "Submachine-gun XCR Pistol SPC FG",
+ ["Submachine-gun XCR Pistol SPC folded"] = "Submachine-gun XCR Pistol SPC FG folded",
+ ["Assault Rifle XCR (7.62x51mm)"] = "Assault Rifle XCR FG (7.62x51mm)",
+ ["Assault Rifle XCR (7.62x51mm) folded"] = "Assault Rifle XCR FG (7.62x51mm) folded",
+ ["Assault Rifle XCR LB (7.62x51mm)"] = "Assault Rifle XCR LB FG (7.62x51mm)",
+ ["Assault Rifle XCR LB (7.62x51mm) folded"] = "Assault Rifle XCR LB FG (7.62x51mm) folded",
+ ["Assault Rifle XCR CQC (7.62x51mm)"] = "Assault Rifle XCR CQC FG (7.62x51mm)",
+ ["Assault Rifle XCR CQC (7.62x51mm) folded"] = "Assault Rifle XCR CQC FG (7.62x51mm) folded",
+ ["Assault Rifle XCR (5.45mm)"] = "Assault Rifle XCR FG (5.45mm)",
+ ["Assault Rifle XCR (5.45mm) folded"] = "Assault Rifle XCR FG (5.45mm) folded",
+ ["Assault Rifle XCR LB (5.45mm)"] = "Assault Rifle XCR LB FG (5.45mm)",
+ ["Assault Rifle XCR LB (5.45mm) folded"] = "Assault Rifle XCR LB FG (5.45mm) folded",
+ ["Assault Rifle XCR CQC (5.45mm)"] = "Assault Rifle XCR CQC FG (5.45mm)",
+ ["Assault Rifle XCR CQC (5.45mm) folded"] = "Assault Rifle XCR CQC FG (5.45mm) folded",
+ ["Submachine-gun XCR Pistol RUSL"] = "Submachine-gun XCR Pistol RUSL FG",
+ ["Submachine-gun XCR Pistol RUSL folded"] = "Submachine-gun XCR Pistol RUSL FG folded", 
  ["Assault Rifle SIG 556 CQC (5.56mm)"] = "Assault Rifle SIG 556 CQC FG (5.56mm)",
  ["Assault Rifle SIG 556 CQC (5.56mm) folded"] = "Assault Rifle SIG 556 CQC FG (5.56mm) folded",
  ["Assault Rifle SIG 556 CQC CIV (5.56mm)"] = "Assault Rifle SIG 556 CQC CIV FG (5.56mm)",
@@ -458,6 +496,44 @@ AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (7.62mm)", AttachFo
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (7.62mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (308)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle AK-12U (308) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (5.56mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (5.56mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol NATO", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol NATO folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (7.62mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (7.62mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (7.62mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (7.62mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (7.62mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (7.62mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol RUSM", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol RUSM folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (6.8mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (6.8mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (6.8mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (6.8mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (6.8mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (6.8mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol SPC", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol SPC folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (7.62x51mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (7.62x51mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (7.62x51mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (7.62x51mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (5.45mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR (5.45mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol RUSL", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun XCR Pistol RUSL folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (5.45mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR LB (5.45mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (5.45mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Assault Rifle XCR CQC (5.45mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC (5.56mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC (5.56mm) folded", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Assault Rifle SIG 556 CQC CIV (5.56mm)", AttachForegrip)
@@ -674,6 +750,44 @@ AddItemContextMenu("Assault Rifle AK-12U FG (7.62mm)", action_detach_handle, Det
 AddItemContextMenu("Assault Rifle AK-12U FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12U FG (308)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle AK-12U FG (308) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol NATO FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol NATO FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (7.62mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (7.62mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol RUSM FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol RUSM FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (6.8mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (6.8mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (6.8mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (6.8mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (6.8mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (6.8mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol SPC FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol SPC FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (7.62x51mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (7.62x51mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (5.45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR FG (5.45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol RUSL FG", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun XCR Pistol RUSL FG folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (5.45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR LB FG (5.45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (5.45mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Assault Rifle XCR CQC FG (5.45mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CQC FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CQC FG (5.56mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Assault Rifle SIG 556 CQC CIV FG (5.56mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)

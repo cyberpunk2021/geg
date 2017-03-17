@@ -29247,7 +29247,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29256,7 +29256,7 @@ StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovapistolrus.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol RUSL folded"
 Class			Rifle
@@ -29286,7 +29286,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29295,7 +29295,7 @@ StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovapistolrus.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol NATO"
 Class			Rifle
@@ -29325,7 +29325,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29334,7 +29334,7 @@ StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovapistol.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol NATO folded"
 Class			Rifle
@@ -29364,7 +29364,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29373,7 +29373,7 @@ StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovapistol.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol SPC"
 Class			Rifle
@@ -29403,7 +29403,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29412,7 +29412,7 @@ StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovapistol.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol SPC folded"
 Class			Rifle
@@ -29442,7 +29442,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29451,7 +29451,7 @@ StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovapistol.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol RUSM"
 Class			Rifle
@@ -29481,7 +29481,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29490,7 +29490,7 @@ StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovapistolrus.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Submachine-gun XCR Pistol RUSM folded"
 Class			Rifle
@@ -29520,7 +29520,7 @@ ShootSound		"Weapon\Shoot\CAR-15.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		0
+ATT Bipod		1 "WRFG"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -29528,6 +29528,318 @@ ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovapistolrus.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRifle
+
+ITEM "Submachine-gun XCR Pistol RUSL FG"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			1950
+PrepareTime		0.25
+SingleFireTime	0.62
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol RUSL FG folded"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovapistolrusfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol RUSL FG folded"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			1950
+PrepareTime		0.21
+SingleFireTime	0.62
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	48
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol RUSL FG"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovapistolrusfg.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol NATO FG"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			1950
+PrepareTime		0.25
+SingleFireTime	0.67
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol NATO FG folded"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovapistolfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol NATO FG folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			1950
+PrepareTime		0.21
+SingleFireTime	0.67
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	48
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol NATO FG"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovapistolfg.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol SPC FG"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			1950
+PrepareTime		0.25
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol SPC FG folded"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovapistolfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol SPC FG folded"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			1950
+PrepareTime		0.21
+SingleFireTime	0.69
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	48
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol SPC FG"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovapistolfg.act"
+IMAGE			"2x2.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol RUSM FG"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			1950
+PrepareTime		0.25
+SingleFireTime	0.68
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	68
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol RUSM FG folded"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovapistolrusfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Submachine-gun XCR Pistol RUSM FG folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			1950
+PrepareTime		0.21
+SingleFireTime	0.68
+BurstFireTime	0.085
+SpeedModifier	0.9
+Resource		1800
+DirtResource	200000
+MisfireProb		0.0031
+HeatCapacity	40
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		150
+EffectiveRange	48
+RangeCurvature	6
+Balance			0.6
+Unfold			"Submachine-gun XCR Pistol RUSM FG"
+ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading2.wav"
+ReLockSound		"Weapon\ReLock\pistol_slide2.wav"
+ShootSound		"Weapon\Shoot\CAR-15.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovapistolrusfg.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtRG
 
@@ -55805,7 +56117,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -55814,7 +56126,7 @@ StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovacqcrus.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR CQC (5.45mm) folded"
 Class			Rifle
@@ -55844,7 +56156,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -55853,7 +56165,7 @@ StdPlug			"Rifle ammo clip (AK 5.45/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovacqcrus.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (5.45mm)"
 Class			Rifle
@@ -55883,7 +56195,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -55922,7 +56234,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -55961,7 +56273,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56000,7 +56312,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "PBS - 5,45"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56043,7 +56355,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56052,7 +56364,7 @@ StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovacqc.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR CQC (5.56mm) folded"
 Class			Rifle
@@ -56082,7 +56394,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56091,7 +56403,7 @@ StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovacqc.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (5.56mm)"
 Class			Rifle
@@ -56121,7 +56433,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56160,7 +56472,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56199,7 +56511,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56238,7 +56550,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56281,7 +56593,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56290,7 +56602,7 @@ StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovacqc.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR CQC (6.8mm) folded"
 Class			Rifle
@@ -56320,7 +56632,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56329,7 +56641,7 @@ StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovacqc.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (6.8mm)"
 Class			Rifle
@@ -56359,7 +56671,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56398,7 +56710,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56437,7 +56749,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56476,7 +56788,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 6,8x43"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56519,7 +56831,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56528,7 +56840,7 @@ StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovacqcrus.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR CQC (7.62mm) folded"
 Class			Rifle
@@ -56558,7 +56870,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56567,7 +56879,7 @@ StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovacqcrus.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (7.62mm)"
 Class			Rifle
@@ -56597,7 +56909,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56636,7 +56948,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56675,7 +56987,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56714,7 +57026,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56757,7 +57069,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56766,7 +57078,7 @@ StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
 ACTOR			"Items\xcrnovacqc.act"
 IMAGE			"2x4.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR CQC (7.62x51mm) folded"
 Class			Rifle
@@ -56796,7 +57108,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -56805,7 +57117,7 @@ StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
 ACTOR			"Items\xcrnovacqc.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtRG
+HANDS			ahtRifle
 
 ITEM "Assault Rifle XCR (7.62x51mm)"
 Class			Rifle
@@ -56835,7 +57147,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56874,7 +57186,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56913,7 +57225,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56952,7 +57264,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
-ATT Bipod		1 "WR" blocks ILauncher
+ATT Bipod		2 "WR""WRFG" blocks ILauncher
 ATT Silencer	1 "Supressor - 7,62"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
@@ -56966,6 +57278,1200 @@ HANDS			ahtRifle
 //***END OF 7.62x51
 
 //*************END OF XCR BLOCK
+
+//***********XCR FG BLOCK
+
+//***5.45x39
+
+ITEM "Assault Rifle XCR CQC FG (5.45mm)"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			2800
+PrepareTime		0.28
+SingleFireTime	0.65
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	90
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (5.45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovacqcrusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR CQC FG (5.45mm) folded"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			2800
+PrepareTime		0.24
+SingleFireTime	0.65
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (5.45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovacqcrusfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (5.45mm)"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			3400
+PrepareTime		0.32
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	106
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (5.45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovarusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (5.45mm) folded"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			3400
+PrepareTime		0.29
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	86
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (5.45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovarusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (5.45mm)"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			3800
+PrepareTime		0.42
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	157
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (5.45mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovalbrusfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (5.45mm) folded"
+Class			Rifle
+Caliber			"5.45υ39 μμ"
+Weight			3800
+PrepareTime		0.38
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	127
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (5.45mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "PBS - 5,45"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.45"
+StdPlug			"Rifle ammo clip (AK 5.45/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovalbrusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+//***END OF 5.45x39
+
+//***5.56x45
+
+ITEM "Assault Rifle XCR CQC FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2800
+PrepareTime		0.28
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	90
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovacqcfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR CQC FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2800
+PrepareTime		0.24
+SingleFireTime	0.67
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	70
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovacqcfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3400
+PrepareTime		0.32
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	106
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			2676
+PrepareTime		0.29
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	86
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3800
+PrepareTime		0.42
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	157
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovalbfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3800
+PrepareTime		0.38
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	127
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (5.56mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "NATO 5.56""5.56 Double"
+StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovalbfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+//***END OF 5.56x39
+
+//***6.8 SPC
+
+ITEM "Assault Rifle XCR CQC FG (6.8mm)"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			2800
+PrepareTime		0.28
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	90
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (6.8mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovacqcfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR CQC FG (6.8mm) folded"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			2800
+PrepareTime		0.24
+SingleFireTime	0.69
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	70
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (6.8mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovacqcfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (6.8mm)"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			3400
+PrepareTime		0.32
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	106
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (6.8mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (6.8mm) folded"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			3400
+PrepareTime		0.29
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	86
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (6.8mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (6.8mm)"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			3800
+PrepareTime		0.42
+SingleFireTime	0.75
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	157
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (6.8mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovalbfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (6.8mm) folded"
+Class			Rifle
+Caliber			"6.8x43 mm"
+Weight			3800
+PrepareTime		0.38
+SingleFireTime	0.75
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	127
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (6.8mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 6,8x43"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "6.8x43 clips"
+StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovalbfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+//***END OF 6.8 SPC
+
+//***7.62x39
+
+ITEM "Assault Rifle XCR CQC FG (7.62mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2800
+PrepareTime		0.28
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	90
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (7.62mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovacqcrusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR CQC FG (7.62mm) folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2800
+PrepareTime		0.24
+SingleFireTime	0.68
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	70
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (7.62mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovacqcrusfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (7.62mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3400
+PrepareTime		0.32
+SingleFireTime	0.70
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	106
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (7.62mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovarusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (7.62mm) folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3400
+PrepareTime		0.29
+SingleFireTime	0.70
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	86
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (7.62mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovarusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (7.62mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3800
+PrepareTime		0.42
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	157
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (7.62mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovalbrusfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (7.62mm) folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3800
+PrepareTime		0.38
+SingleFireTime	0.72
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	127
+RangeCurvature	2.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (7.62mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovalbrusfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+//***END OF 7.62x39
+
+//***7.62x51
+
+ITEM "Assault Rifle XCR CQC FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3400
+PrepareTime		0.30
+SingleFireTime	0.77
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	90
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "sr25_clip"
+StdPlug			"Rifle ammo clip (SR25\20)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovacqcfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR CQC FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3400
+PrepareTime		0.26
+SingleFireTime	0.77
+BurstFireTime	0.08
+SpeedModifier	0.95
+Resource		2600
+DirtResource	300000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	70
+RangeCurvature	4
+Balance			0.51
+Unfold			"Assault Rifle XCR CQC FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "sr25_clip"
+StdPlug			"Rifle ammo clip (SR25\20)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovacqcfg.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3800
+PrepareTime		0.34
+SingleFireTime	0.80
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	106
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "sr25_clip"
+StdPlug			"Rifle ammo clip (SR25\20)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3800
+PrepareTime		0.30
+SingleFireTime	0.80
+BurstFireTime	0.08
+SpeedModifier	1
+Resource		2700
+DirtResource	310000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		250
+EffectiveRange	86
+RangeCurvature	5
+Balance			0.51
+Unfold			"Assault Rifle XCR FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "sr25_clip"
+StdPlug			"Rifle ammo clip (SR25\20)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovafg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			4100
+PrepareTime		0.47
+SingleFireTime	0.83
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	180
+RangeCurvature	1.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "sr25_clip"
+StdPlug			"Rifle ammo clip (SR25\20)"
+StdPlug			"xcrstock"
+ACTOR			"Items\xcrnovalbfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle XCR LB FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			4100
+PrepareTime		0.43
+SingleFireTime	0.83
+BurstFireTime	0.08
+SpeedModifier	1.05
+Resource		2800
+DirtResource	320000
+MisfireProb		0.0021
+HeatCapacity	45
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		300
+EffectiveRange	150
+RangeCurvature	1.5
+Balance			0.51
+Unfold			"Assault Rifle XCR LB FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\M4A1.WAV"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "Supressor - 7,62"
+ATT ILauncher	2 "M203""M203PI"
+ATT Bayonet		0
+ATT Magazine	1 "sr25_clip"
+StdPlug			"Rifle ammo clip (SR25\20)"
+StdPlug			"xcrstock_folded"
+ACTOR			"Items\xcrnovalbfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
+//***END OF 7.62x51
+
+//*************END OF XCR FG BLOCK
 
 ITEM "Armalite"
 Class			Rifle
