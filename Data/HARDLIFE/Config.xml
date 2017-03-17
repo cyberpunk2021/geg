@@ -95,13 +95,54 @@
       <item>Algeira soldiers captain epaulets</item>
       <item>Algeira soldiers leutenant epaulets</item>
       <item>Algeira soldiers sergant epaulets</item>
+	  
+	  
+      <item>BigWoodBoxFEGAK63</item>
+      <item>BigWoodBoxFEGAK63D</item>
+      <item>BigWoodBoxK1A1</item>
+      <item>BigWoodBoxK2</item>
+      <item>BigWoodBoxSIG540</item>
+      <item>BigWoodBoxSIG542</item>
+      <item>BigWoodBoxGalil556</item>
+      <item>BigWoodBoxGalilACE556</item>
+      <item>BigWoodBoxMD97</item>
+      <item>BigWoodBoxIA2C</item>
+      <item>BigWoodBoxType56</item>
+      <item>BigWoodBoxType56i</item>
+      <item>BigWoodBoxType56ii</item>
+      <item>BigWoodBoxIA2C</item>
+      <item>BigWoodBoxM964</item>
+      <item>BigWoodBoxAUGA1</item>
+      <item>BigWoodBoxAUGA2</item>
+      <item>BigWoodBoxVZ58</item>
+      <item>BigWoodBoxHK33</item>
+      <item>BigWoodBoxQBZ95</item>
+      <item>BigWoodBoxQBZ97</item>
+      <item>BigWoodBoxQBZ951</item>
+      <item>BigWoodBoxQBZ971</item>
+      <item>BigWoodBoxNorincoCQ</item>
+      <item>BigWoodBoxM4A1</item>
+      <item>BigWoodBoxGalil</item>
+      <item>BigWoodBoxM16A2</item>
+      <item>BigWoodBoxG3</item>
+      <item>BigWoodBoxG36</item>
+      <item>BigWoodBoxAK103</item>
+      <item>BigWoodBoxAKM</item>
+      <item>BigWoodBoxAKMN</item>
+	  
+	  
     </Military>
     <Police>
-      <item>Shotgun Mosberg 590 Crusader (12ga)</item>
-      <item>Assault Rifle Crossfire Mk-1 (5.56mm)</item>
-      <item>Knight Masterkey Shotgun (12 ga)</item>
-      <item>Knight Masterkey Shotgun AK (12 ga)</item>
-
+      <item>BigWoodBoxMP59mm</item>
+      <item>BigWoodBoxBizon</item>
+      <item>BigWoodBoxVityaz</item>
+      <item>BigWoodBoxBTMP9</item>
+      <item>BigWoodBoxSAF9</item>
+      <item>BigWoodBoxKiparis</item>
+      <item>BigWoodBoxP90</item>
+      <item>BigWoodBoxMT40</item>
+      <item>BigWoodBoxMT40</item>
+	  
       <item>M407 Smoke</item>
       <item>Smoke Hand Grenade AN-M8 HC</item>
       <item>Flash Hand Grenade M84</item>
@@ -125,7 +166,15 @@
       <item>Algeira police leutenant epaulets</item>
       <item>Algeira police sergant epaulets</item>
     </Police>
-    <Hunter></Hunter>
+    <Hunter>
+		<item>BigWoodBoxM964Civ</item>
+		<item>BigWoodBoxGovCarbine</item>
+		<item>BigWoodBoxTacticalCarbine</item>
+		<item>BigWoodBoxBTMP9</item>
+		<item>BigWoodBoxBTMP9</item>
+		<item>BigWoodBoxBTMP9</item>
+	
+	</Hunter>
     <Unlegal>
       <!-- Criminal weapons/ 
             Обрезы, переделки, старое оружие без номеров -->
@@ -206,6 +255,9 @@
       <item>IDMilitary_dud</item>
       <item>IDPolice_dud</item>
       <item>Literatura Revolucionaria</item>
+	  <item>Military_sectret</item>
+      <item>Confidencial</item>
+      <item>Confidencial_Pali</item>
       <!-- Unlegal booze/ Безакцизное спиртное -->
       <item>Canazo_can20</item>
       <item>Canazo_can5</item>

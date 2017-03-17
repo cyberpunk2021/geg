@@ -12580,7 +12580,7 @@ ITEM "Revolver Taurus 608 Stainless SB (.357 Magnum)"
 Class			Pistol
 Caliber			".357 Magnum"
 Weight			1350
-PrepareTime		0.19
+PrepareTime		0.18
 SingleFireTime	0.74
 BurstFireTime	0.25
 SpeedModifier	1.05
@@ -12593,7 +12593,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
+EffectiveRange	48
 RangeCurvature	5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -12617,7 +12617,7 @@ ITEM "Revolver Taurus 608 SB (.357 Magnum)"
 Class			Pistol
 Caliber			".357 Magnum"
 Weight			1350
-PrepareTime		0.19
+PrepareTime		0.18
 SingleFireTime	0.74
 BurstFireTime	0.25
 SpeedModifier	1.05
@@ -12630,7 +12630,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
+EffectiveRange	48
 RangeCurvature	5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -13678,7 +13678,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
+EffectiveRange	48
 RangeCurvature	5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -13715,7 +13715,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	58
+EffectiveRange	48
 RangeCurvature	5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"

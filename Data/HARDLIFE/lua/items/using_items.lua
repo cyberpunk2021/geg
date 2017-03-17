@@ -884,6 +884,7 @@ AddItemContextMenu("Field Paramedic Kit2", 			action_unpack, UnpackParamedicKit2
 AddItemContextMenu("Car_can5", 					_t"lang/lua/using_items/pour", AddEmptyCan, CanUseItem)
 AddItemContextMenu("PackedCamoBox", 				action_unpack, UnpackCamoBox, CanUseItem)
 AddItemContextMenu("PackedMedBox", 				action_unpack, UnpackMedBox, CanUseItem)
+AddItemContextMenu("PackedCleaningKitBox", 				action_unpack, UnpackCleaningKitBox, CanUseItem)
 AddItemContextMenu("Caja con medicamentos", 				action_unpack, UnpackMedBox2, CanUseItem)
 AddItemContextMenu("PackedContactFuzeBox", 				action_unpack, UnpackContactFuzeBox, CanUseItem)
 AddItemContextMenu("PackedRadioFuzeBox", 				action_unpack, UnpackRemoteFuzeBox, CanUseItem)
