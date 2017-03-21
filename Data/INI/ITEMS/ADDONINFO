@@ -2097,7 +2097,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\doctersightclear.act"
-IMAGE			"docterpicfix.dds"
+IMAGE			"docterpicfix.e5b"
 WEIGHT			30
 Resource		7000
 //------------------------------------------------------
@@ -2108,7 +2108,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_ak.act"
-IMAGE			"docterpicak.dds"
+IMAGE			"docterpicak.e5b"
 WEIGHT			210
 Resource		7000
 //------------------------------------------------------
@@ -2119,7 +2119,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_m14.act"
-IMAGE			"docterpicm14.dds"
+IMAGE			"docterpicm14.e5b"
 WEIGHT			130
 Resource		7000
 //------------------------------------------------------
@@ -2130,7 +2130,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_mini14.act"
-IMAGE			"docterpicmini14.dds"
+IMAGE			"docterpicmini14.e5b"
 WEIGHT			130
 Resource		7000
 //------------------------------------------------------
@@ -2141,7 +2141,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_galil.act"
-IMAGE			"docterpicgalil.dds"
+IMAGE			"docterpicgalil.e5b"
 WEIGHT			130
 Resource		7000
 //------------------------------------------------------
@@ -2152,7 +2152,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_high.act"
-IMAGE			"docterpichigh.dds"
+IMAGE			"docterpichigh.e5b"
 WEIGHT			330
 Resource		7000
 //------------------------------------------------------
@@ -2163,7 +2163,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_g36.act"
-IMAGE			"docterpicg36.dds"
+IMAGE			"docterpicg36.e5b"
 WEIGHT			180
 Resource		7000
 //------------------------------------------------------
@@ -2174,7 +2174,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_sig.act"
-IMAGE			"docterpicsig.dds"
+IMAGE			"docterpicsig.e5b"
 WEIGHT			80
 Resource		7000
 //------------------------------------------------------
@@ -2185,7 +2185,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_mp5.act"
-IMAGE			"docterpicmp5.dds"
+IMAGE			"docterpicmp5.e5b"
 WEIGHT			100
 Resource		7000
 //------------------------------------------------------
@@ -2196,7 +2196,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		42
 ACTOR			"Items\docter_m16.act"
-IMAGE			"docterpicm16.dds"
+IMAGE			"docterpicm16.e5b"
 WEIGHT			130
 Resource		7000
 //------------------------------------------------------
@@ -2207,7 +2207,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\visionplus.act"
-IMAGE			"cbc_wr_pic.dds"
+IMAGE			"cbc_wr_pic.e5b"
 WEIGHT			158
 Resource		7000
 //------------------------------------------------------
@@ -2218,7 +2218,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_ak.act"
-IMAGE			"cbc_ak_pic.dds"
+IMAGE			"cbc_ak_pic.e5b"
 WEIGHT			338
 Resource		7000
 //------------------------------------------------------
@@ -2229,7 +2229,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_g36.act"
-IMAGE			"cbc_g36_pic.dds"
+IMAGE			"cbc_g36_pic.e5b"
 WEIGHT			308
 Resource		7000
 //------------------------------------------------------
@@ -2240,7 +2240,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_mini14.act"
-IMAGE			"cbc_mini14_pic.dds"
+IMAGE			"cbc_mini14_pic.e5b"
 WEIGHT			258
 Resource		7000
 //------------------------------------------------------
@@ -2251,7 +2251,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_m16.act"
-IMAGE			"cbc_m16_pic.dds"
+IMAGE			"cbc_m16_pic.e5b"
 WEIGHT			258
 Resource		7000
 //------------------------------------------------------
@@ -2262,7 +2262,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_high.act"
-IMAGE			"cbc_high_pic.dds"
+IMAGE			"cbc_high_pic.e5b"
 WEIGHT			458
 Resource		7000
 //------------------------------------------------------
@@ -2273,7 +2273,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_sig.act"
-IMAGE			"cbc_sig_pic.dds"
+IMAGE			"cbc_sig_pic.e5b"
 WEIGHT			208
 Resource		7000
 //------------------------------------------------------
@@ -2284,7 +2284,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_mp5.act"
-IMAGE			"cbc_mp5_pic.dds"
+IMAGE			"cbc_mp5_pic.e5b"
 WEIGHT			228
 Resource		7000
 //------------------------------------------------------
@@ -2295,7 +2295,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_galil.act"
-IMAGE			"cbc_galil_pic.dds"
+IMAGE			"cbc_galil_pic.e5b"
 WEIGHT			258
 Resource		7000
 //------------------------------------------------------
@@ -2306,7 +2306,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		84
 ACTOR			"Items\cbc_m14.act"
-IMAGE			"cbc_m14_pic.dds"
+IMAGE			"cbc_m14_pic.e5b"
 WEIGHT			258
 Resource		7000
 //------------------------------------------------------
@@ -2317,7 +2317,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barskaAC.act"
-IMAGE			"barksazoompic.dds"
+IMAGE			"barksazoompic.e5b"
 WEIGHT			249
 Resource		7000
 //------------------------------------------------------
@@ -2328,7 +2328,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_ak.act"
-IMAGE			"barksazoompicak.dds"
+IMAGE			"barksazoompicak.e5b"
 WEIGHT			429
 Resource		7000
 //------------------------------------------------------
@@ -2339,7 +2339,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_mp5.act"
-IMAGE			"barksazoompicmp5.dds"
+IMAGE			"barksazoompicmp5.e5b"
 WEIGHT			319
 Resource		7000
 //------------------------------------------------------
@@ -2350,7 +2350,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_high.act"
-IMAGE			"barksazoompichigh.dds"
+IMAGE			"barksazoompichigh.e5b"
 WEIGHT			549
 Resource		7000
 //------------------------------------------------------
@@ -2361,7 +2361,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_galil.act"
-IMAGE			"barksazoompicgalil.dds"
+IMAGE			"barksazoompicgalil.e5b"
 WEIGHT			349
 Resource		7000
 //------------------------------------------------------
@@ -2372,7 +2372,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_sig.act"
-IMAGE			"barksazoompicsig.dds"
+IMAGE			"barksazoompicsig.e5b"
 WEIGHT			299
 Resource		7000
 //------------------------------------------------------
@@ -2383,7 +2383,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_g36.act"
-IMAGE			"barksazoompicg36.dds"
+IMAGE			"barksazoompicg36.e5b"
 WEIGHT			399
 Resource		7000
 //------------------------------------------------------
@@ -2394,7 +2394,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_mini14.act"
-IMAGE			"barksazoompicmini14.dds"
+IMAGE			"barksazoompicmini14.e5b"
 WEIGHT			349
 Resource		7000
 //------------------------------------------------------
@@ -2405,7 +2405,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_m14.act"
-IMAGE			"barksazoompicm14.dds"
+IMAGE			"barksazoompicm14.e5b"
 WEIGHT			349
 Resource		7000
 //------------------------------------------------------
@@ -2416,7 +2416,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		92
 ACTOR			"Items\barska2x_m16.act"
-IMAGE			"barksazoompicm16.dds"
+IMAGE			"barksazoompicm16.e5b"
 WEIGHT			349
 Resource		7000
 //------------------------------------------------------
@@ -2427,7 +2427,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\leupoldprismatic.act"
-IMAGE			"prismaticpic.dds"
+IMAGE			"prismaticpic.e5b"
 WEIGHT			161
 Resource		5000
 //------------------------------------------------------
@@ -2438,7 +2438,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_ak.act"
-IMAGE			"prismaticpicak.dds"
+IMAGE			"prismaticpicak.e5b"
 WEIGHT			341
 Resource		5000
 //------------------------------------------------------
@@ -2449,7 +2449,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_m14.act"
-IMAGE			"prismaticpicm14.dds"
+IMAGE			"prismaticpicm14.e5b"
 WEIGHT			261
 Resource		5000
 //------------------------------------------------------
@@ -2460,7 +2460,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_galil.act"
-IMAGE			"prismaticpicgalil.dds"
+IMAGE			"prismaticpicgalil.e5b"
 WEIGHT			261
 Resource		5000
 //------------------------------------------------------
@@ -2471,7 +2471,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_mp5.act"
-IMAGE			"prismaticpicmp5.dds"
+IMAGE			"prismaticpicmp5.e5b"
 WEIGHT			231
 Resource		5000
 //------------------------------------------------------
@@ -2482,7 +2482,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_high.act"
-IMAGE			"prismaticpichigh.dds"
+IMAGE			"prismaticpichigh.e5b"
 WEIGHT			461
 Resource		5000
 //------------------------------------------------------
@@ -2493,7 +2493,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_g36.act"
-IMAGE			"prismaticpicg36.dds"
+IMAGE			"prismaticpicg36.e5b"
 WEIGHT			311
 Resource		5000
 //------------------------------------------------------
@@ -2504,7 +2504,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_sig.act"
-IMAGE			"prismaticpicsig.dds"
+IMAGE			"prismaticpicsig.e5b"
 WEIGHT			211
 Resource		5000
 //------------------------------------------------------
@@ -2515,7 +2515,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_m16.act"
-IMAGE			"prismaticpicm16.dds"
+IMAGE			"prismaticpicm16.e5b"
 WEIGHT			261
 Resource		5000
 //------------------------------------------------------
@@ -2526,7 +2526,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		89
 ACTOR			"Items\prismatic_mini14.act"
-IMAGE			"prismaticpicmini14.dds"
+IMAGE			"prismaticpicmini14.e5b"
 WEIGHT			261
 Resource		5000
 //------------------------------------------------------
@@ -2537,7 +2537,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\m26massscope.act"
-IMAGE			"trijiconpic.dds"
+IMAGE			"trijiconpic.e5b"
 WEIGHT			232
 Resource		7000
 //------------------------------------------------------
@@ -2548,7 +2548,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_ak.act"
-IMAGE			"trijiconpicak.dds"
+IMAGE			"trijiconpicak.e5b"
 WEIGHT			412
 Resource		7000
 //------------------------------------------------------
@@ -2559,7 +2559,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_high.act"
-IMAGE			"trijiconpichigh.dds"
+IMAGE			"trijiconpichigh.e5b"
 WEIGHT			532
 Resource		7000
 //------------------------------------------------------
@@ -2570,7 +2570,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_g36.act"
-IMAGE			"trijiconpicg36.dds"
+IMAGE			"trijiconpicg36.e5b"
 WEIGHT			382
 Resource		7000
 //------------------------------------------------------
@@ -2581,7 +2581,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_galil.act"
-IMAGE			"trijiconpicgalil.dds"
+IMAGE			"trijiconpicgalil.e5b"
 WEIGHT			332
 Resource		7000
 //------------------------------------------------------
@@ -2592,7 +2592,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_sig.act"
-IMAGE			"trijiconpicsig.dds"
+IMAGE			"trijiconpicsig.e5b"
 WEIGHT			282
 Resource		7000
 //------------------------------------------------------
@@ -2603,7 +2603,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_m14.act"
-IMAGE			"trijiconpicm14.dds"
+IMAGE			"trijiconpicm14.e5b"
 WEIGHT			332
 Resource		7000
 //------------------------------------------------------
@@ -2614,7 +2614,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_mini14.act"
-IMAGE			"trijiconpicmini14.dds"
+IMAGE			"trijiconpicmini14.e5b"
 WEIGHT			332
 Resource		7000
 //------------------------------------------------------
@@ -2625,7 +2625,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_m16.act"
-IMAGE			"trijiconpicm16.dds"
+IMAGE			"trijiconpicm16.e5b"
 WEIGHT			332
 Resource		7000
 //------------------------------------------------------
@@ -2636,7 +2636,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		90
 ACTOR			"Items\trijicon_mp5.act"
-IMAGE			"trijiconpicmp5.dds"
+IMAGE			"trijiconpicmp5.e5b"
 WEIGHT			302
 Resource		7000
 //------------------------------------------------------
@@ -2647,7 +2647,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\fnssrreflex.act"
-IMAGE			"truglopic.dds"
+IMAGE			"truglopic.e5b"
 WEIGHT			50
 Resource		7000
 //------------------------------------------------------
@@ -2658,7 +2658,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_g36.act"
-IMAGE			"truglopicg36.dds"
+IMAGE			"truglopicg36.e5b"
 WEIGHT			200
 Resource		7000
 //------------------------------------------------------
@@ -2669,7 +2669,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_ak.act"
-IMAGE			"truglopicak.dds"
+IMAGE			"truglopicak.e5b"
 WEIGHT			230
 Resource		7000
 //------------------------------------------------------
@@ -2680,7 +2680,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_m16.act"
-IMAGE			"truglopicm16.dds"
+IMAGE			"truglopicm16.e5b"
 WEIGHT			150
 Resource		7000
 //------------------------------------------------------
@@ -2691,7 +2691,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_m14.act"
-IMAGE			"truglopicm14.dds"
+IMAGE			"truglopicm14.e5b"
 WEIGHT			150
 Resource		7000
 //------------------------------------------------------
@@ -2702,7 +2702,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_galil.act"
-IMAGE			"truglopicgalil.dds"
+IMAGE			"truglopicgalil.e5b"
 WEIGHT			150
 Resource		7000
 //------------------------------------------------------
@@ -2713,7 +2713,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_high.act"
-IMAGE			"truglopichigh.dds"
+IMAGE			"truglopichigh.e5b"
 WEIGHT			350
 Resource		7000
 //------------------------------------------------------
@@ -2724,7 +2724,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_mp5.act"
-IMAGE			"truglopicmp5.dds"
+IMAGE			"truglopicmp5.e5b"
 WEIGHT			120
 Resource		7000
 //------------------------------------------------------
@@ -2735,7 +2735,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_sig.act"
-IMAGE			"truglopicsig.dds"
+IMAGE			"truglopicsig.e5b"
 WEIGHT			100
 Resource		7000
 //------------------------------------------------------
@@ -2746,7 +2746,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		50
 ACTOR			"Items\truglo_mini14.act"
-IMAGE			"truglopicmini14.dds"
+IMAGE			"truglopicmini14.e5b"
 WEIGHT			150
 Resource		7000
 //------------------------------------------------------
@@ -2757,7 +2757,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro.act"
-IMAGE			"aimpointmicropic.dds"
+IMAGE			"aimpointmicropic.e5b"
 WEIGHT			116
 Resource		7000
 //------------------------------------------------------
@@ -2768,7 +2768,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_ak.act"
-IMAGE			"aimpointmicropicak.dds"
+IMAGE			"aimpointmicropicak.e5b"
 WEIGHT			296
 Resource		7000
 //------------------------------------------------------
@@ -2779,7 +2779,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_m16.act"
-IMAGE			"aimpointmicropicm16.dds"
+IMAGE			"aimpointmicropicm16.e5b"
 WEIGHT			216
 Resource		7000
 //------------------------------------------------------
@@ -2790,7 +2790,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_high.act"
-IMAGE			"aimpointmicropichigh.dds"
+IMAGE			"aimpointmicropichigh.e5b"
 WEIGHT			416
 Resource		7000
 //------------------------------------------------------
@@ -2801,7 +2801,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_mini14.act"
-IMAGE			"aimpointmicropicmini14.dds"
+IMAGE			"aimpointmicropicmini14.e5b"
 WEIGHT			216
 Resource		7000
 //------------------------------------------------------
@@ -2812,7 +2812,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_mp5.act"
-IMAGE			"aimpointmicropicmp5.dds"
+IMAGE			"aimpointmicropicmp5.e5b"
 WEIGHT			186
 Resource		7000
 //------------------------------------------------------
@@ -2823,7 +2823,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_galil.act"
-IMAGE			"aimpointmicropicgalil.dds"
+IMAGE			"aimpointmicropicgalil.e5b"
 WEIGHT			216
 Resource		7000
 //------------------------------------------------------
@@ -2834,7 +2834,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_sig.act"
-IMAGE			"aimpointmicropicsig.dds"
+IMAGE			"aimpointmicropicsig.e5b"
 WEIGHT			166
 Resource		7000
 //------------------------------------------------------
@@ -2845,7 +2845,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_g36.act"
-IMAGE			"aimpointmicropicg36.dds"
+IMAGE			"aimpointmicropicg36.e5b"
 WEIGHT			266
 Resource		7000
 //------------------------------------------------------
@@ -2856,7 +2856,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		66
 ACTOR			"Items\aimpointmicro_m14.act"
-IMAGE			"aimpointmicropicm14.dds"
+IMAGE			"aimpointmicropicm14.e5b"
 WEIGHT			216
 Resource		7000
 //------------------------------------------------------
@@ -2867,7 +2867,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmoresight.act"
-IMAGE			"cmorepic.dds"
+IMAGE			"cmorepic.e5b"
 WEIGHT			141
 Resource		7000
 //------------------------------------------------------
@@ -2878,7 +2878,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_ak.act"
-IMAGE			"cmorepicak.dds"
+IMAGE			"cmorepicak.e5b"
 WEIGHT			321
 Resource		7000
 //------------------------------------------------------
@@ -2889,7 +2889,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_mp5.act"
-IMAGE			"cmorepicmp5.dds"
+IMAGE			"cmorepicmp5.e5b"
 WEIGHT			211
 Resource		7000
 //------------------------------------------------------
@@ -2900,7 +2900,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_m16.act"
-IMAGE			"cmorepicm16.dds"
+IMAGE			"cmorepicm16.e5b"
 WEIGHT			241
 Resource		7000
 //------------------------------------------------------
@@ -2911,7 +2911,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_high.act"
-IMAGE			"cmorepichigh.dds"
+IMAGE			"cmorepichigh.e5b"
 WEIGHT			441
 Resource		7000
 //------------------------------------------------------
@@ -2922,7 +2922,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_galil.act"
-IMAGE			"cmorepicgalil.dds"
+IMAGE			"cmorepicgalil.e5b"
 WEIGHT			241
 Resource		7000
 //------------------------------------------------------
@@ -2933,7 +2933,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_g36.act"
-IMAGE			"cmorepicg36.dds"
+IMAGE			"cmorepicg36.e5b"
 WEIGHT			291
 Resource		7000
 //------------------------------------------------------
@@ -2944,7 +2944,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_m14.act"
-IMAGE			"cmorepicm14.dds"
+IMAGE			"cmorepicm14.e5b"
 WEIGHT			241
 Resource		7000
 //------------------------------------------------------
@@ -2955,7 +2955,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_mini14.act"
-IMAGE			"cmorepicmini14.dds"
+IMAGE			"cmorepicmini14.e5b"
 WEIGHT			241
 Resource		7000
 //------------------------------------------------------
@@ -2966,7 +2966,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		76
 ACTOR			"Items\cmore_sig.act"
-IMAGE			"cmorepicsig.dds"
+IMAGE			"cmorepicsig.e5b"
 WEIGHT			191
 Resource		7000
 //------------------------------------------------------
@@ -2977,7 +2977,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barskareddotclear.act"
-IMAGE			"barskaglasspic.dds"
+IMAGE			"barskaglasspic.e5b"
 WEIGHT			115
 Resource		7000
 //------------------------------------------------------
@@ -2988,7 +2988,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_g36.act"
-IMAGE			"barskaglasspicg36.dds"
+IMAGE			"barskaglasspicg36.e5b"
 WEIGHT			265
 Resource		7000
 //------------------------------------------------------
@@ -3000,7 +3000,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_m16.act"
-IMAGE			"barskaglasspicm16.dds"
+IMAGE			"barskaglasspicm16.e5b"
 WEIGHT			215
 Resource		7000
 //------------------------------------------------------
@@ -3011,7 +3011,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_sig.act"
-IMAGE			"barskaglasspicsig.dds"
+IMAGE			"barskaglasspicsig.e5b"
 WEIGHT			165
 Resource		7000
 //------------------------------------------------------
@@ -3022,7 +3022,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_galil.act"
-IMAGE			"barskaglasspicgalil.dds"
+IMAGE			"barskaglasspicgalil.e5b"
 WEIGHT			215
 Resource		7000
 //------------------------------------------------------
@@ -3033,7 +3033,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_mini14.act"
-IMAGE			"barskaglasspicmini14.dds"
+IMAGE			"barskaglasspicmini14.e5b"
 WEIGHT			215
 Resource		7000
 //------------------------------------------------------
@@ -3044,7 +3044,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_m14.act"
-IMAGE			"barskaglasspicm14.dds"
+IMAGE			"barskaglasspicm14.e5b"
 WEIGHT			215
 Resource		7000
 //------------------------------------------------------
@@ -3055,7 +3055,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_high.act"
-IMAGE			"barskaglasspichigh.dds"
+IMAGE			"barskaglasspichigh.e5b"
 WEIGHT			415
 Resource		7000
 //------------------------------------------------------
@@ -3066,7 +3066,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_ak.act"
-IMAGE			"barskaglasspicak.dds"
+IMAGE			"barskaglasspicak.e5b"
 WEIGHT			295
 Resource		7000
 //------------------------------------------------------
@@ -3077,7 +3077,7 @@ Scope
 Collimator		"collimator_eot_552.e6b"
 Distance		64
 ACTOR			"Items\barska_mp5.act"
-IMAGE			"barskaglasspicmp5.dds"
+IMAGE			"barskaglasspicmp5.e5b"
 WEIGHT			185
 Resource		7000
 //------------------------------------------------------
@@ -3110,7 +3110,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\toz194scope.act"
-IMAGE			"kobrapic.dds"
+IMAGE			"kobrapic.e5b"
 WEIGHT			133
 Resource		5000
 //------------------------------------------------------
@@ -3121,7 +3121,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_ak.act"
-IMAGE			"kobrapicak.dds"
+IMAGE			"kobrapicak.e5b"
 WEIGHT			313
 Resource		5000
 //------------------------------------------------------
@@ -3132,7 +3132,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_mp5.act"
-IMAGE			"kobrapicmp5.dds"
+IMAGE			"kobrapicmp5.e5b"
 WEIGHT			203
 Resource		5000
 //------------------------------------------------------
@@ -3143,7 +3143,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_mini14.act"
-IMAGE			"kobrapicmini14.dds"
+IMAGE			"kobrapicmini14.e5b"
 WEIGHT			233
 Resource		5000
 //------------------------------------------------------
@@ -3154,7 +3154,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_galil.act"
-IMAGE			"kobrapicgalil.dds"
+IMAGE			"kobrapicgalil.e5b"
 WEIGHT			233
 Resource		5000
 //------------------------------------------------------
@@ -3165,7 +3165,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_high.act"
-IMAGE			"kobrapichigh.dds"
+IMAGE			"kobrapichigh.e5b"
 WEIGHT			433
 Resource		5000
 //------------------------------------------------------
@@ -3176,7 +3176,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_g36.act"
-IMAGE			"kobrapicg36.dds"
+IMAGE			"kobrapicg36.e5b"
 WEIGHT			283
 Resource		5000
 //------------------------------------------------------
@@ -3187,7 +3187,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_m14.act"
-IMAGE			"kobrapicm14.dds"
+IMAGE			"kobrapicm14.e5b"
 WEIGHT			233
 Resource		5000
 //------------------------------------------------------
@@ -3198,7 +3198,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_m16.act"
-IMAGE			"kobrapicm16.dds"
+IMAGE			"kobrapicm16.e5b"
 WEIGHT			233
 Resource		5000
 //------------------------------------------------------
@@ -3209,7 +3209,7 @@ Scope
 Collimator		"collimator_aimpoint_comp_M.e6b"
 Distance		77
 ACTOR			"Items\kobra_sig.act"
-IMAGE			"kobrapicsig.dds"
+IMAGE			"kobrapicsig.e5b"
 WEIGHT			183
 Resource		5000
 //------------------------------------------------------
@@ -4543,7 +4543,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\Elcan_Green.act"
-IMAGE			"elcanpicg.dds"
+IMAGE			"elcanpicg.e5b"
 WEIGHT			690
 Resource		2500
 //------------------------------------------------------
@@ -4557,7 +4557,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_ak_g.act"
-IMAGE			"elcanpicakg.dds"
+IMAGE			"elcanpicakg.e5b"
 WEIGHT			870
 Resource		2500
 //------------------------------------------------------
@@ -4571,7 +4571,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_m16_g.act"
-IMAGE			"elcanpicm16g.dds"
+IMAGE			"elcanpicm16g.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4585,7 +4585,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_sig_g.act"
-IMAGE			"elcanpicsigg.dds"
+IMAGE			"elcanpicsigg.e5b"
 WEIGHT			740
 Resource		2500
 //------------------------------------------------------
@@ -4599,7 +4599,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_mini14_g.act"
-IMAGE			"elcanpicmini14g.dds"
+IMAGE			"elcanpicmini14g.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4613,7 +4613,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_m14_g.act"
-IMAGE			"elcanpicm14g.dds"
+IMAGE			"elcanpicm14g.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4627,7 +4627,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_mp5_g.act"
-IMAGE			"elcanpicmp5g.dds"
+IMAGE			"elcanpicmp5g.e5b"
 WEIGHT			760
 Resource		2500
 //------------------------------------------------------
@@ -4641,7 +4641,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_g36_g.act"
-IMAGE			"elcanpicg36g.dds"
+IMAGE			"elcanpicg36g.e5b"
 WEIGHT			840
 Resource		2500
 //------------------------------------------------------
@@ -4655,7 +4655,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_galil_g.act"
-IMAGE			"elcanpicgalilg.dds"
+IMAGE			"elcanpicgalilg.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4669,7 +4669,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_high_g.act"
-IMAGE			"elcanpichighg.dds"
+IMAGE			"elcanpichighg.e5b"
 WEIGHT			990
 Resource		2500
 //------------------------------------------------------
@@ -4683,7 +4683,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\Elcan_WR.act"
-IMAGE			"elcanpic.dds"
+IMAGE			"elcanpic.e5b"
 WEIGHT			690
 Resource		2500
 //------------------------------------------------------
@@ -4697,7 +4697,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_ak.act"
-IMAGE			"elcanpicak.dds"
+IMAGE			"elcanpicak.e5b"
 WEIGHT			870
 Resource		2500
 //------------------------------------------------------
@@ -4711,7 +4711,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_high.act"
-IMAGE			"elcanpichigh.dds"
+IMAGE			"elcanpichigh.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4725,7 +4725,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_galil.act"
-IMAGE			"elcanpicgalil.dds"
+IMAGE			"elcanpicgalil.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4739,7 +4739,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_mp5.act"
-IMAGE			"elcanpicmp5.dds"
+IMAGE			"elcanpicmp5.e5b"
 WEIGHT			760
 Resource		2500
 //------------------------------------------------------
@@ -4753,7 +4753,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_g36.act"
-IMAGE			"elcanpicg36.dds"
+IMAGE			"elcanpicg36.e5b"
 WEIGHT			840
 Resource		2500
 //------------------------------------------------------
@@ -4767,7 +4767,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_sig.act"
-IMAGE			"elcanpicsig.dds"
+IMAGE			"elcanpicsig.e5b"
 WEIGHT			740
 Resource		2500
 //------------------------------------------------------
@@ -4781,7 +4781,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_mini14.act"
-IMAGE			"elcanpicmini14.dds"
+IMAGE			"elcanpicmini14.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4795,7 +4795,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_m14.act"
-IMAGE			"elcanpicm14.dds"
+IMAGE			"elcanpicm14.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -4809,7 +4809,7 @@ Distance		380
 ShadowImpact	0.90
 BlocksAiming	0
 ACTOR			"Items\elcan_m16.act"
-IMAGE			"elcanpicm16.dds"
+IMAGE			"elcanpicm16.e5b"
 WEIGHT			790
 Resource		2500
 //------------------------------------------------------
@@ -5730,7 +5730,7 @@ GrenadeType		"35mm GL"
 GrenadeCount	1
 IsLauncher		1
 ACTOR			"Items\qlg91.act"
-IMAGE			"qlg91.dds"
+IMAGE			"qlg91.e5b"
 WEIGHT			1360
 Resource		9500
 //------------------------------------------------------
@@ -5742,7 +5742,7 @@ GrenadeType		"35mm GL Caseless"
 GrenadeCount	1
 IsLauncher		1
 ACTOR			"Items\qlg10a.act"
-IMAGE			"qlg10a.dds"
+IMAGE			"qlg10a.e5b"
 WEIGHT			900
 Resource		9500
 //------------------------------------------------------
@@ -5754,7 +5754,7 @@ GrenadeType		"35mm GL Caseless"
 GrenadeCount	1
 IsLauncher		1
 ACTOR			"Items\qlg10.act"
-IMAGE			"qlg10.dds"
+IMAGE			"qlg10.e5b"
 WEIGHT			900
 Resource		9500
 //------------------------------------------------------
