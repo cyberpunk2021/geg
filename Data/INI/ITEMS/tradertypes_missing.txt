@@ -1,0 +1,327 @@
+/////////==========================
+/////////TRADER MISSING
+/////////==========================
+
+/////////+++++++++
+/////////ADD TO STREET
+/////////+++++++++
+
+Item "Pistol Astra 80 (Largo)" Level 2 Price 720
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Revolver Colt SAA 357_4 (.357 Magnum)" Level 1 Price 400
+Item "Revolver Colt SAA 357_5 (.357 Magnum)" Level 1 Price 550
+Item "Revolver Colt SAA 357_7 (.357 Magnum)" Level 2 Price 620
+Item "Revolver Colt SAA 45_4 (.45 Colt)" Level 1 Price 390
+Item "Revolver Colt SAA 45_5 (.45 Colt)" Level 1 Price 540
+Item "Revolver Colt SAA 45_7 (.45 Colt)" Level 2 Price 610
+Item "Bizon 2 (380)" Level 2 Price 1200
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Assault Rifle M16A1 HG CIV 715 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
+Item "Assault Rifle Zastava M85 (5.56x45mm)" Level 5 Price 1200
+Item "Assault Rifle Zastava M85N (5.56x45mm)" Level 6 Price 1300
+Item "HCR Short AK47 pistol (7.62x39mm)" Level 1 Price 450
+Item "AK Pistol (7.62x39mm)" Level 1 Price 500
+Item "Assault Rifle Arsenal AR SF (5.56mm)" Level 3 Price 600
+Item "Assault Rifle Short-Barreled (7.62x39mm)" Level 1 Price 550
+
+/////////+++++++++
+/////////ADD TO GUNSHOP
+/////////+++++++++
+
+Item "Pistol Derringer (22)" Level 1 Price 10
+Item "Pistol Ruger 2245 Target" Level 1 Price 120
+Item "Pistol P7 (22)" Level 1 Price 50
+Item "Pistol HK4 .22" Level 1 Price 40
+Item "Pistol Walter P22 (22)" Level 1 Price 80
+Item "Pistol GP_K22" Level 1 Price 100
+Item "Pistol SIG P210 (22)" Level 1 Price 90
+Item "SIG Sauer Mosquito (22)" Level 1 Price 85
+Item "Pistol M.1911 A1 (22)" Level 1 Price 70
+Item "Pistol M.1911 A1 v1 (22)" Level 1 Price 70
+Item "Pistol M.1911 A1 v2 (22)" Level 1 Price 70
+Item "CZ 75 (22)" Level 1 Price 80
+Item "CZ 75 Shadow (22)" Level 1 Price 200
+Item "Pistol SWMP22" Level 1 Price 170
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt MkIV Series70 (.45 ACP)" Level 3 Price 810
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Pistol Springfield Mil-Spec (.45 ACP)" Level 3 Price 950
+Item "Pistol Para GI Expert (.45 ACP)" Level 4 Price 920
+Item "Pistol Para LDA (.45 ACP)" Level 4 Price 1200
+Item "Pistol M1911A1 Accuratized (.45 ACP)" Level 3 Price 910
+Item "Revolver Colt SAA 357_4 (.357 Magnum)" Level 1 Price 400
+Item "Revolver Colt SAA 357_5 (.357 Magnum)" Level 1 Price 550
+Item "Revolver Colt SAA 357_7 (.357 Magnum)" Level 2 Price 620
+Item "Revolver Colt SAA 45_4 (.45 Colt)" Level 1 Price 390
+Item "Revolver Colt SAA 45_5 (.45 Colt)" Level 1 Price 540
+Item "Revolver Colt SAA 45_7 (.45 Colt)" Level 2 Price 610
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Shotgun Saiga12K (20ga)" Level 4 Price 1000
+Item "Shotgun Saiga12-30 (20ga)" Level 4 Price 1200
+Item "Shotgun Saiga12K (410)" Level 3 Price 800
+Item "Shotgun Saiga12-30 (410)" Level 3 Price 950
+Item "Rifle G98 (Brenneke)" Level 5 Price 1480
+Item "Carabine Zastava M70 (7.62x39mm)" Level 4 Price 1000
+Item "Assault Rifle M16A1 HG CIV 715 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle SLR-104 (5.45mm)" Level 7 Price 2000
+Item "Assault Rifle SLR-106 (5.56mm)" Level 7 Price 2100
+Item "Assault Rifle SLR-107 (7.62mm)" Level 7 Price 2050
+Item "Sniper FRF1 (7.62)" Level 6 Price 2500
+Item "Hunting Rifle Winchester Model 70 (300)" Level 8 Price 4600
+Item "Sniper Rifle SSG08 (300)" Level 12 Price 15200
+
+/////////+++++++++
+/////////ADD TO REBEL
+/////////+++++++++
+
+Item "Pistol Astra 80 (Largo)" Level 2 Price 720
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Revolver Colt SAA 357_4 (.357 Magnum)" Level 1 Price 400
+Item "Revolver Colt SAA 357_5 (.357 Magnum)" Level 1 Price 550
+Item "Revolver Colt SAA 357_7 (.357 Magnum)" Level 2 Price 620
+Item "Revolver Colt SAA 45_4 (.45 Colt)" Level 1 Price 390
+Item "Revolver Colt SAA 45_5 (.45 Colt)" Level 1 Price 540
+Item "Revolver Colt SAA 45_7 (.45 Colt)" Level 2 Price 610
+Item "Bizon 2 (380)" Level 2 Price 1200
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
+Item "Assault Rifle Zastava M85 (5.56x45mm)" Level 5 Price 1200
+Item "Assault Rifle Zastava M85N (5.56x45mm)" Level 6 Price 1300
+Item "HCR Short AK47 pistol (7.62x39mm)" Level 1 Price 450
+Item "AK Pistol (7.62x39mm)" Level 1 Price 500
+Item "Assault Rifle Arsenal AR SF (5.56mm)" Level 3 Price 600
+Item "Assault Rifle Short-Barreled (7.62x39mm)" Level 1 Price 550
+Item "Submachine-gun Colt SMG (.45 ACP)" Level 5 Price 2000
+Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Shotgun Saiga12K (20ga)" Level 4 Price 1000
+Item "Shotgun Saiga12-30 (20ga)" Level 4 Price 1200
+Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600
+Item "Assault Rifle AKS-74 (5.45mm)" Level 7 Price 1700
+Item "Sniper FRF1 (7.62)" Level 6 Price 2500
+Item "Machinegun Type 88 (5.8)" Level 8 Price 4000
+
+
+/////////+++++++++
+/////////ADD TO ALGEIRA
+/////////+++++++++
+
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Assault Rifle F2000 (5.56mm)" Level 10 Price 3800
+Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600
+Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
+Item "Assault Rifle STAR-21 (5.56mm)" Level 11 Price 2500
+Item "Sniper FRF1 (7.62)" Level 6 Price 2500
+Item "Sniper Rifle SSG08 (300)" Level 12 Price 15200
+Item "Sniper Rifle AS50 (.50 BMG)" Level 15 Price 20000
+
+/////////+++++++++
+/////////ADD TO PALINERO
+/////////+++++++++
+
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Assault Rifle AKS-74 (5.45mm)" Level 7 Price 1700
+Item "Machinegun RPK-12 (5.45mm)" Level 11 Price 3600
+Item "Machinegun RPK-12 (7.62x39mm)" Level 11 Price 3650
+
+/////////+++++++++
+/////////ADD TO OLD WEAPONS
+/////////+++++++++
+
+Item "Pistol SIG P210 (9mm)" Level 3 Price 1500
+Item "Airsoft Gun VFC HK416 AEG" Level 1 Price 800
+Item "Airsoft Gun SLR105A1 AEG" Level 1 Price 500
+
+/////////+++++++++
+/////////ADD TO COP
+/////////+++++++++
+
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt MkIV Series70 (.45 ACP)" Level 3 Price 810
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Pistol Springfield Mil-Spec (.45 ACP)" Level 3 Price 950
+Item "Pistol Para GI Expert (.45 ACP)" Level 4 Price 920
+Item "Pistol Para LDA (.45 ACP)" Level 4 Price 1200
+Item "Pistol M1911A1 Accuratized (.45 ACP)" Level 3 Price 910
+Item "Submachine-gun MX4 (9mm)" Level 6 Price 2600
+Item "Submachine-gun MX4 (40)" Level 6 Price 2800
+Item "Submachine-gun MX4 (45)" Level 6 Price 2750
+Item "Submachine-gun Colt SMG (.45 ACP)" Level 5 Price 2000
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Assault Rifle M16A1 HG CIV 715 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600
+
+/////////+++++++++
+/////////ADD TO SMUGGLER - GOTTA RAISE PRICE
+/////////+++++++++
+
+Item "Pistol SIG P210 (9mm)" Level 3 Price 1500
+Item "Pistol Astra 80 (Largo)" Level 2 Price 720
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt MkIV Series70 (.45 ACP)" Level 3 Price 810
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Pistol Springfield Mil-Spec (.45 ACP)" Level 3 Price 950
+Item "Pistol Para GI Expert (.45 ACP)" Level 4 Price 920
+Item "Pistol Para LDA (.45 ACP)" Level 4 Price 1200
+Item "Pistol M1911A1 Accuratized (.45 ACP)" Level 3 Price 910
+Item "Bizon 2 (380)" Level 2 Price 1200
+Item "Submachine-gun MX4 (9mm)" Level 6 Price 2600
+Item "Submachine-gun MX4 (40)" Level 6 Price 2800
+Item "Submachine-gun MX4 (45)" Level 6 Price 2750
+Item "Submachine-gun Colt SMG (.45 ACP)" Level 5 Price 2000
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Shotgun Saiga12K (20ga)" Level 4 Price 1000
+Item "Shotgun Saiga12-30 (20ga)" Level 4 Price 1200
+Item "Shotgun Saiga12K (410)" Level 3 Price 800
+Item "Shotgun Saiga12-30 (410)" Level 3 Price 950
+Item "Shotgun RTS-SBS-12 (12ga)" Level 6 Price 2800
+Item "Rifle G98 (Brenneke)" Level 5 Price 1480
+Item "Assault Rifle L22A1 (5.56mm)" Level 4 Price 1700
+Item "Assault Rifle L85A2 (5.56mm)" Level 7 Price 2600
+Item "Assault Rifle F2000 (5.56mm)" Level 10 Price 3800
+Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600
+Item "Assault Rifle Predatar" Level 13 Price 8000
+Item "Assault Rifle LR300 (5.56mm)" Level 9 Price 3000
+Item "Assault Rifle M4A1 Real (5.56mm)" Level 12 Price 5000
+Item "Assault Rifle M4A1 Old (5.56mm)" Level 12 Price 5000
+Item "Assault Rifle LVOAS (5.56x45mm)" Level 12 Price 5000
+Item "Assault Rifle AK-9 (300BLK)" Level 5 Price 2200
+Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
+Item "Assault Rifle Zastava M85 (5.56x45mm)" Level 5 Price 1200
+Item "Assault Rifle Zastava M85N (5.56x45mm)" Level 6 Price 1300
+Item "Assault Rifle AKS-74 (5.45mm)" Level 7 Price 1700
+Item "Sniper G98 (Brenneke)" Level 6 Price 1800
+Item "Assault Rifle STAR-21 (5.56mm)" Level 11 Price 2500
+Item "Sniper FRF1 (7.62)" Level 6 Price 2500
+Item "Hunting Rifle Winchester Model 70 (300)" Level 8 Price 4600
+Item "Sniper Rifle SSG08 (300)" Level 12 Price 15200
+Item "Sniper Rifle AS50 (.50 BMG)" Level 15 Price 20000
+Item "Machinegun RPK-12 (5.45mm)" Level 11 Price 3600
+Item "Machinegun RPK-12 (5.56mm)" Level 11 Price 3700
+Item "Machinegun RPK-12 (7.62x39mm)" Level 11 Price 3650
+Item "Machinegun L86 (5.56mm)" Level 7 Price 3100
+Item "Machinegun Type 88 (5.8)" Level 8 Price 4000
+Item "HCR Short AK47 pistol (7.62x39mm)" Level 1 Price 450
+Item "AK Pistol (7.62x39mm)" Level 1 Price 500
+Item "Assault Rifle Arsenal AR SF (5.56mm)" Level 3 Price 600
+Item "Assault Rifle Short-Barreled (7.62x39mm)" Level 1 Price 550
+
+/////////==========================
+/////////MISSING GUNS
+/////////==========================
+
+Item "Pistol Derringer (22)" Level 1 Price 10
+Item "Pistol Ruger 2245 Target" Level 1 Price 120
+Item "Pistol P7 (22)" Level 1 Price 50
+Item "Pistol HK4 .22" Level 1 Price 40
+Item "Pistol Walter P22 (22)" Level 1 Price 80
+Item "Pistol GP_K22" Level 1 Price 100
+Item "Pistol SIG P210 (22)" Level 1 Price 90
+Item "SIG Sauer Mosquito (22)" Level 1 Price 85
+Item "Pistol M.1911 A1 (22)" Level 1 Price 70
+Item "Pistol M.1911 A1 v1 (22)" Level 1 Price 70
+Item "Pistol M.1911 A1 v2 (22)" Level 1 Price 70
+Item "CZ 75 (22)" Level 1 Price 80
+Item "CZ 75 Shadow (22)" Level 1 Price 200
+Item "Pistol SWMP22" Level 1 Price 170
+Item "Pistol SIG P210 (9mm)" Level 3 Price 1500
+Item "Pistol Astra 80 (Largo)" Level 2 Price 720
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt MkIV Series70 (.45 ACP)" Level 3 Price 810
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Pistol Springfield Mil-Spec (.45 ACP)" Level 3 Price 950
+Item "Pistol Para GI Expert (.45 ACP)" Level 4 Price 920
+Item "Pistol Para LDA (.45 ACP)" Level 4 Price 1200
+Item "Pistol M1911A1 Accuratized (.45 ACP)" Level 3 Price 910
+Item "Revolver Colt SAA 357_4 (.357 Magnum)" Level 1 Price 400
+Item "Revolver Colt SAA 357_5 (.357 Magnum)" Level 1 Price 550
+Item "Revolver Colt SAA 357_7 (.357 Magnum)" Level 2 Price 620
+Item "Revolver Colt SAA 45_4 (.45 Colt)" Level 1 Price 390
+Item "Revolver Colt SAA 45_5 (.45 Colt)" Level 1 Price 540
+Item "Revolver Colt SAA 45_7 (.45 Colt)" Level 2 Price 610
+Item "Bizon 2 (380)" Level 2 Price 1200
+Item "Submachine-gun MX4 (9mm)" Level 6 Price 2600
+Item "Submachine-gun MX4 (40)" Level 6 Price 2800
+Item "Submachine-gun MX4 (45)" Level 6 Price 2750
+Item "Submachine-gun Colt SMG (.45 ACP)" Level 5 Price 2000
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Shotgun Saiga12K (20ga)" Level 4 Price 1000
+Item "Shotgun Saiga12-30 (20ga)" Level 4 Price 1200
+Item "Shotgun Saiga12K (410)" Level 3 Price 800
+Item "Shotgun Saiga12-30 (410)" Level 3 Price 950
+Item "Shotgun RTS-SBS-12 (12ga)" Level 6 Price 2800
+Item "Rifle G98 (Brenneke)" Level 5 Price 1480
+Item "Carabine Zastava M70 (7.62x39mm)" Level 4 Price 1000
+Item "Assault Rifle M16A1 HG CIV 715 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle L22A1 (5.56mm)" Level 4 Price 1700
+Item "Assault Rifle L85A2 (5.56mm)" Level 7 Price 2600
+Item "Assault Rifle F2000 (5.56mm)" Level 10 Price 3800
+Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600
+Item "Assault Rifle Predatar" Level 13 Price 8000
+Item "Assault Rifle LR300 (5.56mm)" Level 9 Price 3000
+Item "Assault Rifle M4A1 Real (5.56mm)" Level 12 Price 5000
+Item "Assault Rifle M4A1 Old (5.56mm)" Level 12 Price 5000
+Item "Assault Rifle LVOAS (5.56x45mm)" Level 12 Price 5000
+Item "Assault Rifle AK-9 (300BLK)" Level 5 Price 2200
+Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
+Item "Assault Rifle Zastava M85 (5.56x45mm)" Level 5 Price 1200
+Item "Assault Rifle Zastava M85N (5.56x45mm)" Level 6 Price 1300
+Item "Assault Rifle SLR-104 (5.45mm)" Level 7 Price 2000
+Item "Assault Rifle SLR-106 (5.56mm)" Level 7 Price 2100
+Item "Assault Rifle SLR-107 (7.62mm)" Level 7 Price 2050
+Item "Assault Rifle AKS-74 (5.45mm)" Level 7 Price 1700
+Item "Sniper G98 (Brenneke)" Level 6 Price 1800
+Item "Assault Rifle STAR-21 (5.56mm)" Level 11 Price 2500
+Item "Sniper FRF1 (7.62)" Level 6 Price 2500
+Item "Hunting Rifle Winchester Model 70 (300)" Level 8 Price 4600
+Item "Sniper Rifle SSG08 (300)" Level 12 Price 15200
+Item "Sniper Rifle AS50 (.50 BMG)" Level 15 Price 20000
+Item "Machinegun RPK-12 (5.45mm)" Level 11 Price 3600
+Item "Machinegun RPK-12 (5.56mm)" Level 11 Price 3700
+Item "Machinegun RPK-12 (7.62x39mm)" Level 11 Price 3650
+Item "Machinegun L86 (5.56mm)" Level 7 Price 3100
+Item "Machinegun Type 88 (5.8)" Level 8 Price 4000
+Item "Airsoft Gun VFC HK416 AEG" Level 1 Price 800
+Item "Airsoft Gun SLR105A1 AEG" Level 1 Price 500
+Item "HCR Short AK47 pistol (7.62x39mm)" Level 1 Price 450
+Item "AK Pistol (7.62x39mm)" Level 1 Price 500
+Item "Assault Rifle Arsenal AR SF (5.56mm)" Level 3 Price 600
+Item "Assault Rifle Short-Barreled (7.62x39mm)" Level 1 Price 550
+

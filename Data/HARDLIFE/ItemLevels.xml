@@ -107,6 +107,10 @@
   <item level="4">Optical Sight ON-M76 4x</item>
   <item level="5">Optical Sight ON-M91 6x42</item>
   <item level="6">Sniper Rifle Zastava M76 (7.92x57mm)</item>
+  <item level="3">Assault Rifle Arsenal AR SF (5.56mm)</item>
+  <item level="1">HCR Short AK47 pistol (7.62x39mm)</item>
+  <item level="1">AK Pistol (7.62x39mm)</item>
+  <item level="1">Assault Rifle Short-Barreled (7.62x39mm)</item>
   <item level="4">Rifle ammo clip (M76/10)</item>
   <item level="1">Ammo box (.44-40 LFN)</item>
   <item level="2">Ammo box (9mm JHP +P+)</item>
@@ -1126,7 +1130,7 @@
   <item level="5">Carabine Arsenal SA-M7 (7.62x39mm)</item>
   <item level="5">Assault Rifle Type56-1 (7.62x39mm)</item>
   <item level="3">Rifle ammo clip (AK 7.62/10)</item>
-  <item level="5">Carabine Zastava M70 (7.62x39mm)</item>
+  <item level="4">Carabine Zastava M70 (7.62x39mm)</item>
   <item level="6">Assault Rifle Type56-2 (7.62x39mm)</item>
   <item level="5">Submachine-gun Colt SMG (.45 ACP)</item>
   <item level="4">Submachine-gun Colt SMG (9mm)</item>
@@ -4299,6 +4303,7 @@
   <item level="2">Shotgun TriCoachGun CAR (12ga)</item>
   <item level="1">Shotgun TriCoachGun CAR (20ga)</item>
   <item level="6">Assault Rifle M16A1 HG CIV (5.56mm)</item>
+  <item level="6">Assault Rifle M16A1 HG CIV 715 (5.56mm)</item>
   <item level="7">Assault Rifle Daewoo DR100 RIS (5.56mm)</item>
   <item level="7">Assault Rifle Daewoo DR100 RIS (5.56mm) folded</item>
   <item level="7">Assault Rifle Daewoo DR200 RIS (5.56mm)</item>
