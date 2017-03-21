@@ -159,7 +159,7 @@ ShiversDist  20
 ExplWaveDist  30 
 ExplForce  230
 ACTOR  "Items\remote_f1.act"
-IMAGE  "remote_f1.dds"
+IMAGE  "remote_f1.e5b"
 WEIGHT  640
 
 Mine  "remote_rgd5"
@@ -179,7 +179,7 @@ ShiversDist  15
 ExplWaveDist  20 
 ExplForce  190
 ACTOR  "Items\remote_rgd5.act"
-IMAGE  "remote_rgd5.dds"
+IMAGE  "remote_rgd5.e5b"
 WEIGHT  440
 
 
@@ -201,7 +201,7 @@ ShiversDist  21
 ExplWaveDist  25 
 ExplForce  220
 ACTOR  "Items\remote_pineapple.act"
-IMAGE  "remote_pineapple.dds"
+IMAGE  "remote_pineapple.e5b"
 WEIGHT  639
 
 Mine  "remote_mk3a2"
@@ -221,7 +221,7 @@ ShiversDist  16
 ExplWaveDist  8 
 ExplForce  400
 ACTOR  "Items\remote_mk3a2.act"
-IMAGE  "remote_mk3a2.dds"
+IMAGE  "remote_mk3a2.e5b"
 WEIGHT  639
 
 Mine  "remote_m24"
@@ -241,7 +241,7 @@ ShiversDist  10
 ExplWaveDist  12 
 ExplForce  160
 ACTOR  "Items\remote_m24.act"
-IMAGE  		"remote_m24.dds"
+IMAGE  		"remote_m24.e5b"
 WEIGHT  437
 
 Mine  "remote_rgo"
@@ -261,7 +261,7 @@ ShiversDist  15
 ExplWaveDist  25 
 ExplForce  120
 ACTOR  "Items\remote_rgo.act"
-IMAGE	"remote_rgo.dds"
+IMAGE	"remote_rgo.e5b"
 WEIGHT  370
 
 Mine  "remote_rgn"
@@ -281,7 +281,7 @@ ShiversDist  13
 ExplWaveDist  10 
 ExplForce  200
 ACTOR  "Items\remote_rgo.act"
-IMAGE	"remote_rgo.dds"
+IMAGE	"remote_rgo.e5b"
 WEIGHT  330
 
 Mine  "remote_dm51"
@@ -301,7 +301,7 @@ ShiversDist  17
 ExplWaveDist  16 
 ExplForce  209
 ACTOR  "Items\remote_dm51.act"
-IMAGE  "remote_type82.dds"
+IMAGE  "remote_type82.e5b"
 WEIGHT  520
 
 Mine  "remote_type82"
@@ -321,7 +321,7 @@ ShiversDist  27
 ExplWaveDist  23 
 ExplForce  230
 ACTOR  "Items\remote_type82.act"
-IMAGE  "remote_type82.dds"
+IMAGE  "remote_type82.e5b"
 WEIGHT  608
 
 Mine  "remote_type82-2"
@@ -341,7 +341,7 @@ ShiversDist  6
 ExplWaveDist  15 
 ExplForce  170
 ACTOR  "Items\remote_type822.act"
-IMAGE  "remote_type822.dds"
+IMAGE  "remote_type822.e5b"
 WEIGHT  299
 
 Mine  "remote_m59"
@@ -361,7 +361,7 @@ ShiversDist  16
 ExplWaveDist  20 
 ExplForce  140
 ACTOR  "Items\remote_m59.act"
-IMAGE	"remote_m59.dds"
+IMAGE	"remote_m59.e5b"
 WEIGHT  484
 
 Mine  "remote_m61"
@@ -381,7 +381,7 @@ ShiversDist  16
 ExplWaveDist  20 
 ExplForce  140
 ACTOR  "Items\remote_m61.act"
-IMAGE  "remote_m61.dds"
+IMAGE  "remote_m61.e5b"
 WEIGHT  484
 
 Mine  "remote_m68"
@@ -401,7 +401,7 @@ ShiversDist  9
 ExplWaveDist  15 
 ExplForce  170
 ACTOR  "Items\remote_m68.act"
-IMAGE  "remote_m68.dds"
+IMAGE  "remote_m68.e5b"
 WEIGHT  437
 
 Mine  "remote_m67"
@@ -421,7 +421,7 @@ ShiversDist  9
 ExplWaveDist  15 
 ExplForce  170
 ACTOR  "Items\remote_m67.act"
-IMAGE  "remote_m67.dds"
+IMAGE  "remote_m67.e5b"
 WEIGHT  437
 
 Mine  "remote_type97"
@@ -441,7 +441,7 @@ ShiversDist  8
 ExplWaveDist  15 
 ExplForce  150
 ACTOR  "Items\remote_type97.act"
-IMAGE  "remote_type97.dds"
+IMAGE  "remote_type97.e5b"
 WEIGHT  490
 
 Mine  "remote_v40"
@@ -461,7 +461,7 @@ ShiversDist  8
 ExplWaveDist  12 
 ExplForce  130
 ACTOR  "Items\remote_v40.act"
-IMAGE  "remote_v40.dds"
+IMAGE  "remote_v40.e5b"
 WEIGHT  175
 
 Mine  "remote_rg42"
@@ -481,7 +481,7 @@ ShiversDist 13
 ExplWaveDist  16 
 ExplForce  170
 ACTOR  "Items\remote_rg42.act"
-IMAGE  "remote_rg42.dds"
+IMAGE  "remote_rg42.e5b"
 WEIGHT  460
 
 Mine  "remote_rgz89"
@@ -501,7 +501,7 @@ ShiversDist 12
 ExplWaveDist  17 
 ExplForce  170
 ACTOR  "Items\remote_rgz89.act"
-IMAGE  "remote_rgz89.dds"
+IMAGE  "remote_rgz89.e5b"
 WEIGHT  420
 
 Mine  "remote_tnt"
@@ -521,7 +521,7 @@ ShiversDist 6
 ExplWaveDist  12 
 ExplForce  200
 ACTOR  "Items\remote_tnt.act"
-IMAGE  "remote_tnt.dds"
+IMAGE  "remote_tnt.e5b"
 WEIGHT  240
 
 Mine  "remote_tnt7"
@@ -541,7 +541,7 @@ ShiversDist 20
 ExplWaveDist  24 
 ExplForce  1400
 ACTOR  "Items\remote_tnt7.act"
-IMAGE  "remote_tnt7.dds"
+IMAGE  "remote_tnt7.e5b"
 WEIGHT  1440
 
 Mine  "remote_rpg-40"
@@ -561,7 +561,7 @@ ShiversDist  100
 ExplWaveDist  30 
 ExplForce  1380
 ACTOR  "Items\remote_rpg40.act"
-IMAGE  "remote_rpg40.dds"
+IMAGE  "remote_rpg40.e5b"
 WEIGHT  1240
 
 Mine  "remote_pipebomb"
@@ -581,7 +581,7 @@ ShiversDist  18
 ExplWaveDist  4 
 ExplForce  90
 ACTOR  "Items\remote_pipebomb.act"
-IMAGE  "remote_pipebomb.dds"
+IMAGE  "remote_pipebomb.e5b"
 WEIGHT  270
 
 Mine  "remote_sodabomb"
@@ -601,7 +601,7 @@ ShiversDist  8
 ExplWaveDist  12 
 ExplForce  120
 ACTOR  "Items\remote_sodabomb.act"
-IMAGE  "remote_sodabomb.dds"
+IMAGE  "remote_sodabomb.e5b"
 WEIGHT  390
 
 Mine  "Anti-personnel Land Mine PMN-2"
@@ -801,7 +801,7 @@ ShiversDist  20
 ExplWaveDist  18
 ExplForce  1250
 ACTOR  "Items\remote_rpg_rpg2.act"
-IMAGE  "remote_rpg_rpg2.dds"
+IMAGE  "remote_rpg_rpg2.e5b"
 WEIGHT  1900 
 
 Mine  "remote_RPG7_tbg-7v"
@@ -821,7 +821,7 @@ ShiversDist  30
 ExplWaveDist  10
 ExplForce  5000
 ACTOR  "Items\remote_rpg_tgb7v.act"
-IMAGE  "remote_rpg_tgb7v.dds"
+IMAGE  "remote_rpg_tgb7v.e5b"
 WEIGHT  4000 
 
 Mine  "remote_RPG7_type69"
@@ -841,7 +841,7 @@ ShiversDist  10
 ExplWaveDist  15
 ExplForce  1500
 ACTOR  "Items\remote_rpg_type69.act"
-IMAGE  "remote_rpg_type69.dds"
+IMAGE  "remote_rpg_type69.e5b"
 WEIGHT  2300 
 
 
@@ -862,7 +862,7 @@ ShiversDist  21
 ExplWaveDist 15
 ExplForce  1500 
 ACTOR  "Items\remote_rpg_og7b.act"
-IMAGE "remote_rpg_og7b.dds"
+IMAGE "remote_rpg_og7b.e5b"
 WEIGHT  1500 
 
 
@@ -883,7 +883,7 @@ ShiversDist  19
 ExplWaveDist  15 
 ExplForce  1400 
 ACTOR  "Items\remote_rpg_pg7b.act"
-IMAGE "remote_rpg_pg7b.dds"
+IMAGE "remote_rpg_pg7b.e5b"
 WEIGHT  1700 
 
 Mine  "remote_RPG7_pg-7pm"
@@ -903,7 +903,7 @@ ShiversDist  16
 ExplWaveDist  8 
 ExplForce  1500 
 ACTOR "Items\remote_rpg_pg7pm.ACT"
-IMAGE "remote_rpg_pg7pm.dds"
+IMAGE "remote_rpg_pg7pm.e5b"
 WEIGHT  1800 
 
 Mine  "remote_RPG7_ko-7v"
@@ -923,7 +923,7 @@ ShiversDist  20
 ExplWaveDist  20 
 ExplForce  1500
 ACTOR  "Items\remote_rpg_ko7v.act"
-IMAGE "remote_rpg_ko7v.dds"
+IMAGE "remote_rpg_ko7v.e5b"
 WEIGHT  2460 
 
 Mine  "remote_RPG7_og-7ve"
@@ -943,7 +943,7 @@ ShiversDist  10
 ExplWaveDist 10 
 ExplForce  5000
 ACTOR  "Items\remote_og7ve.act"
-IMAGE "remote_og7ve.dds"
+IMAGE "remote_og7ve.e5b"
 WEIGHT  3600
 
 Mine  "remote_RPG7_pg-7ei"
@@ -963,7 +963,7 @@ ShiversDist  18
 ExplWaveDist  10 
 ExplForce  5000
 ACTOR  "Items\remote_pg7ei.act"
-IMAGE "remote_pg7ei.dds"
+IMAGE "remote_pg7ei.e5b"
 WEIGHT  4000 
 
 Mine  "remote_RPG7_gtb7vs"
@@ -983,7 +983,7 @@ ShiversDist  30
 ExplWaveDist  10 
 ExplForce  5000
 ACTOR  "Items\remote_gtb7vs.act"
-IMAGE "remote_gtb7vs.dds"
+IMAGE "remote_gtb7vs.e5b"
 WEIGHT  3500 
 
 Mine  "JerArmed"
