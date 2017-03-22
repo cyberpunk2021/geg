@@ -996,7 +996,7 @@ Item "Mine_detector" Level 6 Price 5000
 
 Item "Nails_box" Level 1 Price 5
 
-Item "Car_can20_empty"  Level 1 Price 50
+Item "Car_can20_empty" Level 1 Price 50
 Item "Car_can20" Level 2 Price 220
 Item "Car_wheel_willys" Level 1 Price 700
 Item "Car_wheel_hummer" Level 6 Price 1500
@@ -1768,7 +1768,7 @@ Item "Pistol clip (Cougar9mm/15)" Level 1 Price 45
 Item "SMG ammo clip (tmp/20)" Level 1 Price 30
 Item "SMG ammo clip (tmp/30)" Level 2 Price 50
 Item "SMG ammo clip (TEC9/20)" Level 1 Price 30
-Item "SMG ammo clip (TEC9/30)" Level 2 Price 50
+Item "SMG ammo clip (TEC9/32)" Level 2 Price 50
 Item "SMG ammo clip (mp9/30)" Level 2 Price 50
 Item "Pistol clip (Jericho9mm/15)" Level 1 Price 45
 Item "Pistol clip (JerichoW9mm/15)" Level 1 Price 45

@@ -1177,7 +1177,7 @@ Item "Metal armor plate 2" Level 1 Price 10
 Item "Wood_plate" Level 1 Price 30
 Item "Tape" Level 1 Price 5
 Item "Car_belt" Level 1 Price 500
-Item "Car_can20_empty"  Level 1 Price 50
+Item "Car_can20_empty" Level 1 Price 50
 Item "Car_can20" Level 2 Price 220
 Item "Car_wheel_pascar" Level 1 Price 200
 Item "Car_wheel_pickup" Level 1 Price 350
@@ -1452,7 +1452,7 @@ Item "Pistol clip (Cougar9mm/15)" Level 1 Price 45
 Item "SMG ammo clip (tmp/20)" Level 1 Price 30
 Item "SMG ammo clip (tmp/30)" Level 2 Price 50
 Item "SMG ammo clip (TEC9/20)" Level 1 Price 30
-Item "SMG ammo clip (TEC9/30)" Level 2 Price 50
+Item "SMG ammo clip (TEC9/32)" Level 2 Price 50
 Item "SMG ammo clip (mp9/30)" Level 2 Price 50
 Item "Pistol clip (P226/12)" Level 1 Price 25
 Item "Pistol clip (Browning-hp/10)" Level 1 Price 30

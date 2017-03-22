@@ -2955,7 +2955,7 @@ Item "Tape" Level 1 Price 5
 Item "Car_belt" Level 1 Price 500
 Item "Car_can5_empty" Level 3 Price 30
 Item "Car_can5" Level 3 Price 250
-Item "Car_can20_empty"  Level 3 Price 50
+Item "Car_can20_empty" Level 3 Price 50
 Item "Car_can20" Level 3 Price 220
 Item "Car_wheel_pascar" Level 3 Price 200
 Item "Car_wheel_pickup" Level 3 Price 350
@@ -3465,7 +3465,7 @@ Item "PackedAmmoBox DBP88 (5.8x42/500)" Level 6 Price 816
 Item "PackedAmmoBox DBP10 (5.8x42/500)" Level 7 Price 1056
 
 //OTHER
-Item "tool3"  Level 1 Price 250
+Item "tool3" Level 1 Price 250
 Item "Box_Wood_Empty" Level 1 Price 30
 Item "Literatura Revolucionaria" Level 3 Price 450
 
@@ -3473,8 +3473,8 @@ Item "Literatura Revolucionaria" Level 3 Price 450
 Item "Smoke_camel" Level 16 Price 45
 Item "Smoke_serpent" Level 16 Price 30
 Item "Book_Lenin" Level 16 Price 300
-Item "Wine"  Level 16 Price 400
-Item "Whisky"  Level 16 Price 600
+Item "Wine" Level 16 Price 400
+Item "Whisky" Level 16 Price 600
 Item "Drink_tequila_big" Level 16 Price 600
 Item "Drink_rum_sol" Level 16 Price 600
 Item "Drink_rum_general" Level 16 Price 1000
@@ -3490,7 +3490,7 @@ Item "Algeira police captain uniform" Level 16 Price 1000
 Item "Algeira police leutenant uniform" Level 16 Price 500
 Item "Algeira police sergant uniform" Level 16 Price 250
 Item "Algeira soldiers colonel uniform" Level 16 Price 6000
-Item "Algeira soldiers major uniform"  Level 16 Price 3000
+Item "Algeira soldiers major uniform" Level 16 Price 3000
 Item "Algeira soldiers captain uniform" Level 16 Price 1500
 Item "Algeira soldiers leutenant uniform" Level 16 Price 750
 Item "Algeira soldiers sergant uniform" Level 16 Price 375
@@ -3506,7 +3506,7 @@ Item "Algeira police captain epaulets" Level 16 Price 1000
 Item "Algeira police leutenant epaulets" Level 16 Price 500
 Item "Algeira police sergant epaulets" Level 16 Price 250
 Item "Algeira soldiers colonel epaulets" Level 16 Price 6000
-Item "Algeira soldiers major epaulets"  Level 16 Price 3000
+Item "Algeira soldiers major epaulets" Level 16 Price 3000
 Item "Algeira soldiers captain epaulets" Level 16 Price 1500
 Item "Algeira soldiers leutenant epaulets" Level 16 Price 750
 Item "Algeira soldiers sergant epaulets" Level 16 Price 375
