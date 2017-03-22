@@ -2401,7 +2401,7 @@ Item "Ammo box 500 HLA (8mm FMJ BT)" Level 3 Price 100
 
 // Missing magazines
 Item "Magpul PMAG Window (6.8SPC/30)" Level 3 Price 50
-Item "Rifle ammo clip (G36/30)" Level 3 Price             60.0
+Item "Rifle ammo clip (G36/30)" Level 3 Price 60.0
 Item "Rifle ammo clip (Norinco/10)" Level 3 Price 20
 Item "Rifle ammo clip (Norinco54R/10)" Level 3 Price 23
 Item "Rifle clip (MSR338/5)" Level 9 Price 60
