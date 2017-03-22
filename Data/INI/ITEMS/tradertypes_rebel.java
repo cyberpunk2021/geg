@@ -1003,6 +1003,7 @@ Item "SZ-3a" Level 6 Price 420.0
 Item "Machinegun UKM2000" Level 11 Price 4300
 
 Item "GM94" Level 3 Price 1300
+Item "GM94 folded" Level 3 Price 1300
 
 Item "SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price 40.0
 Item "SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price 60.0
@@ -1047,15 +1048,20 @@ Item "MON-50" Level 3 Price 160
 Item "Pistol QSZ92 (5.8)" Level 2 Price 1100
 Item "Pistol QSW06 (5.8)" Level 3 Price 1300
 Item "QBS09 (12ga)" Level 3 Price 1300
+Item "QBS09 (12ga) folded" Level 3 Price 1300
 Item "Shotgun Hawk Pump Internal (12ga)" Level 2 Price 1100
+Item "Shotgun Hawk Pump Internal (12ga) folded" Level 2 Price 1100
 Item "Shotgun Hawk Pump (12ga)" Level 4 Price 1400
+Item "Shotgun Hawk Pump (12ga) folded" Level 4 Price 1400
 
 Item "Rifle ammo clip (HK32/30)" Level 2 Price 50
 Item "Double rifle ammo clip (HK32/60)" Level 3 Price 100
 
 Item "Submachine-gun M85 Pistol AUTO No Stock (5.56mm)" Level 4 Price 1600
 Item "Submachine-gun M85 Pistol AUTO (5.56mm)" Level 5 Price 2000
+Item "Submachine-gun M85 Pistol AUTO (5.56mm) folded" Level 5 Price 2000
 Item "Submachine-gun AR Pistol AUTO (5.56mm)" Level 5 Price 3500
+Item "Submachine-gun AR Pistol AUTO (5.56mm) folded" Level 5 Price 3500
 
 Item "BigWoodBoxQBZ95" Level 8 Price 5750
 Item "BigWoodBoxQBZ97" Level 8 Price 6250
@@ -1089,12 +1095,16 @@ Item "Assault Rifle QBZ95B-1 (5.8)" Level 9 Price 2400
 
 Item "Machinegun M77 (7.62x51mm)" Level 8 Price 3000
 Item "Machinegun M77 F (7.62x51mm)" Level 8 Price 3100
+Item "Machinegun M77 F (7.62x51mm) folded" Level 8 Price 3100
 
 Item "Machinegun M72 (7.62x39mm)" Level 8 Price 2750
 Item "Machinegun M72 F (7.62x39mm)" Level 8 Price 2800
+Item "Machinegun M72 F (7.62x39mm) folded" Level 8 Price 2800
 Item "Machinegun Vz58 (7.62x39mm)" Level 9 Price 2900
 Item "Machinegun Vz58v (7.62x39mm)" Level 9 Price 3000
+Item "Machinegun Vz58v (7.62x39mm) folded" Level 9 Price 3000
 Item "Machinegun RPKM (7.62mm)" Level 10 Price 2900
+Item "Machinegun RPKM (7.62mm) folded" Level 10 Price 2900
 Item "Machinegun RK71MG (7.62)" Level 9 Price 3100
 Item "Machinegun RK71MG (5.56)" Level 9 Price 3200
 Item "Machinegun RK71MG (308)" Level 10 Price 3900
@@ -1104,6 +1114,7 @@ Item "Machinegun RK71MG HG (308)" Level 10 Price 3900
 
 Item "Machinegun STG944 (5.56mm)" Level 8 Price 2800
 Item "Assault Rifle HK32KA3 (7.62x39mm)" Level 6 Price 1900
+Item "Assault Rifle HK32KA3 (7.62x39mm) folded" Level 6 Price 1900
 
 Item "Machinegun Madsen (308)" Level 3 Price 1000
 Item "Machinegun ammo clip (Madsen/30)" Level 1 Price 40
@@ -1187,8 +1198,11 @@ Item "Pistol clip (P38/8)" Level 1 Price 10
 
 Item "Assault Rifle FEG NGM-81 (5.56x45mm)" Level 8 Price 1800
 Item "Assault Rifle NGV-81 (5.56x45mm)" Level 8 Price 1900
+Item "Assault Rifle NGV-81 (5.56x45mm) folded" Level 8 Price 1900
 Item "Assault Rifle Type56-4 (5.56x45mm)" Level 6 Price 900
+Item "Assault Rifle Type56-4 (5.56x45mm) folded" Level 6 Price 900
 Item "Assault Rifle Type56-4 Y (5.56x45mm)" Level 6 Price 900
+Item "Assault Rifle Type56-4 Y (5.56x45mm) folded" Level 6 Price 900
 
 Item "Rifle Gewehr 43 (7.92x57 Mauser)" Level 3 Price 700
 Item "Rifle Mosquetao" Level 2 Price 630
@@ -1219,21 +1233,26 @@ Item "Assault FG42 Late (7.92x57 Mauser)" Level 4 Price 1200
 
 Item "Assault Rifle RK62 (5.56)" Level 8 Price 2500
 Item "Assault Rifle RK71 (5.56)" Level 9 Price 2900
+Item "Assault Rifle RK71 (5.56) folded" Level 9 Price 2900
 Item "Assault Rifle RK71T (5.56)" Level 9 Price 2650
 Item "Assault Rifle RK71P (5.56)" Level 9 Price 2650
 Item "Assault Rifle RK71W (5.56)" Level 9 Price 2650
 Item "Assault Rifle RK71W2 (5.56)" Level 9 Price 2650
 Item "Assault Rifle RK76 (5.56)" Level 10 Price 3100
+Item "Assault Rifle RK76 (5.56) folded" Level 10 Price 3100
 Item "Assault Rifle RK76T (5.56)" Level 10 Price 2900
 Item "Assault Rifle RK76P (5.56)" Level 10 Price 2900
 Item "Assault Rifle RK76W (5.56)" Level 10 Price 2900
 Item "Assault Rifle Rk95 (5.56mm)" Level 11 Price 3500
+Item "Assault Rifle Rk95 (5.56mm) folded" Level 11 Price 3500
 
 Item "Assault Rifle INSAS (5.56x45mm)" Level 7 Price 2500
 Item "Assault Rifle INSAS Black (5.56x45mm)" Level 7 Price 2500
 
 Item "Assault Rifle QBZ03 5.8" Level 10 Price 3400
+Item "Assault Rifle QBZ03 5.8 folded" Level 10 Price 3400
 Item "Assault Rifle QBZ03 5.56" Level 10 Price 3200
+Item "Assault Rifle QBZ03 5.56 folded" Level 10 Price 3200
 
 Item "Machinegun QBB 95 (5.8)" Level 10 Price 3100
 Item "Machinegun QBB 97 (5.56)" Level 10 Price 3200
@@ -1241,6 +1260,7 @@ Item "Machinegun QBB 95-1 (5.8)" Level 11 Price 3600
 Item "Machinegun QBB 97-1 (5.56)" Level 11 Price 3700
 
 Item "Assault Rifle SC2010 (7.62mm)" Level 11 Price 3800
+Item "Assault Rifle SC2010 (7.62mm) folded" Level 11 Price 3800
 
 Item "Assault Rifle KH2002 CAR" Level 8 Price 2400
 Item "Assault Rifle KH2002" Level 10 Price 2600
@@ -1249,59 +1269,92 @@ Item "Assault Rifle Type86S Auto (7.62x39mm)" Level 6 Price 1800
 Item "Assault Rifle Zastava M-90 (5.56x45mm)" Level 7 Price 1500
 Item "Assault Rifle Zastava M-90N (5.56x45mm)" Level 8 Price 1600
 Item "Assault Rifle Zastava M-90A (5.56x45mm)" Level 7 Price 1600
+Item "Assault Rifle Zastava M-90A (5.56x45mm) folded" Level 7 Price 1600
 Item "Assault Rifle Zastava M-90AN (5.56x45mm)" Level 8 Price 1700
+Item "Assault Rifle Zastava M-90AN (5.56x45mm) folded" Level 8 Price 1700
 Item "Assault Rifle Zastava M-77 (7.62x51mm)" Level 8 Price 2700
 Item "Assault Rifle Zastava M-77N (7.62x51mm)" Level 9 Price 2800
 Item "Assault Rifle Zastava M-77A (7.62x51mm)" Level 8 Price 2800
+Item "Assault Rifle Zastava M-77A (7.62x51mm) folded" Level 8 Price 2800
 Item "Assault Rifle Zastava M-77AN (7.62x51mm)" Level 9 Price 2900
+Item "Assault Rifle Zastava M-77AN (7.62x51mm) folded" Level 9 Price 2900
 Item "Assault Rifle Zastava M-21 CQC (5.56x45mm)" Level 9 Price 2300
+Item "Assault Rifle Zastava M-21 CQC (5.56x45mm) folded" Level 9 Price 2300
 Item "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm)" Level 9 Price 2500
+Item "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm) folded" Level 9 Price 2500
 Item "Assault Rifle Zastava M-21 CAR (5.56x45mm)" Level 10 Price 2600
+Item "Assault Rifle Zastava M-21 CAR (5.56x45mm) folded" Level 10 Price 2600
 Item "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm)" Level 10 Price 2800
+Item "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm) folded" Level 10 Price 2800
 Item "Assault Rifle Zastava M-21 (5.56x45mm)" Level 11 Price 2900
+Item "Assault Rifle Zastava M-21 (5.56x45mm) folded" Level 11 Price 2900
 Item "Assault Rifle Zastava M-21 RIS (5.56x45mm)" Level 11 Price 3100
+Item "Assault Rifle Zastava M-21 RIS (5.56x45mm) folded" Level 11 Price 3100
 
 Item "Beryl (5.56mm)" Level 8 Price 2300
+Item "Beryl (5.56mm) folded" Level 8 Price 2300
 Item "Beryl WR (5.56mm)" Level 9 Price 2500
+Item "Beryl WR (5.56mm) folded" Level 9 Price 2500
 Item "Beryl FG (5.56mm)" Level 9 Price 2500
+Item "Beryl FG (5.56mm) folded" Level 9 Price 2500
 Item "Beryl WR FG (5.56mm)" Level 9 Price 2700
+Item "Beryl WR FG (5.56mm) folded" Level 9 Price 2700
 Item "Beryl wz.1996 (5.56mm)" Level 10 Price 2900
 Item "Beryl wz.1996(5.56mm) folded" Level 10 Price 2900
 Item "Assault Rifle STG941 (5.56x45mm)" Level 8 Price 1900
 Item "Assault Rifle STG942 (5.56x45mm)" Level 8 Price 2000
+Item "Assault Rifle STG942 (5.56x45mm) folded" Level 8 Price 2000
 Item "Assault Rifle STG943 (5.56x45mm)" Level 7 Price 1400
+Item "Assault Rifle STG943 (5.56x45mm) folded" Level 7 Price 1400
 
 Item "Assaul Rifle SA Vz.58 Mod CQC NATO" Level 7 Price 1700
+Item "Assaul Rifle SA Vz.58 Mod CQC NATO folded" Level 7 Price 1700
 Item "Assaul Rifle SA Vz.58 Mod CAR NATO" Level 8 Price 2000
+Item "Assaul Rifle SA Vz.58 Mod CAR NATO folded" Level 8 Price 2000
 Item "Assaul Rifle SA Vz.58 Mod NATO" Level 9 Price 2300
+Item "Assaul Rifle SA Vz.58 Mod NATO folded" Level 9 Price 2300
 
 Item "Rifle ammo clip (CZ-805/30)" Level 4 Price 40
 Item "Rifle ammo clip double (CZ-805/60)" Level 5 Price 80
 
 Item "ACE CQC RUS" Level 8 Price 2400
+Item "ACE CQC RUS folded" Level 8 Price 2400
 Item "ACE RUS" Level 10 Price 2400
+Item "ACE RUS folded" Level 10 Price 2400
 Item "ACE CQC NATO" Level 10 Price 3200
+Item "ACE CQC NATO folded" Level 10 Price 3200
 Item "ACE CAR NATO" Level 11 Price 3500
+Item "ACE CAR NATO folded" Level 11 Price 3500
 Item "ACE NATO" Level 12 Price 3800
+Item "ACE NATO folded" Level 12 Price 3800
 
 Item "Assault Rifle AK-101 (5.56mm)" Level 9 Price 2500
+Item "Assault Rifle AK-101 (5.56mm) folded" Level 9 Price 2500
 Item "Assault Rifle AK-102 (5.56mm)" Level 6 Price 2000
+Item "Assault Rifle AK-102 (5.56mm) folded" Level 6 Price 2000
 
 Item "Assault Rifle AEK-972 (5.56mm)" Level 9 Price 2750
+Item "Assault Rifle AEK-972 (5.56mm) folded" Level 9 Price 2750
 
 Item "Assault Rifle AK-9 (9x39mm)" Level 6 Price 2700
+Item "Assault Rifle AK-9 (9x39mm) folded" Level 6 Price 2700
 
 Item "Assault Rifle SC2027 (7.62x51mm)" Level 11 Price 3400
+Item "Assault Rifle SC2027 (7.62x51mm) folded" Level 11 Price 3400
 
 ////////////FIM REBEL GUNS
 
 ///////////FROM ALGEIRA INV
 
 Item "Assault Rifle C7FT PDW (5.56mm)" Level 5 Price 2900
+Item "Assault Rifle C7FT PDW (5.56mm) folded" Level 5 Price 2900
 Item "Assault Rifle C7FT PDW B (5.56mm)" Level 5 Price 2900
+Item "Assault Rifle C7FT PDW B (5.56mm) folded" Level 5 Price 2900
 
 Item "Submachine-gun XCR Pistol NATO" Level 5 Price 3100
+Item "Submachine-gun XCR Pistol NATO folded" Level 5 Price 3100
 Item "Submachine-gun XCR Pistol SPC" Level 6 Price 3100
+Item "Submachine-gun XCR Pistol SPC folded" Level 6 Price 3100
 
 Item "ROMAT FAL (7.62mm)" Level 8 Price 2000
 Item "ROMAT FAL WR (7.62mm)" Level 9 Price 2200
@@ -1309,6 +1362,7 @@ Item "ROMAT FAL WR (7.62mm)" Level 9 Price 2200
 Item "Sniper Rifle M24 (7.62x51mm)" Level 11 Price 3800
 Item "Sniper Rifle M21 (7.62x51mm)" Level 11 Price 4700
 Item "Sniper Rifle Galil Tzalafim (7.62mm)" Level 9 Price 4000
+Item "Sniper Rifle Galil Tzalafim (7.62mm) folded" Level 9 Price 4000
 
 Item "Sniper Rifle FRF2 (7.62mm)" Level 9 Price 5000
 Item "Rifle ammo clip (FRF2/10)" Level 3 Price 45
@@ -1323,23 +1377,32 @@ Item "Sniper rifle clip (M40A5/10)" Level 7 Price 45
 Item "Sniper Rifle IA2 (7.62x51mm)" Level 11 Price 7200
 
 Item "Pindad SS1 DMR" Level 7 Price 3400
+Item "Pindad SS1 DMR folded" Level 7 Price 3400
 Item "Pindad SS2 DMR" Level 8 Price 4100
+Item "Pindad SS2 DMR folded" Level 8 Price 4100
 
 Item "AK 5C DMR" Level 9 Price 4300
+Item "AK 5C DMR folded" Level 9 Price 4300
 
 Item "Sniper Rifle MK11 (7.62x51)" Level 9 Price 8100
 
 Item "Sniper Rifle TRG-42 (.300)" Level 12 Price 14600
+Item "Sniper Rifle TRG-42 (.300) folded" Level 12 Price 14600
 Item "Sniper Rifle TRG-42 B (.300)" Level 12 Price 14600
+Item "Sniper Rifle TRG-42 B (.300) folded" Level 12 Price 14600
 Item "Sniper Rifle TRG-42 T (.300)" Level 12 Price 14600
+Item "Sniper Rifle TRG-42 T (.300) folded" Level 12 Price 14600
 
 Item "Rifle clip (TRG-42300/5)" Level 8 Price 60
 
 Item "Rifle clip (TRG-42/5)" Level 9 Price 20
 
 Item "Sniper Rifle TRG-42 (.338 Lapua)" Level 13 Price 24000
+Item "Sniper Rifle TRG-42 (.338 Lapua) folded" Level 13 Price 24000
 Item "Sniper Rifle TRG-42 B (.338 Lapua)" Level 13 Price 24000
+Item "Sniper Rifle TRG-42 B (.338 Lapua) folded" Level 13 Price 24000
 Item "Sniper Rifle TRG-42 T (.338 Lapua)" Level 13 Price 24000
+Item "Sniper Rifle TRG-42 T (.338 Lapua) folded" Level 13 Price 24000
 
 Item "Sniper Rifle Hecate (12.7mm)" Level 14 Price 15000
 Item "Sniper Rifle Barret M82A1 (12.7mm)" Level 14 Price 16000
@@ -1354,8 +1417,11 @@ Item "Assault Rifle M-14 POLY (7.62x51mm)" Level 7 Price 2300
 Item "Assault Rifle M-14 WOOD (7.62x51mm)" Level 7 Price 2300
 
 Item "Assault Rifle FN FAL 50.61 (7.62x51mm)" Level 8 Price 2500
+Item "Assault Rifle FN FAL 50.61 (7.62x51mm) folded" Level 8 Price 2500
 Item "Assault Rifle FN FAL 50.62 (7.62x51mm)" Level 7 Price 2300
+Item "Assault Rifle FN FAL 50.62 (7.62x51mm) folded" Level 7 Price 2300
 Item "Assault Rifle FN FAL 50.63 (7.62x51mm)" Level 7 Price 2100
+Item "Assault Rifle FN FAL 50.63 (7.62x51mm) folded" Level 7 Price 2100
 Item "Assault Rifle FN FAL Argentina (7.62x51mm)" Level 7 Price 1800
 
 Item "Assault Rifle AK 4 (7.62x51mm)" Level 8 Price 2400
@@ -1367,11 +1433,17 @@ Item "Assault Rifle Stoner 63 (5.56mm)" Level 7 Price 1900
 Item "Assault Rifle Stoner 63 WR (5.56mm)" Level 8 Price 1900
 
 Item "Assault Rifle XCR CQC (5.56mm)" Level 7 Price 2800
+Item "Assault Rifle XCR CQC (5.56mm) folded" Level 7 Price 2800
 Item "Assault Rifle XCR (5.56mm)" Level 8 Price 3000
+Item "Assault Rifle XCR (5.56mm) folded" Level 8 Price 3000
 Item "Assault Rifle XCR LB (5.56mm)" Level 9 Price 3200
+Item "Assault Rifle XCR LB (5.56mm) folded" Level 9 Price 3200
 Item "Assault Rifle XCR CQC (6.8mm)" Level 8 Price 2900
+Item "Assault Rifle XCR CQC (6.8mm) folded" Level 8 Price 2900
 Item "Assault Rifle XCR (6.8mm)" Level 9 Price 3100
+Item "Assault Rifle XCR (6.8mm) folded" Level 9 Price 3100
 Item "Assault Rifle XCR LB (6.8mm)" Level 10 Price 3300
+Item "Assault Rifle XCR LB (6.8mm) folded" Level 10 Price 3300
 
 Item "Rifle ammo clip_T (G36/30)" Level 3 Price 60
 Item "Rifle ammo clip (G36/30)" Level 3 Price 60.0
@@ -1384,10 +1456,15 @@ Item "Assault Rifle C7 (5.56mm)" Level 7 Price 2100
 Item "Assault Rifle C7FT F (5.56mm)" Level 8 Price 2900
 Item "Assault Rifle C7FT F B (5.56mm)" Level 8 Price 2900
 Item "Assault Rifle C7FT (5.56mm)" Level 8 Price 3000
+Item "Assault Rifle C7FT (5.56mm) folded" Level 8 Price 3000
 Item "Assault Rifle C7FT B (5.56mm)" Level 8 Price 3000
+Item "Assault Rifle C7FT B (5.56mm) folded" Level 8 Price 3000
 Item "Assault Rifle C8 (5.56mm)" Level 7 Price 2000
+Item "Assault Rifle C8 (5.56mm) folded" Level 7 Price 2000
 Item "Assault Rifle C7FT CAR (5.56mm)" Level 8 Price 2500
+Item "Assault Rifle C7FT CAR (5.56mm) folded" Level 8 Price 2500
 Item "Assault Rifle C7FT CAR B (5.56mm)" Level 8 Price 2500
+Item "Assault Rifle C7FT CAR B (5.56mm) folded" Level 8 Price 2500
 
 Item "Assault Rifle Barrett M468 (6.8 SPC)" Level 9 Price 2400
 
@@ -1406,73 +1483,123 @@ Item "Magpul PMAG Tan Window BLK New (SPC/30)" Level 3 Price 50
 Item "Magpul PMAG Tan Window New BLK Rub (SPC/30)" Level 3 Price 50
 
 Item "Assault Rifle MK18 CQC (5.56mm)" Level 9 Price 2300
+Item "Assault Rifle MK18 CQC (5.56mm) folded" Level 9 Price 2300
 Item "Assault Rifle MK18 (5.56mm)" Level 10 Price 2700
+Item "Assault Rifle MK18 (5.56mm) folded" Level 10 Price 2700
 Item "Assault Rifle MK18 CAR (5.56mm)" Level 10 Price 2900
+Item "Assault Rifle MK18 CAR (5.56mm) folded" Level 10 Price 2900
 
 Item "Assault Rifle AR70 90 (5.56mm)" Level 8 Price 2800
 Item "Assault Rifle AR70S 90 (5.56mm)" Level 8 Price 2900
+Item "Assault Rifle AR70S 90 (5.56mm) folded" Level 8 Price 2900
 Item "Assault Rifle AR70 CAR 90 (5.56mm)" Level 7 Price 2400
+Item "Assault Rifle AR70 CAR 90 (5.56mm) folded" Level 7 Price 2400
 
 Item "Assault Rifle SIG553 (5.56mm)" Level 6 Price 2800
+Item "Assault Rifle SIG553 (5.56mm) folded" Level 6 Price 2800
 Item "Assault Rifle SIG553 GR (5.56mm)" Level 6 Price 2800
+Item "Assault Rifle SIG553 GR (5.56mm) folded" Level 6 Price 2800
 Item "Assault Rifle SIG551 GR (5.56mm)" Level 8 Price 3100
+Item "Assault Rifle SIG551 GR (5.56mm) folded" Level 8 Price 3100
 Item "Assault Rifle SIG551 GR LB (5.56mm)" Level 9 Price 3200
+Item "Assault Rifle SIG551 GR LB (5.56mm) folded" Level 9 Price 3200
 Item "Assault Rifle SIG550 GR (5.56mm)" Level 9 Price 3550
+Item "Assault Rifle SIG550 GR (5.56mm) folded" Level 9 Price 3550
 Item "Assault Rifle SIG551 (5.56mm)" Level 8 Price 3100
+Item "Assault Rifle SIG551 (5.56mm) folded" Level 8 Price 3100
 Item "Assault Rifle SIG551 LB (5.56mm)" Level 9 Price 3200
+Item "Assault Rifle SIG551 LB (5.56mm) folded" Level 9 Price 3200
 Item "Assault Rifle SIG550 (5.56mm)" Level 9 Price 3550
+Item "Assault Rifle SIG550 (5.56mm) folded" Level 9 Price 3550
 
 Item "Assault Rifle Taurus CQC (5.56mm)" Level 7 Price 2300
+Item "Assault Rifle Taurus CQC (5.56mm) folded" Level 7 Price 2300
 Item "Assault Rifle Taurus CT (5.56mm)" Level 8 Price 2900
+Item "Assault Rifle Taurus CT (5.56mm) folded" Level 8 Price 2900
 Item "Assault Rifle Taurus ART (5.56mm)" Level 9 Price 3300
+Item "Assault Rifle Taurus ART (5.56mm) folded" Level 9 Price 3300
 
 Item "IMBEL M964" Level 8 Price 2800
 Item "IMBEL M964A1" Level 8 Price 2900
+Item "IMBEL M964A1 folded" Level 8 Price 2900
 Item "IMBEL M964 MD1" Level 7 Price 2600
 Item "IMBEL M964A1 MD1" Level 8 Price 2650
+Item "IMBEL M964A1 MD1 folded" Level 8 Price 2650
 Item "IMBEL ParaFal (7.62x51mm)" Level 9 Price 3100
+Item "IMBEL ParaFal (7.62x51mm) folded" Level 9 Price 3100
 
 Item "Assault Rifle IMBEL IA2 CQC (5.56mm)" Level 10 Price 3000
+Item "Assault Rifle IMBEL IA2 CQC (5.56mm) folded" Level 10 Price 3000
 Item "Assault Rifle IMBEL IA2C (5.56mm)" Level 11 Price 3400
+Item "Assault Rifle IMBEL IA2C (5.56mm) folded" Level 11 Price 3400
 Item "Assault Rifle IMBEL IA2 (5.56mm)" Level 12 Price 3800
+Item "Assault Rifle IMBEL IA2 (5.56mm) folded" Level 12 Price 3800
 Item "Assault Rifle IMBEL IA2 CQC (7.62mm)" Level 11 Price 3200
+Item "Assault Rifle IMBEL IA2 CQC (7.62mm) folded" Level 11 Price 3200
 Item "Assault Rifle IMBEL IA2C (7.62mm)" Level 12 Price 3600
+Item "Assault Rifle IMBEL IA2C (7.62mm) folded" Level 12 Price 3600
 Item "Assault Rifle IMBEL IA2 (7.62mm)" Level 13 Price 4000
+Item "Assault Rifle IMBEL IA2 (7.62mm) folded" Level 13 Price 4000
 
 Item "Assault Rifle FN FNC (5.56mm)" Level 8 Price 2700
+Item "Assault Rifle FN FNC (5.56mm) folded" Level 8 Price 2700
 Item "FN FNC Para Millenia" Level 6 Price 2200
+Item "FN FNC Para Millenia folded" Level 6 Price 2200
 Item "FN FNC Para WR Millenia" Level 7 Price 2400
+Item "FN FNC Para WR Millenia folded" Level 7 Price 2400
 Item "FN FNC Millenia" Level 8 Price 2700
+Item "FN FNC Millenia folded" Level 8 Price 2700
 Item "FN FNC WR Millenia" Level 9 Price 2800
+Item "FN FNC WR Millenia folded" Level 9 Price 2800
 Item "FN FNC CQC" Level 5 Price 1800
+Item "FN FNC CQC folded" Level 5 Price 1800
 Item "FN FNC CQC WR" Level 6 Price 1800
+Item "FN FNC CQC WR folded" Level 6 Price 1800
 Item "FN FNC Para" Level 6 Price 2000
+Item "FN FNC Para folded" Level 6 Price 2000
 Item "FN FNC Para WR" Level 7 Price 2200
+Item "FN FNC Para WR folded" Level 7 Price 2200
 Item "Assault Rifle Pindad SS1-V3 (5.56mm)" Level 7 Price 2600
 Item "Assault Rifle Pindad SS1-V3 WR (5.56mm)" Level 8 Price 2650
 Item "FN FNC WR" Level 9 Price 2750
+Item "FN FNC WR folded" Level 9 Price 2750
 
 Item "Assault Rifle Galil AR (7.62mm)" Level 8 Price 3000
+Item "Assault Rifle Galil AR (7.62mm) folded" Level 8 Price 3000
 
 Item "ACE CQC" Level 9 Price 2500
+Item "ACE CQC folded" Level 9 Price 2500
 Item "ACE CAR" Level 10 Price 2800
+Item "ACE CAR folded" Level 10 Price 2800
 Item "ACE" Level 11 Price 3100
+Item "ACE folded" Level 11 Price 3100
 
 Item "Assault Rifle Galil MAR (5.56mm)" Level 5 Price 1850
+Item "Assault Rifle Galil MAR (5.56mm) folded" Level 5 Price 1850
 Item "Assault Rifle Galil SAR (5.56mm)+M203" Level 5 Price 1800
+Item "Assault Rifle Galil SAR (5.56mm)+M203 folded" Level 5 Price 1800
 Item "Assault Rifle Galil AR (5.56mm)+M203" Level 7 Price 2500
+Item "Assault Rifle Galil AR (5.56mm)+M203 folded" Level 7 Price 2500
 Item "Assault Rifle Galil ARM (7.62mm)" Level 8 Price 3200
+Item "Assault Rifle Galil ARM (7.62mm) folded" Level 8 Price 3200
 Item "Assault Rifle Galil SAR (7.62mm)" Level 6 Price 2700
+Item "Assault Rifle Galil SAR (7.62mm) folded" Level 6 Price 2700
 Item "Assault Rifle Galil AR (5.56mm) exacto" Level 8 Price 2900
+Item "Assault Rifle Galil AR (5.56mm) exacto folded" Level 8 Price 2900
 
 Item "Assault Rifle G3A3 (7.62x51mm)" Level 7 Price 2800
 Item "Assault Rifle G3A4 (7.62x51mm)" Level 7 Price 2850
+Item "Assault Rifle G3A4 (7.62x51mm) folded" Level 7 Price 2850
 Item "Assault Rifle G3KA4 (7.62x51mm)" Level 6 Price 2500
+Item "Assault Rifle G3KA4 (7.62x51mm) folded" Level 6 Price 2500
 Item "Assault Rifle HK33EA2 (5.56mm)" Level 8 Price 2250
 Item "Assault Rifle HK33EA3 (5.56mm)" Level 8 Price 2300
+Item "Assault Rifle HK33EA3 (5.56mm) folded" Level 8 Price 2300
 Item "Assault Rifle HK33KEA3 (5.56mm)" Level 6 Price 2000
+Item "Assault Rifle HK33KEA3 (5.56mm) folded" Level 6 Price 2000
 
 Item "Assault Rifle HK53A3 (5.56mm)" Level 6 Price 1700
+Item "Assault Rifle HK53A3 (5.56mm) folded" Level 6 Price 1700
 
 Item "Assault Rifle M-14 (7.62x51mm)" Level 7 Price 2300
 
@@ -1572,68 +1699,102 @@ Item "Pistol SIG Sauer P220 (10mm)" Level 2 Price 920
 Item "CZ 75 (10mm)" Level 2 Price 950
 
 Item "Submachine-gun HK MP5A5 (9mm)" Level 4 Price 1900
+Item "Submachine-gun HK MP5A5 (9mm) folded" Level 4 Price 1900
 
 Item "Submachine-gun HK MP5SD5 (9mm)" Level 5 Price 2200
+Item "Submachine-gun HK MP5SD5 (9mm) folded" Level 5 Price 2200
 Item "Submachine-gun HK MP5+M203 (9mm)" Level 5 Price 2200
+Item "Submachine-gun HK MP5+M203 (9mm) folded" Level 5 Price 2200
 
 Item "Submachine-gun Colt SMG (9mm)" Level 4 Price 1850
+Item "Submachine-gun Colt SMG (9mm) folded" Level 4 Price 1850
 
 Item "Submachine-gun Steyr AUG (9mm)" Level 5 Price 2100
 Item "Submachine-gun Steyr AUG SR (9mm)" Level 5 Price 2000
 
 Item "Submachine-gun HK UMP45 (.45 ACP)" Level 5 Price 2200
+Item "Submachine-gun HK UMP45 (.45 ACP) folded" Level 5 Price 2200
 
 Item "Submachine-gun Pindad PM2 (9mm)" Level 3 Price 1200
+Item "Submachine-gun Pindad PM2 (9mm) folded" Level 3 Price 1200
 Item "Submachine-gun Pindad PM2 SIL (9mm)" Level 4 Price 2300
+Item "Submachine-gun Pindad PM2 SIL (9mm) folded" Level 4 Price 2300
 
 Item "Submachine-gun PM84P (9mm)" Level 3 Price 880
+Item "Submachine-gun PM84P (9mm) folded" Level 3 Price 880
 Item "Submachine-gun PM98 (9mm)" Level 3 Price 920
+Item "Submachine-gun PM98 (9mm) folded" Level 3 Price 920
 
 Item "Steyr69 (9mm)" Level 3 Price 1200
+Item "Steyr69 (9mm) folded" Level 3 Price 1200
 Item "Steyr81 (9mm)" Level 4 Price 1300
+Item "Steyr81 (9mm) folded" Level 4 Price 1300
 
 Item "Submachine-gun Walter MPK (9mm)" Level 2 Price 1100
+Item "Submachine-gun Walter MPK (9mm) folded" Level 2 Price 1100
 Item "Submachine-gun Walter MPL (9mm)" Level 3 Price 1400
+Item "Submachine-gun Walter MPL (9mm) folded" Level 3 Price 1400
 
 Item "PM12" Level 3 Price 1300
+Item "PM12 folded" Level 3 Price 1300
 
 Item "Spectre M4" Level 2 Price 1400
+Item "Spectre M4 folded" Level 2 Price 1400
 Item "Spectre M4 45" Level 3 Price 1580
+Item "Spectre M4 45 folded" Level 3 Price 1580
 
 Item "Submachine-gun BT MP9 (9mm)" Level 4 Price 1700
+Item "Submachine-gun BT MP9 (9mm) folded" Level 4 Price 1700
 
 Item "HK MP5A3 (10)" Level 6 Price 2200
+Item "HK MP5A3 (10) folded" Level 6 Price 2200
 Item "Submachine-gun HK MP5+M203 (10)" Level 6 Price 2600
+Item "Submachine-gun HK MP5+M203 (10) folded" Level 6 Price 2600
 
 Item "Submachine-gun UMP9 (9mm)" Level 5 Price 2000
+Item "Submachine-gun UMP9 (9mm) folded" Level 5 Price 2000
 
 Item "Assault Rifle Taurus CQC (9mm)" Level 5 Price 2100
+Item "Assault Rifle Taurus CQC (9mm) folded" Level 5 Price 2100
 
 Item "Submachine-gun Colt 635 WR (9mm)" Level 5 Price 2000
+Item "Submachine-gun Colt 635 WR (9mm) folded" Level 5 Price 2000
 Item "Submachine-gun Colt 635 WR LB (9mm)" Level 6 Price 2200
+Item "Submachine-gun Colt 635 WR LB (9mm) folded" Level 6 Price 2200
 
 Item "Shotgun Remington M870 Magnum Police (12ga)" Level 2 Price 900
+Item "Shotgun Remington M870 Magnum Police (12ga) folded" Level 2 Price 900
 Item "Shotgun Remington M870 Magnum (12ga)" Level 2 Price 700
 Item "Shotgun M3_Super90 (12ga)" Level 3 Price 1100
 Item "Shotgun M1014 (12ga)" Level 3 Price 1300
 Item "Shotgun M1014 JSCS (12ga)" Level 3 Price 1400
+Item "Shotgun M1014 JSCS (12ga) folded" Level 3 Price 1400
 Item "Shotgun SPAS12 (12ga)" Level 3 Price 1600
+Item "Shotgun SPAS12 (12ga) folded" Level 3 Price 1600
 
 Item "Shotgun Benelli M2 (12ga)" Level 3 Price 1200
 
 Item "Shotgun CBC PUMP POLY (12ga)" Level 2 Price 800
 Item "Shotgun CBC PUMP POLY LB (12ga)" Level 3 Price 900
 Item "Shotgun CBC PUMP TAC (12ga)" Level 3 Price 1000
+Item "Shotgun CBC PUMP TAC (12ga) folded" Level 3 Price 1000
 Item "Shotgun CBC PUMP TAC LB (12ga)" Level 3 Price 1100
+Item "Shotgun CBC PUMP TAC LB (12ga) folded" Level 3 Price 1100
 Item "Shotgun Boito PUMP POLY SCOPIC (12ga)" Level 3 Price 850
+Item "Shotgun Boito PUMP POLY SCOPIC (12ga) folded" Level 3 Price 850
 Item "Shotgun CBC PUMP TAC SCOPIC (12ga)" Level 3 Price 1000
+Item "Shotgun CBC PUMP TAC SCOPIC (12ga) folded" Level 3 Price 1000
 Item "Shotgun CBC PUMP TAC SCOPIC LB (12ga)" Level 3 Price 1100
+Item "Shotgun CBC PUMP TAC SCOPIC LB (12ga) folded" Level 3 Price 1100
 Item "Shotgun Boito PUMP POLY (12ga)" Level 3 Price 700
 Item "Shotgun Boito PUMP POLY FG (12ga)" Level 3 Price 850
+Item "Shotgun Boito PUMP POLY FG (12ga) folded" Level 3 Price 850
 Item "Shotgun Boito PUMP POLY FG CQC (12ga)" Level 3 Price 600
+Item "Shotgun Boito PUMP POLY FG CQC (12ga) folded" Level 3 Price 600
 
 Item "Remington M870 Magnum Wood (12ga)" Level 3 Price 700
 Item "Remington M870 Magnum Police (12ga)" Level 3 Price 900
+Item "Remington M870 Magnum Police (12ga) folded" Level 3 Price 900
 
 Item "Fabarm FP6 (12ga)" Level 3 Price 1400
 
@@ -1641,18 +1802,24 @@ Item "SPAS12 NS (12ga)" Level 3 Price 1300
 Item "SPAS12 F (12ga)" Level 3 Price 1500
 Item "SPAS15 (12ga)" Level 3 Price 1900
 Item "SPAS15 F (12ga)" Level 4 Price 2000
+Item "SPAS15 F (12ga) folded" Level 4 Price 2000
 Item "SPAS15 FS (12ga)" Level 4 Price 2000
+Item "SPAS15 FS (12ga) folded" Level 4 Price 2000
 Item "SPAS15 Tan (12ga)" Level 3 Price 1900
 Item "SPAS15 Tan F (12ga)" Level 4 Price 2000
+Item "SPAS15 Tan F (12ga) folded" Level 4 Price 2000
 Item "SPAS15 Tan FS (12ga)" Level 4 Price 2000
+Item "SPAS15 Tan FS (12ga) folded" Level 4 Price 2000
 
 Item "Rifle M1 Garand (.30-06)" Level 3 Price 650
 
 Item "Carabine M1A Scout (7.62x51mm)" Level 5 Price 1700
 
 Item "Carabine AC556 Semi (5.56mm)" Level 3 Price 1150
+Item "Carabine AC556 Semi (5.56mm) folded" Level 3 Price 1150
 Item "Carabine Mini14 AC (5.56mm)" Level 5 Price 1500
 Item "Carabine AC556 (5.56mm)" Level 5 Price 1550
+Item "Carabine AC556 (5.56mm) folded" Level 5 Price 1550
 
 Item "Rifle M1917 Enfield (.30-06)" Level 2 Price 300
 Item "Rifle M1903 Springfield (.30-06)" Level 2 Price 300
@@ -1665,21 +1832,30 @@ Item "Carabine SOCOM16 WOOD NO RIS (7.62x51mm)" Level 4 Price 1400
 Item "Carabine SOCOM16 WOOD RIS (7.62x51mm)" Level 5 Price 1500
 
 Item "Assault Rifle SIG751 SAPR (7.62mm)" Level 11 Price 4000
+Item "Assault Rifle SIG751 SAPR (7.62mm) folded" Level 11 Price 4000
 
 Item "Assault Rifle SIG751 (7.62mm)" Level 9 Price 3600
+Item "Assault Rifle SIG751 (7.62mm) folded" Level 9 Price 3600
 Item "Assault Rifle SIG751 LB (7.62mm)" Level 10 Price 4000
+Item "Assault Rifle SIG751 LB (7.62mm) folded" Level 10 Price 4000
 
 Item "Assault Rifle M4A1 CIV (5.56mm)" Level 4 Price 1200
+Item "Assault Rifle M4A1 CIV (5.56mm) folded" Level 4 Price 1200
 Item "Assault Rifle Government Carbine (5.56mm)" Level 6 Price 1700
+Item "Assault Rifle Government Carbine (5.56mm) folded" Level 6 Price 1700
 
 Item "Carabine Imbel MD-3A1 (5.56mm)" Level 5 Price 1600
 Item "Carabine IMBEL MD-97LF (5.56mm)" Level 4 Price 1200
 Item "Carabine IMBEL M964A1" Level 7 Price 2000
 Item "Carabine IMBEL M964A1 MD2" Level 7 Price 2100
+Item "Carabine IMBEL M964A1 MD2 folded" Level 7 Price 2100
 Item "Carabine IMBEL M964 MD3" Level 6 Price 1800
 Item "Carabine IMBEL M964A1 MD3" Level 7 Price 1900
+Item "Carabine IMBEL M964A1 MD3 folded" Level 7 Price 1900
 Item "Carabine IMBEL ParaFal (7.62x51mm)" Level 8 Price 2600
+Item "Carabine IMBEL ParaFal (7.62x51mm) folded" Level 8 Price 2600
 Item "Assault Rifle Imbel MD-2 (5.56mm)" Level 7 Price 2060
+Item "Assault Rifle Imbel MD-2 (5.56mm) folded" Level 7 Price 2060
 
 Item "Sniper Rifle Remington 700 CDL (5.56mm)" Level 6 Price 3000
 Item "Sniper Rifle Remington 700 (5.56mm)" Level 6 Price 1600
@@ -1698,10 +1874,14 @@ Item "Sniper Rifle M14 SE (7.62x51mm)" Level 9 Price 3750
 Item "Sniper Mosquefal" Level 3 Price 500
 
 Item "Sniper Rifle Taurus ART (5.56mm)" Level 8 Price 3600
+Item "Sniper Rifle Taurus ART (5.56mm) folded" Level 8 Price 3600
 
 Item "Sniper Rifle TRG-42 (.308)" Level 10 Price 8700
+Item "Sniper Rifle TRG-42 (.308) folded" Level 10 Price 8700
 Item "Sniper Rifle TRG-42 B (.308)" Level 10 Price 8700
+Item "Sniper Rifle TRG-42 B (.308) folded" Level 10 Price 8700
 Item "Sniper Rifle TRG-42 T (.308)" Level 10 Price 8700
+Item "Sniper Rifle TRG-42 T (.308) folded" Level 10 Price 8700
 
 Item "Assault Rifle HK33SG1 (5.56mm)" Level 8 Price 3100
 
@@ -1709,11 +1889,15 @@ Item "Sniper Rifle HS50 (12.7mm)" Level 7 Price 6800
 
 Item "Assault Rifle L1A1 ST (7.62x51mm)" Level 8 Price 2200
 Item "Assault Rifle L1A1 Para ST (7.62x51mm)" Level 7 Price 1850
+Item "Assault Rifle L1A1 Para ST (7.62x51mm) folded" Level 7 Price 1850
 Item "Assault Rifle L1A1 Para (7.62x51mm)" Level 7 Price 1850
+Item "Assault Rifle L1A1 Para (7.62x51mm) folded" Level 7 Price 1850
 Item "Assault Rifle L1A1 (7.62x51mm)" Level 8 Price 2200
 
 Item "Small Assault Rifle M4 CQB-R (5.56mm)" Level 6 Price 2000
+Item "Small Assault Rifle M4 CQB-R (5.56mm) folded" Level 6 Price 2000
 Item "Assault Rifle LAC (5.56mm)" Level 9 Price 2700
+Item "Assault Rifle LAC (5.56mm) folded" Level 9 Price 2700
 
 Item "Assault Rifle M16 (5.56mm)" Level 6 Price 1500
 Item "Assault Rifle M16 HG (5.56mm)" Level 6 Price 1500
@@ -1724,13 +1908,18 @@ Item "Assault Rifle M16A1 (5.56mm)" Level 8 Price 1900
 Item "Assault Rifle M16A2 715 (5.56mm)" Level 9 Price 2500
 
 Item "Assault Rifle SIG552 GR (5.56mm)" Level 5 Price 2400
+Item "Assault Rifle SIG552 GR (5.56mm) folded" Level 5 Price 2400
 Item "Assault Rifle SIG552 (5.56mm)" Level 5 Price 2400
+Item "Assault Rifle SIG552 (5.56mm) folded" Level 5 Price 2400
 
 Item "Assault Rifle Imbel MD-3 (5.56mm)" Level 6 Price 2000
 Item "Assault Rifle Imbel MD-4 (5.56mm)" Level 6 Price 2200
+Item "Assault Rifle Imbel MD-4 (5.56mm) folded" Level 6 Price 2200
 Item "Assault Rifle IMBEL MD-97F (5.56mm)" Level 6 Price 2300
 Item "Assault Rifle IMBEL MD-97LM (5.56mm)" Level 5 Price 1900
+Item "Assault Rifle IMBEL MD-97LM (5.56mm) folded" Level 5 Price 1900
 Item "Assault Rifle IMBEL IA2C CIV (5.56mm)" Level 6 Price 2700
+Item "Assault Rifle IMBEL IA2C CIV (5.56mm) folded" Level 6 Price 2700
 
 Item "Assault Rifle Vektor R1 (7.62x51mm)" Level 7 Price 2650
 
@@ -1773,17 +1962,25 @@ Item "Pistol Tokagypt 58" Level 1 Price 200
 Item "Pistol Zastava M70(d)" Level 2 Price 380
 
 Item "Submachine-gun Type 85 (7.62x25mm)" Level 2 Price 160
+Item "Submachine-gun Type 85 (7.62x25mm) folded" Level 2 Price 160
 Item "Submachine-gun Type 79 (7.62x25mm)" Level 3 Price 220
+Item "Submachine-gun Type 79 (7.62x25mm) folded" Level 3 Price 220
 Item "Submachine-gun K50M (7.62x25mm)" Level 3 Price 400
+Item "Submachine-gun K50M (7.62x25mm) folded" Level 3 Price 400
 
 Item "MAT-49 (7.62x25)" Level 4 Price 700
+Item "MAT-49 (7.62x25) folded" Level 4 Price 700
 
 Item "Submachine-gun VZ82 (9x19mm)" Level 2 Price 650
+Item "Submachine-gun VZ82 (9x19mm) folded" Level 2 Price 650
 
 Item "Submachine-gun kedr" Level 1 Price 420
+Item "Submachine-gun kedr folded" Level 1 Price 420
 
 Item "Submachine-gun Type 54 (7.62x25mm)" Level 2 Price 420
+Item "Submachine-gun Type 54 (7.62x25mm) folded" Level 2 Price 420
 Item "Submachine-gun Vz82 (9x18mm)" Level 2 Price 580
+Item "Submachine-gun Vz82 (9x18mm) folded" Level 2 Price 580
 
 Item "Baikal 133 (12ga)" Level 2 Price 420
 Item "Shotgun TOZ 87 (12ga)" Level 2 Price 500
@@ -1791,7 +1988,9 @@ Item "Shotgun TOZ 87 Ext (12ga)" Level 3 Price 700
 Item "Baikal (12ga)" Level 1 Price 530
 Item "TOZ194 unstock (12ga)" Level 2 Price 900
 Item "TOZ194 (12ga)" Level 3 Price 1100
+Item "TOZ194 (12ga) folded" Level 3 Price 1100
 Item "Bizon 2 (Tokarev)" Level 3 Price 1400
+Item "Bizon 2 (Tokarev) folded" Level 3 Price 1400
 Item "SMG metal ammo clip (BizonTokarev/45)" Level 1 Price 45
 Item "SMG plastic ammo clip (BizonTokarev/45)" Level 1 Price 55
 Item "SMG plastic ammo clip (Bizon/53)" Level 1 Price 40
@@ -1801,29 +2000,43 @@ Item "SMG ammo clip (PP-19/30)" Level 1 Price 45
 Item "Double SMG ammo clip (PP-19/60T)" Level 1 Price 90
 Item "Double SMG ammo clip (PP-19/60)" Level 1 Price 90
 Item "Bizon 2 (9x19)" Level 4 Price 1600
+Item "Bizon 2 (9x19) folded" Level 4 Price 1600
 Item "Submachine-gun PP-19 Vityaz (9mm)" Level 4 Price 1700
+Item "Submachine-gun PP-19 Vityaz (9mm) folded" Level 4 Price 1700
 Item "Submachine-gun PP-19 Vityaz WR (9mm)" Level 4 Price 1700
+Item "Submachine-gun PP-19 Vityaz WR (9mm) folded" Level 4 Price 1700
 
 Item "PP90M1 (9x19)" Level 3 Price 1300
+Item "PP90M1 (9x19) folded" Level 3 Price 1300
 Item "PP90M1 RIS (9x19)" Level 4 Price 1400
+Item "PP90M1 RIS (9x19) folded" Level 4 Price 1400
 Item "SMG plastic ammo clip (PP90M1/64)" Level 1 Price 45
 Item "Submachine-gun Bizon 2 (9x18mm)" Level 3 Price 1500
+Item "Submachine-gun Bizon 2 (9x18mm) folded" Level 3 Price 1500
 
 Item "SMG ammo clip (AEK919K/20)" Level 1 Price 20.0
 Item "SMG ammo clip (AEK919K/30)" Level 1 Price 30.0
 
 Item "PP90" Level 2 Price 900
+Item "PP90 folded" Level 2 Price 900
 Item "PP92" Level 2 Price 1000
+Item "PP92 folded" Level 2 Price 1000
 Item "Submachine-gun PP93 (9mm)" Level 3 Price 800
+Item "Submachine-gun PP93 (9mm) folded" Level 3 Price 800
 Item "PP2000" Level 3 Price 1500
+Item "PP2000 folded" Level 3 Price 1500
 Item "SMG ammo clip (PP2000/20)" Level 1 Price 30
 Item "SMG ammo clip (PP2000/44)" Level 1 Price 60
 Item "Submachine-gun Kiparis (9mm)" Level 3 Price 1200
+Item "Submachine-gun Kiparis (9mm) folded" Level 3 Price 1200
 Item "SMG ammo clip (Kiparis/30)" Level 1 Price 40
 
 Item "Submachine-gun PM63 (9mm)" Level 2 Price 970
+Item "Submachine-gun PM63 (9mm) folded" Level 2 Price 970
 Item "Submachine-gun PM84 (9mm)" Level 3 Price 820
+Item "Submachine-gun PM84 (9mm) folded" Level 3 Price 820
 Item "Submachine-gun T82 (7.62x25mm)" Level 2 Price 1000
+Item "Submachine-gun T82 (7.62x25mm) folded" Level 2 Price 1000
 
 Item "SMG ammo clip (PM63/15)" Level 1 Price 37
 Item "SMG ammo clip (PM63/25)" Level 1 Price 62
@@ -1834,23 +2047,35 @@ Item "Pistol OTs-33 Pernach (9x18mm)" Level 3 Price 900
 Item "Pistol clip (APS/20)" Level 1 Price 50.0
 
 Item "Pistol APB (9x18mm)" Level 2 Price 1050
+Item "Pistol APB (9x18mm) folded" Level 2 Price 1050
 Item "Pistol APS (9x18mm)" Level 1 Price 750
+Item "Pistol APS (9x18mm) folded" Level 1 Price 750
 
 Item "Submachine-gun M92 Pistol AUTO No Stock (7.62mm)" Level 4 Price 1400
 Item "Submachine-gun M92 Pistol AUTO (7.62mm)" Level 5 Price 1800
+Item "Submachine-gun M92 Pistol AUTO (7.62mm) folded" Level 5 Price 1800
 
 Item "Assault Rifle 9A91 (9x39mm)" Level 4 Price 2400
+Item "Assault Rifle 9A91 (9x39mm) folded" Level 4 Price 2400
 Item "Rifle ammo clip (9a91/20)" Level 2 Price 20
 Item "Double rifle ammo clip (9a91/40)" Level 3 Price 40
 
 Item "Shotgun VEPR12K (12ga)" Level 5 Price 2200
+Item "Shotgun VEPR12K (12ga) folded" Level 5 Price 2200
 Item "Shotgun VEPR12 (12ga)" Level 3 Price 1600
+Item "Shotgun VEPR12 (12ga) folded" Level 3 Price 1600
 Item "Shotgun VEPR12 MAGPUL (12ga)" Level 3 Price 1600
+Item "Shotgun VEPR12 MAGPUL (12ga) folded" Level 3 Price 1600
 Item "Shotgun VEPR12 LB (12ga)" Level 4 Price 1700
+Item "Shotgun VEPR12 LB (12ga) folded" Level 4 Price 1700
 Item "Shotgun VEPR12 LB MAGPUL (12ga)" Level 4 Price 1700
+Item "Shotgun VEPR12 LB MAGPUL (12ga) folded" Level 4 Price 1700
 Item "Shotgun VEPR12 LB LB (12ga)" Level 4 Price 1800
+Item "Shotgun VEPR12 LB LB (12ga) folded" Level 4 Price 1800
 Item "Shotgun VEPR12 LB LB MAGPUL (12ga)" Level 4 Price 1800
+Item "Shotgun VEPR12 LB LB MAGPUL (12ga) folded" Level 4 Price 1800
 Item "Shotgun DBV12 (12ga)" Level 4 Price 2000
+Item "Shotgun DBV12 (12ga) folded" Level 4 Price 2000
 Item "Shotgun ammo clip (VEPR12/5)" Level 2 Price 30
 Item "Shotgun ammo clip (VEPR12/10)" Level 2 Price 50
 
@@ -1862,7 +2087,9 @@ Item "Shotgun ammo clip (Saiga/8)" Level 2 Price 8.0
 Item "Shotgun ammo clip (Saiga/20)" Level 2 Price 180
 
 Item "Shotgun Saiga12K (12ga)" Level 3 Price 1300
+Item "Shotgun Saiga12K (12ga) folded" Level 3 Price 1300
 Item "Shotgun Saiga12-30 (12ga)" Level 4 Price 1500
+Item "Shotgun Saiga12-30 (12ga) folded" Level 4 Price 1500
 
 /////////==========
 /////////RIFLES
@@ -1870,6 +2097,7 @@ Item "Shotgun Saiga12-30 (12ga)" Level 4 Price 1500
 
 Item "Pallad GL" Level 5 Price 900
 Item "Pallad Standalone" Level 5 Price 900
+Item "Pallad Standalone folded" Level 5 Price 900
 
 Item "Ammo box (PKM 7.62/150)" Level 7 Price 100
 
@@ -1879,6 +2107,7 @@ Item "Machinegun RPK (7.62x39mm)" Level 8 Price 2500
 Item "Machinegun RPKN (7.62x39mm)" Level 8 Price 2550
 Item "Chain-gun PKMN (7.62x54mm)" Level 10 Price 4200
 Item "Machinegun RPK-74M (5.45mm)" Level 9 Price 2600
+Item "Machinegun RPK-74M (5.45mm) folded" Level 9 Price 2600
 Item "Chain-gun PKMN Type 86 (7.62x54mm)" Level 9 Price 3500
 Item "Machinegun RPK-74 (5.45mm)" Level 7 Price 2300
 Item "Machinegun RPK-74N (5.45mm)" Level 8 Price 2400
@@ -1900,6 +2129,7 @@ Item "Sniper Rifle SVT-40 (7.62x54R)" Level 3 Price 980
 
 Item "Sniper Rifle Dragunov SVD (7.62x54mm)" Level 9 Price 3300
 Item "Sniper Rifle Dragunov SVD-S (7.62x54mm)" Level 9 Price 3200
+Item "Sniper Rifle Dragunov SVD-S (7.62x54mm) folded" Level 9 Price 3200
 
 Item "Silenced Sniper Rifle VSK-94 (9x39mm)" Level 6 Price 3200
 
@@ -1918,16 +2148,24 @@ Item "Assaul Rifle SA Vz.58P CQC" Level 6 Price 1300
 Item "Assaul Rifle SA Vz.58P CAR" Level 7 Price 1500
 Item "Assaul Rifle SA Vz.58P" Level 8 Price 1900
 Item "Assaul Rifle SA Vz.58 CQC" Level 6 Price 1400
+Item "Assaul Rifle SA Vz.58 CQC folded" Level 6 Price 1400
 Item "Assaul Rifle SA Vz.58 CAR" Level 7 Price 1600
+Item "Assaul Rifle SA Vz.58 CAR folded" Level 7 Price 1600
 Item "Assaul Rifle SA Vz.58" Level 8 Price 2000
+Item "Assaul Rifle SA Vz.58 folded" Level 8 Price 2000
 Item "Assaul Rifle SA Vz.58 Mod CQC" Level 7 Price 1600
+Item "Assaul Rifle SA Vz.58 Mod CQC folded" Level 7 Price 1600
 Item "Assaul Rifle SA Vz.58 Mod CAR" Level 8 Price 1900
+Item "Assaul Rifle SA Vz.58 Mod CAR folded" Level 8 Price 1900
 Item "Assaul Rifle SA Vz.58 Mod" Level 9 Price 2200
+Item "Assaul Rifle SA Vz.58 Mod folded" Level 9 Price 2200
 
 Item "Assaul Rifle Type81S" Level 8 Price 2300
 Item "Assaul Rifle Type81" Level 8 Price 2400
+Item "Assaul Rifle Type81 folded" Level 8 Price 2400
 Item "Assaul Rifle Type81S Tac" Level 10 Price 2800
 Item "Assaul Rifle Type81 Tac" Level 10 Price 2900
+Item "Assaul Rifle Type81 Tac folded" Level 10 Price 2900
 Item "Rifle ammo clip (T81 7.62/30)" Level 2 Price 8
 Item "Double rifle ammo clip (T81 7.62/60)" Level 2 Price 16
 Item "Ammo drum clip (T81 7.62/75)" Level 6 Price 90
@@ -1936,70 +2174,101 @@ Item "Machinegun Type81 (7.62x39mm)" Level 8 Price 2300
 
 Item "Assault Rifle AK47N Real (7.62x39mm)" Level 6 Price 900
 Item "Assault Rifle AKS-74UN (5.45mm)" Level 6 Price 1100
+Item "Assault Rifle AKS-74UN (5.45mm) folded" Level 6 Price 1100
 Item "Assault Rifle Zastava M92N (7.62x39mm)" Level 6 Price 1200
+Item "Assault Rifle Zastava M92N (7.62x39mm) folded" Level 6 Price 1200
 Item "Assault Rifle AKMSUN (7.62x39mm)" Level 5 Price 1500
+Item "Assault Rifle AKMSUN (7.62x39mm) folded" Level 5 Price 1500
 Item "Assault Rifle Krinkov (7.62x39mm)" Level 4 Price 1400
+Item "Assault Rifle Krinkov (7.62x39mm) folded" Level 4 Price 1400
 Item "Assault Rifle SC2026 (7.62x39mm)" Level 9 Price 2500
+Item "Assault Rifle SC2026 (7.62x39mm) folded" Level 9 Price 2500
 
 Item "Assault Rifle RK62 (7.62x39mm)" Level 8 Price 2300
 Item "Assault Rifle RK71 (7.62)" Level 9 Price 2700
+Item "Assault Rifle RK71 (7.62) folded" Level 9 Price 2700
 Item "Assault Rifle RK71T (7.62)" Level 9 Price 2600
 Item "Assault Rifle RK71P (7.62)" Level 9 Price 2600
 Item "Assault Rifle RK71W (7.62)" Level 9 Price 2600
 Item "Assault Rifle RK71W2 (7.62)" Level 9 Price 2600
 Item "Assault Rifle RK76 (7.62x39mm)" Level 10 Price 3000
+Item "Assault Rifle RK76 (7.62x39mm) folded" Level 10 Price 3000
 Item "Assault Rifle RK76T (7.62x39mm)" Level 10 Price 2800
 Item "Assault Rifle RK76P (7.62x39mm)" Level 10 Price 2800
 Item "Assault Rifle RK76W (7.62x39mm)" Level 10 Price 2800
 Item "Assault Rifle Rk95 (7.62mm)" Level 11 Price 3400
+Item "Assault Rifle Rk95 (7.62mm) folded" Level 11 Price 3400
 
 Item "Assault Rifle AK-74N (5.45mm)" Level 7 Price 1700
 Item "Assault Rifle AKS-74N (5.45mm)" Level 7 Price 1800
+Item "Assault Rifle AKS-74N (5.45mm) folded" Level 7 Price 1800
 Item "Assault Rifle MD86C (5.45x39mm)" Level 5 Price 1000
+Item "Assault Rifle MD86C (5.45x39mm) folded" Level 5 Price 1000
 Item "Assault Rifle MD86 (5.45x39mm)" Level 6 Price 1400
+Item "Assault Rifle MD86 (5.45x39mm) folded" Level 6 Price 1400
 Item "Assault Rifle AKM-63F (7.62x39mm)" Level 8 Price 1800
 Item "Assault Rifle AKM-63D (7.62x39mm)" Level 8 Price 1900
+Item "Assault Rifle AKM-63D (7.62x39mm) folded" Level 8 Price 1900
 Item "Assault Rifle AMD65 (7.62x39mm)" Level 7 Price 1200
+Item "Assault Rifle AMD65 (7.62x39mm) folded" Level 7 Price 1200
 Item "Assault Rifle AK-63F (7.62x39mm)" Level 8 Price 1700
 Item "Assault Rifle AK-63D (7.62x39mm)" Level 8 Price 1700
+Item "Assault Rifle AK-63D (7.62x39mm) folded" Level 8 Price 1700
 Item "Assault Rifle FEG NGM-81 (5.45x39mm)" Level 8 Price 1600
 Item "Assault Rifle NGV-81 (5.45x39mm)" Level 8 Price 1700
+Item "Assault Rifle NGV-81 (5.45x39mm) folded" Level 8 Price 1700
 
 Item "Assault Rifle MPIKM74 (5.45x39mm)" Level 7 Price 1500
 Item "Assault Rifle MPIKMS74 (5.45x39mm)" Level 7 Price 1600
+Item "Assault Rifle MPIKMS74 (5.45x39mm) folded" Level 7 Price 1600
 Item "Assault Rifle MPIKMS74 Carbine (5.45x39mm)" Level 5 Price 1200
+Item "Assault Rifle MPIKMS74 Carbine (5.45x39mm) folded" Level 5 Price 1200
 Item "Assault Rifle Tantal (5.45mm)" Level 8 Price 2000
+Item "Assault Rifle Tantal (5.45mm) folded" Level 8 Price 2000
 Item "Assault Rifle Tantal WR (5.45mm)" Level 9 Price 2200
+Item "Assault Rifle Tantal WR (5.45mm) folded" Level 9 Price 2200
 Item "Assault Rifle Tantal Black (5.45mm)" Level 8 Price 2000
+Item "Assault Rifle Tantal Black (5.45mm) folded" Level 8 Price 2000
 Item "Assault Rifle Tantal Black WR (5.45mm)" Level 9 Price 2200
+Item "Assault Rifle Tantal Black WR (5.45mm) folded" Level 9 Price 2200
 
 Item "Assault Rifle Zastava M-70N (7.62x39mm)" Level 8 Price 1400
 Item "Assault Rifle Zastava M-70AN (7.62x39mm)" Level 8 Price 1450
+Item "Assault Rifle Zastava M-70AN (7.62x39mm) folded" Level 8 Price 1450
 
 Item "Assault Rifle AK-105 (5.45x39mm)" Level 6 Price 2000
+Item "Assault Rifle AK-105 (5.45x39mm) folded" Level 6 Price 2000
 
 Item "Assault Rifle AK-103 (7.62x39mm)" Level 9 Price 2600
+Item "Assault Rifle AK-103 (7.62x39mm) folded" Level 9 Price 2600
 Item "Assault Rifle AK-104 (7.62x39mm)" Level 6 Price 1900
+Item "Assault Rifle AK-104 (7.62x39mm) folded" Level 6 Price 1900
 
 Item "Assault Rifle AEK-973 (7.62x39mm)" Level 9 Price 2800
+Item "Assault Rifle AEK-973 (7.62x39mm) folded" Level 9 Price 2800
 
 Item "Assault Rifle Groza-1AK" Level 7 Price 2400
 Item "Assault Rifle Groza-2AK" Level 7 Price 2400
 Item "Assault Rifle Groza-3AK" Level 7 Price 2400
 Item "Assault Rifle OTS-12 Tiss (9x39mm)" Level 5 Price 2100
+Item "Assault Rifle OTS-12 Tiss (9x39mm) folded" Level 5 Price 2100
 
 Item "Rifle ammo clip (AK9/20)" Level 4 Price 20
 Item "Double rifle ammo clip (AK9/40)" Level 4 Price 40
 
 Item "Assault Rifle AEK-971 (5.45mm)" Level 9 Price 2700
+Item "Assault Rifle AEK-971 (5.45mm) folded" Level 9 Price 2700
 
 Item "Assault Rifle AKS-74U (5.45mm)" Level 4 Price 1000
+Item "Assault Rifle AKS-74U (5.45mm) folded" Level 4 Price 1000
 
 Item "Assault Rifle AK-74 (5.45mm)" Level 6 Price 1600
 
 Item "Assault Rifle AK-74M (5.45mm)" Level 9 Price 2400
+Item "Assault Rifle AK-74M (5.45mm) folded" Level 9 Price 2400
 
 Item "Assault Rifle AS VAL (9x39mm)" Level 6 Price 3000
+Item "Assault Rifle AS VAL (9x39mm) folded" Level 6 Price 3000
 
 Item "Assault Rifle Groza-1 (9x39mm)" Level 7 Price 2400
 Item "Assault Rifle Groza-2 (9x39mm)" Level 7 Price 2400
@@ -2007,11 +2276,14 @@ Item "Assault Rifle Groza-3 (9x39mm)" Level 7 Price 2400
 Item "Rifle ammo clip (Groza/20)" Level 2 Price 10.0
 
 Item "Submachine-gun AEK919K (9x18mm)" Level 2 Price 900.0
+Item "Submachine-gun AEK919K (9x18mm) folded" Level 2 Price 900.0
 
 Item "Shotgun KS-23 (23mm)" Level 4 Price 2000.0
+Item "Shotgun KS-23 (23mm) folded" Level 4 Price 2000.0
 Item "Shotgun TOZ-123 (23mm)" Level 3 Price 1800
 
 Item "Assault Rifle AKMSN (7.62x39mm)" Level 7 Price 1100
+Item "Assault Rifle AKMSN (7.62x39mm) folded" Level 7 Price 1100
 Item "Assault Rifle AKMN (7.62x39mm)" Level 7 Price 1000
 
 Item "Carabine M59 (7.62x39mm)" Level 3 Price 700
@@ -2020,23 +2292,30 @@ Item "Carabine SKS (7.62x39mm)" Level 3 Price 550
 Item "Carabine Type 56 (7.62x39mm)" Level 3 Price 300
 
 Item "Assault Rifle AK47 (7.62x39mm)" Level 5 Price 750
+Item "Assault Rifle AK47 (7.62x39mm) folded" Level 5 Price 750
 
 Item "Assault Rifle AK47N (7.62x39mm)" Level 6 Price 850
+Item "Assault Rifle AK47N (7.62x39mm) folded" Level 6 Price 850
 
 Item "Assault Rifle AK-47 (7.62x39mm)" Level 5 Price 700
 Item "Assault Rifle AKM (7.62x39mm)" Level 5 Price 800
 
 Item "Assault Rifle AKMS (7.62x39mm)" Level 5 Price 850
+Item "Assault Rifle AKMS (7.62x39mm) folded" Level 5 Price 850
 
 Item "Assault Rifle Zastava M70B1 (7.62x39mm)" Level 6 Price 1300
 Item "Assault Rifle Zastava M70AB2 (7.62x39mm)" Level 7 Price 1350
+Item "Assault Rifle Zastava M70AB2 (7.62x39mm) folded" Level 7 Price 1350
 
 Item "Assault Rifle Zastava M92 (7.62mm)" Level 4 Price 1100
+Item "Assault Rifle Zastava M92 (7.62mm) folded" Level 4 Price 1100
 
 Item "Assault Rifle MPi-KM (7.62x39mm)" Level 6 Price 1250
 Item "Assault Rifle MPi-KMS (7.62x39mm)" Level 6 Price 1350
+Item "Assault Rifle MPi-KMS (7.62x39mm) folded" Level 6 Price 1350
 
 Item "Assault Rifle MPi-KMS-K (7.62x39mm)" Level 4 Price 950
+Item "Assault Rifle MPi-KMS-K (7.62x39mm) folded" Level 4 Price 950
 
 Item "Assault Rifle Maadi MISR (7.62x39mm)" Level 4 Price 720
 
@@ -2045,27 +2324,36 @@ Item "Assault Rifle KBKG N (7.62x39mm)" Level 5 Price 950
 
 Item "Assault Rifle MD63 (7.62x39mm)" Level 6 Price 1000
 Item "Assault Rifle MD65 (7.62x39mm)" Level 6 Price 1100
+Item "Assault Rifle MD65 (7.62x39mm) folded" Level 6 Price 1100
 
 Item "Assault Rifle MD90 (7.62x39mm)" Level 5 Price 900
+Item "Assault Rifle MD90 (7.62x39mm) folded" Level 5 Price 900
 Item "Assault Rifle MD90 LB (7.62x39mm)" Level 7 Price 1300
+Item "Assault Rifle MD90 LB (7.62x39mm) folded" Level 7 Price 1300
 Item "Assault Rifle Type56-1 Y (7.62x39mm)" Level 5 Price 600
+Item "Assault Rifle Type56-1 Y (7.62x39mm) folded" Level 5 Price 600
 Item "Assault Rifle Type 56 Y (7.62x39mm)" Level 5 Price 600
 
 Item "Assault Rifle Type 63 (7.62x39mm)" Level 4 Price 450
 
 Item "Assault Rifle Type 56 (7.62x39mm)" Level 5 Price 600
 Item "Assault Rifle Type56-1 (7.62x39mm)" Level 5 Price 600
+Item "Assault Rifle Type56-1 (7.62x39mm) folded" Level 5 Price 600
 Item "Assault Rifle Type56-2 (7.62x39mm)" Level 6 Price 1000
+Item "Assault Rifle Type56-2 (7.62x39mm) folded" Level 6 Price 1000
 Item "Assault Rifle Type 56C (7.62x39mm)" Level 4 Price 700
+Item "Assault Rifle Type 56C (7.62x39mm) folded" Level 4 Price 700
 
 Item "Machinegun RPD (7.62x39mm)" Level 7 Price 1050
 
 Item "Machinegun RPD Type 56 (7.62x39mm)" Level 8 Price 950
 
 Item "Sniper Rifle SVDK (Brenneke)" Level 12 Price 9400
+Item "Sniper Rifle SVDK (Brenneke) folded" Level 12 Price 9400
 Item "Rifle clip (SVDK/10)" Level 10 Price 40
 
 Item "Striker (12ga)" Level 3 Price 1100
+Item "Striker (12ga) folded" Level 3 Price 1100
 
 Item "SMG ammo clip (MAT-49Viet/35)" Level 1 Price 45
 
@@ -2139,6 +2427,7 @@ Item "Pistol Llama (Largo)" Level 1 Price 410
 Item "Pistol Llama Extra (Largo)" Level 1 Price 490
 
 Item "Pistol Astra 900 (Largo)" Level 1 Price 970
+Item "Pistol Astra 900 (Largo) folded" Level 1 Price 970
 Item "Pistol Star A Super (Largo)" Level 1 Price 320
 
 Item "Pistol NP-58 (.40)" Level 1 Price 600
@@ -2206,39 +2495,57 @@ Item "Pistol HSC B (380)" Level 1 Price 110
 Item "Pistol FEG37 (380)" Level 1 Price 120
 
 Item "Submachine-gun Micro UZI (9mm)" Level 2 Price 1050
+Item "Submachine-gun Micro UZI (9mm) folded" Level 2 Price 1050
 
 Item "Submachine-gun Mini UZI (9mm)" Level 3 Price 1200
+Item "Submachine-gun Mini UZI (9mm) folded" Level 3 Price 1200
 
 Item "Submachine-gun HK MP5KA4 (9mm)" Level 3 Price 1300
 Item "Submachine-gun HK MP5PDW (9mm)" Level 4 Price 1400
+Item "Submachine-gun HK MP5PDW (9mm) folded" Level 4 Price 1400
 
 Item "Submachine-gun MP40 (9mm)" Level 2 Price 500
+Item "Submachine-gun MP40 (9mm) folded" Level 2 Price 500
 
 Item "Submachine-gun MAT49 (9mm)" Level 3 Price 650
+Item "Submachine-gun MAT49 (9mm) folded" Level 3 Price 650
 
 Item "Submachine-gun Sterling L2A3 (9mm)" Level 2 Price 580
+Item "Submachine-gun Sterling L2A3 (9mm) folded" Level 2 Price 580
 
 Item "Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
+Item "Submachine-gun M3A1 (.45 ACP) folded" Level 2 Price 400
 
 Item "Submachine-gun MAC-10 (.45 ACP)" Level 3 Price 700
+Item "Submachine-gun MAC-10 (.45 ACP) folded" Level 3 Price 700
 
 Item "Submachine-gun NR-08 (9mm)" Level 3 Price 1300
+Item "Submachine-gun NR-08 (9mm) folded" Level 3 Price 1300
 Item "Submachine-gun CETME C2 (9mm)" Level 2 Price 630
+Item "Submachine-gun CETME C2 (9mm) folded" Level 2 Price 630
 
 Item "Submachine-gun M3A1 (9mm)" Level 2 Price 300
+Item "Submachine-gun M3A1 (9mm) folded" Level 2 Price 300
 
 Item "Submachine-gun Sten (9mm)" Level 2 Price 190
 Item "Carl Gustaf Kpist M45 (9mm)" Level 4 Price 780
+Item "Carl Gustaf Kpist M45 (9mm) folded" Level 4 Price 780
 
 Item "Carl Gustaf Kpist M50 (9mm)" Level 3 Price 520
+Item "Carl Gustaf Kpist M50 (9mm) folded" Level 3 Price 520
 Item "Carl Gustaf Kpist INA (9mm)" Level 3 Price 400
+Item "Carl Gustaf Kpist INA (9mm) folded" Level 3 Price 400
 Item "Carl Gustaf Kpist M45 (45)" Level 4 Price 580
+Item "Carl Gustaf Kpist M45 (45) folded" Level 4 Price 580
 
 Item "Submachine-gun VZ82 (380)" Level 1 Price 430
+Item "Submachine-gun VZ82 (380) folded" Level 1 Price 430
 
 Item "Submachine-gun Vz61 (7.65mm)" Level 1 Price 370
+Item "Submachine-gun Vz61 (7.65mm) folded" Level 1 Price 370
 
 Item "Submachine-gun KG-99 AUTO (9mm)" Level 3 Price 900
+Item "Submachine-gun KG-99 AUTO (9mm) folded" Level 3 Price 900
 Item "Submachine-gun TEC-9 AUTO (9mm)" Level 2 Price 600
 Item "Submachine-gun TEC-9 AUTO Mini (9mm)" Level 2 Price 450
 Item "Submachine-gun AB-10 AUTO (9mm)" Level 1 Price 360
@@ -2246,9 +2553,12 @@ Item "Submachine-gun AB-10 AUTO (9mm)" Level 1 Price 360
 Item "A2000" Level 3 Price 1000
 
 Item "Submachine-gun RATMIL md96 (9mm)" Level 2 Price 560
+Item "Submachine-gun RATMIL md96 (9mm) folded" Level 2 Price 560
 Item "Submachine-gun MAC-10 (380)" Level 1 Price 480
+Item "Submachine-gun MAC-10 (380) folded" Level 1 Price 480
 Item "Submachine-gun Mini MAC-11 (9mm)" Level 2 Price 520
 Item "Submachine-gun MAC-11 (9mm)" Level 2 Price 660
+Item "Submachine-gun MAC-11 (9mm) folded" Level 2 Price 660
 
 Item "Shotgun Ithaca 37 (12ga)" Level 1 Price 450
 
@@ -2281,6 +2591,7 @@ Item "Carabine M305 (7.62x51mm)" Level 4 Price 1500
 Item "Carabine Mini68 (6.8x43mm)" Level 4 Price 1200
 
 Item "Assault Rifle AR-15A2 (5.56mm)" Level 5 Price 1600
+Item "Assault Rifle AR-15A2 (5.56mm) folded" Level 5 Price 1600
 
 Item "Assault Rifle Sporter Lightweight (5.56mm)" Level 4 Price 1500
 
@@ -2297,25 +2608,38 @@ Item "Assault Rifle 1C (7.62x51mm)" Level 7 Price 1750
 
 Item "Assault Rifle CETME L (5.56)" Level 6 Price 1400
 Item "Assault Rifle CETME LC (5.56)" Level 5 Price 1200
+Item "Assault Rifle CETME LC (5.56) folded" Level 5 Price 1200
 Item "Assault Rifle CETME (7.62x51mm)" Level 6 Price 1700
 
 Item "Armalite" Level 6 Price 1900
+Item "Armalite folded" Level 6 Price 1900
 
 Item "Small Assault Rifle CAR-15 (5.56mm)" Level 5 Price 1100
+Item "Small Assault Rifle CAR-15 (5.56mm) folded" Level 5 Price 1100
 Item "Small Assault Rifle CAR-15 M619 (5.56mm)" Level 6 Price 1400
+Item "Small Assault Rifle CAR-15 M619 (5.56mm) folded" Level 6 Price 1400
 Item "Small Assault Rifle CAR-15 New (5.56mm)" Level 5 Price 1250
+Item "Small Assault Rifle CAR-15 New (5.56mm) folded" Level 5 Price 1250
 Item "Small Assault Rifle CAR-15 M639 (5.56mm)" Level 6 Price 1500
+Item "Small Assault Rifle CAR-15 M639 (5.56mm) folded" Level 6 Price 1500
 Item "Small Assault Rifle CAR-15 M640 (5.56mm)" Level 6 Price 1350
+Item "Small Assault Rifle CAR-15 M640 (5.56mm) folded" Level 6 Price 1350
 Item "Assault Rifle M651 (5.56mm)" Level 7 Price 1800
 Item "Assault Rifle M652 (5.56mm)" Level 6 Price 1650
 Item "Assault Rifle M653 (5.56mm)" Level 7 Price 2000
+Item "Assault Rifle M653 (5.56mm) folded" Level 7 Price 2000
 Item "Assault Rifle M654 (5.56mm)" Level 7 Price 1850
+Item "Assault Rifle M654 (5.56mm) folded" Level 7 Price 1850
 
 Item "Assault Rifle Colt 723 (5.56mm)" Level 7 Price 2100
+Item "Assault Rifle Colt 723 (5.56mm) folded" Level 7 Price 2100
 Item "Assault Rifle CAR-15 (5.56mm)" Level 7 Price 2100
+Item "Assault Rifle CAR-15 (5.56mm) folded" Level 7 Price 2100
 Item "Assault Rifle Colt 727 (5.56mm)" Level 7 Price 2300
+Item "Assault Rifle Colt 727 (5.56mm) folded" Level 7 Price 2300
 
 Item "Assault Rifle CQA (5.56mm)" Level 6 Price 2000
+Item "Assault Rifle CQA (5.56mm) folded" Level 6 Price 2000
 
 Item "Assault Rifle T65 (5.56mm)" Level 7 Price 2000
 Item "Assault Rifle T65 BK (5.56mm)" Level 7 Price 2000
@@ -2324,33 +2648,48 @@ Item "Assault Rifle T65K1 BK (5.56mm)" Level 8 Price 2600
 Item "Assault Rifle T65K2 (5.56mm)" Level 8 Price 2600
 Item "Assault Rifle T65K2 BK (5.56mm)" Level 8 Price 2600
 Item "Assault Rifle T65K2 Carbine (5.56mm)" Level 7 Price 2500
+Item "Assault Rifle T65K2 Carbine (5.56mm) folded" Level 7 Price 2500
 Item "Assault Rifle T65K2 Carbine BK (5.56mm)" Level 7 Price 2500
+Item "Assault Rifle T65K2 Carbine BK (5.56mm) folded" Level 7 Price 2500
 Item "Assault Rifle T65K3 (5.56mm)" Level 7 Price 2550
 Item "Assault Rifle T65K3 BK (5.56mm)" Level 7 Price 2550
 
 Item "Assault Rifle AR70 (5.56mm)" Level 6 Price 1700
 Item "Assault Rifle AR70S (5.56mm)" Level 6 Price 1800
+Item "Assault Rifle AR70S (5.56mm) folded" Level 6 Price 1800
 
 Item "Assault Rifle AR70 CAR (5.56mm)" Level 5 Price 1400
+Item "Assault Rifle AR70 CAR (5.56mm) folded" Level 5 Price 1400
 
 Item "Assault Rifle Galil AR (5.56mm)" Level 8 Price 2700
+Item "Assault Rifle Galil AR (5.56mm) folded" Level 8 Price 2700
 Item "Assault Rifle Galil ARM (5.56mm)" Level 8 Price 2800
+Item "Assault Rifle Galil ARM (5.56mm) folded" Level 8 Price 2800
 Item "Assault Rifle Galil SAR (5.56mm)" Level 6 Price 2300
+Item "Assault Rifle Galil SAR (5.56mm) folded" Level 6 Price 2300
 
 Item "Assault Rifle SG542 (7.62x51mm)" Level 7 Price 2650
 Item "Assault Rifle SG543 (5.56mm)" Level 4 Price 1900
+Item "Assault Rifle SG543 (5.56mm) folded" Level 4 Price 1900
 
 Item "Assault Rifle SG540 (5.56)" Level 6 Price 2000
 Item "Assault Rifle SG540 F (5.56)" Level 6 Price 2100
+Item "Assault Rifle SG540 F (5.56) folded" Level 6 Price 2100
 Item "Assault Rifle SG542 F (7.62x51mm)" Level 7 Price 2800
+Item "Assault Rifle SG542 F (7.62x51mm) folded" Level 7 Price 2800
 
 Item "Assault Rifle Colt Commando 733" Level 6 Price 1900
+Item "Assault Rifle Colt Commando 733 folded" Level 6 Price 1900
 Item "Assault Rifle Colt Commando 933" Level 7 Price 2100
+Item "Assault Rifle Colt Commando 933 folded" Level 7 Price 2100
 
 Item "Carabine IMBEL MD-97LC (5.56mm)" Level 4 Price 1300
+Item "Carabine IMBEL MD-97LC (5.56mm) folded" Level 4 Price 1300
 Item "Assault Rifle IMBEL MD-97L (5.56mm)" Level 6 Price 2100
+Item "Assault Rifle IMBEL MD-97L (5.56mm) folded" Level 6 Price 2100
 
 Item "Carabine Imbel MD-2A1 (5.56mm)" Level 6 Price 1660
+Item "Carabine Imbel MD-2A1 (5.56mm) folded" Level 6 Price 1660
 
 Item "BAR" Level 2 Price 600
 Item "M1918 BAR" Level 2 Price 700
@@ -2463,6 +2802,7 @@ Item "RPG-2 Grenade" Level 1 Price 200
 Item "rpg-2" Level 2 Price 600
 
 Item "Launcher RG-6" Level 8 Price 1700
+Item "Launcher RG-6 folded" Level 8 Price 1700
 Item "Launcher RPG-7" Level 6 Price 950
 Item "Rockect Launcher RPG-18 'Muha'" Level 4 Price 500
 Item "RPO-A" Level 8 Price 2000
@@ -3242,25 +3582,39 @@ Item "Revolver Colt SAA 45_4 (.45 Colt)" Level 1 Price 390
 Item "Revolver Colt SAA 45_5 (.45 Colt)" Level 1 Price 540
 Item "Revolver Colt SAA 45_7 (.45 Colt)" Level 2 Price 610
 Item "Bizon 2 (380)" Level 2 Price 1200
+Item "Bizon 2 (380) folded" Level 2 Price 1200
 Item "Mossberg 500 v1" Level 2 Price 600
 Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
 Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 SB (12ga) folded" Level 2 Price 1100
 Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Baikal 153 (12ga) folded" Level 2 Price 1200
 Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
 Item "Assault Rifle Zastava M85 (5.56x45mm)" Level 5 Price 1200
+Item "Assault Rifle Zastava M85 (5.56x45mm) folded" Level 5 Price 1200
 Item "Assault Rifle Zastava M85N (5.56x45mm)" Level 6 Price 1300
+Item "Assault Rifle Zastava M85N (5.56x45mm) folded" Level 6 Price 1300
 Item "HCR Short AK47 pistol (7.62x39mm)" Level 1 Price 450
 Item "AK Pistol (7.62x39mm)" Level 1 Price 500
 Item "Assault Rifle Arsenal AR SF (5.56mm)" Level 3 Price 600
+Item "Assault Rifle Arsenal AR SF (5.56mm) folded" Level 3 Price 600
 Item "Assault Rifle Short-Barreled (7.62x39mm)" Level 1 Price 550
+Item "Assault Rifle Short-Barreled (7.62x39mm) folded" Level 1 Price 550
 Item "Submachine-gun Colt SMG (.45 ACP)" Level 5 Price 2000
+Item "Submachine-gun Colt SMG (.45 ACP) folded" Level 5 Price 2000
 Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Baikal 153 LB (12ga) folded" Level 3 Price 1300
 Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
 Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Shotgun M26 Mass (12ga) folded" Level 2 Price 1200
 Item "Shotgun Saiga12K (20ga)" Level 4 Price 1000
+Item "Shotgun Saiga12K (20ga) folded" Level 4 Price 1000
 Item "Shotgun Saiga12-30 (20ga)" Level 4 Price 1200
+Item "Shotgun Saiga12-30 (20ga) folded" Level 4 Price 1200
 Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M4A1 (5.56mm) folded" Level 8 Price 2600
 Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600
 Item "Assault Rifle AKS-74 (5.45mm)" Level 7 Price 1700
+Item "Assault Rifle AKS-74 (5.45mm) folded" Level 7 Price 1700
 Item "Sniper FRF1 (7.62)" Level 6 Price 2500
 Item "Machinegun Type 88 (5.8)" Level 8 Price 4000

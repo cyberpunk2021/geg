@@ -131,6 +131,7 @@ Item "Pistol Walther PPK (9x17mm)" Level 1 Price 200
 Item "Pistol Walther PPK (7.65x17mm) chrome" Level 1 Price 200
 
 Item "Pistol M712 (7.62x25mm)" Level 1 Price 250
+Item "Pistol M712 (7.62x25mm) folded" Level 1 Price 250
 
 Item "Pistol M.1911 A1 (.45 ACP)" Level 1 Price 570
 
@@ -161,7 +162,9 @@ Item "Submachine-gun PPD-40 (7.62x25mm)" Level 1 Price 510
 Item "Carabine M712 (7.63mm)" Level 1 Price 320
 
 Item "Submachine-gun Walter MPK (9mm)" Level 2 Price 1100
+Item "Submachine-gun Walter MPK (9mm) folded" Level 2 Price 1100
 Item "Submachine-gun Walter MPL (9mm)" Level 3 Price 1400
+Item "Submachine-gun Walter MPL (9mm) folded" Level 3 Price 1400
 
 Item "Rifle M1 Garand (.30-06)" Level 3 Price 650
 Item "Rifle Mauser Kar98k (7.92x57mm)" Level 3 Price 300
@@ -241,6 +244,7 @@ Item "Sniper G98a (7.62x54mm)" Level 3 Price 350
 Item "Sniper Karabiner 98k (7.62x54mm)" Level 4 Price 470
 
 Item "Sniper Rifle PZB39" Level 4 Price 2500
+Item "Sniper Rifle PZB39 folded" Level 4 Price 2500
 Item "Sniper Rifle WZ35" Level 3 Price 2200
 Item "Sniper Rifle PTRS41 (14.5mm)" Level 5 Price 2800
 Item "Assault Rifle Type 63 (7.62x39mm)" Level 4 Price 450
@@ -279,6 +283,7 @@ Item "Pistol Llama (Largo)" Level 1 Price 410
 Item "Pistol Llama Extra (Largo)" Level 1 Price 490
 
 Item "Pistol Astra 900 (Largo)" Level 1 Price 970
+Item "Pistol Astra 900 (Largo) folded" Level 1 Price 970
 Item "Pistol Star A Super (Largo)" Level 1 Price 320
 
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
@@ -329,26 +334,38 @@ Item "Pistol HSC B (380)" Level 1 Price 110
 Item "Pistol FEG37 (380)" Level 1 Price 120
 
 Item "Submachine-gun MP40 (9mm)" Level 2 Price 500
+Item "Submachine-gun MP40 (9mm) folded" Level 2 Price 500
 
 Item "Submachine-gun MAT49 (9mm)" Level 3 Price 650
+Item "Submachine-gun MAT49 (9mm) folded" Level 3 Price 650
 
 Item "Submachine-gun Sterling L2A3 (9mm)" Level 2 Price 580
+Item "Submachine-gun Sterling L2A3 (9mm) folded" Level 2 Price 580
 
 Item "Submachine-gun M3A1 (.45 ACP)" Level 2 Price 400
+Item "Submachine-gun M3A1 (.45 ACP) folded" Level 2 Price 400
 
 Item "Submachine-gun CETME C2 (9mm)" Level 2 Price 630
+Item "Submachine-gun CETME C2 (9mm) folded" Level 2 Price 630
 
 Item "Submachine-gun Type 85 (7.62x25mm)" Level 2 Price 160
+Item "Submachine-gun Type 85 (7.62x25mm) folded" Level 2 Price 160
 Item "Submachine-gun Type 79 (7.62x25mm)" Level 3 Price 220
+Item "Submachine-gun Type 79 (7.62x25mm) folded" Level 3 Price 220
 Item "Submachine-gun K50M (7.62x25mm)" Level 3 Price 400
+Item "Submachine-gun K50M (7.62x25mm) folded" Level 3 Price 400
 
 Item "Submachine-gun M3A1 (9mm)" Level 2 Price 300
+Item "Submachine-gun M3A1 (9mm) folded" Level 2 Price 300
 
 Item "Carl Gustaf Kpist M45 (9mm)" Level 4 Price 780
+Item "Carl Gustaf Kpist M45 (9mm) folded" Level 4 Price 780
 
 Item "MAT-49 (7.62x25)" Level 4 Price 700
+Item "MAT-49 (7.62x25) folded" Level 4 Price 700
 
 Item "Submachine-gun Type 54 (7.62x25mm)" Level 2 Price 420
+Item "Submachine-gun Type 54 (7.62x25mm) folded" Level 2 Price 420
 
 Item "Winchester 1892 trapper 12ga" Level 1 Price 240
 Item "Winchester 1892 carbine 12ga" Level 1 Price 370

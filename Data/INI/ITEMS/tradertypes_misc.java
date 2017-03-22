@@ -3,6 +3,7 @@
 /////////==========================
 
 Item "SIG550GL Standalone" Level 7 Price 1300
+Item "SIG550GL Standalone folded" Level 7 Price 1300
 
 /////////+++++++++
 /////////RIS / STOCKS / KITS
@@ -875,4 +876,3 @@ Item "PackedMedBox" Level 7 Price 8020
 Item "Canteen_g1" Level 16 Price 2600
 Item "Canteen_g2" Level 16 Price 2500
 Item "Drink_rum_general" Level 16 Price 1500
-
