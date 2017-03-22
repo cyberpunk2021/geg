@@ -1499,3 +1499,27 @@ Item "Rifle clip (SteyrScout/5)" Level 4 Price 45
 Item "Rifle clip (Scout Elite223/10)" Level 4 Price 20
 Item "Rifle clip (SteyrScout308/5)" Level 5 Price 45
 Item "Rifle clip (Scout Elite308/10)" Level 5 Price 30
+Item "SMG ammo clip (MX4/30)" Level 3 Price 20
+Item "SMG ammo clip (MX440/30)" Level 2 Price 25
+Item "SMG ammo clip (MX445/30)" Level 3 Price 20
+Item "Shotgun ammo clip (M26/5)" Level 2 Price 25
+
+// Missing weapons
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt MkIV Series70 (.45 ACP)" Level 3 Price 810
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Pistol Springfield Mil-Spec (.45 ACP)" Level 3 Price 950
+Item "Pistol Para GI Expert (.45 ACP)" Level 4 Price 920
+Item "Pistol Para LDA (.45 ACP)" Level 4 Price 1200
+Item "Pistol M1911A1 Accuratized (.45 ACP)" Level 3 Price 910
+Item "Submachine-gun MX4 (9mm)" Level 6 Price 2600
+Item "Submachine-gun MX4 (40)" Level 6 Price 2800
+Item "Submachine-gun MX4 (45)" Level 6 Price 2750
+Item "Submachine-gun Colt SMG (.45 ACP)" Level 5 Price 2000
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Shotgun Benelli M1 (12ga)" Level 3 Price 1000
+Item "Shotgun M26 Mass (12ga)" Level 2 Price 1200
+Item "Assault Rifle M16A1 HG CIV 715 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle M4A1 (5.56mm)" Level 8 Price 2600
+Item "Assault Rifle M16A2 HG (5.56mm)" Level 9 Price 2600

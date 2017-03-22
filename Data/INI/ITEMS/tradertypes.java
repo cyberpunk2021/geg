@@ -1167,3 +1167,29 @@ Item "SMG ammo clip (INA/30)" Level 1 Price 15
 Item "SMG ammo clip (VZ68/20)" Level 1 Price 25
 Item "Rifle ammo clip (AK 308/20)" Level 6 Price 80
 Item "Rifle ammo clip (M76/10)" Level 4 Price 25
+Item "Pistol clip (Astra80/15)" Level 1 Price 20
+Item "SMG plastic ammo clip (Bizon380/64)" Level 1 Price 45
+
+// Missing weapons
+Item "Pistol Astra 80 (Largo)" Level 2 Price 720
+Item "Pistol M.1911 A1 v2 (.45 ACP)" Level 1 Price 610
+Item "Pistol Colt Commander (.45 ACP)" Level 1 Price 730
+Item "Revolver Colt SAA 357_4 (.357 Magnum)" Level 1 Price 400
+Item "Revolver Colt SAA 357_5 (.357 Magnum)" Level 1 Price 550
+Item "Revolver Colt SAA 357_7 (.357 Magnum)" Level 2 Price 620
+Item "Revolver Colt SAA 45_4 (.45 Colt)" Level 1 Price 390
+Item "Revolver Colt SAA 45_5 (.45 Colt)" Level 1 Price 540
+Item "Revolver Colt SAA 45_7 (.45 Colt)" Level 2 Price 610
+Item "Bizon 2 (380)" Level 2 Price 1200
+Item "Mossberg 500 v1" Level 2 Price 600
+Item "Shotgun Remington M870 Express (12ga)" Level 1 Price 500
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Assault Rifle M16A1 HG CIV 715 (5.56mm)" Level 6 Price 1500
+Item "Assault Rifle FN FAL 50.00 (7.62x51mm)" Level 8 Price 2400
+Item "Assault Rifle Zastava M85 (5.56x45mm)" Level 5 Price 1200
+Item "Assault Rifle Zastava M85N (5.56x45mm)" Level 6 Price 1300
+Item "HCR Short AK47 pistol (7.62x39mm)" Level 1 Price 450
+Item "AK Pistol (7.62x39mm)" Level 1 Price 500
+Item "Assault Rifle Arsenal AR SF (5.56mm)" Level 3 Price 600
+Item "Assault Rifle Short-Barreled (7.62x39mm)" Level 1 Price 550

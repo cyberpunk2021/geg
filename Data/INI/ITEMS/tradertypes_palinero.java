@@ -947,3 +947,11 @@ Item "SMG ammo clip (T82/30)" Level 1 Price 25
 Item "SMG ammo clip (PM84/25)" Level 1 Price 55
 Item "Shotgun ammo clip (DBV/8)" Level 3 Price 40
 Item "Rifle ammo clip (VZ58/75)" Level 7 Price 130
+
+// Missing weapons
+Item "Baikal 153 SB (12ga)" Level 2 Price 1100
+Item "Baikal 153 (12ga)" Level 2 Price 1200
+Item "Baikal 153 LB (12ga)" Level 3 Price 1300
+Item "Assault Rifle AKS-74 (5.45mm)" Level 7 Price 1700
+Item "Machinegun RPK-12 (5.45mm)" Level 11 Price 3600
+Item "Machinegun RPK-12 (7.62x39mm)" Level 11 Price 3650

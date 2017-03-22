@@ -781,3 +781,11 @@ Item "Machinegun clip (Type 96/30)" Level 1 Price 30
 Item "Machinegun clip (Type 99/30)" Level 1 Price 40
 Item "Pistol clip (MAB/9)" Level 1 Price 10
 Item "Pistol clip (MAB/7)" Level 1 Price 15
+Item "Pistol clip (P210/8)" Level 1 Price 10
+Item "AEG magazine (M16)" Level 1 Price 50
+Item "Plastic AEG magazine (AK-74)" Level 1 Price 50
+
+// Missing weapons
+Item "Pistol SIG P210 (9mm)" Level 3 Price 1500
+Item "Airsoft Gun VFC HK416 AEG" Level 1 Price 800
+Item "Airsoft Gun SLR105A1 AEG" Level 1 Price 500
