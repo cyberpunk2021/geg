@@ -727,7 +727,7 @@ Item "Ammo box 500 (.375 FMJ)" Level 4 Price 100
 //.700 Nitro
 /////////
 
-Item "Ammo Box (700 nitro)"	Level 4 Price 0.001
+Item "Ammo Box (700 nitro)" Level 4 Price 0.001
 
 
 /////////
@@ -863,7 +863,7 @@ Item "Big Ammo box 500 (6.5 Arisaka SP)" Level 2 Price 100
 //7.7 Arisaka
 /////////
 
-Item "Big Ammo box (7.7 Arisaka FMJ)" Level 1 Price  0.001
+Item "Big Ammo box (7.7 Arisaka FMJ)" Level 1 Price 0.001
 Item "Big Ammo box (7.7 Arisaka SP)" Level 1 Price 0.001
 Item "Big Ammo box 500 (7.7 Arisaka FMJ)" Level 2 Price 100
 Item "Big Ammo box 500 (7.7 Arisaka SP)" Level 2 Price 100

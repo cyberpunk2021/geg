@@ -41,29 +41,29 @@ Item "SMG ammo clip (MP34/32)" Level 1 Price 35
 Item "SMG ammo clip (Suomi/71)" Level 1 Price 80
 Item "Rifle clip (AVS-36/15)" Level 1 Price 50
 Item "Assault Rifle clip (Fedorov/25)" Level 1 Price 35
-Item "Pistol clip (PPK/7.65)" Level 1 Price 		20
-Item "Pistol clip (PPK/S)" Level 1 Price 			20
-Item "Pistol clip (Mustang/6)" Level 1 Price 		10.0
+Item "Pistol clip (PPK/7.65)" Level 1 Price 20
+Item "Pistol clip (PPK/S)" Level 1 Price 20
+Item "Pistol clip (Mustang/6)" Level 1 Price 10.0
 
-Item "Double pistol clip (m712/40)" Level 1 Price                      80.0
-Item "Pistol clip (m712/10)" Level 1 Price                             30.0
-Item "Pistol clip (m712/20)" Level 1 Price                             40.0
-Item "Pistol clip (m712/30)" Level 1 Price 			50.0
-Item "Double pistol clip (m712/60)" Level 1 Price 		100.0
+Item "Double pistol clip (m712/40)" Level 1 Price 80.0
+Item "Pistol clip (m712/10)" Level 1 Price 30.0
+Item "Pistol clip (m712/20)" Level 1 Price 40.0
+Item "Pistol clip (m712/30)" Level 1 Price 50.0
+Item "Double pistol clip (m712/60)" Level 1 Price 100.0
 
-Item "SMG ammo clip (PPSH-41/35)" Level 1 Price 			70
-Item "Double SMG ammo clip (PPSH-41/70)" Level 1 Price 		140
-Item "SMG ammo clip (PPSH-41/71)" Level 2 Price 			200
+Item "SMG ammo clip (PPSH-41/35)" Level 1 Price 70
+Item "Double SMG ammo clip (PPSH-41/70)" Level 1 Price 140
+Item "SMG ammo clip (PPSH-41/71)" Level 2 Price 200
 
 Item "Pistol clip (Bayard/6)" Level 1 Price 10
 Item "Pistol clip (Bayard/10)" Level 1 Price 20
 Item "Sniper rifle clip (WZ35/4)" Level 2 Price 40
 
-Item "SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price                  40.0
-Item "SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price                  60.0
-Item "SMG ammo drum (Thompson/50)" Level 1 Price 			100.0
-Item "Double smg ammo clip (Thompson/40)" Level 1 Price                  80.0
-Item "Double smg ammo clip (Thompson/60)" Level 1 Price                  120.0
+Item "SMG ammo clip (Thompson-m1_CLIP20)" Level 1 Price 40.0
+Item "SMG ammo clip (Thompson-m1_CLIP30)" Level 1 Price 60.0
+Item "SMG ammo drum (Thompson/50)" Level 1 Price 100.0
+Item "Double smg ammo clip (Thompson/40)" Level 1 Price 80.0
+Item "Double smg ammo clip (Thompson/60)" Level 1 Price 120.0
 
 Item "Rifle clip (MAS49/10)" Level 1 Price 20
 Item "SMG ammo clip (MP18/30)" Level 1 Price 25
@@ -74,7 +74,7 @@ Item "SMG ammo clip (MAB38/30)" Level 1 Price 25
 Item "SMG ammo clip (Owen/33)" Level 1 Price 45
 
 Item "SMG ammo clip (MPL/32)" Level 1 Price 50
-Item "Rifle clip (Garand/8)" Level 1 Price 			10
+Item "Rifle clip (Garand/8)" Level 1 Price 10
 Item "Rifle clip (SVT-40/10)" Level 1 Price 30
 
 Item "Rifle clip (Gewehr 43/10)" Level 1 Price 40
@@ -125,14 +125,14 @@ Item "Pistol P38 (9mm)" Level 1 Price 340
 Item "Pistol VIS35 (9mm)" Level 2 Price 1000
 Item "Pistol VIS35 B (9mm)" Level 2 Price 1000
 
-Item "Pistol Walther PPK (7.65x17mm)" Level 1 Price		120
-Item "Pistol Walther PPK (9x17mm) chrome" Level 1 Price		250
-Item "Pistol Walther PPK (9x17mm)" Level 1 Price			200
+Item "Pistol Walther PPK (7.65x17mm)" Level 1 Price 120
+Item "Pistol Walther PPK (9x17mm) chrome" Level 1 Price 250
+Item "Pistol Walther PPK (9x17mm)" Level 1 Price 200
 Item "Pistol Walther PPK (7.65x17mm) chrome" Level 1 Price 200
 
-Item "Pistol M712 (7.62x25mm)"	Level 1 Price		250
+Item "Pistol M712 (7.62x25mm)" Level 1 Price 250
 
-Item "Pistol M.1911 A1 (.45 ACP)" Level 1 Price			570
+Item "Pistol M.1911 A1 (.45 ACP)" Level 1 Price 570
 
 Item "Pistol Norinco M.1911 A1 (.45 ACP)" Level 1 Price 430
 
@@ -144,10 +144,10 @@ Item "Revolver Remington Model 1858 (.45 Colt)" Level 1 Price 2000
 Item "Revolver Webley" Level 1 Price 420
 Item "Revolver Webley B" Level 1 Price 420
 Item "Pistol M.1911 A1 (.455)" Level 1 Price 450
-Item "Submachine-gun PPSH-41 (7.62x25mm)" Level 1 Price		750
+Item "Submachine-gun PPSH-41 (7.62x25mm)" Level 1 Price 750
 
-Item "Submachine-gun Thompson-M1 (.45 ACP)" Level 1 Price		900
-Item "Submachine-gun Thompson-M1921 (.45 ACP)" Level 2 Price	1100
+Item "Submachine-gun Thompson-M1 (.45 ACP)" Level 1 Price 900
+Item "Submachine-gun Thompson-M1921 (.45 ACP)" Level 2 Price 1100
 
 Item "Submachine-gun Type 100" Level 1 Price 620
 Item "Submachine-gun Reising M50 (.45ACP)" Level 2 Price 1400
@@ -163,15 +163,15 @@ Item "Carabine M712 (7.63mm)" Level 1 Price 320
 Item "Submachine-gun Walter MPK (9mm)" Level 2 Price 1100
 Item "Submachine-gun Walter MPL (9mm)" Level 3 Price 1400
 
-Item "Rifle M1 Garand (.30-06)"	Level 3 Price			650
-Item "Rifle Mauser Kar98k (7.92x57mm)"	Level 3 Price		300
-Item "Rifle Mosin_m91-30 (7.62x54mm)"	Level 3 Price		150
-Item "Rifle Mosin_1944 (7.62x54mm)"	Level 3 Price			130
-Item "Rifle Mosin_m91-30pu (7.62x54mm)"	Level 3 Price		400
-Item "Rifle Mosin_m91-59 (7.62x54mm)"	Level 3 Price		200
-Item "Rifle Mosin_m91-30 Unique (7.62x54mm)"	Level 5 Price		1650
+Item "Rifle M1 Garand (.30-06)" Level 3 Price 650
+Item "Rifle Mauser Kar98k (7.92x57mm)" Level 3 Price 300
+Item "Rifle Mosin_m91-30 (7.62x54mm)" Level 3 Price 150
+Item "Rifle Mosin_1944 (7.62x54mm)" Level 3 Price 130
+Item "Rifle Mosin_m91-30pu (7.62x54mm)" Level 3 Price 400
+Item "Rifle Mosin_m91-59 (7.62x54mm)" Level 3 Price 200
+Item "Rifle Mosin_m91-30 Unique (7.62x54mm)" Level 5 Price 1650
 
-Item "Carabine Type 84 (7.62x39mm)"		Level 2 Price		500
+Item "Carabine Type 84 (7.62x39mm)" Level 2 Price 500
 
 Item "Rifle M1917 Enfield (.30-06)" Level 2 Price 300
 Item "Rifle Lebel (8x50)" Level 1 Price 120
@@ -243,7 +243,7 @@ Item "Sniper Karabiner 98k (7.62x54mm)" Level 4 Price 470
 Item "Sniper Rifle PZB39" Level 4 Price 2500
 Item "Sniper Rifle WZ35" Level 3 Price 2200
 Item "Sniper Rifle PTRS41 (14.5mm)" Level 5 Price 2800
-Item "Assault Rifle Type 63 (7.62x39mm)"	Level 4 Price	450
+Item "Assault Rifle Type 63 (7.62x39mm)" Level 4 Price 450
 
 Item "Machinegun DP 27 (7.62x54R)" Level 2 Price 750
 Item "Machinegun DPM (7.62x54R)" Level 3 Price 1000
@@ -261,7 +261,7 @@ Item "Hand Grenade M24" Level 1 Price 50
 
 ////////////END OLD
 
-Item "Carabine M59 (7.62x39mm)"	Level 3 Price			700
+Item "Carabine M59 (7.62x39mm)" Level 3 Price 700
 
 Item "Pistol Baby Browning" Level 1 Price 30
 Item "Pistol Colt Mustang (.380 ACP)" Level 1 Price 70
@@ -282,7 +282,7 @@ Item "Pistol Astra 900 (Largo)" Level 1 Price 970
 Item "Pistol Star A Super (Largo)" Level 1 Price 320
 
 Item "Pistol Browning Hi-Power (.40)" Level 3 Price 670
-Item "Pistol Browning-hp (9mm)" Level 1 Price 		420
+Item "Pistol Browning-hp (9mm)" Level 1 Price 420
 
 Item "Revolver Nagant" Level 1 Price 160
 
@@ -486,7 +486,7 @@ Item "Pencil" Level 1 Price 1
 /////////MAGS
 /////////========
 
-Item "Pistol clip (Browning-hp/13)" Level 1 Price                        13.0
+Item "Pistol clip (Browning-hp/13)" Level 1 Price 13.0
 
 Item "Pistol clip (Tokagypt/7)" Level 1 Price 15
 Item "Pistol clip (Beretta951/8)" Level 1 Price 20

@@ -41,14 +41,14 @@ Item "Groza Kits" Level 8 Price 3000.0
 Item "Scar Kits" Level 11 Price 2500.0
 
 // Merca RIS kits
-Item "RIS kit (Mateba Model 6)"	Level 2 Price	100
-Item "Stock kit (Mateba Model 6)"	Level 2 Price	100
-Item "RIS kit (PP-90M1)"	Level 2 Price				100
-Item "Stock kit (PP-90M1)"	Level 2 Price			100
-Item "RIS kit (IMBEL M964A1)"	Level 3 Price		250
-Item "Stock kit (IMBEL M964A1)"	Level 3 Price		250
-Item "RIS kit (M1A)"	Level 3 Price					100
-Item "Stock kit (M1A)"	Level 3 Price				100
+Item "RIS kit (Mateba Model 6)" Level 2 Price 100
+Item "Stock kit (Mateba Model 6)" Level 2 Price 100
+Item "RIS kit (PP-90M1)" Level 2 Price 100
+Item "Stock kit (PP-90M1)" Level 2 Price 100
+Item "RIS kit (IMBEL M964A1)" Level 3 Price 250
+Item "Stock kit (IMBEL M964A1)" Level 3 Price 250
+Item "RIS kit (M1A)" Level 3 Price 100
+Item "Stock kit (M1A)" Level 3 Price 100
 
 // Merca module kits
 Item ".300 AAC Blackout Kits" Level 6 Price 4000
@@ -199,7 +199,7 @@ Item "Optical Sight Leupold Mark 4 10x40 (WR)" Level 8 Price 1050
 Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG)" Level 8 Price 1100
 Item "Optical sight Leupold Mark 4 10x40 LR/T M3 (SIG L)" Level 8 Price 1100
 Item "Optical Sight Leupold VX-1 3-9x50 (WR)" Level 5 Price 600
-Item "Optical Sight ZF Hensoldt 6x42 BL (SIG)"	Level 7 Price 1100
+Item "Optical Sight ZF Hensoldt 6x42 BL (SIG)" Level 7 Price 1100
 Item "Optical Sight Leatherwood 3-9x (M14)" Level 7 Price 500
 Item "Optical Sight Leatherwood 3-9x (WR)" Level 7 Price 450
 Item "Optical Sight SN-3 5-25x TPAL (WR)" Level 8 Price 1200
@@ -371,17 +371,17 @@ Item "SA Vz.58 Bayonet" Level 3 Price 70
 /////////+++++++++++++++++
 
 Item "Mount (WR-Galil)" Level 1 Price 100
-Item "Mount (M16-WR)" Level 1 Price				100
-Item "Mount (WR-HK)" Level 1 Price					100
-Item "Mount (WR-M16)" Level 1 Price				100
-Item "Mount (WR-AK)" Level 1 Price					100
-Item "Mount (WR-M14)" Level 1 Price				100
-Item "Mount (WR-Mini14)" Level 1 Price				100
-Item "Mount (WR-SIG)" Level 1 Price				100
-Item "Mount harris (WR)" Level 3 Price				100
-Item "Mount TL (WR)" Level 1 Price					100
-Item "Mount TL (WR-Barrel)" Level 1 Price			100
-Item "Mount TL (WR-HK)" Level 1 Price				100
+Item "Mount (M16-WR)" Level 1 Price 100
+Item "Mount (WR-HK)" Level 1 Price 100
+Item "Mount (WR-M16)" Level 1 Price 100
+Item "Mount (WR-AK)" Level 1 Price 100
+Item "Mount (WR-M14)" Level 1 Price 100
+Item "Mount (WR-Mini14)" Level 1 Price 100
+Item "Mount (WR-SIG)" Level 1 Price 100
+Item "Mount harris (WR)" Level 3 Price 100
+Item "Mount TL (WR)" Level 1 Price 100
+Item "Mount TL (WR-Barrel)" Level 1 Price 100
+Item "Mount TL (WR-HK)" Level 1 Price 100
 Item "Mount dual clip (M16)" Level 3 Price 50
 Item "Mount dual clip (MP5)" Level 3 Price 50
 
@@ -413,7 +413,7 @@ Item "Offensive Hand Grenade RG42" Level 3 Price 130
 Item "Offensive Hand Grenade RGZ89" Level 3 Price 115
 Item "AT RPG-40" Level 8 Price 800
 Item "Offensive Hand Grenade Type82" Level 5 Price 220
-Item "Defensive Hand Grenade Mk2A1"	Level 4 Price 90.0
+Item "Defensive Hand Grenade Mk2A1" Level 4 Price 90.0
 Item "Defensive Hand Grenade M61" Level 4 Price 180.0
 Item "Offensive Hand Grenade M67" Level 4 Price 100.0
 Item "Defensive Hand Grenade Mk3A2" Level 2 Price 170.0
@@ -548,9 +548,9 @@ Item "BigWoodBoxFEGAK63" Level 8 Price 4250
 Item "BigWoodBoxFEGAK63D" Level 8 Price 4250
 
 Item "BigWoodBoxBizon" Level 3 Price 5500
-Item "BigWoodBoxAKM"	Level 5 Price 2000
+Item "BigWoodBoxAKM" Level 5 Price 2000
 Item "BigWoodBoxAKMN" Level 6 Price 2500
-Item "BigWoodBoxAK103"	Level 9 Price 6500
+Item "BigWoodBoxAK103" Level 9 Price 6500
 
 Item "BigWoodBoxKiparis" Level 3 Price 3000
 
@@ -731,10 +731,10 @@ Item "Metal armor plate 2" Level 2 Price 100
 Item "Field Paramedic Kit" Level 1 Price 30.0
 Item "Field Paramedic Kit1" Level 1 Price 50
 
-Item "Field Paramedic Kit2"	Level 2 Price 340.0
-Item "Field Paramedic Kit3"	Level 3 Price 520.0
-Item "Field Paramedic Kit4"	Level 4 Price 940.0
-Item "Field Paramedic Kit5"	Level 4 Price 750
+Item "Field Paramedic Kit2" Level 2 Price 340.0
+Item "Field Paramedic Kit3" Level 3 Price 520.0
+Item "Field Paramedic Kit4" Level 4 Price 940.0
+Item "Field Paramedic Kit5" Level 4 Price 750
 
 Item "morphine" Level 3 Price 110.0
 Item "amphetamine" Level 4 Price 150.0
@@ -840,27 +840,27 @@ Item "Smoke_cigar_box" Level 1 Price 50
 Item "Smoke_serpent" Level 1 Price 5
 
 //SPARE PARTS
-Item "Wood_plate"					Level 1		Price 30
-Item "Tape"						Level 1		Price 5
-Item "Car_belt"					Level 1		Price 500
-Item "Car_can5_empty"				Level 1		Price 30
-Item "Car_can5"					Level 1		Price 250
-Item "Car_can20_empty" 				Level 1		Price 50
-Item "Car_can20"					Level 2		Price 220
-Item "Car_wheel_pascar"				Level 1		Price 200
-Item "Car_wheel_pickup"				Level 1		Price 350
-Item "Car_wheel_willys"				Level 1		Price 700
-Item "Car_wheel_gaz69"				Level 1		Price 200
-Item "Car_wheel_lrover"				Level 3		Price 700
-Item "Car_wheel_ural"				Level 4	 	Price 1000
-Item "Car_wheel_hummer"				Level 6		Price 1500
-Item "Car_wheel_yamamoto"				Level 3		Price 200
-Item "Car_wheel_btr"					Level 9		Price 1500
-Item "Car_wheel_btr40"				Level 9		Price 1500
-Item "tool1"						Level 1		Price 100
-Item "tool2"						Level 1		Price 1000
-Item "tool3"						Level 1		Price 1000
-Item "Car_rubber_patch"				Level 1		Price 3.0
+Item "Wood_plate" Level 1 Price 30
+Item "Tape" Level 1 Price 5
+Item "Car_belt" Level 1 Price 500
+Item "Car_can5_empty" Level 1 Price 30
+Item "Car_can5" Level 1 Price 250
+Item "Car_can20_empty"  Level 1 Price 50
+Item "Car_can20" Level 2 Price 220
+Item "Car_wheel_pascar" Level 1 Price 200
+Item "Car_wheel_pickup" Level 1 Price 350
+Item "Car_wheel_willys" Level 1 Price 700
+Item "Car_wheel_gaz69" Level 1 Price 200
+Item "Car_wheel_lrover" Level 3 Price 700
+Item "Car_wheel_ural" Level 4 Price 1000
+Item "Car_wheel_hummer" Level 6 Price 1500
+Item "Car_wheel_yamamoto" Level 3 Price 200
+Item "Car_wheel_btr" Level 9 Price 1500
+Item "Car_wheel_btr40" Level 9 Price 1500
+Item "tool1" Level 1 Price 100
+Item "tool2" Level 1 Price 1000
+Item "tool3" Level 1 Price 1000
+Item "Car_rubber_patch" Level 1 Price 3.0
 
 /////////+++++++++
 /////////SMUGGLE OBJECTS SELLER
