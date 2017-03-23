@@ -20645,7 +20645,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	77
+EffectiveRange	75
 RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun SR2 (9x21) folded"
@@ -20684,7 +20684,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	57
+EffectiveRange	55
 RangeCurvature	5
 Balance			0.6
 Unfold			"Submachine-gun SR2 (9x21)"

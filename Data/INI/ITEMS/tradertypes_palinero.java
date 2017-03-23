@@ -1,3 +1,7 @@
+Name "Rico Reyes"
+Type 0
+PriceCoeff 9
+
 /////////==========================
 /////////Palinero Rico trader guns
 /////////==========================
@@ -1083,3 +1087,33 @@ Item "Machinegun RPK-12 (5.45mm)" Level 11 Price 3600
 Item "Machinegun RPK-12 (5.45mm) folded" Level 11 Price 3600
 Item "Machinegun RPK-12 (7.62x39mm)" Level 11 Price 3650
 Item "Machinegun RPK-12 (7.62x39mm) folded" Level 11 Price 3650
+
+//UNIFORM
+Item "Palinero soldiers soldier uniform" Level 1 Price 350
+Item "Palinero specialforces soldier uniform" Level 7 Price 400
+Item "Palinero soldiers colonel epaulets" Level 1 Price 100
+Item "Palinero soldiers major epaulets" Level 1 Price 100
+Item "Palinero soldiers captain epaulets" Level 1 Price 100
+Item "Palinero soldiers leutenant epaulets" Level 1 Price 100
+Item "Palinero soldiers sergant epaulets" Level 1 Price 100
+Item "Uniform Bundle Palinero" Level 5 Price 4500
+Item "Uniform Bundle Palinero ex president" Level 7 Price 3500
+Item "Uniform Bundle Palinero ex tormens" Level 7 Price 3500
+
+//OTHER
+Item "Car_can20" Level 1 Price 50
+Item "SVD manual" Level 9 Price 60
+Item "Manual AKM" Level 6 Price 175
+Item "Rico_photo" Level 16 Price 82250
+
+//MERCHANDISE BLOCK
+Item "Caja con medicamentos" Level 3 Price 4000
+
+//PURCHASE
+Item "Money_euro20" Level 16 Price 23400
+Item "Money_euro100" Level 16 Price 234000
+Item "Money_euro500" Level 16 Price 1170000
+Item "Gold_ore" Level 16 Price 21000
+Item "Coca paste" Level 16 Price 50000
+
+END

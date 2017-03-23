@@ -2229,10 +2229,8 @@ type 44 arisaka bayonet coord
 colocar IMC-40 GL nas galils
 6.8 spc mag clipped faltando
 verificar misc items nas shops, mines, helmets, launchers, attachments etc
-stats SR-2 e micro ARs
 
 
-PAREI TERMINANDO O TRADERTYPES STREET, COLOCAR MISC ITEMS
 
 ======
 erros shop:
