@@ -6,6 +6,8 @@
 /////////TRADER MISC
 /////////==========================
 
+Item "Pipebomb" Level 1 Price 35
+
 /////////+++++++++
 /////////RIS / STOCKS / KITS
 /////////+++++++++
@@ -1214,39 +1216,6 @@ Item "Ammo Box Duplex .308" Level 5 Price 0.001
 Item "Big Ammo box (7.62x51)" Level 2 Price 0.001
 Item "Ammo Box 500 Duplex .308" Level 6 Price 100
 Item "Big Ammo box (7.62x54R)" Level 2 Price 0.001
-
-//MERCHANDISE BLOCK
-Item "Caja con pornografia" Level 16 Price 16000
-Item "vino caro" Level 16 Price 41000
-Item "Caja con medicamentos" Level 16 Price 12500
-
-//PURCHASE
-Item "Confidencial" Level 16 Price 2625
-Item "Confidencial_Pali" Level 16 Price 2625
-Item "Military_sectret" Level 16 Price 3850
-Item "Rosario_envelope" Level 16 Price 7700
-Item "Smartphone" Level 16 Price 7700
-Item "Harold_Haroldson" Level 16 Price 3500
-Item "Exploration_report" Level 16 Price 7700
-Item "Some_drugs" Level 16 Price 3333
-Item "Money_euro20" Level 16 Price 4100
-Item "Money_euro100" Level 16 Price 41000
-Item "Money_euro500" Level 16 Price 205000
-
-////PURCHASE
-Item "Pistol Colt Delta Elite (10mm)" Level 16 Price 3750
-Item "AK gold Pistol (7.62x39mm)" Level 16 Price 20000
-Item "Gold ammo clip (AK 7.62/30)" Level 16 Price 1200
-Item "Pistol Springfield Golden (.45 ACP)" Level 16 Price 10000
-Item "Pistol Desert Eagle Unique (.44 Magnum)" Level 16 Price 10000
-
-/////////+++++++++
-/////////SMUGGLE OBJECTS BUYER
-/////////+++++++++
-
-Item "Canteen_g1" Level 16 Price 2600
-Item "Canteen_g2" Level 16 Price 2500
-Item "Drink_rum_general" Level 16 Price 1500
 
 // Missing magazines
 Item "Pistol clip (MAB/9)" Level 1 Price 10

@@ -1,10 +1,8 @@
-Name "Guerrila Arsenal"
-Type 0
-PriceCoeff 11
-
 /////////==========================
 /////////Rebel trader guns
 /////////==========================
+
+Item "Pipebomb" Level 1 Price 35
 
 /////////==========================
 /////////TRADER MISC
@@ -349,12 +347,6 @@ Item "DFS-10 Smoke" Level 3 Price 25
 Item "DFS-10 HE" Level 3 Price 50
 Item "Pallad 40x47" Level 4 Price 85
 
-//PURCHASE
-Item "Confidencial" Level 16 Price 5250
-Item "Confidencial_Pali" Level 16 Price 5250
-Item "Military_sectret" Level 16 Price 17000
-Item "IDMilitary_dud" Level 16 Price 100000
-Item "IDSpecial_dud" Level 16 Price 250000
 
 /////////==========================
 /////////TRADER MISC
@@ -3472,69 +3464,6 @@ Item "PackedAmmoBox DBP10 (5.8x42/500)" Level 7 Price 1056
 Item "tool3" Level 1 Price 250
 Item "Box_Wood_Empty" Level 1 Price 30
 Item "Literatura Revolucionaria" Level 3 Price 450
-
-//MERCHANDISE BLOCK
-Item	"Smoke_camel"					Level 16	Price	45
-Item	"Smoke_serpent"					Level 16	Price	30
-Item	"Book_Lenin"					Level 16	Price	300
-Item	"Wine" 						Level 16	Price	400
-Item	"Whisky" 					Level 16	Price	600
-Item	"Drink_tequila_big"				Level 16	Price	600
-Item	"Drink_rum_sol"					Level 16	Price	600
-Item	"Drink_rum_general"				Level 16	Price	1000
-Item	"Canazo_can20"					Level 16	Price	4000
-Item	"Canazo_can5"					Level 16	Price	1250
-Item	"vino caro"					Level 16	Price	8000
-Item	"Caja con medicamentos"				Level 16	Price	12500
-Item	"Smartphone"					Level 16	Price	3000
-
-Item	"Algeira police colonel uniform"		Level 16	Price	6000
-Item	"Algeira police major uniform"			Level 16	Price	4000
-Item	"Algeira police captain uniform"		Level 16	Price	2000
-Item	"Algeira police leutenant uniform"		Level 16	Price	1000
-Item	"Algeira police sergant uniform"		Level 16	Price	500
-Item	"Algeira soldiers colonel uniform"		Level 16	Price	12000
-Item	"Algeira soldiers major uniform" 		Level 16	Price	6000
-Item	"Algeira soldiers captain uniform"		Level 16	Price	3000
-Item	"Algeira soldiers leutenant uniform"		Level 16	Price	1500
-Item	"Algeira soldiers sergant uniform"		Level 16	Price	750
-Item	"Algeira guards colonel uniform"		Level 16	Price	16000
-Item	"Algeira guards major uniform"			Level 16	Price	8000
-Item	"Algeira guards captain uniform"		Level 16	Price	4000
-Item	"Algeira guards leutenant uniform"		Level 16	Price	2000
-Item	"Algeira guards sergant uniform"		Level 16	Price	1000
-
-Item	"Algeira police colonel epaulets"		Level 16	Price	6000
-Item	"Algeira police major epaulets"			Level 16	Price	4000
-Item	"Algeira police captain epaulets"		Level 16	Price	2000
-Item	"Algeira police leutenant epaulets"		Level 16	Price	1000
-Item	"Algeira police sergant epaulets"		Level 16	Price	500
-Item	"Algeira soldiers colonel epaulets"		Level 16	Price	12000
-Item	"Algeira soldiers major epaulets" 		Level 16	Price	6000
-Item	"Algeira soldiers captain epaulets"		Level 16	Price	3000
-Item	"Algeira soldiers leutenant epaulets"		Level 16	Price	1500
-Item	"Algeira soldiers sergant epaulets"		Level 16	Price	750
-Item	"Algeira guards colonel epaulets"		Level 16	Price	16000
-Item	"Algeira guards major epaulets"			Level 16	Price	8000
-Item	"Algeira guards captain epaulets"		Level 16	Price	4000
-Item	"Algeira guards leutenant epaulets"		Level 16	Price	2000
-Item	"Algeira guards sergant epaulets"		Level 16	Price	1000
-
-//PURCHASE
-Item "Rosario_envelope" Level 16 Price 7700
-Item "Harold_Haroldson" Level 16 Price 3500
-Item "Exploration_report" Level 16 Price 7700
-Item "Some_drugs" Level 16 Price 3333
-Item "Money_euro20" Level 16 Price 4100
-Item "Money_euro100" Level 16 Price 41000
-Item "Money_euro500" Level 16 Price 205000
-
-////PURCHASE
-Item "Pistol Colt Delta Elite (10mm)" Level 16 Price 3750
-Item "AK gold Pistol (7.62x39mm)" Level 16 Price 20000
-Item "Gold ammo clip (AK 7.62/30)" Level 16 Price 1200
-Item "Pistol Springfield Golden (.45 ACP)" Level 16 Price 10000
-Item "Pistol Desert Eagle Unique (.44 Magnum)" Level 16 Price 10000
 
 // Missing magazines
 Item "Pistol clip (BR1911Xodo380/19)" Level 1 Price 30
