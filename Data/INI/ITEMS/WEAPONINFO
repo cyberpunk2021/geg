@@ -16686,7 +16686,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 22 Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "A180"
@@ -16723,7 +16723,7 @@ ATT Laser		0
 ATT Light		0
 ATT Scope		0
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 22 Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "A180"
