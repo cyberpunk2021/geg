@@ -16670,7 +16670,7 @@ Resource		1990
 DirtResource	160000
 MisfireProb		0.0015
 HeatCapacity	2000
-Single			1
+Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
@@ -16707,7 +16707,7 @@ Resource		1990
 DirtResource	160000
 MisfireProb		0.0015
 HeatCapacity	2000
-Single			1
+Single			0
 Burst			1
 CutOff			0
 BurstHitStart	2
