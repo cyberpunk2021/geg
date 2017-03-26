@@ -187,10 +187,6 @@ Item "Ozm72_contact" Level 4 Price 420
 /////////STUFF
 /////////++++++++++++++++++++++++++++
 
-//PURCHASE
-Item "Confidencial" Level 16 Price 5250
-Item "Military_sectret" Level 16 Price 7700
-
 Item "PackedMedBox" Level 7 Price 8020
 
 /////////////////
