@@ -1788,7 +1788,7 @@ Resource		9500
 Addon			"ak101_butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\ak101butt.act"
+ACTOR			"Items\ak101novobutt.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -1796,7 +1796,7 @@ Resource		0
 Addon			"ak101_butt-folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\ak101butt_folded.act"
+ACTOR			"Items\ak101novobutt_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
