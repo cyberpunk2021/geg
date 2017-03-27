@@ -35883,7 +35883,7 @@ StdPlug			"Shotgun ammo clip (Saiga/5)"
 StdPlug			"mt40stock_folded"
 StdPlug			"Saiga Suppressor (12ga)"
 ACTOR			"Items\rts-zk-s.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Shotgun VEPR12K (12ga)"
