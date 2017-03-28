@@ -23250,7 +23250,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		150
-EffectiveRange	53
+EffectiveRange	57
 RangeCurvature	5
 Balance			0.47
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
