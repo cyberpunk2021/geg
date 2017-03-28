@@ -23274,7 +23274,7 @@ ITEM "Submachine-gun HK MP5PDW (9mm)"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2500
-PrepareTime		0.24
+PrepareTime		0.23
 SingleFireTime	0.57
 BurstFireTime	0.066
 SpeedModifier	1.06
@@ -85548,7 +85548,7 @@ ITEM "Assault Rifle Galil AR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3950
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.73
 BurstFireTime	0.089
 SpeedModifier	1.07
@@ -85629,7 +85629,7 @@ Weight			3950
 PrepareTime		0.47
 SingleFireTime	0.74
 BurstFireTime	0.089
-SpeedModifier	1.07
+SpeedModifier	1.09
 Resource		3400
 DirtResource	340000
 MisfireProb		0.0006
@@ -85639,7 +85639,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	156
+EffectiveRange	161
 RangeCurvature	2.5
 Balance			0.45
 Unfold			"Assault Rifle Galil ARM (5.56mm) folded"
@@ -85669,7 +85669,7 @@ Weight			3950
 PrepareTime		0.43
 SingleFireTime	0.74
 BurstFireTime	0.089
-SpeedModifier	1.07
+SpeedModifier	1.09
 Resource		3400
 DirtResource	340000
 MisfireProb		0.0006
@@ -85679,7 +85679,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	136
+EffectiveRange	141
 RangeCurvature	2.5
 Balance			0.45
 Unfold			"Assault Rifle Galil ARM (5.56mm)"
@@ -85875,7 +85875,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	162
+EffectiveRange	165
 RangeCurvature	2.5
 Balance			0.38
 Unfold			"Assault Rifle Galil AR (5.56mm) exacto folded"
@@ -85915,7 +85915,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	142
+EffectiveRange	145
 RangeCurvature	2.5
 Balance			0.38
 Unfold			"Assault Rifle Galil AR (5.56mm) exacto"
@@ -86105,7 +86105,7 @@ Weight			4100
 PrepareTime		0.51
 SingleFireTime	0.81
 BurstFireTime	0.1
-SpeedModifier	1.07
+SpeedModifier	1.08
 Resource		3200
 DirtResource	320000
 MisfireProb		0.0007
@@ -86115,7 +86115,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		280
-EffectiveRange	183
+EffectiveRange	187
 RangeCurvature	1.5
 Balance			0.4
 Unfold			"Assault Rifle Galil ARM (7.62mm) folded"
@@ -86145,7 +86145,7 @@ Weight			4100
 PrepareTime		0.47
 SingleFireTime	0.81
 BurstFireTime	0.1
-SpeedModifier	1.07
+SpeedModifier	1.08
 Resource		3200
 DirtResource	320000
 MisfireProb		0.0007
@@ -86155,7 +86155,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		280
-EffectiveRange	163
+EffectiveRange	167
 RangeCurvature	1.5
 Balance			0.4
 Unfold			"Assault Rifle Galil ARM (7.62mm)"
