@@ -21441,7 +21441,7 @@ ITEM "PM12 folded"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2780
-PrepareTime		0.20
+PrepareTime		0.21
 SingleFireTime	0.59
 BurstFireTime	0.067
 SpeedModifier	1.08
