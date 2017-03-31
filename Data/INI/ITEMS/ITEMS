@@ -2664,7 +2664,37 @@ None  "Items\money_e500.act""money_e500.e5b"
 "Coca paste"
 None
 None  "Items\coca_paste.act""coca_paste.e5b"
-20000
+16000
+
+"Niobium ore crate"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+60000
+
+"IT contraband box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+28000
+
+"Perfume box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+13000
+
+"Palinero cigarette box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+18000
+
+"Cuban cigar box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+16000
+
+"Fake jewelry box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+11000
 
 "Folded Ammo Belt"
 None

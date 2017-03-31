@@ -1,4 +1,26 @@
 /////////==========================
+/////////TRADER SELLERS
+/////////==========================
+
+/////////+++++++++
+/////////ALGEIRA BARMEN
+/////////+++++++++
+
+Item	"Confidencial"						Level 3	Price 600
+
+/////////+++++++++
+/////////CALI BARMEN
+/////////+++++++++
+
+Item	"Confidencial_Pali"						Level 3	Price 600
+
+/////////+++++++++
+/////////REBEL CAMP AND START SHOP ONLY
+/////////+++++++++
+
+Item	"Coca paste" 					Level 4	Price 14000
+
+/////////==========================
 /////////TRADER PURCHASES
 /////////==========================
 
@@ -6,8 +28,6 @@
 /////////DRUG BARON
 /////////+++++++++
 
-//DRUGS
-Item	"Coca paste" 					Level 16	Price	125000
 
 //MERCHANDISE BLOCK
 Item	"Canazo_can20"					Level 16	Price	25000
@@ -38,13 +58,13 @@ Item	"Camera"						Level 16	Price	13000
 Item	"Money_euro20"						Level 16	Price	13000
 Item	"Money_euro100"						Level 16	Price	130000
 Item	"Money_euro500"						Level 16	Price	650000
-Item	"Gold_ore"						Level 16	Price	9250
+Item	"Gold_ore"						Level 16	Price	10250
 
 Item	"Confidencial"						Level 16	Price	4250
 Item	"Confidencial_Pali"						Level 16	Price	4250
-Item	"Some_drugs"						Level 16	Price	10000
+Item	"Some_drugs"						Level 16	Price	21000
 Item	"Capsule"					Level 16	Price 800
-Item	"Coca paste" 					Level 16	Price	37000
+Item	"Coca paste" 					Level 16	Price	44000
 Item	"Caja con pornografia"					Level 16	Price	22000
 
 /////////+++++++++
@@ -68,6 +88,7 @@ Item	"Smartphone"					Level 16	Price	200000
 Item	"Harold_Haroldson"				Level 16	Price	30000
 Item	"Military_sectret"					Level 16	Price	127500
 Item	"Confidencial_Pali"						Level 16	Price	9250
+Item	"Caja con medicamentos"				Level 16	Price 41000
 
 //AMMO
 Item	"5.56 SN (5.56mm)"				Level 16	Price	10
@@ -94,13 +115,13 @@ Item	"Revolver Colt SAA 45_7 (.45 Colt)"		Level 16	Price	0.0001
 Item	"Money_euro20"					Level 16	Price	23400  
 Item	"Money_euro100"					Level 16	Price	234000 
 Item	"Money_euro500"					Level 16	Price	1170000
-Item	"Gold_ore"					Level 16	Price	21000
+Item	"Gold_ore"					Level 16	Price	16000
 Item	"Coca paste" 					Level 16	Price	50000
 Item	"Military_sectret"					Level 16	Price	127500
 Item	"Confidencial"						Level 16	Price	9250
 Item	"Some_drugs"						Level 16	Price	17000
 Item	"Capsule"					Level 16	Price 1200
-Item	"Gold"						Level 16	Price	16000
+Item	"Gold"						Level 16	Price	41000
 Item	"IDSpecial_dud" Level 16 Price 40000
 Item	"IDMilitary_dud" Level 16 Price 30000
 Item	"IDPolice_dud" Level 16 Price 14000
@@ -164,8 +185,8 @@ Item	"Whisky" 					Level 16	Price	600
 Item	"Drink_tequila_big"				Level 16	Price	600
 Item	"Drink_rum_sol"					Level 16	Price	600
 Item	"Drink_rum_general"				Level 16	Price	1000
-Item	"Canazo_can20"					Level 16	Price	4000
-Item	"Canazo_can5"					Level 16	Price	1250
+Item	"Canazo_can20"					Level 16	Price	8000
+Item	"Canazo_can5"					Level 16	Price	3250
 Item	"vino caro"					Level 16	Price	8000
 Item	"Smartphone"					Level 16	Price	3000
 
@@ -182,34 +203,6 @@ Item	"Caja con medicamentos"					Level 16	Price	31500
 Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	10500
 Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	7500
 Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	9000
-
-//Ammo
-Item	"57-H-181C"						Level 16	Price	0.5
-Item	"7N16"							Level 16	Price	5
-Item	"PBM"							Level 16	Price	4
-Item	"China Sport 7.62x25"					Level 16	Price	0.5
-Item	"124grn 9x19mm"						Level 16	Price	2
-Item	"EX-STAR (9mm)"						Level 16	Price	4
-Item	"M882 Ball (9mm)"					Level 16	Price	4
-Item	"115grn 9x19mm"						Level 16	Price	4
-Item	"117grn JHP 9x19mm"					Level 16	Price	4
-Item	"Magtech+P+(9mm)"					Level 16	Price	4
-Item	"9x19 FMJ Ball"						Level 16	Price	0.95
-Item	"57-N-231S (7.62x39mm)"					Level 16	Price	4
-Item	"SB (7.62x39mm)"					Level 16	Price	4
-Item	"7N23 (7.62x39mm)"					Level 16	Price	5
-Item	"Barnaul JHP (7.62x39mm)"				Level 16	Price	4
-Item	"7.62x39 FMJ Ball"					Level 16	Price	1.75
-Item	"M67 (7.62x39mm)"					Level 16	Price	4
-Item	"Norinco (7.62x39mm)"					Level 16	Price	1.35
-Item	"30-06 Ball M2"						Level 16	Price	3
-Item	"7.92x57 FMJ"						Level 16	Price	2.15
-Item	"Tula Ammo (7.62x54R)"					Level 16	Price	5
-Item	"7N26 (7.62x54mm)"					Level 16	Price	5
-Item	"7N1 (7.62x54mm)"					Level 16	Price	6
-Item	"7N14 (7.62x54mm)"					Level 16	Price	7.5
-Item	"Brown Bear (7.62x54mm)"				Level 16	Price	5
-Item	"7.62x54R FMJ Ball"					Level 16	Price	2.15
 
 /////////+++++++++
 /////////GUNSHOP
@@ -434,6 +427,7 @@ Item	"PackedMREHUGEBox" Level 16 Price 3500
 Item	"PackedRationBox" Level 16 Price 3000
 Item	"Caja con medicamentos"					Level 16	Price	38500
 Item	"vino caro"					Level 16	Price	21000
+Item	"Gold_ore"						Level 16	Price	18250
 
 Item	"Confidencial"						Level 16	Price	4250
 Item	"Confidencial_Pali"						Level 16	Price	4250
@@ -495,7 +489,7 @@ Item	"Gold_medallion"				Level 16	Price	2000
 Item	"Rico_medallion"				Level 16	Price	2000
 Item	"Canteen_g2"					Level 16	Price	5000
 Item	"Golden Turtle"					Level 16	Price	550000
-Item	"Gold"						Level 16	Price	55000
+Item	"Gold"						Level 16	Price	58000
 Item	"Gold_sack"					Level 16	Price	6000
 Item	"Gold_slug_b"					Level 16	Price	18000
 Item	"Gold_slug_s"					Level 16	Price	9000
@@ -540,16 +534,16 @@ Item	"Money_euro20"					Level 16	Price 4500
 Item	"Money_euro100"					Level 16	Price 45000
 Item	"Money_euro500"					Level 16	Price 225000
 Item	"Capsule"					Level 16	Price 1800
-Item	"Some_drugs"					Level 16	Price 9000
+Item	"Some_drugs"					Level 16	Price 6700
 Item	"sect_drug"					Level 16	Price 300
-Item	"vino caro"					Level 16	Price	24000
+Item	"vino caro"					Level 16	Price	28000
 Item	"Drink_rum_general"				Level 16	Price	6200
 
 //HLA
 Item	"Canteen_g1"					Level 7		Price	2000
 Item	"Canteen_g2"					Level 16	Price	4000
 Item	"Golden Turtle"					Level 16	Price	440000
-Item	"Gold"						Level 16	Price	44000
+Item	"Gold"						Level 16	Price	46000
 Item	"Gold_sack"					Level 16	Price	4800
 Item	"Gold_slug_b"					Level 16	Price	14400
 Item	"Gold_slug_s"					Level 16	Price	7200
@@ -563,8 +557,8 @@ Item	"Gold_rare3"					Level 16	Price	5136
 
 //PURCHASE
 Item	"Capsule"					Level 16	Price	800
-Item	"Canazo_can20"					Level 16	Price	2500
-Item	"Canazo_can5"					Level 16	Price	750
+Item	"Canazo_can20"					Level 16	Price	5600
+Item	"Canazo_can5"					Level 16	Price	2150
 Item	"vino caro"					Level 16	Price	12000
 Item	"Money_euro20"					Level 16	Price	5850
 Item	"Money_euro100"					Level 16	Price	58500
@@ -581,8 +575,8 @@ Item	"Gold" 							Level 1		Price	15000
 
 //PURCHASE
 Item	"Capsule"					Level 16	Price	800
-Item	"Canazo_can20"					Level 16	Price	2500
-Item	"Canazo_can5"					Level 16	Price	750
+Item	"Canazo_can20"					Level 16	Price	3500
+Item	"Canazo_can5"					Level 16	Price	1000
 Item	"vino caro"					Level 16	Price	19000
 Item	"Money_euro20"					Level 16	Price	5850
 Item	"Money_euro100"					Level 16	Price	58500
@@ -600,6 +594,8 @@ Item	"Money_euro100"				Level 16	Price 65000
 Item	"Money_euro500"				Level 16	Price 325000
 Item	"Exploration_report"			Level 16	Price 25000
 Item	"Exploration_report2"			Level 16	Price 25000
+Item	"Canazo_can20"					Level 16	Price	11600
+Item	"Canazo_can5"					Level 16	Price	3150
 
 
 /////////+++++++++
@@ -698,7 +694,7 @@ Item	"Drink_rum_general"				Level 16	Price 5000
 //HLA «олото
 Item	"Canteen_g2"					Level 16	Price 4500
 Item	"Golden Turtle"					Level 16	Price 550000
-Item	"Gold"						Level 16	Price 31000
+Item	"Gold"						Level 16	Price 34000
 Item	"Gold_sack"					Level 16	Price 6000
 Item	"Gold_slug_b"					Level 16	Price 18000
 Item	"Gold_slug_s"					Level 16	Price 9000
