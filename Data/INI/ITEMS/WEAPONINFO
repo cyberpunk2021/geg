@@ -21199,7 +21199,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Steyr69"
 StdPlug			"SMG ammo clip (Steyr69/32)"
 StdPlug			"steyr69stock"
-ACTOR			"Items\steyr69.act"
+ACTOR			"Items\steyr81.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtBullPup
 
@@ -21238,7 +21238,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Steyr69"
 StdPlug			"SMG ammo clip (Steyr69/32)"
 StdPlug			"steyr69stock_folded"
-ACTOR			"Items\steyr69.act"
+ACTOR			"Items\steyr81.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtBullPup
 
