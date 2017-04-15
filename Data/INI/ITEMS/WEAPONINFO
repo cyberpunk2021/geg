@@ -49348,7 +49348,7 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""Scout"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 blocks
 Bayonet
@@ -49391,7 +49391,7 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""Scout"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 blocks
 Bayonet
@@ -49405,6 +49405,92 @@ StdPlug			"fnfalnova_modernimb_stock_folded"
 ACTOR			"items\fnfalnova_imbelparafal.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "Carabine IMBEL ParaFal FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3750
+PrepareTime		0.45
+SingleFireTime	0.81
+BurstFireTime	0.0889
+SpeedModifier	1.01
+Resource		2200
+DirtResource	230000
+MisfireProb		0.007
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	2
+MaxRange		280
+EffectiveRange	210
+RangeCurvature	0.6
+Balance			0.54
+Unfold			"Carabine IMBEL ParaFal FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""Scout"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+blocks
+Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "FAL"
+blocks
+Silencer
+ATT Magazine	2 "DSA-58OSW""FNFAL"
+StdPlug			"Rifle ammo clip (IMBEL/20)"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelparafalfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Carabine IMBEL ParaFal FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3750
+PrepareTime		0.40
+SingleFireTime	0.81
+BurstFireTime	0.0889
+SpeedModifier	1.01
+Resource		2200
+DirtResource	230000
+MisfireProb		0.007
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	2
+MaxRange		280
+EffectiveRange	190
+RangeCurvature	0.6
+Balance			0.54
+Unfold			"Carabine IMBEL ParaFal FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""Scout"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+blocks
+Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "FAL"
+blocks
+Silencer
+ATT Magazine	2 "DSA-58OSW""FNFAL"
+StdPlug			"Rifle ammo clip (IMBEL/20)"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelparafalfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 /////////------------------------
 
@@ -74585,7 +74671,7 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""Scout"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 blocks
 Bayonet
@@ -74628,7 +74714,7 @@ ShootSound		"Weapon\Shoot\FN FAL.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""Scout"
-ATT Bipod		1 "WR"
+ATT Bipod		2 "WR""WRFG"
 ATT Silencer	1 "Supressor - 7,62"
 blocks
 Bayonet
@@ -74642,6 +74728,92 @@ StdPlug			"fnfalnova_modernimb_stock_folded"
 ACTOR			"items\fnfalnova_imbelparafal.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
+
+ITEM "IMBEL ParaFal FG (7.62x51mm)"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3750
+PrepareTime		0.45
+SingleFireTime	0.81
+BurstFireTime	0.0889
+SpeedModifier	1.01
+Resource		2200
+DirtResource	230000
+MisfireProb		0.007
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		280
+EffectiveRange	210
+RangeCurvature	0.6
+Balance			0.54
+Unfold			"IMBEL ParaFal FG (7.62x51mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""Scout"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+blocks
+Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "FAL"
+blocks
+Silencer
+ATT Magazine	2 "DSA-58OSW""FNFAL"
+StdPlug			"Rifle ammo clip (IMBEL/20)"
+StdPlug			"fnfalnova_modernimb_stock"
+ACTOR			"items\fnfalnova_imbelparafalfg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "IMBEL ParaFal FG (7.62x51mm) folded"
+Class			Rifle
+Caliber			"7.62υ51 μμ"
+Weight			3750
+PrepareTime		0.40
+SingleFireTime	0.81
+BurstFireTime	0.0889
+SpeedModifier	1.01
+Resource		2200
+DirtResource	230000
+MisfireProb		0.007
+HeatCapacity	50
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	2
+MaxRange		280
+EffectiveRange	190
+RangeCurvature	0.6
+Balance			0.54
+Unfold			"IMBEL ParaFal FG (7.62x51mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\FN FAL.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		2 "WR""Scout"
+ATT Bipod		1 "WR"
+ATT Silencer	1 "Supressor - 7,62"
+blocks
+Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "FAL"
+blocks
+Silencer
+ATT Magazine	2 "DSA-58OSW""FNFAL"
+StdPlug			"Rifle ammo clip (IMBEL/20)"
+StdPlug			"fnfalnova_modernimb_stock_folded"
+ACTOR			"items\fnfalnova_imbelparafalfg.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
 
 ITEM "Assault Rifle IMBEL IA2 CQC (5.56mm)"
 Class			Rifle
