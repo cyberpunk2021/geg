@@ -2358,21 +2358,68 @@ So first question is where you want to add your rules? I think the second rule s
 "Niobium ore crate"
 "IT contraband box"
 "Perfume box"
+"Cuban cigar box"
 "Fake jewelry box"
+"Gas Pump parts box"
+"Chopshop car parts box"
+"Revolutionary memorabilia box"
+"Palinero cigarette box"
+
++++++++++++++++++++++
+
+Pistols, which bear incorrect inscription on the slide:
+
+- All the huge Glock family. It is easier to say which of them marked correctly, than counting incorrect ones. Glock 27
+is OK, and Glock 19 too. All the others clearly not.
+
+- Imbel Xody pistol series are actually a Kimber Carry variations. Clearly visible their trademark logo on the slide, and, in addition, typical Kimber grip.
+
+- Norinco NP-22.
+- Norinco NP-34.
+- Kahr K-40. Slide is marked as 9mm model.
+- Norinco NP-58.
+- Steyr MPi 69 has a horrible texture. Can it be changed? Model itself has high quality.
+- Norinco NP-56 has SIG-Sauer markings.
+- SIG-Sauer Mosquito has P226 markings. Which is incorrect, gentlemans.
+
+!!! - SIG-Sauer P228, one of my favourites, is still way too big while in hands. That's a compact pistol, but ingame model are actually shares sizing with a full-sized P220! That's clearly a mistake. I have also noticed some ugly black stains on the model, which cannot be found on original The_Tub texture. Pistol require some retexture works, and i am nearly begging Silver to perform them. !!!
+
+- 9x19mm PM-84P accepts 9x18 magazines. 9x19 magazines cannot be found in shops.
+- Supressors has no their own unique icons. Plus, many of them mistakenly named; 9x19 variant, for example, called "trident" in the game, while the texture reads "gemtech". That's a common problem on many of them actually.
+- Type 95 bayonet has no unique icon.
+- Remington 11-87 has a transparent texture (take a closer look on the barrel).
+
+More bugs to come. Hang on, boys and girls...
+
+IMAGES:
+
+P228 black stains: pasteboard.co/4k3hHYGo2.png
+P220 & P228 comparsion: pasteboard.co/4k5pJXLw2.png
+
+I have also found much better P220 model: gamebanana.com/skins/141199
+You also might be interested in this one: gamebanana.com/skins/142360
+
+- Kahr K40 must be renowed, in my arrogant opinion. Slide clearly reads "K9", while K9 is a 9mm model. Same for chinese SIG-Sauer clones. That's a common problem with many handguns actually, i'll try to keep you all informed. Thanks for your attention.
+
+- Imbel Xody pistol series are actually a Kimber Carry variations. Clearly visible their trademark logo on the slide, and, in addition, typical Kimber grip. 
+
+A little note about the prices. You know, when some chinese SIG-Sauer clone has a higher price than a very, VERY pricy and high grade Kahr pistol - you know, that's just beyond. My suggest is this need to be changed. 
 
 
++++++++++++++++++++++
 
+criar caixa bala .45 acp faltando
+military forged remover de traders algeira
+mudar aguila 308
+mudar damage shotgun
+aumentar 7.62x39 JHP ou reduzir dano da AP
+milkor mgl stock error
 
+foldar bipod ssg08
+g36 scope
+colocar rubber bullet 12 ga em sagrada
 
+colocar nas lojas:
 
-
-
-
-
-
-
-
-
-
-
-
+"SMG ammo clip (PM98/25)"
+"SMG ammo clip (PM84P/25)"

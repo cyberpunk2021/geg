@@ -165,6 +165,16 @@ ADuration  1
 Usages  75
 112
 
+"Lanca_Perfume"
+Medikit
+None  "Items\drug.act""some_drugs.e5b"
+Flask
+Speed  0
+Energy  0
+ADuration  1
+Usages  40
+600
+
 "Camo Kit"
 CamoKit
 None  "Items\camo.act""camo.e5b"
@@ -2695,6 +2705,26 @@ None  "Items\coca_paste.act""coca_paste.e5b"
 None
 None  "Items\coca_paste.act""coca_paste.e5b"
 11000
+
+"Gas Pump parts box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+7000
+
+"Chopshop car parts box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+31000
+
+"Chopshop algeira car parts box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+28000
+
+"Revolutionary memorabilia box"
+None
+None  "Items\coca_paste.act""coca_paste.e5b"
+6000
 
 "Folded Ammo Belt"
 None

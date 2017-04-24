@@ -40,6 +40,8 @@ Item	"Confidencial"						Level 16	Price	11250
 Item	"Confidencial_Pali"						Level 16	Price	9250
 Item	"Military_sectret"					Level 16	Price	127500
 
+Item "Niobium ore crate" Level 16 Price 150000
+
 Item	"Golden Turtle"					Level 16	Price	550000
 Item	"Gold"						Level 16	Price	105000
 Item	"Gold_sack"					Level 16	Price	19000
@@ -125,6 +127,8 @@ Item	"Gold"						Level 16	Price	41000
 Item	"IDSpecial_dud" Level 16 Price 40000
 Item	"IDMilitary_dud" Level 16 Price 30000
 Item	"IDPolice_dud" Level 16 Price 14000
+
+Item "Niobium ore crate" Level 16 Price 26000
 
 
 //AMMO
@@ -253,35 +257,14 @@ Item	"7u1 (5x45mm)"					Level 16	Price	0.0001
 /////////STREET TRADER - PUERTO VIEJO
 /////////+++++++++
 
-//AMMO 
-Item	"Hunt (12ga)"						Level 16	Price 3
-Item	"Slug (12ga)"						Level 16	Price 5
-Item	"00 Buckshot (12ga)"					Level 16	Price 3
-Item	"M882 Ball (9mm)"					Level 16	Price 2.5
-Item	"M1911 Ball (.45 ACP)"					Level 16	Price 2
-Item	".380 FMJ" 						Level 16	Price 1.75
-Item	"Ammo .40 S&W"						Level 16	Price 2.5
-Item	".40 S&W JHP"						Level 16	Price 3.5
-Item	"Federal 230grn (.45 ACP)"				Level 16	Price 3.5
-Item	"Golden Saber (.45 ACP)"				Level 16	Price 3.5
-Item	"357 SP"						Level 16	Price 5
-Item	"M193 (5.56mm)"						Level 16	Price 3.5
-Item	"SS190 Ball (5.7mm)"					Level 16	Price 6
-Item	"SS192 HP (5.7mm)"					Level 16	Price 7.5
-Item	"SS193 SS (5.7mm)"					Level 16	Price 9
-Item	"115grn 9x19mm" 					Level 16	Price 1.75
-Item	"117grn JHP 9x19mm"					Level 16	Price 2.15
 
-//AMMO RUS 5.45
-Item	"7N6 (5.45mm)"						Level 16	Price	0.0001	
-Item	"7N22 (5.45mm)"						Level 16	Price	0.0001	
-Item	"5.45 FMJ Ball"						Level 16	Price	0.0001	
-Item	"7u1 (5x45mm)"						Level 16	Price	0.0001
 
 //MERCHANDISE BLOCK
 Item	"Caja con pornografia"					Level 16	Price	16000
-Item	"vino caro"						Level 16	Price	14000
 Item	"Caja con medicamentos"					Level 16	Price	12500
+
+Item 	"Cosmetics box" Level 16 Price 20000
+Item 	"Fake jewelry box" Level 16 Price 16000
 
 //PURCHASE
 Item	"Confidencial"						Level 16	Price	4250
@@ -307,6 +290,10 @@ Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
 /////////+++++++++
 
 ////PURCHASE
+
+Item 	"Cosmetics box" Level 16 Price 16000
+Item 	"Fake jewelry box" Level 16 Price 13000
+
 Item	"Pistol Colt Delta Elite (10mm)"			Level 16	Price	3750
 Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
 Item	"Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
@@ -345,6 +332,9 @@ Item	"Tula Ammo (7.62x54R)"					Level 16	Price	3.5
 /////////+++++++++
 
 //MERCHANDISE BLOCK
+
+Item 	"IT contraband box" Level 16 Price 20000
+
 Item	"Book_Lenin"					Level 16	Price	900
 Item	"Literatura Revolucionaria"			Level 16	Price	13000
 Item	"Caja con pornografia"				Level 16	Price	9000

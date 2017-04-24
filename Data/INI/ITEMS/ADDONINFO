@@ -4843,7 +4843,7 @@ DayScope		"scope_G36.e6b"
 ViewAngle		4
 Distance		290
 ShadowImpact	0.9
-BlocksAiming	1
+BlocksAiming	0
 ACTOR			"Items\g36f_sight.act"
 IMAGE			"g36e_sight.e5b"
 WEIGHT			250
@@ -7903,14 +7903,14 @@ WEIGHT			250
 Addon			"AR_butt"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\ar18novastock.act"
+ACTOR			"Items\ar18melhorstock.act"
 IMAGE			"None"
 WEIGHT			400
 //------------------------------------------------------
 Addon			"AR_butt folded"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\ar18novastockfolded.act"
+ACTOR			"Items\ar18melhorstockfolded.act"
 IMAGE			"None"
 WEIGHT			400
 //------------------------------------------------------

@@ -19603,7 +19603,7 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "PM84"
+ATT Magazine	1 "PM84P"
 StdPlug			"SMG ammo clip (PM84P/25)"
 StdPlug			"pm84stock_folded"
 ACTOR			"Items\pm84foldada.act"
@@ -19642,8 +19642,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "PM84P"
-StdPlug			"SMG ammo clip (PM84P/25)"
+ATT Magazine	1 "PM98"
+StdPlug			"SMG ammo clip (PM98/25)"
 StdPlug			"pm98stock"
 StdPlug			"PM98 Flashlight"
 ACTOR			"Items\pm98.act"
@@ -19682,8 +19682,8 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "PM84P"
-StdPlug			"SMG ammo clip (PM84P/25)"
+ATT Magazine	1 "PM98"
+StdPlug			"SMG ammo clip (PM98/25)"
 StdPlug			"pm98stock_folded"
 StdPlug			"PM98 Flashlight"
 ACTOR			"Items\pm98.act"
@@ -58562,7 +58562,7 @@ ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"AR_butt"
-ACTOR			"Items\ar18nova.act"
+ACTOR			"Items\ar18melhor.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -58601,7 +58601,7 @@ ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"AR_butt folded"
-ACTOR			"Items\ar18nova.act"
+ACTOR			"Items\ar18melhor.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -68395,7 +68395,7 @@ BurstFireTime	0.08
 SpeedModifier	1
 Resource		1600
 DirtResource	170000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	40
 Single			1
 Burst			1
@@ -68435,7 +68435,7 @@ BurstFireTime	0.08
 SpeedModifier	1
 Resource		1600
 DirtResource	170000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	40
 Single			1
 Burst			1
@@ -68475,7 +68475,7 @@ BurstFireTime	0.08
 SpeedModifier	1
 Resource		1600
 DirtResource	170000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	40
 Single			1
 Burst			1
@@ -68515,7 +68515,7 @@ BurstFireTime	0.08
 SpeedModifier	1
 Resource		1600
 DirtResource	170000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	40
 Single			1
 Burst			1
@@ -69027,7 +69027,7 @@ BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
 DirtResource	150000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	45
 Single			1
 Burst			1
@@ -69066,7 +69066,7 @@ BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
 DirtResource	150000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	45
 Single			1
 Burst			1
@@ -69105,7 +69105,7 @@ BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
 DirtResource	150000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	45
 Single			1
 Burst			1
@@ -69144,7 +69144,7 @@ BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		1400
 DirtResource	150000
-MisfireProb		0.03
+MisfireProb		0.003
 HeatCapacity	45
 Single			1
 Burst			1
@@ -69183,7 +69183,7 @@ BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
 DirtResource	160000
-MisfireProb		0.021
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
@@ -69261,7 +69261,7 @@ BurstFireTime	0.08
 SpeedModifier	1
 Resource		1500
 DirtResource	160000
-MisfireProb		0.021
+MisfireProb		0.0021
 HeatCapacity	45
 Single			1
 Burst			1
@@ -69417,7 +69417,7 @@ BurstFireTime	0.1
 SpeedModifier	1.04
 Resource		2300
 DirtResource	230000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	58
 Single			1
 Burst			1
@@ -69454,7 +69454,7 @@ BurstFireTime	0.1
 SpeedModifier	1.04
 Resource		2300
 DirtResource	230000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	58
 Single			1
 Burst			1
@@ -69493,7 +69493,7 @@ BurstFireTime	0.1
 SpeedModifier	1.04
 Resource		2300
 DirtResource	230000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	58
 Single			1
 Burst			1
@@ -69532,7 +69532,7 @@ BurstFireTime	0.1
 SpeedModifier	0.99
 Resource		2200
 DirtResource	220000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	55
 Single			1
 Burst			1
@@ -69571,7 +69571,7 @@ BurstFireTime	0.1
 SpeedModifier	0.99
 Resource		2200
 DirtResource	220000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	55
 Single			1
 Burst			1
@@ -69614,7 +69614,7 @@ BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		2500
 DirtResource	270000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	65
 Single			1
 Burst			1
@@ -69653,7 +69653,7 @@ BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		2500
 DirtResource	270000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	65
 Single			1
 Burst			1
@@ -69694,7 +69694,7 @@ BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		2500
 DirtResource	270000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	65
 Single			1
 Burst			1
@@ -69735,7 +69735,7 @@ BurstFireTime	0.08
 SpeedModifier	1.01
 Resource		2400
 DirtResource	250000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	60
 Single			1
 Burst			1
@@ -69776,7 +69776,7 @@ BurstFireTime	0.08
 SpeedModifier	1.01
 Resource		2400
 DirtResource	250000
-MisfireProb		0.02
+MisfireProb		0.01
 HeatCapacity	60
 Single			1
 Burst			1
@@ -73455,7 +73455,7 @@ ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
 StdPlug			"fnfalnova_modern_stock_folded"
 ACTOR			"Items\fnfalnova_fnfolding.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle FN FAL 50.62 (7.62x51mm)"
@@ -73541,7 +73541,7 @@ ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
 StdPlug			"fnfalnova_modern_stock_folded"
 ACTOR			"Items\fnfalnova_fnfoldingcar.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle FN FAL 50.63 (7.62x51mm)"
@@ -73584,7 +73584,7 @@ ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
 StdPlug			"fnfalnova_modern_stock"
 ACTOR			"Items\fnfalnova_fnfoldingcqc.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle FN FAL 50.63 (7.62x51mm) folded"
@@ -73627,7 +73627,7 @@ ATT Magazine	2 "FNFAL""DSA-58OSW"
 StdPlug			"Rifle ammo clip (FN FAL/20)"
 StdPlug			"fnfalnova_modern_stock_folded"
 ACTOR			"Items\fnfalnova_fnfoldingcqc.act"
-IMAGE			"2x5.e5b"
+IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle DSA-58OSW (7.62x51mm)"
@@ -103968,7 +103968,7 @@ ITEM "GM94"
 Class			Rifle
 Caliber			"None"
 Weight			4700
-PrepareTime		0.610000
+PrepareTime		0.17
 SingleFireTime	0.390000
 BurstFireTime	0.000000
 SpeedModifier	1.0
@@ -104009,7 +104009,7 @@ ITEM "GM94 folded"
 Class			Rifle
 Caliber			"None"
 Weight			4700
-PrepareTime		0.510000
+PrepareTime		0.12
 SingleFireTime	0.390000
 BurstFireTime	0.000000
 SpeedModifier	1.0
