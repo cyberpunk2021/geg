@@ -6045,6 +6045,14 @@ IMAGE			"harris.e5b"
 WEIGHT			500
 Resource		0
 //------------------------------------------------------
+Addon			"SSG08 Bipod Folded"
+Bipod			"SSG08 Bipod Mount"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR			"Items\ssg08bipodfolded.act"
+IMAGE			"harris.e5b"
+WEIGHT			500
+Resource		0
+//------------------------------------------------------
 Addon			"G36 bipod"
 Bipod			"G36_bipod"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"

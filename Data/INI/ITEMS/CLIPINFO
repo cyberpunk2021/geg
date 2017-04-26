@@ -703,7 +703,7 @@ DEFAMMO  "Palinero 7.62x25"
 CLIP  "SMG ammo clip (Type79/20)""7.62υ25 μμ""Type79"20 70 "None"1000 
 ACTOR  "Items\type79mag.act"
 USEPREFIX  ""
-IMAGE  "pps43_mag.e5b"
+IMAGE  "uzi_clip_25.e5b"
 DEFAMMO  "Palinero 7.62x25"
 CLIP  "SMG ammo clip (Type85/30)""7.62υ25 μμ""Type85"30 110 "None"1000 
 ACTOR  "Items\type85mag.act"
