@@ -28,7 +28,7 @@ Header {
  1;
 }
 
-Material diffuse {
+Material difffuse {
  0.588000, 0.588000, 0.588000, 1.000000;;
  17.000000;
  0.900000, 0.900000, 0.900000;;
@@ -4226,6 +4226,6 @@ Mesh g2contender {
   0,
   0,
   0;
-  {diffuse}
+  {difffuse}
  }
 }
