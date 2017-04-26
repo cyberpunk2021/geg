@@ -1205,7 +1205,7 @@ USEPREFIX  ""
 IMAGE  "sig_p220_mag7.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 CLIP  "Pistol clip (P2269MM/12)""9υ19 μμ""SIG9MM2"15 87 "None"1500 
-ACTOR  "Items\SIG_P226_clip.act"
+ACTOR  "Items\p228fixmag.act"
 USEPREFIX  ""
 IMAGE  "SIG_P226_clip.e5b"
 DEFAMMO  "9x19 FMJ Ball"

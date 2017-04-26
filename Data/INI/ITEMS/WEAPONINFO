@@ -4540,7 +4540,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG9MM2"
 StdPlug			"Pistol clip (P2269MM/12)"
-ACTOR			"Items\SigP228.act"
+ACTOR			"Items\p228fix.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -4577,7 +4577,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG9MM2"
 StdPlug			"Pistol clip (P2269MM/12)"
-ACTOR			"Items\SigP228.act"
+ACTOR			"Items\p228fix.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -7423,7 +7423,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG357MESMO"
 StdPlug			"Pistol clip (P226357/12)"
-ACTOR			"Items\SigP228.act"
+ACTOR			"Items\p228fix.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -9429,7 +9429,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG357"
 StdPlug			"Pistol clip (P226/12)"
-ACTOR			"Items\SigP228.act"
+ACTOR			"Items\p228fix.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
