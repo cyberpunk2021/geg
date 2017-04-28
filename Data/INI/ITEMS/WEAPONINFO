@@ -104124,7 +104124,7 @@ StdPlug			"RG-6 mag"
 StdPlug			"MGL launcher"
 StdPlug			"MGL sight"
 StdPlug			"mgl_stock_folded"
-ACTOR			"Items\mglcutmainfolded.act"
+ACTOR			"Items\mglcutmain.act"
 IMAGE			"rg-6_folded.e5b"
 HANDS			ahtRG
 
