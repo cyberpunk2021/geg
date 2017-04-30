@@ -103840,7 +103840,7 @@ StdPlug			"RG-6 mag"
 StdPlug			"sig550Butt_folded"
 StdPlug			"SIG550 Standalone Launcher"
 ACTOR			"Items\sig550glstandalone.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "Launcher M79"
