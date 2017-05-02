@@ -94051,7 +94051,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "WR"
+ATT Scope		1 "QBZScope"
 ATT Bipod		1 "QBUBipods"
 ATT Silencer	1 "Supressor - 5,8"
 ATT ILauncher	0
@@ -94090,7 +94090,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\AUG.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		1 "WR"
+ATT Scope		1 "QBZScope"
 ATT Bipod		1 "QBUBipods"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
