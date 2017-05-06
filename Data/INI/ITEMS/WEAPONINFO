@@ -79035,6 +79035,642 @@ HANDS			ahtRG
 
 //////---------------
 
+//////---------------------------------------
+
+ITEM "HCR Short AK47 pistol (7.62x39mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2300
+PrepareTime		0.20
+SingleFireTime	0.68
+BurstFireTime	0.087
+SpeedModifier	0.86
+Resource		1550
+DirtResource	140000
+MisfireProb		0.002
+HeatCapacity	35
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	47
+RangeCurvature	6
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Rifle ammo clip (AK 7.62/30)"
+ACTOR			"Items\HCR.ACT"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+/////////////---------------------
+
+ITEM "AK Pistol (7.62x39mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2500
+PrepareTime		0.22
+SingleFireTime	0.67
+BurstFireTime	0.087
+SpeedModifier	0.90
+Resource		1400
+DirtResource	160000
+MisfireProb		0.004
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	56
+RangeCurvature	6
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	2 "AK""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Rifle ammo clip (AK 7.62/30)"
+ACTOR			"Items\AKPistol.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+/////////////---------------------
+
+ITEM "AK gold Pistol (7.62x39mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2750
+PrepareTime		0.23
+SingleFireTime	0.7191
+BurstFireTime	0.087
+SpeedModifier	0.90
+Resource		1800
+DirtResource	190000
+MisfireProb		0.0075
+HeatCapacity	25
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	45
+RangeCurvature	15
+Balance			0.57
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	2 "AK""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Gold ammo clip (AK 7.62/30)"
+ACTOR			"Items\AKgold_Pistol.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRG
+
+/////////////---------------------
+
+ITEM "Assault Rifle Arsenal AR SF (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3000
+PrepareTime		0.24
+SingleFireTime	0.66
+BurstFireTime	0.0899
+SpeedModifier	0.91
+Resource		2600
+DirtResource	280000
+MisfireProb		0.0025
+HeatCapacity	33
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		220
+EffectiveRange	86
+RangeCurvature	2.6
+Balance			0.63
+Unfold			"Assault Rifle Arsenal AR SF (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "AK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"Zastava-butt"
+ACTOR			"Items\ARSENAL_SF.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Arsenal AR SF (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3000
+PrepareTime		0.20
+SingleFireTime	0.66
+BurstFireTime	0.0899
+SpeedModifier	0.91
+Resource		2600
+DirtResource	280000
+MisfireProb		0.0025
+HeatCapacity	33
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		220
+EffectiveRange	66
+RangeCurvature	2.6
+Balance			0.63
+Unfold			"Assault Rifle Arsenal AR SF (5.56mm)"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		1 "WR"
+ATT Bipod		0
+ATT Silencer	1 "AK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"Zastava-butt-folded"
+ACTOR			"Items\ARSENAL_SF.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+///////------------------------
+
+ITEM "Assault Rifle Short-Barreled (7.62x39mm)"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2700
+PrepareTime		0.25
+SingleFireTime	0.70
+BurstFireTime	0.0899
+SpeedModifier	0.91
+Resource		2000
+DirtResource	220000
+MisfireProb		0.0025
+HeatCapacity	30
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		220
+EffectiveRange	80
+RangeCurvature	2.6
+Balance			0.57
+Unfold			"Assault Rifle Short-Barreled (7.62x39mm) folded"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Rifle ammo clip (AK 7.62/40)"
+StdPlug			"akmsbutt"
+ACTOR			"Items\Type56short.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Short-Barreled (7.62x39mm) folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			2700
+PrepareTime		0.21
+SingleFireTime	0.70
+BurstFireTime	0.0899
+SpeedModifier	0.91
+Resource		2000
+DirtResource	220000
+MisfireProb		0.0025
+HeatCapacity	30
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		220
+EffectiveRange	60
+RangeCurvature	2.6
+Balance			0.57
+Unfold			"Assault Rifle Short-Barreled (7.62x39mm)"
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
+ShootSound		"Weapon\Shoot\AKS74U.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Rifle ammo clip (AK 7.62/40)"
+StdPlug			"akmsbutt_folded"
+ACTOR			"Items\Type56short.act"
+IMAGE			"2x3.e5b"
+HANDS			ahtRifle
+
+/////----------------------------
+
+ITEM "Assault Rifle AK Custom"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3300
+PrepareTime		0.387
+SingleFireTime	0.7
+BurstFireTime	0.1
+SpeedModifier	1.01
+Resource		2000
+DirtResource	500000
+MisfireProb		0.0005
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		275
+EffectiveRange	177
+RangeCurvature	1.35
+Balance			0.43
+Unfold			"Assault Rifle AK Custom folded"
+ClipInSound		"Weapon\ClipIn\AK-103_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-103_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-103_slide.wav"
+ShootSound		"Weapon\Shoot\AK47_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "AK"
+ATT Bipod		1 "WR" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"m4_butt"
+ACTOR			"Items\AK_Custom_2.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle AK Custom folded"
+Class			Rifle
+Caliber			"7.62υ39 μμ"
+Weight			3300
+PrepareTime		0.337
+SingleFireTime	0.7
+BurstFireTime	0.1
+SpeedModifier	1.01
+Resource		2000
+DirtResource	500000
+MisfireProb		0.0005
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	39
+RangeCurvature	15
+Balance			0.43
+Unfold			"Assault Rifle AK Custom"
+ClipInSound		"Weapon\ClipIn\AK-103_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-103_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-103_slide.wav"
+ShootSound		"Weapon\Shoot\AK47_fire.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "AK"
+ATT Bipod		1 "WR" blocks ILauncher
+ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
+ATT Magazine	2 "AK 7.62""RPK"
+StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
+StdPlug			"m4_butt_folded"
+ACTOR			"Items\AK_Custom_2.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+/////-------------------------
+
+ITEM "Assault Rifle Arsenal AR (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3600
+PrepareTime		0.387
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		1600
+DirtResource	600000
+MisfireProb		0.001
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		320
+EffectiveRange	158
+RangeCurvature	1.7
+Balance			0.48
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AK74.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		0
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	1 "AK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+ACTOR			"Items\arsenal_ar.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+//////-----------------------
+
+ITEM "Assault Rifle Arsenal AR-F (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3670
+PrepareTime		0.387
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		1600
+DirtResource	600000
+MisfireProb		0.001
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		320
+EffectiveRange	153
+RangeCurvature	1.7
+Balance			0.48
+Unfold			"Assault Rifle Arsenal AR-F (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AK74.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		0
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	1 "AK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"akmsbutt"
+ACTOR			"Items\arsenal_ar-f.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Arsenal AR-F (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3670
+PrepareTime		0.337
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		1600
+DirtResource	600000
+MisfireProb		0.001
+HeatCapacity	55
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	39
+RangeCurvature	15
+Balance			0.48
+Unfold			"Assault Rifle Arsenal AR-F (5.56mm)"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
+ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
+ShootSound		"Weapon\Shoot\AK74.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		0
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	1 "AK"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"akmsbutt_folded"
+ACTOR			"Items\arsenal_ar-f.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+////////-------------------------
+
+ITEM "Assault Rifle Arsenal AR M7F (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3840
+PrepareTime		0.387
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		2000
+DirtResource	500000
+MisfireProb		0.0005
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		320
+EffectiveRange	177
+RangeCurvature	2
+Balance			0.54
+Unfold			"Assault Rifle Arsenal AR M7F (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
+ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
+ShootSound		"Weapon\Shoot\AK-101_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
+ATT Silencer	1 "AK" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak101novo_butt"
+ACTOR			"Items\arsenal_m7f.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle Arsenal AR M7F (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			3840
+PrepareTime		0.337
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		2000
+DirtResource	500000
+MisfireProb		0.0005
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	39
+RangeCurvature	15
+Balance			0.54
+Unfold			"Assault Rifle Arsenal AR M7F (5.56mm)"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
+ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
+ShootSound		"Weapon\Shoot\AK-101_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
+ATT Silencer	1 "AK" blocks Bayonet
+ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
+ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak101novo_butt_folded"
+ACTOR			"Items\arsenal_m7f.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRifle
+
+////////------------------------
+
+ITEM "Assault Rifle Arsenal AR M7F M (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4050
+PrepareTime		0.355
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		2000
+DirtResource	500000
+MisfireProb		0.0005
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		320
+EffectiveRange	177
+RangeCurvature	2
+Balance			0.43
+Unfold			"Assault Rifle Arsenal AR M7F M (5.56mm) folded"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
+ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
+ShootSound		"Weapon\Shoot\AK-101_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	1 "AK" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak101novo_butt"
+ACTOR			"Items\arsenal_m7f_grip.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRG
+
+ITEM "Assault Rifle Arsenal AR M7F M (5.56mm) folded"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			4050
+PrepareTime		0.305
+SingleFireTime	0.69
+BurstFireTime	0.1
+SpeedModifier	1
+Resource		2000
+DirtResource	500000
+MisfireProb		0.0005
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		210
+EffectiveRange	39
+RangeCurvature	15
+Balance			0.43
+Unfold			"Assault Rifle Arsenal AR M7F M (5.56mm)"
+ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
+ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
+ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
+ShootSound		"Weapon\Shoot\AK-101_fire.wav"
+ATT Laser		1 "Barrel Mount"
+ATT Light		1 "Barrel Mount"
+ATT Scope		1 "AK"
+ATT Bipod		2 "AssaultBipod""BM1"
+ATT Silencer	1 "AK" blocks Bayonet
+ATT ILauncher	0
+ATT Bayonet		1 "StdBayonet" blocks Silencer
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Rifle ammo clip (AK 5.56/30)"
+StdPlug			"ak101novo_butt_folded"
+ACTOR			"Items\arsenal_m7f_grip.act"
+IMAGE			"2x4.e5b"
+HANDS			ahtRG
+
 ITEM "Assault Rifle Krinkov (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
@@ -94677,7 +95313,7 @@ BurstHitStart	0
 MaxRange		300
 EffectiveRange	222
 RangeCurvature	2
-Balance			0.52
+Balance			0.72
 Unfold			"AW Covert (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94718,7 +95354,7 @@ BurstHitStart	0
 MaxRange		300
 EffectiveRange	192
 RangeCurvature	2
-Balance			0.52
+Balance			0.72
 Unfold			"AW Covert (7.62x51mm)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96898,9 +97534,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		450
-EffectiveRange	263
-RangeCurvature	2.75
+MaxRange		300
+EffectiveRange	200
+RangeCurvature	5
 Balance			0.38
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -96935,9 +97571,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	342
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	330
+RangeCurvature	1.3
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -96957,7 +97593,7 @@ ACTOR			"Items\tgp1.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle ORSIS (.300)"
+ITEM "Sniper Rifle ORSIS (.300)" //95
 Class			Sniper
 Caliber			".300 WM"
 Weight			6500
@@ -96973,9 +97609,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	336
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	315
+RangeCurvature	1.3
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97012,9 +97648,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	316
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	265
+RangeCurvature	1.3
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97035,7 +97671,7 @@ ACTOR			"Items\orsisl.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle GOL (.300)"
+ITEM "Sniper Rifle GOL (.300)" //95
 Class			Sniper
 Caliber			".300 WM"
 Weight			5700
@@ -97051,9 +97687,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	336
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	320
+RangeCurvature	1.3
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97073,7 +97709,7 @@ ACTOR			"Items\golsniper.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle SSG08 (300)"
+ITEM "Sniper Rifle SSG08 (300)" //93
 Class			Sniper
 Caliber			".300 WM"
 Weight			6400
@@ -97089,9 +97725,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	321
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	308
+RangeCurvature	1.3
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97111,7 +97747,7 @@ ACTOR			"Items\ssg08.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle SRS (.300)"
+ITEM "Sniper Rifle SRS (.300)" //90
 Class			Sniper
 Caliber			".300 WM"
 Weight			5300
@@ -97127,9 +97763,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	306
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	290
+RangeCurvature	1.3
 Balance			0.75
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97149,7 +97785,7 @@ ACTOR			"Items\srs.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle TRG-42 (.300)"
+ITEM "Sniper Rifle TRG-42 (.300)" //92
 Class			Sniper
 Caliber			".300 WM"
 Weight			5800
@@ -97165,9 +97801,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	313
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	302
+RangeCurvature	1.3
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97205,9 +97841,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	283
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	272
+RangeCurvature	1.3
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97245,9 +97881,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	313
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	302
+RangeCurvature	1.3
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 B (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97285,9 +97921,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	283
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	272
+RangeCurvature	1.3
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 B (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97325,9 +97961,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	313
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	302
+RangeCurvature	1.3
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 T (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97365,9 +98001,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	283
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	272
+RangeCurvature	1.3
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 T (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97389,7 +98025,7 @@ ACTOR			"Items\TRG42t.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle AWM (300)"
+ITEM "Sniper Rifle AWM (300)" //94
 Class			Sniper
 Caliber			".300 WM"
 Weight			7780
@@ -97405,9 +98041,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	322
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	310
+RangeCurvature	1.3
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97427,7 +98063,7 @@ ACTOR			"Items\awmnovagreen2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle Tac 300 (300 WM)"
+ITEM "Sniper Rifle Tac 300 (300 WM)" //93
 Class			Sniper
 Caliber			".300 WM"
 Weight			7780
@@ -97443,9 +98079,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	319
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	305
+RangeCurvature	1.3
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97466,7 +98102,7 @@ ACTOR			"Items\tac308.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
-ITEM "Sniper Rifle R93 (300)"
+ITEM "Sniper Rifle R93 (300)" //92
 Class			Sniper
 Caliber			".300 WM"
 Weight			5700
@@ -97482,9 +98118,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	319
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	301
+RangeCurvature	1.3
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97504,7 +98140,7 @@ ACTOR			"Items\r93.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle MSR (.300)"
+ITEM "Sniper Rifle MSR (.300)" //90
 Class			Sniper
 Caliber			".300 WM"
 Weight			6100
@@ -97520,9 +98156,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	306
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	290
+RangeCurvature	1.3
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97558,9 +98194,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	306
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	290
+RangeCurvature	1.3
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97596,9 +98232,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	332
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	325
+RangeCurvature	1.3
 Balance			0.64
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97634,9 +98270,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	332
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	325
+RangeCurvature	1.3
 Balance			0.64
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97656,7 +98292,7 @@ ACTOR			"Items\xm2010black.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle M98b (.300)"
+ITEM "Sniper Rifle M98b (.300)" //95
 Class			Sniper
 Caliber			".300 WM"
 Weight			9090
@@ -97672,9 +98308,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		350
-EffectiveRange	336
-RangeCurvature	1
+MaxRange		360
+EffectiveRange	315
+RangeCurvature	1.3
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97709,9 +98345,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		320
-EffectiveRange	258
-RangeCurvature	1.5
+MaxRange		400
+EffectiveRange	260
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle SVDK (Brenneke) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97749,9 +98385,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		320
-EffectiveRange	228
-RangeCurvature	1.5
+MaxRange		400
+EffectiveRange	220
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle SVDK (Brenneke)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -97811,7 +98447,7 @@ ACTOR			"Items\vssk.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle L96A1 Mod (.338 Lapua)"
+ITEM "Sniper Rifle L96A1 Mod (.338 Lapua)" //96
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			7980
@@ -97827,9 +98463,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	340
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	325
+RangeCurvature	3
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97865,10 +98501,10 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	330
-RangeCurvature	1
-Balance			0.2
+MaxRange		420
+EffectiveRange	312
+RangeCurvature	3
+Balance			0.29
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
 ReLockSound		"Weapon\ReLock\L96_slide.wav"
@@ -97887,7 +98523,7 @@ ACTOR			"Items\awmnovabeige.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle TRG-42 (.338 Lapua)"
+ITEM "Sniper Rifle TRG-42 (.338 Lapua)" //94
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			5800
@@ -97903,9 +98539,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	326
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	300
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 (.338 Lapua) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97943,9 +98579,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	296
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	260
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 (.338 Lapua)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97983,9 +98619,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	326
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	300
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 B (.338 Lapua) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98023,9 +98659,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	296
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	260
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 B (.338 Lapua)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98063,9 +98699,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	326
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	300
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 T (.338 Lapua) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98103,9 +98739,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	296
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	260
+RangeCurvature	3
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 T (.338 Lapua)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98127,7 +98763,7 @@ ACTOR			"Items\TRG42t.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle MSR (.338)"
+ITEM "Sniper Rifle MSR (.338)" //92
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			6300
@@ -98143,9 +98779,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	316
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	288
+RangeCurvature	3
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98181,9 +98817,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	316
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	288
+RangeCurvature	3
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98203,7 +98839,7 @@ ACTOR			"Items\msrblack.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle Tac 338 (.338 Lapua)"
+ITEM "Sniper Rifle Tac 338 (.338 Lapua)" //95
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			5800
@@ -98219,9 +98855,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	330
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	310
+RangeCurvature	3
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98242,7 +98878,7 @@ ACTOR			"Items\tac338.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
-ITEM "Sniper Rifle ORSIS (.338)"
+ITEM "Sniper Rifle ORSIS (.338)" //98
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			5700
@@ -98258,9 +98894,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	343
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	360
+RangeCurvature	3
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.338) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98297,9 +98933,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	343
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	250
+RangeCurvature	3
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.338)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98320,7 +98956,7 @@ ACTOR			"Items\orsis.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle GOL (.338)"
+ITEM "Sniper Rifle GOL (.338)" //98
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			5700
@@ -98336,9 +98972,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	343
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	380
+RangeCurvature	3
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98358,7 +98994,7 @@ ACTOR			"Items\golsniper.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle SSG08 (338)"
+ITEM "Sniper Rifle SSG08 (338)" //95
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			6600
@@ -98374,9 +99010,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	330
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	315
+RangeCurvature	3
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -98396,7 +99032,7 @@ ACTOR			"Items\ssg08.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle SRS (.338 Lapua)"
+ITEM "Sniper Rifle SRS (.338 Lapua)" //92
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			5300
@@ -98412,9 +99048,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	316
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	287
+RangeCurvature	3
 Balance			0.75
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98434,7 +99070,7 @@ ACTOR			"Items\srs.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle R93 (338)"
+ITEM "Sniper Rifle R93 (338)" //95
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			5700
@@ -98450,9 +99086,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	326
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	311
+RangeCurvature	3
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98488,9 +99124,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	320
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	310
+RangeCurvature	3
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98510,7 +99146,7 @@ ACTOR			"Items\sr338.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-ITEM "Sniper Rifle M98b (.338 Lapua)"
+ITEM "Sniper Rifle M98b (.338 Lapua)" //99
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			9400
@@ -98526,9 +99162,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		380
-EffectiveRange	343
-RangeCurvature	1
+MaxRange		420
+EffectiveRange	390
+RangeCurvature	3
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -105496,640 +106132,6 @@ ACTOR			"Items\FAL_used-up.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
-//////---------------------------------------
 
-ITEM "HCR Short AK47 pistol (7.62x39mm)"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			2300
-PrepareTime		0.20
-SingleFireTime	0.68
-BurstFireTime	0.087
-SpeedModifier	0.86
-Resource		1550
-DirtResource	140000
-MisfireProb		0.002
-HeatCapacity	35
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	47
-RangeCurvature	6
-Balance			0.57
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Rifle ammo clip (AK 7.62/30)"
-ACTOR			"Items\HCR.ACT"
-IMAGE			"2x3.e5b"
-HANDS			ahtRifle
-
-/////////////---------------------
-
-ITEM "AK Pistol (7.62x39mm)"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			2500
-PrepareTime		0.22
-SingleFireTime	0.67
-BurstFireTime	0.087
-SpeedModifier	0.90
-Resource		1400
-DirtResource	160000
-MisfireProb		0.004
-HeatCapacity	25
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	56
-RangeCurvature	6
-Balance			0.57
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	2 "AK""PBS - 7,62x39"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Rifle ammo clip (AK 7.62/30)"
-ACTOR			"Items\AKPistol.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRG
-
-/////////////---------------------
-
-ITEM "AK gold Pistol (7.62x39mm)"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			2750
-PrepareTime		0.23
-SingleFireTime	0.7191
-BurstFireTime	0.087
-SpeedModifier	0.90
-Resource		1800
-DirtResource	190000
-MisfireProb		0.0075
-HeatCapacity	25
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	45
-RangeCurvature	15
-Balance			0.57
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	2 "AK""PBS - 7,62x39"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Gold ammo clip (AK 7.62/30)"
-ACTOR			"Items\AKgold_Pistol.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRG
-
-/////////////---------------------
-
-ITEM "Assault Rifle Arsenal AR SF (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3000
-PrepareTime		0.24
-SingleFireTime	0.66
-BurstFireTime	0.0899
-SpeedModifier	0.91
-Resource		2600
-DirtResource	280000
-MisfireProb		0.0025
-HeatCapacity	33
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		220
-EffectiveRange	86
-RangeCurvature	2.6
-Balance			0.63
-Unfold			"Assault Rifle Arsenal AR SF (5.56mm) folded"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "AK"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"Zastava-butt"
-ACTOR			"Items\ARSENAL_SF.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle Arsenal AR SF (5.56mm) folded"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3000
-PrepareTime		0.20
-SingleFireTime	0.66
-BurstFireTime	0.0899
-SpeedModifier	0.91
-Resource		2600
-DirtResource	280000
-MisfireProb		0.0025
-HeatCapacity	33
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		220
-EffectiveRange	66
-RangeCurvature	2.6
-Balance			0.63
-Unfold			"Assault Rifle Arsenal AR SF (5.56mm)"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "WR"
-ATT Bipod		0
-ATT Silencer	1 "AK"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"Zastava-butt-folded"
-ACTOR			"Items\ARSENAL_SF.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRifle
-
-///////------------------------
-
-ITEM "Assault Rifle Short-Barreled (7.62x39mm)"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			2700
-PrepareTime		0.25
-SingleFireTime	0.70
-BurstFireTime	0.0899
-SpeedModifier	0.91
-Resource		2000
-DirtResource	220000
-MisfireProb		0.0025
-HeatCapacity	30
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		220
-EffectiveRange	80
-RangeCurvature	2.6
-Balance			0.57
-Unfold			"Assault Rifle Short-Barreled (7.62x39mm) folded"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"akmsbutt"
-ACTOR			"Items\Type56short.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle Short-Barreled (7.62x39mm) folded"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			2700
-PrepareTime		0.21
-SingleFireTime	0.70
-BurstFireTime	0.0899
-SpeedModifier	0.91
-Resource		2000
-DirtResource	220000
-MisfireProb		0.0025
-HeatCapacity	30
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		220
-EffectiveRange	60
-RangeCurvature	2.6
-Balance			0.57
-Unfold			"Assault Rifle Short-Barreled (7.62x39mm)"
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
-ShootSound		"Weapon\Shoot\AKS74U.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		0
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Rifle ammo clip (AK 7.62/40)"
-StdPlug			"akmsbutt_folded"
-ACTOR			"Items\Type56short.act"
-IMAGE			"2x3.e5b"
-HANDS			ahtRifle
-
-/////----------------------------
-
-ITEM "Assault Rifle AK Custom"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			3300
-PrepareTime		0.387
-SingleFireTime	0.7
-BurstFireTime	0.1
-SpeedModifier	1.01
-Resource		2000
-DirtResource	500000
-MisfireProb		0.0005
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		275
-EffectiveRange	177
-RangeCurvature	1.35
-Balance			0.43
-Unfold			"Assault Rifle AK Custom folded"
-ClipInSound		"Weapon\ClipIn\AK-103_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-103_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-103_slide.wav"
-ShootSound		"Weapon\Shoot\AK47_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
-StdPlug			"m4_butt"
-ACTOR			"Items\AK_Custom_2.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle AK Custom folded"
-Class			Rifle
-Caliber			"7.62υ39 μμ"
-Weight			3300
-PrepareTime		0.337
-SingleFireTime	0.7
-BurstFireTime	0.1
-SpeedModifier	1.01
-Resource		2000
-DirtResource	500000
-MisfireProb		0.0005
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	39
-RangeCurvature	15
-Balance			0.43
-Unfold			"Assault Rifle AK Custom"
-ClipInSound		"Weapon\ClipIn\AK-103_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-103_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-103_slide.wav"
-ShootSound		"Weapon\Shoot\AK47_fire.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "AK"
-ATT Bipod		1 "WR" blocks ILauncher
-ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
-StdPlug			"m4_butt_folded"
-ACTOR			"Items\AK_Custom_2.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-/////-------------------------
-
-ITEM "Assault Rifle Arsenal AR (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3600
-PrepareTime		0.387
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		1600
-DirtResource	600000
-MisfireProb		0.001
-HeatCapacity	55
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		320
-EffectiveRange	158
-RangeCurvature	1.7
-Balance			0.48
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AK74.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "AK"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-ACTOR			"Items\arsenal_ar.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-//////-----------------------
-
-ITEM "Assault Rifle Arsenal AR-F (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3670
-PrepareTime		0.387
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		1600
-DirtResource	600000
-MisfireProb		0.001
-HeatCapacity	55
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		320
-EffectiveRange	153
-RangeCurvature	1.7
-Balance			0.48
-Unfold			"Assault Rifle Arsenal AR-F (5.56mm) folded"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AK74.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "AK"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"akmsbutt"
-ACTOR			"Items\arsenal_ar-f.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle Arsenal AR-F (5.56mm) folded"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3670
-PrepareTime		0.337
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		1600
-DirtResource	600000
-MisfireProb		0.001
-HeatCapacity	55
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	39
-RangeCurvature	15
-Balance			0.48
-Unfold			"Assault Rifle Arsenal AR-F (5.56mm)"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
-ReLockSound		"Weapon\ReLock\AK-102_slide.wav"
-ShootSound		"Weapon\Shoot\AK74.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		0
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "AK"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"akmsbutt_folded"
-ACTOR			"Items\arsenal_ar-f.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-////////-------------------------
-
-ITEM "Assault Rifle Arsenal AR M7F (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3840
-PrepareTime		0.387
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		2000
-DirtResource	500000
-MisfireProb		0.0005
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		320
-EffectiveRange	177
-RangeCurvature	2
-Balance			0.54
-Unfold			"Assault Rifle Arsenal AR M7F (5.56mm) folded"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
-ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
-ShootSound		"Weapon\Shoot\AK-101_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		1 "AK"
-ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
-ATT Silencer	1 "AK" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"ak101novo_butt"
-ACTOR			"Items\arsenal_m7f.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
-ITEM "Assault Rifle Arsenal AR M7F (5.56mm) folded"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			3840
-PrepareTime		0.337
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		2000
-DirtResource	500000
-MisfireProb		0.0005
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	39
-RangeCurvature	15
-Balance			0.54
-Unfold			"Assault Rifle Arsenal AR M7F (5.56mm)"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
-ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
-ShootSound		"Weapon\Shoot\AK-101_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		1 "AK"
-ATT Bipod		2 "AssaultBipod""BM1" blocks ILauncher
-ATT Silencer	1 "AK" blocks Bayonet
-ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
-ATT Bayonet		1 "StdBayonet" blocks ILauncher and Silencer
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"ak101novo_butt_folded"
-ACTOR			"Items\arsenal_m7f.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRifle
-
-////////------------------------
-
-ITEM "Assault Rifle Arsenal AR M7F M (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			4050
-PrepareTime		0.355
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		2000
-DirtResource	500000
-MisfireProb		0.0005
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		320
-EffectiveRange	177
-RangeCurvature	2
-Balance			0.43
-Unfold			"Assault Rifle Arsenal AR M7F M (5.56mm) folded"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
-ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
-ShootSound		"Weapon\Shoot\AK-101_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		1 "AK"
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "AK" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "StdBayonet" blocks Silencer
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"ak101novo_butt"
-ACTOR			"Items\arsenal_m7f_grip.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRG
-
-ITEM "Assault Rifle Arsenal AR M7F M (5.56mm) folded"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			4050
-PrepareTime		0.305
-SingleFireTime	0.69
-BurstFireTime	0.1
-SpeedModifier	1
-Resource		2000
-DirtResource	500000
-MisfireProb		0.0005
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		210
-EffectiveRange	39
-RangeCurvature	15
-Balance			0.43
-Unfold			"Assault Rifle Arsenal AR M7F M (5.56mm)"
-ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
-ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
-ReLockSound		"Weapon\ReLock\AK-101_slide.wav"
-ShootSound		"Weapon\Shoot\AK-101_fire.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
-ATT Scope		1 "AK"
-ATT Bipod		2 "AssaultBipod""BM1"
-ATT Silencer	1 "AK" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "StdBayonet" blocks Silencer
-ATT Magazine	1 "AK 5.56"
-StdPlug			"Rifle ammo clip (AK 5.56/30)"
-StdPlug			"ak101novo_butt_folded"
-ACTOR			"Items\arsenal_m7f_grip.act"
-IMAGE			"2x4.e5b"
-HANDS			ahtRG
 
 END
