@@ -34,7 +34,7 @@ Material ffffsight {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_dsafrontsight.dds";
+  "fnfal_dsafrontsightbk.dds";
  }
 }
 
@@ -44,7 +44,7 @@ Material slinngg {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_dsabarrel.dds";
+  "fnfal_dsabarrelimbel.dds";
  }
 }
 
@@ -64,7 +64,7 @@ Material brbre {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_handguarddz.dds";
+  "fnfal_handguarddzimbel.dds";
  }
 }
 
@@ -74,7 +74,7 @@ Material material_0_gta_defa001 {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_recfix.dds";
+  "fnfal_imbelrecfix.dds";
  }
 }
 
@@ -84,7 +84,7 @@ Material topraill {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_dsarail.dds";
+  "fnfal_dsarailbk.dds";
  }
 }
 
@@ -94,7 +94,7 @@ Material railgripps {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_dsaforegrip.dds";
+  "fnfal_dsaforegripbk.dds";
  }
 }
 
