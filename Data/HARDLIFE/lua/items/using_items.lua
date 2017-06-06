@@ -56,6 +56,8 @@
  ["BigWoodBoxBTMP9"] = "Submachine-gun BT MP9 (9mm)",
  ["BigWoodBoxFEGAK63"] = "Assault Rifle AK-63F (7.62x39mm)",
  ["BigWoodBoxFEGAK63D"] = "Assault Rifle AK-63D (7.62x39mm)",
+ ["BigWoodBoxAKM"] = "Assault Rifle AKM (7.62x39mm)",
+ ["BigWoodBoxAKMN"] = "Assault Rifle AKMN (7.62x39mm)",
  ["BigWoodBoxM964Civ"] = "Carabine IMBEL M964A1",
  ["BigWoodBoxSAF9"] = "Submachine-gun FAMAE SAF (9mm)",
  ["BigWoodBoxMT40"] = "Submachine-gun Taurus MT-40 (.40 S&W)",
@@ -1038,6 +1040,8 @@ AddItemContextMenu("BigWoodBoxVityaz", 		action_unpack_box, UnpackWeaponBox, Can
 AddItemContextMenu("BigWoodBoxBTMP9", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxFEGAK63", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxFEGAK63D", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("BigWoodBoxAKM", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+AddItemContextMenu("BigWoodBoxAKMN", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxM964Civ", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxSAF9", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("BigWoodBoxMT40", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
