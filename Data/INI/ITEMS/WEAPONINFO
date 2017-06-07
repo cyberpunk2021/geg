@@ -38152,7 +38152,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		640
-EffectiveRange	325
+EffectiveRange	280
 RangeCurvature	1.1
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -38189,7 +38189,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		640
-EffectiveRange	325
+EffectiveRange	280
 RangeCurvature	1.1
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -38302,7 +38302,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		500
 EffectiveRange	215
-RangeCurvature	2.2
+RangeCurvature	1.7
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -38375,7 +38375,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		900
-EffectiveRange	450
+EffectiveRange	420
 RangeCurvature	1
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -38411,7 +38411,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		850
+MaxRange		900
 EffectiveRange	395
 RangeCurvature	1
 Balance			0.53
@@ -38436,7 +38436,7 @@ ITEM "Rifle M1 Garand (.30-06)"
 Class			Rifle
 Caliber			"30-06 Springfield"
 Weight			4380
-PrepareTime		0.6
+PrepareTime		0.59
 SingleFireTime	0.86
 BurstFireTime	0
 SpeedModifier	1.03
@@ -38448,8 +38448,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		780
-EffectiveRange	335
+MaxRange		850
+EffectiveRange	345
 RangeCurvature	1
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\garand_clip_in.wav"
@@ -38486,7 +38486,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		780
-EffectiveRange	380
+EffectiveRange	295
 RangeCurvature	1
 Balance			0.5
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -38523,7 +38523,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		780
-EffectiveRange	395
+EffectiveRange	355
 RangeCurvature	1
 Balance			0.5
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -38598,7 +38598,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		650
+MaxRange		750
 EffectiveRange	280
 RangeCurvature	1.5
 Balance			0.32
@@ -38636,7 +38636,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		650
+MaxRange		750
 EffectiveRange	270
 RangeCurvature	1.5
 Balance			0.35
@@ -38673,7 +38673,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		790
+MaxRange		800
 EffectiveRange	310
 RangeCurvature	1
 Balance			0.35
@@ -38710,7 +38710,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		820
+MaxRange		800
 EffectiveRange	345
 RangeCurvature	1
 Balance			0.35
@@ -38747,7 +38747,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	0
-MaxRange		820
+MaxRange		800
 EffectiveRange	345
 RangeCurvature	1
 Balance			0.35
@@ -38861,7 +38861,7 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		950
-EffectiveRange	500
+EffectiveRange	460
 RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -38897,9 +38897,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		750
-EffectiveRange	325
-RangeCurvature	1.2
+MaxRange		850
+EffectiveRange	375
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -38971,9 +38971,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		680
-EffectiveRange	380
-RangeCurvature	1
+MaxRange		750
+EffectiveRange	330
+RangeCurvature	1.5
 Balance			0.52
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39008,9 +39008,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1050
-EffectiveRange	580
-RangeCurvature	0.6
+MaxRange		1100
+EffectiveRange	550
+RangeCurvature	1.1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39045,9 +39045,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	181
-RangeCurvature	1.5
+MaxRange		950
+EffectiveRange	290
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39082,8 +39082,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		860
-EffectiveRange	350
+MaxRange		950
+EffectiveRange	330
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -39119,8 +39119,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		700
-EffectiveRange	310
+MaxRange		850
+EffectiveRange	280
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -39232,7 +39232,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		470
 EffectiveRange	175
-RangeCurvature	2
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39270,7 +39270,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		530
 EffectiveRange	227
-RangeCurvature	1.4
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39308,7 +39308,7 @@ CutOff			0
 BurstHitStart	0
 MaxRange		555
 EffectiveRange	245
-RangeCurvature	1.2
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39344,9 +39344,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		820
-EffectiveRange	405
-RangeCurvature	1
+MaxRange		720
+EffectiveRange	315
+RangeCurvature	1.2
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -39383,8 +39383,8 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		820
-EffectiveRange	435
-RangeCurvature	1
+EffectiveRange	350
+RangeCurvature	1.2
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -50256,7 +50256,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		780
+MaxRange		850
 EffectiveRange	350
 RangeCurvature	1
 Balance			0.44
@@ -50295,7 +50295,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		624
+MaxRange		680
 EffectiveRange	280
 RangeCurvature	1
 Balance			0.44
@@ -50334,7 +50334,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		780
+MaxRange		850
 EffectiveRange	350
 RangeCurvature	1
 Balance			0.44
@@ -50373,7 +50373,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		624
+MaxRange		680
 EffectiveRange	280
 RangeCurvature	1
 Balance			0.44
@@ -91160,16 +91160,16 @@ SingleFireTime	1.26
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		1400
-DirtResource		80000
+DirtResource	80000
 MisfireProb		0.0039
 HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	203
-RangeCurvature	2
+MaxRange		650
+EffectiveRange	315
+RangeCurvature	1.7
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91198,16 +91198,16 @@ SingleFireTime	1.21
 BurstFireTime	0
 SpeedModifier	1.06
 Resource		1200
-DirtResource		70000
+DirtResource	70000
 MisfireProb		0.0039
 HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	182
-RangeCurvature	2
+MaxRange		550
+EffectiveRange	245
+RangeCurvature	1.7
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91236,16 +91236,16 @@ SingleFireTime	1.23
 BurstFireTime	0
 SpeedModifier	1.09
 Resource		1300
-DirtResource		75000
+DirtResource	75000
 MisfireProb		0.0039
 HeatCapacity	40
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	197
-RangeCurvature	2
+MaxRange		650
+EffectiveRange	300
+RangeCurvature	1.7
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91274,16 +91274,16 @@ SingleFireTime	1.28
 BurstFireTime	0
 SpeedModifier	1.13
 Resource		2400
-DirtResource		99000
+DirtResource	99000
 MisfireProb		0.0039
 HeatCapacity	70
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	207
-RangeCurvature	2
+MaxRange		655
+EffectiveRange	305
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91320,9 +91320,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	1.5
+MaxRange		820
+EffectiveRange	375
+RangeCurvature	1.2
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91359,9 +91359,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	1.5
+MaxRange		920
+EffectiveRange	435
+RangeCurvature	1.2
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91398,9 +91398,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	1.5
+MaxRange		1000
+EffectiveRange	500
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91436,9 +91436,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	205
-RangeCurvature	1.5
+MaxRange		880
+EffectiveRange	395
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91474,9 +91474,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	1.5
+MaxRange		880
+EffectiveRange	455
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91500,7 +91500,7 @@ ITEM "Sniper Rifle L42A1"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4100
-PrepareTime		0.67
+PrepareTime		0.65
 SingleFireTime	1.27
 BurstFireTime	0
 SpeedModifier	1.09
@@ -91512,8 +91512,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	215
+MaxRange		850
+EffectiveRange	415
 RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -91538,7 +91538,7 @@ ITEM "Sniper MAS36 (7.5)"
 Class			Sniper
 Caliber			"7.5x54mm French"
 Weight			3700
-PrepareTime		0.66
+PrepareTime		0.73
 SingleFireTime	1.29
 BurstFireTime	0
 SpeedModifier	1.06
@@ -91550,9 +91550,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	203
-RangeCurvature	1.5
+MaxRange		740
+EffectiveRange	375
+RangeCurvature	1.1
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91588,9 +91588,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1.5
+MaxRange		740
+EffectiveRange	340
+RangeCurvature	1.1
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91614,7 +91614,7 @@ ITEM "Sniper MAS49 MSE (7.5)"
 Class			Sniper
 Caliber			"7.5x54mm French"
 Weight			4200
-PrepareTime		0.71
+PrepareTime		0.70
 SingleFireTime	0.96
 BurstFireTime	0
 SpeedModifier	1.08
@@ -91626,9 +91626,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	197
-RangeCurvature	1.5
+MaxRange		740
+EffectiveRange	340
+RangeCurvature	1.1
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91650,23 +91650,23 @@ HANDS			ahtRifle
 
 ITEM "Sniper G98 (7.62x54mm)"
 Class			Sniper
-Caliber "7.92x57 Mauser"
+Caliber 		"7.92x57 Mauser"
 Weight			4100
 PrepareTime		0.79
 SingleFireTime	1.36
 BurstFireTime	0
 SpeedModifier	1.15
 Resource		1700
-DirtResource		78000
+DirtResource	78000
 MisfireProb		0.0039
 HeatCapacity	70
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	226
-RangeCurvature	1.5
+MaxRange		1050
+EffectiveRange	580
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91688,7 +91688,7 @@ HANDS			ahtBoltRifle
 
 ITEM "Sniper G98a (7.62x54mm)"
 Class			Sniper
-Caliber "7.92x57 Mauser"
+Caliber 		"7.92x57 Mauser"
 Weight			3500
 PrepareTime		0.71
 SingleFireTime	1.29
@@ -91702,9 +91702,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	203
-RangeCurvature	1.5
+MaxRange		950
+EffectiveRange	440
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91726,23 +91726,23 @@ HANDS			ahtBoltRifle
 
 ITEM "Sniper Karabiner 98k (7.62x54mm)"
 Class			Sniper
-Caliber "7.92x57 Mauser"
+Caliber 		"7.92x57 Mauser"
 Weight			4100
 PrepareTime		0.74
 SingleFireTime	1.33
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		1800
-DirtResource		80000
+DirtResource	80000
 MisfireProb		0.0039
 HeatCapacity	70
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	215
-RangeCurvature	1.5
+MaxRange		950
+EffectiveRange	520
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91771,15 +91771,15 @@ SingleFireTime	1.31
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		1800
-DirtResource		80000
+DirtResource	80000
 MisfireProb		0.0039
 HeatCapacity	70
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	215
+MaxRange		750
+EffectiveRange	390
 RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -91802,23 +91802,23 @@ HANDS			ahtBoltRifle
 
 ITEM "Sniper G98 (Brenneke)"
 Class			Sniper
-Caliber "9.3x64mm"
+Caliber 		"9.3x64mm"
 Weight			4100
 PrepareTime		0.81
 SingleFireTime	1.42
 BurstFireTime	0
 SpeedModifier	1.11
 Resource		1800
-DirtResource		80000
+DirtResource	80000
 MisfireProb		0.0039
 HeatCapacity	70
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	226
-RangeCurvature	1.5
+MaxRange		1200
+EffectiveRange	680
+RangeCurvature	1.1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91840,23 +91840,23 @@ HANDS			ahtBoltRifle
 
 ITEM "Sniper G41 (7.62x54mm)"
 Class			Sniper
-Caliber "7.92x57 Mauser"
+Caliber 		"7.92x57 Mauser"
 Weight			5100
 PrepareTime		0.74
 SingleFireTime	0.94
 BurstFireTime	0
 SpeedModifier	1.14
 Resource		500
-DirtResource		20000
+DirtResource	20000
 MisfireProb		0.0039
 HeatCapacity	25
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	199
-RangeCurvature	1.5
+MaxRange		1050
+EffectiveRange	400
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91878,23 +91878,23 @@ HANDS			ahtBoltRifle
 
 ITEM "Sniper G43 (7.62x54mm)"
 Class			Sniper
-Caliber "7.92x57 Mauser"
+Caliber 		"7.92x57 Mauser"
 Weight			4600
 PrepareTime		0.72
 SingleFireTime	0.94
 BurstFireTime	0
 SpeedModifier	1.12
 Resource		900
-DirtResource		40000
+DirtResource	40000
 MisfireProb		0.0039
 HeatCapacity	30
 Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	199
-RangeCurvature	1.5
+MaxRange		1050
+EffectiveRange	420
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91930,9 +91930,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	201
-RangeCurvature	1.5
+MaxRange		950
+EffectiveRange	480
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -91956,7 +91956,7 @@ ITEM "Rifle Mosin_m91-30 Unique (7.62x54mm)"
 Class			Sniper
 Caliber			"7.62υ54R μμ"
 Weight			4000
-PrepareTime		0.75
+PrepareTime		0.70
 SingleFireTime	1.30
 BurstFireTime	0.3
 SpeedModifier	1.14
@@ -91968,9 +91968,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	209
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	540
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -92006,9 +92006,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1.5
+MaxRange		800
+EffectiveRange	380
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -92045,9 +92045,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	203
-RangeCurvature	1.5
+MaxRange		800
+EffectiveRange	420
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
 ClipOutSound	"Weapon\ClipOut\Mosin_sniper_clip_out.wav"
@@ -92072,7 +92072,7 @@ ITEM "Rifle CZ 500 (3006)"
 Class			Sniper
 Caliber			"30-06 Springfield"
 Weight			3500
-PrepareTime		0.57
+PrepareTime		0.58
 SingleFireTime	1.28
 BurstFireTime	0.000000
 SpeedModifier	1.1
@@ -92084,9 +92084,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	3.0
+MaxRange		1000
+EffectiveRange	550
+RangeCurvature	1
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92122,9 +92122,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	3.0
+MaxRange		850
+EffectiveRange	480
+RangeCurvature	1
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92148,7 +92148,7 @@ ITEM "Rifle CZ 500 (8mm)"
 Class			Sniper
 Caliber			"7.92x57 Mauser"
 Weight			3450
-PrepareTime		0.57
+PrepareTime		0.59
 SingleFireTime	1.3
 BurstFireTime	0.000000
 SpeedModifier	1.1
@@ -92160,9 +92160,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	3.0
+MaxRange		1050
+EffectiveRange	580
+RangeCurvature	1
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92186,7 +92186,7 @@ ITEM "Rifle CZ 500 (300)"
 Class			Sniper
 Caliber			".300 WM"
 Weight			3600
-PrepareTime		0.58
+PrepareTime		0.63
 SingleFireTime	1.34
 BurstFireTime	0.000000
 SpeedModifier	1.1
@@ -92198,9 +92198,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	3.0
+MaxRange		1800
+EffectiveRange	1000
+RangeCurvature	0.7
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92300,7 +92300,7 @@ ITEM "Carabine Vepr (3006)"
 Class			Sniper
 Caliber			"30-06 Springfield"
 Weight			3850
-PrepareTime		0.54
+PrepareTime		0.55
 SingleFireTime	0.87
 BurstFireTime	0.1
 SpeedModifier	1.14
@@ -92312,8 +92312,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	196
+MaxRange		950
+EffectiveRange	450
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -96737,9 +96737,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	204
-RangeCurvature	5
+MaxRange		1000
+EffectiveRange	630
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96924,9 +96924,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		450
-EffectiveRange	307
-RangeCurvature	2.2
+MaxRange		1000
+EffectiveRange	670
+RangeCurvature	1
 Balance			0.3
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97042,9 +97042,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	197
-RangeCurvature	5
+MaxRange		1000
+EffectiveRange	650
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97081,9 +97081,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	197
-RangeCurvature	5
+MaxRange		1000
+EffectiveRange	650
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
