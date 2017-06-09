@@ -15750,7 +15750,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		260
 EffectiveRange	80
-RangeCurvature	6
+RangeCurvature	3
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -15787,7 +15787,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		260
 EffectiveRange	65
-RangeCurvature	6
+RangeCurvature	3
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -15824,7 +15824,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		260
 EffectiveRange	92
-RangeCurvature	6
+RangeCurvature	3
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -15861,7 +15861,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		260
 EffectiveRange	88
-RangeCurvature	6
+RangeCurvature	3
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -15973,7 +15973,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		320
 EffectiveRange	85
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16010,7 +16010,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		305
 EffectiveRange	90
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16047,7 +16047,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		315
 EffectiveRange	95
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16197,7 +16197,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		305
 EffectiveRange	95
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.59
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16234,7 +16234,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		335
 EffectiveRange	100
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.59
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16271,7 +16271,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		325
 EffectiveRange	100
-RangeCurvature	10
+RangeCurvature	5
 Balance			0.59
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16308,7 +16308,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		260
 EffectiveRange	115
-RangeCurvature	6
+RangeCurvature	3
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16419,7 +16419,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		335
 EffectiveRange	120
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16456,7 +16456,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		320
 EffectiveRange	115
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16493,7 +16493,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		305
 EffectiveRange	110
-RangeCurvature	8
+RangeCurvature	4
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16530,7 +16530,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		360
 EffectiveRange	136
-RangeCurvature	7
+RangeCurvature	4
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16566,8 +16566,8 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		345
-EffectiveRange	130
-RangeCurvature	7
+EffectiveRange	125
+RangeCurvature	4
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16603,8 +16603,8 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		450
-EffectiveRange	160
-RangeCurvature	6
+EffectiveRange	140
+RangeCurvature	3
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -16639,9 +16639,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		500
-EffectiveRange	170
-RangeCurvature	4
+MaxRange		380
+EffectiveRange	130
+RangeCurvature	3
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
 ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
@@ -18198,9 +18198,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	64
-RangeCurvature	5
+MaxRange		110
+EffectiveRange	42
+RangeCurvature	1.5
 Balance			0.41
 Unfold			"Submachine-gun M3A1 (9mm)"
 ClipInSound		"Weapon\ClipIn\M3A1_mag_in.Wav"
@@ -18278,9 +18278,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	64
-RangeCurvature	4
+MaxRange		100
+EffectiveRange	32
+RangeCurvature	2
 Balance			0.41
 Unfold			"Submachine-gun M3A1 (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\M3A1_mag_in.wav"
@@ -18469,9 +18469,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	72
-RangeCurvature	5
+MaxRange		110
+EffectiveRange	46
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun MP40 (9mm)"
 ClipInSound		"Weapon\ClipIn\Thompson_mag_IN.wav"
@@ -18623,9 +18623,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	83
-RangeCurvature	5
+MaxRange		110
+EffectiveRange	51
+RangeCurvature	1.5
 Balance			0.52
 Unfold			"Submachine-gun Sterling L2A3 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -18701,9 +18701,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	80
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	40
+RangeCurvature	1.75
 Balance			0.52
 Unfold			"Submachine-gun CETME C2 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -18816,9 +18816,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	73
-RangeCurvature	6
+MaxRange		110
+EffectiveRange	46
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Carl Gustaf Kpist M45 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -19046,9 +19046,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	73
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	36
+RangeCurvature	1.25
 Balance			0.32
 Unfold			"Submachine-gun K50M (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
@@ -19124,9 +19124,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	65
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	42
+RangeCurvature	1.25
 Balance			0.32
 Unfold			"Submachine-gun Type 54 (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
@@ -19163,7 +19163,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
+MaxRange		230
 EffectiveRange	84
 RangeCurvature	2.5
 Balance			0.59
@@ -19202,9 +19202,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	64
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	42
+RangeCurvature	1.25
 Balance			0.59
 Unfold			"Submachine-gun Type 79 (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
@@ -19280,9 +19280,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	70
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	45
+RangeCurvature	1.25
 Balance			0.63
 Unfold			"Submachine-gun Type 85 (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\PPSh_disk_in.wav"
@@ -19358,9 +19358,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	74
-RangeCurvature	5
+MaxRange		110
+EffectiveRange	47
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Submachine-gun MAT49 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -19436,9 +19436,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	76
-RangeCurvature	6
+MaxRange		115
+EffectiveRange	48
+RangeCurvature	1.25
 Balance			0.54
 Unfold			"MAT-49 (7.62x25)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -38374,7 +38374,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		900
+MaxRange		930
 EffectiveRange	420
 RangeCurvature	1
 Balance			0.43
@@ -38411,7 +38411,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		900
+MaxRange		930
 EffectiveRange	395
 RangeCurvature	1
 Balance			0.53
@@ -38448,7 +38448,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		850
+MaxRange		880
 EffectiveRange	345
 RangeCurvature	1
 Balance			0.29
@@ -38786,7 +38786,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1000
 EffectiveRange	410
 RangeCurvature	1
 Balance			0.32
@@ -38823,7 +38823,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		750
+MaxRange		800
 EffectiveRange	310
 RangeCurvature	1.2
 Balance			0.26
@@ -38860,7 +38860,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1000
 EffectiveRange	460
 RangeCurvature	1
 Balance			0.26
@@ -38897,7 +38897,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		850
+MaxRange		900
 EffectiveRange	375
 RangeCurvature	1
 Balance			0.26
@@ -38934,7 +38934,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1000
 EffectiveRange	470
 RangeCurvature	1
 Balance			0.52
@@ -39045,7 +39045,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1000
 EffectiveRange	290
 RangeCurvature	1
 Balance			0.35
@@ -39082,7 +39082,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1000
 EffectiveRange	330
 RangeCurvature	1
 Balance			0.35
@@ -39119,7 +39119,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		850
+MaxRange		880
 EffectiveRange	280
 RangeCurvature	1
 Balance			0.35
@@ -39457,7 +39457,7 @@ Single			1
 Burst			1
 CutOff			4
 BurstHitStart	1
-MaxRange		600
+MaxRange		650
 EffectiveRange	280
 RangeCurvature	1
 Balance			0.35
@@ -39679,7 +39679,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	0
-MaxRange		650
+MaxRange		700
 EffectiveRange	300
 RangeCurvature	1
 Balance			0.35
@@ -39716,7 +39716,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	0
-MaxRange		650
+MaxRange		700
 EffectiveRange	300
 RangeCurvature	1
 Balance			0.49
@@ -50256,7 +50256,7 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		850
+MaxRange		880
 EffectiveRange	350
 RangeCurvature	1
 Balance			0.44
@@ -50295,7 +50295,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		680
+MaxRange		704
 EffectiveRange	280
 RangeCurvature	1
 Balance			0.44
@@ -50334,7 +50334,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		850
+MaxRange		880
 EffectiveRange	350
 RangeCurvature	1
 Balance			0.44
@@ -50373,7 +50373,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		680
+MaxRange		704
 EffectiveRange	280
 RangeCurvature	1
 Balance			0.44
@@ -84649,8 +84649,8 @@ ATT Bipod		1 "AssaultBipod" blocks ILauncher and Bayonet
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	1 "GP-30" blocks Bipod and Bayonet
 ATT Bayonet		1 "StdBayonet" blocks ILauncher and Bipod and Silencer
-ATT Magazine	2 "AK 7.62""RPK"
-StdPlug			"Rifle ammo clip (RK95/30)"
+ATT Magazine	1 "AK 5.56"
+StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
 StdPlug			"Rk95_butt_folded"
 ACTOR			"Items\Rk95.act"
 IMAGE			"2x4.e5b"
@@ -90765,7 +90765,7 @@ ITEM "Assault Rifle AS VAL (9x39mm)"
 Class			Rifle
 Caliber			"9υ39 μμ"
 Weight			2330
-PrepareTime		0.4
+PrepareTime		0.38
 SingleFireTime	0.72
 BurstFireTime	0.075
 SpeedModifier	1.04
@@ -91398,7 +91398,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1000
+MaxRange		1030
 EffectiveRange	500
 RangeCurvature	1
 Balance			0.35
@@ -91664,7 +91664,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1050
+MaxRange		1100
 EffectiveRange	580
 RangeCurvature	1
 Balance			0.35
@@ -91702,7 +91702,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1000
 EffectiveRange	440
 RangeCurvature	1
 Balance			0.26
@@ -91740,7 +91740,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		950
+MaxRange		1100
 EffectiveRange	520
 RangeCurvature	1
 Balance			0.35
@@ -91778,8 +91778,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		750
-EffectiveRange	390
+MaxRange		850
+EffectiveRange	400
 RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -91868,7 +91868,7 @@ ATT Scope		1 "G43Scope"
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
-ATT Bayonet 0
+ATT Bayonet 	0
 ATT Magazine	1 "built-in"
 StdPlug			"Rifle clip (G41/10)"
 StdPlug			"Zeiss ZF4"
@@ -91906,7 +91906,7 @@ ATT Scope		1 "G43Scope"
 ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
-ATT Bayonet 0
+ATT Bayonet 	0
 ATT Magazine	1 "G43"
 StdPlug			"Rifle clip (Gewehr 43/10)"
 StdPlug			"Zeiss ZF4"
@@ -92006,8 +92006,8 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		800
-EffectiveRange	380
+MaxRange		900
+EffectiveRange	360
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -92024,7 +92024,6 @@ ATT Bayonet		0
 ATT Magazine	1 "AVS-36"
 StdPlug			"Rifle clip (AVS-36/15)"
 StdPlug			"Optical Sight PU NEW"
-//StdPlug			"Tactical Bipod TL-BP16"
 ACTOR			"Items\avs36.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -92045,8 +92044,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		800
-EffectiveRange	420
+MaxRange		900
+EffectiveRange	400
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Mosin_sniper_clip_in full.wav"
@@ -92063,7 +92062,6 @@ ATT Bayonet		0
 ATT Magazine	1 "SVT40"
 StdPlug			"Rifle clip (SVT-40/10)"
 StdPlug			"Optical Sight PU"
-//StdPlug			"Tactical Bipod TL-BP16"
 ACTOR			"Items\svt.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -92084,7 +92082,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1000
+MaxRange		1030
 EffectiveRange	550
 RangeCurvature	1
 Balance			0.39
@@ -92123,8 +92121,8 @@ Burst			0
 CutOff			0
 BurstHitStart	0
 MaxRange		850
-EffectiveRange	480
-RangeCurvature	1
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92224,7 +92222,7 @@ ITEM "Rifle CZ 500 (338)"
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			3600
-PrepareTime		0.59
+PrepareTime		0.66
 SingleFireTime	1.37
 BurstFireTime	0.000000
 SpeedModifier	1.1
@@ -92236,9 +92234,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	3.0
+MaxRange		2500
+EffectiveRange	1500
+RangeCurvature	0.6
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92262,7 +92260,7 @@ ITEM "Rifle CZ 500 (375)"
 Class			Sniper
 Caliber			".375 H&H"
 Weight			3300
-PrepareTime		0.59
+PrepareTime		0.66
 SingleFireTime	1.38
 BurstFireTime	0.000000
 SpeedModifier	1.1
@@ -92274,9 +92272,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	3.0
+MaxRange		1200
+EffectiveRange	530
+RangeCurvature	1
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92312,8 +92310,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		950
-EffectiveRange	450
+MaxRange		930
+EffectiveRange	370
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -92350,9 +92348,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	196
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	340
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92388,8 +92386,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	196
+MaxRange		900
+EffectiveRange	350
 RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -92426,9 +92424,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	208
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	260
+RangeCurvature	2
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92464,9 +92462,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	340
+RangeCurvature	2
 Balance			0.58
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92501,9 +92499,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	1.25
+MaxRange		730
+EffectiveRange	400
+RangeCurvature	2
 Balance			0.58
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92540,9 +92538,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	203
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	320
+RangeCurvature	2
 Balance			0.58
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92558,6 +92556,45 @@ ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (AR-15/10)"
 ACTOR			"Items\m16a4.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
+ITEM "Assault Rifle HK33SG1 (5.56mm)"
+Class			Sniper
+Caliber			"5.56υ45 μμ"
+Weight			3700
+PrepareTime		0.53
+SingleFireTime	0.86
+BurstFireTime	0.08
+SpeedModifier	1.08
+Resource		2000
+DirtResource	63000
+MisfireProb		0.02
+HeatCapacity	60
+Single			1
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		650
+EffectiveRange	310
+RangeCurvature	2
+Balance			0.48
+ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
+ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
+ReLockSound		"Weapon\ReLock\strifle_slide.wav"
+ShootSound		"Weapon\Shoot\HK53_fire.wav"
+ATT Laser		1 "Barrel Mount" blocks ILauncher
+ATT Light		1 "Barrel Mount" blocks ILauncher
+ATT Scope		1 "HK MP5"
+ATT Bipod		1 "G3Bipod" blocks ILauncher
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
+ATT ILauncher	1 "hk" blocks Bipod and Silencer and Laser and Light
+ATT Bayonet		1 "HK" blocks Silencer
+ATT Magazine	1 "HK 5.56"
+StdPlug			"Rifle ammo clip (HK/25)"
+StdPlug			"G3SG1 bipod folded"
+StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
+ACTOR			"Items\hk33sg1.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -92579,8 +92616,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		490
-EffectiveRange	190
+MaxRange		590
+EffectiveRange	220
 RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\SKS_clip_IN.wav"
@@ -92617,9 +92654,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1.25
+MaxRange		590
+EffectiveRange	245
+RangeCurvature	2.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-102_mag_out.wav"
@@ -92758,9 +92795,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	215
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	290
+RangeCurvature	2
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\AK-101_mag_out 2.wav"
@@ -92797,9 +92834,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	223
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	330
+RangeCurvature	2
 Balance			0.52
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
@@ -92835,9 +92872,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	224
-RangeCurvature	2
+MaxRange		1100
+EffectiveRange	525
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92879,9 +92916,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	227
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	475
+RangeCurvature	1
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92921,9 +92958,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	370
+RangeCurvature	1
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92947,7 +92984,7 @@ ITEM "Sniper Rifle Tigr (7.62x54mm)"
 Class			Sniper
 Caliber			"7.62υ54R μμ"
 Weight			3599
-PrepareTime		0.60
+PrepareTime		0.59
 SingleFireTime	1.01
 BurstFireTime	0.2
 SpeedModifier	1.07
@@ -92959,9 +92996,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	205
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	330
+RangeCurvature	1
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -92996,9 +93033,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	350
+RangeCurvature	1.5
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93034,9 +93071,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	350
+RangeCurvature	1.5
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93072,9 +93109,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	400
+RangeCurvature	1
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93110,9 +93147,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	400
+RangeCurvature	1
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93150,9 +93187,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	495
+RangeCurvature	1
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93190,9 +93227,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	495
+RangeCurvature	1
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93222,7 +93259,7 @@ ITEM "Sniper Rifle Dragunov SVD-S (7.62x54mm)"
 Class			Sniper
 Caliber			"7.62υ54R μμ"
 Weight			3599
-PrepareTime		0.64
+PrepareTime		0.60
 SingleFireTime	1.02
 BurstFireTime	0.2
 SpeedModifier	1.1
@@ -93234,9 +93271,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	445
+RangeCurvature	1
 Balance			0.27
 Unfold			"Sniper Rifle Dragunov SVD-S (7.62x54mm) folded"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93274,9 +93311,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	198
-RangeCurvature	2
+MaxRange		475
+EffectiveRange	89
+RangeCurvature	5
 Balance			0.27
 Unfold			"Sniper Rifle Dragunov SVD-S (7.62x54mm)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93304,7 +93341,7 @@ ITEM "Sniper Rifle SVU-AS (7.62x54mm)"
 Class			Sniper
 Caliber			"7.62υ54R μμ"
 Weight			4587
-PrepareTime		0.58
+PrepareTime		0.56
 SingleFireTime	0.96
 BurstFireTime	0.2
 SpeedModifier	1.06
@@ -93316,9 +93353,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	205
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	285
+RangeCurvature	1
 Balance			0.83
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93356,9 +93393,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	227
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	430
+RangeCurvature	1.5
 Balance			0.27
 Unfold			"Sniper Rifle SVK-12 (308) folded"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93397,9 +93434,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	207
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	86
+RangeCurvature	7.5
 Balance			0.27
 Unfold			"Sniper Rifle SVK-12 (308)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93438,9 +93475,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	227
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	515
+RangeCurvature	1
 Balance			0.27
 Unfold			"Sniper Rifle SVK-12 (7.62x54mm) folded"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93479,9 +93516,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	207
-RangeCurvature	2
+MaxRange		475
+EffectiveRange	103
+RangeCurvature	5
 Balance			0.27
 Unfold			"Sniper Rifle SVK-12 (7.62x54mm)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -93508,7 +93545,7 @@ ITEM "Silenced Sniper Rifle VSK-94 (9x39mm)"
 Class			Sniper
 Caliber			"9υ39 μμ"
 Weight			2500
-PrepareTime		0.45
+PrepareTime		0.43
 SingleFireTime	0.78
 BurstFireTime	0.075
 SpeedModifier	1.04
@@ -93520,9 +93557,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	153
-RangeCurvature	8
+MaxRange		510
+EffectiveRange	195
+RangeCurvature	3
 Balance			0.43
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93547,7 +93584,7 @@ ITEM "Sniper Rifle VSS Vintorez (9x39mm)"
 Class			Sniper
 Caliber			"9υ39 μμ"
 Weight			2500
-PrepareTime		0.47
+PrepareTime		0.45
 SingleFireTime	0.76
 BurstFireTime	0.075
 SpeedModifier	1.06
@@ -93559,9 +93596,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	160
-RangeCurvature	8
+MaxRange		510
+EffectiveRange	220
+RangeCurvature	3
 Balance			0.52
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93600,9 +93637,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	217
-RangeCurvature	2
+MaxRange		740
+EffectiveRange	385
+RangeCurvature	1.1
 Balance			0.68
 ClipInSound		"Weapon\ClipIn\M14_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M14_mag_out.wav"
@@ -93638,9 +93675,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	217
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	395
+RangeCurvature	1.5
 Balance			0.68
 ClipInSound		"Weapon\ClipIn\M14_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M14_mag_out.wav"
@@ -93664,7 +93701,7 @@ ITEM "Sniper Rifle FRF2 (7.62mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5800
-PrepareTime		0.66
+PrepareTime		0.67
 SingleFireTime	1.24
 BurstFireTime	0.0906
 SpeedModifier	1.11
@@ -93676,9 +93713,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	230
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\M14_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M14_mag_out.wav"
@@ -93702,7 +93739,7 @@ ITEM "Sniper Rifle Galil Tzalafim (7.62mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5500
-PrepareTime		0.65
+PrepareTime		0.64
 SingleFireTime	0.94
 BurstFireTime	0.088889
 SpeedModifier	1.09
@@ -93714,9 +93751,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	222
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	400
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Sniper Rifle Galil Tzalafim (7.62mm) folded"
 ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
@@ -93755,9 +93792,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	202
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	80
+RangeCurvature	7.5
 Balance			0.48
 Unfold			"Sniper Rifle Galil Tzalafim (7.62mm)"
 ClipInSound		"Weapon\ClipIn\AK-101_mag_in.wav"
@@ -93786,7 +93823,7 @@ ITEM "Sniper Rifle M14 SE (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4420
-PrepareTime		0.62
+PrepareTime		0.60
 SingleFireTime	0.94
 BurstFireTime	0.0906
 SpeedModifier	1.07
@@ -93798,9 +93835,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	420
+RangeCurvature	1.5
 Balance			0.68
 ClipInSound		"Weapon\ClipIn\M14_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M14_mag_out.wav"
@@ -93838,9 +93875,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	217
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	430
+RangeCurvature	1.5
 Balance			0.68
 ClipInSound		"Weapon\ClipIn\M14_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\M14_mag_out.wav"
@@ -93864,7 +93901,7 @@ ITEM "Sniper Rifle XM21 (7.62mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4480
-PrepareTime		0.62
+PrepareTime		0.63
 SingleFireTime	1
 BurstFireTime	0.0906
 SpeedModifier	1.08
@@ -93876,9 +93913,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	220
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93914,9 +93951,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -93952,9 +93989,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.65
 Unfold			"Sniper Rifle M21EBR (7.62mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -93980,7 +94017,7 @@ ITEM "Sniper Rifle M21EBR (7.62mm) folded"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4830
-PrepareTime		0.59
+PrepareTime		0.60
 SingleFireTime	0.96
 BurstFireTime	0.0906
 SpeedModifier	1.1
@@ -93992,9 +94029,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	202
-RangeCurvature	2
+MaxRange		680
+EffectiveRange	376
+RangeCurvature	1.5
 Balance			0.65
 Unfold			"Sniper Rifle M21EBR (7.62mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94020,7 +94057,7 @@ ITEM "Sniper Rifle G28 (7.62mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5800
-PrepareTime		0.60
+PrepareTime		0.62
 SingleFireTime	1
 BurstFireTime	0.0906
 SpeedModifier	1.08
@@ -94032,9 +94069,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	223
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	490
+RangeCurvature	1.5
 Balance			0.65
 Unfold			"Sniper Rifle G28 (7.62mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94060,7 +94097,7 @@ ITEM "Sniper Rifle G28 (7.62mm) folded"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5800
-PrepareTime		0.55
+PrepareTime		0.59
 SingleFireTime	1
 BurstFireTime	0.0906
 SpeedModifier	1.08
@@ -94072,9 +94109,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	203
-RangeCurvature	2
+MaxRange		680
+EffectiveRange	392
+RangeCurvature	1.5
 Balance			0.65
 Unfold			"Sniper Rifle G28 (7.62mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94112,9 +94149,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	228
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	510
+RangeCurvature	1.5
 Balance			0.65
 Unfold			"Sniper Rifle FN SSR (7.62mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94140,7 +94177,7 @@ ITEM "Sniper Rifle FN SSR (7.62mm) folded"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5050
-PrepareTime		0.62
+PrepareTime		0.61
 SingleFireTime	0.99
 BurstFireTime	0.0906
 SpeedModifier	1.08
@@ -94152,9 +94189,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	208
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	102
+RangeCurvature	7.5
 Balance			0.65
 Unfold			"Sniper Rifle FN SSR (7.62mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94180,7 +94217,7 @@ ITEM "M40A1 (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4350
-PrepareTime		0.66
+PrepareTime		0.65
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.13
@@ -94192,9 +94229,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94230,9 +94267,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94268,9 +94305,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94306,9 +94343,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94344,9 +94381,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94382,9 +94419,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	170
-RangeCurvature	5
+MaxRange		650
+EffectiveRange	350
+RangeCurvature	2
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94420,9 +94457,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	180
-RangeCurvature	5
+MaxRange		650
+EffectiveRange	370
+RangeCurvature	2
 Balance			0.48
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94458,9 +94495,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	184
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94484,7 +94521,7 @@ ITEM "Scout Elite (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4350
-PrepareTime		0.61
+PrepareTime		0.63
 SingleFireTime	1.23
 BurstFireTime	0
 SpeedModifier	1.1
@@ -94496,9 +94533,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	196
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	500
+RangeCurvature	1.5
 Balance			0.48
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94524,7 +94561,7 @@ ITEM "Sniper Rifle SA58 SPR (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4200
-PrepareTime		0.62
+PrepareTime		0.64
 SingleFireTime	1
 BurstFireTime	0.066
 SpeedModifier	1.11
@@ -94536,9 +94573,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	221
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94574,9 +94611,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	226
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -94601,7 +94638,7 @@ ITEM "QBU-88"
 Class			Sniper
 Caliber			"5.8x42mm"
 Weight			4100
-PrepareTime		0.51
+PrepareTime		0.53
 SingleFireTime	0.88
 BurstFireTime	0
 SpeedModifier	1.07
@@ -94613,9 +94650,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	215
-RangeCurvature	1.25
+MaxRange		640
+EffectiveRange	290
+RangeCurvature	2.2
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94640,7 +94677,7 @@ ITEM "QBU-88 5.56"
 Class			Sniper
 Caliber			"5.56υ45 μμ"
 Weight			4100
-PrepareTime		0.51
+PrepareTime		0.53
 SingleFireTime	0.90
 BurstFireTime	0
 SpeedModifier	1.07
@@ -94652,9 +94689,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	215
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	310
+RangeCurvature	2
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94691,9 +94728,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	223
-RangeCurvature	1.25
+MaxRange		640
+EffectiveRange	320
+RangeCurvature	2.2
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94717,7 +94754,7 @@ ITEM "Jian She CSLR4"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			6500
-PrepareTime		0.66
+PrepareTime		0.64
 SingleFireTime	1.26
 BurstFireTime	0.08
 SpeedModifier	1.09
@@ -94729,9 +94766,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	242
-RangeCurvature	1.25
+MaxRange		850
+EffectiveRange	420
+RangeCurvature	1.5
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -94767,9 +94804,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	300
+RangeCurvature	2
 Balance			0.48
 Unfold			"Sniper Rifle Taurus ART (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94796,7 +94833,7 @@ ITEM "Sniper Rifle Taurus ART (5.56mm) folded"
 Class			Sniper
 Caliber			"5.56υ45 μμ"
 Weight			3600
-PrepareTime		0.52
+PrepareTime		0.51
 SingleFireTime	0.84
 BurstFireTime	0.08
 SpeedModifier	1.09
@@ -94808,9 +94845,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	198
-RangeCurvature	1.25
+MaxRange		325
+EffectiveRange	75
+RangeCurvature	4
 Balance			0.48
 Unfold			"Sniper Rifle Taurus ART (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94849,9 +94886,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	209
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	320
+RangeCurvature	2
 Balance			0.46
 Unfold			"Pindad SS1 DMR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94889,9 +94926,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	189
-RangeCurvature	1.25
+MaxRange		325
+EffectiveRange	80
+RangeCurvature	4
 Balance			0.46
 Unfold			"Pindad SS1 DMR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94929,9 +94966,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	220
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	330
+RangeCurvature	2
 Balance			0.46
 Unfold			"Pindad SS2 DMR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -94969,9 +95006,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1.25
+MaxRange		325
+EffectiveRange	82
+RangeCurvature	4
 Balance			0.46
 Unfold			"Pindad SS2 DMR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -95009,9 +95046,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	215
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	340
+RangeCurvature	2
 Balance			0.46
 Unfold			"AK 5C DMR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -95049,9 +95086,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	195
-RangeCurvature	1.25
+MaxRange		325
+EffectiveRange	85
+RangeCurvature	4
 Balance			0.46
 Unfold			"AK 5C DMR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -95089,9 +95126,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	223
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	490
+RangeCurvature	1.5
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -95127,9 +95164,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95167,9 +95204,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	235
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	580
+RangeCurvature	1.5
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95207,9 +95244,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	238
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	615
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95246,9 +95283,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	222
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.72
 Unfold			"AW Covert (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -95287,9 +95324,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	94
+RangeCurvature	7.5
 Balance			0.72
 Unfold			"AW Covert (7.62x51mm)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -95328,9 +95365,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.31
 Unfold			"Sniper Rifle TRG-42 (.308) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95368,9 +95405,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	106
+RangeCurvature	7.5
 Balance			0.31
 Unfold			"Sniper Rifle TRG-42 (.308)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95408,9 +95445,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.31
 Unfold			"Sniper Rifle TRG-42 B (.308) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95448,9 +95485,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	106
+RangeCurvature	7.5
 Balance			0.31
 Unfold			"Sniper Rifle TRG-42 B (.308)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95488,9 +95525,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.31
 Unfold			"Sniper Rifle TRG-42 T (.308) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95528,9 +95565,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	106
+RangeCurvature	7.5
 Balance			0.31
 Unfold			"Sniper Rifle TRG-42 T (.308)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95568,9 +95605,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	239
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	575
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95607,9 +95644,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	221
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.7
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -95646,9 +95683,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	228
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	510
+RangeCurvature	1.5
 Balance			0.7
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -95689,9 +95726,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	234
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.7
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -95728,9 +95765,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	231
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.7
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -95766,9 +95803,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	231
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.7
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -95804,9 +95841,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	235
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	510
+RangeCurvature	1.5
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95842,9 +95879,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	247
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	650
+RangeCurvature	1.5
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95867,7 +95904,7 @@ ITEM "Sniper Rifle Alpine (.308)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			8600
-PrepareTime		0.70
+PrepareTime		0.65
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.12
@@ -95879,9 +95916,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	249
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	650
+RangeCurvature	1.5
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -95905,7 +95942,7 @@ ITEM "Sniper Rifle ORSIS (.308)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			6500
-PrepareTime		0.67
+PrepareTime		0.66
 SingleFireTime	1.32
 BurstFireTime	0
 SpeedModifier	1.13
@@ -95917,9 +95954,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	245
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	545
+RangeCurvature	1.5
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.308) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95944,7 +95981,7 @@ ITEM "Sniper Rifle ORSIS (.308) folded"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			6500
-PrepareTime		0.64
+PrepareTime		0.63
 SingleFireTime	1.32
 BurstFireTime	0
 SpeedModifier	1.13
@@ -95956,9 +95993,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	225
-RangeCurvature	2
+MaxRange		425
+EffectiveRange	111
+RangeCurvature	7.5
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.308)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -95995,9 +96032,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	600
+RangeCurvature	1.5
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -96033,9 +96070,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96071,9 +96108,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	233
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	430
+RangeCurvature	1.5
 Balance			0.75
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -96097,7 +96134,7 @@ ITEM "Sniper Rifle R93 (308)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5400
-PrepareTime		0.68
+PrepareTime		0.67
 SingleFireTime	1.18
 BurstFireTime	0
 SpeedModifier	1.12
@@ -96109,9 +96146,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	238
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	555
+RangeCurvature	1.5
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -96147,9 +96184,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -96185,9 +96222,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -96213,7 +96250,7 @@ ITEM "Sniper Rifle DSR1 (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			5900
-PrepareTime		0.62
+PrepareTime		0.63
 SingleFireTime	1.31
 BurstFireTime	0.19
 SpeedModifier	1.11
@@ -96225,9 +96262,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	234
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	490
+RangeCurvature	1.5
 Balance			0.73
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96251,45 +96288,6 @@ HANDS			ahtRifle
 
 //////////-----------------------
 
-ITEM "Assault Rifle HK33SG1 (5.56mm)"
-Class			Sniper
-Caliber			"5.56υ45 μμ"
-Weight			3700
-PrepareTime		0.55
-SingleFireTime	0.86
-BurstFireTime	0.08
-SpeedModifier	1.08
-Resource		2000
-DirtResource	63000
-MisfireProb		0.02
-HeatCapacity	60
-Single			1
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		300
-EffectiveRange	215
-RangeCurvature	1.25
-Balance			0.48
-ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
-ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
-ReLockSound		"Weapon\ReLock\strifle_slide.wav"
-ShootSound		"Weapon\Shoot\HK53_fire.wav"
-ATT Laser		1 "Barrel Mount" blocks ILauncher
-ATT Light		1 "Barrel Mount" blocks ILauncher
-ATT Scope		1 "HK MP5"
-ATT Bipod		1 "G3Bipod" blocks ILauncher
-ATT Silencer	1 "Supressor - 5,56" blocks Bayonet and ILauncher
-ATT ILauncher	1 "hk" blocks Bipod and Silencer and Laser and Light
-ATT Bayonet		1 "HK" blocks Silencer
-ATT Magazine	1 "HK 5.56"
-StdPlug			"Rifle ammo clip (HK/25)"
-StdPlug			"G3SG1 bipod folded"
-StdPlug			"Optical Sight Leupold Mark 4 10x40 (MP5)"
-ACTOR			"Items\hk33sg1.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
-
 ITEM "Sniper Rifle HK G3SG1 (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
@@ -96306,9 +96304,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	214
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	435
+RangeCurvature	1.5
 Balance			0.27
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -96345,9 +96343,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -96384,9 +96382,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -96423,9 +96421,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -96462,9 +96460,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	218
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\g3sg1_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\g3sg1_clipout.wav"
@@ -96503,9 +96501,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	240
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96541,9 +96539,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	240
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	530
+RangeCurvature	1.5
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96581,9 +96579,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	227
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	490
+RangeCurvature	1.5
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96621,9 +96619,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	545
+RangeCurvature	1
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96661,9 +96659,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	232
-RangeCurvature	2
+MaxRange		950
+EffectiveRange	570
+RangeCurvature	1
 Balance			0.6
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -96700,9 +96698,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	221
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	350
+RangeCurvature	2
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96737,7 +96735,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1000
+MaxRange		1030
 EffectiveRange	630
 RangeCurvature	1
 Balance			0.26
@@ -96762,7 +96760,7 @@ ITEM "Hunting Rifle Winchester Model 70 (308)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4490
-PrepareTime		0.62
+PrepareTime		0.60
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -96774,9 +96772,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	204
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	470
+RangeCurvature	1.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96811,9 +96809,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	207
-RangeCurvature	5
+MaxRange		1800
+EffectiveRange	1120
+RangeCurvature	0.7
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96848,9 +96846,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	207
-RangeCurvature	5
+MaxRange		2500
+EffectiveRange	1685
+RangeCurvature	0.6
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96873,7 +96871,7 @@ ITEM "Hunting Rifle Winchester Model 70 (375)"
 Class			Sniper
 Caliber			".375 H&H"
 Weight			4490
-PrepareTime		0.71
+PrepareTime		0.68
 SingleFireTime	1.48
 BurstFireTime	0
 SpeedModifier	1.11
@@ -96885,9 +96883,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		1200
+EffectiveRange	595
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -96924,7 +96922,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1000
+MaxRange		1030
 EffectiveRange	670
 RangeCurvature	1
 Balance			0.3
@@ -96964,9 +96962,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	340
+RangeCurvature	2
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97002,9 +97000,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	212
-RangeCurvature	1.25
+MaxRange		650
+EffectiveRange	340
+RangeCurvature	2
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97042,7 +97040,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1000
+MaxRange		1030
 EffectiveRange	650
 RangeCurvature	1
 Balance			0.26
@@ -97081,7 +97079,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		1000
+MaxRange		1030
 EffectiveRange	650
 RangeCurvature	1
 Balance			0.26
@@ -97108,7 +97106,7 @@ ITEM "Sniper Rifle Remington SPS Tactical AAC-SD"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.59
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97120,9 +97118,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97148,7 +97146,7 @@ ITEM "Sniper Rifle Remington 700 Police (.308)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.59
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97160,9 +97158,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	450
+RangeCurvature	1.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97188,7 +97186,7 @@ ITEM "Sniper Rifle Remington 700 Police LTR (.308)"
 Class			Sniper
 Caliber			".300 WM"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.63
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97200,9 +97198,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		1800
+EffectiveRange	1070
+RangeCurvature	0.7
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97226,7 +97224,7 @@ ITEM "Sniper Rifle Remington 700P (.300)"
 Class			Sniper
 Caliber			".300 WM"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.63
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97238,9 +97236,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		1800
+EffectiveRange	1070
+RangeCurvature	0.7
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97264,7 +97262,7 @@ ITEM "Sniper Rifle Remington 700 (.338)"
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.68
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97276,9 +97274,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		2500
+EffectiveRange	1605
+RangeCurvature	0.6
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97302,7 +97300,7 @@ ITEM "Sniper Rifle Remington 700P (.338)"
 Class			Sniper
 Caliber			".338 Lapua"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.68
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97314,9 +97312,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		2500
+EffectiveRange	1605
+RangeCurvature	0.6
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97340,7 +97338,7 @@ ITEM "Sniper Rifle Remington 700 (.375)"
 Class			Sniper
 Caliber			".375 H&H"
 Weight			4490
-PrepareTime		0.66
+PrepareTime		0.67
 SingleFireTime	1.37
 BurstFireTime	0
 SpeedModifier	1.11
@@ -97352,9 +97350,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		1200
+EffectiveRange	575
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97390,9 +97388,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	210
-RangeCurvature	5
+MaxRange		1200
+EffectiveRange	575
+RangeCurvature	1
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97430,9 +97428,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	206
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	525
+RangeCurvature	1.5
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97458,7 +97456,7 @@ ITEM "Hunting Rifle Remington R-25 (7.62x51mm)"
 Class			Sniper
 Caliber			"7.62υ51 μμ"
 Weight			3515
-PrepareTime		0.62
+PrepareTime		0.63
 SingleFireTime	1
 BurstFireTime	0.22
 SpeedModifier	1.07
@@ -97470,9 +97468,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	5
+MaxRange		850
+EffectiveRange	505
+RangeCurvature	1.5
 Balance			0.38
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
@@ -97507,9 +97505,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	330
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1650
+RangeCurvature	0.7
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97545,9 +97543,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	315
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1400
+RangeCurvature	0.7
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97623,9 +97621,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	320
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1500
+RangeCurvature	0.7
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97661,9 +97659,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	308
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1300
+RangeCurvature	0.7
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -97699,9 +97697,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	290
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1200
+RangeCurvature	0.7
 Balance			0.75
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -97737,9 +97735,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	302
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1350
+RangeCurvature	0.7
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97777,9 +97775,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	272
-RangeCurvature	1.3
+MaxRange		600
+EffectiveRange	94
+RangeCurvature	7
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97817,9 +97815,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	302
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1350
+RangeCurvature	0.7
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 B (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97857,9 +97855,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	272
-RangeCurvature	1.3
+MaxRange		600
+EffectiveRange	94
+RangeCurvature	7
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 B (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97897,9 +97895,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	302
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1350
+RangeCurvature	0.7
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 T (.300) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97937,9 +97935,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	272
-RangeCurvature	1.3
+MaxRange		600
+EffectiveRange	94
+RangeCurvature	7
 Balance			0.28
 Unfold			"Sniper Rifle TRG-42 T (.300)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -97977,9 +97975,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	310
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1500
+RangeCurvature	0.7
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98015,9 +98013,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	305
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1450
+RangeCurvature	0.7
 Balance			0.21
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98054,9 +98052,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	301
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1400
+RangeCurvature	0.7
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98092,9 +98090,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	290
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1250
+RangeCurvature	0.7
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98130,9 +98128,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	290
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1250
+RangeCurvature	0.7
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98156,7 +98154,7 @@ ITEM "Sniper Rifle XM2010 (.300)"
 Class			Sniper
 Caliber			".300 WM"
 Weight			5500
-PrepareTime		0.73
+PrepareTime		0.76
 SingleFireTime	1.33
 BurstFireTime	0
 SpeedModifier	1.10
@@ -98168,9 +98166,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	325
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1600
+RangeCurvature	0.7
 Balance			0.64
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98194,7 +98192,7 @@ ITEM "Sniper Rifle XM2010 Black (.300)"
 Class			Sniper
 Caliber			".300 WM"
 Weight			5500
-PrepareTime		0.73
+PrepareTime		0.76
 SingleFireTime	1.33
 BurstFireTime	0
 SpeedModifier	1.10
@@ -98206,9 +98204,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	325
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1600
+RangeCurvature	0.7
 Balance			0.64
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98232,7 +98230,7 @@ ITEM "Sniper Rifle M98b (.300)" //95
 Class			Sniper
 Caliber			".300 WM"
 Weight			9090
-PrepareTime		0.81
+PrepareTime		0.83
 SingleFireTime	1.48
 BurstFireTime	0
 SpeedModifier	1.14
@@ -98244,9 +98242,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		360
-EffectiveRange	315
-RangeCurvature	1.3
+MaxRange		1800
+EffectiveRange	1700
+RangeCurvature	0.7
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98281,9 +98279,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		400
-EffectiveRange	260
-RangeCurvature	3
+MaxRange		1200
+EffectiveRange	650
+RangeCurvature	1.1
 Balance			0.2
 Unfold			"Sniper Rifle SVDK (Brenneke) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98321,9 +98319,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		400
-EffectiveRange	220
-RangeCurvature	3
+MaxRange		600
+EffectiveRange	97
+RangeCurvature	5.5
 Balance			0.2
 Unfold			"Sniper Rifle SVDK (Brenneke)"
 ClipInSound		"Weapon\ClipIn\Sniper_clip_in.wav"
@@ -98361,9 +98359,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		320
-EffectiveRange	247
-RangeCurvature	1.5
+MaxRange		1000
+EffectiveRange	430
+RangeCurvature	2
 Balance			0.63
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98399,9 +98397,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	325
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2350
+RangeCurvature	0.6
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98437,9 +98435,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	312
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2150
+RangeCurvature	0.6
 Balance			0.29
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98475,9 +98473,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	300
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2000
+RangeCurvature	0.6
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 (.338 Lapua) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98515,9 +98513,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	260
-RangeCurvature	3
+MaxRange		833
+EffectiveRange	100
+RangeCurvature	6
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 (.338 Lapua)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98555,9 +98553,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	300
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2000
+RangeCurvature	0.6
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 B (.338 Lapua) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98595,9 +98593,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	260
-RangeCurvature	3
+MaxRange		833
+EffectiveRange	100
+RangeCurvature	6
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 B (.338 Lapua)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98635,9 +98633,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	300
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2000
+RangeCurvature	0.6
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 T (.338 Lapua) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98675,9 +98673,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	260
-RangeCurvature	3
+MaxRange		833
+EffectiveRange	100
+RangeCurvature	6
 Balance			0.2
 Unfold			"Sniper Rifle TRG-42 T (.338 Lapua)"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98715,9 +98713,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	288
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	1700
+RangeCurvature	0.6
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98753,9 +98751,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	288
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	1700
+RangeCurvature	0.6
 Balance			0.51
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98791,9 +98789,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	310
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	1900
+RangeCurvature	0.6
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98830,9 +98828,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	360
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2050
+RangeCurvature	0.6
 Balance			0.61
 Unfold			"Sniper Rifle ORSIS (.338) folded"
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
@@ -98908,9 +98906,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	380
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2020
+RangeCurvature	0.6
 Balance			0.61
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -98946,9 +98944,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	315
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	1950
+RangeCurvature	0.6
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -98984,9 +98982,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	287
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	1600
+RangeCurvature	0.6
 Balance			0.75
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -99022,9 +99020,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	311
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2000
+RangeCurvature	0.6
 Balance			0.46
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -99060,9 +99058,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	310
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	1800
+RangeCurvature	0.6
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -99098,9 +99096,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		420
-EffectiveRange	390
-RangeCurvature	3
+MaxRange		2500
+EffectiveRange	2300
+RangeCurvature	0.6
 Balance			0.2
 ClipInSound		"Weapon\ClipIn\L96_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\L96_clip_out.wav"
@@ -99137,9 +99135,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	510
-RangeCurvature	1
+MaxRange		2200
+EffectiveRange	1800
+RangeCurvature	0.5
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99176,9 +99174,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	498
-RangeCurvature	1
+MaxRange		2200
+EffectiveRange	1900
+RangeCurvature	0.5
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99215,9 +99213,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	485
-RangeCurvature	1
+MaxRange		2200
+EffectiveRange	2000
+RangeCurvature	0.5
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99254,9 +99252,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	510
-RangeCurvature	1
+MaxRange		2200
+EffectiveRange	1950
+RangeCurvature	0.5
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99293,9 +99291,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	510
-RangeCurvature	1
+MaxRange		2200
+EffectiveRange	2100
+RangeCurvature	0.5
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99332,9 +99330,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	510
-RangeCurvature	1
+MaxRange		2200
+EffectiveRange	2150
+RangeCurvature	0.5
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99371,9 +99369,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	460
-RangeCurvature	1.2
+MaxRange		2200
+EffectiveRange	1900
+RangeCurvature	0.5
 Balance			0.69
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99409,9 +99407,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	510
-RangeCurvature	1.2
+MaxRange		2000
+EffectiveRange	1900
+RangeCurvature	0.4
 Balance			0.69
 Unfold			"Sniper Rifle CheyTac M200 (.50 BMG) folded"
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
@@ -99450,9 +99448,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	400
-RangeCurvature	1.2
+MaxRange		1400
+EffectiveRange	1230
+RangeCurvature	0.4
 Balance			0.69
 Unfold			"Sniper Rifle CheyTac M200 (.50 BMG)"
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
@@ -99491,9 +99489,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	465
-RangeCurvature	1
+MaxRange		2300
+EffectiveRange	1600
+RangeCurvature	0.45
 Balance			0.3
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99530,9 +99528,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	478
-RangeCurvature	1
+MaxRange		2300
+EffectiveRange	1900
+RangeCurvature	0.45
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99569,9 +99567,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	498
-RangeCurvature	1
+MaxRange		2300
+EffectiveRange	2100
+RangeCurvature	0.45
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99608,9 +99606,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	225
-RangeCurvature	1
+MaxRange		1200
+EffectiveRange	140
+RangeCurvature	10
 Balance			0.1
 Unfold			"Sniper Rifle PZB39 folded"
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
@@ -99648,9 +99646,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	205
-RangeCurvature	1
+MaxRange		400
+EffectiveRange	28
+RangeCurvature	10
 Balance			0.1
 Unfold			"Sniper Rifle PZB39"
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
@@ -99688,9 +99686,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		330
-EffectiveRange	255
-RangeCurvature	1
+MaxRange		1500
+EffectiveRange	120
+RangeCurvature	10
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99714,7 +99712,7 @@ ITEM "Sniper Rifle PTRS41 (14.5mm)"
 Class			Machinegun
 Caliber			"14.5x114mm"
 Weight			20300
-PrepareTime		1.52
+PrepareTime		1.86
 SingleFireTime	1.26
 BurstFireTime	0
 SpeedModifier	1.11
@@ -99726,9 +99724,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		600
-EffectiveRange	300
-RangeCurvature	1
+MaxRange		4000
+EffectiveRange	100
+RangeCurvature	10
 Balance			0.1
 ClipInSound		"Weapon\ClipIn\SV-98_clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\SV-98_clip_out.wav"
@@ -99772,9 +99770,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	160
-RangeCurvature	2.5
+MaxRange		600
+EffectiveRange	195
+RangeCurvature	2
 Balance			0.48
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -99809,9 +99807,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	160
-RangeCurvature	2.5
+MaxRange		600
+EffectiveRange	195
+RangeCurvature	2
 Balance			0.48
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -99846,9 +99844,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	172
-RangeCurvature	2.5
+MaxRange		650
+EffectiveRange	265
+RangeCurvature	2
 Balance			0.44
 Unfold			"Ultimax MK5 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -99885,9 +99883,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	152
-RangeCurvature	2.5
+MaxRange		325
+EffectiveRange	66
+RangeCurvature	4
 Balance			0.44
 Unfold			"Ultimax MK5"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -99924,9 +99922,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	177
-RangeCurvature	2.5
+MaxRange		650
+EffectiveRange	285
+RangeCurvature	2
 Balance			0.44
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -99961,9 +99959,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	180
-RangeCurvature	2.5
+MaxRange		650
+EffectiveRange	300
+RangeCurvature	2
 Balance			0.44
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -99987,21 +99985,21 @@ ITEM "M27 IAR"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3600
-PrepareTime		0.50
+PrepareTime		0.49
 SingleFireTime	0.87
 BurstFireTime	0.08
 SpeedModifier	1.09
-Resource		3500
-DirtResource	380000
+Resource		3700
+DirtResource	400000
 MisfireProb		0.0019
 HeatCapacity	150
 Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	182
-RangeCurvature	2.5
+MaxRange		650
+EffectiveRange	310
+RangeCurvature	2
 Balance			0.44
 Unfold			"M27 IAR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -100038,9 +100036,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	162
-RangeCurvature	2.5
+MaxRange		520
+EffectiveRange	248
+RangeCurvature	2
 Balance			0.44
 Unfold			"M27 IAR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -100061,43 +100059,7 @@ ACTOR			"items\m27iar.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Machinegun Type 96 (6.5)"
-Class			Rifle
-Caliber			"6.5x50mmSR Arisaka"
-Weight			9000
-PrepareTime		0.60
-SingleFireTime	0.7273
-BurstFireTime	0.0669
-SpeedModifier	1.1
-Resource		5600
-DirtResource	630000
-MisfireProb		0.0028
-HeatCapacity	220
-Single			0
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		250
-EffectiveRange	170
-RangeCurvature	1
-Balance			0.26
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
-ShootSound		"Weapon\Shoot\INFINITY_FIRE.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
-ATT Bipod		1 "built-in"
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		1 "AriBayo"
-ATT Magazine	1 "Type96LMG"
-StdPlug			"Machinegun clip (Type 96/30)"
-StdPlug			"Type 96 Bipod Folded"
-ACTOR			"Items\type96lmg.act"
-IMAGE			"2x5.e5b"
-HANDS			ahtRifle
+
 
 ITEM "Machinegun QBB 95 (5.8)"
 Class			Rifle
@@ -100115,8 +100077,8 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	155
+MaxRange		640
+EffectiveRange	210
 RangeCurvature	2.2
 Balance			0.67
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
@@ -100153,8 +100115,8 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	158
+MaxRange		640
+EffectiveRange	225
 RangeCurvature	2.2
 Balance			0.67
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
@@ -100191,9 +100153,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	155
-RangeCurvature	2.2
+MaxRange		650
+EffectiveRange	220
+RangeCurvature	2
 Balance			0.67
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\PKMN_chain_out.wav"
@@ -100229,9 +100191,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	158
-RangeCurvature	2.2
+MaxRange		650
+EffectiveRange	240
+RangeCurvature	2
 Balance			0.67
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\PKMN_chain_out.wav"
@@ -100267,9 +100229,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	177
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	170
+RangeCurvature	2.5
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\RPD_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\RPD_chain_out.wav"
@@ -100305,9 +100267,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	184
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\RPD_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\RPD_chain_out.wav"
@@ -100343,9 +100305,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	170
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	190
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100381,9 +100343,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	174
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	205
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100419,9 +100381,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	174
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.26
 Unfold			"Machinegun Vz58v (7.62x39mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -100459,9 +100421,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	154
-RangeCurvature	1
+MaxRange		295
+EffectiveRange	40
+RangeCurvature	5
 Balance			0.26
 Unfold			"Machinegun Vz58v (7.62x39mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -100483,43 +100445,7 @@ ACTOR			"Items\vz58v_lmg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
-ITEM "Machinegun Mk 46 (5.56mm)"
-Class			Rifle
-Caliber			"5.56υ45 μμ"
-Weight			7000
-PrepareTime		0.58
-SingleFireTime	0.64
-BurstFireTime	0.068
-SpeedModifier	1.1
-Resource		4900
-DirtResource	510000
-MisfireProb		0.0016
-HeatCapacity	300
-Single			0
-Burst			1
-CutOff			0
-BurstHitStart	1
-MaxRange		270
-EffectiveRange	155
-RangeCurvature	3.1
-Balance			0.26
-ClipInSound		"Weapon\ClipIn\clip_in.wav"
-ClipOutSound	"Weapon\ClipOut\clip_out.wav"
-ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
-ShootSound		"Weapon\Shoot\Fn minimi.wav"
-ATT Laser		2 "WR""WRRifle"
-ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
-ATT Bipod		1 "built-in"
-ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "Minimi"
-StdPlug			"Minimi mag (Minimi 5.56/200)"
-StdPlug			"Minimi_bipod folded"
-ACTOR			"Items\mk46.act"
-IMAGE			"mk46.e5b"
-HANDS			ahtRifle
+
 
 ITEM "Machinegun RPK (7.62x39mm)"
 Class			Rifle
@@ -100537,9 +100463,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	163
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	185
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100575,9 +100501,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	163
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	185
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100613,9 +100539,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	177
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	210
+RangeCurvature	2.5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100651,9 +100577,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	177
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	210
+RangeCurvature	2.5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100689,9 +100615,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	177
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	220
+RangeCurvature	2
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100727,9 +100653,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	177
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	220
+RangeCurvature	2
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100765,9 +100691,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	185
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	250
+RangeCurvature	1.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100803,9 +100729,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	185
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	250
+RangeCurvature	1.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100841,9 +100767,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	170
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100879,9 +100805,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	170
-RangeCurvature	1
+MaxRange		590
+EffectiveRange	190
+RangeCurvature	2.5
 Balance			0.26
 Unfold			"Machinegun M72 F (7.62x39mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -100919,9 +100845,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	150
-RangeCurvature	1
+MaxRange		295
+EffectiveRange	38
+RangeCurvature	5
 Balance			0.26
 Unfold			"Machinegun M72 F (7.62x39mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -100959,9 +100885,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	181
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	230
+RangeCurvature	1.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -100997,9 +100923,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	181
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	210
+RangeCurvature	1.5
 Balance			0.26
 Unfold			"Machinegun M77 F (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101037,9 +100963,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	161
-RangeCurvature	1
+MaxRange		425
+EffectiveRange	42
+RangeCurvature	3
 Balance			0.26
 Unfold			"Machinegun M77 F (7.62x51mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101077,9 +101003,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	163
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	220
+RangeCurvature	2
 Balance			0.26
 Unfold			"Machinegun Arsenal LMG-F (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101117,9 +101043,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	143
-RangeCurvature	1
+MaxRange		325
+EffectiveRange	44
+RangeCurvature	4
 Balance			0.26
 Unfold			"Machinegun Arsenal LMG-F (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101157,9 +101083,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	150
-RangeCurvature	3
+MaxRange		590
+EffectiveRange	215
+RangeCurvature	2.5
 Balance			0.28
 Unfold			"Machinegun RPKM (7.62mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101197,9 +101123,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	120
-RangeCurvature	3
+MaxRange		295
+EffectiveRange	45
+RangeCurvature	5
 Balance			0.28
 Unfold			"Machinegun RPKM (7.62mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101237,9 +101163,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	154
-RangeCurvature	3
+MaxRange		650
+EffectiveRange	230
+RangeCurvature	2
 Balance			0.28
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101275,9 +101201,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	143
-RangeCurvature	3
+MaxRange		630
+EffectiveRange	200
+RangeCurvature	2
 Balance			0.28
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101313,9 +101239,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	143
-RangeCurvature	3
+MaxRange		630
+EffectiveRange	200
+RangeCurvature	2
 Balance			0.28
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101351,9 +101277,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	150
-RangeCurvature	3
+MaxRange		630
+EffectiveRange	235
+RangeCurvature	2
 Balance			0.28
 Unfold			"Machinegun RPK-74M (5.45mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101391,9 +101317,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	130
-RangeCurvature	3
+MaxRange		315
+EffectiveRange	47
+RangeCurvature	4
 Balance			0.28
 Unfold			"Machinegun RPK-74M (5.45mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101431,9 +101357,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	156
-RangeCurvature	3
+MaxRange		630
+EffectiveRange	255
+RangeCurvature	2
 Balance			0.28
 Unfold			"Machinegun RPK-12 (5.45mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101471,9 +101397,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	136
-RangeCurvature	3
+MaxRange		315
+EffectiveRange	51
+RangeCurvature	4
 Balance			0.28
 Unfold			"Machinegun RPK-12 (5.45mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101511,9 +101437,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	156
-RangeCurvature	3
+MaxRange		650
+EffectiveRange	260
+RangeCurvature	2
 Balance			0.28
 Unfold			"Machinegun RPK-12 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101551,9 +101477,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	136
-RangeCurvature	3
+MaxRange		325
+EffectiveRange	52
+RangeCurvature	4
 Balance			0.28
 Unfold			"Machinegun RPK-12 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101591,9 +101517,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	156
-RangeCurvature	3
+MaxRange		590
+EffectiveRange	230
+RangeCurvature	2.5
 Balance			0.28
 Unfold			"Machinegun RPK-12 (7.62x39mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101631,9 +101557,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	136
-RangeCurvature	3
+MaxRange		295
+EffectiveRange	46
+RangeCurvature	5
 Balance			0.28
 Unfold			"Machinegun RPK-12 (7.62x39mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101671,9 +101597,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		270
-EffectiveRange	164
-RangeCurvature	3.1
+MaxRange		650
+EffectiveRange	280
+RangeCurvature	2
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101709,9 +101635,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		270
-EffectiveRange	164
-RangeCurvature	3.1
+MaxRange		650
+EffectiveRange	280
+RangeCurvature	2
 Balance			0.4
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101747,9 +101673,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	162
-RangeCurvature	3
+MaxRange		650
+EffectiveRange	250
+RangeCurvature	2
 Balance			0.35
 ClipInSound		"Weapon\ClipIn\L85A2_mag_IN.wav"
 ClipOutSound	"Weapon\ClipOut\L85A2_mag_OUT.wav"
@@ -101786,9 +101712,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	169
-RangeCurvature	2.2
+MaxRange		650
+EffectiveRange	250
+RangeCurvature	2
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101826,9 +101752,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	169
-RangeCurvature	2.2
+MaxRange		650
+EffectiveRange	250
+RangeCurvature	2
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101867,9 +101793,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		270
-EffectiveRange	160
-RangeCurvature	3.1
+MaxRange		650
+EffectiveRange	200
+RangeCurvature	2
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -101905,9 +101831,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		270
-EffectiveRange	148
-RangeCurvature	3.1
+MaxRange		650
+EffectiveRange	190
+RangeCurvature	2
 Balance			0.28
 Unfold			"Machinegun Minimi SPW (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101944,9 +101870,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		270
-EffectiveRange	128
-RangeCurvature	3.1
+MaxRange		325
+EffectiveRange	38
+RangeCurvature	4
 Balance			0.28
 Unfold			"Machinegun Minimi SPW (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -101967,6 +101893,44 @@ ACTOR			"Items\minimi_spw.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
+ITEM "Machinegun Mk 46 (5.56mm)"
+Class			Rifle
+Caliber			"5.56υ45 μμ"
+Weight			7000
+PrepareTime		0.58
+SingleFireTime	0.64
+BurstFireTime	0.068
+SpeedModifier	1.1
+Resource		4900
+DirtResource	510000
+MisfireProb		0.0016
+HeatCapacity	300
+Single			0
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		650
+EffectiveRange	195
+RangeCurvature	2
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\Fn minimi.wav"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
+ATT Scope		1 "WR"
+ATT Bipod		1 "built-in"
+ATT Silencer	1 "Supressor - 5,56"
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "Minimi"
+StdPlug			"Minimi mag (Minimi 5.56/200)"
+StdPlug			"Minimi_bipod folded"
+ACTOR			"Items\mk46.act"
+IMAGE			"mk46.e5b"
+HANDS			ahtRifle
+
 ////------------------------
 
 ITEM "Machinegun MG4K (7.62mm)"
@@ -101985,9 +101949,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	192
-RangeCurvature	1
+MaxRange		800
+EffectiveRange	230
+RangeCurvature	1.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102023,9 +101987,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	207
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	310
+RangeCurvature	1.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102061,9 +102025,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	176
-RangeCurvature	2.5
+MaxRange		650
+EffectiveRange	200
+RangeCurvature	2
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102099,9 +102063,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	194
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	185
+RangeCurvature	2
 Balance			0.36
 Unfold			"Machinegun NEGEV (5.56x45 mm) folded"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -102139,9 +102103,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	174
-RangeCurvature	1
+MaxRange		325
+EffectiveRange	37
+RangeCurvature	4
 Balance			0.36
 Unfold			"Machinegun NEGEV (5.56x45 mm)"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -102179,9 +102143,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	182
-RangeCurvature	1
+MaxRange		600
+EffectiveRange	165
+RangeCurvature	2
 Balance			0.36
 Unfold			"Machinegun NEGEV Commando (5.56x45 mm) folded"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -102220,8 +102184,8 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		300
-EffectiveRange	162
-RangeCurvature	1
+EffectiveRange	33
+RangeCurvature	4
 Balance			0.36
 Unfold			"Machinegun NEGEV Commando (5.56x45 mm)"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -102259,9 +102223,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	223
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	285
+RangeCurvature	2
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102297,9 +102261,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	223
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	285
+RangeCurvature	2
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102335,9 +102299,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	185
-RangeCurvature	1
+MaxRange		600
+EffectiveRange	160
+RangeCurvature	2
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102373,9 +102337,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	185
-RangeCurvature	1
+MaxRange		600
+EffectiveRange	160
+RangeCurvature	2
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102411,9 +102375,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	190
+RangeCurvature	2
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102449,9 +102413,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1
+MaxRange		650
+EffectiveRange	190
+RangeCurvature	2
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -102474,8 +102438,8 @@ HANDS			ahtRifle
 ITEM "BAR"
 Class			Rifle
 Caliber			"30-06 Springfield"
-Weight			6800
-PrepareTime		0.58
+Weight			7200
+PrepareTime		0.62
 SingleFireTime	0.87
 BurstFireTime	0.12
 SpeedModifier	1.08
@@ -102487,9 +102451,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	137
-RangeCurvature	2.7
+MaxRange		880
+EffectiveRange	210
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102512,8 +102476,8 @@ HANDS			ahtRifle
 ITEM "M1918 BAR"
 Class			Rifle
 Caliber			"30-06 Springfield"
-Weight			6800
-PrepareTime		0.58
+Weight			8000
+PrepareTime		0.65
 SingleFireTime	0.87
 BurstFireTime	0.12
 SpeedModifier	1.08
@@ -102525,9 +102489,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	137
-RangeCurvature	2.7
+MaxRange		880
+EffectiveRange	220
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102565,9 +102529,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	182
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102587,6 +102551,44 @@ ACTOR			"Items\madsen.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
+ITEM "Machinegun Type 96 (6.5)"
+Class			Rifle
+Caliber			"6.5x50mmSR Arisaka"
+Weight			9000
+PrepareTime		0.60
+SingleFireTime	0.7273
+BurstFireTime	0.0669
+SpeedModifier	1.1
+Resource		5600
+DirtResource	630000
+MisfireProb		0.0028
+HeatCapacity	220
+Single			0
+Burst			1
+CutOff			0
+BurstHitStart	1
+MaxRange		555
+EffectiveRange	180
+RangeCurvature	2.5
+Balance			0.26
+ClipInSound		"Weapon\ClipIn\clip_in.wav"
+ClipOutSound	"Weapon\ClipOut\clip_out.wav"
+ReLockSound		"Weapon\ReLock\mashingun_slide2.wav"
+ShootSound		"Weapon\Shoot\INFINITY_FIRE.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		1 "built-in"
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		1 "AriBayo"
+ATT Magazine	1 "Type96LMG"
+StdPlug			"Machinegun clip (Type 96/30)"
+StdPlug			"Type 96 Bipod Folded"
+ACTOR			"Items\type96lmg.act"
+IMAGE			"2x5.e5b"
+HANDS			ahtRifle
+
 ITEM "Machinegun Type 99 (7.7)"
 Class			Rifle
 Caliber			"7.7x58mm Arisaka"
@@ -102603,9 +102605,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	174
-RangeCurvature	1
+MaxRange		820
+EffectiveRange	190
+RangeCurvature	2.5
 Balance			0.26
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102641,9 +102643,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	145
-RangeCurvature	2.7
+MaxRange		780
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102679,9 +102681,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	145
-RangeCurvature	2.7
+MaxRange		850
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102717,9 +102719,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	131
-RangeCurvature	2.7
+MaxRange		880
+EffectiveRange	170
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102754,9 +102756,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	190
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	350
+RangeCurvature	1.5
 Balance			0.28
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102796,9 +102798,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	193
-RangeCurvature	2
+MaxRange		850
+EffectiveRange	330
+RangeCurvature	1.5
 Balance			0.28
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102842,9 +102844,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		270
-EffectiveRange	167
-RangeCurvature	3.1
+MaxRange		640
+EffectiveRange	250
+RangeCurvature	2.2
 Balance			0.23
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\PKMN_chain_out.wav"
@@ -102880,9 +102882,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	217
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\Pecheneg_chain_out.wav"
@@ -102919,9 +102921,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	150
-RangeCurvature	2.7
+MaxRange		780
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102957,9 +102959,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	150
-RangeCurvature	2.7
+MaxRange		880
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -102995,9 +102997,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	150
-RangeCurvature	2.7
+MaxRange		900
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103033,9 +103035,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	146
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	150
+RangeCurvature	2.5
 Balance			0.37
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\Pecheneg_chain_out.wav"
@@ -103071,9 +103073,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	156
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.42
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\Pecheneg_chain_out.wav"
@@ -103109,9 +103111,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	156
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	180
+RangeCurvature	2.5
 Balance			0.42
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\Pecheneg_chain_out.wav"
@@ -103147,9 +103149,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		250
-EffectiveRange	162
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	190
+RangeCurvature	2.5
 Balance			0.42
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\Pecheneg_chain_out.wav"
@@ -103185,9 +103187,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	228
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	240
+RangeCurvature	2.5
 Balance			0.23
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\PKMN_chain_out.wav"
@@ -103223,9 +103225,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	220
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	230
+RangeCurvature	2.5
 Balance			0.23
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\PKMN_chain_out.wav"
@@ -103261,9 +103263,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	228
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	250
+RangeCurvature	2.5
 Balance			0.23
 ClipInSound		"Weapon\ClipIn\PKMN_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\PKMN_chain_out.wav"
@@ -103301,9 +103303,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	238
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	270
+RangeCurvature	2.5
 Balance			0.33
 ClipInSound		"Weapon\ClipIn\Pecheneg_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\Pecheneg_chain_out.wav"
@@ -103339,9 +103341,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	220
-RangeCurvature	0.6
+MaxRange		850
+EffectiveRange	260
+RangeCurvature	2.5
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103377,9 +103379,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	235
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	260
+RangeCurvature	2.5
 Balance			0.28
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103415,9 +103417,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	165
-RangeCurvature	3.0
+MaxRange		850
+EffectiveRange	300
+RangeCurvature	2.5
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103453,9 +103455,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	165
-RangeCurvature	3.0
+MaxRange		850
+EffectiveRange	300
+RangeCurvature	2.5
 Balance			0.39
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103479,7 +103481,7 @@ ITEM "Machinegun HK121 (7.62x51mm)"
 Class			Machinegun
 Caliber			"7.62υ51 μμ"
 Weight			9900
-PrepareTime		0.64
+PrepareTime		0.66
 SingleFireTime	0.66
 BurstFireTime	0.08
 SpeedModifier	1.11
@@ -103491,9 +103493,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	245
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	320
+RangeCurvature	2.5
 Balance			0.37
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103516,7 +103518,7 @@ ITEM "Machinegun HK121 BK (7.62x51mm)"
 Class			Machinegun
 Caliber			"7.62υ51 μμ"
 Weight			9900
-PrepareTime		0.64
+PrepareTime		0.66
 SingleFireTime	0.66
 BurstFireTime	0.08
 SpeedModifier	1.11
@@ -103528,9 +103530,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	245
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	320
+RangeCurvature	2.5
 Balance			0.37
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -103567,9 +103569,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	155
-RangeCurvature	1
+MaxRange		950
+EffectiveRange	150
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103606,9 +103608,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	155
-RangeCurvature	1
+MaxRange		820
+EffectiveRange	150
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103645,9 +103647,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	185
-RangeCurvature	1
+MaxRange		950
+EffectiveRange	220
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103683,9 +103685,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	172
-RangeCurvature	1
+MaxRange		950
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103721,9 +103723,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	172
-RangeCurvature	1
+MaxRange		950
+EffectiveRange	200
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103759,9 +103761,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	190
-RangeCurvature	1
+MaxRange		950
+EffectiveRange	250
+RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103799,9 +103801,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	200
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	290
+RangeCurvature	1.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
 ClipOutSound	"Weapon\ClipOut\MG3_chain_out.wav"
@@ -103839,9 +103841,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	196
-RangeCurvature	1
+MaxRange		850
+EffectiveRange	260
+RangeCurvature	1.5
 Balance			0.36
 Unfold			"Machinegun NG7 (7.62x51 mm) folded"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -103879,9 +103881,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	176
-RangeCurvature	1
+MaxRange		425
+EffectiveRange	52
+RangeCurvature	3
 Balance			0.36
 Unfold			"Machinegun NG7 (7.62x51 mm)"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -103919,9 +103921,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	186
-RangeCurvature	1
+MaxRange		800
+EffectiveRange	210
+RangeCurvature	1.5
 Balance			0.36
 Unfold			"Machinegun NG7 Commando (7.62x51 mm) folded"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -103959,9 +103961,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	166
-RangeCurvature	1
+MaxRange		400
+EffectiveRange	42
+RangeCurvature	3
 Balance			0.36
 Unfold			"Machinegun NG7 Commando (7.62x51 mm)"
 ClipInSound		"Weapon\ClipIn\MG3_chain_in.wav"
@@ -103999,9 +104001,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	230
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	240
+RangeCurvature	1.5
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -104037,9 +104039,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	230
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	240
+RangeCurvature	1.5
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
@@ -104075,9 +104077,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		300
-EffectiveRange	234
-RangeCurvature	0.5
+MaxRange		850
+EffectiveRange	280
+RangeCurvature	1.5
 Balance			0.25
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
