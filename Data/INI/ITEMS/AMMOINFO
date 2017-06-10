@@ -3247,28 +3247,6 @@ ACTOR "Items\m397-onepart.act"
 IMAGE "m397a1.e5b"
 WEIGHT 230
 
-"VOG-25P"
-"40 לל (ֳֿ)"
-275
-76
-1
-0
-0
-0
-0
-0
-0
-0
-1
-0
-"Weapon\Shoot\Silencer\GP30.wav"
-"None"
-"Items\vog25p.act"
-250
-ACTOR "Items\vog25p.act"
-IMAGE "vog25p.e5b"
-WEIGHT 275
-
 "VOG-25"
 "40 לל (ֳֿ)"
 250
@@ -4305,28 +4283,6 @@ WEIGHT 12.89
 ACTOR "Items\7n6.act"
 IMAGE "ammo-7N6.e5b"
 WEIGHT 11.27
-
-"6 mm Airsoft pellets"
-"6 לל"
-0.2
-110
-5
-0.2
-0.3
-0
-0.5
-0.003
-0.005
-0.75
-0.001
-1
-"Weapon\Shoot\Silencer\Silencer_r.wav"
-"None"
-"Items\9x18pm_bullet.act"
-100
-ACTOR "Items\airsoftpellets.act"
-IMAGE "airsoftpellets.e5b"
-WEIGHT 0.23
 
 "6 mm Airsoft pellets"
 "6 לל"
@@ -6224,28 +6180,6 @@ ACTOR "Items\ex-star.act"
 IMAGE "ammo-EXSTAR.e5b"
 WEIGHT 11.16
 
-"9x19 FMJ Ball"
-"9ץ19 לל"
-7.25
-385
-1.5
-0.2
-0.6
-0.194
-0.022
-0.002
-0.03
-0.35
-2
-1
-"Weapon\Shoot\Silencer\Silencer_9mm.wav"
-"Items\9mmPara-case.act"
-"Items\m882-bullet.act"
-400
-ACTOR "Items\m882.act"
-IMAGE "ammo-M882.e5b"
-WEIGHT 10.46
-
 "Cor-Bon +P(9mm)"
 "9ץ19 לל"
 7.45
@@ -6650,28 +6584,6 @@ WEIGHT 1
 0.55
 0.35
 0.15
-0
-0
-0
-0
-1
-1
-"Weapon\Shoot\Silencer\None"
-"None"
-"None"
-150
-ACTOR "None"
-IMAGE "None"
-WEIGHT 1
-
-"Wave"
-"None"
-14
-330
-1.3
-0.15
-1.6
-0.05
 0
 0
 0

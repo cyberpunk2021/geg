@@ -1376,7 +1376,7 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MMaxRange		125
+MaxRange		125
 EffectiveRange	38
 RangeCurvature	6
 Balance			0.58
