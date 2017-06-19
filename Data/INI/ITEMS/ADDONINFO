@@ -9464,4 +9464,20 @@ IMAGE			"rpkbipod.e5b"
 WEIGHT			450
 Resource		1000
 
+//------------------------------------------------------
+Addon			"PP90fix"
+Stock			"built-in"
+Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR			"Items\pp90foldfix.act"
+IMAGE			"None"
+WEIGHT			0
+
+//------------------------------------------------------
+Addon			"PP90fix2"
+Stock			"built-in"
+Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
+ACTOR			"Items\pp90foldfix2.act"
+IMAGE			"None"
+WEIGHT			0
+
 END

@@ -7429,43 +7429,6 @@ ACTOR			"Items\SIG_P226.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
-ITEM "Pistol SIG Sauer P228 (357)" //MUDAR ARMA
-Class			Pistol
-Caliber			".357 SIG"
-Weight			770
-PrepareTime		0.14
-SingleFireTime	0.66
-BurstFireTime	0.25
-SpeedModifier	0.95
-Resource		900
-DirtResource	120000
-MisfireProb		0.0021
-HeatCapacity	50
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	1
-MaxRange		150
-EffectiveRange	31
-RangeCurvature	6
-Balance			0.65
-ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
-ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
-ShootSound		"Weapon\Shoot\P226_fire.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "PistolDocter"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "SIG357MESMO"
-StdPlug			"Pistol clip (P226357/12)"
-ACTOR			"Items\p228fix.act"
-IMAGE			"2x2.e5b"
-HANDS			ahtPistol
-
 ITEM "Pistol SWMP357"
 Class			Pistol
 Caliber			".357 SIG"
@@ -8657,6 +8620,43 @@ ACTOR			"Items\92elite.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
+ITEM "Pistol SIG Sauer P228 (.357)" //PT140
+Class			Pistol
+Caliber			".40 S&W"
+Weight			770
+PrepareTime		0.14
+SingleFireTime	0.65
+BurstFireTime	0.25
+SpeedModifier	0.95
+Resource		900
+DirtResource	110000
+MisfireProb		0.0021
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		190
+EffectiveRange	63
+RangeCurvature	5.5
+Balance			0.65
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\P226_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT111"
+StdPlug			"Pistol clip (PT111/12)"
+ACTOR			"Items\pt140.act"
+IMAGE			"m67.e5b"
+HANDS			ahtPistol
+
 ITEM "Pistol Taurus PT100 (.40 S&W)"
 Class			Pistol
 Caliber			".40 S&W"
@@ -9435,43 +9435,6 @@ ACTOR			"Items\SIG_P226.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
-ITEM "Pistol SIG Sauer P228 (.357)"
-Class			Pistol
-Caliber			".40 S&W"
-Weight			770
-PrepareTime		0.14
-SingleFireTime	0.65
-BurstFireTime	0.25
-SpeedModifier	0.95
-Resource		900
-DirtResource	110000
-MisfireProb		0.0021
-HeatCapacity	50
-Single			1
-Burst			0
-CutOff			0
-BurstHitStart	1
-MaxRange		190
-EffectiveRange	63
-RangeCurvature	5.5
-Balance			0.65
-ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
-ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
-ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
-ShootSound		"Weapon\Shoot\P226_fire.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		1 "PistolDocter"
-ATT Bipod		0
-ATT Silencer	0
-ATT ILauncher	0
-ATT Bayonet		0
-ATT Magazine	1 "SIG357"
-StdPlug			"Pistol clip (P226/12)"
-ACTOR			"Items\p228fix.act"
-IMAGE			"2x2.e5b"
-HANDS			ahtPistol
-
 ITEM "Pistol Colt Defender (.45 ACP)"
 Class			Pistol
 Caliber			".45 ACP"
@@ -10193,6 +10156,43 @@ ATT Magazine	1 "BR191145"
 StdPlug			"Pistol clip (BR191145/14)"
 ACTOR			"Items\md7lx.act"
 IMAGE			"2x2.e5b"
+HANDS			ahtPistol
+
+ITEM "Pistol SIG Sauer P228 (357)" //PT145
+Class			Pistol
+Caliber			".45 ACP"
+Weight			770
+PrepareTime		0.14
+SingleFireTime	0.66
+BurstFireTime	0.25
+SpeedModifier	0.95
+Resource		900
+DirtResource	120000
+MisfireProb		0.0021
+HeatCapacity	50
+Single			1
+Burst			0
+CutOff			0
+BurstHitStart	1
+MaxRange		150
+EffectiveRange	31
+RangeCurvature	6
+Balance			0.65
+ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
+ClipOutSound	"Weapon\ClipOut\pistol_unloading.wav"
+ReLockSound		"Weapon\ReLock\revolver_deploy.wav"
+ShootSound		"Weapon\Shoot\P226_fire.wav"
+ATT Laser		0
+ATT Light		0
+ATT Scope		0
+ATT Bipod		0
+ATT Silencer	0
+ATT ILauncher	0
+ATT Bayonet		0
+ATT Magazine	1 "PT145"
+StdPlug			"Pistol clip (PT145/10)"
+ACTOR			"Items\pt145.act"
+IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
 ITEM "Pistol PT1911 (45)"
@@ -19514,9 +19514,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	82
-RangeCurvature	5
+MaxRange		110
+EffectiveRange	51
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Carl Gustaf Kpist M50 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -19592,9 +19592,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	86
-RangeCurvature	5
+MaxRange		110
+EffectiveRange	53
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Carl Gustaf Kpist INA (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -19670,9 +19670,9 @@ Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	86
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	53
+RangeCurvature	2
 Balance			0.54
 Unfold			"Carl Gustaf Kpist M45 (45)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -19748,9 +19748,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		165
-EffectiveRange	61
-RangeCurvature	5
+MaxRange		82
+EffectiveRange	40
+RangeCurvature	2
 Balance			0.44
 Unfold			"Submachine-gun Vz61 (7.65mm)"
 ClipInSound		"Weapon\ClipIn\Scorpion_mag_in.wav"
@@ -19826,9 +19826,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		180
-EffectiveRange	61
-RangeCurvature	5.3
+MaxRange		90
+EffectiveRange	40
+RangeCurvature	2
 Balance			0.44
 Unfold			"Submachine-gun VZ82 (380)"
 ClipInSound		"Weapon\ClipIn\Scorpion_mag_in.wav"
@@ -19906,9 +19906,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		195
-EffectiveRange	65
-RangeCurvature	4
+MaxRange		97
+EffectiveRange	42
+RangeCurvature	2
 Balance			0.44
 Unfold			"Submachine-gun Vz82 (9x18mm)"
 ClipInSound		"Weapon\ClipIn\Scorpion_mag_in.wav"
@@ -19984,9 +19984,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		210
-EffectiveRange	66
-RangeCurvature	5
+MaxRange		105
+EffectiveRange	43
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun VZ82 (9x19mm)"
 ClipInSound		"Weapon\ClipIn\Scorpion_mag_in.wav"
@@ -20062,9 +20062,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	76
-RangeCurvature	4
+MaxRange		102
+EffectiveRange	48
+RangeCurvature	2
 Balance			0.44
 Unfold			"Submachine-gun Kiparis (9mm)"
 ClipInSound		"Weapon\ClipIn\Scorpion_mag_in.wav"
@@ -20140,9 +20140,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		195
-EffectiveRange	67
-RangeCurvature	4
+MaxRange		97
+EffectiveRange	43
+RangeCurvature	2
 Balance			0.48
 Unfold			"Submachine-gun kedr"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -20218,9 +20218,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	70
-RangeCurvature	4
+MaxRange		102
+EffectiveRange	45
+RangeCurvature	2
 Balance			0.46
 Unfold			"Submachine-gun AEK919K (9x18mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20296,9 +20296,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	75
-RangeCurvature	4
+MaxRange		102
+EffectiveRange	47
+RangeCurvature	2
 Balance			0.46
 Unfold			"Submachine-gun PM63 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20374,9 +20374,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		220
-EffectiveRange	75
-RangeCurvature	4
+MaxRange		110
+EffectiveRange	47
+RangeCurvature	2
 Balance			0.46
 Unfold			"Submachine-gun T82 (7.62x25mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20452,9 +20452,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	78
-RangeCurvature	4
+MaxRange		102
+EffectiveRange	49
+RangeCurvature	1.5
 Balance			0.46
 Unfold			"Submachine-gun PM84 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20530,9 +20530,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		215
-EffectiveRange	78
-RangeCurvature	4
+MaxRange		107
+EffectiveRange	39
+RangeCurvature	1.5
 Balance			0.46
 Unfold			"Submachine-gun PM84P (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20609,9 +20609,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		215
-EffectiveRange	80
-RangeCurvature	4
+MaxRange		107
+EffectiveRange	50
+RangeCurvature	1.5
 Balance			0.46
 Unfold			"Submachine-gun PM98 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20667,6 +20667,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AEK919K/30""AEK919K/20"
 StdPlug			"SMG ammo clip (AEK919K/30)"
+StdPlug			"PP90fix"
 ACTOR			"Items\pp90.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtBullPup
@@ -20705,6 +20706,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AEK919K/30""AEK919K/20"
 StdPlug			"SMG ammo clip (AEK919K/30)"
+StdPlug			"PP90fix2"
 ACTOR			"Items\pp90folded.act"
 IMAGE			"cleaningkit2.e5b"
 HANDS			ahtPistol
@@ -20743,6 +20745,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
+StdPlug			"PP90fix"
 ACTOR			"Items\pp90.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtBullPup
@@ -20781,6 +20784,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
+StdPlug			"PP90fix2"
 ACTOR			"Items\pp90folded.act"
 IMAGE			"cleaningkit2.e5b"
 HANDS			ahtPistol
@@ -20840,9 +20844,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		195
-EffectiveRange	68
-RangeCurvature	4
+MaxRange		97
+EffectiveRange	44
+RangeCurvature	2
 Balance			0.46
 Unfold			"Submachine-gun PP93 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -20918,9 +20922,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		215
-EffectiveRange	82
-RangeCurvature	4
+MaxRange		107
+EffectiveRange	51
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"PP2000"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -20998,9 +21002,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		180
-EffectiveRange	85
-RangeCurvature	4
+MaxRange		90
+EffectiveRange	42
+RangeCurvature	2
 Balance			0.27
 Unfold			"Bizon 2 (380)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -21076,9 +21080,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		195
-EffectiveRange	90
-RangeCurvature	4
+MaxRange		97
+EffectiveRange	55
+RangeCurvature	2
 Balance			0.27
 Unfold			"Submachine-gun Bizon 2 (9x18mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -21154,9 +21158,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		215
-EffectiveRange	93
-RangeCurvature	4
+MaxRange		107
+EffectiveRange	56
+RangeCurvature	1.25
 Balance			0.27
 Unfold			"Bizon 2 (Tokarev)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -21232,9 +21236,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	93
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	46
+RangeCurvature	1.5
 Balance			0.27
 Unfold			"Bizon 2 (9x19)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -21312,9 +21316,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	97
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	58
+RangeCurvature	1.5
 Balance			0.55
 Unfold			"Submachine-gun PP-19 Vityaz (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21390,9 +21394,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	97
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	58
+RangeCurvature	1.5
 Balance			0.55
 Unfold			"Submachine-gun PP-19 Vityaz WR (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21468,9 +21472,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	89
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	54
+RangeCurvature	1.5
 Balance			0.27
 Unfold			"PP90M1 (9x19)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -21546,9 +21550,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	89
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	54
+RangeCurvature	1.5
 Balance			0.27
 Unfold			"PP90M1 RIS (9x19)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -21626,9 +21630,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	88
-RangeCurvature	6
+MaxRange		115
+EffectiveRange	54
+RangeCurvature	2.5
 Balance			0.6
 Unfold			"Submachine-gun SR2 (9x21)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -21706,9 +21710,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	70
-RangeCurvature	4
+MaxRange		95
+EffectiveRange	45
+RangeCurvature	1.5
 Balance			0.42
 Unfold			"Submachine-gun KG-99 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -21784,9 +21788,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	70
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	45
+RangeCurvature	1.5
 Balance			0.42
 Unfold			"Submachine-gun KG-99 AUTO (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -22084,9 +22088,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	94
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	57
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Steyr69 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22111,7 +22115,7 @@ ITEM "Steyr81 (9mm)"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			3130
-PrepareTime		0.23
+PrepareTime		0.24
 SingleFireTime	0.59
 BurstFireTime	0.08
 SpeedModifier	1.08
@@ -22150,7 +22154,7 @@ ITEM "Steyr81 (9mm) folded"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			3130
-PrepareTime		0.19
+PrepareTime		0.20
 SingleFireTime	0.59
 BurstFireTime	0.08
 SpeedModifier	1.08
@@ -22162,9 +22166,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	94
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	57
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Steyr81 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22240,9 +22244,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	78
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	49
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"Submachine-gun Walter MPK (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22318,9 +22322,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	90
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	55
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"Submachine-gun Walter MPL (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22396,9 +22400,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	84
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"PM12"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22511,9 +22515,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	76
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	48
+RangeCurvature	1.5
 Balance			0.5
 Unfold			"Submachine-gun RATMIL md96 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -22589,9 +22593,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		180
-EffectiveRange	68
-RangeCurvature	5
+MaxRange		90
+EffectiveRange	44
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"Submachine-gun Micro UZI (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22669,9 +22673,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	76
-RangeCurvature	6
+MaxRange		95
+EffectiveRange	48
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun Mini UZI (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22749,9 +22753,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	93
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	56
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Submachine-gun UZI (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -22827,9 +22831,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		165
-EffectiveRange	66
-RangeCurvature	4
+MaxRange		82
+EffectiveRange	43
+RangeCurvature	2
 Balance			0.58
 Unfold			"Submachine-gun MAC-10 (380)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -22907,9 +22911,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		180
-EffectiveRange	64
-RangeCurvature	7
+MaxRange		90
+EffectiveRange	44
+RangeCurvature	2
 Balance			0.58
 Unfold			"Submachine-gun MAC-10 (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -23022,9 +23026,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		185
-EffectiveRange	72
-RangeCurvature	5
+MaxRange		92
+EffectiveRange	46
+RangeCurvature	1.5
 Balance			0.58
 Unfold			"Submachine-gun MAC-11 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -23100,9 +23104,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	80
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	50
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"Spectre M4"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23141,7 +23145,7 @@ CutOff			0
 BurstHitStart	1
 MaxRange		210
 EffectiveRange	104
-RangeCurvature	3.5
+RangeCurvature	2.75
 Balance			0.47
 Unfold			"Spectre M4 40 folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23178,9 +23182,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		210
-EffectiveRange	84
-RangeCurvature	5.5
+MaxRange		105
+EffectiveRange	52
+RangeCurvature	1.375
 Balance			0.47
 Unfold			"Spectre M4 40"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23256,9 +23260,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	77
-RangeCurvature	7
+MaxRange		100
+EffectiveRange	48
+RangeCurvature	2
 Balance			0.47
 Unfold			"Spectre M4 45"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -23334,9 +23338,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	2
-MaxRange		200
-EffectiveRange	100
-RangeCurvature	7
+MaxRange		100
+EffectiveRange	60
+RangeCurvature	2
 Balance			0.36
 Unfold			"Submachine-gun KRISS Super V CIV (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -23412,9 +23416,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		200
-EffectiveRange	100
-RangeCurvature	7
+MaxRange		100
+EffectiveRange	60
+RangeCurvature	2
 Balance			0.36
 Unfold			"Submachine-gun KRISS Super V (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -23490,9 +23494,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	2
-MaxRange		220
-EffectiveRange	112
-RangeCurvature	7
+MaxRange		110
+EffectiveRange	66
+RangeCurvature	2
 Balance			0.36
 Unfold			"Submachine-gun KRISS Super V CAR (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -23568,9 +23572,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		185
-EffectiveRange	72
-RangeCurvature	5
+MaxRange		92
+EffectiveRange	46
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun Ruger MP9 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -23646,9 +23650,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		185
-EffectiveRange	78
-RangeCurvature	5
+MaxRange		92
+EffectiveRange	49
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"CBJMS (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -23724,9 +23728,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		240
-EffectiveRange	90
-RangeCurvature	4
+MaxRange		120
+EffectiveRange	55
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"CBJMS (6.25)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -23802,9 +23806,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	85
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.62
 Unfold			"CPW (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -23917,9 +23921,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	82
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	51
+RangeCurvature	1.5
 Balance			0.42
 Unfold			"Submachine-gun BT MP9 (9mm)"
 ClipInSound		"Weapon\ClipIn\AEK919k_mag_in.wav"
@@ -23995,9 +23999,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	85
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.27
 Unfold			"Submachine-gun Type CF05 (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -24073,9 +24077,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		260
-EffectiveRange	89
-RangeCurvature	4
+MaxRange		130
+EffectiveRange	54
+RangeCurvature	2
 Balance			0.62
 Unfold			"CPW (4.6)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -24151,9 +24155,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		260
-EffectiveRange	95
-RangeCurvature	3
+MaxRange		130
+EffectiveRange	57
+RangeCurvature	2
 Balance			0.28
 Unfold			"MP7"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24268,9 +24272,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	84
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.47
 Unfold			"Submachine-gun HK MP5PDW (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24348,9 +24352,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	101
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	60
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun HK MP5A5 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24428,9 +24432,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	101
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	60
+RangeCurvature	1.5
 Balance			0.5
 Unfold			"Submachine-gun HK MP5A5 RIS (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24506,9 +24510,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	91
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	55
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun NR-08 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24586,9 +24590,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	91
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	55
+RangeCurvature	1.5
 Balance			0.5
 Unfold			"Submachine-gun NR-08 RIS (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24667,9 +24671,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	90
-RangeCurvature	9
+MaxRange		102
+EffectiveRange	60
+RangeCurvature	1.5
 Balance			0.42
 Unfold			"Submachine-gun HK MP5SD5 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24749,9 +24753,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	101
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	60
+RangeCurvature	1.5
 Balance			0.35
 Unfold			"Submachine-gun HK MP5+M203 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24830,9 +24834,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	105
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	62
+RangeCurvature	1.375
 Balance			0.6
 Unfold			"Submachine-gun HK MP5A5 (.40 S&W)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24871,7 +24875,7 @@ CutOff			3
 BurstHitStart	1
 MaxRange		225
 EffectiveRange	125
-RangeCurvature	4.5
+RangeCurvature	2.75
 Balance			0.35
 Unfold			"Submachine-gun HK MP5+M203 (40) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24909,9 +24913,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	105
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	62
+RangeCurvature	1.375
 Balance			0.35
 Unfold			"Submachine-gun HK MP5+M203 (40)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24953,7 +24957,7 @@ CutOff			3
 BurstHitStart	1
 MaxRange		225
 EffectiveRange	125
-RangeCurvature	4.5
+RangeCurvature	2.75
 Balance			0.41
 Unfold			"Submachine-gun HK MP5A5 RIS (.40 S&W) folded"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -24990,9 +24994,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	105
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	62
+RangeCurvature	1.375
 Balance			0.41
 Unfold			"Submachine-gun HK MP5A5 RIS (.40 S&W)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -25068,9 +25072,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		245
-EffectiveRange	110
-RangeCurvature	4
+MaxRange		122
+EffectiveRange	65
+RangeCurvature	1.25
 Balance			0.6
 Unfold			"HK MP5A3 (10)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -25147,9 +25151,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		245
-EffectiveRange	110
-RangeCurvature	4
+MaxRange		122
+EffectiveRange	65
+RangeCurvature	1.25
 Balance			0.35
 Unfold			"Submachine-gun HK MP5+M203 (10)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -25226,9 +25230,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		245
-EffectiveRange	110
-RangeCurvature	4
+MaxRange		122
+EffectiveRange	65
+RangeCurvature	1.25
 Balance			0.41
 Unfold			"Submachine-gun HK MP5A5 RIS (10)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -25304,9 +25308,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		205
-EffectiveRange	97
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	58
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun UMP9 FG (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25382,9 +25386,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	97
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	58
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun UMP9 (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25460,9 +25464,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		225
-EffectiveRange	102
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	61
+RangeCurvature	1.375
 Balance			0.44
 Unfold			"Submachine-gun UMP40 FG (.40 S&W)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25538,9 +25542,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	102
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	61
+RangeCurvature	1.375
 Balance			0.44
 Unfold			"Submachine-gun UMP40 (.40 S&W)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25616,9 +25620,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		200
-EffectiveRange	98
-RangeCurvature	4
+MaxRange		100
+EffectiveRange	59
+RangeCurvature	2
 Balance			0.44
 Unfold			"Submachine-gun UMP45 FG (.45ACP)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25696,9 +25700,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	98
-RangeCurvature	4
+MaxRange		100
+EffectiveRange	59
+RangeCurvature	2
 Balance			0.44
 Unfold			"Submachine-gun HK UMP45 (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -25774,9 +25778,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	85
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25852,9 +25856,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	2
-MaxRange		190
-EffectiveRange	85
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -25930,9 +25934,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		210
-EffectiveRange	90
-RangeCurvature	4.5
+MaxRange		105
+EffectiveRange	55
+RangeCurvature	1.375
 Balance			0.44
 Unfold			"Submachine-gun MPXK (40)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26008,9 +26012,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	2
-MaxRange		210
-EffectiveRange	90
-RangeCurvature	4.5
+MaxRange		105
+EffectiveRange	55
+RangeCurvature	1.375
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (40)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26086,9 +26090,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		215
-EffectiveRange	92
-RangeCurvature	5
+MaxRange		107
+EffectiveRange	56
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPXK (357)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26164,9 +26168,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	2
-MaxRange		215
-EffectiveRange	92
-RangeCurvature	5
+MaxRange		107
+EffectiveRange	56
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPXK FG (357)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26242,9 +26246,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	98
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	59
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPX (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26320,9 +26324,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	2
-MaxRange		205
-EffectiveRange	98
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	59
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPX FG (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26398,9 +26402,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	102
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	61
+RangeCurvature	1.375
 Balance			0.44
 Unfold			"Submachine-gun MPX (40)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26476,9 +26480,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	2
-MaxRange		225
-EffectiveRange	102
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	61
+RangeCurvature	1.375
 Balance			0.44
 Unfold			"Submachine-gun MPX FG (40)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26554,9 +26558,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	105
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	62
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPX (357)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26632,9 +26636,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	2
-MaxRange		230
-EffectiveRange	105
-RangeCurvature	5
+MaxRange		115
+EffectiveRange	62
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun MPX FG (357)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26749,9 +26753,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	96
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	58
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun Skorpion 3 (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26827,9 +26831,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	2
-MaxRange		205
-EffectiveRange	96
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	58
+RangeCurvature	1.5
 Balance			0.44
 Unfold			"Submachine-gun Skorpion 3 FG (9mm)"
 ClipInSound		"Weapon\ClipIn\UMP_mag_in.wav"
@@ -26905,9 +26909,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	82
-RangeCurvature	5
+MaxRange		95
+EffectiveRange	51
+RangeCurvature	1.5
 Balance			0.64
 Unfold			"Submachine-gun Pindad PM2 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -26984,9 +26988,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	87
-RangeCurvature	10
+MaxRange		102
+EffectiveRange	56
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun Pindad PM2 SIL (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -27063,9 +27067,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	101
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	59
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun Pindad PM3 (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -27141,9 +27145,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	101
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	59
+RangeCurvature	1.5
 Balance			0.6
 Unfold			"Submachine-gun Pindad PM3 FG (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -27702,9 +27706,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	75
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	47
+RangeCurvature	1.5
 Balance			0.45
 Unfold			"Calico M900 CQC (9 mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -27780,9 +27784,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	118
-RangeCurvature	2
+MaxRange		112
+EffectiveRange	69
+RangeCurvature	1.5
 Balance			0.45
 Unfold			"Carabine Calico M900 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -27861,9 +27865,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	86
-RangeCurvature	10
+MaxRange		102
+EffectiveRange	57
+RangeCurvature	1.5
 Balance			0.54
 Unfold			"Submachine-gun Daewoo K7 (9mm)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -27942,9 +27946,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	95
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	57
+RangeCurvature	1.5
 Balance			0.5
 Unfold			"Submachine-gun FAMAE SAF (9mm)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -28022,9 +28026,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	100
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	60
+RangeCurvature	1.375
 Balance			0.5
 Unfold			"Submachine-gun Taurus MT-40 (.40 S&W)"
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -28100,9 +28104,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	102
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	61
+RangeCurvature	1.5
 Balance			0.38
 Unfold			"Assault Rifle Taurus CQC (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28178,9 +28182,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		205
-EffectiveRange	102
-RangeCurvature	5
+MaxRange		102
+EffectiveRange	61
+RangeCurvature	1.5
 Balance			0.38
 Unfold			"Assault Rifle Taurus CQC FG (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28256,9 +28260,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	105
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	62
+RangeCurvature	1.375
 Balance			0.38
 Unfold			"Assault Rifle Taurus CQC (.40)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28334,9 +28338,9 @@ Single			1
 Burst			1
 CutOff			2
 BurstHitStart	2
-MaxRange		225
-EffectiveRange	105
-RangeCurvature	4.5
+MaxRange		112
+EffectiveRange	62
+RangeCurvature	1.375
 Balance			0.38
 Unfold			"Assault Rifle Taurus CQC FG (.40)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28493,9 +28497,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	110
-RangeCurvature	6
+MaxRange		164
+EffectiveRange	100
+RangeCurvature	3
 Balance			0.48
 Unfold			"Submachine-gun Colt SMG (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28571,9 +28575,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	110
-RangeCurvature	6
+MaxRange		164
+EffectiveRange	100
+RangeCurvature	3
 Balance			0.48
 Unfold			"Submachine-gun Colt 635 WR (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28649,8 +28653,8 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	130
+MaxRange		180
+EffectiveRange	116
 RangeCurvature	3
 Balance			0.51
 Unfold			"Submachine-gun Colt 635 WR LB (9mm)"
@@ -28729,9 +28733,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	105
-RangeCurvature	4
+MaxRange		160
+EffectiveRange	96
+RangeCurvature	2
 Balance			0.48
 Unfold			"Submachine-gun Colt SMG (.45 ACP)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28808,9 +28812,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		205
-EffectiveRange	110
-RangeCurvature	6
+MaxRange		164
+EffectiveRange	100
+RangeCurvature	3
 Balance			0.48
 Unfold			"Submachine-gun K9 (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28888,9 +28892,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		225
-EffectiveRange	114
-RangeCurvature	5.5
+MaxRange		180
+EffectiveRange	103
+RangeCurvature	2.75
 Balance			0.48
 Unfold			"Submachine-gun K40 (.40)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -28968,8 +28972,8 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		200
-EffectiveRange	108
+MaxRange		160
+EffectiveRange	98
 RangeCurvature	4
 Balance			0.48
 Unfold			"Submachine-gun K45 (.45ACP)"
@@ -29048,9 +29052,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		245
-EffectiveRange	118
-RangeCurvature	5
+MaxRange		196
+EffectiveRange	106
+RangeCurvature	4
 Balance			0.48
 Unfold			"Submachine-gun K10 (10)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -29167,9 +29171,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
-MaxRange		260
-EffectiveRange	91
-RangeCurvature	3
+MaxRange		130
+EffectiveRange	45
+RangeCurvature	2
 Balance			0.62
 Unfold			"CPW (5.7)"
 ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
@@ -30638,9 +30642,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		300
-EffectiveRange	66
-RangeCurvature	7
+MaxRange		150
+EffectiveRange	43
+RangeCurvature	4
 Balance			0.38
 Unfold			"Shotgun KS-23 (23mm)"
 ClipInSound		"Weapon\ClipIn\KS-23_pump.wav"
@@ -31377,9 +31381,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	55
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	5
 Balance			0.56
 Unfold			"Remington M870 Magnum Police (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31479,9 +31483,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	55
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	5
 Balance			0.56
 Unfold			"Shotgun Remington M870 Magnum Police (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31755,9 +31759,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		200
-EffectiveRange	40
-RangeCurvature	19
+MaxRange		100
+EffectiveRange	30
+RangeCurvature	10
 Balance			0.43
 Unfold			"Baikal 153 SB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31834,9 +31838,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	51
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	35
+RangeCurvature	7
 Balance			0.43
 Unfold			"Baikal 153 (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -31913,9 +31917,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	60
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	40
+RangeCurvature	5
 Balance			0.43
 Unfold			"Baikal 153 LB (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -32213,9 +32217,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	48
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	34
+RangeCurvature	7
 Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -32369,8 +32373,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	53
+MaxRange		195
+EffectiveRange	57
 RangeCurvature	15
 Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC SCOPIC (12ga)"
@@ -32447,8 +32451,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	59
+MaxRange		221
+EffectiveRange	61
 RangeCurvature	10
 Balance			0.69
 Unfold			"Shotgun CBC PUMP TAC SCOPIC LB (12ga)"
@@ -32599,8 +32603,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		270
-EffectiveRange	73
+MaxRange		221
+EffectiveRange	75
 RangeCurvature	10
 Balance			0.61
 Unfold			"Shotgun Boito PUMP POLY SCOPIC (12ga)"
@@ -32677,9 +32681,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		270
-EffectiveRange	68
-RangeCurvature	9
+MaxRange		135
+EffectiveRange	44
+RangeCurvature	5
 Balance			0.61
 Unfold			"Shotgun Boito PUMP POLY FG (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -32755,9 +32759,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	45
-RangeCurvature	15
+MaxRange		115
+EffectiveRange	32
+RangeCurvature	7
 Balance			0.66
 Unfold			"Shotgun Boito PUMP POLY FG CQC (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -33320,9 +33324,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	62
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	41
+RangeCurvature	5
 Balance			0.55
 Unfold			"Shotgun M1014 JSCS (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -33437,9 +33441,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	54
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	5
 Balance			0.42
 Unfold			"Striker (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -33515,9 +33519,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	45
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	32
+RangeCurvature	7
 Balance			0.65
 Unfold			"QBS09 (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -33593,9 +33597,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	53
-RangeCurvature	14
+MaxRange		130
+EffectiveRange	36
+RangeCurvature	7
 Balance			0.53
 Unfold			"Shotgun Hawk Pump Internal (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -33671,9 +33675,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		200
-EffectiveRange	35
-RangeCurvature	19
+MaxRange		170
+EffectiveRange	47
+RangeCurvature	20
 Balance			0.35
 Unfold			"Shotgun M26 Mass (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -33934,9 +33938,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	53
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	36
+RangeCurvature	7
 Balance			0.58
 Unfold			"TOZ194 (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -33973,9 +33977,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	58
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	39
+RangeCurvature	5
 Balance			0.65
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
 ClipOutSound	"Weapon\ClipOut\m3_pump.wav"
@@ -34088,9 +34092,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	58
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	39
+RangeCurvature	5
 Balance			0.65
 Unfold			"Shotgun SPAS12 (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -34242,9 +34246,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	55
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	5
 Balance			0.49
 Unfold			"SPAS15 F (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -34320,9 +34324,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	55
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	5
 Balance			0.49
 Unfold			"SPAS15 Tan F (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -34398,9 +34402,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	57
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	38
+RangeCurvature	5
 Balance			0.49
 Unfold			"SPAS15 FS (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -34476,9 +34480,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	57
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	38
+RangeCurvature	5
 Balance			0.49
 Unfold			"SPAS15 Tan FS (12ga)"
 ClipInSound		"Weapon\ClipIn\m3_insertshell.wav"
@@ -34554,9 +34558,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	53
-RangeCurvature	14
+MaxRange		130
+EffectiveRange	36
+RangeCurvature	7
 Balance			0.46
 Unfold			"Shotgun Hawk Pump (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -34632,9 +34636,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	46
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	33
+RangeCurvature	7
 Balance			0.4
 Unfold			"Shotgun Saiga12K (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -34712,9 +34716,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	54
-RangeCurvature	14
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	7
 Balance			0.4
 Unfold			"Shotgun Saiga12-30 (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -34790,9 +34794,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		210
-EffectiveRange	40
-RangeCurvature	14
+MaxRange		105
+EffectiveRange	30
+RangeCurvature	7
 Balance			0.4
 Unfold			"Shotgun Saiga12K (20ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -34868,9 +34872,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		240
-EffectiveRange	49
-RangeCurvature	10
+MaxRange		120
+EffectiveRange	34
+RangeCurvature	5
 Balance			0.4
 Unfold			"Shotgun Saiga12-30 (20ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -34946,9 +34950,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	0
-MaxRange		170
-EffectiveRange	28
-RangeCurvature	15
+MaxRange		85
+EffectiveRange	24
+RangeCurvature	7
 Balance			0.4
 Unfold			"Shotgun Saiga12K (410)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35024,9 +35028,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	0
-MaxRange		190
-EffectiveRange	58
-RangeCurvature	10
+MaxRange		95
+EffectiveRange	29
+RangeCurvature	5
 Balance			0.4
 Unfold			"Shotgun Saiga12-30 (410)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35105,9 +35109,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		230
-EffectiveRange	46
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	33
+RangeCurvature	7
 Balance			0.5
 Unfold			"Shotgun RTS-SBS-12 (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35184,9 +35188,9 @@ Single			1
 Burst			1
 CutOff			0
 BurstHitStart	0
-MaxRange		200
-EffectiveRange	39
-RangeCurvature	19
+MaxRange		100
+EffectiveRange	29
+RangeCurvature	10
 Balance			0.48
 Unfold			"Shotgun VEPR12K (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35262,9 +35266,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	47
-RangeCurvature	14
+MaxRange		115
+EffectiveRange	33
+RangeCurvature	7
 Balance			0.4
 Unfold			"Shotgun VEPR12 (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35340,8 +35344,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		230
-EffectiveRange	52
+MaxRange		195
+EffectiveRange	57
 RangeCurvature	15
 Balance			0.4
 Unfold			"Shotgun VEPR12 MAGPUL (12ga)"
@@ -35418,9 +35422,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	55
-RangeCurvature	10
+MaxRange		130
+EffectiveRange	37
+RangeCurvature	5
 Balance			0.4
 Unfold			"Shotgun VEPR12 LB (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35496,8 +35500,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	60
+MaxRange		221
+EffectiveRange	64
 RangeCurvature	10
 Balance			0.4
 Unfold			"Shotgun VEPR12 LB MAGPUL (12ga)"
@@ -35574,9 +35578,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		270
-EffectiveRange	63
-RangeCurvature	9
+MaxRange		135
+EffectiveRange	41
+RangeCurvature	5
 Balance			0.4
 Unfold			"Shotgun VEPR12 LB LB (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35652,8 +35656,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		270
-EffectiveRange	68
+MaxRange		229
+EffectiveRange	71
 RangeCurvature	10
 Balance			0.4
 Unfold			"Shotgun VEPR12 LB LB MAGPUL (12ga)"
@@ -35730,9 +35734,9 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	0
-MaxRange		260
-EffectiveRange	56
-RangeCurvature	9
+MaxRange		130
+EffectiveRange	38
+RangeCurvature	5
 Balance			0.36
 Unfold			"Shotgun DBV12 (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -35920,8 +35924,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	1
-MaxRange		170
-EffectiveRange	37
+MaxRange		144
+EffectiveRange	44
 RangeCurvature	15
 Balance			0.51
 Unfold			"Assault Rifle T14 M4A1 (410)"
@@ -36000,8 +36004,8 @@ Single			1
 Burst			0
 CutOff			0
 BurstHitStart	2
-MaxRange		170
-EffectiveRange	37
+MaxRange		144
+EffectiveRange	44
 RangeCurvature	15
 Balance			0.51
 Unfold			"Assault Rifle T14 M4A1 FG (410)"
@@ -52533,7 +52537,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		450
-EffectiveRange	135
+EffectiveRange	130
 RangeCurvature	2
 Balance			0.58
 Unfold			"Assault Rifle G36C (5.56mm) folded"
@@ -52573,7 +52577,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		225
-EffectiveRange	34
+EffectiveRange	32
 RangeCurvature	4
 Balance			0.58
 Unfold			"Assault Rifle G36C (5.56mm)"
@@ -52600,7 +52604,7 @@ ITEM "Assault Rifle G36KE (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.33
+PrepareTime		0.32
 SingleFireTime	0.71
 BurstFireTime	0.08
 SpeedModifier	1
@@ -52613,7 +52617,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	170
+EffectiveRange	160
 RangeCurvature	2
 Balance			0.63
 Unfold			"Assault Rifle G36KE (5.56mm) folded"
@@ -52653,7 +52657,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	42
+EffectiveRange	40
 RangeCurvature	4
 Balance			0.63
 Unfold			"Assault Rifle G36KE (5.56mm)"
@@ -52680,7 +52684,7 @@ ITEM "Assault Rifle G36E (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3630
-PrepareTime		0.41
+PrepareTime		0.42
 SingleFireTime	0.74
 BurstFireTime	0.08
 SpeedModifier	1.05
@@ -52693,7 +52697,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	245
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.5
 Unfold			"Assault Rifle G36E (5.56mm) folded"
@@ -52724,7 +52728,7 @@ ITEM "Assault Rifle G36E (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3630
-PrepareTime		0.37
+PrepareTime		0.38
 SingleFireTime	0.74
 BurstFireTime	0.08
 SpeedModifier	1.05
@@ -52737,7 +52741,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		225
-EffectiveRange	61
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.5
 Unfold			"Assault Rifle G36E (5.56mm)"
@@ -52783,7 +52787,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	170
+EffectiveRange	160
 RangeCurvature	2
 Balance			0.28
 Unfold			"Assault Rifle G36KE+AG36 (5.56mm) folded"
@@ -52824,7 +52828,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	42
+EffectiveRange	40
 RangeCurvature	4
 Balance			0.28
 Unfold			"Assault Rifle G36KE+AG36 (5.56mm)"
@@ -52865,7 +52869,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		450
-EffectiveRange	135
+EffectiveRange	130
 RangeCurvature	2
 Balance			0.58
 Unfold			"G36C_T (5.56mm) folded"
@@ -52905,7 +52909,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		225
-EffectiveRange	34
+EffectiveRange	32
 RangeCurvature	4
 Balance			0.58
 Unfold			"G36C_T (5.56mm)"
@@ -52945,7 +52949,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	170
+EffectiveRange	160
 RangeCurvature	2
 Balance			0.63
 Unfold			"G36K WR Tan (5.56mm) folded"
@@ -52985,7 +52989,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	42
+EffectiveRange	40
 RangeCurvature	4
 Balance			0.63
 Unfold			"G36K WR Tan (5.56mm)"
@@ -53012,7 +53016,7 @@ ITEM "G36 WR Tan (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3630
-PrepareTime		0.41
+PrepareTime		0.42
 SingleFireTime	0.74
 BurstFireTime	0.08
 SpeedModifier	1.05
@@ -53025,7 +53029,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	245
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.58
 Unfold			"G36 WR Tan (5.56mm) folded"
@@ -53052,7 +53056,7 @@ ITEM "G36 WR Tan (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3630
-PrepareTime		0.37
+PrepareTime		0.38
 SingleFireTime	0.74
 BurstFireTime	0.08
 SpeedModifier	1.05
@@ -53065,7 +53069,7 @@ Burst			1
 CutOff			2
 BurstHitStart	1
 MaxRange		225
-EffectiveRange	61
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.5
 Unfold			"G36 WR Tan (5.56mm)"
@@ -59498,7 +59502,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	235
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.53
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -59535,7 +59539,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	235
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.53
 Unfold			"Assault Rifle C7FT (5.56mm) folded"
@@ -59574,7 +59578,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	235
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.53
 Unfold			"Assault Rifle C7FT (5.56mm) folded"
@@ -59613,7 +59617,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	230
+EffectiveRange	240
 RangeCurvature	2
 Balance			0.53
 Unfold			"Assault Rifle C7FT (5.56mm) folded"
@@ -59653,7 +59657,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		440
-EffectiveRange	184
+EffectiveRange	192
 RangeCurvature	2
 Balance			0.53
 Unfold			"Assault Rifle C7FT (5.56mm)"
@@ -59733,7 +59737,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		440
-EffectiveRange	184
+EffectiveRange	192
 RangeCurvature	2
 Balance			0.53
 Unfold			"Assault Rifle C7FT B (5.56mm)"
@@ -59773,7 +59777,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	155
+EffectiveRange	175
 RangeCurvature	2
 Balance			0.46
 Unfold			"Assault Rifle C8 (5.56mm) folded"
@@ -59812,7 +59816,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		400
-EffectiveRange	124
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
 Unfold			"Assault Rifle C8 (5.56mm)"
@@ -59851,7 +59855,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	155
+EffectiveRange	175
 RangeCurvature	2
 Balance			0.46
 Unfold			"Assault Rifle C7FT CAR (5.56mm) folded"
@@ -59891,7 +59895,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		400
-EffectiveRange	124
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
 Unfold			"Assault Rifle C7FT CAR (5.56mm)"
@@ -59931,7 +59935,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	155
+EffectiveRange	175
 RangeCurvature	2
 Balance			0.46
 Unfold			"Assault Rifle C7FT CAR B (5.56mm) folded"
@@ -59971,7 +59975,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		400
-EffectiveRange	124
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
 Unfold			"Assault Rifle C7FT CAR B (5.56mm)"
@@ -62162,7 +62166,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"LVOASstock"
 ACTOR			"Items\LVOAS.act"
 IMAGE			"2x4.e5b"
@@ -62201,7 +62205,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"LVOASstock_folded"
 ACTOR			"Items\LVOAS.act"
 IMAGE			"2x4.e5b"
@@ -62240,7 +62244,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"LVOASstock"
 ACTOR			"Items\lvoasfg.act"
 IMAGE			"2x4.e5b"
@@ -62279,7 +62283,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"LVOASstock_folded"
 ACTOR			"Items\lvoasfg.act"
 IMAGE			"2x4.e5b"
