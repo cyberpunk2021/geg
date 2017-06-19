@@ -2436,7 +2436,30 @@ Item "Pistol clip (PT111/12)" 20
 
 +++++++++++
 
-triggered h3h3
-chaves ruim e sem graça
-muxe
-goal storm, winning eleven 97
+
+TODO list :
+
+- Pops inventory is bugged, fal with bugged stock
+- In olvega the bartender buys drugs for more than the street trader in the floor above, should be the opposite
+- rico buys the gold nugget for too much we should reduce the value by 40%
+- same for digital camera ?
+- need to make cali cantinos bartender buy the 20L and 5L canisters of vodka for a lot of money right now they dont offer anything
+- need to raise the price that the rebels buy cigars and el general drink
+- the 20L vodka needs to be much more expensive at every bar since it weights 20kg so it needs to be of high value it is for sale only in olvega i think. So prices to de oro and cali should be higher, while its still high in other bars, just nowhere near the farther cities
+
+- Smith & Wesson Model 29 is actually a highly customized Smith & Wesson Model 629.
+
+- Finalize enemy inventories.
+- Finalize orders' images.
+
+- Mossberg 590A1 hands are offset.
+- Bofors AK 5 (the older version) is mirrored.
+
+
+- Tactical Suppressor AAC M4-2000 and Tactical Suppressor M4-96D don't work with their kits (AAC Blackout Kit and Gemtech Quickmount Kit). --> can't work because the script isn't complete in using_items.lua
+
+- Check in the next HLA update : belt for Mauser M712, Astra F, HK VP70M and APS.
+- Add FN FAL variants with top rail.
+
+- H&K P30 has a texture error, which makes its magazine look like a tasty waffle: pasteboard.co/1LNFyFpgm.jpg
+More than that, magazine isn't available via shops. 

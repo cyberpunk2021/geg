@@ -46591,7 +46591,7 @@ DirtResource	150000
 MisfireProb		0.03
 HeatCapacity	45
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		410
@@ -46631,7 +46631,7 @@ DirtResource	150000
 MisfireProb		0.03
 HeatCapacity	45
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		328
@@ -46673,9 +46673,9 @@ DirtResource	150000
 MisfireProb		0.03
 HeatCapacity	45
 Single			1
-Burst			1
+Burst			0
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		410
 EffectiveRange	120
 RangeCurvature	2.5
@@ -46713,9 +46713,9 @@ DirtResource	150000
 MisfireProb		0.03
 HeatCapacity	45
 Single			1
-Burst			1
+Burst			0
 CutOff			0
-BurstHitStart	2
+BurstHitStart	1
 MaxRange		328
 EffectiveRange	96
 RangeCurvature	2.5
@@ -46793,7 +46793,7 @@ DirtResource	160000
 MisfireProb		0.0021
 HeatCapacity	45
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		352
