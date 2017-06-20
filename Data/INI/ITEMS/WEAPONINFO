@@ -95977,6 +95977,7 @@ ATT Bayonet		0
 ATT Magazine	1 "ORSIS308"
 StdPlug			"Rifle clip (ORSIS/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
+StdPlug			"orsis_stock"
 ACTOR			"Items\orsisl.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -96016,6 +96017,7 @@ ATT Bayonet		0
 ATT Magazine	1 "ORSIS308"
 StdPlug			"Rifle clip (ORSIS/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
+StdPlug			"orsis_stock_folded"
 ACTOR			"Items\orsisl.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97566,6 +97568,7 @@ ATT Bayonet		0
 ATT Magazine	1 "ORSIS300"
 StdPlug			"Rifle clip (ORSIS300/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
+StdPlug			"orsis_stock"
 ACTOR			"Items\orsisl.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -97605,6 +97608,7 @@ ATT Bayonet		0
 ATT Magazine	1 "ORSIS300"
 StdPlug			"Rifle clip (ORSIS300/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
+StdPlug			"orsis_stock_folded"
 ACTOR			"Items\orsisl.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98851,6 +98855,7 @@ ATT Bayonet		0
 ATT Magazine	1 "ORSIS338"
 StdPlug			"Rifle clip (ORSIS338/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
+StdPlug			"orsis_stock"
 ACTOR			"Items\orsis.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -98890,6 +98895,7 @@ ATT Bayonet		0
 ATT Magazine	1 "ORSIS338"
 StdPlug			"Rifle clip (ORSIS338/5)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
+StdPlug			"orsis_stock_folded"
 ACTOR			"Items\orsis.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle

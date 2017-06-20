@@ -9006,7 +9006,7 @@ Resource		0
 Addon			"orsis_stock"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\sig540mstock.act"
+ACTOR			"Items\orsisstock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -9014,7 +9014,7 @@ Resource		0
 Addon			"orsis_stock_folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\sig540mstockfolded.act"
+ACTOR			"Items\orsisstockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
