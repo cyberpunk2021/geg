@@ -7449,14 +7449,14 @@ Resource		2300
 Addon			"AK_5_butt_open"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\AK_5_buttopen.act"
+ACTOR			"Items\ak5novastock.act"
 IMAGE			"None"
 WEIGHT			250
 //------------------------------------------------------
 Addon			"AK_5_butt_folded"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\AK_5_buttfolded.act"
+ACTOR			"Items\ak5novastockfolded.act"
 IMAGE			"None"
 WEIGHT			250
 //------------------------------------------------------

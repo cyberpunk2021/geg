@@ -381,7 +381,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIGMosquito"
 StdPlug			"Pistol clip (Mosquito/10)"
-ACTOR			"Items\SIG_P226.act"
+ACTOR			"Items\SIG_P226mosquito.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -3874,14 +3874,14 @@ ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\COLT_1911.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		0
+ATT Scope		1 "PistolDocter"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Colt9MM"
 StdPlug			"Pistol clip (Colt/9)"
-ACTOR			"Items\m1911a1.act"
+ACTOR			"Items\np29.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -3911,14 +3911,14 @@ ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\COLT_1911.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		0
+ATT Scope		1 "PistolDocter"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Colt9MMDB"
 StdPlug			"Pistol clip (Colt/16)"
-ACTOR			"Items\m1911a1.act"
+ACTOR			"Items\np28.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -4542,7 +4542,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG226"
 StdPlug			"Pistol clip (SIG/15)"
-ACTOR			"Items\sig_p226.act"
+ACTOR			"Items\sig_p226nori.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -4616,7 +4616,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG9MM2"
 StdPlug			"Pistol clip (P2269MM/12)"
-ACTOR			"Items\p228fix.act"
+ACTOR			"Items\p228fixnori.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -9431,7 +9431,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG357"
 StdPlug			"Pistol clip (P226/12)"
-ACTOR			"Items\SIG_P226.act"
+ACTOR			"Items\SIG_P226nori40.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -9574,14 +9574,14 @@ ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\COLT_1911.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		0
+ATT Scope		1 "PistolDocter"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 45 ACP"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Colt"
 StdPlug			"Pistol clip (Colt/7)"
-ACTOR			"Items\m1911a1.act"
+ACTOR			"Items\np45.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -9609,16 +9609,16 @@ ClipInSound		"Weapon\ClipIn\pistol_loading2.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
 ReLockSound		"Weapon\ReLock\pistol_slide.wav"
 ShootSound		"Weapon\Shoot\COLT_1911.wav"
-ATT Laser		0
-ATT Light		0
-ATT Scope		0
+ATT Laser		1 "WR"
+ATT Light		1 "WR"
+ATT Scope		1 "PistolDocter"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Std 45 ACP"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "ColtDB"
 StdPlug			"Pistol clip (Colt/14)"
-ACTOR			"Items\m1911a1.act"
+ACTOR			"Items\np44.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -10772,7 +10772,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "SIG220"
 StdPlug			"Pistol clip (P220/7)"
-ACTOR			"Items\SIG_P220.ACT"
+ACTOR			"Items\SIG_P220nori.ACT"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
 
@@ -75020,7 +75020,7 @@ ATT Bayonet		1 "M96"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"AK_5_butt_open"
-ACTOR			"Items\AK_5.ACT"
+ACTOR			"Items\ak5nova.ACT"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -75059,7 +75059,7 @@ ATT Bayonet		1 "M96"
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"AK_5_butt_folded"
-ACTOR			"Items\AK_5.ACT"
+ACTOR			"Items\ak5nova.ACT"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 

@@ -1311,13 +1311,13 @@ IMAGE  "star_mag.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "Pistol clip (Colt/9)""9υ19 μμ""Colt9MM"9 100 "None"500 
-ACTOR  "Items\op45-m1911-8.act"
+ACTOR  "Items\sa1911magnori.act"
 USEPREFIX  ""
 IMAGE  "op45-m1911-8.e5b"
 DEFAMMO  "9x19 FMJ Ball"
 
 CLIP  "Pistol clip (Colt/16)""9υ19 μμ""Colt9MMDB"16 100 "None"500 
-ACTOR  "Items\op45-m1911-8.act"
+ACTOR  "Items\sa1911magnori.act"
 USEPREFIX  ""
 IMAGE  "op45-m1911-8.e5b"
 DEFAMMO  "9x19 FMJ Ball"
@@ -2635,7 +2635,7 @@ IMAGE  "op45-m1911-8.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
 
 CLIP  "Pistol clip (Colt/14)"".45 ACP""ColtDB"14 100 "None"500 
-ACTOR  "Items\op45-m1911-8.act"
+ACTOR  "Items\sa1911magnori.act"
 USEPREFIX  ""
 IMAGE  "op45-m1911-8.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
