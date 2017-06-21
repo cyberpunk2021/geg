@@ -2456,3 +2456,11 @@ TODO list :
 - Add FN FAL variants with top rail.
 
 More than that, magazine isn't available via shops. 
+
++++++++++++++++++++++
+
+
+verificar variacao de dano das ammos
+
+verificar preços de objetos mudando o pricecoeff
+mudar arma do bandit leader

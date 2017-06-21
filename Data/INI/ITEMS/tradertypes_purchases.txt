@@ -1,6 +1,42 @@
 /////////==========================
 /////////TRADER SELLERS
 /////////==========================
+REBEL
+Coeff 14
+25000 = 3040
+PRICEOFITEM = x
+
+
+DRUG GUY
+Coeff 11
+40000 = 6200
+PRICEOFITEM = x
+
+
+CALIBARMEN
+Coeff 9
+11600 = 2210
+PRICEOFITEM = x
+
+OLVEGABAR
+Coeff 6
+28000 = 8000
+PRICEOFITEM = x
+
+SAGRADASHOP
+Coeff 24
+7700 = 550
+PRICEOFITEM = x
+
+CAMPECINOSHOP
+Coeff 19
+17000 = 1534
+PRICEOFITEM = x
+
+PUERTOVIEJOSHOP
+Coeff 22
+10000 = 779
+PRICEOFITEM = x
 
 /////////+++++++++
 /////////ALGEIRA BARMEN
@@ -18,7 +54,7 @@ Item	"Confidencial_Pali"						Level 3	Price 600
 /////////REBEL CAMP AND START SHOP ONLY
 /////////+++++++++
 
-Item	"Coca paste" 					Level 4	Price 14000
+Item	"Coca paste" 					Level 4	Price 8000
 
 /////////==========================
 /////////TRADER PURCHASES
@@ -30,20 +66,21 @@ Item	"Coca paste" 					Level 4	Price 14000
 
 
 //MERCHANDISE BLOCK
-Item	"Canazo_can20"					Level 16	Price	25000
-Item	"Canazo_can5"					Level 16	Price	7000
-Item	"vino caro"					Level 16	Price   100000
-Item	"Rosario_envelope"				Level 16	Price	2900000
-Item	"Smartphone"					Level 16	Price	950000
-Item	"Drink_rum_general"				Level 16	Price	14200
-Item	"Confidencial"						Level 16	Price	11250
-Item	"Confidencial_Pali"						Level 16	Price	9250
-Item	"Military_sectret"					Level 16	Price	127500
+Item	"Canazo_can20"					Level 16	Price	8000
+Item	"Canazo_can5"					Level 16	Price	2000
+Item	"vino caro"					Level 16	Price   40000
+Item	"Rosario_envelope"				Level 16	Price	170000
+Item	"Smartphone"					Level 16	Price	130000
+Item	"Drink_rum_general"				Level 16	Price	11000
+Item	"Confidencial"						Level 16	Price	6000
+Item	"Confidencial_Pali"						Level 16	Price	4000
+Item	"Military_sectret"					Level 16	Price	26000
 
-Item "Niobium ore crate" Level 16 Price 150000
+Item "Niobium ore crate" Level 16 Price 85000
+Item	"Coca paste" 					Level 16	Price 60000
 
-Item	"Golden Turtle"					Level 16	Price	550000
-Item	"Gold"						Level 16	Price	105000
+Item	"Golden Turtle"					Level 16	Price	250000
+Item	"Gold"						Level 16	Price	95000
 Item	"Gold_sack"					Level 16	Price	19000
 Item	"Gold_slug_b"					Level 16	Price	38000
 Item	"Gold_slug_s"					Level 16	Price	19000
@@ -92,17 +129,7 @@ Item	"Military_sectret"					Level 16	Price	127500
 Item	"Confidencial_Pali"						Level 16	Price	9250
 Item	"Caja con medicamentos"				Level 16	Price 41000
 
-//AMMO
-Item	"5.56 SN (5.56mm)"				Level 16	Price	10
-Item	"7.62x51 SN (7.62x51mm)"			Level 16	Price	15 
-Item	"M33 Ball .50 BMG (12.7x99 mm)"			Level 16	Price	20 
 
-//AMMO RUS 5.45
-Item	"7N6 (5.45mm)"					Level 16	Price	0.0001	
-Item	"7N22 (5.45mm)"					Level 16	Price	0.0001	
-Item	"5.45 FMJ Ball"					Level 16	Price	0.0001	
-Item	"7u1 (5x45mm)"					Level 16	Price	0.0001
-Item	"57-H-181C"					Level 16	Price	0.0001
 
 /////////+++++++++
 /////////RICO / PALINERO
@@ -110,40 +137,23 @@ Item	"57-H-181C"					Level 16	Price	0.0001
 
 //PURCHASE
 Item	"Rico_photo"					Level 16	Price	82250
-Item	"Carabine Winchester 1892 (.45 Colt)"		Level 16	Price	0.0001
-Item	"Carabine Winchester Sawedoff (.45 Colt)"	Level 16	Price	0.0001
-Item	"Revolver Colt SAA 45_5 (.45 Colt)"		Level 16	Price	0.0001
-Item	"Revolver Colt SAA 45_7 (.45 Colt)"		Level 16	Price	0.0001
 Item	"Money_euro20"					Level 16	Price	23400  
 Item	"Money_euro100"					Level 16	Price	234000 
 Item	"Money_euro500"					Level 16	Price	1170000
-Item	"Gold_ore"					Level 16	Price	16000
-Item	"Coca paste" 					Level 16	Price	50000
-Item	"Military_sectret"					Level 16	Price	127500
-Item	"Confidencial"						Level 16	Price	9250
-Item	"Some_drugs"						Level 16	Price	17000
+Item	"Gold_ore"					Level 16	Price	9000
+Item	"Coca paste" 					Level 16	Price	37000
+Item	"Military_sectret"					Level 16	Price	95000
+Item	"Confidencial"						Level 16	Price	11000
+Item	"Some_drugs"						Level 16	Price	8000
 Item	"Capsule"					Level 16	Price 1200
-Item	"Gold"						Level 16	Price	41000
+Item	"Gold"						Level 16	Price	50000
 Item	"IDSpecial_dud" Level 16 Price 40000
 Item	"IDMilitary_dud" Level 16 Price 30000
 Item	"IDPolice_dud" Level 16 Price 14000
 
-Item "Niobium ore crate" Level 16 Price 26000
 
 
-//AMMO
-Item	"M882 Ball (9mm)"				Level 16	Price 3	
-Item	"57-H-181C"					Level 16	Price 1
-Item	"Prvi Partizan 8mm FMJ BT"			Level 16	Price 1.75
-Item	"9x19 FMJ Ball"					Level 16	Price 0.25
-Item	".45 ACP FMJ Ball"				Level 16	Price 0.3
-Item	"7N21 (9mm)"					Level 16	Price 12
-Item	"Hunt (12ga)"					Level 16	Price 0.35
-Item	"5.56 FMJ Ball"					Level 16	Price 0.45
-Item	".223Aguila FMJ"				Level 16	Price 3
-Item	"7.62x39 FMJ Ball"				Level 16	Price 0.5
-Item	"7.62x51 FMJ Ball"				Level 16	Price 0.6
-Item	"Fabrica Militare .308"				Level 16	Price 3
+
 
 /////////+++++++++
 /////////REBEL
@@ -182,26 +192,39 @@ Item	"Algeira guards captain epaulets"		Level 16	Price	4000
 Item	"Algeira guards leutenant epaulets"		Level 16	Price	2000
 Item	"Algeira guards sergant epaulets"		Level 16	Price	1000
 
-Item	"Smoke_camel"					Level 16	Price	45
-Item	"Smoke_serpent"					Level 16	Price	30
-Item	"Wine" 						Level 16	Price	400
-Item	"Whisky" 					Level 16	Price	600
-Item	"Drink_tequila_big"				Level 16	Price	600
-Item	"Drink_rum_sol"					Level 16	Price	600
-Item	"Drink_rum_general"				Level 16	Price	1000
-Item	"Canazo_can20"					Level 16	Price	8000
-Item	"Canazo_can5"					Level 16	Price	3250
-Item	"vino caro"					Level 16	Price	8000
-Item	"Smartphone"					Level 16	Price	3000
+Item	"Smoke_camel"					Level 16	Price	115
+Item	"Smoke_serpent"					Level 16	Price	75
+Item	"Wine" 						Level 16	Price	600
+Item	"Whisky" 					Level 16	Price	800
+Item	"Drink_tequila_big"				Level 16	Price	800
+Item	"Drink_rum_sol"					Level 16	Price	800
+Item	"Drink_rum_general"				Level 16	Price	4500
+Item	"Canazo_can20"					Level 16	Price	14000
+Item	"Canazo_can5"					Level 16	Price	3500
+Item	"vino caro"					Level 16	Price	28000
+Item	"Smartphone"					Level 16	Price	7000
+Item	"Caja con pornografia"					Level 16	Price	22000
+Item	"Drink_beer_bottle" Level 16 Price 250
+Item	"Drink_beer_can"			Level 16 Price 100
+Item	"PackedMedBox"			Level 16 Price 60000
 
 Item	"IDSpecial_dud" Level 16 Price 40000
 Item	"IDMilitary_dud" Level 16 Price 30000
 Item	"IDPolice_dud" Level 16 Price 14000
 
+Item "Cuban cigar box" Level 16 Price 35000
+Item "Revolutionary memorabilia box" Level 16 Price 23000
+Item "Palinero cigarette box" Level 16 Price 18000
+
+
+Item "Uniform Bundle Algeira carabineer" Level 16 Price 19000
+Item "Uniform Bundle Algeira" Level 16 Price 25000
+Item "Uniform Bundle Palinero" Level 16 Price 6000
+
 Item	"Military_sectret"					Level 16	Price	127500
 Item	"Confidencial"						Level 16	Price	9250
 Item	"Confidencial_Pali"						Level 16	Price	7250
-Item	"Some_drugs"						Level 16	Price	10000
+Item	"Some_drugs"						Level 16	Price	14000
 Item	"Capsule"					Level 16	Price 800
 Item	"Caja con medicamentos"					Level 16	Price	31500
 Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	10500
@@ -290,42 +313,26 @@ Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
 /////////+++++++++
 
 ////PURCHASE
-
-Item 	"Cosmetics box" Level 16 Price 16000
-Item 	"Fake jewelry box" Level 16 Price 13000
-
 Item	"Pistol Colt Delta Elite (10mm)"			Level 16	Price	3750
 Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	20000
 Item	"Gold ammo clip (AK 7.62/30)"				Level 16	Price	1200
 Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	10000
 Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	10000
-Item	"Caja con pornografia"					Level 16	Price	17000
+Item	"Caja con pornografia"					Level 16	Price	20000
 Item	"Money_euro20"						Level 16	Price	3500
 Item	"Money_euro100"						Level 16	Price	35000
 Item	"Money_euro500"						Level 16	Price	175000
-Item	"Confidencial"						Level 16	Price	4250
-Item	"Confidencial_Pali"						Level 16	Price	4250
-Item	"Some_drugs"						Level 16	Price	10000
+Item	"Confidencial"						Level 16	Price	11000
+Item	"Confidencial_Pali"						Level 16	Price	11000
 Item	"Capsule"					Level 16	Price 800
-Item	"Military_sectret"					Level 16	Price	14700
+Item	"Military_sectret"					Level 16	Price	70000
 Item	"Rosario_envelope"					Level 16	Price	7700
 Item	"Smartphone"						Level 16	Price	7700
 Item	"Harold_Haroldson"					Level 16	Price	3500
 Item	"Exploration_report"					Level 16	Price	7700
-
-//AMMO 
-Item	"Ammo .40 S&W"						Level 16	Price	2.45
-Item	"7.65 FMJ"						Level 16	Price	2.05
-Item	"loose_ammo"						Level 16	Price	2.35
-Item	"7N6 (5.45mm)"						Level 16	Price	0.0001	
-Item	"7N22 (5.45mm)"						Level 16	Price	0.0001	
-Item	"5.45 FMJ Ball"						Level 16	Price	0.0001	
-Item	"7u1 (5x45mm)"						Level 16	Price	0.0001
-Item	"57-H-181C"						Level 16	Price	0.0001
-Item	"Buffalo .40 S&W +P"					Level 16	Price	3.5
-Item	"SB (7.62x39mm)"					Level 16	Price	3.0
-Item	"57-N-231S (7.62x39mm)"					Level 16	Price	3.5
-Item	"Tula Ammo (7.62x54R)"					Level 16	Price	3.5
+Item	"Perfume box"					Level 16	Price	35000
+Item	"Cuban cigar box"					Level 16	Price	45000
+Item	"Fake jewelry box"					Level 16	Price	30000
 
 /////////+++++++++
 /////////STREET TRADER - SAGRADA
@@ -333,26 +340,15 @@ Item	"Tula Ammo (7.62x54R)"					Level 16	Price	3.5
 
 //MERCHANDISE BLOCK
 
-Item 	"IT contraband box" Level 16 Price 20000
-
-Item	"Book_Lenin"					Level 16	Price	900
-Item	"Literatura Revolucionaria"			Level 16	Price	13000
-Item	"Caja con pornografia"				Level 16	Price	9000
-Item	"vino caro"					Level 16	Price	10000
-Item	"Canazo_can20"					Level 7		Price	4500
-Item	"Canazo_can5"					Level 7		Price	1250
-Item	"Money_euro20"					Level 16	Price	3250
-Item	"Money_euro100"					Level 16	Price	32500
-Item	"Money_euro500"					Level 16	Price	165000
-Item	"Confidencial"						Level 16	Price	4250
-Item	"Confidencial_Pali"						Level 16	Price	4250
-Item	"Some_drugs"						Level 16	Price	10000
-Item	"Capsule"					Level 16	Price 800
-Item	"Military_sectret"					Level 16	Price	14700
+Item	"Caja con pornografia"				Level 16	Price	25000
+Item	"Money_euro20"					Level 16	Price	33250
+Item	"Money_euro100"					Level 16	Price	62500
+Item	"Money_euro500"					Level 16	Price	195000
 Item	"Rosario_envelope"					Level 16	Price	7700
 Item	"Smartphone"						Level 16	Price	7700
 Item	"Harold_Haroldson"					Level 16	Price	3500
 Item	"Exploration_report"					Level 16	Price	7700
+Item	"IT contraband box"					Level 16	Price	50000
 
 /////////+++++++++
 /////////STREET TRADER - SANTA MARIA
@@ -526,14 +522,15 @@ Item	"Money_euro500"					Level 16	Price 225000
 Item	"Capsule"					Level 16	Price 1800
 Item	"Some_drugs"					Level 16	Price 6700
 Item	"sect_drug"					Level 16	Price 300
-Item	"vino caro"					Level 16	Price	28000
+Item	"vino caro"					Level 16	Price	26000
 Item	"Drink_rum_general"				Level 16	Price	6200
+Item "Gas Pump parts box" Level 16 Price 21000
 
 //HLA
 Item	"Canteen_g1"					Level 7		Price	2000
 Item	"Canteen_g2"					Level 16	Price	4000
-Item	"Golden Turtle"					Level 16	Price	440000
-Item	"Gold"						Level 16	Price	46000
+Item	"Golden Turtle"					Level 16	Price	100000
+Item	"Gold"						Level 16	Price	30000
 Item	"Gold_sack"					Level 16	Price	4800
 Item	"Gold_slug_b"					Level 16	Price	14400
 Item	"Gold_slug_s"					Level 16	Price	7200
@@ -565,13 +562,14 @@ Item	"Gold" 							Level 1		Price	15000
 
 //PURCHASE
 Item	"Capsule"					Level 16	Price	800
-Item	"Canazo_can20"					Level 16	Price	3500
-Item	"Canazo_can5"					Level 16	Price	1000
-Item	"vino caro"					Level 16	Price	19000
+Item	"Canazo_can20"					Level 16	Price	7500
+Item	"Canazo_can5"					Level 16	Price	1875
+Item	"vino caro"					Level 16	Price	22000
 Item	"Money_euro20"					Level 16	Price	5850
 Item	"Money_euro100"					Level 16	Price	58500
 Item	"Money_euro500"					Level 16	Price	292500
-Item	"Drink_rum_general"				Level 16	Price	3500
+Item	"Drink_rum_general"				Level 16	Price	5000
+Item "Gas Pump parts box" Level 16 Price 15000
 
 /////////+++++++++
 /////////BARMEN - CALI CANTINOS
@@ -584,8 +582,8 @@ Item	"Money_euro100"				Level 16	Price 65000
 Item	"Money_euro500"				Level 16	Price 325000
 Item	"Exploration_report"			Level 16	Price 25000
 Item	"Exploration_report2"			Level 16	Price 25000
-Item	"Canazo_can20"					Level 16	Price	11600
-Item	"Canazo_can5"					Level 16	Price	3150
+Item	"Canazo_can20"					Level 16	Price	13000
+Item	"Canazo_can5"					Level 16	Price	3250
 
 
 /////////+++++++++
@@ -646,8 +644,6 @@ Item	"Algeira guards captain uniform"		Level 16	Price 600
 Item	"Algeira guards major uniform"			Level 16	Price 650
 Item	"Algeira guards colonel uniform"		Level 16	Price 700
 
-Item	"Autodefensas uniform"				Level 1		Price 500
-
 Item	"Palinero soldiers soldier uniform"		Level 16	Price 150
 Item	"Palinero soldiers sergant uniform"		Level 16	Price 350
 Item	"Palinero soldiers leutenant uniform"		Level 16	Price 500
@@ -663,35 +659,35 @@ Item	"Palinero specialforces major uniform"		Level 16	Price 650
 Item	"Palinero specialforces colonel uniform"	Level 16	Price 700
 
 //BUNDLE
-Item	"Uniform Bundle Algeira"			Level 16	Price 2250
-Item	"Uniform Bundle Palinero"			Level 16	Price 2250
-Item	"Uniform Bundle Algeira carabineer"		Level 16	Price 3750
-Item	"Uniform Bundle Palinero ex president"		Level 16	Price 2000
-Item	"Uniform Bundle Palinero ex tormens"		Level 16	Price 2000
+Item	"Uniform Bundle Algeira"			Level 16	Price 16250
+Item	"Uniform Bundle Palinero"			Level 16	Price 16250
+Item	"Uniform Bundle Algeira carabineer"		Level 16	Price 19750
+Item	"Uniform Bundle Palinero ex president"		Level 16	Price 22000
+Item	"Uniform Bundle Palinero ex tormens"		Level 16	Price 22000
 
 //MERCHANDISE BLOCK
-Item	"Money_euro20"					Level 16	Price 4686
-Item	"Money_euro100"					Level 16	Price 46860
-Item	"Money_euro500"					Level 16	Price 234285
+Item	"Money_euro20"					Level 16	Price 34686
+Item	"Money_euro100"					Level 16	Price 76860
+Item	"Money_euro500"					Level 16	Price 264285
 Item	"Gold_medallion"				Level 16	Price 1550
 Item	"Rico_medallion"				Level 16	Price 1550
-Item	"Caja con medicamentos"				Level 16	Price 24000
-Item	"vino caro"					Level 16	Price 20000
-Item	"Hackers CD"					Level 16	Price 200
+Item	"Caja con medicamentos"				Level 16	Price 27000
+Item	"vino caro"					Level 16	Price 33000
+Item	"Hackers CD"					Level 16	Price 9000
 Item	"Smartphone"					Level 16	Price 3000
-Item	"Drink_rum_general"				Level 16	Price 5000
+Item	"Drink_rum_general"				Level 16	Price 15000
 
 //HLA «олото
 Item	"Canteen_g2"					Level 16	Price 4500
 Item	"Golden Turtle"					Level 16	Price 550000
-Item	"Gold"						Level 16	Price 34000
+Item	"Gold"						Level 16	Price 80000
 Item	"Gold_sack"					Level 16	Price 6000
 Item	"Gold_slug_b"					Level 16	Price 18000
 Item	"Gold_slug_s"					Level 16	Price 9000
 Item	"Gold_rare1"					Level 16	Price 11340
 Item	"Gold_rare2"					Level 16	Price 9180
 Item	"Gold_rare3"					Level 16	Price 6420
-Item	"Obs_knife"					Level 16	Price 8000
+Item	"Obs_knife"					Level 16	Price 70000
 
 //HLA монеты
 Item  "Coin_AG_bad"				Level  16	Price  20

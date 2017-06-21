@@ -27,13 +27,29 @@
 
 	<str id="lang/cfg/weaponorder/order/GEGMP510MM">We're at Bobby Ray's are proud to deliver a MP5-10mm to you which in no ways is inferior to the FBI issued ones. Package includes four 10mm Magazines, 90 Rounds JHP-Ammo, Silencer, RIS Body Kit, Folding Stock, Surefire Flashlight Foregrip, Barska Red Dot Sight, Medium Transportation Case and Cleaning Kit. Detailed Manual comes along. Place of Origin: Bobby Ray's Guns and Things.</str>
 	
+	<str id="lang/cfg/weaponorder/order/GEGMP9">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Brugger & Thomet AG - Thun, Bern, Switzerland.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGMX4">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, tactical foregrip, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGBIZON9x18">The kit consists of 4 spare magazines, 350 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGBIZON9mm">The kit consists of 4 spare magazines, 272 rounds of +P+ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGVityaz9mm">The kit consists of 4 spare magazines, 170 rounds of +P+ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGFAMAESAF">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: FAMAE (Fabricas y Maestranzas del Ejercito) - Santiago, Chile.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGMT40">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGMT40G2">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	
 	<!-- RIFLES -->
 	
-	<str id="lang/cfg/weaponorder/order/GEGSL8">The kit consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, 4x ACOG scope, cleaning kit, user manual and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany</str>
+	<str id="lang/cfg/weaponorder/order/GEGSL8">The kit consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, 4x ACOG scope, cleaning kit, user manual and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGHK33">The kit consists of 3 30 round spare magazines, 2 40 round spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany</str>
+	<str id="lang/cfg/weaponorder/order/GEGHK33">The kit consists of 3 30 round spare magazines, 2 40 round spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGG41">The kit consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, fixed and telescopic stock, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany</str>
+	<str id="lang/cfg/weaponorder/order/GEGG41">The kit consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, fixed and telescopic stock, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGAK5CAR">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
 	
@@ -124,11 +140,11 @@
 	
 	<str id="lang/cfg/weaponorder/order/GEGNorincoCQBox">This package consists of a crate containing 5 Norinco CQ 5.56x45 Assault Rifles, 10 spare magazines 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: Norinco (China North Industries Corporation) - Xicheng District, Beijing, China.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGGalil556Box">This package consists of a crate containing 5 Galil 5.56 Assault Rifles, 10 spare magazines, user manual, 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: INDUMIL (Industria Militar de Colombia) - Bogota, Colombia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGGalilBox">This package consists of a crate containing 5 Galil 5.56 Assault Rifles, 10 spare magazines, user manual, 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: INDUMIL (Industria Militar de Colombia) - Bogota, Colombia.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGGalilACEBox">This package consists of a crate containing 5 Galil ACE 5.56 Assault Rifles, 10 spare magazines, 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: INDUMIL (Industria Militar de Colombia) - Bogota, Colombia.</str>
 
-	<!-- CAIXAS DE BALAS -->	
+	<!-- CAIXAS DE BALAS -->
 	
 	<str id="lang/cfg/weaponorder/order/GEG556x45CBCShipment">The kit consist of 5 spare magazine, 2 suppressors, a laser aiming module and a tactical flashlight. Place of Origin: Porto Alegre, Brazil - Forjas Taurus S.A..</str>
 	

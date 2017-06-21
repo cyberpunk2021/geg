@@ -16,12 +16,12 @@
 		<item complexity="55">Fuze_RPG2</item>
 		<item complexity="60">Fuze_RPG7</item>
     </fuzeList>
-	<mine item="Bomb60" fuze="Fuze_grenade">
+	<mine item="Bomb60">
         <variant item="Bomb60x1_radio" fuze="Fuze_radio" useTape="true"/>
         <variant item="Bomb60x1_remact" fuze="Fuze_mve72" useTape="true"/>
 		<variant item="RPG-7 Grenade(ipg-60)" fuze="Fuze_RPG7" useTape="true"/>
     </mine>
-	<mine item="Bomb82" fuze="Fuze_grenade">
+	<mine item="Bomb82">
         <variant item="Bomb82x1_radio" fuze="Fuze_radio" useTape="true"/>
 		<variant item="Bomb82x1_remact" fuze="Fuze_mve72" useTape="true"/>
 		<variant item="RPG-7 Grenade(ipg-82)" fuze="Fuze_RPG7" useTape="true"/>
