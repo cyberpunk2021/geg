@@ -102481,7 +102481,7 @@ StdPlug			"Rifle ammo clip (BAR/20)"
 StdPlug			"BAR bipod Folded"
 ACTOR			"Items\barwood.act"
 IMAGE			"2x5.e5b"
-HANDS			ahtRifle
+HANDS			ahtBoltRifle
 
 ITEM "M1918 BAR"
 Class			Rifle
