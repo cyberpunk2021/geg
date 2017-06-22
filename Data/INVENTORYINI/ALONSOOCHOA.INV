@@ -17,222 +17,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -241,7 +38,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -278,11 +75,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -290,19 +87,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -317,37 +110,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -436,7 +229,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -452,8 +245,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -475,222 +414,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -699,7 +435,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -736,11 +472,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -748,19 +484,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -775,37 +507,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -894,7 +626,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -910,8 +642,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -933,222 +811,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1157,7 +832,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -1194,11 +869,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1206,19 +881,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1233,37 +904,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1352,7 +1023,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1368,8 +1039,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -1391,222 +1208,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1615,7 +1229,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -1652,11 +1266,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1664,19 +1278,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1691,37 +1301,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1810,7 +1420,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -1826,8 +1436,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -1849,222 +1605,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2073,7 +1626,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -2110,11 +1663,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2122,19 +1675,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2149,37 +1698,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2268,7 +1817,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2284,8 +1833,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -2307,222 +2002,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2531,7 +2023,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -2568,11 +2060,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2580,19 +2072,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2607,37 +2095,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2726,7 +2214,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -2742,8 +2230,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -2765,222 +2399,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -2989,7 +2420,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -3026,11 +2457,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3038,19 +2469,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3065,37 +2492,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -3184,7 +2611,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -3200,8 +2627,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -3223,222 +2796,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3447,7 +2817,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -3484,11 +2854,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3496,19 +2866,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3523,37 +2889,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -3642,7 +3008,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -3658,8 +3024,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -3681,222 +3193,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3905,7 +3214,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -3942,11 +3251,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3954,19 +3263,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -3981,37 +3286,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -4100,7 +3405,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -4116,8 +3421,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -4139,222 +3590,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4363,7 +3611,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -4400,11 +3648,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4412,19 +3660,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4439,37 +3683,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -4558,7 +3802,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -4574,8 +3818,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -4597,222 +3987,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4821,7 +4008,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -4858,11 +4045,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4870,19 +4057,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -4897,37 +4080,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -5016,7 +4199,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -5032,8 +4215,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -5055,222 +4384,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5279,7 +4405,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -5316,11 +4442,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5328,19 +4454,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5355,37 +4477,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -5474,7 +4596,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -5490,8 +4612,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -5513,222 +4781,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5737,7 +4802,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -5774,11 +4839,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5786,19 +4851,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -5813,37 +4874,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -5932,7 +4993,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -5948,8 +5009,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -5971,222 +5178,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6195,7 +5199,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -6232,11 +5236,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6244,19 +5248,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6271,37 +5271,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -6390,7 +5390,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -6406,8 +5406,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -6429,222 +5575,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6653,7 +5596,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -6690,11 +5633,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6702,19 +5645,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -6729,37 +5668,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -6848,7 +5787,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -6864,8 +5803,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
@@ -6887,222 +5972,19 @@ EndOfSpecificData
 Used  0 
 Prob  1 7 
 Item  0 0 0 
-Name  "Carabine AC556 (5.56mm)"
+Name  "Assault Rifle M4A1 CIV (5.56mm)"
 SpecificData  
 WeaponInfo  
-CurrentClip  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+CurrentClip  14 7 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
-BulletsCount  30 0 0 6 
+BulletsCount  1 0 0 6 
 Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  1 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -7111,7 +5993,7 @@ Used  0
 Prob  1 1 1 0 1 0 
 Jammed  0 
 AddonsCount  1 0 0 8 
-Name  "mini14stock"
+Name  "m4sopmod_butt"
 SpecificData  
 AddonInfo  
 Resource  1 
@@ -7148,11 +6030,11 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 10 
-Name  "Money"
+Item  1 1 10 
+Name  "PayCard_mobile"
 SpecificData  
 OtherInfo  
-GUID  5055 
+GUID  28 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7160,19 +6042,15 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Big Ammo box (5.56)"
+Item  0 0 10 
+Name  "Canteen_g2"
 SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "5.56 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  20 
-EndOfSpecificData  
-Used  0 
-Prob  1 
+OtherInfo  
+GUID  4383 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -7187,37 +6065,37 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 11 
-Item  1 1 10 
-Name  "Canteen_g2"
+Prob  1 
+Item  1 0 10 
+Name  "Money"
 SpecificData  
 OtherInfo  
-GUID  4383 
+GUID  5055 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Ammo box (.45 Colt JHP)"
+Prob  1 11 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
 BulletsCount  1 0 0 6 
-Name  ".45 Colt (JHP)"
+Name  "5.56 FMJ Ball"
 SpecificData  
 AmmoInfo  
-RoundsLeft  44 
+RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Item  1 0 7 
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -7306,7 +6184,7 @@ EndOfSpecificData
 Used  0 
 Prob  1 60 
 Item  0 0 7 
-Name  "Rifle ammo clip (Mini-14/30)"
+Name  "Rifle ammo clip (M16/30)"
 SpecificData  
 ClipInfo  
 Resource  1 
@@ -7322,8 +6200,154 @@ EndOfSpecificData
 Used  0 
 Prob  1 
 Pins  17 
+Item  0 0 10 
+Name  "Ammo CartoucheVert"
+SpecificData  
+OtherInfo  
+GUID  518 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  13 
+Pockets  75 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
 Used  0 
-Prob  1 14 13 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 76 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 77 
+Item  0 0 7 
+Name  "Rifle ammo clip (M16/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Pins  
+Used  0 
+Prob  1 
+Used  0 
+Prob  1 14 
+Item  0 0 10 
+Name  "VestNew"
+SpecificData  
+OtherInfo  
+GUID  516 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  3 
+Pockets  31 
+Item  0 0 10 
+Name  "Drink_rum_general"
+SpecificData  
+OtherInfo  
+GUID  109 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 32 37 33 
+Item  0 0 10 
+Name  "Map"
+SpecificData  
+OtherInfo  
+GUID  95 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 34 
+Item  0 0 10 
+Name  "Lighter_piezo_g"
+SpecificData  
+OtherInfo  
+GUID  94 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 35 
+Item  0 0 7 
+Name  "Big Ammo box (5.56)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "5.56 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  20 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 36 
+Item  0 0 7 
+Name  "Ammo box (.45 Colt JHP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".45 Colt (JHP)"
+SpecificData  
+AmmoInfo  
+RoundsLeft  44 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 38 39 
+Pins  
+Used  0 
+Prob  1 13 
 Money  
 RND  600 1200 
 END_VARIANT  
