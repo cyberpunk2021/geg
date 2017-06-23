@@ -165,16 +165,6 @@ ADuration  1
 Usages  75
 112
 
-"Lanca_Perfume"
-Medikit
-None  "Items\drug.act""some_drugs.e5b"
-Flask
-Speed  0
-Energy  0
-ADuration  1
-Usages  40
-600
-
 "Camo Kit"
 CamoKit
 None  "Items\camo.act""camo.e5b"
@@ -2674,57 +2664,57 @@ None  "Items\money_e500.act""money_e500.e5b"
 "Coca paste"
 None
 None  "Items\coca_paste.act""coca_paste.e5b"
-16000
+20000
 
 "Niobium ore crate"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
-75000
+None  "Items\bigammobox_niobium.act""boxes_niobium.e5b"
+120000
 
 "IT contraband box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
+None  "Items\bigammobox_it.act""boxes_it.e5b"
 28000
 
 "Perfume box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
+None  "Items\bigammobox_cosmetic.act""boxes_cosmetics.e5b"
 13000
 
 "Palinero cigarette box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
-18000
+None  "items\cardboard_box.act""cardboard_box.e5b"
+7000
 
 "Cuban cigar box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
-16000
+None  "items\cardboard_box.act""cardboard_box.e5b"
+10000
 
 "Fake jewelry box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
-11000
+None  "Items\bigammobox_jewel.act""boxes_jewel.e5b"
+8000
 
 "Gas Pump parts box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
+None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
 82000
 
 "Chopshop car parts box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
+None  "Items\shipment.act""shipment.e5b"
 113000
 
 "Chopshop algeira car parts box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
+None  "Items\shipment.act""shipment.e5b"
 108000
 
 "Revolutionary memorabilia box"
 None
-None  "Items\coca_paste.act""coca_paste.e5b"
-6000
+None  "items\cardboard_box.act""cardboard_box.e5b"
+12000
 
 "Folded Ammo Belt"
 None

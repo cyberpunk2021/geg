@@ -81,8 +81,6 @@
       <item>Box_grenade_rgn</item>
       <item>Box_grenade_rgo</item>
 
-      <item>Military_sectret</item>
-
       <item>Algeira soldiers captain uniform</item>
       <item>Algeira soldiers colonel uniform</item>
       <item>Algeira soldiers leutenant uniform</item>
@@ -130,7 +128,8 @@
       <item>BigWoodBoxAKM</item>
       <item>BigWoodBoxAKMN</item>
 	  
-	  
+	  <item>Confidencial</item>
+      <item>Military_sectret</item>
     </Military>
     <Police>
       <item>BigWoodBoxMP59mm</item>
@@ -255,7 +254,6 @@
       <item>IDMilitary_dud</item>
       <item>IDPolice_dud</item>
       <item>Literatura Revolucionaria</item>
-      <item>Confidencial</item>
       <!-- Unlegal booze/ Безакцизное спиртное -->
       <item>Canazo_can20</item>
       <item>Canazo_can5</item>
@@ -267,7 +265,6 @@
       <item>Chopshop algeira car parts box</item>
       <item>Revolutionary memorabilia box</item>
       <item>Perfume box</item>
-      <item>Gas Pump parts box</item>
       <item>IT contraband box</item>
 	  
     </Unlegal>

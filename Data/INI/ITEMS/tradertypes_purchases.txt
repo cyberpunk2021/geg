@@ -66,6 +66,21 @@ Item	"Confidencial_Pali"						Level 3	Price 600
 
 Item	"Coca paste" 					Level 4	Price 8000
 
+/////////+++++++++
+/////////LAST STUFF
+/////////+++++++++
+
+Item "Niobium ore crate" Level 7 Price 3000 //SOLD BY RICO
+Item "IT contraband box" Level 5 Price 2300 //SOLD BY CALI SMUGGLER
+Item "Perfume box" Level 4 Price 2800 //SOLD BY CALI BARTENDER
+Item "Fake jewelry box" Level 8 Price 2400 //SOLD BY CALI SMUGGLER
+Item "Cuban cigar box" Level 6 Price 3800 //SOLD BY CALI SMUGGLER
+Item "Gas Pump parts box" Level 4 Price 5000 //SOLD BY CALI BARTENDER
+Item "Chopshop car parts box" Level 2 Price 3500 //SOLD BY CALI SMUGGLER
+Item "Chopshop algeira car parts box" Level 2 Price 4000 //SOLD BY SANTA MARIA TRADER
+Item "Revolutionary memorabilia box" Level 1 Price 2000 //SOLD BY CALI BARTENDER
+Item "Palinero cigarette box" Level 1 Price 1100 //SOLD BY CALI BARTENDER
+
 /////////==========================
 /////////TRADER PURCHASES
 /////////==========================
@@ -92,8 +107,9 @@ Item	"Gold ammo clip (AK 7.62/30)"				Level 16	Price	20900 //3240
 Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	154838 //24000
 Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	180645 //28000
 Item	"Winchester 1886 Unique"		Level 16	Price	322580 //50000
+Item	"Cuban cigar box"		Level 16	Price	71000 //11000
 
-Item "Niobium ore crate" Level 16 Price 64516
+Item "Niobium ore crate" Level 16 Price 64516 //10000
 Item	"Coca paste" 					Level 16	Price 60000
 
 Item	"Golden Turtle"					Level 16	Price	250000
@@ -155,6 +171,45 @@ Item	"Caja con medicamentos"				Level 16	Price 45000 //3200
 Item	"PackedMedBox"					 Level 16	Price 85000 //6000
 Item	"Uniform Bundle Palinero"		Level 16 Price 112000 //8000
 
+Item	"Palinero soldiers colonel uniform" Level 16 Price 32000 //2286
+Item	"Palinero soldiers major uniform" Level 16 Price 16000 //1143
+Item	"Palinero soldiers captain uniform" Level 16 Price 8000 //571
+Item	"Palinero soldiers leutenant uniform" Level 16 Price 4000 //285
+Item	"Palinero soldiers sergant uniform" Level 16 Price 2000 //142
+Item	"Palinero soldiers soldier uniform" Level 16 Price 1000 //71
+
+
+Item	"Palinero specialforces colonel uniform" Level 16 Price 42762 //3048
+Item	"Palinero specialforces major uniform" Level 16 Price 21336 //1524
+Item	"Palinero specialforces captain uniform" Level 16 Price 10668 //762
+Item	"Palinero specialforces leutenant uniform" Level 16 Price 5334 //381
+Item	"Palinero specialforces sergant uniform" Level 16 Price 2667 //190
+Item	"Palinero specialforces soldier uniform" Level 16 Price 1333 //95
+
+Item	"Palinero soldiers colonel epaulets" Level 16 Price 32000 //2286
+Item	"Palinero soldiers major epaulets" Level 16 Price 16000 //1143
+Item	"Palinero soldiers captain epaulets" Level 16 Price 8000 //571
+Item	"Palinero soldiers leutenant epaulets" Level 16 Price 4000 //285
+Item	"Palinero soldiers sergant epaulets" Level 16 Price 2000 //142
+
+Item	"Guerillas indian_soldiers comandante uniform" Level 16 Price 14000 //1000
+Item	"Guerillas indian_soldiers comsquad uniform" Level 16 Price 7000 //500
+Item	"Guerillas indian_soldiers combrigade uniform" Level 16 Price 3500 //250
+Item	"Guerillas indian_soldiers comgroup uniform" Level 16 Price 1750 //125
+Item	"Guerillas indian_soldiers camrad uniform" Level 16 Price 875 //62
+
+Item	"Guerillas olvidad_soldiers comandante uniform" Level 16 Price 21000 //1500
+Item	"Guerillas olvidad_soldiers comsquad uniform" Level 16 Price 10500 //750
+Item	"Guerillas olvidad_soldiers combrigade uniform" Level 16 Price 5250 //375
+Item	"Guerillas olvidad_soldiers comgroup uniform" Level 16 Price 2625 //187
+Item	"Guerillas olvidad_soldiers camrad uniform" Level 16 Price 1312 //93
+
+Item	"Guerillas tt_soldiers comandante uniform" Level 16 Price 28000 //2000
+Item	"Guerillas tt_soldiers comsquad uniform" Level 16 Price 14000 //1000
+Item	"Guerillas tt_soldiers combrigade uniform" Level 16 Price 7000 //500
+Item	"Guerillas tt_soldiers comgroup uniform" Level 16 Price 3500 //250
+Item	"Guerillas tt_soldiers camrad uniform" Level 16 Price 1750 //125
+
 //=====
 //CAMPECINO
 //=====
@@ -171,6 +226,45 @@ Item "Niobium ore crate" Level 16 Price 114800 //8200
 Item	"Caja con medicamentos"				Level 16	Price 35000 //2500
 Item	"PackedMedBox"					 Level 16	Price 68600 //4900
 Item	"Uniform Bundle Palinero"		Level 16 Price 98000 //7000
+
+Item	"Palinero soldiers colonel uniform" Level 16 Price 32000 //2286
+Item	"Palinero soldiers major uniform" Level 16 Price 16000 //1143
+Item	"Palinero soldiers captain uniform" Level 16 Price 8000 //571
+Item	"Palinero soldiers leutenant uniform" Level 16 Price 4000 //285
+Item	"Palinero soldiers sergant uniform" Level 16 Price 2000 //142
+Item	"Palinero soldiers soldier uniform" Level 16 Price 1000 //71
+
+
+Item	"Palinero specialforces colonel uniform" Level 16 Price 42762 //3048
+Item	"Palinero specialforces major uniform" Level 16 Price 21336 //1524
+Item	"Palinero specialforces captain uniform" Level 16 Price 10668 //762
+Item	"Palinero specialforces leutenant uniform" Level 16 Price 5334 //381
+Item	"Palinero specialforces sergant uniform" Level 16 Price 2667 //190
+Item	"Palinero specialforces soldier uniform" Level 16 Price 1333 //95
+
+Item	"Palinero soldiers colonel epaulets" Level 16 Price 32000 //2286
+Item	"Palinero soldiers major epaulets" Level 16 Price 16000 //1143
+Item	"Palinero soldiers captain epaulets" Level 16 Price 8000 //571
+Item	"Palinero soldiers leutenant epaulets" Level 16 Price 4000 //285
+Item	"Palinero soldiers sergant epaulets" Level 16 Price 2000 //142
+
+Item	"Guerillas indian_soldiers comandante uniform" Level 16 Price 14000 //1000
+Item	"Guerillas indian_soldiers comsquad uniform" Level 16 Price 7000 //500
+Item	"Guerillas indian_soldiers combrigade uniform" Level 16 Price 3500 //250
+Item	"Guerillas indian_soldiers comgroup uniform" Level 16 Price 1750 //125
+Item	"Guerillas indian_soldiers camrad uniform" Level 16 Price 875 //62
+
+Item	"Guerillas olvidad_soldiers comandante uniform" Level 16 Price 21000 //1500
+Item	"Guerillas olvidad_soldiers comsquad uniform" Level 16 Price 10500 //750
+Item	"Guerillas olvidad_soldiers combrigade uniform" Level 16 Price 5250 //375
+Item	"Guerillas olvidad_soldiers comgroup uniform" Level 16 Price 2625 //187
+Item	"Guerillas olvidad_soldiers camrad uniform" Level 16 Price 1312 //93
+
+Item	"Guerillas tt_soldiers comandante uniform" Level 16 Price 28000 //2000
+Item	"Guerillas tt_soldiers comsquad uniform" Level 16 Price 14000 //1000
+Item	"Guerillas tt_soldiers combrigade uniform" Level 16 Price 7000 //500
+Item	"Guerillas tt_soldiers comgroup uniform" Level 16 Price 3500 //250
+Item	"Guerillas tt_soldiers camrad uniform" Level 16 Price 1750 //125
 
 //=====
 //SECRET BASE
@@ -194,6 +288,45 @@ Item	"Caja con medicamentos"				Level 16	Price 13980 //1700
 Item	"PackedMedBox"					 Level 16	Price 31250 //3800
 Item	"Uniform Bundle Palinero"		Level 16 Price 82236 //10000
 
+Item	"Palinero soldiers colonel uniform" Level 16 Price 32000 //2286
+Item	"Palinero soldiers major uniform" Level 16 Price 16000 //1143
+Item	"Palinero soldiers captain uniform" Level 16 Price 8000 //571
+Item	"Palinero soldiers leutenant uniform" Level 16 Price 4000 //285
+Item	"Palinero soldiers sergant uniform" Level 16 Price 2000 //142
+Item	"Palinero soldiers soldier uniform" Level 16 Price 1000 //71
+
+
+Item	"Palinero specialforces colonel uniform" Level 16 Price 42762 //3048
+Item	"Palinero specialforces major uniform" Level 16 Price 21336 //1524
+Item	"Palinero specialforces captain uniform" Level 16 Price 10668 //762
+Item	"Palinero specialforces leutenant uniform" Level 16 Price 5334 //381
+Item	"Palinero specialforces sergant uniform" Level 16 Price 2667 //190
+Item	"Palinero specialforces soldier uniform" Level 16 Price 1333 //95
+
+Item	"Palinero soldiers colonel epaulets" Level 16 Price 32000 //2286
+Item	"Palinero soldiers major epaulets" Level 16 Price 16000 //1143
+Item	"Palinero soldiers captain epaulets" Level 16 Price 8000 //571
+Item	"Palinero soldiers leutenant epaulets" Level 16 Price 4000 //285
+Item	"Palinero soldiers sergant epaulets" Level 16 Price 2000 //142
+
+Item	"Guerillas indian_soldiers comandante uniform" Level 16 Price 14000 //1000
+Item	"Guerillas indian_soldiers comsquad uniform" Level 16 Price 7000 //500
+Item	"Guerillas indian_soldiers combrigade uniform" Level 16 Price 3500 //250
+Item	"Guerillas indian_soldiers comgroup uniform" Level 16 Price 1750 //125
+Item	"Guerillas indian_soldiers camrad uniform" Level 16 Price 875 //62
+
+Item	"Guerillas olvidad_soldiers comandante uniform" Level 16 Price 21000 //1500
+Item	"Guerillas olvidad_soldiers comsquad uniform" Level 16 Price 10500 //750
+Item	"Guerillas olvidad_soldiers combrigade uniform" Level 16 Price 5250 //375
+Item	"Guerillas olvidad_soldiers comgroup uniform" Level 16 Price 2625 //187
+Item	"Guerillas olvidad_soldiers camrad uniform" Level 16 Price 1312 //93
+
+Item	"Guerillas tt_soldiers comandante uniform" Level 16 Price 28000 //2000
+Item	"Guerillas tt_soldiers comsquad uniform" Level 16 Price 14000 //1000
+Item	"Guerillas tt_soldiers combrigade uniform" Level 16 Price 7000 //500
+Item	"Guerillas tt_soldiers comgroup uniform" Level 16 Price 3500 //250
+Item	"Guerillas tt_soldiers camrad uniform" Level 16 Price 1750 //125
+
 /////////+++++++++
 /////////RICO / PALINERO
 /////////+++++++++
@@ -213,7 +346,48 @@ Item	"IDSpecial_dud" Level 16 Price 40000
 Item	"IDMilitary_dud" Level 16 Price 30000
 Item	"IDPolice_dud" Level 16 Price 14000
 
+Item "Uniform Bundle Algeira carabineer" Level 16 Price 19000 //3619
+Item "Uniform Bundle Algeira" Level 16 Price 25000 //4762
 
+Item	"Algeira police colonel uniform"		Level 16	Price	6000 //1143
+Item	"Algeira police major uniform"			Level 16	Price	4000 //762
+Item	"Algeira police captain uniform"		Level 16	Price	2000 //381
+Item	"Algeira police leutenant uniform"		Level 16	Price	1000 //190
+Item	"Algeira police sergant uniform"		Level 16	Price	500 //95
+Item	"Algeira soldiers colonel uniform"		Level 16	Price	12000 //2286
+Item	"Algeira soldiers major uniform" 		Level 16	Price	6000 //1143
+Item	"Algeira soldiers captain uniform"		Level 16	Price	3000 //571
+Item	"Algeira soldiers leutenant uniform"		Level 16	Price	1500 //285
+Item	"Algeira soldiers sergant uniform"		Level 16	Price	750 //142
+Item	"Algeira guards colonel uniform"		Level 16	Price	16000 //3048
+Item	"Algeira guards major uniform"			Level 16	Price	8000 //1524
+Item	"Algeira guards captain uniform"		Level 16	Price	4000 //762
+Item	"Algeira guards leutenant uniform"		Level 16	Price	2000 //381
+Item	"Algeira guards sergant uniform"		Level 16	Price	1000 //190
+
+Item	"Algeira police colonel epaulets"		Level 16	Price	6000 //1143
+Item	"Algeira police major epaulets"			Level 16	Price	4000 //762
+Item	"Algeira police captain epaulets"		Level 16	Price	2000 //381
+Item	"Algeira police leutenant epaulets"		Level 16	Price	1000 //190
+Item	"Algeira police sergant epaulets"		Level 16	Price	500 //95
+Item	"Algeira soldiers colonel epaulets"		Level 16	Price	12000 //2286
+Item	"Algeira soldiers major epaulets" 		Level 16	Price	6000 //1143
+Item	"Algeira soldiers captain epaulets"		Level 16	Price	3000 //571
+Item	"Algeira soldiers leutenant epaulets"		Level 16	Price	1500 //285
+Item	"Algeira soldiers sergant epaulets"		Level 16	Price	750 //142
+Item	"Algeira guards colonel epaulets"		Level 16	Price	16000 //3048
+Item	"Algeira guards major epaulets"			Level 16	Price	8000 //1524
+Item	"Algeira guards captain epaulets"		Level 16	Price	4000 //762
+Item	"Algeira guards leutenant epaulets"		Level 16	Price	2000 //381
+Item	"Algeira guards sergant epaulets"		Level 16	Price	1000 //190
+
+Item	"Algeira soldiers sz captain uniform"		Level 16	Price	3000 //571
+Item	"Algeira soldiers sz colonel uniform"		Level 16	Price	12000 //2286
+Item	"Algeira soldiers sz major uniform"		Level 16	Price	6000 //1143
+Item	"Algeira soldiers sz sergant uniform"		Level 16	Price	750 //142
+Item	"Algeira soldiers sz soldier uniform"		Level 16	Price	500 //95
+Item	"Algeira soldiers sz leutenant uniform"		Level 16	Price	1500 //285
+Item	"Algeira policia uniforme"		Level 16	Price	250 //47
 
 
 
@@ -222,37 +396,45 @@ Item	"IDPolice_dud" Level 16 Price 14000
 /////////+++++++++
 
 //PURCHASE
-Item	"Algeira police colonel uniform"		Level 16	Price	6000
-Item	"Algeira police major uniform"			Level 16	Price	4000
-Item	"Algeira police captain uniform"		Level 16	Price	2000
-Item	"Algeira police leutenant uniform"		Level 16	Price	1000
-Item	"Algeira police sergant uniform"		Level 16	Price	500
-Item	"Algeira soldiers colonel uniform"		Level 16	Price	12000
-Item	"Algeira soldiers major uniform" 		Level 16	Price	6000
-Item	"Algeira soldiers captain uniform"		Level 16	Price	3000
-Item	"Algeira soldiers leutenant uniform"		Level 16	Price	1500
-Item	"Algeira soldiers sergant uniform"		Level 16	Price	750
-Item	"Algeira guards colonel uniform"		Level 16	Price	16000
-Item	"Algeira guards major uniform"			Level 16	Price	8000
-Item	"Algeira guards captain uniform"		Level 16	Price	4000
-Item	"Algeira guards leutenant uniform"		Level 16	Price	2000
-Item	"Algeira guards sergant uniform"		Level 16	Price	1000
+Item	"Algeira police colonel uniform"		Level 16	Price	3500 //1143
+Item	"Algeira police major uniform"			Level 16	Price	2000 //762
+Item	"Algeira police captain uniform"		Level 16	Price	1000 //381
+Item	"Algeira police leutenant uniform"		Level 16	Price	500 //190
+Item	"Algeira police sergant uniform"		Level 16	Price	250 //95
+Item	"Algeira soldiers colonel uniform"		Level 16	Price	6000 //2286
+Item	"Algeira soldiers major uniform" 		Level 16	Price	3000 //1143
+Item	"Algeira soldiers captain uniform"		Level 16	Price	1500 //571
+Item	"Algeira soldiers leutenant uniform"		Level 16	Price	720 //285
+Item	"Algeira soldiers sergant uniform"		Level 16	Price	375 //142
+Item	"Algeira guards colonel uniform"		Level 16	Price	8000 //3048
+Item	"Algeira guards major uniform"			Level 16	Price	4000 //1524
+Item	"Algeira guards captain uniform"		Level 16	Price	2000 //762
+Item	"Algeira guards leutenant uniform"		Level 16	Price	1000 //381
+Item	"Algeira guards sergant uniform"		Level 16	Price	500 //190
 
-Item	"Algeira police colonel epaulets"		Level 16	Price	6000
-Item	"Algeira police major epaulets"			Level 16	Price	4000
-Item	"Algeira police captain epaulets"		Level 16	Price	2000
-Item	"Algeira police leutenant epaulets"		Level 16	Price	1000
-Item	"Algeira police sergant epaulets"		Level 16	Price	500
-Item	"Algeira soldiers colonel epaulets"		Level 16	Price	12000
-Item	"Algeira soldiers major epaulets" 		Level 16	Price	6000
-Item	"Algeira soldiers captain epaulets"		Level 16	Price	3000
-Item	"Algeira soldiers leutenant epaulets"		Level 16	Price	1500
-Item	"Algeira soldiers sergant epaulets"		Level 16	Price	750
-Item	"Algeira guards colonel epaulets"		Level 16	Price	16000
-Item	"Algeira guards major epaulets"			Level 16	Price	8000
-Item	"Algeira guards captain epaulets"		Level 16	Price	4000
-Item	"Algeira guards leutenant epaulets"		Level 16	Price	2000
-Item	"Algeira guards sergant epaulets"		Level 16	Price	1000
+Item	"Algeira police colonel epaulets"		Level 16	Price	3000 //1143
+Item	"Algeira police major epaulets"			Level 16	Price	2000 //762
+Item	"Algeira police captain epaulets"		Level 16	Price	1000 //381
+Item	"Algeira police leutenant epaulets"		Level 16	Price	500 //190
+Item	"Algeira police sergant epaulets"		Level 16	Price	250 //95
+Item	"Algeira soldiers colonel epaulets"		Level 16	Price	6000 //2286
+Item	"Algeira soldiers major epaulets" 		Level 16	Price	3000 //1143
+Item	"Algeira soldiers captain epaulets"		Level 16	Price	1500 //571
+Item	"Algeira soldiers leutenant epaulets"		Level 16	Price	750 //285
+Item	"Algeira soldiers sergant epaulets"		Level 16	Price	375 //142
+Item	"Algeira guards colonel epaulets"		Level 16	Price	8000 //3048
+Item	"Algeira guards major epaulets"			Level 16	Price	4000 //1524
+Item	"Algeira guards captain epaulets"		Level 16	Price	2000 //762
+Item	"Algeira guards leutenant epaulets"		Level 16	Price	1000 //381
+Item	"Algeira guards sergant epaulets"		Level 16	Price	500 //190
+
+Item	"Algeira soldiers sz captain uniform"		Level 16	Price	1500 //571
+Item	"Algeira soldiers sz colonel uniform"		Level 16	Price	6000 //2286
+Item	"Algeira soldiers sz major uniform"		Level 16	Price	3000 //1143
+Item	"Algeira soldiers sz sergant uniform"		Level 16	Price	375 //142
+Item	"Algeira soldiers sz soldier uniform"		Level 16	Price	250 //95
+Item	"Algeira soldiers sz leutenant uniform"		Level 16	Price	750 //285
+Item	"Algeira policia uniforme"		Level 16	Price	125 //47
 
 Item	"Smoke_camel"					Level 16	Price	115
 Item	"Smoke_serpent"					Level 16	Price	75
@@ -289,9 +471,7 @@ Item	"Confidencial_Pali"						Level 16	Price	7250
 Item	"Some_drugs"						Level 16	Price	14000
 Item	"Capsule"					Level 16	Price 800
 Item	"Caja con medicamentos"					Level 16	Price	31500
-Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	10500
-Item	"Pistol Springfield Golden (.45 ACP)"			Level 16	Price	7500
-Item	"Pistol Desert Eagle Unique (.44 Magnum)"		Level 16	Price	9000
+
 
 /////////+++++++++
 /////////GUNSHOP
@@ -358,6 +538,7 @@ Item	"Exploration_report"					Level 16	Price	7700
 Item	"Perfume box"					Level 16	Price	35000
 Item	"Cuban cigar box"					Level 16	Price	45000
 Item	"Fake jewelry box"					Level 16	Price	30000
+Item 	"Palinero cigarette box" Level 16 Price 21000 //1900
 
 /////////+++++++++
 /////////STREET TRADER - SAGRADA
@@ -373,7 +554,7 @@ Item	"Rosario_envelope"					Level 16	Price	7700
 Item	"Smartphone"						Level 16	Price	7700
 Item	"Harold_Haroldson"					Level 16	Price	3500
 Item	"Exploration_report"					Level 16	Price	7700
-Item	"IT contraband box"					Level 16	Price	50000
+Item	"IT contraband box"					Level 16	Price	85400
 
 /////////+++++++++
 /////////STREET TRADER - SANTA MARIA
@@ -392,6 +573,7 @@ Item	"Exploration_report"					Level 16	Price	7700
 Item	"Gas Pump parts box"					Level 16	Price	141206 //11000
 Item	"Chopshop car parts box"					Level 16	Price	179717 //14000
 Item	"Coca paste" 					Level 16	Price 46213 //3600
+Item 	"Palinero cigarette box" Level 16 Price 26950 //2100
 
 ////PURCHASE
 Item	"AK gold Pistol (7.62x39mm)"				Level 16	Price	282400 //22000
@@ -410,6 +592,7 @@ Item	"PackedMREHUGEBox" Level 16 Price 19000 //3600
 Item	"PackedRationBox" Level 16 Price 17850 //3400
 Item	"Caja con medicamentos"					Level 16	Price	29400 //5600
 Item	"vino caro"					Level 16	Price	19945 //3800
+Item 	"Palinero cigarette box" Level 16 Price 14700 //2800
 
 Item	"Confidencial"						Level 16	Price	8400 //1600
 Item	"Some_drugs"						Level 16	Price	10000 //1900
@@ -477,6 +660,7 @@ Item	"PackedMREBox" Level 16 Price 7000 //2000
 Item	"PackedMREHUGEBox" Level 16 Price 14000 //4000
 Item	"PackedRationBox" Level 16 Price 13300 //3800
 Item	"Caja con medicamentos"					Level 16	Price	20300 //5800
+Item 	"Palinero cigarette box" Level 16 Price 28000 //2000
 
 //HLA
 Item	"Canteen_g1"					Level 7		Price	2000
@@ -577,6 +761,8 @@ Item	"vino caro"					Level 16	Price 42000 //3000
 Item	"Hackers CD"					Level 16	Price 9000
 Item	"Smartphone"					Level 16	Price 3000
 Item	"Drink_rum_general"				Level 16	Price 18200 //1300
+Item 	"Palinero cigarette box" Level 16 Price 28000 //2000
+Item 	"Cuban cigar box" Level 16 Price 64400 //4600
 
 //HLA «олото
 Item	"Canteen_g2"					Level 16	Price 4500
