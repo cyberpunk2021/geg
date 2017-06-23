@@ -101857,8 +101857,8 @@ ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "Minimi"
-StdPlug			"Minimi mag (Minimi 5.56/100)"
+ATT Magazine	2 "Minimi""NATO 5.56"
+StdPlug			"Minimi mag (Minimi 5.56/200)"
 StdPlug			"Minimi_SPW_butt"
 ACTOR			"Items\minimi_spw.act"
 IMAGE			"2x5.e5b"
@@ -101896,8 +101896,8 @@ ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "Minimi"
-StdPlug			"Minimi mag (Minimi 5.56/100)"
+ATT Magazine	2 "Minimi""NATO 5.56"
+StdPlug			"Minimi mag (Minimi 5.56/200)"
 StdPlug			"Minimi_SPW_butt_folded"
 ACTOR			"Items\minimi_spw.act"
 IMAGE			"2x4.e5b"
