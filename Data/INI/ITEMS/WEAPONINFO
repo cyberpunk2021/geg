@@ -39251,7 +39251,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "built-in"
 ATT Magazine	1 "built-in"
 StdPlug			"6.5 Arisaka Clip"
-StdPlug			"Sks bayonet"
+StdPlug			"Carcano91 Bayonet FOLDED"
 ACTOR			"Items\arisakat44.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
