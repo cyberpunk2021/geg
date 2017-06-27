@@ -2820,7 +2820,7 @@ DEFAMMO  ".45 ACP FMJ Ball"
 CLIP  "SMG ammo clip (INA45/30)"".45 ACP""INA45"30 190 "None"1000 
 ACTOR  "Items\kpist_inamag.act"
 USEPREFIX  ""
-IMAGE  "uzi_clip_32.e5b"
+IMAGE  "Kpist_M45.e5b"
 DEFAMMO  ".45 ACP FMJ Ball"
 
 CLIP  "SMG ammo clip (UMP45/30)"".45 ACP""UMP45/30"25 170 "Double SMG ammo clip (UMP45/50)"1000 
@@ -2870,7 +2870,7 @@ DEFAMMO  ".45 ACP FMJ Ball"
 
 
 
-CLIP  "SMG ammo clip (INA/30)"".45 ACP""INA45"30 60 "None"1500 
+CLIP  "SMG ammo clip (INA/30)"".45 ACP""INA45"30 190 "None"1000 
 ACTOR  "Items\kpist_inamag.act"
 USEPREFIX  ""
 IMAGE  "Kpist_M45.e5b"

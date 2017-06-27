@@ -1409,7 +1409,7 @@ Resource		0
 Addon			"Zastava-butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\Zastava-butt.act"
+ACTOR			"Items\akmsnovostock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -1417,7 +1417,7 @@ Resource		0
 Addon			"Zastava-butt-folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\Zastava-butt-folded.act"
+ACTOR			"Items\akmsnovostockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
