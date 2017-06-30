@@ -332,7 +332,7 @@ Item	"Guerillas tt_soldiers camrad uniform" Level 16 Price 1750 //125
 /////////+++++++++
 
 //PURCHASE
-Item	"Rico_photo"					Level 16	Price	82250
+Item	"Rico_photo"					Level 16	Price	41125
 Item	"Money_euro20"						Level 16	Price	14700 //2800
 Item	"Money_euro100"						Level 16	Price	147000 //28000
 Item	"Money_euro500"						Level 16	Price	735000 //140000
@@ -447,7 +447,7 @@ Item	"Canazo_can20"					Level 16	Price	14000
 Item	"Canazo_can5"					Level 16	Price	3500
 Item	"vino caro"					Level 16	Price	28000
 Item	"Smartphone"					Level 16	Price	7000
-Item	"Caja con pornografia"					Level 16	Price	22000
+Item	"Caja con pornografia"					Level 16	Price	28782
 Item	"Drink_beer_bottle" Level 16 Price 250
 Item	"Drink_beer_can"			Level 16 Price 100
 Item	"PackedMedBox"			Level 16 Price 60000

@@ -2684,7 +2684,7 @@ None  "Items\bigammobox_cosmetic.act""boxes_cosmetics.e5b"
 "Palinero cigarette box"
 None
 None  "items\cardboard_box.act""cardboard_box.e5b"
-7000
+7500
 
 "Cuban cigar box"
 None
@@ -2694,27 +2694,27 @@ None  "items\cardboard_box.act""cardboard_box.e5b"
 "Fake jewelry box"
 None
 None  "Items\bigammobox_jewel.act""boxes_jewel.e5b"
-8000
+8500
 
 "Gas Pump parts box"
 None
 None  "items\caixa_armas_gra.act""caixa_arma_grande.e5b"
-82000
+182000
 
 "Chopshop car parts box"
 None
 None  "Items\shipment.act""shipment.e5b"
-113000
+203000
 
 "Chopshop algeira car parts box"
 None
 None  "Items\shipment.act""shipment.e5b"
-108000
+198000
 
 "Revolutionary memorabilia box"
 None
 None  "items\cardboard_box.act""cardboard_box.e5b"
-12000
+15000
 
 "Folded Ammo Belt"
 None
