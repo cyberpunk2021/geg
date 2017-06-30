@@ -5430,6 +5430,18 @@ Z  0
 X  0
 Y  -90
 Z  0
+"Submachine-gun HK MP5A5 RIS (.40 S&W) folded"
+X  0
+Y  -90
+Z  0
+"Submachine-gun HK MP5A5 RIS FG (.40 S&W)"
+X  0
+Y  -90
+Z  0
+"Submachine-gun HK MP5A5 RIS FG (.40 S&W) folded"
+X  0
+Y  -90
+Z  0
 "Shotgun CoachGun (12ga)"
 X  0
 Y  -90
@@ -5651,6 +5663,18 @@ X  0
 Y  0
 Z  0
 "Submachine-gun HK MP5A5 RIS (9mm)"
+X  0
+Y  -90
+Z  0
+"Submachine-gun HK MP5A5 RIS (9mm) folded"
+X  0
+Y  -90
+Z  0
+"Submachine-gun HK MP5A5 RIS FG (9mm)"
+X  0
+Y  -90
+Z  0
+"Submachine-gun HK MP5A5 RIS FG (9mm) folded"
 X  0
 Y  -90
 Z  0
@@ -7002,10 +7026,6 @@ Z  0
 X  0
 Y  -90
 Z  0
-"Submachine-gun HK MP5A5 RIS (9mm) folded"
-X  0
-Y  -90
-Z  0
 "Carabine Calico M900 (9mm) folded"
 X  0
 Y  0
@@ -7023,10 +7043,6 @@ X  0
 Y  -90
 Z  0
 "Submachine-gun Micro UZI (9mm) folded"
-X  0
-Y  -90
-Z  0
-"Submachine-gun HK MP5A5 RIS (.40 S&W) folded"
 X  0
 Y  -90
 Z  0
@@ -12244,11 +12260,19 @@ X  0
 Y  -90
 Z  0
 
+"Submachine-gun HK MP5A5 RIS (10)"
+X  0
+Y  -90
+Z  0
 "Submachine-gun HK MP5A5 RIS (10) folded"
 X  0
 Y  -90
 Z  0
-"Submachine-gun HK MP5A5 RIS (10)"
+"Submachine-gun HK MP5A5 RIS FG (10)"
+X  0
+Y  -90
+Z  0
+"Submachine-gun HK MP5A5 RIS FG (10) folded"
 X  0
 Y  -90
 Z  0
@@ -13464,6 +13488,14 @@ X  0
 Y  -90
 Z  0
 "HK MP5A5 RIS (22) folded"
+X  0
+Y  -90
+Z  0
+"HK MP5A5 RIS FG (22)"
+X  0
+Y  -90
+Z  0
+"HK MP5A5 RIS FG (22) folded"
 X  0
 Y  -90
 Z  0
@@ -16550,6 +16582,14 @@ X  0
 Y  -90
 Z  0
 "Submachine-gun NR-08 RIS (9mm) folded"
+X  0
+Y  -90
+Z  0
+"Submachine-gun NR-08 RIS FG (9mm)"
+X  0
+Y  -90
+Z  0
+"Submachine-gun NR-08 RIS FG (9mm) folded"
 X  0
 Y  -90
 Z  0

@@ -252,6 +252,16 @@
  ["Submachine-gun CX4 (9mm)"] = "Submachine-gun CX4 FG (9mm)",
  ["Submachine-gun CX4 (40)"] = "Submachine-gun CX4 FG (40)",
  ["Submachine-gun CX4 (45)"] = "Submachine-gun CX4 FG (45)",
+ ["Submachine-gun HK MP5A5 RIS (9mm)"] = "Submachine-gun HK MP5A5 RIS FG (9mm)",
+ ["Submachine-gun HK MP5A5 RIS (9mm) folded"] = "Submachine-gun HK MP5A5 RIS FG (9mm) folded",
+ ["Submachine-gun NR-08 RIS (9mm)"] = "Submachine-gun NR-08 RIS FG (9mm)",
+ ["Submachine-gun NR-08 RIS (9mm) folded"] = "Submachine-gun NR-08 RIS FG (9mm) folded",
+ ["Submachine-gun HK MP5A5 RIS (.40 S&W)"] = "Submachine-gun HK MP5A5 RIS FG (.40 S&W)",
+ ["Submachine-gun HK MP5A5 RIS (.40 S&W) folded"] = "Submachine-gun HK MP5A5 RIS FG (.40 S&W) folded",
+ ["Submachine-gun HK MP5A5 RIS (10)"] = "Submachine-gun HK MP5A5 RIS FG (10)",
+ ["Submachine-gun HK MP5A5 RIS (10) folded"] = "Submachine-gun HK MP5A5 RIS FG (10) folded",
+ ["HK MP5A5 RIS (22)"] = "HK MP5A5 RIS FG (22)",
+ ["HK MP5A5 RIS (22) folded"] = "HK MP5A5 RIS FG (22) folded",
 }
 
 -- проверяем что доступно снятие тактической рукоятки
@@ -637,6 +647,16 @@ AddItemCombineHandler("Tactical grip", "Submachine-gun MX4 (45)", AttachForegrip
 AddItemCombineHandler("Tactical grip", "Submachine-gun CX4 (9mm)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun CX4 (40)", AttachForegrip)
 AddItemCombineHandler("Tactical grip", "Submachine-gun CX4 (45)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK MP5A5 RIS (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK MP5A5 RIS (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun NR-08 RIS (9mm)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun NR-08 RIS (9mm) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK MP5A5 RIS (.40 S&W)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK MP5A5 RIS (.40 S&W) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK MP5A5 RIS (10)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "Submachine-gun HK MP5A5 RIS (10) folded", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK MP5A5 RIS (22)", AttachForegrip)
+AddItemCombineHandler("Tactical grip", "HK MP5A5 RIS (22) folded", AttachForegrip)
 
 -- Pistol with holster stock
 AddItemCombineHandler("APS Belt", "Pistol APS (9x18mm) folded", AttachStock)
@@ -895,3 +915,13 @@ AddItemContextMenu("Submachine-gun MX4 FG (45)", action_detach_handle, DetachFor
 AddItemContextMenu("Submachine-gun CX4 FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun CX4 FG (40)", action_detach_handle, DetachForegrip, CanDetachForegrip)
 AddItemContextMenu("Submachine-gun CX4 FG (45)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun HK MP5A5 RIS FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun HK MP5A5 RIS FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun NR-08 RIS FG (9mm)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun NR-08 RIS FG (9mm) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun HK MP5A5 RIS FG (.40 S&W)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun HK MP5A5 RIS FG (.40 S&W) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun HK MP5A5 RIS FG (10)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("Submachine-gun HK MP5A5 RIS FG (10) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK MP5A5 RIS FG (22)", action_detach_handle, DetachForegrip, CanDetachForegrip)
+AddItemContextMenu("HK MP5A5 RIS FG (22) folded", action_detach_handle, DetachForegrip, CanDetachForegrip)
