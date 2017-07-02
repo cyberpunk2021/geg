@@ -52,13 +52,13 @@ Item	"Money_euro500"						Level 16	Price	205000 //170000
 /////////ALGEIRA BARMEN
 /////////+++++++++
 
-Item	"Confidencial"						Level 3	Price 600
+Item	"Confidencial"						Level 3	Price 1700
 
 /////////+++++++++
 /////////CALI BARMEN
 /////////+++++++++
 
-Item	"Confidencial_Pali"						Level 3	Price 600
+Item	"Confidencial_Pali"						Level 3	Price 1700
 
 /////////+++++++++
 /////////REBEL CAMP AND START SHOP ONLY
@@ -468,7 +468,7 @@ Item "Uniform Bundle Palinero" Level 16 Price 6000
 Item	"Military_sectret"					Level 16	Price	127500
 Item	"Confidencial"						Level 16	Price	9250
 Item	"Confidencial_Pali"						Level 16	Price	7250
-Item	"Some_drugs"						Level 16	Price	14000
+Item	"Some_drugs"						Level 16	Price	5250
 Item	"Capsule"					Level 16	Price 800
 Item	"Caja con medicamentos"					Level 16	Price	31500
 

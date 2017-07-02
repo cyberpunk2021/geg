@@ -59083,7 +59083,7 @@ SpeedModifier	1.05
 Resource		800
 DirtResource	90000
 MisfireProb		0.009
-HeatCapacity	90
+HeatCapacity	30
 Single			1
 Burst			1
 CutOff			0
@@ -103719,7 +103719,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "PK"
-StdPlug			"Ammo box (PKM 7.62/100)"
+StdPlug			"Ammo box (PKM 7.62/150)"
 StdPlug			"Machinegun Bipod (PKM) folded"
 ACTOR			"Items\pecheneg.act"
 IMAGE			"2x5.e5b"
