@@ -1515,16 +1515,22 @@
     <comgr>Big Ammo box (57-H-181C)</comgr>
     <comgr>Guerillas tt_soldiers comgroup uniform</comgr>
 
-    <comsq>Assault Rifle MD63 (7.62x39mm)</comsq>
-    <comsq>Rifle ammo clip (AK 7.62/30)</comsq>
-    <comsq>Rifle ammo clip (AK 7.62/30)</comsq>
-    <comsq>Rifle ammo clip (AK 7.62/30)</comsq>
-    <comsq>Rifle ammo clip (AK 7.62/30)</comsq>
-    <comsq>Big Ammo box (7.62x39)</comsq>
-    <comsq>Big Ammo box (7.62x39)</comsq>
-    <comsq>Big Ammo box (7.62x39)</comsq>
-    <comsq>Big Ammo box (7.62x39)</comsq>
-    <comsq>Big Ammo box (7.62x39)</comsq>
+    <comsq>Assault Rifle StG.44 (7.92mm Kurz)</comsq>
+    <comsq>Assault Rifle clip (StG.44/30)</comsq>
+    <comsq>Assault Rifle clip (StG.44/30)</comsq>
+    <comsq>Assault Rifle clip (StG.44/30)</comsq>
+    <comsq>Assault Rifle clip (StG.44/30)</comsq>
+    <comsq>Assault Rifle clip (StG.44/30)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
     <comsq>Guerillas tt_soldiers comsquad uniform</comsq>
 
     <combr>Assaul Rifle SA Vz.58P</combr>
