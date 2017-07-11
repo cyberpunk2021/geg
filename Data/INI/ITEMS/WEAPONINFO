@@ -41114,7 +41114,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	240
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.58
 Unfold			"Assault Rifle Daewoo DR100 (5.56mm) folded"
@@ -41153,7 +41153,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	60
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.58
 Unfold			"Assault Rifle Daewoo DR100 (5.56mm)"
@@ -41192,7 +41192,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	240
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.58
 Unfold			"Assault Rifle Daewoo DR100 RIS (5.56mm) folded"
@@ -41231,7 +41231,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	60
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.58
 Unfold			"Assault Rifle Daewoo DR100 RIS (5.56mm)"
@@ -41270,7 +41270,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	245
+EffectiveRange	240
 RangeCurvature	2
 Balance			0.54
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -41307,7 +41307,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	245
+EffectiveRange	240
 RangeCurvature	2
 Balance			0.54
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -41344,7 +41344,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		490
-EffectiveRange	210
+EffectiveRange	215
 RangeCurvature	2.5
 Balance			0.54
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -41381,7 +41381,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		490
-EffectiveRange	210
+EffectiveRange	215
 RangeCurvature	2.5
 Balance			0.54
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -43386,7 +43386,7 @@ ITEM "Assault ARX VERY LB CIV (5.45x39mm)"
 Class			Rifle
 Caliber			"5.45υ39 μμ"
 Weight			3100
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.7
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43425,7 +43425,7 @@ ITEM "Assault ARX VERY LB CIV (5.45x39mm) folded"
 Class			Rifle
 Caliber			"5.45υ39 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.7
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43464,7 +43464,7 @@ ITEM "Assault ARX VERY LB CIV (5.56x45mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3100
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.72
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43503,7 +43503,7 @@ ITEM "Assault ARX VERY LB CIV (5.56x45mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.72
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43542,7 +43542,7 @@ ITEM "Assault ARX VERY LB CIV (6.8x43mm)"
 Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			3100
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.74
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43581,7 +43581,7 @@ ITEM "Assault ARX VERY LB CIV (6.8x43mm) folded"
 Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			2971
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.74
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43620,7 +43620,7 @@ ITEM "Assault ARX VERY LB CIV (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.73
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -43659,7 +43659,7 @@ ITEM "Assault ARX VERY LB CIV (7.62x39mm) folded"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3100
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.73
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -46015,7 +46015,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	235
+EffectiveRange	215
 RangeCurvature	2
 Balance			0.5
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -46052,7 +46052,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	230
+EffectiveRange	210
 RangeCurvature	2
 Balance			0.55
 Unfold			"Assault Rifle HK93EA3 (5.56mm) folded"
@@ -46091,7 +46091,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	57
+EffectiveRange	52
 RangeCurvature	4
 Balance			0.55
 Unfold			"Assault Rifle HK93EA3 (5.56mm)"
@@ -51321,7 +51321,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	240
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.58
 Unfold			"Assault Rifle DaewooK2O (5.56mm) folded"
@@ -51360,7 +51360,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	60
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.58
 Unfold			"Assault Rifle DaewooK2O (5.56mm)"
@@ -51401,7 +51401,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	240
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.58
 Unfold			"Assault Rifle DaewooK2 (5.56mm) folded"
@@ -51440,7 +51440,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	60
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.58
 Unfold			"Assault Rifle DaewooK2 (5.56mm)"
@@ -51481,7 +51481,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	240
+EffectiveRange	235
 RangeCurvature	2
 Balance			0.58
 Unfold			"Assault Rifle DaewooK2R (5.56mm) folded"
@@ -51520,7 +51520,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	60
+EffectiveRange	59
 RangeCurvature	4
 Balance			0.58
 Unfold			"Assault Rifle DaewooK2R (5.56mm)"
@@ -52330,7 +52330,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	235
+EffectiveRange	215
 RangeCurvature	2
 Balance			0.55
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
@@ -52369,7 +52369,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	230
+EffectiveRange	210
 RangeCurvature	2
 Balance			0.55
 Unfold			"Assault Rifle HK33EA3 (5.56mm) folded"
@@ -52408,7 +52408,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	57
+EffectiveRange	52
 RangeCurvature	4
 Balance			0.55
 Unfold			"Assault Rifle HK33EA3 (5.56mm)"
@@ -52609,7 +52609,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	240
+EffectiveRange	230
 RangeCurvature	2
 Balance			0.5
 Unfold			"Assault Rifle G41 (5.56mm) folded"
@@ -52648,7 +52648,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	60
+EffectiveRange	57
 RangeCurvature	4
 Balance			0.5
 Unfold			"Assault Rifle G41 (5.56mm)"
@@ -52687,7 +52687,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	190
+EffectiveRange	160
 RangeCurvature	2
 Balance			0.59
 Unfold			"Assault Rifle G41K (5.56mm) folded"
@@ -52726,7 +52726,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		250
-EffectiveRange	88
+EffectiveRange	40
 RangeCurvature	5
 Balance			0.59
 Unfold			"Assault Rifle G41K (5.56mm)"
@@ -68259,7 +68259,7 @@ ITEM "Assault Rifle AR70 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4000
-PrepareTime		0.42
+PrepareTime		0.43
 SingleFireTime	0.74
 BurstFireTime	0.1
 SpeedModifier	1.04
@@ -68296,7 +68296,7 @@ ITEM "Assault Rifle AR70S (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3850
-PrepareTime		0.42
+PrepareTime		0.43
 SingleFireTime	0.74
 BurstFireTime	0.1
 SpeedModifier	1.04
@@ -68335,7 +68335,7 @@ ITEM "Assault Rifle AR70S (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3850
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.74
 BurstFireTime	0.1
 SpeedModifier	1.04
@@ -68374,7 +68374,7 @@ ITEM "Assault Rifle AR70 CAR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.33
+PrepareTime		0.34
 SingleFireTime	0.71
 BurstFireTime	0.1
 SpeedModifier	0.99
@@ -68413,7 +68413,7 @@ ITEM "Assault Rifle AR70 CAR (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.29
+PrepareTime		0.30
 SingleFireTime	0.71
 BurstFireTime	0.1
 SpeedModifier	0.99
@@ -68456,7 +68456,7 @@ ITEM "Assault Rifle AR70 90 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4070
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -68469,7 +68469,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	215
+EffectiveRange	225
 RangeCurvature	2
 Balance			0.53
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -68495,7 +68495,7 @@ ITEM "Assault Rifle AR70S 90 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4000
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -68508,7 +68508,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	210
+EffectiveRange	220
 RangeCurvature	2
 Balance			0.53
 Unfold			"Assault Rifle AR70S 90 (5.56mm) folded"
@@ -68536,7 +68536,7 @@ ITEM "Assault Rifle AR70S 90 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			4000
-PrepareTime		0.41
+PrepareTime		0.40
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.05
@@ -68549,7 +68549,7 @@ Burst			1
 CutOff			3
 BurstHitStart	1
 MaxRange		275
-EffectiveRange	52
+EffectiveRange	55
 RangeCurvature	4
 Balance			0.53
 Unfold			"Assault Rifle AR70S 90 (5.56mm)"
@@ -68817,7 +68817,7 @@ ITEM "Assault ARX VERY LB (5.45x39mm)"
 Class			Rifle
 Caliber			"5.45υ39 μμ"
 Weight			3200
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.73
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -68856,7 +68856,7 @@ ITEM "Assault ARX VERY LB (5.45x39mm) folded"
 Class			Rifle
 Caliber			"5.45υ39 μμ"
 Weight			3200
-PrepareTime		0.42
+PrepareTime		0.38
 SingleFireTime	0.73
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -69051,7 +69051,7 @@ ITEM "Assault ARX VERY LB (5.56x45mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3200
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.75
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -69090,7 +69090,7 @@ ITEM "Assault ARX VERY LB (5.56x45mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3200
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.75
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -69285,7 +69285,7 @@ ITEM "Assault ARX VERY LB (6.8x43mm)"
 Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			3200
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.77
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -69324,7 +69324,7 @@ ITEM "Assault ARX VERY LB (6.8x43mm) folded"
 Class			Rifle
 Caliber			"6.8x43 mm"
 Weight			3200
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.77
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -69519,7 +69519,7 @@ ITEM "Assault ARX VERY LB (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3200
-PrepareTime		0.45
+PrepareTime		0.44
 SingleFireTime	0.76
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -69558,7 +69558,7 @@ ITEM "Assault ARX VERY LB (7.62x39mm) folded"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3200
-PrepareTime		0.42
+PrepareTime		0.40
 SingleFireTime	0.76
 BurstFireTime	0.0706
 SpeedModifier	1.05
@@ -78210,7 +78210,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	230
+EffectiveRange	220
 RangeCurvature	2
 Balance			0.54
 Unfold			"ACE folded"
@@ -78249,7 +78249,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		440
-EffectiveRange	184
+EffectiveRange	176
 RangeCurvature	2
 Balance			0.48
 Unfold			"ACE"
@@ -78366,7 +78366,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		490
-EffectiveRange	210
+EffectiveRange	205
 RangeCurvature	2.5
 Balance			0.54
 Unfold			"ACE RUS folded"
@@ -78405,7 +78405,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		392
-EffectiveRange	168
+EffectiveRange	164
 RangeCurvature	2.5
 Balance			0.48
 Unfold			"ACE RUS"
@@ -102847,7 +102847,7 @@ Resource		1600
 DirtResource	190000
 MisfireProb		0.0021
 HeatCapacity	90
-Single			0
+Single			1
 Burst			1
 CutOff			0
 BurstHitStart	1
@@ -102877,12 +102877,12 @@ ITEM "M1918 BAR"
 Class			Rifle
 Caliber			"30-06 Springfield"
 Weight			8000
-PrepareTime		0.65
+PrepareTime		0.63
 SingleFireTime	0.87
 BurstFireTime	0.12
-SpeedModifier	1.08
-Resource		1600
-DirtResource	190000
+SpeedModifier	1.09
+Resource		1800
+DirtResource	200000
 MisfireProb		0.0021
 HeatCapacity	90
 Single			0
@@ -102890,7 +102890,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		880
-EffectiveRange	220
+EffectiveRange	225
 RangeCurvature	2.5
 Balance			0.36
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -102906,7 +102906,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "BAR"
 StdPlug			"Rifle ammo clip (BAR/20)"
-//	StdPlug			"BAR bipod Folded"
+StdPlug			"BAR bipod Folded"
 ACTOR			"Items\M1918_A2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
