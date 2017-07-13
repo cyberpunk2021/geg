@@ -1,4 +1,3 @@
-
 local wcNone = 0
 local wcPistol = 1
 local wcSMG = 2
@@ -42,12 +41,14 @@ local function addLawType(itemID, typeID, check)
     end
 end
 
-function buildItemLawType(item)
+-- What kind of weapon is by it's caracteristics
+function buildItemLawType(item)	
     local family = item:GetFamily()
     local info = item:GetSpecificInfo()
 	if family == Family.ifMine then
 		return LawType.Military
 	end
+
     if family == Family.ifWeapon then
         local clip_capacity = 0
         local stdPlugList = info["StdPlug"]
@@ -66,42 +67,48 @@ function buildItemLawType(item)
                 end
             end
         end
-        local weaponClass = info["Class"]
+        local weaponClass = info["Class"]	--If it's a greanade: Military
 		if item:IsGrenade() then
             return LawType.Military
         end
 		
-		
+		-- If it have burst mode and isn't a smg or a pistol: Military
         if ((info["Burst"]) and (weaponClass ~= wcSMG and weaponClass ~= wcPistol)) then -- автоматическое оружие (постоянный параметр)
             return LawType.Military
         end
+		-- If it's a shotgun and have a clip: Police
 		if (weaponClass == wcShotgun and plugFamily == Family.ifClip and plugItem:IsBuiltIn() == false) then
             return LawType.Police
         end
+		-- If it have burst mode and is a smg or a pistol: Police
         if ((info["Burst"]) and (weaponClass == wcSMG or weaponClass == wcPistol)) then -- Law.Police по признаку наличия складного приклада (постоянный параметр)
             return LawType.Police
-        end
-
-		
-
+        end		
+		-- If isn't a pistol or is a shotgun whit more than 5 shells: Hunting
         if ((weaponClass ~= wcPistol) or (weaponClass == wcShotgun and clip_capacity > 5)) then
-          return LawType.Hunter
+          return LawType.Hunter 
         end
+		-- If it's a shotgun and have equal or less than 5 shells: Civilian
+		if (weaponClass == wcShotgun and clip_capacity <= 5) then
+          return LawType.Civilian
+        end
+		
+	-- If it have a silencer: Special
     elseif family == Family.ifAddon then
         if item:GetAddonType() == AddonTypes.adSilencer then
             return LawType.Special
         end
+	
     elseif family == Family.ifClip then
         if info["PlugType"] ~= 1 then -- избегаем проверки пачек патронов
-            if info["DefaultAmmo"] == ammoAirsoft then
+            -- If uses airsoft ammo: Toy	
+			if info["DefaultAmmo"] == ammoAirsoft then
                 return LawType.Toy
             end
-			
+			-- If uses 22LR ammo: Civilian (I believe this don't work properly)
 			if info["DefaultAmmo"] == ammoLongRifle then
                 return LawType.Civilian
             end
-			
-
         end
     elseif family == Family.ifAmmo then
     end
@@ -145,10 +152,11 @@ function GetLawStrForItem(item)
     return LawTypeLabels[typeID] or ""
 end
 
+
+-- How it's seeing the tipe of weapon by the laws
 function GetLawForItem(item)
     if item == nil then return nil end
-
-    local itemInfo = item:GetInfo()
+	local itemInfo = item:GetInfo()
     local typeID = LawTable[itemInfo:GetID()]
     local family = itemInfo:GetFamily()
 
@@ -157,8 +165,8 @@ function GetLawForItem(item)
 	
 
 	-- теперь проверяем, может ли что-то перезатереть этот тип
-
-    if typeID < LawType.Special then -- динамическая проверка на принадлежность к специальным
+	-- SILENCED WEAPONS
+    if typeID <= LawType.Special then -- динамическая проверка на принадлежность к специальным
         if family == Family.ifWeapon then
             local addons = item:GetAddons()
             for _,addon in ipairs(addons) do
@@ -168,7 +176,8 @@ function GetLawForItem(item)
             end
         end
     end
-    if typeID < LawType.Military then
+	-- MILITARY WEAPONS
+    if typeID == LawType.Military then
         if family == Family.ifWeapon then
             local info = itemInfo:GetSpecificInfo()
             -- бывают апдейты, которые добавляют режим очереди
@@ -180,23 +189,23 @@ function GetLawForItem(item)
         -- то, что может в динамике переквалифицировать оружие до военного
         --todo сделать проверку на ящики гранат и т.п., вобщем на содержимое контейнеров
     end
-    if typeID < LawType.Police then
-        if family == Family.ifWeapon then
+	-- SERVICE OR POLICE WEAPONS
+    if typeID == LawType.Police then
+        if family == Family.ifWeapon then		
             local clip = item:GetClip()
             if clip ~= nil then
                 local info = itemInfo:GetSpecificInfo()
                 local clipInfo = clip:GetInfo():GetSpecificInfo()
                 local clip_capacity = clipInfo["Rounds"]
 				
-        if ((info["Burst"]) and (info["Class"] == wcSMG or info["Class"] == wcPistol) or (weaponClass == wcShotgun and (plugFamily == Family.ifClip and plugItem:IsBuiltIn() == false))) then -- Law.Police по признаку наличия складного приклада (постоянный параметр)
-            return LawType.Police
-        end
-				
-
+				if ((info["Burst"]) and (info["Class"] == wcSMG or info["Class"] == wcPistol) or (weaponClass == wcShotgun and (plugFamily == Family.ifClip and plugItem:IsBuiltIn() == false))) then -- Law.Police по признаку наличия складного приклада (постоянный параметр)
+					return LawType.Police
+				end
             end
         end
     end
-    if typeID < LawType.Hunter then
+	-- HUNTING SHOTGUNS
+    if typeID == LawType.Hunter then
         if family == Family.ifWeapon then
             local clip = item:GetClip()
             if clip ~= nil then
@@ -204,14 +213,36 @@ function GetLawForItem(item)
                 local clipInfo = clip:GetInfo():GetSpecificInfo()
                 local weaponClass = info["Class"]
                 local clip_capacity = clipInfo["Rounds"]
-                if ((weaponClass ~= wcPistol) or (weaponClass == wcShotgun and clip_capacity > 5)) then
+                if ((info["Class"] ~= wcPistol) and (info["Class"] == wcShotgun and clip_capacity > 5)) then
                     return LawType.Hunter
                 end
-
             end
         end
+    end	 
+	-- CIVIL SHOTGUNS
+	if typeID == LawType.Hunter then
+        if family == Family.ifWeapon then
+            local clip = item:GetClip()
+            if clip ~= nil then
+                local info = itemInfo:GetSpecificInfo()
+                local clipInfo = clip:GetInfo():GetSpecificInfo()
+                local weaponClass = info["Class"]
+                local clip_capacity = clipInfo["Rounds"]
+                if ((info["Class"] ~= wcPistol) and (info["Class"] == wcShotgun and clip_capacity <= 5)) then
+                    return LawType.Civilian
+                end
+            end
+        end
+    end	 
+	-- GRENADE LAUNCHERS
+	if typeID == LawType.Hunter then  
+		if family == Family.ifWeapon then
+            local info = itemInfo:GetSpecificInfo()
+            if (info["Class"] == wcMachinegun) then
+				return LawType.Military					
+            end
+        end    
     end
-
     return typeID
 end
 
@@ -225,4 +256,3 @@ end
 loadLawData()
 
 RegisterItemLawStringHandler(GetLawStrForItem)
-

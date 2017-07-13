@@ -104504,7 +104504,7 @@ HANDS			ahtMachineGun
 /////////////------------
 
 ITEM "rpg-2"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			2830
 PrepareTime		0.32
@@ -104542,7 +104542,7 @@ IMAGE			"rpg-7.e5b"
 HANDS			ahtRG
 
 ITEM "rpg-2 Type 56"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			3030
 PrepareTime		0.32
@@ -104580,7 +104580,7 @@ IMAGE			"rpg-7.e5b"
 HANDS			ahtRG
 
 ITEM "Launcher RPG-7"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			5728
 PrepareTime		0.3
@@ -104618,7 +104618,7 @@ IMAGE			"rpg-7.e5b"
 HANDS			ahtRG
 
 ITEM "Launcher RPG-7 Type 69"
-Class Rifle
+Class 			Machinegun
 Caliber			"None"
 Weight			5428
 PrepareTime		0.29
@@ -104658,7 +104658,7 @@ HANDS			ahtRifle
 /////-------------------------
 
 ITEM "Pallad Standalone"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			2300
 PrepareTime		0.09
@@ -104698,7 +104698,7 @@ IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "Pallad Standalone folded"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			2300
 PrepareTime		0.05
@@ -104738,7 +104738,7 @@ IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ITEM "SIG550GL Standalone"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			2500
 PrepareTime		0.11
@@ -104778,7 +104778,7 @@ IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
 ITEM "SIG550GL Standalone folded"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			2500
 PrepareTime		0.07
@@ -104939,7 +104939,7 @@ IMAGE			"rg-6_folded.e5b"
 HANDS			ahtRG
 
 ITEM "GM94"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			4700
 PrepareTime		0.17
@@ -104980,7 +104980,7 @@ IMAGE			"gm94.e5b"
 HANDS			ahtRifle
 
 ITEM "GM94 folded"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			4700
 PrepareTime		0.12
@@ -105021,7 +105021,7 @@ IMAGE			"gm94_f.e5b"
 HANDS			ahtRifle
 
 ITEM "MGL"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			5300
 PrepareTime		0.26
@@ -105062,7 +105062,7 @@ IMAGE			"rg-6.e5b"
 HANDS			ahtRG
 
 ITEM "MGL folded"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			5300
 PrepareTime		0.21
@@ -106166,7 +106166,7 @@ IMAGE			"rpg18.e5b"
 HANDS			ahtGrenadeLauncher
 
 ITEM "Launcher M202A1 FLASH"
-Class			Rifle
+Class			Machinegun
 Caliber			"None"
 Weight			5728
 PrepareTime		0.38
