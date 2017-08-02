@@ -259,7 +259,7 @@ SilencingValue	0.77
 ACTOR			"Items\nagantsil.act"
 IMAGE			"apb_silencer.e5b"
 WEIGHT			289
-Resource		1600
+Resource		4800
 //------------------------------------------------------
 Addon			"Silencer (22 Para)"
 Silencer		"Std 22 Para"
@@ -269,7 +269,7 @@ SilencingValue	0.79
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			305
-Resource		2000
+Resource		6000
 //------------------------------------------------------
 Addon			"Silencer (32 Para)"
 Silencer		"Std 32 Para"
@@ -279,7 +279,7 @@ SilencingValue	0.77
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			305
-Resource		2100
+Resource		6300
 //------------------------------------------------------
 Addon			"VZ82_silencer"
 Silencer		"VZ82"
@@ -289,7 +289,7 @@ SilencingValue	0.7
 ACTOR			"Items\vz82_silencer.act"
 IMAGE			"vz82_sil.e5b"
 WEIGHT			327
-Resource		2600
+Resource		7800
 //------------------------------------------------------
 Addon			"Silencer (380 Para)"
 Silencer		"Std 380 Para"
@@ -299,7 +299,7 @@ SilencingValue	0.79
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			321
-Resource		2500
+Resource		7500
 //------------------------------------------------------
 Addon			"Silencer (x21 Para)"
 Silencer		"Std x21 Para"
@@ -309,7 +309,7 @@ SilencingValue	0.81
 ACTOR			"Items\qsw06sil.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			325
-Resource		2300
+Resource		6900
 //------------------------------------------------------
 Addon			"Silencer (x21 QCW)"
 Silencer		"Std x21 QCW"
@@ -319,7 +319,7 @@ SilencingValue	0.81
 ACTOR			"Items\qcwsil.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			325
-Resource		2300
+Resource		6900
 //------------------------------------------------------
 Addon			"sil_bottle_selfmade"
 Silencer		"HandMade"
@@ -339,7 +339,7 @@ SilencingValue	0.79
 ACTOR			"Items\P99silencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			344
-Resource		2500
+Resource		7500
 //------------------------------------------------------
 Addon			"Silencer (.40 S&W)"
 Silencer		"HK MP5-40 Silencer"
@@ -349,7 +349,7 @@ SilencingValue	0.80
 ACTOR			"Items\40SILENCER.ACT"
 IMAGE			"40_silencer.e5b"
 WEIGHT			380
-Resource		2600
+Resource		7800
 //------------------------------------------------------
 Addon			"Silencer (5.7 mm FN)"
 Silencer		"5,7mm (FN)"
@@ -359,7 +359,7 @@ SilencingValue	0.78
 ACTOR			"Items\FNsilencer.act"
 IMAGE			"FNsilencer.e5b"
 WEIGHT			332
-Resource		2100
+Resource		6300
 //------------------------------------------------------
 Addon			"Silencer (5.7 mm P90)"
 Silencer		"5,7mm (P90)"
@@ -369,7 +369,7 @@ SilencingValue	0.77
 ACTOR			"Items\supressor556.act"
 IMAGE			"57mmSilencer.e5b"
 WEIGHT			370
-Resource		2350
+Resource		7050
 //------------------------------------------------------
 Addon			"APB Silencer"
 Silencer		"APB"
@@ -379,7 +379,7 @@ SilencingValue	0.81
 ACTOR			"Items\apb_silencer.act"
 IMAGE			"apb_silencer.e5b"
 WEIGHT			309
-Resource		2100
+Resource		6300
 //------------------------------------------------------
 Addon			"Bizon silencer"
 Silencer		"Bizon 9x18"
@@ -389,7 +389,7 @@ SilencingValue	0.79
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			336
-Resource		2300
+Resource		6900
 //------------------------------------------------------
 Addon			"AEK919K_silencer"
 Silencer		"AEK919K"
@@ -399,7 +399,7 @@ SilencingValue	0.80
 ACTOR			"Items\aek919k_silencer.act"
 IMAGE			"aek919-sil.e5b"
 WEIGHT			319
-Resource		2200
+Resource		6600
 //------------------------------------------------------
 Addon			"GSh-18 Silenser"
 Silencer		"GSh-18"
@@ -409,7 +409,7 @@ SilencingValue	0.81
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"sig-sil.e5b"
 WEIGHT			303
-Resource		1900
+Resource		5700
 //------------------------------------------------------
 Addon			"Silencer (9 mm Para)"
 Silencer		"Std 9mm Para"
@@ -419,7 +419,7 @@ SilencingValue	0.82
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			306
-Resource		2000
+Resource		6000
 //------------------------------------------------------
 Addon			"Silencer Trident (9 mm Para)"
 Silencer		"Std 9mm Para"
@@ -429,7 +429,7 @@ SilencingValue	0.84
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmTrident.e5b"
 WEIGHT			326
-Resource		2200
+Resource		6600
 //------------------------------------------------------
 Addon			"Silencer Tundra (9 mm Para)"
 Silencer		"Std 9mm Para"
@@ -439,7 +439,7 @@ SilencingValue	0.78
 ACTOR			"Items\9mmTundra.act"
 IMAGE			"9mmTundra.e5b"
 WEIGHT			240
-Resource		1800
+Resource		6800
 //------------------------------------------------------
 Addon			"Silencer Ti-RANT 9mm"
 Silencer		"Std 9mm Para"
@@ -449,7 +449,7 @@ SilencingValue	0.80
 ACTOR			"Items\9MMSILENCERusp.act"
 IMAGE			"tyrant_45.e5b"
 WEIGHT			286
-Resource		1900
+Resource		6400
 //------------------------------------------------------
 Addon			"USP Silencer"
 Silencer		"Std 45 ACP"
@@ -459,7 +459,7 @@ SilencingValue	0.81
 ACTOR			"Items\usp_silencer.act"
 IMAGE			"usp_silencer.e5b"
 WEIGHT			371
-Resource		2200
+Resource		6600
 //------------------------------------------------------
 Addon			"ump45_silencer"
 Silencer		"UMP45"
@@ -469,7 +469,7 @@ SilencingValue	0.80
 ACTOR			"Items\ump45_silencer.act"
 IMAGE			"ump_sil.e5b"
 WEIGHT			414
-Resource		2450
+Resource		6800
 //------------------------------------------------------
 Addon			"Silencer Blackside (45 ACP)"
 Silencer		"Std 45 ACP"
@@ -479,7 +479,7 @@ SilencingValue	0.78
 ACTOR			"Items\45blackside.act"
 IMAGE			"45blackside.e5b"
 WEIGHT			311
-Resource		1900
+Resource		6400
 //------------------------------------------------------
 Addon			"Silencer Ti-RANT 45"
 Silencer		"Std 45 ACP"
@@ -489,7 +489,7 @@ SilencingValue	0.84
 ACTOR			"Items\tyrant_45.act"
 IMAGE			"tyrant_45.e5b"
 WEIGHT			339
-Resource		2500
+Resource		6600
 //------------------------------------------------------
 Addon			"357 Silencer"
 Silencer		"357 Sil"
@@ -499,7 +499,7 @@ SilencingValue	0.79
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"usp_silencer.e5b"
 WEIGHT			351
-Resource		2500
+Resource		6400
 //------------------------------------------------------
 Addon			"10mm Silencer"
 Silencer		"10mm Sil"
@@ -509,7 +509,7 @@ SilencingValue	0.76
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"usp_silencer.e5b"
 WEIGHT			411
-Resource		2200
+Resource		6600
 //------------------------------------------------------
 Addon			"MP7 Silencer"
 Silencer		"MP7 Silencer"
@@ -519,7 +519,7 @@ SilencingValue	0.8
 ACTOR			"items\mp7_silencer.act"
 IMAGE			"mp7sil.e5b"
 WEIGHT			387
-Resource		2500
+Resource		6200
 //------------------------------------------------------
 Addon			"Silencer (MAC/380)"
 Silencer		"MAC380Sil"
@@ -529,7 +529,7 @@ SilencingValue	0.85
 ACTOR			"Items\mac10_silencer.act"
 IMAGE			"mac10_silencer.e5b"
 WEIGHT			390
-Resource		2600
+Resource		6300
 //------------------------------------------------------
 Addon			"Silencer (MAC/.45)"
 Silencer		"MAC"
@@ -539,7 +539,7 @@ SilencingValue	0.86
 ACTOR			"Items\mac10_silencer.act"
 IMAGE			"mac10_silencer.e5b"
 WEIGHT			428
-Resource		2500
+Resource		6300
 //------------------------------------------------------
 Addon			"Silencer PBS-1 (7.62x39 mm)"
 Silencer		"PBS - 7,62x39"
@@ -549,7 +549,7 @@ SilencingValue	0.75
 ACTOR			"Items\pbs-1.act"
 IMAGE			"pbs-1.e5b"
 WEIGHT			603
-Resource		2400
+Resource		6400
 //------------------------------------------------------
 Addon			"30-06 Silencer"
 Silencer		"HCAR Silencer"
@@ -559,7 +559,7 @@ SilencingValue	0.7
 ACTOR			"Items\sig551_silencer.act"
 IMAGE			"sig-sil.e5b"
 WEIGHT			788
-Resource		2000
+Resource		5200
 //------------------------------------------------------
 Addon			"Silencer PBS-1 M24x1.5 (7.62x39 mm)"
 Silencer		"M24x1,5"
@@ -569,7 +569,7 @@ SilencingValue	0.75
 ACTOR			"Items\pbs-1.act"
 IMAGE			"pbs-1.e5b"
 WEIGHT			603
-Resource		2400
+Resource		6200
 //------------------------------------------------------
 Addon			"Silencer PBS-4 (5.45 mm)"
 Silencer		"PBS - 5,45"
@@ -579,7 +579,7 @@ SilencingValue	0.76
 ACTOR			"Items\pbs-4.act"
 IMAGE			"pbs-4.e5b"
 WEIGHT			523
-Resource		2500
+Resource		6600
 //------------------------------------------------------
 Addon			"Silencer PBS-4 (.22)"
 Silencer		"PBS - 22"
@@ -589,7 +589,7 @@ SilencingValue	0.79
 ACTOR			"Items\pbs-4.act"
 IMAGE			"pbs-4.e5b"
 WEIGHT			523
-Resource		2500
+Resource		6000
 //------------------------------------------------------
 Addon			"Silencer PBS-4m (5.45 mm)"
 Silencer		"PBS - 5,45"
@@ -599,7 +599,7 @@ SilencingValue	0.79
 ACTOR			"Items\pbs4m.act"
 IMAGE			"pbs-4m.e5b"
 WEIGHT			570
-Resource		2800
+Resource		6400
 //------------------------------------------------------
 Addon			"Silencer (CBJ Para)"
 Silencer		"CBJ Sil"
@@ -609,7 +609,7 @@ SilencingValue	0.79
 ACTOR			"Items\9mmSilencer.act"
 IMAGE			"9mmSilencer.e5b"
 WEIGHT			392
-Resource		2500
+Resource		6200
 //------------------------------------------------------
 Addon			"Silencer (10mm)"
 Silencer		"HK MP5-10 Silencer"
@@ -619,7 +619,7 @@ SilencingValue	0.76
 ACTOR			"Items\40SILENCER.ACT"
 IMAGE			"40_silencer.e5b"
 WEIGHT			508
-Resource		2200
+Resource		6400
 //------------------------------------------------------
 Addon			"Mk23 Silencer"
 Silencer		"Std 45 ACP"
@@ -629,7 +629,7 @@ SilencingValue	0.79
 ACTOR			"Items\usp_silencer.act"
 IMAGE			"usp_silencer.e5b"
 WEIGHT			367
-Resource		1900
+Resource		6200
 //------------------------------------------------------
 Addon			"Silencer CYCLONE-K (7.62x51mm)"
 Silencer		"Supressor - 7,62"
@@ -639,7 +639,7 @@ SilencingValue	0.7
 ACTOR			"Items\cyclon_k.act"
 IMAGE			"cyclon_k.e5b"
 WEIGHT			520
-Resource		2000
+Resource		5500
 //------------------------------------------------------
 Addon			"762x51 Suppressor"
 Silencer		"Supressor - 7,62"
@@ -649,7 +649,7 @@ SilencingValue	0.76
 ACTOR			"Items\sig551_silencer.act"
 IMAGE			"sig-sil.e5b"
 WEIGHT			675
-Resource		2000
+Resource		5700
 //------------------------------------------------------
 Addon			"7,62 Sniper Rifle Suppressor"
 Silencer		"7,62 Sniper Rifle Suppressor"
@@ -659,7 +659,7 @@ SilencingValue	0.78
 ACTOR			"Items\sv98_silencer.act"
 IMAGE			"sv98_sil.e5b"
 WEIGHT			700
-Resource		2200
+Resource		5100
 //------------------------------------------------------
 Addon			"SR25_silencer"
 Silencer		"SR25_silencer"
@@ -669,7 +669,7 @@ SilencingValue	0.81
 ACTOR			"Items\sr25_silencer.act"
 IMAGE			"sr25_sil.e5b"
 WEIGHT			607
-Resource		2500
+Resource		5400
 //------------------------------------------------------
 Addon			"M110_silencer"
 Silencer		"SR25_silencer"
@@ -679,7 +679,7 @@ SilencingValue	0.81
 ACTOR			"Items\m110sil.act"
 IMAGE			"sr25_sil.e5b"
 WEIGHT			607
-Resource		2500
+Resource		5400
 //------------------------------------------------------
 Addon			"SVD Sniper Rifle Suppressor"
 Silencer		"SVD Suppressor"
@@ -689,7 +689,7 @@ SilencingValue	0.78
 ACTOR			"Items\tgpv.act"
 IMAGE			"sv98_sil.e5b"
 WEIGHT			600
-Resource		2500
+Resource		5600
 //------------------------------------------------------
 Addon			"SV98 silencer"
 Silencer		"SV98 silencer"
@@ -699,7 +699,7 @@ SilencingValue	0.75
 ACTOR			"Items\sv98_silencer.act"
 IMAGE			"sv98_sil.e5b"
 WEIGHT			550
-Resource		2300
+Resource		5600
 //------------------------------------------------------
 Addon			"Brenneke Sniper Rifle Suppressor"
 Silencer		"Brenneke Suppressor"
@@ -709,7 +709,7 @@ SilencingValue	0.69
 ACTOR			"Items\tgpv.act"
 IMAGE			"sv98_sil.e5b"
 WEIGHT			750
-Resource		2100
+Resource		4700
 //------------------------------------------------------
 Addon			".300 Sniper Rifle Suppressor"
 Silencer		".300WM Sniper Rifle Suppressor"
@@ -719,7 +719,7 @@ SilencingValue	0.69
 ACTOR			"Items\sv98_silencer.act"
 IMAGE			"sv98_sil.e5b"
 WEIGHT			760
-Resource		2400
+Resource		4900
 //------------------------------------------------------
 Addon			".338 AAC Titan-Ti"
 Silencer		".338 Silencer"
@@ -729,7 +729,7 @@ SilencingValue	0.66
 ACTOR			"Items\338silencer.act"
 IMAGE			"l85-sil.e5b"
 WEIGHT			830
-Resource		2200
+Resource		4500
 //------------------------------------------------------
 Addon			"CheyTac Suppressor"
 Silencer		"CheyTac_silencer"
@@ -739,7 +739,7 @@ SilencingValue	0.62
 ACTOR			"Items\CheyTac_sil.act"
 IMAGE			"sr25_sil.e5b"
 WEIGHT			920
-Resource		2500
+Resource		4400
 //------------------------------------------------------
 Addon			"Silencer CYCLONE-K (.300 BLK)"
 Silencer		".300 BLK"
@@ -749,7 +749,7 @@ SilencingValue	0.91
 ACTOR			"Items\cyclon_k.act"
 IMAGE			"cyclon_k.e5b"
 WEIGHT			520
-Resource		2000
+Resource		6100
 //------------------------------------------------------
 Addon			"762x51 Suppressor (.300 BLK)"
 Silencer		".300 BLK"
@@ -759,7 +759,7 @@ SilencingValue	0.93
 ACTOR			"Items\762-sdn-6.act"
 IMAGE			"762-sdn-6.e5b"
 WEIGHT			587
-Resource		2100
+Resource		6200
 //------------------------------------------------------
 Addon			"Supressor (5.8 mm)"
 Silencer		"Supressor - 5,8"
@@ -769,7 +769,7 @@ SilencingValue	0.76
 ACTOR			"Items\qbz95sil.act"
 IMAGE			"supressor556.e5b"
 WEIGHT			510
-Resource		2200
+Resource		6000
 //------------------------------------------------------
 Addon			"Supressor (6x35 mm)"
 Silencer		"Supressor - 6x35"
@@ -779,7 +779,7 @@ SilencingValue	0.74
 ACTOR			"Items\supressor556.act"
 IMAGE			"supressor556.e5b"
 WEIGHT			490
-Resource		2700
+Resource		6200
 //------------------------------------------------------
 Addon			"Supressor (6.5 mm)"
 Silencer		"Supressor - 6.5"
@@ -789,7 +789,7 @@ SilencingValue	0.73
 ACTOR			"Items\supressor556.act"
 IMAGE			"supressor556.e5b"
 WEIGHT			648
-Resource		2500
+Resource		6000
 //------------------------------------------------------
 Addon			".50 Beo silencer"
 Silencer		"BEOWULF Silencer"
@@ -799,7 +799,7 @@ SilencingValue	0.74
 ACTOR			"Items\l85a2_silencer.act"
 IMAGE			"l85-sil.e5b"
 WEIGHT			914
-Resource		2100
+Resource		5800
 //------------------------------------------------------
 Addon			"Ash 12.7 Silencer"
 Silencer		"Ash Silencer"
@@ -809,7 +809,7 @@ SilencingValue	0.73
 ACTOR			"Items\l85a2_silencer.act"
 IMAGE			"l85-sil.e5b"
 WEIGHT			948
-Resource		2300
+Resource		5700
 //------------------------------------------------------
 Addon			"Silencer PBS (9x39mm)"
 Silencer		"PBS - 9x39mm"
@@ -819,7 +819,7 @@ SilencingValue	0.90
 ACTOR			"Items\9a91sil.act"
 IMAGE			"pbs-1.e5b"
 WEIGHT			526
-Resource		2000
+Resource		6400
 //------------------------------------------------------
 Addon			"Suppressor (6.8x43 mm)"
 Silencer		"Supressor - 6,8x43"
@@ -829,7 +829,7 @@ SilencingValue	0.74
 ACTOR			"Items\SUPRESSOR68.ACT"
 IMAGE			"SUPRESSOR68.E5B"
 WEIGHT			623
-Resource		2500
+Resource		5900
 //------------------------------------------------------
 Addon			"Galil Suppressor"
 Silencer		"Galil"
@@ -839,7 +839,7 @@ SilencingValue	0.73
 ACTOR			"Items\Galil_sil.act"
 IMAGE			"Galil_sil.e5b"
 WEIGHT			592
-Resource		2450
+Resource		6200
 //------------------------------------------------------
 Addon			"Saiga Suppressor (12ga)"
 Silencer		"Saiga"
@@ -849,7 +849,7 @@ SilencingValue	0.2
 ACTOR			"Items\saiga_suppressor.act"
 IMAGE			"saiga_suppressor.e5b"
 WEIGHT			655
-Resource		1000
+Resource		3800
 //------------------------------------------------------
 Addon			"Integrated Silencer RJF (7.62x39mm)"
 Silencer		"built-in"
@@ -859,7 +859,7 @@ SilencingValue	0.88
 ACTOR			"Items\RJF_ZK_SD_silencer.act"
 IMAGE			"val-silencer.e5b"
 WEIGHT			600
-Resource		2300
+Resource		3800
 //------------------------------------------------------
 Addon			"Supressor (5.56 mm)"
 Silencer		"Supressor - 5,56"
@@ -869,7 +869,7 @@ SilencingValue	0.75
 ACTOR			"Items\halo.act"
 IMAGE			"halo.e5b"
 WEIGHT			571
-Resource		2500
+Resource		6100
 //------------------------------------------------------
 Addon			"GemtechM4-96D Suppressor (5.56 mm)"
 Silencer		"Supressor - 5,56"
@@ -879,7 +879,7 @@ SilencingValue	0.74
 ACTOR			"Items\sil556novonovo.act"
 IMAGE			"m4-96d.e5b"
 WEIGHT			560
-Resource		2600
+Resource		6200
 //------------------------------------------------------
 Addon			"GemtechM4-96D Suppressor (.22)"
 Silencer		"Supressor - 22 AR15"
@@ -889,7 +889,7 @@ SilencingValue	0.79
 ACTOR			"Items\sil556novonovo.act"
 IMAGE			"m4-96d.e5b"
 WEIGHT			560
-Resource		2600
+Resource		6300
 //------------------------------------------------------
 Addon			"L85A2 silencer"
 Silencer		"L85A2 Silencer"
@@ -899,7 +899,7 @@ SilencingValue	0.72
 ACTOR			"Items\l85a2_silencer.act"
 IMAGE			"l85-sil.e5b"
 WEIGHT			576
-Resource		2400
+Resource		6200
 //------------------------------------------------------
 Addon			"GemtechM4-96D Suppressor adapted"
 Silencer		"Supressor - 5,56"
@@ -909,7 +909,7 @@ SilencingValue	0.73
 ACTOR			"Items\supressor556.act"
 IMAGE			"m4-96d.e5b"
 WEIGHT			560
-Resource		2500
+Resource		6400
 //------------------------------------------------------
 Addon			"Suppressor M4-2000 (5.56 mm)"
 Silencer		"Supressor - 5,56"
@@ -919,7 +919,7 @@ SilencingValue	0.79
 ACTOR			"Items\M4_2000.act"
 IMAGE			"m4-2000.e5b"
 WEIGHT			611
-Resource		3000
+Resource		6200
 //------------------------------------------------------
 Addon			"Suppressor M4-2000 adapted"
 Silencer		"Supressor - 5,56"
@@ -929,7 +929,7 @@ SilencingValue	0.74
 ACTOR			"Items\M4_2000.act"
 IMAGE			"m4-2000.e5b"
 WEIGHT			528
-Resource		3000
+Resource		6200
 //------------------------------------------------------
 Addon			"Suppressor TGP-A"
 Silencer		"AK"
@@ -939,7 +939,7 @@ SilencingValue	0.81
 ACTOR			"Items\tgp-a.act"
 IMAGE			"tgp-a-sil.e5b"
 WEIGHT			511
-Resource		2450
+Resource		6400
 //------------------------------------------------------
 Addon			"SIG551 Silencer"
 Silencer		"SIG - 7,62"
@@ -949,7 +949,7 @@ SilencingValue	0.76
 ACTOR			"Items\sig551_silencer.act"
 IMAGE			"sig-sil.e5b"
 WEIGHT			621
-Resource		2000
+Resource		6400
 //------------------------------------------------------
 Addon			"UZI Silencer"
 Silencer		"UZI"
@@ -959,7 +959,7 @@ SilencingValue	0.78
 ACTOR			"Items\uzi_silencer.act"
 IMAGE			"uzi-sil.e5b"
 WEIGHT			427
-Resource		2100
+Resource		6200
 //------------------------------------------------------
 Addon			"Suppressor ZA-N-M76"
 Silencer		"M76"
@@ -969,7 +969,7 @@ SilencingValue	0.74
 ACTOR			"Items\za-n-m76.act"
 IMAGE			"za-n-m76.e5b"
 WEIGHT			861
-Resource		2500
+Resource		5100
 //------------------------------------------------------
 Addon			"Insight M3 Tactical Flashlight (BM)"
 Light			"Barrel Mount"
@@ -3557,7 +3557,7 @@ SilencingValue	0.9
 ACTOR			"Items\groza_silencer.act"
 IMAGE			"groza_silencer.e5b"
 WEIGHT			500
-Resource		2300
+Resource		6500
 //------------------------------------------------------
 Addon			"Integr M203B (40mm LV)"
 ILauncher		"built-in"
@@ -3613,7 +3613,7 @@ SilencingValue	0.97
 ACTOR			"None"
 IMAGE			"val-silencer.e5b"
 WEIGHT			0
-Resource		2400
+Resource		6600
 //------------------------------------------------------
 Addon			"Integrated Silencer (MP5SD6)"
 Silencer		"built-in"
@@ -3623,7 +3623,7 @@ SilencingValue	0.96
 ACTOR			"Items\mp5sd6_r_silencer.act"
 IMAGE			"mp5sd6silencer.e5b"
 WEIGHT			0
-Resource		2300
+Resource		6400
 //------------------------------------------------------
 Addon			"kc23butt"
 Stock			"built-in"
@@ -5472,7 +5472,7 @@ SilencingValue	0.99
 ACTOR			"Items\pss_silencer.act"
 IMAGE			"pss.e5b"
 WEIGHT			0
-Resource		1200
+Resource		6000
 //------------------------------------------------------
 Addon			"rg-6 butt"
 Stock			"built-in"
@@ -5587,7 +5587,7 @@ SilencingValue	0.96
 ACTOR			"Items\hkmp5sdsil.act"
 IMAGE			"mp5sd6silencer.e5b"
 WEIGHT			0
-Resource		2300
+Resource		6400
 //------------------------------------------------------
 Addon			"sig550Butt"
 Stock			"built-in"
@@ -5696,7 +5696,7 @@ SilencingValue	0.88
 ACTOR			"Items\svu_silencer.act"
 IMAGE			"svu_silencer.e5b"
 WEIGHT			0
-Resource		2500
+Resource		5700
 //------------------------------------------------------
 Addon			"M203 AK (40mm LV)"
 ILauncher		"GP-30"
@@ -6588,7 +6588,7 @@ SilencingValue	0.96
 ACTOR			"Items\k7novasil.act"
 IMAGE			"RJF_silencer.e5b"
 WEIGHT			0
-Resource		2200
+Resource		6100
 //------------------------------------------------------
 Addon			"Silencer PM2"
 Silencer		"built-in"
@@ -6598,7 +6598,7 @@ SilencingValue	0.96
 ACTOR			"Items\k7novasilpindad.act"
 IMAGE			"RJF_silencer.e5b"
 WEIGHT			0
-Resource		2200
+Resource		6000
 //------------------------------------------------------
 Addon			"Kpist M45 Butt"
 Stock			"built-in"
@@ -7434,7 +7434,7 @@ SilencingValue	0.97
 ACTOR			"Items\badgersilencer.act"
 IMAGE			"mp5sd6silencer.e5b"
 WEIGHT			0
-Resource		2500
+Resource		6300
 //------------------------------------------------------
 Addon			"VSSKSilencer"
 Silencer		"built-in"
@@ -7444,7 +7444,7 @@ SilencingValue	0.88
 ACTOR			"Items\vssksilencer.act"
 IMAGE			"bizon_silencer.e5b"
 WEIGHT			0
-Resource		2300
+Resource		4900
 //------------------------------------------------------
 Addon			"AK_5_butt_open"
 Stock			"built-in"
@@ -7878,7 +7878,7 @@ SilencingValue	0.80
 ACTOR			"Items\cavert_sil.act"
 IMAGE			"mac10_silencer.e5b"
 WEIGHT			3000
-Resource		6000
+Resource		5600
 //------------------------------------------------------
 Addon			"Covert-butt-folded"
 Stock			"built-in"

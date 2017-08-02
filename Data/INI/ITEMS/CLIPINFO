@@ -1729,8 +1729,8 @@ DEFAMMO  "9x19 FMJ Ball"
 
 
 //9x23mm Largo
-BOX  "Ammo box (9x23mm HP)""9x23mm HP"50 "Items\9x23mmFMJ.act""boxlargo.e5b"
-BOX  "Ammo box (9x23mm FMJ)""9x23mm FMJ"50 "Items\9x23mmHP.act""boxlargo.e5b"
+BOX  "Ammo box (9x23mm HP)""9x23mm HP"50 "Items\9x23mmHP.act""boxlargo.e5b"
+BOX  "Ammo box (9x23mm FMJ)""9x23mm FMJ"50 "Items\9x23mmFMJ.act""boxlargo.e5b"
 
 BOX  "Ammo box 500 (9x23mm HP)""9x23mm HP"500 "Items\cajamun_200x762.act""cajamun_200x762.e5b"
 BOX  "Ammo box 500 (9x23mm FMJ)""9x23mm FMJ"500 "Items\cajamun_1kx919.act""cajamun_1kx919.e5b"
