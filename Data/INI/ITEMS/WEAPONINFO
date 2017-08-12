@@ -13442,7 +13442,7 @@ Class			Pistol
 Caliber			".357 Magnum"
 Weight			1600
 PrepareTime		0.223
-SingleFireTime	2.0
+SingleFireTime	0.72
 BurstFireTime	0.12
 SpeedModifier	1.03
 Resource		2200
@@ -58801,10 +58801,10 @@ PrepareTime		0.27
 SingleFireTime	0.66
 BurstFireTime	0.08
 SpeedModifier	0.97
-Resource		2400
-DirtResource	180000
+Resource		4500
+DirtResource	280000
 MisfireProb		0.0015
-HeatCapacity	105
+HeatCapacity	110
 Single			1
 Burst			1
 CutOff			0
