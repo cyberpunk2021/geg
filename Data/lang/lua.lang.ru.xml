@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<strings>
+    <str id="lang/lua/ammo/clean">Чистить и сортировать</str>
+
+    <str id="lang/lua/boxes/take">Взять </str>
+
+    <str id="lang/lua/camouflage/paint_count">%.2f частей краски</str>
+    <str id="lang/lua/camouflage/uniform_count">%.2f частей униформы</str>
+    <str id="lang/lua/camouflage/requires">Для ремонта требуется </str>
+    <str id="lang/lua/camouflage/requires/and"> и </str>
+    <str id="lang/lua/camouflage/make">Создать камуфляж</str>
+
+    <str id="lang/lua/clip_mount/error">ERROR#001. Обратитесь к разработчикам.</str>
+    <str id="lang/lua/clip_mount/no_second_clip">Нет второго магазина для монтирования.</str>
+    <str id="lang/lua/clip_mount/unload_both_required">Нужно разрядить оба магазина!</str>
+    <str id="lang/lua/clip_mount/unload_required">Нужно разрядить магазин!</str>
+    <str id="lang/lua/clip_mount/split">Разделить</str>
+
+    <str id="lang/lua/compare/mix_alcohol_wtf">Смешать? Зачем!?</str>
+
+    <str id="lang/lua/containers/take_knife">Вытащить нож</str>
+    <str id="lang/lua/containers/put_knife">Убрать нож</str>
+
+    <str id="lang/lua/craft/need_hammer">Нужен молоток из ящика с инструментами!</str>
+    <str id="lang/lua/craft/need_nails">Нужны гвозди (%dшт)!</str>
+    <str id="lang/lua/craft/cant_craft_box">Не получается сколотить ящик.</str>
+    <str id="lang/lua/craft/place_sack">Установить мешок</str>
+    <str id="lang/lua/craft/place_sandbags">Установить мешки</str>
+    <str id="lang/lua/craft/place_fence">Установить заграждение</str>
+    <str id="lang/lua/craft/forgery/cant_craft">Ничего не получается!</str>
+    <str id="lang/lua/craft/forgery/success/1">Потертое - как настоящее!</str>
+    <str id="lang/lua/craft/forgery/success/2">Добро пожаловать на службу!</str>
+    <str id="lang/lua/craft/forgery/fail">Запорол образец!</str>
+    <str id="lang/lua/craft/car_tube/cut_into_pieces">Разрезать на части</str>
+    <str id="lang/lua/craft/rubber/cut_into_patches">Разрезать на круглые латки</str>
+    <str id="lang/lua/craft/dig">Копать</str>
+    <str id="lang/lua/craft/place">Поставить</str>
+    <str id="lang/lua/craft/build_fence">Строить заграждение</str>
+    <str id="lang/lua/craft/craft_box">Сколотить ящик</str>
+    <str id="lang/lua/craft/cut_sticks">Настрогать колышков</str>
+    <str id="lang/lua/craft/cut_gold/turtle">Распилить</str>
+    <str id="lang/lua/craft/cut_gold/6">Распилить (6)</str>
+    <str id="lang/lua/craft/cut_gold/3">Распилить (3)</str>
+    <str id="lang/lua/craft/cut_gold/break">Разломать</str>
+    <str id="lang/lua/craft/forge_papers">Подделать документ</str>
+    <str id="lang/lua/craft/tape_required">Нужна изолента!</str>
+    <str id="lang/lua/craft/wire_required">Нужна проволока!</str>
+
+    <str id="lang/lua/discovery/prompt">Вы уверены, что хотите детально изучить это оружие? (руководство будет использовано наёмником и станет недоступно)</str>
+
+    <str id="lang/lua/editor/cant_replace_fore-end">Не получается заменить цевьё.</str>
+    <str id="lang/lua/editor/cant_replace_butt">Не удаётся заменить приклад.</str>
+    <str id="lang/lua/editor/cant_toggle_bayonet">Не получается изменить положение штыка.</str>
+    <str id="lang/lua/editor/cant_toggle_bipods">Не получается изменить положение сошек.</str>
+    <str id="lang/lua/editor/replace_fore-end">Заменить цевьё на оружии в руках</str>
+    <str id="lang/lua/editor/replace_butt">Заменить приклад на оружии в руках</str>
+    <str id="lang/lua/editor/fold">Сложить</str>
+    <str id="lang/lua/editor/unfold">Разложить</str>
+    <str id="lang/lua/editor/detach_bayonet">Отсоединить штык</str>
+    <str id="lang/lua/editor/detach_bipods">Отсоединить сошки</str>
+    <str id="lang/lua/editor/detach_butt">Отсоединить приклад</str>
+
+    <str id="lang/lua/fptb/cant_detach_handle">Не получается снять рукоятку.</str>
+    <str id="lang/lua/fptb/need_to_handle_weapon">Нужно взять оружие в руки!</str>
+    <str id="lang/lua/fptb/no_matching_barrel">Нет подходящего ствола.</str>
+    <str id="lang/lua/fptb/cant_detach_barrel">Не получается снять ствол.</str>
+    <str id="lang/lua/fptb/detach_barrel">Снять тактический ствол</str>
+    <str id="lang/lua/fptb/detach_handle">Снять рукоятку</str>
+
+    <str id="lang/lua/iteminfo/tm/days"> д.</str>
+    <str id="lang/lua/iteminfo/tm/hours"> ч.</str>
+    <str id="lang/lua/iteminfo/tm/min"> мин.</str>
+    <str id="lang/lua/iteminfo/tm/sec"> сек.</str>
+    <str id="lang/lua/iteminfo/nails_left">Осталось: %d шт.</str>
+    <str id="lang/lua/iteminfo/eldo_suffix"> эльдо</str>
+    <str id="lang/lua/iteminfo/item_name_unknown">Название: -</str>
+    <str id="lang/lua/iteminfo/caliber">Калибр: </str>
+    <str id="lang/lua/iteminfo/clip_rounds">Емкость штатного магазина: </str>
+    <str id="lang/lua/iteminfo/effective_range">Эффективная дальность стрельбы, метров: </str>
+    <str id="lang/lua/iteminfo/fire_rate">Боевая скорострельность, выстрелов в минуту: </str>
+    <str id="lang/lua/iteminfo/doublet">Возможна стрельба одновременно из двух стволов (дуплет)</str>
+    <str id="lang/lua/iteminfo/burst_rate">Темп автоматической стрельбы, выстрелов в минуту: </str>
+    <str id="lang/lua/iteminfo/heat_capacity">Выстрелов до перегрева: </str>
+    <str id="lang/lua/iteminfo/burst_hit_start">Влияние отдачи: с %s патрона</str>
+    <str id="lang/lua/iteminfo/misfire_prob">Статистическая вероятность осечки: %s%%</str>
+    <str id="lang/lua/iteminfo/upgrades">Особенности: </str>
+    <str id="lang/lua/iteminfo/compatible_silencers">Можно установить следующие глушители:</str>
+    <str id="lang/lua/iteminfo/compatible_weapons">Подходит к оружию:</str>
+    <str id="lang/lua/iteminfo/camouflage">Маскировка:</str>
+    <str id="lang/lua/iteminfo/camouflage/city">  В городе:   </str>
+    <str id="lang/lua/iteminfo/camouflage/jung">  В джунглях: </str>
+    <str id="lang/lua/iteminfo/camouflage/invalid">Не имеет маскировочных свойств</str>
+    <str id="lang/lua/iteminfo/used_to">Использовано: %d/%d</str>
+    <str id="lang/lua/iteminfo/lower_adrenaline">Снижение уровня адреналина на </str>
+    <str id="lang/lua/iteminfo/heals_injury">Лечит травмы</str>
+    <str id="lang/lua/iteminfo/replenish_energy">Восстанавливает силы</str>
+    <str id="lang/lua/iteminfo/quality">Качество: </str>
+    <str id="lang/lua/iteminfo/quality/100">Качество: ~ 100%</str>
+    <str id="lang/lua/iteminfo/owner">Владелец: </str>
+	
+	<!-- GEG LABELS -->
+	
+    <str id="lang/lua/iteminfo/GEG_fullautoacc">Полная автоматическая обработка: </str>
+    <str id="lang/lua/iteminfo/GEG_outstanding"> (выдающийся)</str>
+    <str id="lang/lua/iteminfo/GEG_excellent"> (Отлично)</str>
+    <str id="lang/lua/iteminfo/GEG_great"> (большой)</str>
+    <str id="lang/lua/iteminfo/GEG_verygood"> (Очень хорошо)</str>
+    <str id="lang/lua/iteminfo/GEG_good"> (Хорошо)</str>
+    <str id="lang/lua/iteminfo/GEG_average"> (регулярное)</str>
+    <str id="lang/lua/iteminfo/GEG_bad"> (Плохо)</str>
+    <str id="lang/lua/iteminfo/GEG_verybad"> (Очень плохо)</str>
+    <str id="lang/lua/iteminfo/GEG_awful"> (ужасный)</str>
+	
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_equal">Эти боеприпасы деградируют и перегревают оружие по стандартной ставке.</str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_pre">Эти боеприпасы деградируют и перегревают оружие </str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_more">% быстрее.</str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_less">% медленнее.</str>
+	
+	<!-- GEG LABELS END -->
+
+    <str id="lang/lua/law/labels/0">Схожий с оружием предмет</str>
+    <str id="lang/lua/law/labels/1">Гражданское</str>
+    <str id="lang/lua/law/labels/2">Охотничье</str>
+    <str id="lang/lua/law/labels/3">Служебное</str>
+    <str id="lang/lua/law/labels/4">Военное</str>
+    <str id="lang/lua/law/labels/5">Специальное</str>
+    <str id="lang/lua/law/labels/6">Нелегальное</str>
+
+    <str id="lang/lua/law_police/pcs">шт.</str>
+    <str id="lang/lua/law_police/sector_name">Саграда</str>
+    <str id="lang/lua/law_police/car_arrested">Документы на транспортное средство отсутствуют. Транспортное средство арестовано до выяснения обстоятельств.^</str>
+    <str id="lang/lua/law_police/check_finished">Проверка транспорта завершена.</str>
+
+    <str id="lang/lua/mines/comment/oops">Упс...</str>
+    <str id="lang/lua/mines/comment/book">Да, с книжкой куда проще</str>
+    <str id="lang/lua/mines/comment/lucky">Фух, пронесло! Надо быть поосторожнее!</str>
+    <str id="lang/lua/mines/tape_required">Нужна изолента</str>
+    <str id="lang/lua/mines/mine_damaged">Хватит экспериментов, эта мина уже окончательно испорчена</str>
+    <str id="lang/lua/mines/need_to_handle">Хорошо бы для начала взять в руки</str>
+    <str id="lang/lua/mines/cant_attach_bunch">Что, прям сразу пачку взрывателей навесить? [крутит пальцем у виска]</str>
+    <str id="lang/lua/mines/not_enough_skill">А что тут делать-то? Не разберусь, нужен кто-то поопытнее...</str>
+    <str id="lang/lua/mines/detach_fuse">Снять взрыватель</str>
+    <str id="lang/lua/mines/repair">Восстановить</str>
+
+    <str id="lang/lua/money_case/1k">1000</str>
+    <str id="lang/lua/money_case/10k">10 тыс.</str>
+    <str id="lang/lua/money_case/100k">100 тыс.</str>
+    <str id="lang/lua/money_case/put_prefix">Положить </str>
+    <str id="lang/lua/money_case/eldo_suffix"> эльдо</str>
+    <str id="lang/lua/money_case/take_prefix">Взять </str>
+    <str id="lang/lua/money_case/take_all">Взять все деньги</str>
+
+    <str id="lang/lua/notebook/error">ERROR#002. Обратитесь к разработчикам.</str>
+    <str id="lang/lua/notebook/curious">Кое что интересное...</str>
+    <str id="lang/lua/notebook/cant_put_multiple">Все сразу не влазят. Может, молотком забить?</str>
+    <str id="lang/lua/notebook/cd_damaged">Диск сильно поцарапан. Это займет какое-то время.</str>
+    <str id="lang/lua/notebook/cd_heavily_damaged">Диск практически убит. Прийдется сильно постараться, чтобы прочитать его.</str>
+    <str id="lang/lua/notebook/low_battery">Батарея слишком разряжена.</str>
+    <str id="lang/lua/notebook/nothing_useful">Ничего интересного, только время зря потрачено.</str>
+    <str id="lang/lua/notebook/cant_read_hackers_cd">Хакерский диск не читается. Может, сделать копию?</str>
+    <str id="lang/lua/notebook/cd_encrypted">Что-то есть, но запаролено или закодировано. Нужны специальные программы.</str>
+    <str id="lang/lua/notebook/hint/empty_cd">Нужен чистый диск.</str>
+    <str id="lang/lua/notebook/hint/tool">Без ноутбука копию не сделать.</str>
+    <str id="lang/lua/notebook/error2">ERROR#001. Обратитесь к разработчикам.</str>
+    <str id="lang/lua/notebook/result/good">Не идеально, но лучше, чем было.</str>
+    <str id="lang/lua/notebook/result/very_good">Почти как новый.</str>
+    <str id="lang/lua/notebook/recover_cd">Восстановить</str>
+
+    <str id="lang/lua/packing/required">Требуется %d комплектов формы.</str>
+    <str id="lang/lua/packing/pack">Упаковать</str>
+
+    <str id="lang/lua/selecting/required">Требуется %d аналогичных экземпляров.</str>
+    <str id="lang/lua/selecting/required_papers">Необходимо техническое руководство </str>
+    <str id="lang/lua/selecting/required_tool">Требуется набор для чистки.</str>
+    <str id="lang/lua/selecting/craft">Собрать один образец из партии</str>
+
+    <str id="lang/lua/tuning/fail">Ничего не получится.</str>
+    <str id="lang/lua/tuning/cant_replace_fore-end">Не получается заменить цевьё.</str>
+    <str id="lang/lua/tuning/cant_replace_butt">Не удаётся заменить приклад.</str>
+    <str id="lang/lua/tuning/cant_toggle_bayonet">Не получается изменить положение штыка.</str>
+    <str id="lang/lua/tuning/cant_toggle_bipods">Не получается изменить положение сошек.</str>
+    <str id="lang/lua/tuning/cut_barrel">Сделать обрез</str>
+    <str id="lang/lua/tuning/replace_for-end">Заменить цевьё на оружии в руках</str>
+    <str id="lang/lua/tuning/mount">Монтировать на оружие в руках</str>
+    <str id="lang/lua/tuning/replace_butt">Заменить приклад на оружии в руках</str>
+    <str id="lang/lua/tuning/fold">Сложить</str>
+    <str id="lang/lua/tuning/unfold">Разложить</str>
+    <str id="lang/lua/tuning/fold_bipods">Сложить сошки</str>
+    <str id="lang/lua/tuning/unfold_bipods">Разложить сошки</str>
+
+    <str id="lang/lua/using_items/adapt_for">Адаптировать под </str>
+    <str id="lang/lua/using_items/disassembly_medkit">Разделить аптечку на составляющие?</str>
+    <str id="lang/lua/using_items/fail">Не получается.</str>
+    <str id="lang/lua/using_items/take_in_hands">Неудобно! Нужно освободить предмет и взять в руки.</str>
+    <str id="lang/lua/using_items/take_in_hands2">Неудобно! Нужно взять предмет в руки.</str>
+    <str id="lang/lua/using_items/adapt_prompt">Хотите адаптировать этот ящик для хранения аналогичных предметов? (Содержимое будет утеряно)</str>
+    <str id="lang/lua/using_items/tools_required">Ничего не получится. Нужны инструменты.</str>
+    <str id="lang/lua/using_items/unpack">Распаковать</str>
+    <str id="lang/lua/using_items/raise_nvg">Поднять</str>
+    <str id="lang/lua/using_items/lower_nvg">Опустить</str>
+    <str id="lang/lua/using_items/pour">Вылить</str>
+    <str id="lang/lua/using_items/unpack_box">Распечатать ящик</str>
+    <str id="lang/lua/using_items/throw_out">Вытряхнуть всё</str>
+    <str id="lang/lua/using_items/unfold_sack">Развернуть</str>
+    <str id="lang/lua/using_items/fold_sack">Свернуть</str>
+    <str id="lang/lua/using_items/pack">Упаковать</str>
+    <str id="lang/lua/using_items/remove_pouch">Снять подсумок</str>
+    <str id="lang/lua/using_items/cleanup_all">Почистить всё</str>
+    <str id="lang/lua/using_items/cleanup_all_in_car">Почистить всё в машине</str>
+
+    <str id="lang/lua/map_loot/stash_name">Схрон</str>
+    <str id="lang/lua/map_loot/stash_prompt">На земле остались предметы!\nЖелаете оставить схрон?</str>
+    <str id="lang/lua/map_loot/destroy_stash_prompt">Вы уверены что хотите уничтожить все предметы в схроне?</str>
+    <str id="lang/lua/map_loot/open_stash">Открыть схрон</str>
+    <str id="lang/lua/map_loot/put_in_stash">Сложить предметы в схрон</str>
+    <str id="lang/lua/map_loot/put_stash_in_car">Переложить схрон в багажник</str>
+    <str id="lang/lua/map_loot/destroy_stash">Уничтожить схрон</str>
+
+    <str id="lang/lua/actions/low_skill">Ничего не получится! Навык взрывотехники слишком низкий.</str>
+    <str id="lang/lua/actions/fire_in_the_hole">Все назад! Fire in the hole!</str>
+    <str id="lang/lua/actions/low_mechanic_skill">Ничего не получится! Навык механики слишком низкий.</str>
+    <str id="lang/lua/actions/closed">Заперто!</str>
+    <str id="lang/lua/actions/twig/missed">Промах. В следующий раз нужно лучше целиться.</str>
+    <str id="lang/lua/actions/twig/low_skill">Не получается. Силы не хватает.</str>
+    <str id="lang/lua/actions/twig/comment/1">Нужно ловко метнуть, чтобы попасть.</str>
+    <str id="lang/lua/actions/twig/comment/2">Трясти пальму бесполезно. Лучше поискать другой способ.</str>
+    <str id="lang/lua/actions/wheels/comment/1">Девчонка бы час тут ковырялась.</str>
+    <str id="lang/lua/actions/wheels/comment/2">Если приложить больше усилий, то можно вырезать кусок побольше...</str>
+    <str id="lang/lua/actions/wheels/comment/3">Надо попробовать чем то острым.</str>
+    <str id="lang/lua/actions/metal/comment/1">Хорошая работа.</str>
+    <str id="lang/lua/actions/metal/comment/2">Нужно было ножовку взять.</str>
+    <str id="lang/lua/actions/wheel_u/comment/1">Хорошая работа.</str>
+    <str id="lang/lua/actions/wheel_u/comment/2">Для этого дела можно было бы инструмент получше взять.</str>
+    <str id="lang/lua/actions/wheel_u/comment/3">С инструментами было бы быстрее.</str>
+    <str id="lang/lua/actions/mining/comment/1">Тяжелая хрень...</str>
+    <str id="lang/lua/actions/mining/comment/2">Может набрать этой породы? Нужна лопата.</str>
+    <str id="lang/lua/actions/toilet/comment/1">Заперто.</str>
+    <str id="lang/lua/actions/toilet/comment/2">Тайник! А в нем набор для посещения открытой зоны!</str>
+    <str id="lang/lua/actions/toilet/comment/3">Какой хитрый тайник, а в нем набор посещения открытой зоны...</str>
+    <str id="lang/lua/actions/toilet/comment/4">Вскроем!</str>
+    <str id="lang/lua/actions/toilet/comment/5">Пусто!</str>
+    <str id="lang/lua/actions/fill_with_water">Наполнить водой</str>
+    <str id="lang/lua/actions/pour_water">Вылить воду</str>
+    <str id="lang/lua/actions/fry_meat">Жарить мясо</str>
+    <str id="lang/lua/actions/fry_fish">Жарить рыбу</str>
+    <str id="lang/lua/actions/siphon_fuel">Слить бензин</str>
+    <str id="lang/lua/actions/examine_car">Осмотреть</str>
+    <str id="lang/lua/actions/throw_twig">Бросить палку</str>
+    <str id="lang/lua/actions/palm">Пальма</str>
+    <str id="lang/lua/actions/cut_car_tube">Вырезать камеру</str>
+    <str id="lang/lua/actions/check_car_tube">Проверить</str>
+    <str id="lang/lua/actions/use_toilet">Оправиться</str>
+    <str id="lang/lua/actions/lockpick_cache">Вскрыть тайник</str>
+    <str id="lang/lua/actions/saw_metal">Отпилить металлическую дверцу</str>
+    <str id="lang/lua/actions/break_metal">Выломать</str>
+    <str id="lang/lua/actions/mining">Набрать мешок породы</str>
+    <str id="lang/lua/actions/examine_ore">Осмотреть</str>
+    <str id="lang/lua/actions/dismount_wheel_with_tools">Снять колесо при помощи инструментов</str>
+    <str id="lang/lua/actions/dismount_wheel">Снять колесо подручными средствами</str>
+    <str id="lang/lua/actions/fruit_tree">Фруктовое дерево</str>
+    <str id="lang/lua/actions/open_safe">Открыть сейф</str>
+    <str id="lang/lua/actions/open_safe_with_key">Открыть сейф ключом</str>
+    <str id="lang/lua/actions/open_safe_with_tnt">Заложить взрывчатку</str>
+    <str id="lang/lua/actions/open_safe_with_tools">Вскрыть замок при помощи инструментов</str>
+    <str id="lang/lua/actions/safe">Сейф</str>
+    <str id="lang/lua/actions/open_warehouse">Открыть склад</str>
+    <str id="lang/lua/actions/open_warehouse_with_key">Открыть дверь ключом</str>
+    <str id="lang/lua/actions/open_warehouse_with_tools">Вскрыть замок при помощи инструментов</str>
+    <str id="lang/lua/actions/warehouse_door">Дверь</str>
+    <str id="lang/lua/actions/refuel_car_wtf">Залить туда? Зачем?!</str>
+    <str id="lang/lua/actions/can_siphon_fuel">Бак не пустой. Здесь можно поживиться!</str>
+    <str id="lang/lua/actions/cant_get_twig">Ничего не получится. Слишком трудно.</str>
+    <str id="lang/lua/actions/toilet_comment">Хорошо то как! Цивилизация блин, не то что в джунглях.</str>
+    <str id="lang/lua/actions/search_food">Порыться в поисках пищи</str>
+    <str id="lang/lua/actions/break_wood">Ломать</str>
+    <str id="lang/lua/actions/examine_something">Обыскать</str>
+    <str id="lang/lua/actions/tickets">Касса</str>
+    <str id="lang/lua/actions/phone">Телефонная будка</str>
+
+    <str id="lang/lua/events/well_bodies">Однако, %s</str>
+    <str id="lang/lua/events/well_bodies/1">%d труп</str>
+    <str id="lang/lua/events/well_bodies/2">%d трупа</str>
+    <str id="lang/lua/events/well_bodies/3">%d трупов</str>
+
+    <str id="lang/lua/trader/stock">Склад</str>
+    <str id="lang/lua/trader/unmarketable">Неликвид</str>
+</strings>

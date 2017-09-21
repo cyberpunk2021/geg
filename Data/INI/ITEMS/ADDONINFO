@@ -3636,7 +3636,7 @@ Resource		0
 Addon			"kc23butt_folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"None"
+ACTOR			"Items\KC-23MBUTT_FOLDED.ACT"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -8457,7 +8457,7 @@ Resource		0
 Addon			"CheyTac bipod Folded"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\CheyTac_bipodfolded.act"
+ACTOR			"Items\cheytacbipod_folded.act"
 IMAGE			"CheyTac_bipod.e5b"
 WEIGHT			1000
 Resource		0

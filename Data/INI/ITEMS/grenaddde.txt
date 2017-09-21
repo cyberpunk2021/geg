@@ -1,0 +1,8 @@
+﻿Grens:
+The 1st number is number of fragments produced. 
+The 2nd is the relative size of the fragments produced- the defensive like M26/M61 has larger chunks than the offensive likeRGN/РГН.
+The 3rd and 4th are the radii (in meters) of the explosion and fragmentation killing zones respectively.
+The 5th is relative power of the explosive - obviously, the concussive Mk3 has more raw explosive force than the fragmentation M26/M61.
+The 6th and 7th are... something about shock and smoke?
+The 8th and 9th are minumum and maximum delay fuze times respectively. The first two examples use the same type of fuze so they have anywhere from 4 to 6 seconds
+until detonation.

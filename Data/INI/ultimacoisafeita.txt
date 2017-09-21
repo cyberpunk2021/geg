@@ -540,3 +540,15 @@ end
 loadLawData()
 
 RegisterItemLawStringHandler(GetLawStrForItem)
+
+
+
+
+
+
+
+++++++++++++++
+
+
+
+parei em 7.62x25mm

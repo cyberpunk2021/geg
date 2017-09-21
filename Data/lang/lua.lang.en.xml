@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<strings>
+    <str id="lang/lua/ammo/clean">Clean and sort</str>
+
+    <str id="lang/lua/boxes/take">Take </str>
+
+    <str id="lang/lua/camouflage/paint_count">%.2f paint parts</str>
+    <str id="lang/lua/camouflage/uniform_count">%.2f uniform parts</str>
+    <str id="lang/lua/camouflage/requires">Repair requires </str>
+    <str id="lang/lua/camouflage/requires/and"> and </str>
+    <str id="lang/lua/camouflage/make">Create camouflage outfit</str>
+
+    <str id="lang/lua/clip_mount/error">ERROR#001. Tell the devs about it.</str>
+    <str id="lang/lua/clip_mount/no_second_clip">There's no second magazine!</str>
+    <str id="lang/lua/clip_mount/unload_both_required">Both magazines must be empty!</str>
+    <str id="lang/lua/clip_mount/unload_required">The magazine must be empty!</str>
+    <str id="lang/lua/clip_mount/split">Split</str>
+
+    <str id="lang/lua/compare/mix_alcohol_wtf">Mix? But why!?</str>
+
+    <str id="lang/lua/containers/take_knife">Pull out knife</str>
+    <str id="lang/lua/containers/put_knife">Hide knife</str>
+
+    <str id="lang/lua/craft/need_hammer">I need a hammer from the tool box!</str>
+    <str id="lang/lua/craft/need_nails">I need %d nails!</str>
+    <str id="lang/lua/craft/cant_craft_box">I can't craft a crate.</str>
+    <str id="lang/lua/craft/place_sack">Place sack</str>
+    <str id="lang/lua/craft/place_sandbags">Place sandbags</str>
+    <str id="lang/lua/craft/place_fence">Place fence</str>
+    <str id="lang/lua/craft/forgery/cant_craft">I can't do it.</str>
+    <str id="lang/lua/craft/forgery/success/1">A little worn, just like the real thing!</str>
+    <str id="lang/lua/craft/forgery/success/2">Welcome to the Army!</str>
+    <str id="lang/lua/craft/forgery/fail">I messed up!</str>
+    <str id="lang/lua/craft/car_tube/cut_into_pieces">Cut for parts</str>
+    <str id="lang/lua/craft/rubber/cut_into_patches">Cut into rubber patches</str>
+    <str id="lang/lua/craft/dig">Dig</str>
+    <str id="lang/lua/craft/place">Place</str>
+    <str id="lang/lua/craft/build_fence">Build a fence</str>
+    <str id="lang/lua/craft/craft_box">Make a crate</str>
+    <str id="lang/lua/craft/cut_sticks">Saw into wood stakes</str>
+    <str id="lang/lua/craft/cut_gold/turtle">Saw off</str>
+    <str id="lang/lua/craft/cut_gold/6">Saw off (6)</str>
+    <str id="lang/lua/craft/cut_gold/3">Saw off (3)</str>
+    <str id="lang/lua/craft/cut_gold/break">Break off</str>
+    <str id="lang/lua/craft/forge_papers">Forge document</str>
+    <str id="lang/lua/craft/tape_required">Duct tape is needed!</str>
+    <str id="lang/lua/craft/wire_required">Wire is needed!</str>
+
+    <str id="lang/lua/discovery/prompt">Are you sure you want to study this weapon in detail? The manual will be used by the merc and will be lost.</str>
+
+    <str id="lang/lua/editor/cant_replace_fore-end">Can't replace the weapon's handguard.</str>
+    <str id="lang/lua/editor/cant_replace_butt">Can't replace the weapon's stock.</str>
+    <str id="lang/lua/editor/cant_toggle_bayonet">Can't change the bayonet's position.</str>
+    <str id="lang/lua/editor/cant_toggle_bipods">Can't change the bipod's position.</str>
+    <str id="lang/lua/editor/replace_fore-end">Replace handguard on the weapon being carried</str>
+    <str id="lang/lua/editor/replace_butt">Replace stock on the weapon being carried</str>
+    <str id="lang/lua/editor/fold">Fold stock</str>
+    <str id="lang/lua/editor/unfold">Unfold stock</str>
+    <str id="lang/lua/editor/detach_bayonet">Remove bayonet</str>
+    <str id="lang/lua/editor/detach_bipods">Remove bipod</str>
+    <str id="lang/lua/editor/detach_butt">Remove stock</str>
+
+    <str id="lang/lua/fptb/cant_detach_handle">Can't remove the tactical grip.</str>
+    <str id="lang/lua/fptb/need_to_handle_weapon">A weapon must be carried in hands!</str>
+    <str id="lang/lua/fptb/no_matching_barrel">No compatible barrel.</str>
+    <str id="lang/lua/fptb/cant_detach_barrel">Can't remove the barrel.</str>
+    <str id="lang/lua/fptb/detach_barrel">Detach the threaded barrel</str>
+    <str id="lang/lua/fptb/detach_handle">Detach the foregrip</str>
+
+    <str id="lang/lua/iteminfo/tm/days"> d.</str>
+    <str id="lang/lua/iteminfo/tm/hours"> h.</str>
+    <str id="lang/lua/iteminfo/tm/min"> min.</str>
+    <str id="lang/lua/iteminfo/tm/sec"> sec.</str>
+    <str id="lang/lua/iteminfo/nails_left">Remaining: %d pcs.</str>
+    <str id="lang/lua/iteminfo/eldo_suffix"> eldo</str>
+    <str id="lang/lua/iteminfo/item_name_unknown">Name: -</str>
+    <str id="lang/lua/iteminfo/caliber">Caliber: </str>
+    <str id="lang/lua/iteminfo/clip_rounds">Default magazine capacity: </str>
+    <str id="lang/lua/iteminfo/effective_range">Effective range (meters): </str>
+    <str id="lang/lua/iteminfo/fire_rate">Combat rate of fire (RPM): </str>
+    <str id="lang/lua/iteminfo/doublet">Can shoot barrels simultaneously</str>
+    <str id="lang/lua/iteminfo/burst_rate">Cyclic rate of fire (RPM): </str>
+    <str id="lang/lua/iteminfo/heat_capacity">Shots until overheating: </str>
+    <str id="lang/lua/iteminfo/burst_hit_start">Burst affects accuracy: from %s shot</str>
+    <str id="lang/lua/iteminfo/misfire_prob">Average jam probability: %s%%</str>
+    <str id="lang/lua/iteminfo/upgrades">Features: </str>
+    <str id="lang/lua/iteminfo/compatible_silencers">Compatible suppressors:</str>
+    <str id="lang/lua/iteminfo/compatible_weapons">Compatible weapons:</str>
+    <str id="lang/lua/iteminfo/camouflage">Camouflage:</str>
+    <str id="lang/lua/iteminfo/camouflage/city">  Urban:   </str>
+    <str id="lang/lua/iteminfo/camouflage/jung">  Jungle:  </str>
+    <str id="lang/lua/iteminfo/camouflage/invalid">Does not have camouflage feature</str>
+    <str id="lang/lua/iteminfo/used_to">Used: %d/%d</str>
+    <str id="lang/lua/iteminfo/lower_adrenaline">Adrenaline reduction </str>
+    <str id="lang/lua/iteminfo/heals_injury">Heals injuries</str>
+    <str id="lang/lua/iteminfo/replenish_energy">Replenishes stamina</str>
+    <str id="lang/lua/iteminfo/quality">Quality : </str>
+    <str id="lang/lua/iteminfo/quality/100">Quality: ~ 100%</str>
+    <str id="lang/lua/iteminfo/owner">Owner: </str>
+	
+	<!-- GEG LABELS -->
+	
+    <str id="lang/lua/iteminfo/GEG_fullautoacc">Full auto handling: </str>
+    <str id="lang/lua/iteminfo/GEG_outstanding"> (Outstanding)</str>
+    <str id="lang/lua/iteminfo/GEG_excellent"> (Excellent)</str>
+    <str id="lang/lua/iteminfo/GEG_great"> (Great)</str>
+    <str id="lang/lua/iteminfo/GEG_verygood"> (Very good)</str>
+    <str id="lang/lua/iteminfo/GEG_good"> (Good)</str>
+    <str id="lang/lua/iteminfo/GEG_average"> (Average)</str>
+    <str id="lang/lua/iteminfo/GEG_bad"> (Bad)</str>
+    <str id="lang/lua/iteminfo/GEG_verybad"> (Very bad)</str>
+    <str id="lang/lua/iteminfo/GEG_awful"> (Terrible)</str>
+	
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_equal">This ammunition degrades and overheats the weapon at the standard rate.</str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_pre">This ammunition degrades and overheats the weapon </str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_more">% faster.</str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_less">% slower.</str>
+	
+	<!-- GEG LABELS END -->
+
+    <str id="lang/lua/law/labels/0">Similar to weapon object</str>
+    <str id="lang/lua/law/labels/1">Civilian</str>
+    <str id="lang/lua/law/labels/2">Hunting</str>
+    <str id="lang/lua/law/labels/3">Police</str>
+    <str id="lang/lua/law/labels/4">Military</str>
+    <str id="lang/lua/law/labels/5">Special Forces</str>
+    <str id="lang/lua/law/labels/6">Prohibited</str>
+
+    <str id="lang/lua/law_police/pcs">pcs.</str>
+    <str id="lang/lua/law_police/sector_name">Sargada</str>
+    <str id="lang/lua/law_police/car_arrested">Vehicle papers are missing. The vehicle will be seized for investigation.^</str>
+    <str id="lang/lua/law_police/check_finished">The vehicle inspection is finished.</str>
+
+    <str id="lang/lua/mines/comment/oops">Oops...</str>
+    <str id="lang/lua/mines/comment/book">Sure, with the book it's a lot easier</str>
+    <str id="lang/lua/mines/comment/lucky">That was close! I need to be more careful next time!</str>
+    <str id="lang/lua/mines/tape_required">Duct tape is needed</str>
+    <str id="lang/lua/mines/mine_damaged">Enough experiments, this mine is broken</str>
+    <str id="lang/lua/mines/need_to_handle">Place it in your hands first</str>
+    <str id="lang/lua/mines/cant_attach_bunch">What? I can't attach a stack of detonators!</str>
+    <str id="lang/lua/mines/not_enough_skill">What should I do here? I can't figure it out, i will have to leave it to someone more skilled in demolitions...</str>
+    <str id="lang/lua/mines/detach_fuse">Remove the detonator</str>
+    <str id="lang/lua/mines/repair">Repair</str>
+
+    <str id="lang/lua/money_case/1k">1000</str>
+    <str id="lang/lua/money_case/10k">10k</str>
+    <str id="lang/lua/money_case/100k">100k</str>
+    <str id="lang/lua/money_case/put_prefix">Put </str>
+    <str id="lang/lua/money_case/eldo_suffix"> eldo</str>
+    <str id="lang/lua/money_case/take_prefix">Take </str>
+    <str id="lang/lua/money_case/take_all">Take all money</str>
+
+    <str id="lang/lua/notebook/error">ERROR#002. Tell devs about it.</str>
+    <str id="lang/lua/notebook/curious">Something interesting...</str>
+    <str id="lang/lua/notebook/cant_put_multiple">They won't fit all at the same time. Maybe I should use a hammer?</str>
+    <str id="lang/lua/notebook/cd_damaged">The disk is badly scratched. It will take some time to read it.</str>
+    <str id="lang/lua/notebook/cd_heavily_damaged">The disk is damaged. It will be really hard to read it.</str>
+    <str id="lang/lua/notebook/low_battery">The battery is drained.</str>
+    <str id="lang/lua/notebook/nothing_useful">Nothing useful, a waste of time.</str>
+    <str id="lang/lua/notebook/cant_read_hackers_cd">The hackers disk is not readable. Maybe I can make a copy?</str>
+    <str id="lang/lua/notebook/cd_encrypted">There is something, but it's encrypted. It requires special software.</str>
+    <str id="lang/lua/notebook/hint/empty_cd">I need an empty CD.</str>
+    <str id="lang/lua/notebook/hint/tool">Can't make a copy without a notebook.</str>
+    <str id="lang/lua/notebook/error2">ERROR#001. Tell devs about it .</str>
+    <str id="lang/lua/notebook/result/good">Not perfect, but better than before.</str>
+    <str id="lang/lua/notebook/result/very_good">Just like new.</str>
+    <str id="lang/lua/notebook/recover_cd">Recover</str>
+
+    <str id="lang/lua/packing/required">%d sets of uniforms are required.</str>
+    <str id="lang/lua/packing/pack">Pack</str>
+
+    <str id="lang/lua/selecting/required">%d similar samples are required.</str>
+    <str id="lang/lua/selecting/required_papers">It requires the technical manual </str>
+    <str id="lang/lua/selecting/required_tool">Cleaning Kit is required.</str>
+    <str id="lang/lua/selecting/craft">Pick the best sample from the batch</str>
+
+    <str id="lang/lua/tuning/fail">It won't work.</str>
+    <str id="lang/lua/tuning/cant_replace_fore-end">I'm unable to replace the weapon's handguard.</str>
+    <str id="lang/lua/tuning/cant_replace_butt">I'm unable to replace the weapon's stock.</str>
+    <str id="lang/lua/tuning/cant_toggle_bayonet">I'm unable to change the bayonet position.</str>
+    <str id="lang/lua/tuning/cant_toggle_bipods">I'm unable to change the bipod position.</str>
+    <str id="lang/lua/tuning/cut_barrel">Saw off the barrel</str>
+    <str id="lang/lua/tuning/replace_for-end">Replace handguard of the weapon being carried</str>
+    <str id="lang/lua/tuning/mount">Mount on the weapon being carried</str>
+    <str id="lang/lua/tuning/replace_butt">Replace stock of the weapon being carried</str>
+    <str id="lang/lua/tuning/fold">Fold</str>
+    <str id="lang/lua/tuning/unfold">Unfold</str>
+    <str id="lang/lua/tuning/fold_bipods">Fold bipod</str>
+    <str id="lang/lua/tuning/unfold_bipods">Unfold bipod</str>
+
+    <str id="lang/lua/using_items/adapt_for">Adapt for </str>
+    <str id="lang/lua/using_items/disassembly_medkit">Split the medkit into lesser components?</str>
+    <str id="lang/lua/using_items/fail">Can't do it.</str>
+    <str id="lang/lua/using_items/take_in_hands">It needs to be unloaded and carried in your hand.</str>
+    <str id="lang/lua/using_items/take_in_hands2">Need to hold it in your hands.</str>
+    <str id="lang/lua/using_items/adapt_prompt">Adapt this box to store similar items? (Content will be lost)</str>
+    <str id="lang/lua/using_items/tools_required">Can't do it without proper tools.</str>
+    <str id="lang/lua/using_items/unpack">Unpack</str>
+    <str id="lang/lua/using_items/raise_nvg">Raise</str>
+    <str id="lang/lua/using_items/lower_nvg">Pull down</str>
+    <str id="lang/lua/using_items/pour">Pour</str>
+    <str id="lang/lua/using_items/unpack_box">Unpack the crate</str>
+    <str id="lang/lua/using_items/throw_out">Unload all</str>
+    <str id="lang/lua/using_items/unfold_sack">Unfold</str>
+    <str id="lang/lua/using_items/fold_sack">Fold</str>
+    <str id="lang/lua/using_items/pack">Fold</str>
+    <str id="lang/lua/using_items/remove_pouch">Detach pouch</str>
+    <str id="lang/lua/using_items/cleanup_all">Clean all weapons in inventory</str>
+    <str id="lang/lua/using_items/cleanup_all_in_car">Clean all weapons inside the car</str>
+
+    <str id="lang/lua/map_loot/stash_name">Stash</str>
+    <str id="lang/lua/map_loot/stash_prompt">There are items left on the ground!\nDo you want to make a stash?</str>
+    <str id="lang/lua/map_loot/destroy_stash_prompt">Are you sure you want to destroy all items in the stash?</str>
+    <str id="lang/lua/map_loot/open_stash">Open stash</str>
+    <str id="lang/lua/map_loot/put_in_stash">Put items into stash</str>
+    <str id="lang/lua/map_loot/put_stash_in_car">Move all items from the stash to the trunk of the car</str>
+    <str id="lang/lua/map_loot/destroy_stash">Destroy stash</str>
+
+    <str id="lang/lua/actions/low_skill">It won't happen! Sapper skill is too low.</str>
+    <str id="lang/lua/actions/fire_in_the_hole">Get back! Fire in the hole!</str>
+    <str id="lang/lua/actions/low_mechanic_skill">It won't happen! Mechanic skill is too low.</str>
+    <str id="lang/lua/actions/closed">Locked!</str>
+    <str id="lang/lua/actions/twig/missed">Missed. Aim better next time.</str>
+    <str id="lang/lua/actions/twig/low_skill">Can't do this. Strenght is too low.</str>
+    <str id="lang/lua/actions/twig/comment/1">An accurate throw is needed.</str>
+    <str id="lang/lua/actions/twig/comment/2">Shaking the palm is useless. Gotta find another way.</str>
+    <str id="lang/lua/actions/wheels/comment/1">It took less time then I expected.</str>
+    <str id="lang/lua/actions/wheels/comment/2">If i keep going i can cut more patches...</str>
+    <str id="lang/lua/actions/wheels/comment/3">Have to try something sharper.</str>
+    <str id="lang/lua/actions/metal/comment/1">Good work.</str>
+    <str id="lang/lua/actions/metal/comment/2">I had to use a hacksaw.</str>
+    <str id="lang/lua/actions/wheel_u/comment/1">Good work.</str>
+    <str id="lang/lua/actions/wheel_u/comment/2">I have to find a better tool for this.</str>
+    <str id="lang/lua/actions/wheel_u/comment/3">Having proper tools would make this faster.</str>
+    <str id="lang/lua/actions/mining/comment/1">Its very heavy...</str>
+    <str id="lang/lua/actions/mining/comment/2">Maybe I can gather this ore? I need a shovel.</str>
+    <str id="lang/lua/actions/toilet/comment/1">Locked.</str>
+    <str id="lang/lua/actions/toilet/comment/2">A cache! And there is a set of items for a visit to an open area!</str>
+    <str id="lang/lua/actions/toilet/comment/3">A smart cache, and there is a set of items for a visit to an open area...</str>
+    <str id="lang/lua/actions/toilet/comment/4">Lets unlock!</str>
+    <str id="lang/lua/actions/toilet/comment/5">Empty!</str>
+    <str id="lang/lua/actions/fill_with_water">Fill with water</str>
+    <str id="lang/lua/actions/pour_water">Empty the can</str>
+    <str id="lang/lua/actions/fry_meat">Cook meat</str>
+    <str id="lang/lua/actions/fry_fish">Cook fish</str>
+    <str id="lang/lua/actions/siphon_fuel">Siphon fuel</str>
+    <str id="lang/lua/actions/examine_car">Examine</str>
+    <str id="lang/lua/actions/throw_twig">Throw a stick</str>
+    <str id="lang/lua/actions/palm">Palm</str>
+    <str id="lang/lua/actions/cut_car_tube">Cut out a patch</str>
+    <str id="lang/lua/actions/check_car_tube">Examine</str>
+    <str id="lang/lua/actions/use_toilet">Use toilet</str>
+    <str id="lang/lua/actions/lockpick_cache">Open cache</str>
+    <str id="lang/lua/actions/saw_metal">Saw off metal door</str>
+    <str id="lang/lua/actions/break_metal">Break off</str>
+    <str id="lang/lua/actions/mining">Fill bag with ore</str>
+    <str id="lang/lua/actions/examine_ore">Examine</str>
+    <str id="lang/lua/actions/dismount_wheel_with_tools">Remove the wheel with tools</str>
+    <str id="lang/lua/actions/dismount_wheel">Remove the wheel without proper tools</str>
+    <str id="lang/lua/actions/fruit_tree">Fruit tree</str>
+    <str id="lang/lua/actions/open_safe">Open safe</str>
+    <str id="lang/lua/actions/open_safe_with_key">Unlock safe using the key</str>
+    <str id="lang/lua/actions/open_safe_with_tnt">Set explosives</str>
+    <str id="lang/lua/actions/open_safe_with_tools">Unlock with tools</str>
+    <str id="lang/lua/actions/safe">Safe</str>
+    <str id="lang/lua/actions/open_warehouse">Open warehouse</str>
+    <str id="lang/lua/actions/open_warehouse_with_key">Unlock the door using the key</str>
+    <str id="lang/lua/actions/open_warehouse_with_tools">Unlock with tools</str>
+    <str id="lang/lua/actions/warehouse_door">Door</str>
+    <str id="lang/lua/actions/refuel_car_wtf">Pour it there? But why?!</str>
+    <str id="lang/lua/actions/can_siphon_fuel">There is still some fuel left. I could help myself a little!</str>
+    <str id="lang/lua/actions/cant_get_twig">It won't happen. Too hard.</str>
+    <str id="lang/lua/actions/toilet_comment">Oh! Perfect! Civilization, dammit, not in the middle of the bushes.</str>
+    <str id="lang/lua/actions/search_food">Search for food</str>
+    <str id="lang/lua/actions/break_wood">Break</str>
+    <str id="lang/lua/actions/examine_something">Examine</str>
+    <str id="lang/lua/actions/tickets">Cashier</str>
+    <str id="lang/lua/actions/phone">Phone booth</str>
+
+    <str id="lang/lua/events/well_bodies">%s in the area</str>
+    <str id="lang/lua/events/well_bodies/1">%d body</str>
+    <str id="lang/lua/events/well_bodies/2">%d bodies</str>
+    <str id="lang/lua/events/well_bodies/3">%d bodies</str>
+
+    <str id="lang/lua/trader/stock">Stock</str>
+    <str id="lang/lua/trader/unmarketable">Unmarketable</str>
+</strings>

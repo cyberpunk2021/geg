@@ -1,0 +1,27 @@
+﻿[TEST VERSION] GIVE EVERYBODY GUNS
+
+Okay guys just play around and let me know how it goes, new weapons will only show up in shops and cheat shop, unless it is something i replaced then it may show up on enemies that used the replaced weapon. Let me know if you find bugs, especially with attachments and position of the weapon in the user hands.
+
+All new things will show up in some shops at CGL 1 and for very low price for easy testing and if you don't want to have CHEATER in your char name. Because of the random nature of the shops, not all of them may show up at once, you may have to visit different shops to find other weapons, or just use cheat shop.
+
+Stats of almost all HLA weapons have been changed for ranges similar to the ones for Mercapocalypse, let me know what you guys think of the balancing, but you should be used to it if you already played Mercapocalypse. Ammo stats have also been changed, they are now weaker mostly and will not down enemies so quickly from limb shots, requiring more careful shot placement, also similar to Mercapocalypse ammo stats.
+
+================
+INSTALLATION
+================
+
+1. Make sure you are not using the previous "[WIP] Mercapocalypse for HLA" available in steam. Simply deactivate it from the MODS list in the game menu.
+2. Extract the contents of the file to the 7.62 HLA installation folder. The file contains an improved ini by Xelat (HLA developer) to make sure inventory images are saved, without this you cannot open large lists of weapons such as the cheat shop.
+3. Open the game and go to MODS menu and activate "GEGTEST". Close and open the game again.
+4. You can see all weapons in the game by opening console (usually TILDE button, then type enter_dev_mode and press enter, after that type shop).
+5. To load the guns it will take some time, and it will crash during the process, THIS IS NORMAL. Start the game again and access the shop to resume the loading from where it stopped. It may take 2 or 3 times, on mine it takes just 2 times. This is because the mod adds more than the game can handle in one go, which kind of shows how much stuff its in.
+
+
+================
+KNOWN BUGS - IMPORTANT
+================
+
+-For some reason some of the inventory images of items do not show up. Gonna look at what is going on.
+-There seems to be a bug in HLA that the game becomes unstable when dragging items in shops with too many things. This can quickly crash the game. To make it safe instead of dragging a weapon press SHIFT + LEFT CLICK to transfer it to your inventory (as long as you have available space), this way it avoids the small freeze that happens and the bug. When selling items make sure to activate a less populated tab instead of the weapons tab and use the same SHIFT + LEFT CLICK trick. I haven't noticed this bug outside of shops.
+-There is a bug with accented characters such as á, é, í, ó, etc. I will be uploading a file to fix this soon, however it will change the HLA font type to another one that isn't as good.
+-For some reason the guy in the beginning is supposed to give you a new OTs-33 pistol but its not working, gonna check out why. Either way you can just hide and wait for them to kill each other.

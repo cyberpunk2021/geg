@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<root>
+    <string id="STR_WRONG_E6_VERSION">
+        <ru>Неправильный файл E6.exe</ru>
+        <en>Incorrect E6.exe. Checksum error.</en>
+    </string>
+    <string id="STR_IRON_WILL_ASK_0">
+        <ru>Сохранение во время боя!&#10;У вас осталась %d попытка сохранения.&#10;Сохраниться?</ru>
+        <en>You are saving during combat!&#10;You have %d saves remaining.&#10;Are you sure you want to save?</en>
+    </string>
+    <string id="STR_IRON_WILL_ASK_1">
+        <ru>Сохранение во время боя!&#10;У вас остались %d попытки сохранения.&#10;Сохраниться?</ru>
+        <en>You are saving during combat!&#10;You have %d saves remaining.&#10;Are you sure you want to save?</en>
+    </string>
+    <string id="STR_IRON_WILL_ASK_2">
+        <ru>Сохранение во время боя!&#10;У вас осталось %d попыток сохранения.&#10;Сохраниться?</ru>
+        <en>You are saving during combat!&#10;You have %d saves remaining.&#10;Are you sure you want to save?</en>
+    </string>
+    <string id="STR_IRON_WILL_NO_TRIES_LEFT">
+        <ru>Сохранение во время боя!&#10;У вас не осталось попыток сохранения</ru>
+        <en>You are saving during combat!&#10;And you have no saves remaining!</en>
+    </string>
+    <string id="STR_WEAPON_BREAK">
+        <ru>%s: Оружие сломано</ru>
+        <en>%s: Weapon is broken</en>
+    </string>
+    <string id="STR_WEAPON_JAMMED">
+        <ru>%s: Осечка</ru>
+        <en>%s: Misfire</en>
+    </string>
+    <string id="STR_TRADER_NOT_ENOUGH_MONEY">
+        <ru>У торговца есть только %s $&#10;Принять?</ru>
+        <en>The vendor has only %s $&#10;Accept?</en>
+    </string>
+    <string id="STR_TRADER_NO_MONEY">
+        <ru>У торговца нет денег!&#10;Принять?</ru>
+        <en>The vendor has no money!&#10;Accept?</en>
+    </string>
+    <string id="STR_SKILL_NAME_MECHANICS">
+        <ru>Механика</ru>
+        <en>Mechanic</en>
+    </string>
+    <string id="STR_ADOPTATION">
+        <ru>Привыкание: %d%%</ru>
+        <en>Adoptation: %d%%</en>
+    </string>
+    <string id="STR_OTHER_INFO_FIELDS">
+        <ru>^Вес ^Износ</ru>
+        <en>^Weight ^Wear Off</en>
+    </string>
+    <string id="STR_TIME_LESS_THAN_HOUR">
+        <ru>&lt;1 ч.</ru>
+        <en>&lt;1 h.</en>
+    </string>
+    <string id="STR_TIME_MONTH">
+        <ru>%.0f мес.</ru>
+        <en>%.0f mth.</en>
+    </string>
+    <string id="STR_TIME_DAY">
+        <ru>%.0f д.</ru>
+        <en>%.0f d.</en>
+    </string>
+    <string id="STR_TIME_HOUR">
+        <ru>%d ч.</ru>
+        <en>%d h.</en>
+    </string>
+    <string id="STR_HINT_EXTRACT_AMMO">
+        <ru>Извлечь патроны</ru>
+        <en>Extract ammo</en>
+    </string>
+    <string id="STR_HINT_COMPACT_AMMO">
+        <ru>Собрать патроны в кучки</ru>
+        <en>Compact ammo</en>
+    </string>
+    <string id="STR_HINT_EXTRACT_CLIPS">
+        <ru>Извлечь магазины</ru>
+        <en>Extract clips</en>
+    </string>
+    <string id="STR_PATH">
+        <ru>Путь</ru>
+        <en>Path</en>
+    </string>
+    <string id="STR_KILOMETERS">
+        <ru>%.0f км</ru>
+        <en>%.0f km.</en>
+    </string>
+    <string id="STR_CAR_WEIGHT_RATIO">
+        <ru>%0.0f/%0.0f кг.</ru>
+        <en>%0.0f/%0.0f kg.</en>
+    </string>
+    <string id="STR_LIGHT_OFF"><!-- вообще берётся из локали игры, это резервная заглушка -->
+        <ru>Выкл. фонарь</ru>
+        <en>Turn off flashlight</en>
+    </string>
+    <string id="STR_LIGHT_ON"><!-- вообще берётся из локали игры, это резервная заглушка -->
+        <ru>Вкл. фонарь</ru>
+        <en>Turn on flashlight</en>
+    </string>
+    <string id="STR_CAR_SHOP_NAME">
+        <ru>Машина</ru>
+        <en>Vehicle</en>
+    </string>
+    <string id="STR_WEIGHT_INFO_AMMO"><!-- вообще берётся из локали игры (353), это резервная заглушка -->
+        <ru>Вес: %d x %3.1f г</ru>
+        <en>Weight: %d x %3.1f g</en>
+    </string>
+    <string id="STR_WEIGHT_INFO_STACKABLE_MANY">
+        <ru>Вес: %d x %d = %d г</ru>
+        <en>Weight: %d x %d = %d g</en>
+    </string>
+    <string id="STR_WEIGHT_INFO_STACKABLE_ONE">
+        <ru>Вес: %d г</ru>
+        <en>Weight: %d g</en>
+    </string>
+    <string id="STR_DEFAULT_WEIGHT_KILOGRAMS"><!-- вообще берётся из локали игры (354), это резервная заглушка -->
+        <ru>Вес: %.2f кг</ru>
+        <en>Weight: %.2f kg</en>
+    </string>
+    <string id="STR_DEFAULT_WEIGHT_GRAMS"><!-- вообще берётся из локали игры (887), это резервная заглушка -->
+        <ru>Вес: %d г</ru>
+        <en>Weight: %d g</en>
+    </string>
+    <string id="STR_SQUAD_SPEED">
+        <ru>%.2f км/ч</ru>
+        <en>%.2f km/h</en>
+    </string>
+    <string id="STR_POCKET_RESTRICTION_WARNING">
+        <ru>Нельзя класть контейнер в другой контейнер.</ru>
+        <en>You can't place a container into another container.</en>
+    </string>
+    <string id="STR_ITEM_ACTION_EXPLORE">
+        <ru>Осмотреть предмет</ru>
+        <en>Examine</en>
+    </string>
+    <string id="STR_ITEM_ACTION_UNEXPLORE">
+        <ru>Завершить осмотр</ru>
+        <en>Finish examination</en>
+    </string>
+    <string id="STR_ITEM_HINT_ADDONS">
+        <ru>^Приспособления:</ru>
+        <en>^Attachments:</en>
+    </string>
+    <string id="STR_ITEM_HINT_CLIP">
+        <ru>^Обойма:</ru>
+        <en>^Clip:</en>
+    </string>
+    <string id="STR_ITEM_HINT_LAUNCHER_GRENADE">
+        <ru>^Выстрел:</ru>
+        <en>^Grenade:</en>
+    </string>
+    <string id="STR_ITEM_HINT_ARMOR_PLATES">
+        <ru>^Пластины:</ru>
+        <en>^Plates:</en>
+    </string>
+    <string id="STR_ITEM_HINT_MINE_GRENADE">
+        <ru>^Граната:</ru>
+        <en>^Grenade:</en>
+    </string>
+    <string id="STR_ITEM_HINT_AMMO">
+        <ru>^Патрон:</ru>
+        <en>^Ammo:</en>
+    </string>
+    <string id="STR_ITEM_HINT_AMMO_COUNT_LABEL">
+        <ru>шт</ru>
+        <en>pcs</en>
+    </string>
+    <string id="STR_INCONSISTENT_FILE_E6_EXE">
+        <ru>Неправильный файл E6.exe</ru>
+        <en>Incorrect E6.exe. Checksum error.</en>
+    </string>
+    <string id="STR_MOD_OTHERDATA_OVERGROWTH_WARNING">
+        <ru>Объём структуры OtherData превышает допустимый размер</ru>
+        <en>OtherData structure size exceeds allowable limit</en>
+    </string>
+    <string id="STR_KILOGRAMS">
+        <ru>кг</ru>
+        <en>kg</en>
+    </string>
+    <string id="STR_DROP_ITEM_SILENT">
+        <ru>Положить на землю</ru>
+        <en>Put to the ground</en>
+    </string>
+    <string id="STR_SHOP_CAR_LABEL">
+        <ru>Транспорт</ru>
+        <en>Vechicle</en>
+    </string>
+    <string id="STR_SHOP_SELECT_CAR_HINT">
+        <ru>Левый клик - выбрать транспорт</ru>
+        <en>Left click to choose vechicle</en>
+    </string>
+    <string id="STR_NOTIFY_PLAY_TOO_LONG">
+        <ru>Игра была запущена очень долго.&#10;Мы настоятельно рекомендуем перезапустить её.&#10;Отложить загрузку сохранения?</ru>
+        <en>The game is running for too long.&#10;Strongly recommended to restart it.&#10;Delay loading?</en>
+    </string>
+    <string id="STR_MONSTER_DAMAGED_EYES">
+        <ru>% ослеплён!</ru>
+        <en>% is blinded!</en>
+    </string>
+    <string id="STR_WEAR">
+        <ru>Износ</ru>
+        <en>Wear</en>
+    </string>
+    <string id="STR_CANT_CONNECT_STEAM">
+        <en>Can't connect to Steam! Mods configuration not validated!</en>
+        <ru>Невозможно подключиться к Steam! Конфигурация модов может быть не актуализирована!</ru>
+    </string>
+    <string id="STR_MODS_RESTART_REQUIRED">
+        <en>Game restart required because of mods install/uninstall!</en>
+        <ru>Из-за установки или удаления модов игру необходимо перезапустить!</ru>
+    </string>
+    <string id="STR_SAVED_GAME_MODS_MISMATCH">
+        <en>Your saved game mods list mismatch! Continue anyway?</en>
+        <ru>Список модов в сохранённой игре не соответствует! Всё равно продолжить?</ru>
+    </string>
+    <string id="STR_MOD_REQUIRE_NEW_GAME">
+        <en>Mod '%s' requires a new game! Continue anyway?</en>
+        <ru>Мод '%s' подразумевает начало новой игры! Всё равно продолжить?</ru>
+    </string>
+    <string id="STR_OLD_ROOT_FOLDERS">
+        <en>Obsolete folder '%s' has been found in the game root! Delete? (Recommended)</en>
+        <ru>Обнаружена устаревшая папка '%s' в корне игры! Удалить? (Рекомендуется)</ru>
+    </string>
+    <string id="STR_GAME_RESTART_REQUIRED">
+        <en>Game restart required!</en>
+        <ru>Необходимо перезапустить игру!</ru>
+    </string>
+</root>

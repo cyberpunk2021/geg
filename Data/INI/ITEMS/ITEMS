@@ -1355,6 +1355,211 @@ None
 None  "Items\shipment.act""shipment.e5b"
 86110
 
+"L85A2 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle L85A2 Tac (5.56mm)"
+FOR  "Carabine SA80CAR Tac (5.56mm)"
+FOR  "Carabine L22A1 Tac (5.56mm)"
+15000
+
+"AEK971 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle AEK-973 (7.62x39mm)"
+FOR  "Assault Rifle AEK-972 (5.56mm)"
+FOR  "Assault Rifle AEK-971 (5.45mm)"
+15000
+
+"A545 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle A-545 (5.45mm)"
+FOR  "Assault Rifle A-762 (7.62mm)"
+15000
+
+"X95 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "IWI X95 SMG"
+FOR  "IWI X95 NATO"
+FOR  "IWI X95 RUS"
+FOR  "Assault Rifle TAR-21 (5.56mm)"
+FOR  "Assault Rifle STAR-21 (5.56mm)"
+15000
+
+"IA2 556 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle IMBEL IA2 CQC (5.56mm)"
+FOR  "Assault Rifle IMBEL IA2C (5.56mm)"
+FOR  "Assault Rifle IMBEL IA2 (5.56mm)"
+15000
+
+"IA2 762 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle IMBEL IA2 CQC (7.62mm)"
+FOR  "Assault Rifle IMBEL IA2C (7.62mm)"
+FOR  "Assault Rifle IMBEL IA2 (7.62mm)"
+15000
+
+"INSAS Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle INSAS (5.56x45mm)"
+FOR  "Assault Rifle INSAS Black (5.56x45mm)"
+6000
+
+"HK416 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "HK416CQB PISTOL"
+FOR  "HK416CQB"
+FOR  "HK416 14DRS"
+FOR  "HK416"
+FOR  "HK416 D20RS"
+15000
+
+"HK417 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "HK417 12Inch CQB"
+FOR  "HK417 16Inch"
+FOR  "HK417 20Inch"
+15000
+
+"VZ58 Tactical Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assaul Rifle SA Vz.58 Mod CQC"
+FOR  "Assaul Rifle SA Vz.58 Mod CAR"
+FOR  "Assaul Rifle SA Vz.58 Mod"
+FOR  "Assaul Rifle SA Vz.58 Mod CQC NATO"
+FOR  "Assaul Rifle SA Vz.58 Mod CAR NATO"
+FOR  "Assaul Rifle SA Vz.58 Mod NATO"
+15000
+
+"CZ805 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle CZ-805 Bren A1 (5.56mm)"
+FOR  "Assault Rifle CZ-805 Bren A2 (5.56mm)"
+FOR  "Assault Rifle CZ-805 Bren A1 (7.62mm)"
+FOR  "Assault Rifle CZ-805 Bren A2 (7.62mm)"
+15000
+
+"Zastava M21 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle Zastava M-21 CQC (5.56x45mm)"
+FOR  "Assault Rifle Zastava M-21 CAR (5.56x45mm)"
+FOR  "Assault Rifle Zastava M-21 (5.56x45mm)"
+FOR  "Assault Rifle Zastava M-21 CQC RIS (5.56x45mm)"
+FOR  "Assault Rifle Zastava M-21 CAR RIS (5.56x45mm)"
+FOR  "Assault Rifle Zastava M-21 RIS (5.56x45mm)"
+15000
+
+"Type89 Mount Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle Type 89 (5.56mm)"
+FOR  "Assault Rifle Type 89F (5.56mm)"
+FOR  "Assault Rifle Type 89O (5.56mm)"
+FOR  "Assault Rifle Type 89OF (5.56mm)"
+2000
+
+"Daewoo K1 Mount Kits"
+Toolkit
+None  "items\caixa_armas_pist.act""caixa_arma_peq.e5b"
+FOR  "Assault Rifle DaewooK1O (5.56mm)"
+FOR  "Assault Rifle DaewooK1 (5.56mm)"
+FOR  "Assault Rifle DaewooK1R (5.56mm)"
+2000
+
+"Daewoo K2 Mount Kits"
+Toolkit
+None  "items\caixa_armas_pist.act""caixa_arma_peq.e5b"
+FOR  "Assault Rifle DaewooK2O (5.56mm)"
+FOR  "Assault Rifle DaewooK2 (5.56mm)"
+FOR  "Assault Rifle DaewooK2R (5.56mm)"
+2000
+
+"AR-70/90 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle AR70 90 (5.56mm)"
+FOR  "Assault Rifle AR70S 90 (5.56mm)"
+FOR  "Assault Rifle AR70 CAR 90 (5.56mm)"
+15000
+
+"ARX 160 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault ARX (5.56x45mm)"
+FOR  "Assault ARX LB (5.56x45mm)"
+FOR  "Assault ARX VERY LB (5.56x45mm)"
+15000
+
+"Pindad SS2 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Pindad SS2 CQC"
+FOR  "Pindad SS2 CQC RIS"
+FOR  "Pindad SS2 CAR"
+FOR  "Pindad SS2"
+FOR  "Pindad SS2 DMR"
+15000
+
+"AK5C Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "AK 5C CQC"
+FOR  "AK 5C CAR"
+FOR  "AK 5C"
+FOR  "AK 5C DMR"
+15000
+
+"Taurus CT Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Assault Rifle Taurus CQC (5.56mm)"
+FOR  "Assault Rifle Taurus CT (5.56mm)"
+FOR  "Assault Rifle Taurus ART (5.56mm)"
+15000
+
+"TRG 22 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Sniper Rifle TRG-42 (.308)"
+FOR  "Sniper Rifle TRG-42 B (.308)"
+FOR  "Sniper Rifle TRG-42 T (.308)"
+15000
+
+"TRG 42 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Sniper Rifle TRG-42 (.300)"
+FOR  "Sniper Rifle TRG-42 B (.300)"
+FOR  "Sniper Rifle TRG-42 T (.300)"
+15000
+
+"MG4 Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Machinegun MG4K (7.62mm)"
+FOR  "Machinegun MG4 (7.62mm)"
+15000
+
+"Ultimax Kits"
+Toolkit
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
+FOR  "Machinegun Ultimax MK3"
+FOR  "Machinegun Ultimax MK4"
+FOR  "Ultimax MK3 Para"
+FOR  "Ultimax MK4 Para"
+15000
+
 "Scar Kits"
 Toolkit
 None  "Items\scarkits.act""scarkits.e5b"
@@ -1365,7 +1570,7 @@ FOR  "Assault Rifle SCAR-H CQC (7.62x51mm)"
 FOR  "Assault Rifle SCAR-H Std (7.62x51mm)"
 FOR  "Assault Rifle SCAR-H LB (7.62x51mm)"
 FOR  "Submachine-gun SCAR Pistol NATO"
-7000
+15000
 
 "Groza Kits"
 Toolkit
@@ -1373,7 +1578,7 @@ None  "Items\groza_kits.act""groza_kits.e5b"
 FOR  "Assault Rifle Groza-1 (9x39mm)"
 FOR  "Assault Rifle Groza-2 (9x39mm)"
 FOR  "Assault Rifle Groza-3 (9x39mm)"
-5000
+15000
 
 "Steyr AUG A1 Kits"
 Toolkit
@@ -1383,7 +1588,7 @@ FOR  "Assault Rifle Steyr AUG P (5.56mm)"
 FOR  "Submachine-gun Steyr AUG (9mm)"
 FOR  "Machinegun Steyr AUG HBAR (5.56mm)"
 FOR  "Assault Rifle Steyr AUG M203 (5.56mm)"
-6000
+15000
 
 "Steyr AUG A2 Kits"
 Toolkit
@@ -1393,7 +1598,7 @@ FOR  "Assault Rifle Steyr AUG P SR (5.56mm)"
 FOR  "Submachine-gun Steyr AUG SR (9mm)"
 FOR  "Machinegun Steyr AUG HBAR T (5.56mm)"
 FOR  "Assault Rifle Steyr AUG M203 SR (5.56mm)"
-6000
+15000
 
 ".300 AAC Blackout Kits"
 Toolkit
@@ -1404,14 +1609,14 @@ FOR  "Assault Rifle AR-15 CQB AG (.300 BLK)"
 FOR  "Assault Rifle M4A1 (.300 BLK)"
 FOR  "Assault Rifle M4A1 CQB (.300 BLK)"
 FOR  "Assault Rifle M4A1 CQB AG (.300 BLK)"
-5000
+15000
 
 "AK Kit"
 Toolkit
 None  "Items\groza_kits.act""groza_kits.e5b"
 FOR "Assault Rifle AK-103 (7.62x39mm)"
 FOR "Assault Rifle AK Custom"
-3500
+15000
 
 "Encore Kit"
 Toolkit
@@ -1442,35 +1647,35 @@ FOR  "Pistol Contender (22LR)"
 
 "F2000 Kits"
 Toolkit
-None  "Items\scarkits.act""scarkits.e5b"
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 FOR  "Assault Rifle F2000 (5.56mm)"
 FOR  "Custom Rifle F2000 FG (5.56mm)"
 FOR  "Custom Rifle F2000 (5.56mm)"
 FOR  "F2000 Black (5.56mm)"
 FOR  "F2000 FG Black (5.56mm)"
 FOR  "F2000 FG Tan (5.56mm)"
-3000
+15000
 
 "Keltec Kits"
 Toolkit
-None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 FOR  "Assault Rifle Keltec CAR (7.62mm)"
 FOR  "Assault Rifle Keltec LB (7.62mm)"
 FOR  "Sniper Rifle Keltec (7.62x51mm)"
-3000
+15000
 
 "MSBS Kit"
 Toolkit
-None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 FOR  "MSBS"
 FOR  "MSBS Bullpup"
 FOR  "MSBS Bullpup FG"
 FOR  "MSBS Bullpup NOFG"
-3000
+15000
 
 "DPM/RP-46 Kit"
 Toolkit
-None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
+None  "items\caixa_armas_peq.act""caixa_arma_med.e5b"
 FOR  "Machinegun DPM (7.62x54R)"
 FOR  "Machinegun RP46 (7.62x54R)"
 2000
@@ -1481,7 +1686,7 @@ None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 FOR  "CPW (9mm)"
 FOR  "CPW (5.7)"
 FOR  "CPW (4.6)"
-800
+3000
 
 "MPX Kit"
 Toolkit
@@ -1498,7 +1703,7 @@ FOR  "Submachine-gun MPXK (40)"
 FOR  "Submachine-gun MPXK FG (40)"
 FOR  "Submachine-gun MPXK (357)"
 FOR  "Submachine-gun MPXK FG (357)"
-1200
+15000
 
 "SPAS-12 Kits"
 Toolkit
@@ -1506,7 +1711,7 @@ None  "Items\BFX_CASE.ACT""BFX_CASE.E5B"
 FOR  "Shotgun SPAS12 (12ga)"
 FOR  "SPAS12 F (12ga)"
 FOR  "SPAS12 NS (12ga)"
-1500
+15000
 
 "Mine_detector"
 None
@@ -3815,5 +4020,222 @@ None  "Items\sack.act""ore_sack.e5b"
 Turtle
 None  "Items\turtle.act""turtle.e5b"
 30000
+
+//Order receipts
+
+"Receipt PPK"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt Deagle"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt Nighthawk"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt SPS"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt Glock22"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt Glock18"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt CZ75Shadow"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt PT1911"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt USP"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt USPMATCH"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt PT92"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt 92FSInox"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt M9A1"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt 90Two"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt PSS"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt FN57"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt KRISS"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt P90"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt P90TR"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt AEK919"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MP5"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MP5SD"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MP540"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MP510"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt COLTSMG"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MP9"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MX4"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt AUG"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt AUGSR"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt UZI"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt BIZON"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt BIZON9MM"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt VITYAZ"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt SAF"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MT40"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt MT40G2"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt M1014"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt KELTECKSG"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt USAS12"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt SAIGA12"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt SAIGA12LB"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt M870"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt KS-23"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
 
 END

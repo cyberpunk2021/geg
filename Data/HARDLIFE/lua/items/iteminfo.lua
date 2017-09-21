@@ -2,6 +2,8 @@
 local PlugTypeToWeaponMap = {}
 local WeaponToSilencerMap = {}
 local UpgradesDescriptions = {}
+local bd_mapping = {}
+local ammo_mapping = {}
 
 function GetStdPlug(item, itemFamily)
 	local plugs = item:GetStdPlugs()
@@ -103,6 +105,8 @@ function GetMisfireProb(item)
     return nil
 end
 
+
+
 local function formatTime(time)
     local result = {}
 
@@ -170,6 +174,30 @@ local function buildItemInfo(item)
         end
         show(_t"lang/lua/iteminfo/heat_capacity" .. (GetHeatCapacity(item) or "-"))
         show(string.format(_t"lang/lua/iteminfo/burst_hit_start", GetBirstHitStart(item) or "-"))
+		local burstdev = tonumber(bd_mapping[itemInfo:GetName()])
+		local control = ""
+		if burstdev ~= nil then
+			if (burstdev <= 0.2) then
+				control = _t"lang/lua/iteminfo/GEG_outstanding"
+			elseif (burstdev > 0.2) and (burstdev <= 0.4) then
+				control = _t"lang/lua/iteminfo/GEG_excellent"
+			elseif (burstdev > 0.4) and (burstdev <= 0.6) then
+				control = _t"lang/lua/iteminfo/GEG_great"
+			elseif (burstdev > 0.6) and (burstdev <= 0.8) then
+				control = _t"lang/lua/iteminfo/GEG_verygood"
+			elseif (burstdev > 0.8) and (burstdev <= 0.95) then
+				control = _t"lang/lua/iteminfo/GEG_good"
+			elseif (burstdev > 0.95) and (burstdev <= 1.1) then
+				control = _t"lang/lua/iteminfo/GEG_average"
+			elseif (burstdev > 1.1) and (burstdev <= 1.35) then
+				control = _t"lang/lua/iteminfo/GEG_bad"
+			elseif (burstdev > 1.35) and (burstdev <= 1.5) then
+				control = _t"lang/lua/iteminfo/GEG_verybad"
+			elseif (burstdev > 1.5) then
+				control = _t"lang/lua/iteminfo/GEG_awful"
+			end
+			show(_t"lang/lua/iteminfo/GEG_fullautoacc" .. burstdev .. control)
+		end
         show(string.format(_t"lang/lua/iteminfo/misfire_prob", GetMisfireProb(item) or "-"))
 -- информация об апгрейдах оружия:
         local upgrades = item:GetUpgrades()
@@ -259,13 +287,28 @@ local function buildItemInfo(item)
 
         show(true)
     elseif family == Family.ifAmmo then
-        show(true)
+		local ammodmg = tonumber(ammo_mapping[itemInfo:GetName()])
+		if ammodmg ~= nil then
+			ammodmg2 = (ammodmg * 100) - 100;
+			if ammodmg == 1 then
+				show(_t"lang/lua/iteminfo/GEG_ammodegrade_equal")
+				elseif ammodmg2 > 1 then
+					show(_t"lang/lua/iteminfo/GEG_ammodegrade_pre" .. ammodmg2 .. _t"lang/lua/iteminfo/GEG_ammodegrade_more")
+					else
+						local diff = (1 - ammodmg2) - 1;
+						show(_t"lang/lua/iteminfo/GEG_ammodegrade_pre" .. diff .. _t"lang/lua/iteminfo/GEG_ammodegrade_less")
+			end
+		else
+			show(_t"lang/lua/iteminfo/GEG_ammodegrade_equal")
+		end
         local misfireProb = itemInfo:GetMisfireProb()
         if misfireProb > 0 then
             show(_t"lang/lua/iteminfo/quality" .. string.format("%.1f%%", 100 - misfireProb * 100))
         else
             show(_t"lang/lua/iteminfo/quality/100")
         end
+		show("")
+		show(true)
     else
 		local owner_name = GetItemOwnerName(item)
 		if (owner_name~="") then
@@ -355,8 +398,32 @@ local function LoadUpgradesInfo()
     config:close()
 end
 
+local function loadBurstDeviation()
+    local conf = Config("weapondata")
+	local bd = conf:XPath("/root/BurstDeviation/item")
+	for _,itemNode in ipairs(bd) do
+		bd_mapping[tostring(itemNode)] = itemNode:AttrStr("value")
+	end
+	
+end
+
+local function loadAmmoResDamage()
+    local conf = Config("weapondata")
+	local ard = conf:XPath("/root/AmmoResDamage/item")
+	for _,itemNode in ipairs(ard) do
+		ammo_mapping[tostring(itemNode)] = itemNode:AttrStr("value")
+	end
+	
+end
+
 LoadUpgradesInfo()
 
 buildItemSpecificInfo()
 
 RegisterItemInfoBuildHandler(buildItemInfo)
+
+loadBurstDeviation()
+
+loadAmmoResDamage()
+
+

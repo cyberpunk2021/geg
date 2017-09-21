@@ -2577,10 +2577,10 @@ IMAGE  "op45-m1911-8.e5b"
 DEFAMMO  ".455 Webley HP"
 
 // калибр .45 ACP
-BOX  "Ammo box (Corbon .45 ACP)""Ammo Corbon JHP (.45 ACP)"50 "Items\45federal_box.act""boxeagle.e5b"
+BOX  "Ammo box (Corbon .45 ACP)""Ammo Corbon JHP (.45 ACP)"50 "Items\cbcboxmain45acp.act""cbcboxinv.e5b"
 BOX  "Ammo box (Federal 230grn)""Federal 230grn (.45 ACP)"50 "Items\45federal_box.act""boxeagle.e5b"
 BOX  "Ammo box (M1911 Ball)""M1911 Ball (.45 ACP)"50 "Items\45acp_ap_box.act""45acp_box2.e5b"
-BOX  "Ammo box (Golden Saber)""Golden Saber (.45 ACP)"50 "Items\45acpeagle.act""boxeagle.e5b"
+BOX  "Ammo box (Golden Saber)""Golden Saber (.45 ACP)"50 "Items\45acparmscor.act""boxarmscor.e5b"
 BOX  "Ammo box (Hornady +P)""Hornady +P (.45 ACP)"50 "Items\45hornady_box.act""45acp_box4.e5b"
 BOX  "Ammo box (Cor-Bon 45 ACP)""200grn JHP +P (.45 ACP)"50 "Items\45acpgolddot.ACT""boxgoldot.E5B"
 BOX  "Ammo box (FMJ Ball)"".45 ACP FMJ Ball"50 "Items\algeira45.act""algeiraboxinv.e5b"

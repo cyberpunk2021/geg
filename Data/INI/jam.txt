@@ -1,0 +1,331 @@
+semi/fully auto 0.002
+bolt/lever 0.0015
+machinegun 0.001
+revolver 0
+
++++++++++++++++++++
+dfkai-sb
+dotum-che
+kaiti
+nsimsun
+simsun-extb
+lucida console
+mingliu
+miriam fixed
+simhei
+
+
+qualidade
+
+highest = 0.2
+high = 0.5
+normal = 1x
+bad = 5x
+old = 10x
+
+
+
+16:41 - Auspice: weapon types
+semi or fully automatic rifle or pistol (worst)
+bolt or lever action rifle (better)
+machinegun (best)
+revolver (even better than best)
+
+quality types
+very old quality no longer made, current guns are 30-40 years old or older (worst)
+poor quality chinese/soviet russia/north korea/brazil/calico m200/famas f1/L85
+normal quality service/military/most guns
+higher quality AK/HK/similar service rifle, some civ guns maybe if the quality is better than service quality
+highest quality premium guns/made for SF/top quality civ guns/modern sniper rifles (best)
+
+============
+OVERHEATING
+============
+
+=====
+Pistols - OVERHEATING
+=====
+
+Very Bad = 30 to 50
+Bad = 60 to 70
+Normal = 80 to 90
+Higher = 100 to 110
+Very High = 120 to 130
+
+=====
+SMG / Rifles - OVERHEATING
+=====
+
+Very Bad = 80 to 110
+Bad = 110 to 140
+Normal = 140 to 170
+Higher = 170 to 200
+Very High = 200 to 230
+
+=====
+MG - OVERHEATING
+=====
+
+Very Bad = 200 to 300
+Bad = 300 to 400
+Normal = 400 to 500
+Higher = 500 to 600
+Very High = 700 to 830
+
+
+============
+WEAR
+============
+
+=====
+Pistols - WEAR
+=====
+
+Very Bad = 400 to 800
+Bad = 900 to 1300
+Normal = 1400 to 1800
+Higher = 1900 to 2200
+Very High = 2300 to 2600
+
+=====
+Rifles / SMG - WEAR
+=====
+
+Very Bad = 700 to 1700
+Bad = 1700 to 2500
+Normal = 2500 to 3000
+Higher = 3000 to 3500
+Very High = 3500 to 4000
+
+=====
+MG - WEAR
+=====
+
+Very Bad = 3500 to 4500
+Bad = 4500 to 5500
+Normal = 5500 to 6500
+Higher = 6500 to 7500
+Very High = 7500 to 8500
+
+============
+DIRT
+============
+
+=====
+Pistols - DIRT
+=====
+
+Very Bad = 600 to 1000
+Bad = 1000 to 1400
+Normal = 1400 to 1800
+Higher = 1800 to 2200
+Very High = 2200 to 2600
+
+=====
+SMG / Rifles - DIRT
+=====
+
+Very Bad = 60.000 to 150.000
+Bad = 150.000 to 250.000
+Normal = 250.000 to 350.000
+Higher = 350.000 to 500.000
+Very High = 500.000 to 600.000
+
+=====
+MG - DIRT
+=====
+
+Very Bad = 350.000 to 500.000
+Bad = 500.000 to 650.000
+Normal = 650.000 to 800.000
+Higher = 800.000 to 950.000
+Very High = 950.000 to 1.100.000
+
+============
+JAM PROBABILITY
+============
+
+semi/fully auto 0.002
+bolt/lever 0.0015
+machinegun 0.001
+revolver 0.0003
+
+---
+
+old = 10x
+bad = 5x
+normal = 1x
+high = 0.5
+highest = 0.2
+
+=====
+Pistols / SMGS / RIFLES - JAM
+=====
+
+Very Bad = 0.02 to 0.01
+Bad = 0.01 to 0.004
+Normal = 0.004 to 0.002
+Higher = 0.002 to 0.001
+Very High = 0.001 to 0.0005
+
+=====
+Lever / Bolt - JAM
+=====
+
+Very Bad = 0.015 to 0.007
+Bad = 0.007 to 0.003
+Normal = 0.003 to 0.0015
+Higher = 0.0015 to 0.0007
+Very High = 0.0007 to 0.0003
+
+=====
+MG - JAM
+=====
+
+Very Bad = 0.01 to 0.004
+Bad = 0.004 to 0.002
+Normal = 0.002 to 0.001
+Higher = 0.001 to 0.0005
+Very High = 0.0005 to 0.0001
+
+
+==================
+CATEGORIZED
+==================
+
+=====
+Pistols - WEAR
+=====
+
+Very Bad = 200 to 800
+Bad = 900 to 1300
+Normal = 1400 to 1800
+Higher = 1900 to 2300
+Very High = 2400 to 2800
+
+=====
+Pistols - DIRT
+=====
+
+Very Bad = 40.000 to 100.000
+Bad = 100.000 to 140.000
+Normal = 140.000 to 180.000
+Higher = 180.000 to 220.000
+Very High = 220.000 to 260.000
+
+=====
+Pistols - OVERHEATING
+=====
+
+Very Bad = 15 to 50
+Bad = 60 to 70
+Normal = 80 to 90
+Higher = 100 to 110
+Very High = 120 to 130
+
+=====
+Pistols / SMGS / RIFLES - JAM
+=====
+
+Very Bad = 0.02 to 0.01
+Bad = 0.01 to 0.004
+Normal = 0.004 to 0.002
+Higher = 0.002 to 0.001
+Very High = 0.001 to 0.0005
+
+==============================================
+==============================================
+
+=====
+Rifles / SMG - WEAR
+=====
+
+Very Bad = 500 to 2000
+Bad = 2000 to 3500
+Normal = 3500 to 5000
+Higher = 5000 to 6500
+Very High = 6500 to 8000
+
+
+=====
+SMG / Rifles - DIRT
+=====
+
+Very Bad = 50.000 to 150.000
+Bad = 150.000 to 250.000
+Normal = 250.000 to 400.000
+Higher = 400.000 to 550.000
+Very High = 550.000 to 750.000
+
+=====
+Pistols / SMGS / RIFLES - JAM
+=====
+
+Very Bad = 0.02 to 0.01
+Bad = 0.01 to 0.004
+Normal = 0.004 to 0.002
+Higher = 0.002 to 0.001
+Very High = 0.001 to 0.0005
+
+=====
+SMG / Rifles - OVERHEATING
+=====
+
+CQC = 80 to 110
+Compact = 110 to 140
+Normal = 140 to 170
+Long Barrel = 170 to 200
+Larger = 200+
+
+
+battle rifle:
+
+wear -500
+heat -30
+
+==============================================
+==============================================
+
+=====
+MG - WEAR
+=====
+
+Very Bad = 2500 to 4000
+Bad = 4000 to 6500
+Normal = 6500 to 8000
+Higher = 8000 to 10500
+Very High = 10500 to 13000
+
+
+=====
+MG - DIRT
+=====
+
+Very Bad = 250.000 to 400.000
+Bad = 400.000 to 800.000
+Normal = 800.000 to 1200.000
+Higher = 1200.000 to 1600.000
+Very High = 1600.000 to 2000.000
+
+=====
+MG - JAM
+=====
+
+Very Bad = 0.0015+
+Bad = 0.0015 to 0.001
+Normal = 0.0009 to 0.0006
+Higher = 0.0006 to 0.0003
+Very High = 0.0003 to 0.0001
+
+=====
+MG - OVERHEATING
+=====
+
+CQC = 500-
+Compact = 500 to 550
+Normal = 600 to 650
+Long Barrel = 650 to 700
+Larger = 700+
+
+wear -500
+heat -50

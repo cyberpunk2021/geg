@@ -10595,7 +10595,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		165
-EffectiveRange	66
+EffectiveRange	60
 RangeCurvature	8
 Balance			0.62
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -10636,7 +10636,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		165
-EffectiveRange	66
+EffectiveRange	60
 RangeCurvature	8
 Balance			0.62
 ClipInSound		"Weapon\ClipIn\pistol_loading.wav"
@@ -21824,7 +21824,7 @@ DirtResource	200000
 MisfireProb		0.0034
 HeatCapacity	110
 Single			1
-Burst			0
+Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		190
@@ -21863,7 +21863,7 @@ DirtResource	200000
 MisfireProb		0.0034
 HeatCapacity	110
 Single			1
-Burst			0
+Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		95
@@ -41484,7 +41484,7 @@ SingleFireTime	0.71
 BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		2700
-DirtResource	650000
+DirtResource	750000
 MisfireProb		0.0024
 HeatCapacity	150
 Single			1
@@ -41508,7 +41508,7 @@ ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
 ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
-ACTOR			"Items\AK47n_Real.act"
+ACTOR			"Items\akmwasr.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -41521,7 +41521,7 @@ SingleFireTime	0.71
 BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		2700
-DirtResource	650000
+DirtResource	750000
 MisfireProb		0.0024
 HeatCapacity	150
 Single			1
@@ -41545,7 +41545,7 @@ ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
 ATT Bayonet		1 "StdBayonet" blocks Bipod
 ATT Magazine	1 "AK 5.56"
 StdPlug			"Metal rifle ammo clip (AK 5.56/30)"
-ACTOR			"Items\AK47n_Real.act"
+ACTOR			"Items\akmwasr.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -41558,7 +41558,7 @@ SingleFireTime	0.71
 BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		2700
-DirtResource	650000
+DirtResource	750000
 MisfireProb		0.0024
 HeatCapacity	150
 Single			1
@@ -41582,7 +41582,7 @@ ATT ILauncher	1 "GP-30" blocks Bayonet and Bipod
 ATT Bayonet		1 "StdBayonet" blocks Bipod and Silencer
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Rifle ammo clip (AK 7.62/30)"
-ACTOR			"Items\AK47n_Real.act"
+ACTOR			"Items\akmwasr.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -43277,7 +43277,7 @@ DirtResource	680000
 MisfireProb		0.0014
 HeatCapacity	155
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		490
@@ -43316,7 +43316,7 @@ DirtResource	680000
 MisfireProb		0.0014
 HeatCapacity	155
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		245
@@ -49030,7 +49030,7 @@ DirtResource	750000
 MisfireProb		0.0036
 HeatCapacity	140
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		490
@@ -50647,7 +50647,7 @@ DirtResource	180000
 MisfireProb		0.0014
 HeatCapacity	125
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		880
@@ -54212,7 +54212,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -54251,7 +54251,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -54368,7 +54368,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -54407,7 +54407,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "PBS - 5,45"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "AK 5.45"
 StdPlug			"Rifle ammo clip (AK 5.45/30)"
@@ -54840,7 +54840,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -54879,7 +54879,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -54996,7 +54996,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -55035,7 +55035,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
@@ -55468,7 +55468,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -55507,7 +55507,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -55624,7 +55624,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -55663,7 +55663,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 6,8x43"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
@@ -56096,7 +56096,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -56135,7 +56135,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -56252,7 +56252,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -56291,7 +56291,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	3 "AK""M24x1,5""PBS - 7,62x39"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "AK 7.62""RPK"
 StdPlug			"Plastic rifle ammo clip (AK 7.62/30)"
@@ -56568,7 +56568,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
@@ -56607,7 +56607,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
@@ -56724,7 +56724,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
@@ -56763,7 +56763,7 @@ ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 7,62"
-ATT ILauncher	2 "M203""M203PI"
+ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
@@ -57247,7 +57247,7 @@ ITEM "Submachine-gun AR Pistol AUTO (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			1700
-PrepareTime		0.19
+PrepareTime		0.21
 SingleFireTime	0.66
 BurstFireTime	0.08
 SpeedModifier	0.9
@@ -59937,8 +59937,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -59976,8 +59976,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60015,8 +60015,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60034,7 +60034,7 @@ ITEM "Assault Rifle C7FT (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3700
-PrepareTime		0.40
+PrepareTime		0.41
 SingleFireTime	0.76
 BurstFireTime	0.0706
 SpeedModifier	1.08
@@ -60055,8 +60055,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60095,8 +60095,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60114,7 +60114,7 @@ ITEM "Assault Rifle C7FT B (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3700
-PrepareTime		0.40
+PrepareTime		0.41
 SingleFireTime	0.76
 BurstFireTime	0.0706
 SpeedModifier	1.08
@@ -60135,8 +60135,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount"
-ATT Light		1 "Barrel Mount"
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60232,7 +60232,7 @@ ITEM "Assault Rifle C7FT CAR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3100
-PrepareTime		0.33
+PrepareTime		0.32
 SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1.02
@@ -60253,8 +60253,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount" blocks Light
-ATT Light		1 "Barrel Mount" blocks Laser
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60272,7 +60272,7 @@ ITEM "Assault Rifle C7FT CAR (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3100
-PrepareTime		0.30
+PrepareTime		0.29
 SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1.02
@@ -60293,8 +60293,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount" blocks Light
-ATT Light		1 "Barrel Mount" blocks Laser
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60312,7 +60312,7 @@ ITEM "Assault Rifle C7FT CAR B (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3100
-PrepareTime		0.33
+PrepareTime		0.32
 SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1.02
@@ -60333,8 +60333,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount" blocks Light
-ATT Light		1 "Barrel Mount" blocks Laser
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -60352,7 +60352,7 @@ ITEM "Assault Rifle C7FT CAR B (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3100
-PrepareTime		0.33
+PrepareTime		0.29
 SingleFireTime	0.69
 BurstFireTime	0.08
 SpeedModifier	1.02
@@ -60373,8 +60373,8 @@ ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
-ATT Laser		1 "Barrel Mount" blocks Light
-ATT Light		1 "Barrel Mount" blocks Laser
+ATT Laser		2 "WR""WRRifle"
+ATT Light		2 "WR""WRRifle"
 ATT Scope		1 "WR"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
@@ -65154,7 +65154,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Craner_butt4"
 ACTOR			"Items\mk12.act"
 IMAGE			"2x5.e5b"
@@ -65193,7 +65193,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Craner_butt4_folded"
 ACTOR			"Items\mk12.act"
 IMAGE			"2x4.e5b"
@@ -65232,7 +65232,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Craner_butt4"
 ACTOR			"Items\mk12fg.act"
 IMAGE			"2x5.e5b"
@@ -65271,7 +65271,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (M16/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 StdPlug			"Craner_butt4_folded"
 ACTOR			"Items\mk12fg.act"
 IMAGE			"2x4.e5b"
@@ -67741,7 +67741,7 @@ ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt2"
-ACTOR			"Items\moewarrior.act"
+ACTOR			"Items\moewarrior300.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -67781,7 +67781,7 @@ ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt2_folded"
-ACTOR			"Items\moewarrior.act"
+ACTOR			"Items\moewarrior300.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -67821,7 +67821,7 @@ ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\moewarrior_bk.act"
+ACTOR			"Items\moewarrior_bk300.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -67861,7 +67861,7 @@ ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
 StdPlug			"Frontgrip"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\moewarrior_bk.act"
+ACTOR			"Items\moewarrior_bk300.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -69606,7 +69606,7 @@ DirtResource	310000
 MisfireProb		0.0009
 HeatCapacity	145
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		500
@@ -69649,7 +69649,7 @@ DirtResource	310000
 MisfireProb		0.0009
 HeatCapacity	145
 Single			1
-Burst			1
+Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		400
@@ -77355,7 +77355,7 @@ ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "Galil"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
+ATT ILauncher	1 "IMC40"
 ATT Bayonet		0
 ATT Magazine	1 "Galil556"
 StdPlug			"Galil clip 5.56"
@@ -77394,7 +77394,7 @@ ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "Galil"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
-ATT ILauncher	0
+ATT ILauncher	1 "IMC40"
 ATT Bayonet		0
 ATT Magazine	1 "Galil556"
 StdPlug			"Galil clip 5.56"
@@ -77433,8 +77433,8 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		1 "Galil"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Silencer
+ATT ILauncher	1 "IMC40" blocks Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Galil556"
 StdPlug			"Galil clip 5.56"
 StdPlug			"indumil_buttopen"
@@ -77472,8 +77472,8 @@ ATT Light		1 "Barrel Mount"
 ATT Scope		1 "Galil"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
-ATT ILauncher	0
-ATT Bayonet		1 "M9" blocks Silencer
+ATT ILauncher	1 "IMC40" blocks Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Galil556"
 StdPlug			"Galil clip 5.56"
 StdPlug			"indumil_buttfolded"
@@ -77829,7 +77829,7 @@ ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "Galil"
 ATT Bipod		0
 ATT Silencer	2 "Galil""Supressor - 7,62"
-ATT ILauncher	0
+ATT ILauncher	1 "IMC40"
 ATT Bayonet		0
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
@@ -77868,7 +77868,7 @@ ATT Light		1 "Barrel Mount" blocks Laser
 ATT Scope		1 "Galil"
 ATT Bipod		0
 ATT Silencer	2 "Galil""Supressor - 7,62"
-ATT ILauncher	0
+ATT ILauncher	1 "IMC40"
 ATT Bayonet		0
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
@@ -77908,9 +77908,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "Galil"
 ATT Bipod		0
-ATT Silencer	2 "Galil""Supressor - 7,62"
-ATT ILauncher	0
-ATT Bayonet		0
+ATT Silencer	2 "Galil""Supressor - 7,62" blocks Bayonet
+ATT ILauncher	1 "IMC40" blocks Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
 StdPlug			"indumil_buttopen"
@@ -77947,9 +77947,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "Galil"
 ATT Bipod		0
-ATT Silencer	2 "Galil""Supressor - 7,62"
-ATT ILauncher	0
-ATT Bayonet		0
+ATT Silencer	2 "Galil""Supressor - 7,62" blocks Bayonet
+ATT ILauncher	1 "IMC40" blocks Bayonet
+ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
 StdPlug			"indumil_buttfolded"
@@ -77986,9 +77986,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "Galil"
 ATT Bipod		1 "built-in"
-ATT Silencer	2 "Galil""Supressor - 7,62"
+ATT Silencer	2 "Galil""Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
 StdPlug			"indumil_buttopen"
@@ -78026,9 +78026,9 @@ ATT Laser		1 "Barrel Mount"
 ATT Light		1 "Barrel Mount"
 ATT Scope		1 "Galil"
 ATT Bipod		1 "built-in"
-ATT Silencer	2 "Galil""Supressor - 7,62"
+ATT Silencer	2 "Galil""Supressor - 7,62" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "Galil762"
 StdPlug			"Galil clip 7.62"
 StdPlug			"indumil_buttfolded"
@@ -80965,7 +80965,7 @@ DirtResource	750000
 MisfireProb		0.0019
 HeatCapacity	85
 Single			1
-Burst			0
+Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		350
@@ -81004,7 +81004,7 @@ DirtResource	750000
 MisfireProb		0.0019
 HeatCapacity	85
 Single			1
-Burst			0
+Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		175
@@ -97453,6 +97453,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag 30-06"
+StdPlug			"Optical Sight Leupold Rifleman 3-9x (M24)"
 ACTOR			"Items\rem700.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -97492,6 +97493,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "built-in"
 StdPlug			"Remington 700 mag 30-06"
+StdPlug			"Optical Sight Leupold VX-1 3-9x50 (WR)"
 ACTOR			"Items\rem700p.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
@@ -99825,7 +99827,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "CheyTac"
 StdPlug			"Sniper rifle clip (CheyTac/7)"
-StdPlug			"CheyTac bipod"
+StdPlug			"CheyTac bipod Folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"M14_butt"
 ACTOR			"Items\CheyTac.act"
@@ -99866,7 +99868,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "CheyTac"
 StdPlug			"Sniper rifle clip (CheyTac/7)"
-StdPlug			"CheyTac bipod"
+StdPlug			"CheyTac bipod Folded"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
 StdPlug			"M14_butt_folded"
 ACTOR			"Items\CheyTac.act"
@@ -100103,7 +100105,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Wz35Mag"
 StdPlug			"Sniper rifle clip (WZ35/4)"
-StdPlug			"WZ35 Bipod"
+StdPlug			"WZ35 Bipod Folded"
 ACTOR			"Items\wz35.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle

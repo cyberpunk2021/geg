@@ -1,117 +1,157 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <strings>
-	<str id="lang/cfg/weaponorder/order/GEGDesert">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, holster with attachment pack to store magazines. Place of Origin: Magnum Research Inc - Minnesota, USA.</str>
-	<str id="lang/cfg/weaponorder/order/GEGNighthawk">Premium .45 1911-Derivate. The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Yonkers, New York, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGDesert">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, holster with attachment pack to store magazines. Place of Origin: Magnum Research Inc - Minnesota, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGNighthawk">Premium .45 1911-Derivate. The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Yonkers, New York, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGGyurza">The kit consists of 4 spare magazines, 100 rounds of SP-10 ammunition, 100 rounds of SP-11 ammunition, cleaning kit, small weapon case, holster with attachment pack to store magazines. Place of Origin: TSNIITOCHMASH - Klimovsk, Russia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGGyurza">The delivery consists of 4 spare magazines, 100 rounds of SP-10 ammunition, 100 rounds of SP-11 ammunition, cleaning kit, small weapon case, holster with attachment pack to store magazines. Place of Origin: TSNIITOCHMASH - Klimovsk, Russia.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGGlock22">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, threaded barrel, suppressor, pistol red dot sight, holster with attachment pack to store magazines. Place of Origin: GLOCK USA - Georgia, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGGlock22">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, threaded barrel, suppressor, pistol red dot sight, holster with attachment pack to store magazines. Place of Origin: GLOCK USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGCZ75Shadow">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, suppressor, pistol red dot sight, holster with attachment pack to store magazines. Place of Origin: CZ-USA - Kansas, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGGlock18">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, threaded barrel, 2 suppressors, pistol red dot sight, holster with attachment pack to store magazines. Place of Origin: GLOCK USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGPT1911">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	<str id="lang/cfg/weaponorder/order/GEGCZ75Shadow">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, suppressor, pistol red dot sight, holster with attachment pack to store magazines. Place of Origin: CZ-USA - Kansas, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGUSPMATCH">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Heckler & Koch USA - Georgia, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGPT1911">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEG90Two">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Beretta USA - Maryland, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGUSPMATCH">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Heckler & Koch USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEG57">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: FN America - Virginia, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGUSPTactical">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, 2 suppressors, small weapon case, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Heckler & Koch USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEG007">If you ever wanted to feel like everybody's favorite 00-Agent, look no further. Package includes a Walther PPK with everything a Secret Agent needs plus a Special Edition Gold Lighter. Laser Watch not included. Place of Origin: Bobby Ray's Guns and Things.</str>
+	<str id="lang/cfg/weaponorder/order/GEG90Two">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, 2 suppressors, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Beretta USA - Maryland, USA.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGM9A1">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, 2 suppressors, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Beretta USA - Maryland, USA.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG92Inox">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, 2 suppressors, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Beretta USA - Maryland, USA.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGPT92">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, 2 suppressors, pistol red dot sight, laser sight, flashlight, holster with attachment pack to store magaziness. Place of Origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG57">The delivery consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: FN America - Virginia, USA.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG007">If you ever wanted to feel like everybody's favorite 00-Agent, look no further. Package includes a .32 ACP Walther PPK with everything a Secret Agent needs plus a Special Edition Gold Lighter. 150 rounds of ammunition, 4 spare magazines and a suppressor. Laser Watch not included. Place of Origin: Bobby Ray's Guns and Things.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGPSS">The delivery consists of 4 spare magazines, 100 rounds of ammunition, cleaning kit and holster. Place of Origin: TSNIITOCHMASH - Klimovsk, Russia.</str>
 	
 	<!-- SHOTGUNS -->
 	
-	<str id="lang/cfg/weaponorder/order/GEGKSG">Keltec's groundbreaking 12 Gauge Shotgun, the Package includes Case, AN/PEQ-2 for Target Illumination, Aimpoint T-1 Micro RDS, Manual, Cleaning Kit, 20 armor-piercing Sabot-Shells and 30 N4 Shotgun-Shells. Place of Origin: Cocoa, Florida, USA.</str>
+	<str id="lang/cfg/weaponorder/order/GEGKSG">Keltec's groundbreaking 12 Gauge Shotgun, the Package includes Case, AN/PEQ-2 for Target Illumination, Aimpoint T-1 Micro RDS, Manual, Cleaning Kit, 50 armor-piercing Sabot shells, 50 #4 buckshot shells and 50 Magnum buckshot shells. Place of Origin: Kel-Tec CNC Industries Inc. - Cocoa, Florida, USA.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGM1014">The delivery consists of cleaning kit, waist pack for shell storage, user manual, red dot sight, 50 armor-piercing Sabot shells, 50 #4 buckshot shells and 50 Magnum buckshot shells. Place of Origin: Benelli Armi SpA - Urbino, Italy.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEG870">The delivery consists of cleaning kit, waist pack for shell storage, red dot sight, user manual, red dot sight, 50 armor-piercing Sabot shells, 50 #4 buckshot shells and 50 Magnum buckshot shells. Place of Origin: Remington Arms Company, LLC - Mayfield, Kentucky, United States.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGKS23">The delivery consists of cleaning kit, waist pack for shell storage, red dot sight, user manual, 100 shells. Place of Origin: TSNIITOCHMASH - Klimovsk, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGUSAS12">The delivery consists of cleaning kit, waist pack, 4 spare 10 round magazines, 4 drum magazines, user manual and 200 Magnum buckshot shells. Place of Origin: S&T Motiv / Daewoo Precision Industries - Busan, South Korea.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGSAIGA">The delivery consists of cleaning kit, waist pack, 3 spare 5 round magazines, 3 8 round magazines, 3 drum magazines, scope mount, user manual and 200 Magnum buckshot shells. Place of Origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
 	
 	<!-- SMGS -->
 
-	<str id="lang/cfg/weaponorder/order/GEGMP510MM">We're at Bobby Ray's are proud to deliver a MP5-10mm to you which in no ways is inferior to the FBI issued ones. Package includes four 10mm Magazines, 90 Rounds JHP-Ammo, Silencer, RIS Body Kit, Folding Stock, Surefire Flashlight Foregrip, Barska Red Dot Sight, Medium Transportation Case and Cleaning Kit. Detailed Manual comes along. Place of Origin: Bobby Ray's Guns and Things.</str>
+	<str id="lang/cfg/weaponorder/order/GEGKRISS">The delivery consists of 4 spare magazines, 200 rounds of ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: KRISS USA, Inc. - Virginia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGMP9">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Brugger & Thomet AG - Thun, Bern, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGMP510MM">We at Bobby Ray's are proud to deliver a MP5-10mm to you which in no ways is inferior to the FBI issued ones. Package includes four 10mm Magazines, 200 Rounds of JHP ammunition, Suppressor, RIS Body Kit, Folding Stock, Surefire Flashlight Foregrip, Trijicon Red Dot Sight, Medium Transportation Case and Cleaning Kit. Detailed Manual comes along. Place of Origin: Bobby Ray's Guns and Things.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGMX4">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, tactical foregrip, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
+	<str id="lang/cfg/weaponorder/order/GEGP90">The delivery consists of 4 spare magazines, 200 rounds of JHP ammunition, 200 rounds of FMJ ammunition, suppressor, laser sight, flashlight, cleaning kit and magazine pouch. Place of origin: FN America - Virginia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGBIZON9x18">The kit consists of 4 spare magazines, 350 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGP90TR">The delivery consists of 4 spare magazines, 200 rounds of JHP ammunition, 200 rounds of FMJ ammunition, suppressor, laser sight, flashlight, cleaning kit and magazine pouch. Place of origin: FN America - Virginia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGBIZON9mm">The kit consists of 4 spare magazines, 272 rounds of +P+ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGMP5">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, fixed stock, flashlight, RIS handguard, dual magazine clamp, user manual, red dot sight, cleaning kit and magazine pouch. Place of origin: Heckler & Koch USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGVityaz9mm">The kit consists of 4 spare magazines, 170 rounds of +P+ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGMP540">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, fixed stock, flashlight, RIS handguard, dual magazine clamp, user manual, red dot sight, cleaning kit and magazine pouch. Place of origin: Heckler & Koch USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGFAMAESAF">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: FAMAE (Fabricas y Maestranzas del Ejercito) - Santiago, Chile.</str>
+	<str id="lang/cfg/weaponorder/order/GEGMP5SD">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, fixed stock, dual magazine clamp, user manual, red dot sight, cleaning kit and magazine pouch. Place of origin: Heckler & Koch USA - Georgia, USA.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGMT40">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	<str id="lang/cfg/weaponorder/order/GEGMP9">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Brugger & Thomet AG - Thun, Bern, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGMT40G2">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	<str id="lang/cfg/weaponorder/order/GEGAEK919">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: ОАО Zаvоd imeni V. А. Dеgtyarevа - Kovrov, Vladimir Oblast, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGMX4">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, tactical foregrip, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGAUGPARA">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, user manual, suppressor, cleaning kit and magazine pouch. Place of origin: Steyr Mannlicher - Steyr-Land District, Austria.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGUZI">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Israel Weapon Industries - Ramat HaSharon, Israel.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGBIZON9x18">The delivery consists of 4 spare magazines, 350 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGBIZON9mm">The delivery consists of 4 spare magazines, 272 rounds of +P+ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGVityaz9mm">The delivery consists of 4 spare magazines, 170 rounds of +P+ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern / IZHMASH - Izhevsk, Udmurtia, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGFAMAESAF">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: FAMAE (Fabricas y Maestranzas del Ejercito) - Santiago, Chile.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGMT40">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGCOLTSMG">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, sight mount, user manual, red dot sight, cleaning kit and magazine pouch. Place of origin: Colt Defense - Hartford, Connecticut, United States.</str>
 	
 	<!-- RIFLES -->
 	
-	<str id="lang/cfg/weaponorder/order/GEGSL8">The kit consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, 4x ACOG scope, cleaning kit, user manual and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSL8">The delivery consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, 4x ACOG scope, cleaning kit, user manual and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGHK33">The kit consists of 3 30 round spare magazines, 2 40 round spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
+	<str id="lang/cfg/weaponorder/order/GEGHK33">The delivery consists of 3 30 round spare magazines, 2 40 round spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGG41">The kit consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, fixed and telescopic stock, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
+	<str id="lang/cfg/weaponorder/order/GEGG41">The delivery consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, fixed and telescopic stock, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGAK5CAR">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
+	<str id="lang/cfg/weaponorder/order/GEGAK5CAR">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGAK5">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
+	<str id="lang/cfg/weaponorder/order/GEGAK5">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGAR70">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, sight mount, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
+	<str id="lang/cfg/weaponorder/order/GEGAR70">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, sight mount, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGAR7090">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, sight mount, red dot sight, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
+	<str id="lang/cfg/weaponorder/order/GEGAR7090">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, sight mount, red dot sight, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGARX160">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
+	<str id="lang/cfg/weaponorder/order/GEGARX160">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGFAMAS">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Nexter Systems - Roanne, France.</str>
+	<str id="lang/cfg/weaponorder/order/GEGFAMAS">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Nexter Systems - Roanne, France.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGFNC">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
+	<str id="lang/cfg/weaponorder/order/GEGFNC">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSCARL">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, laser sight, red dot sight, tactical foregrip, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSCARL">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, laser sight, red dot sight, tactical foregrip, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSCARH">The kit consists of 4 spare magazines, 120 rounds of JHP ammunition, grenade launcher, 6 HE grenades, laser sight, red dot sight, tactical foregrip, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSCARH">The delivery consists of 4 spare magazines, 120 rounds of JHP ammunition, grenade launcher, 6 HE grenades, laser sight, red dot sight, tactical foregrip, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGF2000">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, red dot sight, grenade launcher, 6 HE grenades, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
+	<str id="lang/cfg/weaponorder/order/GEGF2000">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, red dot sight, grenade launcher, 6 HE grenades, suppressor, cleaning kit and magazine pouch. Place of origin: Fabrique Nationale d'Herstal - Herstal, Belgium.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSS2">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: PT Pindad - Bandung, Indonesia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSS2">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: PT Pindad - Bandung, Indonesia.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGK2">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Daewoo Precision Industries - Busan, South Korea.</str>
+	<str id="lang/cfg/weaponorder/order/GEGK2">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Daewoo Precision Industries - Busan, South Korea.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGTAURUSCT">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
+	<str id="lang/cfg/weaponorder/order/GEGTAURUSCT">The delivery consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Forjas Taurus S.A. - Rio Grande do Sul, Brazil.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGBADGER">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, red dot sight, tactical foregrip, cleaning kit and magazine pouch. Place of origin: Advanced Armament Corporation - Huntsville, Alabama.</str>
+	<str id="lang/cfg/weaponorder/order/GEGBADGER">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, red dot sight, tactical foregrip, cleaning kit and magazine pouch. Place of origin: Advanced Armament Corporation - Huntsville, Alabama.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGRK62">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, sight mount, bayonet, red dot sight, suppressor, cleaning kit and magazine pouch. Place of origin: SAKO, Limited - Riihimaki, Finland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGRK62">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, sight mount, bayonet, red dot sight, suppressor, cleaning kit and magazine pouch. Place of origin: SAKO, Limited - Riihimaki, Finland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGRK95">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, sight mount, bayonet, red dot sight, suppressor, cleaning kit and magazine pouch. Place of origin: SAKO, Limited - Riihimaki, Finland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGRK95">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, sight mount, bayonet, red dot sight, suppressor, cleaning kit and magazine pouch. Place of origin: SAKO, Limited - Riihimaki, Finland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGAK107">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, sight mount, bayonet, suppressor, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern - Izhevsk, Russia</str>
+	<str id="lang/cfg/weaponorder/order/GEGAK107">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, grenade launcher, 6 HE grenades, sight mount, bayonet, suppressor, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern - Izhevsk, Russia</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGM21">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Zastava Arms - Kragujevac, Serbia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGM21">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, cleaning kit and magazine pouch. Place of origin: Zastava Arms - Kragujevac, Serbia.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGM77">The kit consists of 4 spare magazines, 120 rounds of FMJ ammunition, suppressor, sight mount, red dot sight, bayonet, cleaning kit and magazine pouch. Place of origin: Zastava Arms - Kragujevac, Serbia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGM77">The delivery consists of 4 spare magazines, 120 rounds of FMJ ammunition, suppressor, sight mount, red dot sight, bayonet, cleaning kit and magazine pouch. Place of origin: Zastava Arms - Kragujevac, Serbia.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGVZ58">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, bayonet, cleaning kit and magazine pouch. Place of origin: Ceska zbrojovka a.s. - Uhersky Brod, Czech Republic.</str>
+	<str id="lang/cfg/weaponorder/order/GEGVZ58">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, bayonet, cleaning kit and magazine pouch. Place of origin: Ceska zbrojovka a.s. - Uhersky Brod, Czech Republic.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSR3M">The kit consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, cleaning kit and magazine pouch. Place of Origin: TSNIITOCHMASH - Klimovsk, Russia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSR3M">The delivery consists of 4 spare magazines, 150 rounds of FMJ ammunition, suppressor, cleaning kit and magazine pouch. Place of Origin: TSNIITOCHMASH - Klimovsk, Russia.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSG542">The kit consists of 4 spare magazines, 120 rounds of JHP ammunition, cleaning kit, suppressor, bayonet, user manual and magazine pouch. Place of origin: FAMAE (Fabricas y Maestranzas del Ejercito) - Santiago, Chile.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSG542">The delivery consists of 4 spare magazines, 120 rounds of JHP ammunition, cleaning kit, suppressor, bayonet, user manual and magazine pouch. Place of origin: FAMAE (Fabricas y Maestranzas del Ejercito) - Santiago, Chile.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSG550">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSG550">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSG550GR">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSG550GR">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSIG552">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSIG552">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSIG552GR">The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSIG552GR">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSIG553">The SG 553 has increased reliability over the SG 552. The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSIG553">The SG 553 has increased reliability over the SG 552. The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSIG553GR">The SG 553 has increased reliability over the SG 552. The kit consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSIG553GR">The SG 553 has increased reliability over the SG 552. The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, laser sight, a C-MORE red dot sight, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGSG751">The kit consists of 4 spare magazines, 120 rounds of JHP ammunition, laser sight, compatible bayonet, 4x ACOG scope, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
+	<str id="lang/cfg/weaponorder/order/GEGSG751">The delivery consists of 4 spare magazines, 120 rounds of JHP ammunition, laser sight, compatible bayonet, 4x ACOG scope, cleaning kit, suppressor, user manual, magazine pouch. Includes Multitool knife souvenir from Switzerland. Place of origin: SAN Swiss Arms AG - Schaffhausen, Neuhausen am Rheinfall, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGType89">The kit consists of 4 spare magazines, 150 rounds of M193 ammunition, compatible bayonet, a Truglo red dot sight, cleaning kit, suppressor and load bearing equipment. Place of origin: Howa Machinery Company Ltd - Kiyosu, Aichi, Japan.</str>
+	<str id="lang/cfg/weaponorder/order/GEGType89">The delivery consists of 4 spare magazines, 150 rounds of M193 ammunition, compatible bayonet, a Truglo red dot sight, cleaning kit, suppressor and load bearing equipment. Place of origin: Howa Machinery Company Ltd - Kiyosu, Aichi, Japan.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGType64">The kit consists of 4 spare magazines, 120 rounds of M80 ammunition, compatible bayonet, cleaning kit, suppressor and load bearing equipment. Place of origin: Howa Machinery Company Ltd - Kiyosu, Aichi, Japan.</str>
+	<str id="lang/cfg/weaponorder/order/GEGType64">The delivery consists of 4 spare magazines, 120 rounds of M80 ammunition, compatible bayonet, cleaning kit, suppressor and load bearing equipment. Place of origin: Howa Machinery Company Ltd - Kiyosu, Aichi, Japan.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGSC2010">Shipment of one SC2010 Assault Rifle, four spare magazines, 120 Rounds of M80-Ammo, Rifle Case, ACOG-Optic and M3 Weaponlight. Place of Origin: Disenos Casanave S.A. - Lima, Peru.</str>
 	
@@ -125,14 +165,13 @@
 
     <str id="lang/cfg/weaponorder/order/GEGFNMAG">Package of one FN MAG 7.62x51mm GPMG, 500 M80 NATO Rounds, two Box-Mags, ELCAN-Sight, MG-Case, Cleaning Kit and Pouches. Place of Origin: Herstal, Belgium.</str>
 
-
 	<!-- CAIXAS DE ARMAS -->
 	
 	<str id="lang/cfg/weaponorder/order/GEGAK103">This package consists of a crate containing 5 AK-103 7.62x39 Assault Rifles, 10 spare magazines, user manual, 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: CAVIM (C.A. Venezolana de Industrias Militares) - Caracas, Venezuela.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGMD97Box">This package consists of a crate containing 5 Imbel MD-97L 5.56 Assault Rifles, 10 spare magazines 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: IMBEL (Industria de Material Belico do Brasil) - Minas Gerais, Brazil.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGM964CIVBox">This package consists of a crate containing 5 Imbel M964 MD2 semi automatic 7.62x51 Battle Rifles, 10 spare magazines 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: IMBEL (Industria de Material Belico do Brasil) - Minas Gerais, Brazil.</str>
+	<str id="lang/cfg/weaponorder/order/GEGM964CIVBox">This package consists of a crate containing 5 Imbel M964 semi automatic 7.62x51 Battle Rifles, 10 spare magazines 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: IMBEL (Industria de Material Belico do Brasil) - Minas Gerais, Brazil.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGM964Box">This package consists of a crate containing 5 Imbel M964 select fire 7.62x51 Battle Rifles, 10 spare magazines 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: IMBEL (Industria de Material Belico do Brasil) - Minas Gerais, Brazil.</str>
 	
@@ -145,8 +184,6 @@
 	<str id="lang/cfg/weaponorder/order/GEGGalilACEBox">This package consists of a crate containing 5 Galil ACE 5.56 Assault Rifles, 10 spare magazines, 5 cleaning kits, 600 rounds of ammunition and load bearing equipment. Place of Origin: INDUMIL (Industria Militar de Colombia) - Bogota, Colombia.</str>
 
 	<!-- CAIXAS DE BALAS -->
-	
-	<str id="lang/cfg/weaponorder/order/GEG556x45CBCShipment">The kit consist of 5 spare magazine, 2 suppressors, a laser aiming module and a tactical flashlight. Place of Origin: Porto Alegre, Brazil - Forjas Taurus S.A..</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEG762x39Shipment">Shipment with 3000 rounds of 7.62x39mm M43 Armor Piercing ammunition, requires use of tools to open, which are NOT included in the delivery. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
 	<str id="lang/cfg/weaponorder/order/GEG762x39ShipmentFast">Express delivery, pay a higher fee for a quicker delivery. Shipment with 3000 rounds of 7.62x39mm M43 Armor Piercing ammunition, requires use of tools to open, included in this package is a bonus free of charge Swiss Pocket Knife suitable to opening it. Place of Origin: Xicheng District, Beijing, China - Norinco.</str>
@@ -208,6 +245,9 @@
 
 	<str id="lang/cfg/weaponorder/order/GEGGrenadeRGOBox">Shipment with five RGO Hand Grenades, requires use of tools to open, included in this package is a bonus free of charge Swiss Pocket Knife suitable to opening it. Place of Origin: Military District Far East, Russia.</str>
 
+	<!-- MISC -->
 	
-
+	<str id="lang/cfg/weaponorder/order/GEGOutfitPack">Package with Algeira SWAT (Carabineer) uniforms. Contains 150 pieces.</str>
+	<str id="lang/cfg/weaponorder/order/GEGOutfitPackPali">Package with Palinero Army uniforms. Contains 150 pieces.</str>
+	
 </strings>
