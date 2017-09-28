@@ -115,6 +115,7 @@
     <str id="lang/lua/iteminfo/GEG_ammodegrade_pre">Эти боеприпасы деградируют и перегревают оружие </str>
     <str id="lang/lua/iteminfo/GEG_ammodegrade_more">% быстрее.</str>
     <str id="lang/lua/iteminfo/GEG_ammodegrade_less">% медленнее.</str>
+	<str id="lang/lua/iteminfo/GEG_silencer_hint">[Для обеспечения долговечности супрессора обязательно используйте дозвуковые боеприпасы (скорость медленнее 330 м / с), в противном случае супрессор будет деградировать в 3 раза быстрее.]</str>
 	
 	<!-- GEG LABELS END -->
 

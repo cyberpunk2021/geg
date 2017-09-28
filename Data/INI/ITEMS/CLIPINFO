@@ -4809,12 +4809,12 @@ ACTOR  "Items\ms762-m3exp-10.act"
 USEPREFIX  ""
 IMAGE  "ms762-m3exp-10.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Metal rifle ammo clip (AK 5.56/30)""5.56υ45 μμ""AK 5.56"30 240 "Double metal rifle ammo clip (AK 5.56/60)"1000 
+CLIP  "Metal rifle ammo clip (AK 5.56/30)""5.56υ45 μμ""AK 5.56"30 310 "Double metal rifle ammo clip (AK 5.56/60)"1000 
 ACTOR  "Items\MS556-AK-30M.ACT"
 USEPREFIX  ""
 IMAGE  "ms556-ak-30.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-CLIP  "Double metal rifle ammo clip (AK 5.56/60)""5.56υ45 μμ""AK 5.56"60 460 "None"1000 
+CLIP  "Double metal rifle ammo clip (AK 5.56/60)""5.56υ45 μμ""AK 5.56"60 620 "None"1000 
 ACTOR  "Items\MS556-AK-30X2M.ACT"
 USEPREFIX  ""
 IMAGE  "ms556-ak-30x2.e5b"

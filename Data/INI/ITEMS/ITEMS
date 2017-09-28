@@ -2228,7 +2228,7 @@ None  "Items\ammoboxgeneric.act""boxgeneric.e5b"
 "PackedMREBox"
 None
 None  "Items\mre_box.act""mrebox.e5b"
-7500
+8250
 
 "PackedMREHUGEBox"
 None
@@ -2238,7 +2238,7 @@ None  "Items\box_util_dark.act""boxutil_grey.e5b"
 "PackedRationBox"
 None
 None  "Items\box_util_blue.act""boxutil_blue.e5b"
-7200
+16500
 
 "PackedSmershBox"
 None
@@ -4234,6 +4234,26 @@ None  "Items\confidencial.act""bloc_003.e5b"
 5
 
 "Receipt KS-23"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt L85 Family"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt AN-94"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt AEK Family"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt A-545 Family"
 None
 None  "Items\confidencial.act""bloc_003.e5b"
 5

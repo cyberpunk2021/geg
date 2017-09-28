@@ -115,6 +115,7 @@
     <str id="lang/lua/iteminfo/GEG_ammodegrade_pre">This ammunition degrades and overheats the weapon </str>
     <str id="lang/lua/iteminfo/GEG_ammodegrade_more">% faster.</str>
     <str id="lang/lua/iteminfo/GEG_ammodegrade_less">% slower.</str>
+    <str id="lang/lua/iteminfo/GEG_silencer_hint">[To ensure suppressor durability, make sure to use subsonic ammunition (velocity slower than 330 m/s), otherwise the suppressor will degrade 3 times faster.]</str>
 	
 	<!-- GEG LABELS END -->
 

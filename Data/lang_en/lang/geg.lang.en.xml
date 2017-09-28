@@ -63,7 +63,7 @@
 	
 	<str id="lang/cfg/weaponorder/order/GEGMP9">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Brugger & Thomet AG - Thun, Bern, Switzerland.</str>
 	
-	<str id="lang/cfg/weaponorder/order/GEGAEK919">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Œ¿Œ Z‡vÓd imeni V. ¿. DÂgtyarev‡ - Kovrov, Vladimir Oblast, Russia.</str>
+	<str id="lang/cfg/weaponorder/order/GEGAEK919">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, cleaning kit and magazine pouch. Place of origin: Œ¿Œ Z‡vÓd imeni V. ¿. Degtyarev‡ - Kovrov, Vladimir Oblast, Russia.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGMX4">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, red dot sight, tactical foregrip, cleaning kit and magazine pouch. Place of origin: Fabbrica d'Armi Pietro Beretta - Brescia, Italy.</str>
 	
@@ -83,15 +83,23 @@
 	
 	<str id="lang/cfg/weaponorder/order/GEGCOLTSMG">The delivery consists of 4 spare magazines, 200 rounds of FMJ ammunition, suppressor, sight mount, user manual, red dot sight, cleaning kit and magazine pouch. Place of origin: Colt Defense - Hartford, Connecticut, United States.</str>
 	
+	<!-- RIFLE FAMILY -->
+	
+	<str id="lang/cfg/weaponorder/order/GEGSA80">Includes parts to change between full size rifle (L85A2), carbine (L85A2 Carbine) and compact rifle (L22A2). The delivery also includes 6 spare magazines, 600 rounds of FMJ ammunition, suppressor, laser sight, 4x Elcan scope, red dot sight, cleaning kit, user manual and magazine pouch. Place of origin: BAE Systems plc - London, United Kingdom.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGAEK971">Includes parts to change between 5.45x39mm (AEK-971), 5.56x45mm (AEK-972) and 7.62x39mm (AEK-973). The delivery also includes 4 spare magazines of each caliber, grenade launcher, 8 HE grenades, sight mount, bayonet, cleaning kit and magazine pouch. No ammunition is provided in this package. Place of origin: Œ¿Œ Z‡vÓd imeni V. ¿. Degtyarev‡ - Kovrov, Vladimir Oblast, Russia.</str>
+	
+	<str id="lang/cfg/weaponorder/order/GEGA545">Includes parts to change between 5.45x39mm (A-545), and 7.62x39mm (A-762). The delivery also includes 5 spare magazines of each caliber, suppressor of each caliber, grenade launcher, 8 HE grenades, sight mount, bayonet, cleaning kit and magazine pouch. No ammunition is provided in this package. Place of origin: Œ¿Œ Z‡vÓd imeni V. ¿. Degtyarev‡ - Kovrov, Vladimir Oblast, Russia.</str>
+	
 	<!-- RIFLES -->
+	
+	<str id="lang/cfg/weaponorder/order/GEGAN94">The delivery consists of 6 spare magazines, 600 rounds of FMJ ammunition, grenade launcher, 8 HE grenades, sight mount, bayonet, cleaning kit and magazine pouch. Place of origin: Kalashnikov Concern - Izhevsk, Russia.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGSL8">The delivery consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, 4x ACOG scope, cleaning kit, user manual and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGHK33">The delivery consists of 3 30 round spare magazines, 2 40 round spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGG41">The delivery consists of 4 spare magazines, 150 rounds of Match ammunition, suppressor, laser sight, sight mount, fixed and telescopic stock, cleaning kit and magazine pouch. Place of origin: Heckler & Koch GmbH - Oberndorf am Neckar, Germany.</str>
-	
-	<str id="lang/cfg/weaponorder/order/GEGAK5CAR">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
 	
 	<str id="lang/cfg/weaponorder/order/GEGAK5">The delivery consists of 4 spare magazines, 150 rounds of JHP ammunition, suppressor, laser sight, red dot sight, cleaning kit and magazine pouch. Place of origin: Saab Bofors Dynamics - Linkoping, Sweden.</str>
 	

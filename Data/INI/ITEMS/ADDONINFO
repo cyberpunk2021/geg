@@ -8283,6 +8283,14 @@ IMAGE			"mg3_bipod.e5b"
 WEIGHT			400
 Resource		0
 //------------------------------------------------------
+Addon			"Hecate Bipod Folded"
+Bipod			"built-in"
+Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
+ACTOR			"Items\hecatebipodfolded.act"
+IMAGE			"mg3_bipod.e5b"
+WEIGHT			400
+Resource		0
+//------------------------------------------------------
 Addon			"Stoner63 Bipod Folded"
 Bipod			"StonerBipod"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"

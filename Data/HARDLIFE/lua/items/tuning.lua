@@ -316,6 +316,7 @@ local FoldBipodItems = {
     ["KSVK Bipod"] = "KSVK Bipod Folded",
     ["AMR2 Bipod"] = "AMR2 Bipod Folded",
     ["WZ35 Bipod"] = "WZ35 Bipod Folded",
+    ["Hecate Bipod"] = "Hecate Bipod Folded",
     --סתולםûו REMOVABLES
     ["G36 bipod"] = "G36 bipod folded",
 	["NEGEV Bipod"] = "NEGEV Bipod Folded",
@@ -838,6 +839,7 @@ AddItemContextMenu("Madsen Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("MG4 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("SSG08 Bipod", action_fold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("T81 Bipod", action_fold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Hecate Bipod", action_fold, FoldBipod, CanFoldBipod)
 
 AddItemContextMenu("AUG Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("FALO Integrated Bipod folded", action_unfold, FoldBipod, CanFoldBipod)
@@ -896,6 +898,7 @@ AddItemContextMenu("Madsen Bipod Folded", action_unfold, FoldBipod, CanFoldBipod
 AddItemContextMenu("MG4 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("SSG08 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 AddItemContextMenu("T81 Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
+AddItemContextMenu("Hecate Bipod Folded", action_unfold, FoldBipod, CanFoldBipod)
 
 AddContextMenu(_t"lang/lua/tuning/fold_bipods", FoldWeaponBipod, CanFoldWeaponBipod)
 AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWeaponBipod)

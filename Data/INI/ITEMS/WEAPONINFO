@@ -40553,7 +40553,7 @@ ITEM "Assault Rifle SIG 556 CQC CIV (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.27
+PrepareTime		0.28
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -40566,7 +40566,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		450
-EffectiveRange	145
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC CIV (5.56mm) folded"
@@ -40592,7 +40592,7 @@ ITEM "Assault Rifle SIG 556 CQC CIV (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.24
+PrepareTime		0.25
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -40605,7 +40605,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		360
-EffectiveRange	116
+EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC CIV (5.56mm)"
@@ -40631,7 +40631,7 @@ ITEM "Assault Rifle SIG 556 CQC CIV FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.27
+PrepareTime		0.28
 SingleFireTime	0.66
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -40644,7 +40644,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		450
-EffectiveRange	145
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded"
@@ -40670,7 +40670,7 @@ ITEM "Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.66
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -40683,7 +40683,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		360
-EffectiveRange	116
+EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC CIV FG (5.56mm)"
@@ -40709,7 +40709,7 @@ ITEM "Assault Rifle SIG 556 CAR CIV (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
-PrepareTime		0.36
+PrepareTime		0.32
 SingleFireTime	0.7
 BurstFireTime	0.085
 SpeedModifier	1.02
@@ -40722,7 +40722,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	185
+EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR CIV (5.56mm) folded"
@@ -40748,7 +40748,7 @@ ITEM "Assault Rifle SIG 556 CAR CIV (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
-PrepareTime		0.33
+PrepareTime		0.29
 SingleFireTime	0.7
 BurstFireTime	0.085
 SpeedModifier	1.02
@@ -40761,7 +40761,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		400
-EffectiveRange	148
+EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR CIV (5.56mm)"
@@ -40787,7 +40787,7 @@ ITEM "Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
-PrepareTime		0.36
+PrepareTime		0.32
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	1.02
@@ -40800,7 +40800,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	185
+EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
@@ -40826,7 +40826,7 @@ ITEM "Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
-PrepareTime		0.33
+PrepareTime		0.29
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	1.02
@@ -40839,7 +40839,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		400
-EffectiveRange	148
+EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
@@ -40865,7 +40865,7 @@ ITEM "Assault Rifle SIG 556 CIV (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3900
-PrepareTime		0.43
+PrepareTime		0.42
 SingleFireTime	0.72
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -40878,7 +40878,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	250
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CIV (5.56mm) folded"
@@ -40904,7 +40904,7 @@ ITEM "Assault Rifle SIG 556 CIV (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3900
-PrepareTime		0.4
+PrepareTime		0.39
 SingleFireTime	0.72
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -40917,7 +40917,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		440
-EffectiveRange	200
+EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CIV (5.56mm)"
@@ -40943,7 +40943,7 @@ ITEM "Assault Rifle SIG 556 CIV FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3900
-PrepareTime		0.43
+PrepareTime		0.42
 SingleFireTime	0.70
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -40956,7 +40956,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	250
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm) folded"
@@ -40982,7 +40982,7 @@ ITEM "Assault Rifle SIG 556 CIV FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3900
-PrepareTime		0.4
+PrepareTime		0.39
 SingleFireTime	0.70
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -40995,7 +40995,7 @@ Burst			0
 CutOff			0
 BurstHitStart	1
 MaxRange		440
-EffectiveRange	200
+EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm)"
@@ -48402,7 +48402,7 @@ BurstFireTime	0.0735
 SpeedModifier	0.95
 Resource		3200
 DirtResource	230000
-MisfireProb		0.0026
+MisfireProb		0.0021
 HeatCapacity	105
 Single			1
 Burst			1
@@ -48440,7 +48440,7 @@ BurstFireTime	0.0735
 SpeedModifier	1
 Resource		3200
 DirtResource	230000
-MisfireProb		0.0026
+MisfireProb		0.0021
 HeatCapacity	125
 Single			1
 Burst			1
@@ -48477,7 +48477,7 @@ BurstFireTime	0.0735
 SpeedModifier	1.04
 Resource		3200
 DirtResource	230000
-MisfireProb		0.0026
+MisfireProb		0.0021
 HeatCapacity	145
 Single			1
 Burst			1
@@ -48669,7 +48669,7 @@ ITEM "Assault Rifle Steyr AUG A2 SR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3550
-PrepareTime		0.37
+PrepareTime		0.38
 SingleFireTime	0.7059
 BurstFireTime	0.0882
 SpeedModifier	1.05
@@ -48756,7 +48756,7 @@ ITEM "Assault Rifle Steyr AUG A3 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3600
-PrepareTime		0.36
+PrepareTime		0.37
 SingleFireTime	0.69
 BurstFireTime	0.0882
 SpeedModifier	1.04
@@ -48908,7 +48908,7 @@ ITEM "Assault Rifle SAR21 FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3500
-PrepareTime		0.35
+PrepareTime		0.38
 SingleFireTime	0.66
 BurstFireTime	0.0882
 SpeedModifier	1.04
@@ -71475,7 +71475,7 @@ ITEM "Assault Rifle SIG 556 CQC (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.27
+PrepareTime		0.28
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -71488,7 +71488,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		450
-EffectiveRange	145
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC (5.56mm) folded"
@@ -71514,7 +71514,7 @@ ITEM "Assault Rifle SIG 556 CQC (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -71527,7 +71527,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		360
-EffectiveRange	116
+EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC (5.56mm)"
@@ -71553,7 +71553,7 @@ ITEM "Assault Rifle SIG 556 CQC FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.27
+PrepareTime		0.28
 SingleFireTime	0.66
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -71566,7 +71566,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		450
-EffectiveRange	145
+EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC FG (5.56mm) folded"
@@ -71592,7 +71592,7 @@ ITEM "Assault Rifle SIG 556 CQC FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3000
-PrepareTime		0.23
+PrepareTime		0.25
 SingleFireTime	0.66
 BurstFireTime	0.085
 SpeedModifier	0.96
@@ -71605,7 +71605,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		360
-EffectiveRange	116
+EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CQC FG (5.56mm)"
@@ -71631,7 +71631,7 @@ ITEM "Assault Rifle SIG 556 CAR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
-PrepareTime		0.39
+PrepareTime		0.32
 SingleFireTime	0.7
 BurstFireTime	0.085
 SpeedModifier	1.01
@@ -71644,7 +71644,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	185
+EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR (5.56mm) folded"
@@ -71669,8 +71669,8 @@ HANDS			ahtRifle
 ITEM "Assault Rifle SIG 556 CAR (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			4010
-PrepareTime		0.34
+Weight			3400
+PrepareTime		0.29
 SingleFireTime	0.7
 BurstFireTime	0.085
 SpeedModifier	1.01
@@ -71683,7 +71683,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		400
-EffectiveRange	148
+EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR (5.56mm)"
@@ -71709,7 +71709,7 @@ ITEM "Assault Rifle SIG 556 CAR FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3400
-PrepareTime		0.39
+PrepareTime		0.32
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	1.01
@@ -71722,7 +71722,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		500
-EffectiveRange	185
+EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm) folded"
@@ -71747,8 +71747,8 @@ HANDS			ahtRG
 ITEM "Assault Rifle SIG 556 CAR FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			4010
-PrepareTime		0.34
+Weight			3400
+PrepareTime		0.29
 SingleFireTime	0.68
 BurstFireTime	0.085
 SpeedModifier	1.01
@@ -71761,7 +71761,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		400
-EffectiveRange	148
+EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm)"
@@ -71787,7 +71787,7 @@ ITEM "Assault Rifle SIG 556 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3900
-PrepareTime		0.43
+PrepareTime		0.42
 SingleFireTime	0.72
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -71800,7 +71800,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	250
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 (5.56mm) folded"
@@ -71825,8 +71825,8 @@ HANDS			ahtRifle
 ITEM "Assault Rifle SIG 556 (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			4010
-PrepareTime		0.38
+Weight			3900
+PrepareTime		0.39
 SingleFireTime	0.72
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -71839,7 +71839,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		440
-EffectiveRange	200
+EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 (5.56mm)"
@@ -71865,7 +71865,7 @@ ITEM "Assault Rifle SIG 556 FG (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3900
-PrepareTime		0.43
+PrepareTime		0.42
 SingleFireTime	0.70
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -71878,7 +71878,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		550
-EffectiveRange	250
+EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 FG (5.56mm) folded"
@@ -71903,8 +71903,8 @@ HANDS			ahtRG
 ITEM "Assault Rifle SIG 556 FG (5.56mm) folded"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
-Weight			4010
-PrepareTime		0.38
+Weight			3900
+PrepareTime		0.39
 SingleFireTime	0.70
 BurstFireTime	0.085
 SpeedModifier	1.05
@@ -71917,7 +71917,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		440
-EffectiveRange	200
+EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
 Unfold			"Assault Rifle SIG 556 FG (5.56mm)"
@@ -79014,7 +79014,7 @@ PrepareTime		0.29
 SingleFireTime	0.64
 BurstFireTime	0.0882
 SpeedModifier	1
-Resource		3500
+Resource		3000
 DirtResource	570000
 MisfireProb		0.0023
 HeatCapacity	115
@@ -79088,7 +79088,7 @@ PrepareTime		0.41
 SingleFireTime	0.68
 BurstFireTime	0.1
 SpeedModifier	1.03
-Resource		3500
+Resource		3000
 DirtResource	570000
 MisfireProb		0.0023
 HeatCapacity	150
@@ -79162,7 +79162,7 @@ PrepareTime		0.29
 SingleFireTime	0.67
 BurstFireTime	0.0882
 SpeedModifier	1
-Resource		3500
+Resource		3000
 DirtResource	570000
 MisfireProb		0.0023
 HeatCapacity	115
@@ -79236,7 +79236,7 @@ PrepareTime		0.41
 SingleFireTime	0.70
 BurstFireTime	0.1
 SpeedModifier	1.03
-Resource		3500
+Resource		3000
 DirtResource	570000
 MisfireProb		0.0023
 HeatCapacity	150
@@ -84074,7 +84074,7 @@ BurstFireTime	0.1
 SpeedModifier	1.05
 Resource		3100
 DirtResource	360000
-MisfireProb		0.005
+MisfireProb		0.001
 HeatCapacity	70
 Single			1
 Burst			1
@@ -92872,7 +92872,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Rifle ammo clip (AR-15/10)"
+StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
 ACTOR			"Items\novam16a4dpms.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -92909,7 +92909,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "GRENDELMAG"
-StdPlug			"Rifle ammo clip (6.5/30)"
+StdPlug			"Magpul PMAG Tan Window BLK New (6.5/30)"
 ACTOR			"Items\novam16a4dpms.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -99672,7 +99672,7 @@ ATT Bayonet		0
 ATT Magazine	1 "HecateMag"
 StdPlug			"Sniper rifle clip (Hecate/7)"
 StdPlug			"Optical Sight SN-3 5-25x TPAL (WR)"
-StdPlug			"Hecate Bipod"
+StdPlug			"Hecate Bipod Folded"
 ACTOR			"Items\hecate.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
