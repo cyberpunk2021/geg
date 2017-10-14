@@ -62452,7 +62452,7 @@ Weight			2300
 PrepareTime		0.31
 SingleFireTime	0.67
 BurstFireTime	0.08
-SpeedModifier	1
+SpeedModifier	1.01
 Resource		6600
 DirtResource	210000
 MisfireProb		0.0007
@@ -62618,7 +62618,7 @@ Burst			1
 CutOff			3
 BurstHitStart	2
 MaxRange		500
-EffectiveRange	190
+EffectiveRange	210
 RangeCurvature	2
 Balance			0.63
 Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
@@ -62657,7 +62657,7 @@ Burst			1
 CutOff			3
 BurstHitStart	2
 MaxRange		400
-EffectiveRange	152
+EffectiveRange	168
 RangeCurvature	2
 Balance			0.63
 Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
@@ -64113,7 +64113,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64152,7 +64152,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64269,7 +64269,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -64308,7 +64308,7 @@ ShootSound		"Weapon\Shoot\M4A1.WAV"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
-ATT Bipod		1 "WR"
+ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
@@ -66008,9 +66008,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt"
@@ -66047,9 +66047,9 @@ ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
 ATT Scope		2 "WR""m16a3"
 ATT Bipod		0
-ATT Silencer	0
+ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	0
-ATT Bayonet		0
+ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt_folded"
@@ -84072,8 +84072,8 @@ PrepareTime		0.45
 SingleFireTime	0.75
 BurstFireTime	0.1
 SpeedModifier	1.05
-Resource		3100
-DirtResource	360000
+Resource		5500
+DirtResource	470000
 MisfireProb		0.001
 HeatCapacity	70
 Single			1

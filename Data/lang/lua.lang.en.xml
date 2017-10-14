@@ -98,27 +98,6 @@
     <str id="lang/lua/iteminfo/quality/100">Quality: ~ 100%</str>
     <str id="lang/lua/iteminfo/owner">Owner: </str>
 	
-	<!-- GEG LABELS -->
-	
-    <str id="lang/lua/iteminfo/GEG_fullautoacc">Full auto handling: </str>
-    <str id="lang/lua/iteminfo/GEG_outstanding"> (Outstanding)</str>
-    <str id="lang/lua/iteminfo/GEG_excellent"> (Excellent)</str>
-    <str id="lang/lua/iteminfo/GEG_great"> (Great)</str>
-    <str id="lang/lua/iteminfo/GEG_verygood"> (Very good)</str>
-    <str id="lang/lua/iteminfo/GEG_good"> (Good)</str>
-    <str id="lang/lua/iteminfo/GEG_average"> (Average)</str>
-    <str id="lang/lua/iteminfo/GEG_bad"> (Bad)</str>
-    <str id="lang/lua/iteminfo/GEG_verybad"> (Very bad)</str>
-    <str id="lang/lua/iteminfo/GEG_awful"> (Terrible)</str>
-	
-    <str id="lang/lua/iteminfo/GEG_ammodegrade_equal">This ammunition degrades and overheats the weapon at the standard rate.</str>
-    <str id="lang/lua/iteminfo/GEG_ammodegrade_pre">This ammunition degrades and overheats the weapon </str>
-    <str id="lang/lua/iteminfo/GEG_ammodegrade_more">% faster.</str>
-    <str id="lang/lua/iteminfo/GEG_ammodegrade_less">% slower.</str>
-    <str id="lang/lua/iteminfo/GEG_silencer_hint">[To ensure suppressor durability, make sure to use subsonic ammunition (velocity slower than 330 m/s), otherwise the suppressor will degrade 3 times faster.]</str>
-	
-	<!-- GEG LABELS END -->
-
     <str id="lang/lua/law/labels/0">Similar to weapon object</str>
     <str id="lang/lua/law/labels/1">Civilian</str>
     <str id="lang/lua/law/labels/2">Hunting</str>

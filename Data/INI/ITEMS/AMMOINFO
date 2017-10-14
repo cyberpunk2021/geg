@@ -4036,9 +4036,9 @@ WEIGHT 11.53
 1
 "Weapon\Shoot\Silencer\Silencer556.wav"
 "Items\45mm-case.act"
-"Items\M193-bullet.act"
+"Items\223asr-bullet.act"
 800
-ACTOR "Items\M193.act"
+ACTOR "Items\223asr.act"
 IMAGE "ammo-M193.e5b"
 WEIGHT 13.18
 

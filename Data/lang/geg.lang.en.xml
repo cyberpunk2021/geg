@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <strings>
+
+	<!-- GEG LABELS -->
+	
+    <str id="lang/lua/iteminfo/GEG_fullautoacc">Full auto handling: </str>
+    <str id="lang/lua/iteminfo/GEG_outstanding"> (Outstanding)</str>
+    <str id="lang/lua/iteminfo/GEG_excellent"> (Excellent)</str>
+    <str id="lang/lua/iteminfo/GEG_great"> (Great)</str>
+    <str id="lang/lua/iteminfo/GEG_verygood"> (Very good)</str>
+    <str id="lang/lua/iteminfo/GEG_good"> (Good)</str>
+    <str id="lang/lua/iteminfo/GEG_average"> (Average)</str>
+    <str id="lang/lua/iteminfo/GEG_bad"> (Bad)</str>
+    <str id="lang/lua/iteminfo/GEG_verybad"> (Very bad)</str>
+    <str id="lang/lua/iteminfo/GEG_awful"> (Terrible)</str>
+	
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_equal">This ammunition degrades and overheats the weapon at the standard rate.</str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_pre">This ammunition degrades and overheats the weapon </str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_more">% faster.</str>
+    <str id="lang/lua/iteminfo/GEG_ammodegrade_less">% slower.</str>
+    <str id="lang/lua/iteminfo/GEG_silencer_hint">[To ensure suppressor durability, make sure to use subsonic ammunition (velocity slower than 330 m/s), otherwise the suppressor will degrade 3 times faster.]</str>
+	
+	<!-- GEG LABELS END -->
+
 	<str id="lang/cfg/weaponorder/order/GEGDesert">The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, holster with attachment pack to store magazines. Place of Origin: Magnum Research Inc - Minnesota, USA.</str>
 	<str id="lang/cfg/weaponorder/order/GEGNighthawk">Premium .45 1911-Derivate. The kit consists of 4 spare magazines, 100 rounds of JHP ammunition, 100 rounds of FMJ ammunition, cleaning kit, small weapon case, suppressor, laser sight, flashlight, pistol red dot sight, holster with attachment pack to store magaziness. Place of Origin: Yonkers, New York, USA.</str>
 	

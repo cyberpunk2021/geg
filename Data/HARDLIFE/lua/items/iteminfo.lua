@@ -222,10 +222,11 @@ local function buildItemInfo(item)
 
 	elseif family == Family.ifAddon and itemInfo:GetAddonType() == AddonTypes.adSilencer then
         show(true)
-		show(_t"lang/lua/iteminfo/GEG_silencer_hint")
+		show("")
         local list = PlugTypeToWeaponMap[itemInfo:GetPlugType()]
         if list and #list > 0 then
-            show("")
+			show(_t"lang/lua/iteminfo/GEG_silencer_hint")
+			show("")
             show(_t"lang/lua/iteminfo/compatible_weapons")
             for _,weaponName in ipairs(list) do
                 show("  - " .. weaponName)
