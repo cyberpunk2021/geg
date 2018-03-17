@@ -966,7 +966,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta1935"
 StdPlug			"Pistol clip (M1935/8)"
-ACTOR			"Items\beretta1934preta.act"
+ACTOR			"Items\beretta34nova.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
@@ -1005,7 +1005,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta1935"
 StdPlug			"Pistol clip (M1935W/8)"
-ACTOR			"Items\beretta1934.act"
+ACTOR			"Items\beretta34novaw.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
@@ -1044,7 +1044,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Sauer38"
 StdPlug			"Pistol clip (Sauer/8)"
-ACTOR			"Items\sauer38h.act"
+ACTOR			"Items\sauer38hnova.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
@@ -1083,7 +1083,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Sauer38"
 StdPlug			"Pistol clip (SauerW/8)"
-ACTOR			"Items\sauer38hw.act"
+ACTOR			"Items\sauer38hnovaw.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
@@ -1742,7 +1742,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta1934"
 StdPlug			"Pistol clip (M1934/7)"
-ACTOR			"Items\beretta1934preta.act"
+ACTOR			"Items\beretta34nova.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
@@ -1781,7 +1781,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "Beretta1934"
 StdPlug			"Pistol clip (M1934W/7)"
-ACTOR			"Items\beretta1934.act"
+ACTOR			"Items\beretta34novaw.act"
 IMAGE			"m67.e5b"
 HANDS			ahtPistol
 
@@ -17548,7 +17548,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\m733.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -17587,7 +17587,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\m733.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -17982,7 +17982,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -18021,7 +18021,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -19072,7 +19072,7 @@ HANDS			ahtBoltRifle
 ITEM "Submachine-gun K50M (7.62x25mm)"
 Class			SMG
 Caliber			"7.62υ25 μμ"
-Weight			4400
+Weight			3200
 PrepareTime		0.28
 SingleFireTime	0.67
 BurstFireTime	0.071
@@ -19101,7 +19101,7 @@ ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "K50M"
+ATT Magazine	2 "PPSH-41/35""PPSH-41/71"
 StdPlug			"SMG ammo clip (K50M/35)"
 StdPlug			"k50mstock"
 ACTOR			"Items\k50m.act"
@@ -19111,7 +19111,7 @@ HANDS			ahtRG
 ITEM "Submachine-gun K50M (7.62x25mm) folded"
 Class			SMG
 Caliber			"7.62υ25 μμ"
-Weight			4400
+Weight			3200
 PrepareTime		0.28
 SingleFireTime	0.67
 BurstFireTime	0.071
@@ -19140,7 +19140,7 @@ ATT Bipod		0
 ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "K50M"
+ATT Magazine	2 "PPSH-41/35""PPSH-41/71"
 StdPlug			"SMG ammo clip (K50M/35)"
 StdPlug			"k50mstock_folded"
 ACTOR			"Items\k50m.act"
@@ -19182,7 +19182,7 @@ ATT Bayonet		0
 ATT Magazine	1 "PPS-43"
 StdPlug			"SMG ammo clip (PPS/35)"
 StdPlug			"type54_buttopen"
-ACTOR			"Items\type54.act"
+ACTOR			"Items\pps43nova.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -28944,7 +28944,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4cqbrsmg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -28983,7 +28983,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4cqbrsmg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29022,7 +29022,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4smg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -29061,7 +29061,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4smg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -29181,7 +29181,7 @@ ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -29221,7 +29221,7 @@ ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29261,7 +29261,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AR15_40SW"
 StdPlug			"SMG ammo clip (AR-15 40SW/32)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -29301,7 +29301,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AR15_40SW"
 StdPlug			"SMG ammo clip (AR-15 40SW/32)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29341,7 +29341,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Thompson"
 StdPlug			"SMG ammo clip (Thompson-m1_CLIP30)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -29381,7 +29381,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Thompson"
 StdPlug			"SMG ammo clip (Thompson-m1_CLIP30)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29421,7 +29421,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AR15_10mm"
 StdPlug			"SMG ammo clip (AR-15 10mm/30)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -29461,7 +29461,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AR15_10mm"
 StdPlug			"SMG ammo clip (AR-15 10mm/30)"
 StdPlug			"M4A1 Handle"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -46174,7 +46174,7 @@ MaxRange		500
 EffectiveRange	185
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 CIV (5.56mm) folded"
+//Unfold			"Assault Rifle M4A1 CIV (5.56mm) folded"	// removed by gpgpgpgp : use gpgpgpgp's LUA fold
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46188,7 +46188,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\m654lb.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -46213,7 +46213,7 @@ MaxRange		400
 EffectiveRange	148
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 CIV (5.56mm)"
+//Unfold			"Assault Rifle M4A1 CIV (5.56mm)"	// removed by gpgpgpgp : use gpgpgpgp's LUA fold
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46227,7 +46227,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\m654lb.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -46266,7 +46266,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\ar15a2.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -46305,7 +46305,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\ar15a2.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57395,7 +57395,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\xm177e1.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57434,7 +57434,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\xm177e1.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -57473,7 +57473,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\xm177e1nofa.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57512,7 +57512,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\xm177e1nofa.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -57551,7 +57551,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\xm177e2.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57590,7 +57590,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\xm177e2.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57629,7 +57629,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\xm177e2nofa.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57668,7 +57668,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/20)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\xm177e2nofa.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57781,7 +57781,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\m653.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57820,7 +57820,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\m653.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57845,7 +57845,7 @@ MaxRange		500
 EffectiveRange	150
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M654 (5.56mm) folded"
+//Unfold			"Assault Rifle M654 (5.56mm) folded"	// removed by gpgpgpgp : use gpgpgpgp's LUA fold
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -57859,7 +57859,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\m654.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57884,7 +57884,7 @@ MaxRange		400
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M654 (5.56mm)"
+//Unfold			"Assault Rifle M654 (5.56mm)"	// removed by gpgpgpgp : use gpgpgpgp's LUA fold
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -57898,7 +57898,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\m654.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57937,7 +57937,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\m723antig.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -57976,7 +57976,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\m723antig.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58015,7 +58015,7 @@ ATT ILauncher	1 "M203" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\colt723.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58054,7 +58054,7 @@ ATT ILauncher	1 "M203" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\colt723.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58093,7 +58093,7 @@ ATT ILauncher	1 "M203" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\colt727.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58132,7 +58132,7 @@ ATT ILauncher	1 "M203" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\colt727.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58173,7 +58173,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4_butt"
 ACTOR			"Items\Colt_733.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58212,7 +58212,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt_folded"
+StdPlug			"m4_butt_folded"
 ACTOR			"Items\Colt_733.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58499,7 +58499,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
 StdPlug			"Integr M203B (40mm LV)"
-StdPlug			"m4_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4a1m203.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58540,7 +58540,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
 StdPlug			"Integr M203B (40mm LV)"
-StdPlug			"m4_butt_folded"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4a1m203.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58582,7 +58582,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
-StdPlug			"m4_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58622,7 +58622,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
-StdPlug			"m4_butt_folded"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -58662,7 +58662,7 @@ ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
-StdPlug			"m4_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -58702,7 +58702,7 @@ ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
-StdPlug			"m4_butt_folded"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -59748,7 +59748,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"C7A2_butt"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c8pdw.act"
@@ -59788,7 +59788,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"C7A2_butt_folded"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c8pdw.act"
@@ -59945,7 +59945,7 @@ ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c7a2f.act"
 IMAGE			"2x5.e5b"
@@ -60023,7 +60023,7 @@ ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"C7A2_butt"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c7a2.act"
@@ -60063,7 +60063,7 @@ ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"C7A2_butt_folded"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c7a2.act"
@@ -60261,7 +60261,7 @@ ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"C7A2_butt"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c8a2.act"
@@ -60301,7 +60301,7 @@ ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"C7A2_butt_folded"
 StdPlug			"Optical Sight Elcan 3.4x28 (C7)"
 ACTOR			"Items\c8a2.act"
@@ -60541,7 +60541,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -60580,7 +60580,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -60619,7 +60619,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -60658,7 +60658,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -60697,7 +60697,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -60736,7 +60736,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -60775,7 +60775,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -60814,7 +60814,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -60853,7 +60853,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -60892,7 +60892,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -60931,7 +60931,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -60970,7 +60970,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -61009,7 +61009,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -61048,7 +61048,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -61087,7 +61087,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -61126,7 +61126,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\rec7fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -65467,7 +65467,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -65506,7 +65506,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -65545,7 +65545,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXCQCFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -65584,7 +65584,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXCQCFG.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -65623,7 +65623,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -65662,7 +65662,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -65701,7 +65701,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -65740,7 +65740,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -65779,7 +65779,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -65818,7 +65818,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -65857,7 +65857,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXLBFG.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
@@ -65896,7 +65896,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXLBFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -67427,7 +67427,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -67466,7 +67466,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -67505,7 +67505,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQCFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -67544,7 +67544,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psxCQCFG.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -67583,7 +67583,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -67622,7 +67622,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -67661,7 +67661,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -67700,7 +67700,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\SWMP15PSXFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -67899,7 +67899,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m933.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -67938,7 +67938,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m933.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -67977,7 +67977,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -68016,7 +68016,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -68055,7 +68055,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4sopmod.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -68094,7 +68094,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4sopmod.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -68133,7 +68133,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -68172,7 +68172,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"M4MOD_butt_folded"
+StdPlug			"m4sopmod_butt"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -91924,7 +91924,7 @@ ATT Bayonet		0
 ATT Magazine	1 "L42A1"
 StdPlug			"Rifle ammo clip (L42A1/10)"
 StdPlug			"L42A1 Scope"
-ACTOR			"Items\l42a1.act"
+ACTOR			"Items\l42a1nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtBoltRifle
 
@@ -92872,7 +92872,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 ACTOR			"Items\novam16a4dpms.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -92909,7 +92909,7 @@ ATT Silencer	0
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "GRENDELMAG"
-StdPlug			"Magpul PMAG Tan Window BLK New (6.5/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (6.5/30)"
 ACTOR			"Items\novam16a4dpms.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
@@ -103455,7 +103455,7 @@ ATT Bayonet		0
 ATT Magazine	1 "DP27"
 StdPlug			"Pan magazine (DP 27 7.62/47)"
 StdPlug			"Machinegun Bipod (DP27) Folded"
-ACTOR			"Items\DP27_MG.act"
+ACTOR			"Items\dp28nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
 
@@ -104213,7 +104213,7 @@ ReLockSound		"Weapon\ReLock\MG3_reload.wav"
 ShootSound		"Weapon\Shoot\MG3_fire.wav"
 ATT Laser		0
 ATT Light		0
-ATT Scope		0
+ATT Scope		1 "WR"
 ATT Bipod		1 "built-in"
 ATT Silencer	0
 ATT ILauncher	0
@@ -104221,7 +104221,7 @@ ATT Bayonet		0
 ATT Magazine	1 "MG3_Clip"
 StdPlug			"Machinegun box (MG3/50)"
 StdPlug			"MG3 bipod folded"
-ACTOR			"Items\MG3.act"
+ACTOR			"Items\MG3nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
 

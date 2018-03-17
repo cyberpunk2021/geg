@@ -321,24 +321,24 @@ IMAGE   "MP40-CZ-12.E5B"
 DEFAMMO  ".32 ACP Surplus"
 
 CLIP  "Pistol clip (Sauer/8)""7.65x17""Sauer38"8 70 "None"1200 
-ACTOR  "Items\sauer38hmag.act"
+ACTOR  "Items\sauer38hnovamag.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  ".32 ACP Surplus"
 CLIP  "Pistol clip (SauerW/8)""7.65x17""Sauer38"8 70 "None"1200 
-ACTOR  "Items\sauer38hwmag.act"
+ACTOR  "Items\sauer38hnovamagw.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  ".32 ACP Surplus"
 
 CLIP  "Pistol clip (M1935/8)""7.65x17""Beretta1935"8 70 "None"1200 
-ACTOR  "Items\beretta1934magpreta.act"
+ACTOR  "Items\beretta34novamag.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  ".32 ACP Surplus"
 
 CLIP  "Pistol clip (M1935W/8)""7.65x17""Beretta1935"8 70 "None"1200 
-ACTOR  "Items\beretta1934mag.act"
+ACTOR  "Items\beretta34novamagw.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  ".32 ACP Surplus"
@@ -445,13 +445,13 @@ IMAGE  "mp9-bhp-13.e5b"
 DEFAMMO  ".380 ACP Surplus"
 
 CLIP  "Pistol clip (M1934/7)"".380 ACP""Beretta1934"7 70 "None"1200 
-ACTOR  "Items\beretta1934magpreta.act"
+ACTOR  "Items\beretta34novamag.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  ".380 ACP Surplus"
 
 CLIP  "Pistol clip (M1934W/7)"".380 ACP""Beretta1934"7 70 "None"1200 
-ACTOR  "Items\beretta1934mag.act"
+ACTOR  "Items\beretta34novamagw.act"
 USEPREFIX  ""
 IMAGE  "pm_mag.e5b"
 DEFAMMO  ".380 ACP Surplus"
@@ -689,14 +689,14 @@ USEPREFIX  ""
 IMAGE  "ms762-ppsh-71.e5b"
 DEFAMMO  "Palinero 7.62x25"
 
-CLIP  "SMG ammo clip (K50M/35)""7.62υ25 μμ""K50M"35 150 "None"1000 
+CLIP  "SMG ammo clip (K50M/35)""7.62υ25 μμ""PPSH-41/35"35 150 "None"1000 
 ACTOR  "Items\k50mmag.act"
 USEPREFIX  ""
 IMAGE  "ms762-ppsh-35.e5b"
 DEFAMMO  "Palinero 7.62x25"
 
 CLIP  "SMG ammo clip (PPS/35)""7.62υ25 μμ""PPS-43"35 150 "None"1000 
-ACTOR  "Items\pps43_mag.act"
+ACTOR  "Items\pps43novamag.act"
 USEPREFIX  ""
 IMAGE  "pps43_mag.e5b"
 DEFAMMO  "Palinero 7.62x25"
@@ -3532,6 +3532,16 @@ ACTOR  "Items\pmagnew_black_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  ".458 socom HP"
+CLIP  "Magpul PMAG Tan Window GRAY New (Socom/11)"".458 socom""Socom"11 141 "None"3000 
+ACTOR  "Items\pmagnew_gray.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblack.e5b"
+DEFAMMO  ".458 socom HP"
+CLIP  "Magpul PMAG Tan Window New GRAY Rub (Socom/11)"".458 socom""Socom"11 145 "None"3000 
+ACTOR  "Items\pmagnew_gray_rub.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblackrub.e5b"
+DEFAMMO  ".458 socom HP"
 
 //.50 Beowulf
 BOX "Ammo box (.50 Beowulf HP)"".50 Beowulf HP"20 "items\50beowulfhp.act""boxbeowulf.e5b"
@@ -3597,6 +3607,16 @@ IMAGE  "magpulnewblack.e5b"
 DEFAMMO  ".50 Beowulf FMJ"
 CLIP  "Magpul PMAG Tan Window New BLK Rub (Beo/10)"".50 Beowulf""Beowulf"10 145 "None"3000 
 ACTOR  "Items\pmagnew_black_rub.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblackrub.e5b"
+DEFAMMO  ".50 Beowulf FMJ"
+CLIP  "Magpul PMAG Tan Window GRAY New (Beo/10)"".50 Beowulf""Beowulf"10 141 "None"3000 
+ACTOR  "Items\pmagnew_gray.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblack.e5b"
+DEFAMMO  ".50 Beowulf FMJ"
+CLIP  "Magpul PMAG Tan Window New GRAY Rub (Beo/10)"".50 Beowulf""Beowulf"10 145 "None"3000 
+ACTOR  "Items\pmagnew_gray_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  ".50 Beowulf FMJ"
@@ -4397,7 +4417,16 @@ ACTOR  "Items\pmagnew_black_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  "Rem.300 220grn"
-
+CLIP  "Magpul PMAG Tan Window GRAY New (Badger/30)"".300 AAC Blackout""300 BLK"30 141 "None"3000 
+ACTOR  "Items\pmagnew_gray.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblack.e5b"
+DEFAMMO  "Rem.300 220grn"
+CLIP  "Magpul PMAG Tan Window New GRAY Rub (Badger/30)"".300 AAC Blackout""300 BLK"30 145 "None"3000 
+ACTOR  "Items\pmagnew_gray_rub.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblackrub.e5b"
+DEFAMMO  "Rem.300 220grn"
 CLIP  "Rifle ammo clip (AK300/30)"".300 AAC Blackout""AK300"30 113 "Rifle ammo clip double (AK300/60)"3000 
 ACTOR  "Items\CZ_805_mag.act"
 USEPREFIX  ""
@@ -4672,7 +4701,16 @@ ACTOR  "Items\pmagnew_black_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  "5.56 FMJ Ball"
-
+CLIP  "Magpul PMAG Tan Window GRAY New (M16/30)""5.56υ45 μμ""NATO 5.56"30 141 "None"3000 
+ACTOR  "Items\pmagnew_gray.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblack.e5b"
+DEFAMMO  "5.56 FMJ Ball"
+CLIP  "Magpul PMAG Tan Window New GRAY Rub (M16/30)""5.56υ45 μμ""NATO 5.56"30 145 "None"3000 
+ACTOR  "Items\pmagnew_gray_rub.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblackrub.e5b"
+DEFAMMO  "5.56 FMJ Ball"
 CLIP  "Rifle clip (SteyrScout/5)""5.56υ45 μμ""SteyrScout223"5 150 "None"100 
 ACTOR  "Items\steyrscoutmag.ACT"
 USEPREFIX  ""
@@ -4954,7 +4992,16 @@ ACTOR  "Items\pmagnew_black_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  "6.5mm Grendel FMJ"
-
+CLIP  "Magpul PMAG Tan Window GRAY New (6.5/30)""6.5mm Grendel""GRENDELMAG"26 145 "None"3000 
+ACTOR  "Items\pmagnew_gray.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblack.e5b"
+DEFAMMO  "6.5mm Grendel FMJ"
+CLIP  "Magpul PMAG Tan Window New GRAY Rub (6.5/30)""6.5mm Grendel""GRENDELMAG"26 141 "None"3000 
+ACTOR  "Items\pmagnew_gray_rub.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblackrub.e5b"
+DEFAMMO  "6.5mm Grendel FMJ"
 
 
 
@@ -5056,6 +5103,16 @@ IMAGE  "magpulnewblack.e5b"
 DEFAMMO  "6.8x43 FMJ Ball ammo"
 CLIP  "Magpul PMAG Tan Window New BLK Rub (SPC/30)""6.8x43 mm""6.8x43 clips"25 145 "None"2000 
 ACTOR  "Items\pmagnew_black_rub.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblackrub.e5b"
+DEFAMMO  "6.8x43 FMJ Ball ammo"
+CLIP  "Magpul PMAG Tan Window GRAY New (SPC/30)""6.8x43 mm""6.8x43 clips"25 141 "None"2000 
+ACTOR  "Items\pmagnew_gray.act"
+USEPREFIX  ""
+IMAGE  "magpulnewblack.e5b"
+DEFAMMO  "6.8x43 FMJ Ball ammo"
+CLIP  "Magpul PMAG Tan Window New GRAY Rub (SPC/30)""6.8x43 mm""6.8x43 clips"25 145 "None"2000 
+ACTOR  "Items\pmagnew_gray_rub.act"
 USEPREFIX  ""
 IMAGE  "magpulnewblackrub.e5b"
 DEFAMMO  "6.8x43 FMJ Ball ammo"
@@ -5415,7 +5472,7 @@ DEFAMMO  "7.62x51 FMJ Ball"
 
 
 CLIP  "Rifle ammo clip (L42A1/10)""7.62υ51 μμ""L42A1"10 209 "None"2500 
-ACTOR  "Items\l42a1mag.act"
+ACTOR  "Items\l42a1novamag.act"
 USEPREFIX  ""
 IMAGE  "srsmag.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
@@ -5733,7 +5790,7 @@ IMAGE  "type96lmgmag.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
 
 CLIP  "Machinegun box (MG3/50)""7.62υ51 μμ""MG3_Clip"50 340 "None"700 
-ACTOR  "Items\MG3_mag50.act"
+ACTOR  "Items\mg3novamag.act"
 USEPREFIX  ""
 IMAGE  "mb762-mg3-50.e5b"
 DEFAMMO  "7.62x51 FMJ Ball"
@@ -5859,7 +5916,7 @@ IMAGE  "None"
 DEFAMMO  "7.62x54R FMJ Ball"
 
 CLIP  "Pan magazine (DP 27 7.62/47)""7.62υ54R μμ""DP27"47 700 "None"1700 
-ACTOR  "Items\DP27_pan.act"
+ACTOR  "Items\dp28novamag.act"
 USEPREFIX  ""
 IMAGE  "panmag.e5b"
 DEFAMMO  "7.62x54R FMJ Ball"

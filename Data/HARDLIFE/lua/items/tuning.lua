@@ -195,6 +195,8 @@ end
 --parts
  ["MP5 butt A3"] = "MP5 butt A2",
  ["MP5 butt A2"] = "MP5 butt A3",
+ ["Car15 Stock"] = "M4A1 Stock",
+ ["M4A1 Stock"] = "Car15 Stock",
 }
 
  local FoldStockItems = {
@@ -248,6 +250,13 @@ end
  ["Assault Rifle G41K (5.56mm)"] = "Assault Rifle G41K (5.56mm)",
  ["Assault Rifle G41K (5.56mm) folded"] = "Assault Rifle G41K (5.56mm)",
  
+--ARs
+ ["Assault Rifle M4A1 CIV (5.56mm)"] = "Assault Rifle M4A1 CIV (5.56mm)",	-- corrected by gpgpgpgp: always converts to unfolded variants, since when a butt ITEM name is given, the returned butt ADDON name is the unfolded one's (example: ITEM name "Car15 Stock" returns "m4_butt", "M4A1 Stock" returns "m4sopmod_butt")
+ ["Assault Rifle M4A1 CIV (5.56mm) folded"] = "Assault Rifle M4A1 CIV (5.56mm)",
+ ["Assault Rifle M654 (5.56mm)"] = "Assault Rifle M654 (5.56mm)",
+ ["Assault Rifle M654 (5.56mm) folded"] = "Assault Rifle M654 (5.56mm)",
+
+
 --with RIS
  ["Submachine-gun HK MP5A5 RIS (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",
  ["Submachine-gun HK MP5A5 RIS (9mm) folded"] = "Submachine-gun HK MP5A5 RIS (9mm) folded",
@@ -257,8 +266,8 @@ end
  ["Submachine-gun HK MP5A5 RIS (.40 S&W) folded"] = "Submachine-gun HK MP5A5 RIS (.40 S&W) folded",
  ["Submachine-gun HK MP5A5 RIS (10)"] = "Submachine-gun HK MP5A5 RIS (10)",
  ["Submachine-gun HK MP5A5 RIS (10) folded"] = "Submachine-gun HK MP5A5 RIS (10)",
- [ "HK MP5A5 RIS (22)"] =  "HK MP5A5 RIS (22)",
- [ "HK MP5A5 RIS (22) folded"] =  "HK MP5A5 RIS (22)",
+ ["HK MP5A5 RIS (22)"] = "HK MP5A5 RIS (22)",
+ ["HK MP5A5 RIS (22) folded"] = "HK MP5A5 RIS (22)",
  ["Assault Rifle HK53A3 RIS (5.56mm)"] = "Assault Rifle HK53A3 RIS (5.56mm)",
  ["Assault Rifle HK53A3 RIS (5.56mm) folded"] = "Assault Rifle HK53A3 RIS (5.56mm) folded",
 
@@ -268,6 +277,12 @@ end
  ["MP5 Butt folded"] = "MP5 butt A3",
  ["MP5 butt A2"] = "MP5 Butt solid",
  ["MP5 Butt solid"] = "MP5 butt A2",
+ ["Car15 Stock"] = "m4_butt",
+ ["m4_butt"] = "Car15 Stock",
+ ["m4_butt_folded"] = "Car15 Stock",
+ ["M4A1 Stock"] = "m4sopmod_butt",
+ ["m4sopmod_butt"] = "M4A1 Stock",
+ ["m4sopmod_butt_folded"] = "M4A1 Stock",
 }
 
  local FoldBayonetItems = {
@@ -757,6 +772,8 @@ AddItemContextMenu("RK71W2HG", action_replace_for_end, ChangeForestock, CanAddRI
 AddItemContextMenu("M203B (40mm LV)", _t"lang/lua/tuning/mount", ChangeForestock, CanAddRISForestock)
 AddItemContextMenu("MP5 butt A2", action_replace_butt, ChangeStock, CanChangeFoldStock)
 AddItemContextMenu("MP5 butt A3", action_replace_butt, ChangeStock, CanChangeStock)
+AddItemContextMenu("Car15 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("M4A1 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
 
 local action_install_ris_kit = "Install a RIS on the weapon in hands"
 local action_uninstall_ris_kit = "Take off the RIS on the weapon in hands"
@@ -903,3 +920,84 @@ AddItemContextMenu("Hecate Bipod Folded", action_unfold, FoldBipod, CanFoldBipod
 AddContextMenu(_t"lang/lua/tuning/fold_bipods", FoldWeaponBipod, CanFoldWeaponBipod)
 AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWeaponBipod)
 
+-- begin added by gpgpgpgp
+
+-- Search keyword "gpgpgpgp" for all edited positions (this file and WEAPONINFO)
+
+-- this version features very minor changes in WEAPONINFO ini (mostly to disable vanilla folding) and using LUA script (instead of vanilla 7.62HC action) to fold stocks for these specific weapons featuring changable, foldable stocks.
+-- you still need to fill out vanilla HLA tables to enable weapons' changing stocks feature.
+
+ local LUAFoldStockWeapons = {
+ ["Assault Rifle M4A1 CIV (5.56mm)"] = "Assault Rifle M4A1 CIV (5.56mm) folded",
+ ["Assault Rifle M654 (5.56mm)"] = "Assault Rifle M654 (5.56mm) folded",
+}
+ local LUAUnfoldStockWeapons = {
+ ["Assault Rifle M4A1 CIV (5.56mm) folded"] = "Assault Rifle M4A1 CIV (5.56mm)",
+ ["Assault Rifle M654 (5.56mm) folded"] = "Assault Rifle M654 (5.56mm)",
+}
+ local LUAFoldUnfoldStockStocks = {
+ ["m4_butt"] = "m4_butt_folded",
+ ["m4_butt_folded"] = "m4_butt",
+ ["m4sopmod_butt"] = "m4sopmod_butt_folded",
+ ["m4sopmod_butt_folded"] = "m4sopmod_butt",
+}
+
+local function CanFoldStock(item)
+	local monster = GetCurrentMerc()
+	local hands = monster:GetHands()
+    return hands ~= nil
+		-- and HUDState() ~= 5	-- gpgpgpgp: needs testing (folding in shop etc). uncomment if any trouble occurs
+		and item == hands
+		and item:GetFamily() == Family.ifWeapon
+		and LUAFoldStockWeapons[item:GetName()] ~= nil
+end
+
+local function CanUnfoldStock(item)
+	local monster = GetCurrentMerc()
+	local hands = monster:GetHands()
+    return hands ~= nil
+		-- and HUDState() ~= 5	-- gpgpgpgp: needs testing (folding in shop etc). uncomment if any trouble occurs
+		and item == hands
+		and item:GetFamily() == Family.ifWeapon
+		and LUAUnfoldStockWeapons[item:GetName()] ~= nil	-- gpgpgpgp: only difference is here
+end
+
+local function FoldStock(item)
+	local monster = GetCurrentMerc()
+	local new_weapon = LUAFoldStockWeapons[item:GetName()]
+    if new_weapon ~= nil then
+		local butt = item:RemoveAddon(AddonTypes.adStock)	-- gpgpgpgp: handle the butt addon
+		if butt ~= nil then
+			monster:DeleteItem(butt)
+			local new_butt = LUAFoldUnfoldStockStocks[butt:GetName()]
+			if new_butt ~= nil then
+				item:AttachAddon(new_butt)
+			end
+		end
+		item:ChangeItemType(new_weapon)
+        GetCurrentMerc():AddChangeItemAction(0.1085)	-- gpgpgpgp: is it a fixed value in vanilla game or is it calculated by character stats & weapon weight? 0.1085 (=2.17/20) is a temporary placeholder value.
+    end
+end
+
+local function UnfoldStock(item)
+	local monster = GetCurrentMerc()
+	local new_weapon = LUAUnfoldStockWeapons[item:GetName()]	-- gpgpgpgp: only difference is here
+    if new_weapon ~= nil then
+		local butt = item:RemoveAddon(AddonTypes.adStock)	-- gpgpgpgp: handle the butt addon
+		if butt ~= nil then
+			monster:DeleteItem(butt)
+			local new_butt = LUAFoldUnfoldStockStocks[butt:GetName()]
+			if new_butt ~= nil then
+				item:AttachAddon(new_butt)
+			end
+		end
+		item:ChangeItemType(new_weapon)
+        GetCurrentMerc():AddChangeItemAction(0.11)	-- gpgpgpgp: is it a fixed value in vanilla game or is it calculated by character stats & weapon weight? 0.11 is a temporary placeholder value.
+    end
+end
+
+
+AddContextMenu(action_fold, FoldStock, CanFoldStock)
+AddContextMenu(action_unfold, UnfoldStock, CanUnfoldStock)
+
+-- end added by gpgpgpgp

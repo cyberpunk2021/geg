@@ -177,6 +177,28 @@ function CanUseItem(item)
 		and item:GetCondition() > 0 
 end
 
+-- added by gpgpgpgp
+local function IsItemInCar(item)
+	if TheCar ~= nil and TheCar ~= NULL then
+		local items = GetCarItems()
+		for _, carItem in ipairs(items) do
+			if carItem == item then
+				return true
+			end
+		end
+	end
+	return false
+end
+
+-- added by gpgpgpgp
+function CanFoldItem(item)
+	return	HUDState() ~= 5
+		and not IsBattle()
+		and not item:IsShopItem()
+		and item:GetCondition() > 0 
+		and not IsItemInCar(item)
+end
+
 function CanUnpackBox(item)
 	local monster = GetCurrentMerc()
 	-- проверяем что данный итем находится у нас в инвентаре и что у нас есть необходимые инструменты
@@ -644,6 +666,8 @@ function ChangeItem(item)
  end
 end
 
+
+-- edited by gpgpgpgp
 function UnfoldItem(item)
  local monster = GetCurrentMerc()
  local similar_item = SimilarItems[item:GetName()]
@@ -657,29 +681,77 @@ function UnfoldItem(item)
  end
 
  local hands = monster:GetHands()
- if hands ~= item then monster:Say(_t"lang/lua/using_items/take_in_hands") return end
+ if hands ~= item 
+	and monster:HasItem(item)
+ then monster:Say(_t"lang/lua/using_items/take_in_hands2") return end
 
  if similar_item ~= nil then 
 --and item:GetInfo():GetWeight() == GetItem(similar_item):GetWeight() then
-	monster:DeleteItem(item)
-	monster:AddItem(similar_item)
+
+    local container = item:GetContainer()
+	if container ~= nil then
+		local items = container:GetItems()
+		if items ~= nil then 
+			for _,inItem in ipairs(items) do
+				inItem = item:GetContainer():RemoveItem(inItem)
+				DropItem(inItem)
+			end
+		end
+	end
+
+	local meta = item:GetMeta()
+	local hasKnife = meta:Get("knife") ~= nil
+	if hasKnife then
+		DropItem(meta:Get("knife"))
+	end
+    
+	if monster:HasItem(item) then
+		monster:DeleteItem(item)
+		monster:AddItem(similar_item)
+	else
+		item:Delete()
+		DropItem(similar_item)
+	end
 	monster:AddChangeItemAction(2)
+	
  else
 	monster:Say(_t"lang/lua/using_items/fail")
  end
 end
 
+
+-- edited by gpgpgpgp
 function DestroyItem(item)
  local monster = GetCurrentMerc()
  local similar_item = PartsOfItems[item:GetName()]
 
  local hands = monster:GetHands()
- if hands ~= item then monster:Say(_t"lang/lua/using_items/take_in_hands2") return end
+ if hands ~= item 
+	and monster:HasItem(item)
+ then monster:Say(_t"lang/lua/using_items/take_in_hands2") return end
 
  if similar_item ~= nil then 
-	monster:DeleteItem(item)
-	monster:AddItem("Belt")
-	monster:AddItem(similar_item)
+
+    local container = item:GetContainer()
+	if container ~= nil then
+		local items = container:GetItems()
+		if items ~= nil then 
+			for _,inItem in ipairs(items) do
+				DropItem(inItem)
+				item:GetContainer():RemoveItem(inItem)
+			end
+		end
+	end
+    
+	if monster:HasItem(item) then
+		monster:DeleteItem(item)
+		monster:AddItem("Belt")
+		monster:AddItem(similar_item)
+	else
+		item:Delete()
+		DropItem("Belt")
+		DropItem(similar_item)
+	end
 	monster:AddChangeItemAction(2)
  else
 	monster:Say(_t"lang/lua/using_items/fail")
@@ -973,36 +1045,36 @@ AddItemContextMenu("Box_grenade_f-1", 				action_throw_out, Handle_BoxThrowOut, 
 AddItemContextMenu("Box_grenade_rgn", 				action_throw_out, Handle_BoxThrowOut, Handle_BoxThrowOut_Menu)
 AddItemContextMenu("Box_grenade_rgo", 				action_throw_out, Handle_BoxThrowOut, Handle_BoxThrowOut_Menu)
 AddItemContextMenu("Box_grenade_m67", 				action_throw_out, Handle_BoxThrowOut, Handle_BoxThrowOut_Menu)
-AddItemContextMenu("Folded Ammo Belt",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Basic Belt",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Belt_01",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Belt_02",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Belt_03",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Belt_04",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Tactical Belt",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Tactical Vest",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Razgr_molle",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Razgr_smerch",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded VestNew",				action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Ammo Cartouche6",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Ammo CartoucheVert",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Folded Ammo Cartouche",			action_unpack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Sack folded",			_t"lang/lua/using_items/unfold_sack", UnfoldItem, CanUseItem)
-AddItemContextMenu("Ammo Belt",				action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Basic Belt",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Belt_01",				action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Belt_02",				action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Belt_03",				action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Belt_04",				action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Tactical Belt",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Tactical Vest",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Razgr_molle",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Razgr_smerch",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("VestNew",				action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Ammo Cartouche6",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Ammo CartoucheVert",		action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Ammo Cartouche",			action_pack, UnfoldItem, CanUseItem)
-AddItemContextMenu("Sack",			_t"lang/lua/using_items/fold_sack", UnfoldItem, CanUseItem)
+AddItemContextMenu("Folded Ammo Belt",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Basic Belt",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Belt_01",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Belt_02",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Belt_03",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Belt_04",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Tactical Belt",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Tactical Vest",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Razgr_molle",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Razgr_smerch",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded VestNew",				action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Ammo Cartouche6",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Ammo CartoucheVert",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Folded Ammo Cartouche",			action_unpack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Sack folded",			_t"lang/lua/using_items/unfold_sack", UnfoldItem, CanFoldItem)
+AddItemContextMenu("Ammo Belt",				action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Basic Belt",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Belt_01",				action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Belt_02",				action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Belt_03",				action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Belt_04",				action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Tactical Belt",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Tactical Vest",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Razgr_molle",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Razgr_smerch",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("VestNew",				action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Ammo Cartouche6",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Ammo CartoucheVert",		action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Ammo Cartouche",			action_pack, UnfoldItem, CanFoldItem)
+AddItemContextMenu("Sack",			_t"lang/lua/using_items/fold_sack", UnfoldItem, CanFoldItem)
 AddItemContextMenu("Folded Ammo Belt",				action_remove_pouch, DestroyItem, CanUseItem)
 AddItemContextMenu("Folded Belt_02",				action_remove_pouch, DestroyItem, CanUseItem)
 AddItemContextMenu("Folded Belt_03",				action_remove_pouch, DestroyItem, CanUseItem)
@@ -1090,3 +1162,327 @@ AddItemContextMenu("MEGABOX CBC (7.62/3000)", 		action_unpack_box, UnpackWeaponB
 AddItemContextMenu("MEGABOX CBC AP (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX FM (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
 AddItemContextMenu("MEGABOX Norinco (7.62/3000)", 		action_unpack_box, UnpackWeaponBox, CanUnpackBox)
+
+-- begin addition by gpgpgpgp
+
+local tapeItem = GetItem("Tape")
+local tapeUsage = 0.1
+local function UseTape(monster)
+    local tape, tapeCondition
+    local tapeList = monster:GetItems(tapeItem)
+    if tapeList and #tapeList > 0 then
+        for _,t in ipairs(tapeList) do
+            tapeCondition = t:GetCondition()
+            if tapeCondition > 0 then
+                tape = t
+                break
+            end
+        end
+    end
+
+    if not tape then
+        monster:Say(_t"lang/lua/mines/tape_required")
+        return false
+    end
+    tape:SetCondition(math.max(0, tapeCondition - tapeUsage))
+    return true
+end
+
+local function CombineDynamiteSticks(item)
+	local monster = GetCurrentMerc()
+	if not UseTape(monster) then
+		return
+	end
+	if not CanCombineDynamiteSticks(item) then
+        monster:Say(string.format("%d items are required.", 7))
+		return
+	end
+	local inhands = ( monster:GetHands() == item )
+	if IsBattle() then
+		monster:DeleteItem(item)
+		local items = monster:GetItems("Dynamite Stick")
+		local removed  = 0
+		for _, dynStick in ipairs(items) do
+			if removed < 6 then
+				monster:DeleteItem(dynStick)
+				removed = removed + 1
+			else
+				break
+			end
+		end
+		monster:AddChangeItemAction(5)
+	else
+		monster:DeleteItem(item)
+		for i = 1, 6 do
+			SquadRemoveItem("Dynamite Stick")
+		end
+	end
+	local item_name, success = monster:AddItem("Dynamite Stick 7")
+	if not success then
+		DropItem("Dynamite Stick 7")
+	end
+end
+
+function CanCombineDynamiteSticks(item)
+	local monster = GetCurrentMerc()
+	return	HUDState() ~= 5
+		and monster:HasItem(item) 
+		and not item:IsShopItem()
+		and item:GetCondition() > 0 
+		and ( (IsBattle() and #(monster:GetItems("Dynamite Stick")) >=7) or ( not IsBattle() and #SquadGetItems("Dynamite Stick") >=7) )
+end
+
+function SpiltDynamiteSticks(item)
+	local monster = GetCurrentMerc()
+	monster:DeleteItem(item)
+	for i = 1, 7 do
+		local item_name, success = monster:AddItem("Dynamite Stick")
+		if not success then
+			DropItem("Dynamite Stick")
+		end
+	end
+	if IsBattle() then monster:AddChangeItemAction(5) end
+end
+
+AddItemContextMenu("Dynamite Stick", "Combine", CombineDynamiteSticks, CanCombineDynamiteSticks)
+AddItemContextMenu("Dynamite Stick 7", "Spilt", SpiltDynamiteSticks, CanUseItem)
+
+local function CanStackAmmo(item)
+	return	HUDState() ~= 5
+		and not item:IsShopItem()
+		and item:GetBulletCount() >= 1
+		and GetCurrentMerc():HasItem(item)
+		and not IsBattle()
+end
+
+local function CanStackAmmoInNumber(item,stackNumber)
+	if not CanStackAmmo(item) then
+		return false
+	end
+	local name = item:GetName()
+	local items
+	if IsItemInCar(item) then
+		items = GetCarItems(name)
+	else
+		items = GetCurrentMerc():GetItems(name)
+	end
+	local found = 0
+	for _, ammoitem in ipairs(items) do
+		local count = ammoitem:GetBulletCount()
+		if count ~= stackNumber
+			and count >= 1 then
+				found = found + 1
+				if found > 1 then
+					break
+				end
+		end
+	end
+	if found > 1 then
+		return true
+	end
+	if found == 1
+		and item:GetBulletCount() > stackNumber then
+		return true
+	end
+	return false
+end
+
+local function StackAmmoInNumber(item,stackNumber)
+	local name = item:GetName()
+	local number = 0
+	local monster = GetCurrentMerc()
+	local items = monster:GetItems(name)
+	for _, ammoitem in ipairs(items) do
+		local count = ammoitem:GetBulletCount()
+		if count >= 1
+			and count ~= stackNumber then
+				number = number + count
+				monster:DeleteItem(ammoitem)
+		end
+	end
+	while number > 0 do
+		local newItem = CreateItem(name)
+		newItem:SetBulletCount(math.floor(math.min(stackNumber,number)))
+		local item_name, success = monster:AddItem(newItem)
+		if not success then
+			DropItem(newItem)
+		end
+		number = number - stackNumber
+	end
+end
+
+function StackAmmoInFour(item)
+	StackAmmoInNumber(item,4)
+end
+
+function StackAmmoInThree(item)
+	StackAmmoInNumber(item,3)
+end
+
+function StackAmmoInSix(item)
+	StackAmmoInNumber(item,6)
+end
+
+function StackAmmoAll(item)
+	StackAmmoInNumber(item,100)
+end
+
+function CanStackAmmoInThree(item)
+	return CanStackAmmoInNumber(item,3)
+end
+
+function CanStackAmmoInFour(item)
+	return CanStackAmmoInNumber(item,4)
+end
+
+function CanStackAmmoInSix(item)
+	return CanStackAmmoInNumber(item,6)
+end
+
+function CanStackAmmoAll(item)
+	return CanStackAmmoInNumber(item,100)
+end
+
+
+AddItemContextMenu("M202A1 Grenade", "Stack In 4", StackAmmoInFour, CanStackAmmoInFour)
+AddItemContextMenu("M202A1 Grenade", "Stack All", StackAmmoAll, CanStackAmmoAll)
+
+AddItemContextMenu("VOG-T", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("VOG-25", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("VOG-25P", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("M407 Smoke", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("M397A1 HE", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("M406 HE", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("M433A1 HEDP", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("35mm HE", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("35mm Smoke", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("35mm AB", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("DFS-10 Smoke", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("DFS-10P", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("DFS-10 HE", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+AddItemContextMenu("Pallad 40x47", "Stack In 6", StackAmmoInSix, CanStackAmmoInSix)
+
+AddItemContextMenu("VOG-T", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("VOG-25", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("VOG-25P", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("M407 Smoke", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("M397A1 HE", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("M406 HE", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("M433A1 HEDP", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("35mm HE", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("35mm Smoke", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("35mm AB", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("DFS-10 Smoke", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("DFS-10P", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("DFS-10 HE", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("Pallad 40x47", "Stack All", StackAmmoAll, CanStackAmmoAll)
+
+AddItemContextMenu("RPG-7 Grenade(pg-7ei)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(type69-3)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(ipg-60)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(pg-7pm)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(og-7ve)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(gtb-7vs)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(ipg-82)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(tbg-7v)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade 2", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(ko-7v)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(pg-7ei)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(type69-3)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(ipg-60)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(pg-7pm)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(og-7ve)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(gtb-7vs)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(ipg-82)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-7 Grenade(tbg-7v)", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-2 Grenade", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-2 Mortar 60", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-2 Mortar 82", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPG-18 Grenade", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("M72 LAW Grenade", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+AddItemContextMenu("RPO-A Grenade", "Stack In 3", StackAmmoInThree, CanStackAmmoInThree)
+
+AddItemContextMenu("RPG-7 Grenade(pg-7ei)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(type69-3)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(ipg-60)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(pg-7pm)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(og-7ve)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(gtb-7vs)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(ipg-82)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(tbg-7v)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade 2", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(ko-7v)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(pg-7ei)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(type69-3)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(ipg-60)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(pg-7pm)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(og-7ve)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(gtb-7vs)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(ipg-82)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-7 Grenade(tbg-7v)", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-2 Grenade", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-2 Mortar 60", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-2 Mortar 82", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPG-18 Grenade", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("M72 LAW Grenade", "Stack All", StackAmmoAll, CanStackAmmoAll)
+AddItemContextMenu("RPO-A Grenade", "Stack All", StackAmmoAll, CanStackAmmoAll)
+
+function RepairLeakyFuelCan(item)
+	local monster = GetCurrentMerc()
+	if not UseTape(monster) then
+		return
+	end
+	item:ChangeItemType("Car_can20")
+	item:SetCondition(0)
+	if IsBattle() then monster:AddChangeItemAction(10) end
+end
+
+AddItemContextMenu("Car_can20_empty", _t"lang/lua/mines/repair", RepairLeakyFuelCan , CanUseItem)
+
+local CookableFoodTable = {"Food_fish_c","Food_meat_c"}
+
+function UnstackUncookedFood(item)
+	local monster = GetCurrentMerc()
+	for i = 1, #CookableFoodTable do
+		local name = CookableFoodTable[i]
+		local items = monster:GetItems(name)
+		for _, food in ipairs(items) do
+			local count = food:GetOtherData():GetStackSize()
+			if count > 1 then
+				monster:DeleteItem(food)
+				for i = 1, count do
+					local item_name, success = monster:AddItem(name)
+					if not success then
+						DropItem(name)
+					end
+				end
+			end
+		end
+	end
+end
+
+function CanUnstackUncookedFood(item)
+	if not CanUseItem(item)
+		or IsBattle() then
+		return false
+	end
+	local monster = GetCurrentMerc()
+	for i = 1, #CookableFoodTable do
+		local name = CookableFoodTable[i]
+		local items = monster:GetItems(name)
+		for _, food in ipairs(items) do
+			local count = food:GetOtherData():GetStackSize()
+			if count > 1 then
+				return true
+			end
+		end
+	end
+end
+
+
+AddItemContextMenu("Food_fish_c", "Unstack for Cooking", UnstackUncookedFood, CanUnstackUncookedFood)
+AddItemContextMenu("Food_meat_c", "Unstack for Cooking", UnstackUncookedFood, CanUnstackUncookedFood)
+
+-- end addition by gpgpgpgp

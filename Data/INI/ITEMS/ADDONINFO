@@ -1337,7 +1337,7 @@ Resource		1000
 Addon			"type54_buttopen"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\type54_butt_open.act"
+ACTOR			"Items\pps43novastock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -1345,7 +1345,7 @@ Resource		0
 Addon			"type54_buttfolded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\type54_butt_folden.act"
+ACTOR			"Items\pps43novastockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -1369,7 +1369,7 @@ Resource		0
 Addon			"m4_butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\m4_butt.act"
+ACTOR			"Items\new_car15butt_open.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -1377,7 +1377,7 @@ Resource		0
 Addon			"m4_butt_folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\m4_butt_folded.act"
+ACTOR			"Items\new_car15butt_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -7525,7 +7525,7 @@ Resource		0
 Addon			"C7A2blk_butt"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\new_m4butt_open.act"
+ACTOR			"Items\NEW_c7a2BUTTblk_open.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -7533,7 +7533,7 @@ Resource		0
 Addon			"C7A2blk_butt_folded"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"Items\new_m4butt_folded.act"
+ACTOR			"Items\NEW_c7a2BUTTblk_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -8409,7 +8409,7 @@ Resource		10000
 Addon			"Machinegun Bipod (DP27)"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\DP27_bipod.act"
+ACTOR			"Items\dp28novabipod.act"
 IMAGE			"pkm_bipod.e5b"
 WEIGHT			200
 Resource		0
@@ -8417,7 +8417,7 @@ Resource		0
 Addon			"Machinegun Bipod (DP27) Folded"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\DP27_bipodfolded.act"
+ACTOR			"Items\dp28novabipodfolded.act"
 IMAGE			"pkm_bipod.e5b"
 WEIGHT			200
 Resource		0
