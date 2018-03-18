@@ -17534,7 +17534,7 @@ MaxRange		150
 EffectiveRange	93
 RangeCurvature	5
 Balance			0.48
-Unfold			"Assault Rifle XM177 (22) folded"
+// Unfold			"Assault Rifle XM177 (22) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -17573,7 +17573,7 @@ MaxRange		120
 EffectiveRange	74
 RangeCurvature	5
 Balance			0.48
-Unfold			"Assault Rifle XM177 (22)"
+// Unfold			"Assault Rifle XM177 (22)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -17612,7 +17612,7 @@ MaxRange		150
 EffectiveRange	96
 RangeCurvature	5
 Balance			0.48
-Unfold			"Small Assault Rifle M933 (22) folded"
+// Unfold			"Small Assault Rifle M933 (22) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -17652,7 +17652,7 @@ MaxRange		120
 EffectiveRange	65
 RangeCurvature	5
 Balance			0.48
-Unfold			"Small Assault Rifle M933 (22)"
+// Unfold			"Small Assault Rifle M933 (22)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -17692,7 +17692,7 @@ MaxRange		160
 EffectiveRange	112
 RangeCurvature	5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD (22) folded"
+// Unfold			"Assault Rifle M4 SOPMOD (22) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -17732,7 +17732,7 @@ MaxRange		128
 EffectiveRange	90
 RangeCurvature	5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD (22)"
+// Unfold			"Assault Rifle M4 SOPMOD (22)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -17772,7 +17772,7 @@ MaxRange		160
 EffectiveRange	112
 RangeCurvature	5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD FG (22) folded"
+// Unfold			"Assault Rifle M4 SOPMOD FG (22) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -17812,7 +17812,7 @@ MaxRange		128
 EffectiveRange	90
 RangeCurvature	5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD FG (22)"
+// Unfold			"Assault Rifle M4 SOPMOD FG (22)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -17968,7 +17968,7 @@ MaxRange		160
 EffectiveRange	116
 RangeCurvature	5
 Balance			0.57
-Unfold			"SW MP15 LB 22 folded"
+// Unfold			"SW MP15 LB 22 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -18007,7 +18007,7 @@ MaxRange		128
 EffectiveRange	93
 RangeCurvature	5
 Balance			0.57
-Unfold			"SW MP15 LB 22"
+// Unfold			"SW MP15 LB 22"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -18046,7 +18046,7 @@ MaxRange		160
 EffectiveRange	114
 RangeCurvature	5
 Balance			0.51
-Unfold			"HK416 22 folded"
+// Unfold			"HK416 22 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -18085,7 +18085,7 @@ MaxRange		128
 EffectiveRange	91
 RangeCurvature	5
 Balance			0.51
-Unfold			"HK416 22"
+// Unfold			"HK416 22"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -28852,7 +28852,7 @@ MaxRange		205
 EffectiveRange	125
 RangeCurvature	3
 Balance			0.48
-Unfold			"Submachine-gun Colt SMG (9mm) folded"
+// Unfold			"Submachine-gun Colt SMG (9mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -28891,7 +28891,7 @@ MaxRange		164
 EffectiveRange	100
 RangeCurvature	3
 Balance			0.48
-Unfold			"Submachine-gun Colt SMG (9mm)"
+// Unfold			"Submachine-gun Colt SMG (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -28930,7 +28930,7 @@ MaxRange		205
 EffectiveRange	125
 RangeCurvature	3
 Balance			0.48
-Unfold			"Submachine-gun Colt 635 WR (9mm) folded"
+// Unfold			"Submachine-gun Colt 635 WR (9mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -28969,7 +28969,7 @@ MaxRange		164
 EffectiveRange	100
 RangeCurvature	3
 Balance			0.48
-Unfold			"Submachine-gun Colt 635 WR (9mm)"
+// Unfold			"Submachine-gun Colt 635 WR (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29008,7 +29008,7 @@ MaxRange		225
 EffectiveRange	145
 RangeCurvature	3
 Balance			0.51
-Unfold			"Submachine-gun Colt 635 WR LB (9mm) folded"
+// Unfold			"Submachine-gun Colt 635 WR LB (9mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29047,7 +29047,7 @@ MaxRange		180
 EffectiveRange	116
 RangeCurvature	3
 Balance			0.51
-Unfold			"Submachine-gun Colt 635 WR LB (9mm)"
+// Unfold			"Submachine-gun Colt 635 WR LB (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29166,7 +29166,7 @@ MaxRange		205
 EffectiveRange	125
 RangeCurvature	3
 Balance			0.48
-Unfold			"Submachine-gun K9 (9mm) folded"
+// Unfold			"Submachine-gun K9 (9mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29206,7 +29206,7 @@ MaxRange		164
 EffectiveRange	100
 RangeCurvature	3
 Balance			0.48
-Unfold			"Submachine-gun K9 (9mm)"
+// Unfold			"Submachine-gun K9 (9mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29246,7 +29246,7 @@ MaxRange		225
 EffectiveRange	129
 RangeCurvature	2.75
 Balance			0.48
-Unfold			"Submachine-gun K40 (.40) folded"
+// Unfold			"Submachine-gun K40 (.40) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29286,7 +29286,7 @@ MaxRange		180
 EffectiveRange	103
 RangeCurvature	2.75
 Balance			0.48
-Unfold			"Submachine-gun K40 (.40)"
+// Unfold			"Submachine-gun K40 (.40)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29326,7 +29326,7 @@ MaxRange		200
 EffectiveRange	123
 RangeCurvature	4
 Balance			0.48
-Unfold			"Submachine-gun K45 (.45ACP) folded"
+// Unfold			"Submachine-gun K45 (.45ACP) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29366,7 +29366,7 @@ MaxRange		160
 EffectiveRange	98
 RangeCurvature	4
 Balance			0.48
-Unfold			"Submachine-gun K45 (.45ACP)"
+// Unfold			"Submachine-gun K45 (.45ACP)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29406,7 +29406,7 @@ MaxRange		245
 EffectiveRange	133
 RangeCurvature	4
 Balance			0.48
-Unfold			"Submachine-gun K10 (10) folded"
+// Unfold			"Submachine-gun K10 (10) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -29446,7 +29446,7 @@ MaxRange		196
 EffectiveRange	106
 RangeCurvature	4
 Balance			0.48
-Unfold			"Submachine-gun K10 (10)"
+// Unfold			"Submachine-gun K10 (10)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -40569,7 +40569,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC CIV (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CQC CIV (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40608,7 +40608,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC CIV (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CQC CIV (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40647,7 +40647,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CQC CIV FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40686,7 +40686,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC CIV FG (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CQC CIV FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40725,7 +40725,7 @@ MaxRange		500
 EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR CIV (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CAR CIV (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40764,7 +40764,7 @@ MaxRange		400
 EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR CIV (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CAR CIV (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40803,7 +40803,7 @@ MaxRange		500
 EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40842,7 +40842,7 @@ MaxRange		400
 EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CAR CIV FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40881,7 +40881,7 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CIV (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CIV (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40920,7 +40920,7 @@ MaxRange		440
 EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CIV (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CIV (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40959,7 +40959,7 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -40998,7 +40998,7 @@ MaxRange		440
 EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CIV FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -43864,7 +43864,7 @@ MaxRange		280
 EffectiveRange	105
 RangeCurvature	4
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Beowulf (.50 BEO) folded"
+// Unfold			"Small Assault Rifle M933 Beowulf (.50 BEO) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -43903,7 +43903,7 @@ MaxRange		224
 EffectiveRange	84
 RangeCurvature	4
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Beowulf (.50 BEO)"
+// Unfold			"Small Assault Rifle M933 Beowulf (.50 BEO)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -43942,7 +43942,7 @@ MaxRange		280
 EffectiveRange	105
 RangeCurvature	4
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Beowulf FG (.50 BEO) folded"
+// Unfold			"Small Assault Rifle M933 Beowulf FG (.50 BEO) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -43981,7 +43981,7 @@ MaxRange		224
 EffectiveRange	84
 RangeCurvature	4
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Beowulf FG (.50 BEO)"
+// Unfold			"Small Assault Rifle M933 Beowulf FG (.50 BEO)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -44020,7 +44020,7 @@ MaxRange		310
 EffectiveRange	125
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle M4 Beowulf (.50 BEO) folded"
+// Unfold			"Assault Rifle M4 Beowulf (.50 BEO) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44059,7 +44059,7 @@ MaxRange		248
 EffectiveRange	100
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle M4 Beowulf (.50 BEO)"
+// Unfold			"Assault Rifle M4 Beowulf (.50 BEO)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44098,7 +44098,7 @@ MaxRange		310
 EffectiveRange	125
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle M4 Beowulf FG (.50 BEO) folded"
+// Unfold			"Assault Rifle M4 Beowulf FG (.50 BEO) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44137,7 +44137,7 @@ MaxRange		248
 EffectiveRange	100
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle M4 Beowulf FG (.50 BEO)"
+// Unfold			"Assault Rifle M4 Beowulf FG (.50 BEO)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44176,7 +44176,7 @@ MaxRange		340
 EffectiveRange	145
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle LAC Beowulf (.50 BEO) folded"
+// Unfold			"Assault Rifle LAC Beowulf (.50 BEO) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44215,7 +44215,7 @@ MaxRange		272
 EffectiveRange	116
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle LAC Beowulf (.50 BEO)"
+// Unfold			"Assault Rifle LAC Beowulf (.50 BEO)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44254,7 +44254,7 @@ MaxRange		340
 EffectiveRange	145
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle LAC Beowulf FG (.50 BEO) folded"
+// Unfold			"Assault Rifle LAC Beowulf FG (.50 BEO) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -44293,7 +44293,7 @@ MaxRange		272
 EffectiveRange	116
 RangeCurvature	4
 Balance			0.51
-Unfold			"Assault Rifle LAC Beowulf FG (.50 BEO)"
+// Unfold			"Assault Rifle LAC Beowulf FG (.50 BEO)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46252,7 +46252,7 @@ MaxRange		500
 EffectiveRange	190
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle AR-15A2 (5.56mm) folded"
+// Unfold			"Assault Rifle AR-15A2 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46291,7 +46291,7 @@ MaxRange		400
 EffectiveRange	152
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle AR-15A2 (5.56mm)"
+// Unfold			"Assault Rifle AR-15A2 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46330,7 +46330,7 @@ MaxRange		500
 EffectiveRange	190
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle Government Carbine (5.56mm) folded"
+// Unfold			"Assault Rifle Government Carbine (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46370,7 +46370,7 @@ MaxRange		400
 EffectiveRange	152
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle Government Carbine (5.56mm)"
+// Unfold			"Assault Rifle Government Carbine (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46412,7 +46412,7 @@ MaxRange		500
 EffectiveRange	195
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle XM-15-E2S (5.56mm) folded"
+// Unfold			"Assault Rifle XM-15-E2S (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46452,7 +46452,7 @@ MaxRange		400
 EffectiveRange	156
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle XM-15-E2S (5.56mm)"
+// Unfold			"Assault Rifle XM-15-E2S (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46494,7 +46494,7 @@ MaxRange		500
 EffectiveRange	195
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle XM-15-E2S FG (5.56mm) folded"
+// Unfold			"Assault Rifle XM-15-E2S FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46534,7 +46534,7 @@ MaxRange		400
 EffectiveRange	156
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle XM-15-E2S FG (5.56mm)"
+// Unfold			"Assault Rifle XM-15-E2S FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -46988,7 +46988,7 @@ MaxRange		410
 EffectiveRange	120
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle AR-15 CQB (.300 BLK) folded"
+// Unfold			"Assault Rifle AR-15 CQB (.300 BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -47028,7 +47028,7 @@ MaxRange		328
 EffectiveRange	96
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle AR-15 CQB (.300 BLK)"
+// Unfold			"Assault Rifle AR-15 CQB (.300 BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -47070,7 +47070,7 @@ MaxRange		410
 EffectiveRange	120
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle AR-15 CQB AG (.300 BLK) folded"
+// Unfold			"Assault Rifle AR-15 CQB AG (.300 BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -47110,7 +47110,7 @@ MaxRange		328
 EffectiveRange	96
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle AR-15 CQB AG (.300 BLK)"
+// Unfold			"Assault Rifle AR-15 CQB AG (.300 BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -47150,7 +47150,7 @@ MaxRange		440
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle AR-15 (.300 BLK) folded"
+// Unfold			"Assault Rifle AR-15 (.300 BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -47190,7 +47190,7 @@ MaxRange		352
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle AR-15 (.300 BLK)"
+// Unfold			"Assault Rifle AR-15 (.300 BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -57381,7 +57381,7 @@ MaxRange		450
 EffectiveRange	105
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 M619 (5.56mm) folded"
+// Unfold			"Small Assault Rifle CAR-15 M619 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57420,7 +57420,7 @@ MaxRange		360
 EffectiveRange	84
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 M619 (5.56mm)"
+// Unfold			"Small Assault Rifle CAR-15 M619 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57459,7 +57459,7 @@ MaxRange		450
 EffectiveRange	105
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 New (5.56mm) folded"
+// Unfold			"Small Assault Rifle CAR-15 New (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57498,7 +57498,7 @@ MaxRange		360
 EffectiveRange	84
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 New (5.56mm)"
+// Unfold			"Small Assault Rifle CAR-15 New (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57537,7 +57537,7 @@ MaxRange		450
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 M639 (5.56mm) folded"
+// Unfold			"Small Assault Rifle CAR-15 M639 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57576,7 +57576,7 @@ MaxRange		360
 EffectiveRange	96
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 M639 (5.56mm)"
+// Unfold			"Small Assault Rifle CAR-15 M639 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57615,7 +57615,7 @@ MaxRange		450
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 M640 (5.56mm) folded"
+// Unfold			"Small Assault Rifle CAR-15 M640 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57654,7 +57654,7 @@ MaxRange		360
 EffectiveRange	96
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle CAR-15 M640 (5.56mm)"
+// Unfold			"Small Assault Rifle CAR-15 M640 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -57767,7 +57767,7 @@ MaxRange		500
 EffectiveRange	150
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M653 (5.56mm) folded"
+// Unfold			"Assault Rifle M653 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -57806,7 +57806,7 @@ MaxRange		400
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M653 (5.56mm)"
+// Unfold			"Assault Rifle M653 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -57923,7 +57923,7 @@ MaxRange		500
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle Colt 723 (5.56mm) folded"
+// Unfold			"Assault Rifle Colt 723 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -57962,7 +57962,7 @@ MaxRange		400
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle Colt 723 (5.56mm)"
+// Unfold			"Assault Rifle Colt 723 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58001,7 +58001,7 @@ MaxRange		500
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle CAR-15 (5.56mm) folded"
+// Unfold			"Assault Rifle CAR-15 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58040,7 +58040,7 @@ MaxRange		400
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle CAR-15 (5.56mm)"
+// Unfold			"Assault Rifle CAR-15 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58079,7 +58079,7 @@ MaxRange		500
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle Colt 727 (5.56mm) folded"
+// Unfold			"Assault Rifle Colt 727 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58118,7 +58118,7 @@ MaxRange		400
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle Colt 727 (5.56mm)"
+// Unfold			"Assault Rifle Colt 727 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58159,7 +58159,7 @@ MaxRange		450
 EffectiveRange	130
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 733 folded"
+// Unfold			"Assault Rifle Colt Commando 733 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58198,7 +58198,7 @@ MaxRange		360
 EffectiveRange	104
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 733"
+// Unfold			"Assault Rifle Colt Commando 733"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58239,7 +58239,7 @@ MaxRange		450
 EffectiveRange	135
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 933 folded"
+// Unfold			"Assault Rifle Colt Commando 933 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58279,7 +58279,7 @@ MaxRange		360
 EffectiveRange	108
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 933"
+// Unfold			"Assault Rifle Colt Commando 933"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58321,7 +58321,7 @@ MaxRange		450
 EffectiveRange	135
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 933 FG folded"
+// Unfold			"Assault Rifle Colt Commando 933 FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58361,7 +58361,7 @@ MaxRange		360
 EffectiveRange	108
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle Colt Commando 933 FG"
+// Unfold			"Assault Rifle Colt Commando 933 FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58403,7 +58403,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 (5.56mm) folded"
+// Unfold			"Assault Rifle M4A1 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58443,7 +58443,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 (5.56mm)"
+// Unfold			"Assault Rifle M4A1 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58483,7 +58483,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1+M203 folded"
+// Unfold			"Assault Rifle M4A1+M203 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58524,7 +58524,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1+M203"
+// Unfold			"Assault Rifle M4A1+M203"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58567,7 +58567,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 RIS (5.56mm) folded"
+// Unfold			"Assault Rifle M4A1 RIS (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58607,7 +58607,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 RIS (5.56mm)"
+// Unfold			"Assault Rifle M4A1 RIS (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58647,7 +58647,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 RIS FG (5.56mm) folded"
+// Unfold			"Assault Rifle M4A1 RIS FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58687,7 +58687,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4A1 RIS FG (5.56mm)"
+// Unfold			"Assault Rifle M4A1 RIS FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58727,7 +58727,7 @@ MaxRange		500
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle CQA (5.56mm) folded"
+// Unfold			"Assault Rifle CQA (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58767,7 +58767,7 @@ MaxRange		400
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle CQA (5.56mm)"
+// Unfold			"Assault Rifle CQA (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -58813,7 +58813,7 @@ MaxRange		450
 EffectiveRange	125
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M4 CQB-R (5.56mm) folded"
+// Unfold			"Small Assault Rifle M4 CQB-R (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -58853,7 +58853,7 @@ MaxRange		360
 EffectiveRange	100
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M4 CQB-R (5.56mm)"
+// Unfold			"Small Assault Rifle M4 CQB-R (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -58893,7 +58893,7 @@ MaxRange		450
 EffectiveRange	125
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M4 CQB-R FG (5.56mm) folded"
+// Unfold			"Small Assault Rifle M4 CQB-R FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -58933,7 +58933,7 @@ MaxRange		360
 EffectiveRange	100
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M4 CQB-R FG (5.56mm)"
+// Unfold			"Small Assault Rifle M4 CQB-R FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -58973,7 +58973,7 @@ MaxRange		500
 EffectiveRange	190
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle LAC (5.56mm) folded"
+// Unfold			"Assault Rifle LAC (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59013,7 +59013,7 @@ MaxRange		400
 EffectiveRange	152
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle LAC (5.56mm)"
+// Unfold			"Assault Rifle LAC (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59735,7 +59735,7 @@ MaxRange		350
 EffectiveRange	95
 RangeCurvature	2
 Balance			0.52
-Unfold			"Assault Rifle C7FT PDW (5.56mm) folded"
+// Unfold			"Assault Rifle C7FT PDW (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59775,7 +59775,7 @@ MaxRange		280
 EffectiveRange	76
 RangeCurvature	2
 Balance			0.52
-Unfold			"Assault Rifle C7FT PDW (5.56mm)"
+// Unfold			"Assault Rifle C7FT PDW (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59815,7 +59815,7 @@ MaxRange		350
 EffectiveRange	95
 RangeCurvature	2
 Balance			0.52
-Unfold			"Assault Rifle C7FT PDW B (5.56mm) folded"
+// Unfold			"Assault Rifle C7FT PDW B (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59855,7 +59855,7 @@ MaxRange		280
 EffectiveRange	76
 RangeCurvature	2
 Balance			0.52
-Unfold			"Assault Rifle C7FT PDW B (5.56mm)"
+// Unfold			"Assault Rifle C7FT PDW B (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59932,7 +59932,6 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.53
-Unfold			"Assault Rifle C7FT (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -59971,7 +59970,6 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.53
-Unfold			"Assault Rifle C7FT (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60010,7 +60008,7 @@ MaxRange		550
 EffectiveRange	240
 RangeCurvature	2
 Balance			0.53
-Unfold			"Assault Rifle C7FT (5.56mm) folded"
+// Unfold			"Assault Rifle C7FT (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60050,7 +60048,7 @@ MaxRange		440
 EffectiveRange	192
 RangeCurvature	2
 Balance			0.53
-Unfold			"Assault Rifle C7FT (5.56mm)"
+// Unfold			"Assault Rifle C7FT (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60090,7 +60088,7 @@ MaxRange		550
 EffectiveRange	230
 RangeCurvature	2
 Balance			0.53
-Unfold			"Assault Rifle C7FT B (5.56mm) folded"
+// Unfold			"Assault Rifle C7FT B (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60130,7 +60128,7 @@ MaxRange		440
 EffectiveRange	192
 RangeCurvature	2
 Balance			0.53
-Unfold			"Assault Rifle C7FT B (5.56mm)"
+// Unfold			"Assault Rifle C7FT B (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60170,7 +60168,7 @@ MaxRange		500
 EffectiveRange	175
 RangeCurvature	2
 Balance			0.46
-Unfold			"Assault Rifle C8 (5.56mm) folded"
+// Unfold			"Assault Rifle C8 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60209,7 +60207,7 @@ MaxRange		400
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
-Unfold			"Assault Rifle C8 (5.56mm)"
+// Unfold			"Assault Rifle C8 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60248,7 +60246,7 @@ MaxRange		500
 EffectiveRange	175
 RangeCurvature	2
 Balance			0.46
-Unfold			"Assault Rifle C7FT CAR (5.56mm) folded"
+// Unfold			"Assault Rifle C7FT CAR (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60288,7 +60286,7 @@ MaxRange		400
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
-Unfold			"Assault Rifle C7FT CAR (5.56mm)"
+// Unfold			"Assault Rifle C7FT CAR (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60328,7 +60326,7 @@ MaxRange		500
 EffectiveRange	175
 RangeCurvature	2
 Balance			0.46
-Unfold			"Assault Rifle C7FT CAR B (5.56mm) folded"
+// Unfold			"Assault Rifle C7FT CAR B (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60368,7 +60366,7 @@ MaxRange		400
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
-Unfold			"Assault Rifle C7FT CAR B (5.56mm)"
+// Unfold			"Assault Rifle C7FT CAR B (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60527,7 +60525,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 PDW NATO folded"
+// Unfold			"REC7 PDW NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60566,7 +60564,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 PDW NATO"
+// Unfold			"REC7 PDW NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60605,7 +60603,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 PDW NATO FG folded"
+// Unfold			"REC7 PDW NATO FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60644,7 +60642,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 PDW NATO FG"
+// Unfold			"REC7 PDW NATO FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60683,7 +60681,7 @@ MaxRange		500
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 NATO folded"
+// Unfold			"REC7 NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60722,7 +60720,7 @@ MaxRange		400
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 NATO"
+// Unfold			"REC7 NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60761,7 +60759,7 @@ MaxRange		500
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 NATO FG folded"
+// Unfold			"REC7 NATO FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60800,7 +60798,7 @@ MaxRange		400
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 NATO FG"
+// Unfold			"REC7 NATO FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60839,7 +60837,7 @@ MaxRange		420
 EffectiveRange	145
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"REC7 PDW SPC folded"
+// Unfold			"REC7 PDW SPC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60878,7 +60876,7 @@ MaxRange		328
 EffectiveRange	116
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 PDW SPC"
+// Unfold			"REC7 PDW SPC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60917,7 +60915,7 @@ MaxRange		430
 EffectiveRange	145
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"REC7 PDW SPC FG folded"
+// Unfold			"REC7 PDW SPC FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60956,7 +60954,7 @@ MaxRange		328
 EffectiveRange	116
 RangeCurvature	2
 Balance			0.57
-Unfold			"REC7 PDW SPC FG"
+// Unfold			"REC7 PDW SPC FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60995,7 +60993,7 @@ MaxRange		480
 EffectiveRange	200
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"REC7 SPC folded"
+// Unfold			"REC7 SPC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -61034,7 +61032,7 @@ MaxRange		376
 EffectiveRange	160
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"REC7 SPC"
+// Unfold			"REC7 SPC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -61073,7 +61071,7 @@ MaxRange		470
 EffectiveRange	200
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"REC7 SPC FG folded"
+// Unfold			"REC7 SPC FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -61112,7 +61110,7 @@ MaxRange		368
 EffectiveRange	160
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"REC7 SPC FG"
+// Unfold			"REC7 SPC FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -61153,7 +61151,7 @@ MaxRange		450
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 folded"
+// Unfold			"LWRC PSD 556 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61192,7 +61190,7 @@ MaxRange		360
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556"
+// Unfold			"LWRC PSD 556"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61231,7 +61229,7 @@ MaxRange		450
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 FG folded"
+// Unfold			"LWRC PSD 556 FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61270,7 +61268,7 @@ MaxRange		360
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 FG"
+// Unfold			"LWRC PSD 556 FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61309,7 +61307,7 @@ MaxRange		450
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 BLK folded"
+// Unfold			"LWRC PSD 556 BLK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61348,7 +61346,7 @@ MaxRange		360
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 BLK"
+// Unfold			"LWRC PSD 556 BLK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61387,7 +61385,7 @@ MaxRange		450
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 BLK FG folded"
+// Unfold			"LWRC PSD 556 BLK FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61426,7 +61424,7 @@ MaxRange		360
 EffectiveRange	128
 RangeCurvature	2
 Balance			0.62
-Unfold			"LWRC PSD 556 BLK FG"
+// Unfold			"LWRC PSD 556 BLK FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61465,7 +61463,7 @@ MaxRange		430
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD folded"
+// Unfold			"LWRC PSD folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61504,7 +61502,7 @@ MaxRange		344
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD"
+// Unfold			"LWRC PSD"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61543,7 +61541,7 @@ MaxRange		430
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD FG folded"
+// Unfold			"LWRC PSD FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61582,7 +61580,7 @@ MaxRange		344
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD FG"
+// Unfold			"LWRC PSD FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61621,7 +61619,7 @@ MaxRange		430
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD BLK folded"
+// Unfold			"LWRC PSD BLK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61660,7 +61658,7 @@ MaxRange		344
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD BLK"
+// Unfold			"LWRC PSD BLK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61699,7 +61697,7 @@ MaxRange		430
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.62
-Unfold			"LWRC PSD BLK FG folded"
+// Unfold			"LWRC PSD BLK FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61738,7 +61736,7 @@ MaxRange		344
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.38
-Unfold			"LWRC PSD BLK FG"
+// Unfold			"LWRC PSD BLK FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -61999,7 +61997,7 @@ MaxRange		500
 EffectiveRange	150
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle T65K2 Carbine (5.56mm) folded"
+// Unfold			"Assault Rifle T65K2 Carbine (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62038,7 +62036,7 @@ MaxRange		400
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.49
-Unfold			"Assault Rifle T65K2 Carbine (5.56mm)"
+// Unfold			"Assault Rifle T65K2 Carbine (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62077,7 +62075,7 @@ MaxRange		500
 EffectiveRange	150
 RangeCurvature	2
 Balance			0.48
-Unfold			"Assault Rifle T65K2 Carbine BK (5.56mm) folded"
+// Unfold			"Assault Rifle T65K2 Carbine BK (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62116,7 +62114,7 @@ MaxRange		400
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.49
-Unfold			"Assault Rifle T65K2 Carbine BK (5.56mm)"
+// Unfold			"Assault Rifle T65K2 Carbine BK (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62229,7 +62227,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle T86 (5.56mm) folded"
+// Unfold			"Assault Rifle T86 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62268,7 +62266,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle T86 (5.56mm)"
+// Unfold			"Assault Rifle T86 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62307,7 +62305,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle T91 (5.56mm) folded"
+// Unfold			"Assault Rifle T91 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62347,7 +62345,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle T91 (5.56mm)"
+// Unfold			"Assault Rifle T91 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62387,7 +62385,7 @@ MaxRange		500
 EffectiveRange	200
 RangeCurvature	2
 Balance			0.62
-Unfold			"Assault Rifle M4A1 Real (5.56mm) folded"
+// Unfold			"Assault Rifle M4A1 Real (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62426,7 +62424,7 @@ MaxRange		400
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.62
-Unfold			"Assault Rifle M4A1 Real (5.56mm)"
+// Unfold			"Assault Rifle M4A1 Real (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62465,7 +62463,7 @@ MaxRange		500
 EffectiveRange	200
 RangeCurvature	2
 Balance			0.62
-Unfold			"Assault Rifle M4A1 Old (5.56mm) folded"
+// Unfold			"Assault Rifle M4A1 Old (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62504,7 +62502,7 @@ MaxRange		400
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.62
-Unfold			"Assault Rifle M4A1 Old (5.56mm)"
+// Unfold			"Assault Rifle M4A1 Old (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62543,7 +62541,7 @@ MaxRange		500
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle LVOAS (5.56x45mm) folded"
+// Unfold			"Assault Rifle LVOAS (5.56x45mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62582,7 +62580,7 @@ MaxRange		400
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.63
-Unfold			"Assault Rifle LVOAS (5.56x45mm)"
+// Unfold			"Assault Rifle LVOAS (5.56x45mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62621,7 +62619,7 @@ MaxRange		500
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.63
-Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
+// Unfold			"Assault Rifle LVOAS FG (5.56x45mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62660,7 +62658,7 @@ MaxRange		400
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.63
-Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
+// Unfold			"Assault Rifle LVOAS FG (5.56x45mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62855,7 +62853,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.48
-Unfold			"HK416CQB folded"
+// Unfold			"HK416CQB folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62894,7 +62892,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.48
-Unfold			"HK416CQB"
+// Unfold			"HK416CQB"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62933,7 +62931,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.48
-Unfold			"HK416CQB FG folded"
+// Unfold			"HK416CQB FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -62972,7 +62970,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.48
-Unfold			"HK416CQB FG"
+// Unfold			"HK416CQB FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63011,7 +63009,7 @@ MaxRange		500
 EffectiveRange	175
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 14DRS folded"
+// Unfold			"HK416 14DRS folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63050,7 +63048,7 @@ MaxRange		400
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 14DRS"
+// Unfold			"HK416 14DRS"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63089,7 +63087,7 @@ MaxRange		500
 EffectiveRange	175
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 14DRS FG folded"
+// Unfold			"HK416 14DRS FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63128,7 +63126,7 @@ MaxRange		400
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 14DRS FG"
+// Unfold			"HK416 14DRS FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63167,7 +63165,7 @@ MaxRange		500
 EffectiveRange	200
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 folded"
+// Unfold			"HK416 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63206,7 +63204,7 @@ MaxRange		400
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416"
+// Unfold			"HK416"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63245,7 +63243,7 @@ MaxRange		500
 EffectiveRange	200
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 FG folded"
+// Unfold			"HK416 FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63284,7 +63282,7 @@ MaxRange		400
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.51
-Unfold			"HK416 FG"
+// Unfold			"HK416 FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63323,7 +63321,7 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.46
-Unfold			"HK416 D20RS folded"
+// Unfold			"HK416 D20RS folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63362,7 +63360,7 @@ MaxRange		440
 EffectiveRange	196
 RangeCurvature	2
 Balance			0.46
-Unfold			"HK416 D20RS"
+// Unfold			"HK416 D20RS"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63401,7 +63399,7 @@ MaxRange		550
 EffectiveRange	130
 RangeCurvature	1.5
 Balance			0.49
-Unfold			"HK417 12Inch CQB folded"
+// Unfold			"HK417 12Inch CQB folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63440,7 +63438,7 @@ MaxRange		440
 EffectiveRange	104
 RangeCurvature	1.5
 Balance			0.49
-Unfold			"HK417 12Inch CQB"
+// Unfold			"HK417 12Inch CQB"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63479,7 +63477,7 @@ MaxRange		550
 EffectiveRange	130
 RangeCurvature	1.5
 Balance			0.49
-Unfold			"HK417 12Inch CQB FG folded"
+// Unfold			"HK417 12Inch CQB FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63518,7 +63516,7 @@ MaxRange		440
 EffectiveRange	104
 RangeCurvature	1.5
 Balance			0.49
-Unfold			"HK417 12Inch CQB FG"
+// Unfold			"HK417 12Inch CQB FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63557,7 +63555,7 @@ MaxRange		650
 EffectiveRange	225
 RangeCurvature	1.5
 Balance			0.47
-Unfold			"HK417 16Inch folded"
+// Unfold			"HK417 16Inch folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63596,7 +63594,7 @@ MaxRange		520
 EffectiveRange	180
 RangeCurvature	1.5
 Balance			0.47
-Unfold			"HK417 16Inch"
+// Unfold			"HK417 16Inch"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63635,7 +63633,7 @@ MaxRange		650
 EffectiveRange	225
 RangeCurvature	1.5
 Balance			0.47
-Unfold			"HK417 16Inch FG folded"
+// Unfold			"HK417 16Inch FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63674,7 +63672,7 @@ MaxRange		520
 EffectiveRange	180
 RangeCurvature	1.5
 Balance			0.47
-Unfold			"HK417 16Inch FG"
+// Unfold			"HK417 16Inch FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63713,7 +63711,7 @@ MaxRange		750
 EffectiveRange	320
 RangeCurvature	1.5
 Balance			0.44
-Unfold			"HK417 20Inch folded"
+// Unfold			"HK417 20Inch folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63752,7 +63750,7 @@ MaxRange		600
 EffectiveRange	256
 RangeCurvature	1.5
 Balance			0.44
-Unfold			"HK417 20Inch"
+// Unfold			"HK417 20Inch"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63791,7 +63789,7 @@ MaxRange		750
 EffectiveRange	320
 RangeCurvature	1.5
 Balance			0.44
-Unfold			"HK417 20Inch FG folded"
+// Unfold			"HK417 20Inch FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63830,7 +63828,7 @@ MaxRange		600
 EffectiveRange	256
 RangeCurvature	1.5
 Balance			0.44
-Unfold			"HK417 20Inch FG"
+// Unfold			"HK417 20Inch FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63871,7 +63869,7 @@ MaxRange		450
 EffectiveRange	150
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CQC (5.56mm) folded"
+// Unfold			"Assault Rifle MK18 CQC (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63910,7 +63908,7 @@ MaxRange		360
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CQC (5.56mm)"
+// Unfold			"Assault Rifle MK18 CQC (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63949,7 +63947,7 @@ MaxRange		450
 EffectiveRange	150
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CQC FG (5.56mm) folded"
+// Unfold			"Assault Rifle MK18 CQC FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -63988,7 +63986,7 @@ MaxRange		360
 EffectiveRange	120
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CQC FG (5.56mm)"
+// Unfold			"Assault Rifle MK18 CQC FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64027,7 +64025,7 @@ MaxRange		500
 EffectiveRange	185
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CAR (5.56mm) folded"
+// Unfold			"Assault Rifle MK18 CAR (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64066,7 +64064,7 @@ MaxRange		400
 EffectiveRange	148
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CAR (5.56mm)"
+// Unfold			"Assault Rifle MK18 CAR (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64105,7 +64103,7 @@ MaxRange		500
 EffectiveRange	185
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CAR FG (5.56mm) folded"
+// Unfold			"Assault Rifle MK18 CAR FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64144,7 +64142,7 @@ MaxRange		400
 EffectiveRange	148
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 CAR FG (5.56mm)"
+// Unfold			"Assault Rifle MK18 CAR FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64183,7 +64181,7 @@ MaxRange		500
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 (5.56mm) folded"
+// Unfold			"Assault Rifle MK18 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64222,7 +64220,7 @@ MaxRange		400
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 (5.56mm)"
+// Unfold			"Assault Rifle MK18 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64261,7 +64259,7 @@ MaxRange		500
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 FG (5.56mm) folded"
+// Unfold			"Assault Rifle MK18 FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64300,7 +64298,7 @@ MaxRange		400
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.56
-Unfold			"Assault Rifle MK18 FG (5.56mm)"
+// Unfold			"Assault Rifle MK18 FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64339,7 +64337,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior CQB folded"
+// Unfold			"MOE Warrior CQB folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64379,7 +64377,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior CQB"
+// Unfold			"MOE Warrior CQB"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64419,7 +64417,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior CQB BK folded"
+// Unfold			"MOE Warrior CQB BK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64459,7 +64457,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior CQB BK"
+// Unfold			"MOE Warrior CQB BK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64499,7 +64497,7 @@ MaxRange		500
 EffectiveRange	180
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior folded"
+// Unfold			"MOE Warrior folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64539,7 +64537,7 @@ MaxRange		400
 EffectiveRange	144
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior"
+// Unfold			"MOE Warrior"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64579,7 +64577,7 @@ MaxRange		500
 EffectiveRange	180
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior BK folded"
+// Unfold			"MOE Warrior BK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64619,7 +64617,7 @@ MaxRange		400
 EffectiveRange	144
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior BK"
+// Unfold			"MOE Warrior BK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64659,7 +64657,7 @@ MaxRange		500
 EffectiveRange	205
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior LB folded"
+// Unfold			"MOE Warrior LB folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64699,7 +64697,7 @@ MaxRange		400
 EffectiveRange	164
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior LB"
+// Unfold			"MOE Warrior LB"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64739,7 +64737,7 @@ MaxRange		500
 EffectiveRange	205
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior LB BK folded"
+// Unfold			"MOE Warrior LB BK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64779,7 +64777,7 @@ MaxRange		400
 EffectiveRange	164
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior LB BK"
+// Unfold			"MOE Warrior LB BK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64819,7 +64817,7 @@ MaxRange		600
 EffectiveRange	200
 RangeCurvature	1.5
 Balance			0.57
-Unfold			"MOE Warrior G2 folded"
+// Unfold			"MOE Warrior G2 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64859,7 +64857,7 @@ MaxRange		480
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior G2"
+// Unfold			"MOE Warrior G2"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64899,7 +64897,7 @@ MaxRange		600
 EffectiveRange	200
 RangeCurvature	1.5
 Balance			0.57
-Unfold			"MOE Warrior G2 BK folded"
+// Unfold			"MOE Warrior G2 BK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64939,7 +64937,7 @@ MaxRange		480
 EffectiveRange	160
 RangeCurvature	2
 Balance			0.57
-Unfold			"MOE Warrior G2 BK"
+// Unfold			"MOE Warrior G2 BK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -64979,7 +64977,7 @@ MaxRange		650
 EffectiveRange	240
 RangeCurvature	1.5
 Balance			0.57
-Unfold			"MOE Warrior G2 LB folded"
+// Unfold			"MOE Warrior G2 LB folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65019,7 +65017,7 @@ MaxRange		540
 EffectiveRange	192
 RangeCurvature	1.5
 Balance			0.57
-Unfold			"MOE Warrior G2 LB"
+// Unfold			"MOE Warrior G2 LB"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65059,7 +65057,7 @@ MaxRange		650
 EffectiveRange	240
 RangeCurvature	1.5
 Balance			0.57
-Unfold			"MOE Warrior G2 LB BK folded"
+// Unfold			"MOE Warrior G2 LB BK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65099,7 +65097,7 @@ MaxRange		540
 EffectiveRange	192
 RangeCurvature	1.5
 Balance			0.57
-Unfold			"MOE Warrior G2 LB BK"
+// Unfold			"MOE Warrior G2 LB BK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65141,7 +65139,7 @@ MaxRange		500
 EffectiveRange	220
 RangeCurvature	2
 Balance			0.65
-Unfold			"Assault Rifle AR15 5.56x45 no FG folded"
+// Unfold			"Assault Rifle AR15 5.56x45 no FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65180,7 +65178,7 @@ MaxRange		400
 EffectiveRange	176
 RangeCurvature	2
 Balance			0.65
-Unfold			"Assault Rifle AR15 5.56x45 no FG"
+// Unfold			"Assault Rifle AR15 5.56x45 no FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65219,7 +65217,7 @@ MaxRange		500
 EffectiveRange	220
 RangeCurvature	2
 Balance			0.41
-Unfold			"Assault Rifle AR15 5.56x45 folded"
+// Unfold			"Assault Rifle AR15 5.56x45 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65258,7 +65256,7 @@ MaxRange		400
 EffectiveRange	176
 RangeCurvature	2
 Balance			0.41
-Unfold			"Assault Rifle AR15 5.56x45"
+// Unfold			"Assault Rifle AR15 5.56x45"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65297,7 +65295,7 @@ MaxRange		650
 EffectiveRange	250
 RangeCurvature	1.5
 Balance			0.65
-Unfold			"Assault Rifle DPMS 308 no FG folded"
+// Unfold			"Assault Rifle DPMS 308 no FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65336,7 +65334,7 @@ MaxRange		520
 EffectiveRange	200
 RangeCurvature	1.5
 Balance			0.65
-Unfold			"Assault Rifle DPMS 308 no FG"
+// Unfold			"Assault Rifle DPMS 308 no FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65375,7 +65373,7 @@ MaxRange		650
 EffectiveRange	250
 RangeCurvature	1.5
 Balance			0.36
-Unfold			"Assault Rifle DPMS 308 folded"
+// Unfold			"Assault Rifle DPMS 308 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65414,7 +65412,7 @@ MaxRange		520
 EffectiveRange	200
 RangeCurvature	1.5
 Balance			0.41
-Unfold			"Assault Rifle DPMS 308"
+// Unfold			"Assault Rifle DPMS 308"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65453,7 +65451,7 @@ MaxRange		450
 EffectiveRange	135
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 CQC folded"
+// Unfold			"SW MP15 CQC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65492,7 +65490,7 @@ MaxRange		360
 EffectiveRange	108
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 CQC"
+// Unfold			"SW MP15 CQC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65531,7 +65529,7 @@ MaxRange		450
 EffectiveRange	135
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 CQC FG folded"
+// Unfold			"SW MP15 CQC FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65570,7 +65568,7 @@ MaxRange		360
 EffectiveRange	108
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 CQC FG"
+// Unfold			"SW MP15 CQC FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65609,7 +65607,7 @@ MaxRange		500
 EffectiveRange	170
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 folded"
+// Unfold			"SW MP15 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65648,7 +65646,7 @@ MaxRange		400
 EffectiveRange	136
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15"
+// Unfold			"SW MP15"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65687,7 +65685,7 @@ MaxRange		500
 EffectiveRange	170
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 FG folded"
+// Unfold			"SW MP15 FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65726,7 +65724,7 @@ MaxRange		400
 EffectiveRange	136
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 FG"
+// Unfold			"SW MP15 FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65765,7 +65763,7 @@ MaxRange		500
 EffectiveRange	205
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 LB folded"
+// Unfold			"SW MP15 LB folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65804,7 +65802,7 @@ MaxRange		400
 EffectiveRange	164
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 LB"
+// Unfold			"SW MP15 LB"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65843,7 +65841,7 @@ MaxRange		500
 EffectiveRange	205
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 LB FG folded"
+// Unfold			"SW MP15 LB FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65882,7 +65880,7 @@ MaxRange		400
 EffectiveRange	164
 RangeCurvature	2
 Balance			0.57
-Unfold			"SW MP15 LB FG"
+// Unfold			"SW MP15 LB FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65921,7 +65919,7 @@ MaxRange		500
 EffectiveRange	205
 RangeCurvature	2
 Balance			0.57
-Unfold			"Wilson NATO folded"
+// Unfold			"Wilson NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65936,7 +65934,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\m4magpul.act"
+ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -65960,7 +65958,7 @@ MaxRange		400
 EffectiveRange	164
 RangeCurvature	2
 Balance			0.51
-Unfold			"Wilson NATO"
+// Unfold			"Wilson NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -65975,7 +65973,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\m4magpul.act"
+ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -65999,7 +65997,7 @@ MaxRange		500
 EffectiveRange	205
 RangeCurvature	2
 Balance			0.39
-Unfold			"Wilson NATO FG folded"
+// Unfold			"Wilson NATO FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66014,7 +66012,7 @@ ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\m4magpulfg.act"
+ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -66038,7 +66036,7 @@ MaxRange		400
 EffectiveRange	164
 RangeCurvature	2
 Balance			0.39
-Unfold			"Wilson NATO FG"
+// Unfold			"Wilson NATO FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66053,7 +66051,7 @@ ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\m4magpulfg.act"
+ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -66077,7 +66075,7 @@ MaxRange		480
 EffectiveRange	195
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"Wilson SPC folded"
+// Unfold			"Wilson SPC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66092,7 +66090,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\m4magpul.act"
+ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -66116,7 +66114,7 @@ MaxRange		384
 EffectiveRange	156
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"Wilson SPC"
+// Unfold			"Wilson SPC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66131,7 +66129,7 @@ ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\m4magpul.act"
+ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -66155,7 +66153,7 @@ MaxRange		480
 EffectiveRange	195
 RangeCurvature	2.5
 Balance			0.39
-Unfold			"Wilson SPC FG folded"
+// Unfold			"Wilson SPC FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66194,7 +66192,7 @@ MaxRange		384
 EffectiveRange	156
 RangeCurvature	2.5
 Balance			0.39
-Unfold			"Wilson SPC FG"
+// Unfold			"Wilson SPC FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66233,7 +66231,7 @@ MaxRange		290
 EffectiveRange	155
 RangeCurvature	4
 Balance			0.65
-Unfold			"Wilson458 folded"
+// Unfold			"Wilson458 folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66248,7 +66246,7 @@ ATT Bayonet		1 "M9" blocks ILauncher
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\m4magpul.act"
+ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -66272,7 +66270,7 @@ MaxRange		232
 EffectiveRange	124
 RangeCurvature	4
 Balance			0.65
-Unfold			"Wilson458"
+// Unfold			"Wilson458"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66287,7 +66285,7 @@ ATT Bayonet		1 "M9" blocks ILauncher
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\m4magpul.act"
+ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -66311,7 +66309,7 @@ MaxRange		290
 EffectiveRange	155
 RangeCurvature	4
 Balance			0.43
-Unfold			"Wilson458 FG folded"
+// Unfold			"Wilson458 FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66326,7 +66324,7 @@ ATT Bayonet		1 "M9"
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
 StdPlug			"Krebs_butt"
-ACTOR			"Items\m4magpulfg.act"
+ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -66350,7 +66348,7 @@ MaxRange		232
 EffectiveRange	124
 RangeCurvature	4
 Balance			0.43
-Unfold			"Wilson458 FG"
+// Unfold			"Wilson458 FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66365,7 +66363,7 @@ ATT Bayonet		1 "M9"
 ATT Magazine	1 "Socom"
 StdPlug			"Rifle ammo clip (Socom Stanag/15)"
 StdPlug			"Krebs_butt_folded"
-ACTOR			"Items\m4magpulfg.act"
+ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -66389,7 +66387,7 @@ MaxRange		650
 EffectiveRange	260
 RangeCurvature	1.5
 Balance			0.7
-Unfold			"Assault Rifle Predatar folded"
+// Unfold			"Assault Rifle Predatar folded"
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SR-25_slide.wav"
@@ -66469,7 +66467,7 @@ MaxRange		530
 EffectiveRange	170
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Grendel (6.5) folded"
+// Unfold			"Small Assault Rifle M933 Grendel (6.5) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -66508,7 +66506,7 @@ MaxRange		424
 EffectiveRange	136
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Grendel (6.5)"
+// Unfold			"Small Assault Rifle M933 Grendel (6.5)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -66547,7 +66545,7 @@ MaxRange		530
 EffectiveRange	170
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Grendel FG (6.5) folded"
+// Unfold			"Small Assault Rifle M933 Grendel FG (6.5) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -66586,7 +66584,7 @@ MaxRange		424
 EffectiveRange	136
 RangeCurvature	2
 Balance			0.48
-Unfold			"Small Assault Rifle M933 Grendel FG (6.5)"
+// Unfold			"Small Assault Rifle M933 Grendel FG (6.5)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -66625,7 +66623,7 @@ MaxRange		580
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4 Grendel (6.5) folded"
+// Unfold			"Assault Rifle M4 Grendel (6.5) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66664,7 +66662,7 @@ MaxRange		464
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4 Grendel (6.5)"
+// Unfold			"Assault Rifle M4 Grendel (6.5)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66703,7 +66701,7 @@ MaxRange		580
 EffectiveRange	210
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4 Grendel FG (6.5) folded"
+// Unfold			"Assault Rifle M4 Grendel FG (6.5) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66742,7 +66740,7 @@ MaxRange		464
 EffectiveRange	168
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle M4 Grendel FG (6.5)"
+// Unfold			"Assault Rifle M4 Grendel FG (6.5)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66781,7 +66779,7 @@ MaxRange		580
 EffectiveRange	240
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle LAC Grendel (6.5) folded"
+// Unfold			"Assault Rifle LAC Grendel (6.5) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66820,7 +66818,7 @@ MaxRange		464
 EffectiveRange	192
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle LAC Grendel (6.5)"
+// Unfold			"Assault Rifle LAC Grendel (6.5)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66859,7 +66857,7 @@ MaxRange		580
 EffectiveRange	240
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle LAC Grendel FG (6.5) folded"
+// Unfold			"Assault Rifle LAC Grendel FG (6.5) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -66898,7 +66896,7 @@ MaxRange		464
 EffectiveRange	192
 RangeCurvature	2
 Balance			0.51
-Unfold			"Assault Rifle LAC Grendel FG (6.5)"
+// Unfold			"Assault Rifle LAC Grendel FG (6.5)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67011,7 +67009,7 @@ MaxRange		410
 EffectiveRange	120
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle M4A1 CQB (.300 BLK) folded"
+// Unfold			"Assault Rifle M4A1 CQB (.300 BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67051,7 +67049,7 @@ MaxRange		328
 EffectiveRange	96
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle M4A1 CQB (.300 BLK)"
+// Unfold			"Assault Rifle M4A1 CQB (.300 BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67093,7 +67091,7 @@ MaxRange		410
 EffectiveRange	120
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle M4A1 CQB AG (.300 BLK) folded"
+// Unfold			"Assault Rifle M4A1 CQB AG (.300 BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67133,7 +67131,7 @@ MaxRange		328
 EffectiveRange	96
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Assault Rifle M4A1 CQB AG (.300 BLK)"
+// Unfold			"Assault Rifle M4A1 CQB AG (.300 BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67173,7 +67171,7 @@ MaxRange		440
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle M4A1 (.300 BLK) folded"
+// Unfold			"Assault Rifle M4A1 (.300 BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67213,7 +67211,7 @@ MaxRange		352
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle M4A1 (.300 BLK)"
+// Unfold			"Assault Rifle M4A1 (.300 BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67413,7 +67411,7 @@ MaxRange		410
 EffectiveRange	135
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK CQC folded"
+// Unfold			"SW MP15 300BLK CQC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67452,7 +67450,7 @@ MaxRange		328
 EffectiveRange	108
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK CQC"
+// Unfold			"SW MP15 300BLK CQC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67491,7 +67489,7 @@ MaxRange		410
 EffectiveRange	135
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK CQC FG folded"
+// Unfold			"SW MP15 300BLK CQC FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67530,7 +67528,7 @@ MaxRange		328
 EffectiveRange	108
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK CQC FG"
+// Unfold			"SW MP15 300BLK CQC FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67569,7 +67567,7 @@ MaxRange		440
 EffectiveRange	180
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK folded"
+// Unfold			"SW MP15 300BLK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67608,7 +67606,7 @@ MaxRange		352
 EffectiveRange	144
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK"
+// Unfold			"SW MP15 300BLK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67647,7 +67645,7 @@ MaxRange		440
 EffectiveRange	180
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK FG folded"
+// Unfold			"SW MP15 300BLK FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67686,7 +67684,7 @@ MaxRange		352
 EffectiveRange	144
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"SW MP15 300BLK FG"
+// Unfold			"SW MP15 300BLK FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67725,7 +67723,7 @@ MaxRange		440
 EffectiveRange	178
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"MOE Warrior 300BLK folded"
+// Unfold			"MOE Warrior 300BLK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67765,7 +67763,7 @@ MaxRange		352
 EffectiveRange	142
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"MOE Warrior 300BLK"
+// Unfold			"MOE Warrior 300BLK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67805,7 +67803,7 @@ MaxRange		440
 EffectiveRange	178
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"MOE Warrior 300BLK BK folded"
+// Unfold			"MOE Warrior 300BLK BK folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67845,7 +67843,7 @@ MaxRange		352
 EffectiveRange	142
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"MOE Warrior 300BLK BK"
+// Unfold			"MOE Warrior 300BLK BK"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -67885,7 +67883,7 @@ MaxRange		410
 EffectiveRange	150
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Small Assault Rifle M933 (300BLK) folded"
+// Unfold			"Small Assault Rifle M933 (300BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -67924,7 +67922,7 @@ MaxRange		328
 EffectiveRange	120
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Small Assault Rifle M933 (300BLK)"
+// Unfold			"Small Assault Rifle M933 (300BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -67963,7 +67961,7 @@ MaxRange		410
 EffectiveRange	150
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Small Assault Rifle M933 FG (300BLK) folded"
+// Unfold			"Small Assault Rifle M933 FG (300BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -68002,7 +68000,7 @@ MaxRange		328
 EffectiveRange	120
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"Small Assault Rifle M933 FG (300BLK)"
+// Unfold			"Small Assault Rifle M933 FG (300BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide_other.wav"
@@ -68041,7 +68039,7 @@ MaxRange		440
 EffectiveRange	185
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD (300BLK) folded"
+// Unfold			"Assault Rifle M4 SOPMOD (300BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -68080,7 +68078,7 @@ MaxRange		352
 EffectiveRange	148
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD (300BLK)"
+// Unfold			"Assault Rifle M4 SOPMOD (300BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -68119,7 +68117,7 @@ MaxRange		440
 EffectiveRange	185
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD FG (300BLK) folded"
+// Unfold			"Assault Rifle M4 SOPMOD FG (300BLK) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -68158,7 +68156,7 @@ MaxRange		352
 EffectiveRange	148
 RangeCurvature	2.5
 Balance			0.51
-Unfold			"Assault Rifle M4 SOPMOD FG (300BLK)"
+// Unfold			"Assault Rifle M4 SOPMOD FG (300BLK)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -71491,7 +71489,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CQC (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71530,7 +71528,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CQC (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71569,7 +71567,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC FG (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CQC FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71608,7 +71606,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CQC FG (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CQC FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71647,7 +71645,7 @@ MaxRange		500
 EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CAR (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71686,7 +71684,7 @@ MaxRange		400
 EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CAR (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71725,7 +71723,7 @@ MaxRange		500
 EffectiveRange	180
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71764,7 +71762,7 @@ MaxRange		400
 EffectiveRange	144
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 CAR FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71803,7 +71801,7 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71842,7 +71840,7 @@ MaxRange		440
 EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71881,7 +71879,7 @@ MaxRange		550
 EffectiveRange	245
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 FG (5.56mm) folded"
+// Unfold			"Assault Rifle SIG 556 FG (5.56mm) folded"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -71920,7 +71918,7 @@ MaxRange		440
 EffectiveRange	196
 RangeCurvature	2
 Balance			0.6
-Unfold			"Assault Rifle SIG 556 FG (5.56mm)"
+// Unfold			"Assault Rifle SIG 556 FG (5.56mm)"
 ClipInSound		"Weapon\ClipIn\SG-551_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SG-551_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SG-551_mag_slide.wav"
@@ -72772,7 +72770,7 @@ MaxRange		650
 EffectiveRange	245
 RangeCurvature	1.5
 Balance			0.62
-Unfold			"Assault Rifle SC2010 (7.62mm) folded"
+// Unfold			"Assault Rifle SC2010 (7.62mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -72811,7 +72809,7 @@ MaxRange		520
 EffectiveRange	196
 RangeCurvature	1.5
 Balance			0.62
-Unfold			"Assault Rifle SC2010 (7.62mm)"
+// Unfold			"Assault Rifle SC2010 (7.62mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -75079,7 +75077,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
-Unfold			"Pindad SS2 CQC RIS folded"
+// Unfold			"Pindad SS2 CQC RIS folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -75118,7 +75116,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.46
-Unfold			"Pindad SS2 CQC RIS"
+// Unfold			"Pindad SS2 CQC RIS"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -75157,7 +75155,7 @@ MaxRange		450
 EffectiveRange	140
 RangeCurvature	2
 Balance			0.46
-Unfold			"Pindad SS2 CQC RIS FG folded"
+// Unfold			"Pindad SS2 CQC RIS FG folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -75196,7 +75194,7 @@ MaxRange		360
 EffectiveRange	112
 RangeCurvature	2
 Balance			0.46
-Unfold			"Pindad SS2 CQC RIS FG"
+// Unfold			"Pindad SS2 CQC RIS FG"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78057,7 +78055,7 @@ MaxRange		450
 EffectiveRange	135
 RangeCurvature	2
 Balance			0.54
-Unfold			"ACE CQC folded"
+// Unfold			"ACE CQC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78096,7 +78094,7 @@ MaxRange		360
 EffectiveRange	108
 RangeCurvature	2
 Balance			0.48
-Unfold			"ACE CQC"
+// Unfold			"ACE CQC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78135,7 +78133,7 @@ MaxRange		500
 EffectiveRange	165
 RangeCurvature	2
 Balance			0.54
-Unfold			"ACE CAR folded"
+// Unfold			"ACE CAR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78174,7 +78172,7 @@ MaxRange		400
 EffectiveRange	132
 RangeCurvature	2
 Balance			0.48
-Unfold			"ACE CAR"
+// Unfold			"ACE CAR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78213,7 +78211,7 @@ MaxRange		550
 EffectiveRange	220
 RangeCurvature	2
 Balance			0.54
-Unfold			"ACE folded"
+// Unfold			"ACE folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78252,7 +78250,7 @@ MaxRange		440
 EffectiveRange	176
 RangeCurvature	2
 Balance			0.48
-Unfold			"ACE"
+// Unfold			"ACE"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78291,7 +78289,7 @@ MaxRange		390
 EffectiveRange	130
 RangeCurvature	2.5
 Balance			0.54
-Unfold			"ACE CQC RUS folded"
+// Unfold			"ACE CQC RUS folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78330,7 +78328,7 @@ MaxRange		312
 EffectiveRange	104
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"ACE CQC RUS"
+// Unfold			"ACE CQC RUS"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78369,7 +78367,7 @@ MaxRange		490
 EffectiveRange	205
 RangeCurvature	2.5
 Balance			0.54
-Unfold			"ACE RUS folded"
+// Unfold			"ACE RUS folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78408,7 +78406,7 @@ MaxRange		392
 EffectiveRange	164
 RangeCurvature	2.5
 Balance			0.48
-Unfold			"ACE RUS"
+// Unfold			"ACE RUS"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78447,7 +78445,7 @@ MaxRange		750
 EffectiveRange	240
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"ACE CQC NATO folded"
+// Unfold			"ACE CQC NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78486,7 +78484,7 @@ MaxRange		520
 EffectiveRange	192
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"ACE CQC NATO"
+// Unfold			"ACE CQC NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78525,7 +78523,7 @@ MaxRange		750
 EffectiveRange	270
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"ACE CAR NATO folded"
+// Unfold			"ACE CAR NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78564,7 +78562,7 @@ MaxRange		600
 EffectiveRange	216
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"ACE CAR NATO"
+// Unfold			"ACE CAR NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78603,7 +78601,7 @@ MaxRange		750
 EffectiveRange	290
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"ACE NATO folded"
+// Unfold			"ACE NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -78642,7 +78640,7 @@ MaxRange		600
 EffectiveRange	232
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"ACE NATO"
+// Unfold			"ACE NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -82134,7 +82132,7 @@ MaxRange		490
 EffectiveRange	155
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"Assault Rifle SC2026 (7.62x39mm) folded"
+// Unfold			"Assault Rifle SC2026 (7.62x39mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -82173,7 +82171,7 @@ MaxRange		392
 EffectiveRange	124
 RangeCurvature	2.5
 Balance			0.57
-Unfold			"Assault Rifle SC2026 (7.62x39mm)"
+// Unfold			"Assault Rifle SC2026 (7.62x39mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -82212,7 +82210,7 @@ MaxRange		650
 EffectiveRange	180
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"Assault Rifle SC2027 (7.62x51mm) folded"
+// Unfold			"Assault Rifle SC2027 (7.62x51mm) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -82251,7 +82249,7 @@ MaxRange		520
 EffectiveRange	144
 RangeCurvature	1.5
 Balance			0.48
-Unfold			"Assault Rifle SC2027 (7.62x51mm)"
+// Unfold			"Assault Rifle SC2027 (7.62x51mm)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -102210,10 +102208,10 @@ ATT Bipod		1 "built-in"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	2 "Minimi""NATO 5.56"
+ATT Magazine	1 "Minimi"
 StdPlug			"Minimi mag (Minimi 5.56/200)"
 StdPlug			"Minimi_bipod folded"
-ACTOR			"Items\minimi.act"
+ACTOR			"Items\fnminiminova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -102249,10 +102247,10 @@ ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	2 "Minimi""NATO 5.56"
-StdPlug			"Minimi mag (Minimi 5.56/200)"
+ATT Magazine	1 "Minimi"
+StdPlug			"Minimi mag (Minimi 5.56/100)"
 StdPlug			"Minimi_SPW_butt"
-ACTOR			"Items\minimi_spw.act"
+ACTOR			"Items\fnminimispwnova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -102288,10 +102286,10 @@ ATT Bipod		1 "WR"
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	2 "Minimi""NATO 5.56"
-StdPlug			"Minimi mag (Minimi 5.56/200)"
+ATT Magazine	1 "Minimi"
+StdPlug			"Minimi mag (Minimi 5.56/100)"
 StdPlug			"Minimi_SPW_butt_folded"
-ACTOR			"Items\minimi_spw.act"
+ACTOR			"Items\fnminimispwnova.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -102329,7 +102327,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Minimi"
 StdPlug			"Minimi mag (Minimi 5.56/200)"
 StdPlug			"Minimi_bipod folded"
-ACTOR			"Items\mk46.act"
+ACTOR			"Items\fnminimimk46nova.act"
 IMAGE			"mk46.e5b"
 HANDS			ahtRifle
 
@@ -103799,7 +103797,7 @@ ATT Bayonet		0
 ATT Magazine	1 "M60Box"
 StdPlug			"Chain-gun ammo box (M60 7.62x51/100)"
 StdPlug			"Minimi_bipod folded"
-ACTOR			"Items\mk48.act"
+ACTOR			"Items\fnminimimk48nova.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtMachineGun
 

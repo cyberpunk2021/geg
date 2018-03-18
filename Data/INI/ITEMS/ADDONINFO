@@ -246,7 +246,7 @@ Resource		0
 Addon			"MG4 Bipod Folded"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\mg4bipod.act"
+ACTOR			"Items\mg4bipodfolded.act"
 IMAGE			"mg3_bipod.e5b"
 WEIGHT			0
 Resource		0
@@ -1672,7 +1672,7 @@ Resource		1000
 Addon			"Minimi_bipod folded"
 Bipod			"built-in"
 Sound			"None""None"
-ACTOR			"Items\minimi_bipod_folded.act"
+ACTOR			"Items\fnminiminovabipodfolded.act"
 IMAGE			"minimi_bipod.e5b"
 WEIGHT			200
 Resource		1000
@@ -3869,7 +3869,7 @@ Resource		0
 Addon			"Minimi_bipod"
 Bipod			"built-in"
 Sound			"Addon\PlugSound\attach_on.wav""Addon\UnplugSound\attach_off.wav"
-ACTOR			"Items\minimi_bipod.act"
+ACTOR			"Items\fnminiminovabipod.act"
 IMAGE			"minimi_bipod.e5b"
 WEIGHT			200
 Resource		0
@@ -3877,7 +3877,7 @@ Resource		0
 Addon			"Minimi_SPW_butt"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\spw_butt_opened.act"
+ACTOR			"Items\fnminiminovastock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -3885,7 +3885,7 @@ Resource		0
 Addon			"Minimi_SPW_butt_folded"
 Stock			"built-in"
 Sound			"None""None"
-ACTOR			"Items\spw_butt_closed.act"
+ACTOR			"Items\fnminiminovastockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -7273,7 +7273,7 @@ Resource		0
 Addon			"g28stockgrey"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"items\hkg28stockopengrey.act"
+ACTOR			"items\hk417_stock_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -7281,7 +7281,7 @@ Resource		0
 Addon			"g28stockgrey_folded"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"items\hkg28stockfoldedgrey.act"
+ACTOR			"items\hk417_stockfolded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0

@@ -64,7 +64,7 @@ Material mat14 {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "m4a1nova_2.dds";
+  "car15nova_2blk.dds";
  }
 }
 
