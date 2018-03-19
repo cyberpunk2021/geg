@@ -29221,7 +29221,7 @@ ATT Bayonet		0
 ATT Magazine	3 "UZI_25""UZI_32""UZI_20"
 StdPlug			"SMG ammo clip (UZI/32)"
 StdPlug			"M4A1 Handle"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29301,7 +29301,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AR15_40SW"
 StdPlug			"SMG ammo clip (AR-15 40SW/32)"
 StdPlug			"M4A1 Handle"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29381,7 +29381,7 @@ ATT Bayonet		0
 ATT Magazine	1 "Thompson"
 StdPlug			"SMG ammo clip (Thompson-m1_CLIP30)"
 StdPlug			"M4A1 Handle"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -29461,7 +29461,7 @@ ATT Bayonet		0
 ATT Magazine	1 "AR15_10mm"
 StdPlug			"SMG ammo clip (AR-15 10mm/30)"
 StdPlug			"M4A1 Handle"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQC9mm.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -36278,7 +36278,7 @@ MaxRange		170
 EffectiveRange	52
 RangeCurvature	15
 Balance			0.51
-Unfold			"Assault Rifle T14 M4A1 (410) folded"
+// Unfold			"Assault Rifle T14 M4A1 (410) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -36318,7 +36318,7 @@ MaxRange		144
 EffectiveRange	44
 RangeCurvature	15
 Balance			0.51
-Unfold			"Assault Rifle T14 M4A1 (410)"
+// Unfold			"Assault Rifle T14 M4A1 (410)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -36358,7 +36358,7 @@ MaxRange		170
 EffectiveRange	52
 RangeCurvature	15
 Balance			0.51
-Unfold			"Assault Rifle T14 M4A1 FG (410) folded"
+// Unfold			"Assault Rifle T14 M4A1 FG (410) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -36398,7 +36398,7 @@ MaxRange		144
 EffectiveRange	44
 RangeCurvature	15
 Balance			0.51
-Unfold			"Assault Rifle T14 M4A1 FG (410)"
+// Unfold			"Assault Rifle T14 M4A1 FG (410)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -60578,7 +60578,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -60656,7 +60656,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -60734,7 +60734,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -60812,7 +60812,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -60890,7 +60890,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7pdw.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -60968,7 +60968,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7pdwfg.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -61046,7 +61046,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -61124,7 +61124,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "6.8x43 clips"
 StdPlug			"Magpul PMAG Window (6.8SPC/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\rec7fg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -62398,7 +62398,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"Craner_butt2"
 ACTOR			"Items\bcmbfh.act"
 IMAGE			"2x4.e5b"
@@ -62437,7 +62437,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"Craner_butt2_folded"
 ACTOR			"Items\bcmbfh.act"
 IMAGE			"2x4.e5b"
@@ -62476,7 +62476,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"Old_M4_butt"
 ACTOR			"Items\bcmbfh.act"
 IMAGE			"2x4.e5b"
@@ -62515,7 +62515,7 @@ ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
-StdPlug			"Magpul PMAG Tan Window BLK New (M16/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (M16/30)"
 StdPlug			"Old_M4_butt_folded"
 ACTOR			"Items\bcmbfh.act"
 IMAGE			"2x4.e5b"
@@ -65504,7 +65504,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -65582,7 +65582,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\SWMP15PSXCQCFG.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -65660,7 +65660,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -65738,7 +65738,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\SWMP15PSXFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -65816,7 +65816,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -65894,7 +65894,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\SWMP15PSXLBFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -66088,7 +66088,7 @@ ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "6.8x43 clips"
-StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (SPC/30)"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
@@ -66127,7 +66127,7 @@ ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "6.8x43 clips"
-StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (SPC/30)"
 StdPlug			"Krebs_butt_folded"
 ACTOR			"Items\m4a1ris.act"
 IMAGE			"2x4.e5b"
@@ -66166,7 +66166,7 @@ ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "6.8x43 clips"
-StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (SPC/30)"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -66205,7 +66205,7 @@ ATT Silencer	1 "Supressor - 6,8x43" blocks Bayonet
 ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "6.8x43 clips"
-StdPlug			"Magpul PMAG Window (6.8SPC/30)"
+StdPlug			"Magpul PMAG Tan Window GRAY New (SPC/30)"
 StdPlug			"Krebs_butt_folded"
 ACTOR			"Items\m4magpulfg.act"
 IMAGE			"2x4.e5b"
@@ -66426,7 +66426,7 @@ MaxRange		520
 EffectiveRange	208
 RangeCurvature	1.5
 Balance			0.7
-Unfold			"Assault Rifle Predatar"
+// Unfold			"Assault Rifle Predatar"
 ClipInSound		"Weapon\ClipIn\SR-25_mag_in.wav"
 ClipOutSound	"Weapon\ClipOut\SR-25_mag_out.wav"
 ReLockSound		"Weapon\ReLock\SR-25_slide.wav"
@@ -67464,7 +67464,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQC.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -67542,7 +67542,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxCQCFG.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -67620,7 +67620,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psx.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -67698,7 +67698,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\SWMP15PSXFG.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
@@ -67936,7 +67936,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m933.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
@@ -68014,7 +68014,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\colt_933_grip.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
@@ -68092,7 +68092,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod and Bayonet
 ATT Bayonet		1 "M9" blocks Silencer and ILauncher
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4sopmod.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -68170,7 +68170,7 @@ ATT ILauncher	0
 ATT Bayonet		1 "M9" blocks Silencer
 ATT Magazine	1 "300 BLK"
 StdPlug			"Magpul PMAG Window (Badger/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\m4sopmodfg.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -100401,7 +100401,7 @@ MaxRange		650
 EffectiveRange	310
 RangeCurvature	2
 Balance			0.44
-Unfold			"M27 IAR folded"
+// Unfold			"M27 IAR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"
@@ -100440,7 +100440,7 @@ MaxRange		520
 EffectiveRange	248
 RangeCurvature	2
 Balance			0.44
-Unfold			"M27 IAR"
+// Unfold			"M27 IAR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide.wav"

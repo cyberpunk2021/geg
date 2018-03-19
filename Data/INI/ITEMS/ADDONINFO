@@ -7273,7 +7273,7 @@ Resource		0
 Addon			"g28stockgrey"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"items\hk417_stock_folded.act"
+ACTOR			"items\hk417_stock.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
@@ -7281,7 +7281,7 @@ Resource		0
 Addon			"g28stockgrey_folded"
 Stock			"built-in"
 Sound			"Addon\PlugSound\None""Addon\UnplugSound\None"
-ACTOR			"items\hk417_stockfolded.act"
+ACTOR			"items\hk417_stock_folded.act"
 IMAGE			"None"
 WEIGHT			0
 Resource		0
