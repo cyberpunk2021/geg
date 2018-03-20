@@ -51,22 +51,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "SMG ammo clip (Type85/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Palinero 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "SMG ammo clip (Type85/30)"
 SpecificData  
@@ -82,8 +66,85 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (Type85/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 1 7 
+Item  0 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  3559 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Food_beans"
+SpecificData  
+OtherInfo  
+GUID  4080 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  1705 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 7 
 Name  "Ammo box (7.62x25mm Palinero)"
 SpecificData  
 ClipInfo  
@@ -98,20 +159,8 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 84 
 Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  1705 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -122,32 +171,48 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "Food_beans"
+Prob  1 85 
+Item  0 0 0 
+Name  "Revolver Taurus 850 H (.38 Special)"
 SpecificData  
-OtherInfo  
-GUID  4080 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Taurus 850 (.38/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
 EndOfSpecificData  
 Used  0 
-Prob  1 2 
-Pins  12 
-Item  0 0 10 
-Name  "Belt_04"
-SpecificData  
-OtherInfo  
-GUID  4028 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+Prob  1 
 EndOfSpecificData  
-Stuff  10 
-Pockets  68 72 
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Item  0 0 7 
+Name  "Ammo box (.38 spc HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Pins  
 Used  0 
 Prob  1 14 13 
@@ -205,22 +270,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "SMG ammo clip (Type85/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Palinero 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "SMG ammo clip (Type85/30)"
 SpecificData  
@@ -236,8 +285,85 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (Type85/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 1 7 
+Item  0 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  3559 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Food_beans"
+SpecificData  
+OtherInfo  
+GUID  4080 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  1705 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 7 
 Name  "Ammo box (7.62x25mm Palinero)"
 SpecificData  
 ClipInfo  
@@ -252,20 +378,8 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 84 
 Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  1705 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -276,32 +390,48 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "Food_beans"
+Prob  1 85 
+Item  0 0 0 
+Name  "Revolver Taurus 850 H (.38 Special)"
 SpecificData  
-OtherInfo  
-GUID  4080 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Taurus 850 (.38/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
 EndOfSpecificData  
 Used  0 
-Prob  1 2 
-Pins  12 
-Item  0 0 10 
-Name  "Belt_04"
-SpecificData  
-OtherInfo  
-GUID  4028 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+Prob  1 
 EndOfSpecificData  
-Stuff  10 
-Pockets  68 72 
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Item  0 0 7 
+Name  "Ammo box (.38 spc HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Pins  
 Used  0 
 Prob  1 14 13 
@@ -359,22 +489,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "SMG ammo clip (Type85/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Palinero 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "SMG ammo clip (Type85/30)"
 SpecificData  
@@ -390,8 +504,85 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (Type85/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 1 7 
+Item  0 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  3559 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Food_beans"
+SpecificData  
+OtherInfo  
+GUID  4080 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  1705 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 7 
 Name  "Ammo box (7.62x25mm Palinero)"
 SpecificData  
 ClipInfo  
@@ -406,20 +597,8 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 84 
 Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  1705 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -430,32 +609,48 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "Food_beans"
+Prob  1 85 
+Item  0 0 0 
+Name  "Revolver Taurus 850 H (.38 Special)"
 SpecificData  
-OtherInfo  
-GUID  4080 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Taurus 850 (.38/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
 EndOfSpecificData  
 Used  0 
-Prob  1 2 
-Pins  12 
-Item  0 0 10 
-Name  "Belt_04"
-SpecificData  
-OtherInfo  
-GUID  4028 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+Prob  1 
 EndOfSpecificData  
-Stuff  10 
-Pockets  68 72 
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Item  0 0 7 
+Name  "Ammo box (.38 spc HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Pins  
 Used  0 
 Prob  1 14 13 
@@ -513,22 +708,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "SMG ammo clip (Type85/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Palinero 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "SMG ammo clip (Type85/30)"
 SpecificData  
@@ -544,8 +723,85 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (Type85/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 1 7 
+Item  0 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  3559 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Food_beans"
+SpecificData  
+OtherInfo  
+GUID  4080 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  1705 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 7 
 Name  "Ammo box (7.62x25mm Palinero)"
 SpecificData  
 ClipInfo  
@@ -560,20 +816,8 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 84 
 Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  1705 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -584,32 +828,48 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "Food_beans"
+Prob  1 85 
+Item  0 0 0 
+Name  "Revolver Taurus 850 H (.38 Special)"
 SpecificData  
-OtherInfo  
-GUID  4080 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Taurus 850 (.38/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
 EndOfSpecificData  
 Used  0 
-Prob  1 2 
-Pins  12 
-Item  0 0 10 
-Name  "Belt_04"
-SpecificData  
-OtherInfo  
-GUID  4028 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+Prob  1 
 EndOfSpecificData  
-Stuff  10 
-Pockets  68 72 
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Item  0 0 7 
+Name  "Ammo box (.38 spc HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Pins  
 Used  0 
 Prob  1 14 13 
@@ -667,22 +927,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "SMG ammo clip (Type85/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Palinero 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "SMG ammo clip (Type85/30)"
 SpecificData  
@@ -698,8 +942,85 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (Type85/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 1 7 
+Item  0 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  3559 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Food_beans"
+SpecificData  
+OtherInfo  
+GUID  4080 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  1705 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 7 
 Name  "Ammo box (7.62x25mm Palinero)"
 SpecificData  
 ClipInfo  
@@ -714,20 +1035,8 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 84 
 Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  1705 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -738,32 +1047,48 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "Food_beans"
+Prob  1 85 
+Item  0 0 0 
+Name  "Revolver Taurus 850 H (.38 Special)"
 SpecificData  
-OtherInfo  
-GUID  4080 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Taurus 850 (.38/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
 EndOfSpecificData  
 Used  0 
-Prob  1 2 
-Pins  12 
-Item  0 0 10 
-Name  "Belt_04"
-SpecificData  
-OtherInfo  
-GUID  4028 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+Prob  1 
 EndOfSpecificData  
-Stuff  10 
-Pockets  68 72 
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Item  0 0 7 
+Name  "Ammo box (.38 spc HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Pins  
 Used  0 
 Prob  1 14 13 
@@ -821,22 +1146,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "SMG ammo clip (Type85/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "Palinero 7.62x25"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "SMG ammo clip (Type85/30)"
 SpecificData  
@@ -852,8 +1161,85 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "SMG ammo clip (Type85/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Palinero 7.62x25"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 1 7 
+Item  0 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 0 10 
+Name  "Tension Wire (Not Armed)"
+SpecificData  
+OtherInfo  
+GUID  3112 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 
+Item  0 0 10 
+Name  "Ammo Belt"
+SpecificData  
+OtherInfo  
+GUID  3559 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Stuff  15 
+Pockets  81 
+Item  0 0 10 
+Name  "Food_beans"
+SpecificData  
+OtherInfo  
+GUID  4080 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 82 
+Item  0 0 10 
+Name  "Field Paramedic Kit"
+SpecificData  
+OtherInfo  
+GUID  1705 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 83 
+Item  0 0 7 
 Name  "Ammo box (7.62x25mm Palinero)"
 SpecificData  
 ClipInfo  
@@ -868,20 +1254,8 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
-Prob  1 
+Prob  1 84 
 Item  0 0 10 
-Name  "Field Paramedic Kit"
-SpecificData  
-OtherInfo  
-GUID  1705 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  0 1 10 
 Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
@@ -892,32 +1266,48 @@ Card  0
 Extended  0 
 EndOfSpecificData  
 Used  0 
-Prob  1 
-Item  1 0 10 
-Name  "Food_beans"
+Prob  1 85 
+Item  0 0 0 
+Name  "Revolver Taurus 850 H (.38 Special)"
 SpecificData  
-OtherInfo  
-GUID  4080 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+WeaponInfo  
+CurrentClip  0 0 7 
+Name  "Taurus 850 (.38/5)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  5 
 EndOfSpecificData  
 Used  0 
-Prob  1 2 
-Pins  12 
-Item  0 0 10 
-Name  "Belt_04"
-SpecificData  
-OtherInfo  
-GUID  4028 
-HeatAmount  0 
-NumOfUsages  0 
-Card  0 
-Extended  0 
+Prob  1 
 EndOfSpecificData  
-Stuff  10 
-Pockets  68 72 
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 86 
+Item  0 0 7 
+Name  "Ammo box (.38 spc HP)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "Ammo .38 spc HP"
+SpecificData  
+AmmoInfo  
+RoundsLeft  45 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Pins  
 Used  0 
 Prob  1 14 13 
@@ -977,6 +1367,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -994,22 +1400,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1085,6 +1475,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1102,22 +1508,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1193,6 +1583,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1210,22 +1616,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1301,6 +1691,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1318,22 +1724,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1409,6 +1799,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1426,22 +1832,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1517,6 +1907,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1534,22 +1940,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1625,6 +2015,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1642,22 +2048,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1733,6 +2123,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1750,22 +2156,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1841,6 +2231,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1858,22 +2264,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 
@@ -1949,6 +2339,22 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1966,22 +2372,6 @@ Name  "M67 (7.62x39mm)"
 SpecificData  
 AmmoInfo  
 RoundsLeft  25 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
 EndOfSpecificData  
 Used  0 
 Prob  1 

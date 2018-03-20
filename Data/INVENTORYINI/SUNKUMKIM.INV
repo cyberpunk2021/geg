@@ -5,7 +5,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -254,22 +254,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -285,12 +269,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -298,11 +298,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -619,7 +619,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -868,22 +868,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -899,12 +883,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -912,11 +912,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1233,7 +1233,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -1482,22 +1482,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -1513,12 +1497,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1526,11 +1526,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -1847,7 +1847,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -2096,22 +2096,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -2127,12 +2111,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2140,11 +2140,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2461,7 +2461,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -2710,22 +2710,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -2741,12 +2725,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -2754,11 +2754,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3075,7 +3075,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -3324,22 +3324,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -3355,12 +3339,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3368,11 +3368,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3689,7 +3689,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -3938,22 +3938,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -3969,12 +3953,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -3982,11 +3982,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4303,7 +4303,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -4552,22 +4552,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -4583,12 +4567,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4596,11 +4596,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -4917,7 +4917,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -5166,22 +5166,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -5197,12 +5181,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5210,11 +5210,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5531,7 +5531,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -5780,22 +5780,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -5811,12 +5795,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -5824,11 +5824,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6145,7 +6145,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -6394,22 +6394,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -6425,12 +6409,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6438,11 +6438,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -6759,7 +6759,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -7008,22 +7008,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -7039,12 +7023,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7052,11 +7052,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7373,7 +7373,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -7622,22 +7622,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -7653,12 +7637,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7666,11 +7666,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -7987,7 +7987,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -8236,22 +8236,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -8267,12 +8251,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -8280,11 +8280,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -8601,7 +8601,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -8850,22 +8850,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -8881,12 +8865,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -8894,11 +8894,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -9215,7 +9215,7 @@ Variants  1
 VARIANT  "Variant 2"1 
 Pockets  1 3 4 5 
 Item  0 0 0 
-Name  "Assault Rifle Type 56 Y (7.62x39mm)"
+Name  "Assault Rifle Type 56 (7.62x39mm)"
 SpecificData  
 WeaponInfo  
 CurrentClip  0 0 7 
@@ -9464,22 +9464,6 @@ Nothing
 EndOfSpecificData  
 Used  0 
 Prob  1 10 
-Item  1 0 7 
-Name  "Rifle ammo clip (AK 7.62/30)"
-SpecificData  
-ClipInfo  
-Resource  1 
-BulletsCount  1 0 0 6 
-Name  "7.62x39 FMJ Ball"
-SpecificData  
-AmmoInfo  
-RoundsLeft  30 
-EndOfSpecificData  
-Used  0 
-Prob  1 
-EndOfSpecificData  
-Used  0 
-Prob  1 
 Item  0 0 7 
 Name  "Rifle ammo clip (AK 7.62/30)"
 SpecificData  
@@ -9495,12 +9479,28 @@ Used  0
 Prob  1 
 EndOfSpecificData  
 Used  0 
+Prob  1 
+Item  1 0 7 
+Name  "Rifle ammo clip (AK 7.62/30)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  "7.62x39 FMJ Ball"
+SpecificData  
+AmmoInfo  
+RoundsLeft  30 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
 Prob  1 11 
-Item  1 0 10 
-Name  "Field Paramedic Kit2"
+Item  1 1 10 
+Name  "Field Paramedic Kit"
 SpecificData  
 OtherInfo  
-GUID  80 
+GUID  79 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 
@@ -9508,11 +9508,11 @@ Extended  0
 EndOfSpecificData  
 Used  0 
 Prob  1 
-Item  1 1 10 
-Name  "Field Paramedic Kit"
+Item  1 0 10 
+Name  "Field Paramedic Kit2"
 SpecificData  
 OtherInfo  
-GUID  79 
+GUID  80 
 HeatAmount  0 
 NumOfUsages  0 
 Card  0 

@@ -884,82 +884,77 @@ None  "Items\daewook2railitem.act""part_mp5ris.e5b"
 
 "Car15 Stock"
 None
-None  "Items\new_car15butt_open.act""mp5_butt_a2.e5b"
+None  "Items\new_car15butt_open.act""boxgeneric.e5b"
 300
 
 "M4A1 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\new_m4butt_open.act""boxgeneric.e5b"
 300
 
 "Crane Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\Craner_butt4.act""boxgeneric.e5b"
 300
 
 "Magpul Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\krebs_butt_open.act""boxgeneric.e5b"
 300
 
 "Magpul Tan Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\krebs_butt2_open.act""boxgeneric.e5b"
 300
 
 "Magpul UBR Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\bcmbfhstock.act""boxgeneric.e5b"
 300
 
 "Ergo R93 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\bcmbfhstock2.act""boxgeneric.e5b"
 300
 
 "Ergo R93 LVOAS Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\LVOASstock.act""boxgeneric.e5b"
 300
 
 "HK416 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\new_m4butt416_open.act""boxgeneric.e5b"
 300
 
 "HK417 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\hk417_stock.act""boxgeneric.e5b"
 300
 
 "C7A2 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\NEW_c7a2BUTT_OPEN.act""boxgeneric.e5b"
 300
 
 "T65 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\t65carstock.act""boxgeneric.e5b"
 300
 
 "T65 BLK Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\t65bkcarstock.act""boxgeneric.e5b"
 300
 
 "SIG 556 Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\sig556novastock.act""boxgeneric.e5b"
 300
 
 "Galil ACE Stock"
 None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
-300
-
-"AK5C Stock"
-None
-None  "Items\new_m4butt_open.act""mp5_butt_a3.e5b"
+None  "Items\galilacenovastock.act""boxgeneric.e5b"
 300
 
 "M4 forestock"

@@ -1506,31 +1506,30 @@
     <camrad>Big Ammo box (57-H-181C)</camrad>
     <camrad>Guerillas tt_soldiers camrad uniform</camrad>
 
-    <comgr>Submachine-gun Bizon 2 (9x18mm)</comgr>
-    <comgr>SMG metal ammo clip (Bizon/64)</comgr>
-    <comgr>SMG metal ammo clip (Bizon/64)</comgr>
-    <comgr>Big Ammo box (57-H-181C)</comgr>
-    <comgr>Big Ammo box (57-H-181C)</comgr>
-    <comgr>Big Ammo box (57-H-181C)</comgr>
-    <comgr>Big Ammo box (57-H-181C)</comgr>
+    <comgr>Submachine-gun Vz61 (7.65mm)</comgr>
+    <comgr>SMG ammo clip (VZ61/20)</comgr>
+    <comgr>SMG ammo clip (VZ61/20)</comgr>
+    <comgr>SMG ammo clip (VZ61/20)</comgr>
+    <comgr>SMG ammo clip (VZ61/20)</comgr>
+    <comgr>Ammo box (.32 ACP HP)</comgr>
+    <comgr>Ammo box (.32 ACP FMJ)</comgr>
+    <comgr>Ammo box (.32 ACP SP)</comgr>
+    <comgr>Ammo box (.32 ACP SP)</comgr>
     <comgr>Guerillas tt_soldiers comgroup uniform</comgr>
 
-    <comsq>Assault Rifle StG.44 (7.92mm Kurz)</comsq>
-    <comsq>Assault Rifle clip (StG.44/30)</comsq>
-    <comsq>Assault Rifle clip (StG.44/30)</comsq>
-    <comsq>Assault Rifle clip (StG.44/30)</comsq>
-    <comsq>Assault Rifle clip (StG.44/30)</comsq>
-    <comsq>Assault Rifle clip (StG.44/30)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
-    <comsq>Ammo box (7.92mm Kurz/20)</comsq>
+    <comsq>Rifle M2 Carbine (.30)</comsq>
+    <comsq>Rifle clip (M2/30)</comsq>
+    <comsq>Rifle clip (M2/30)</comsq>
+    <comsq>Rifle clip (M2/30)</comsq>
+    <comsq>Rifle clip (M2/30)</comsq>
+    <comsq>Rifle clip pouch (M2/30)</comsq>
+    <comsq>Rifle clip pouch (M2/30)</comsq>
+    <comsq>Ammo box .30 Carbine FMJ</comsq>
+    <comsq>Ammo box .30 Carbine FMJ</comsq>
+    <comsq>Ammo box .30 Carbine FMJ</comsq>
+    <comsq>Ammo box .30 Carbine SP</comsq>
+    <comsq>Ammo box .30 Carbine SP</comsq>
+    <comsq>Ammo box .30 Carbine SP</comsq>
     <comsq>Guerillas tt_soldiers comsquad uniform</comsq>
 
     <combr>Assaul Rifle SA Vz.58P</combr>
