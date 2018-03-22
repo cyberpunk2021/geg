@@ -195,8 +195,6 @@ end
 --parts
  ["MP5 butt A3"] = "MP5 butt A2",
  ["MP5 butt A2"] = "MP5 butt A3",
- ["Car15 Stock"] = "M4A1 Stock",
- ["M4A1 Stock"] = "Car15 Stock",
 }
 
  local FoldStockItems = {
@@ -595,6 +593,24 @@ end
  ["Assault Rifle T14 M4A1 (410) folded"] = "Assault Rifle T14 M4A1 (410)",
  ["Assault Rifle T14 M4A1 FG (410)"] = "Assault Rifle T14 M4A1 FG (410)",
  ["Assault Rifle T14 M4A1 FG (410) folded"] = "Assault Rifle T14 M4A1 FG (410)",
+ ["Assaul Rifle SA Vz.58 Mod CQC"] = "Assaul Rifle SA Vz.58 Mod CQC",
+ ["Assaul Rifle SA Vz.58 Mod CQC folded"] = "Assaul Rifle SA Vz.58 Mod CQC",
+ ["Assaul Rifle SA Vz.58 Mod CAR"] = "Assaul Rifle SA Vz.58 Mod CAR",
+ ["Assaul Rifle SA Vz.58 Mod CAR folded"] = "Assaul Rifle SA Vz.58 Mod CAR",
+ ["Assaul Rifle SA Vz.58 Mod"] = "Assaul Rifle SA Vz.58 Mod",
+ ["Assaul Rifle SA Vz.58 Mod folded"] = "Assaul Rifle SA Vz.58 Mod",
+ ["Assaul Rifle SA Vz.58 Mod CQC NATO"] = "Assaul Rifle SA Vz.58 Mod CQC NATO",
+ ["Assaul Rifle SA Vz.58 Mod CQC NATO folded"] = "Assaul Rifle SA Vz.58 Mod CQC NATO",
+ ["Assaul Rifle SA Vz.58 Mod CAR NATO"] = "Assaul Rifle SA Vz.58 Mod CAR NATO",
+ ["Assaul Rifle SA Vz.58 Mod CAR NATO folded"] = "Assaul Rifle SA Vz.58 Mod CAR NATO",
+ ["Assaul Rifle SA Vz.58 Mod NATO"] = "Assaul Rifle SA Vz.58 Mod NATO",
+ ["Assaul Rifle SA Vz.58 Mod NATO folded"] = "Assaul Rifle SA Vz.58 Mod NATO",
+ ["Shotgun VEPR12 MAGPUL (12ga)"] = "Shotgun VEPR12 MAGPUL (12ga) folded",
+ ["Shotgun VEPR12 MAGPUL (12ga) folded"] = "Shotgun VEPR12 MAGPUL (12ga)",
+ ["Shotgun VEPR12 LB MAGPUL (12ga)"] = "Shotgun VEPR12 LB MAGPUL (12ga)",
+ ["Shotgun VEPR12 LB MAGPUL (12ga) folded"] = "Shotgun VEPR12 LB MAGPUL (12ga)",
+ ["Shotgun VEPR12 LB LB MAGPUL (12ga)"] = "Shotgun VEPR12 LB LB MAGPUL (12ga)",
+ ["Shotgun VEPR12 LB LB MAGPUL (12ga) folded"] = "Shotgun VEPR12 LB LB MAGPUL (12ga)",
  
 --with RIS
  ["Submachine-gun HK MP5A5 RIS (9mm)"] = "Submachine-gun HK MP5A5 RIS (9mm)",
@@ -622,6 +638,48 @@ end
  ["M4A1 Stock"] = "m4sopmod_butt",
  ["m4sopmod_butt"] = "M4A1 Stock",
  ["m4sopmod_butt_folded"] = "M4A1 Stock",
+ ["Crane Stock"] = "Craner_butt4",
+ ["Craner_butt4"] = "Crane Stock",
+ ["Craner_butt4_folded"] = "Crane Stock",
+ ["Magpul Stock"] = "Krebs_butt",
+ ["Krebs_butt"] = "Magpul Stock",
+ ["Krebs_butt_folded"] = "Magpul Stock",
+ ["Magpul Tan Stock"] = "Krebs_butt2",
+ ["Krebs_butt2"] = "Magpul Tan Stock",
+ ["Krebs_butt2_folded"] = "Magpul Tan Stock",
+ ["Magpul UBR Stock"] = "Craner_butt2",
+ ["Craner_butt2"] = "Magpul UBR Stock",
+ ["Craner_butt2_folded"] = "Magpul UBR Stock",
+ ["Ergo R93 Stock"] = "Old_M4_butt",
+ ["Old_M4_butt"] = "Ergo R93 Stock",
+ ["Old_M4_butt_folded"] = "Ergo R93 Stock",
+ ["Ergo R93 LVOAS Stock"] = "LVOASstock",
+ ["LVOASstock"] = "Ergo R93 LVOAS Stock",
+ ["LVOASstock_folded"] = "Ergo R93 LVOAS Stock",
+ ["HK416 Stock"] = "m4sopmod_butt416",
+ ["m4sopmod_butt416"] = "HK416 Stock",
+ ["m4sopmod_butt416_folded"] = "HK416 Stock",
+ ["HK417 Stock"] = "g28stockgrey",
+ ["g28stockgrey"] = "HK417 Stock",
+ ["g28stockgrey_folded"] = "HK417 Stock",
+ ["C7A2 Stock"] = "C7A2_butt",
+ ["C7A2_butt"] = "C7A2 Stock",
+ ["C7A2_butt_folded"] = "C7A2 Stock",
+ ["C7A2 BLK Stock"] = "C7A2blk_butt",
+ ["C7A2blk_butt"] = "C7A2 Stock",
+ ["C7A2blk_butt_folded"] = "C7A2 Stock",
+ ["T65 Stock"] = "t65k2carstock",
+ ["t65k2carstock"] = "T65 Stock",
+ ["t65k2carstock_folded"] = "T65 Stock",
+ ["T65 BLK Stock"] = "Craner_butt3",
+ ["Craner_butt3"] = "T65 BLK Stock",
+ ["Craner_butt3_folded"] = "T65 BLK Stock",
+ ["SIG 556 Stock"] = "m4sopmod_buttgray",
+ ["m4sopmod_buttgray"] = "SIG 556 Stock",
+ ["m4sopmod_buttgray_folded"] = "SIG 556 Stock",
+ ["Galil ACE Stock"] = "galilace_stock",
+ ["galilace_stock"] = "Galil ACE Stock",
+ ["galilace_stock_folded"] = "Galil ACE Stock",
 }
 
  local FoldBayonetItems = {
@@ -1113,6 +1171,20 @@ AddItemContextMenu("MP5 butt A2", action_replace_butt, ChangeStock, CanChangeFol
 AddItemContextMenu("MP5 butt A3", action_replace_butt, ChangeStock, CanChangeStock)
 AddItemContextMenu("Car15 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
 AddItemContextMenu("M4A1 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Crane Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Magpul Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Magpul Tan Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Magpul UBR Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Ergo R93 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Ergo R93 LVOAS Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("HK416 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("HK417 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("C7A2 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("C7A2 BLK Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("T65 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("T65 BLK Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("SIG 556 Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
+AddItemContextMenu("Galil ACE Stock", action_replace_butt, ChangeStock, CanChangeFoldStock)
 
 local action_install_ris_kit = "Install a RIS on the weapon in hands"
 local action_uninstall_ris_kit = "Take off the RIS on the weapon in hands"
@@ -1440,7 +1512,15 @@ AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWe
  ["M27 IAR"] = "M27 IAR folded",
  ["Assault Rifle T14 M4A1 (410)"] = "Assault Rifle T14 M4A1 (410) folded",
  ["Assault Rifle T14 M4A1 FG (410)"] = "Assault Rifle T14 M4A1 FG (410) folded",
-
+ ["Assaul Rifle SA Vz.58 Mod CQC"] = "Assaul Rifle SA Vz.58 Mod CQC folded",
+ ["Assaul Rifle SA Vz.58 Mod CAR"] = "Assaul Rifle SA Vz.58 Mod CAR folded",
+ ["Assaul Rifle SA Vz.58 Mod"] = "Assaul Rifle SA Vz.58 Mod folded",
+ ["Assaul Rifle SA Vz.58 Mod CQC NATO"] = "Assaul Rifle SA Vz.58 Mod CQC NATO folded",
+ ["Assaul Rifle SA Vz.58 Mod CAR NATO"] = "Assaul Rifle SA Vz.58 Mod CAR NATO folded",
+ ["Assaul Rifle SA Vz.58 Mod NATO"] = "Assaul Rifle SA Vz.58 Mod NATO folded",
+ ["Shotgun VEPR12 MAGPUL (12ga)"] = "Shotgun VEPR12 MAGPUL (12ga) folded",
+ ["Shotgun VEPR12 LB MAGPUL (12ga)"] = "Shotgun VEPR12 LB MAGPUL (12ga) folded",
+ ["Shotgun VEPR12 LB LB MAGPUL (12ga)"] = "Shotgun VEPR12 LB LB MAGPUL (12ga) folded",
 }
  local LUAUnfoldStockWeapons = {
  ["Assault Rifle M4A1 CIV (5.56mm) folded"] = "Assault Rifle M4A1 CIV (5.56mm)",
@@ -1614,12 +1694,49 @@ AddContextMenu(_t"lang/lua/tuning/unfold_bipods", UnfoldWeaponBipod, CanUnfoldWe
  ["M27 IAR folded"] = "M27 IAR",
  ["Assault Rifle T14 M4A1 (410) folded"] = "Assault Rifle T14 M4A1 (410)",
  ["Assault Rifle T14 M4A1 FG (410) folded"] = "Assault Rifle T14 M4A1 FG (410)",
+ ["Assaul Rifle SA Vz.58 Mod CQC folded"] = "Assaul Rifle SA Vz.58 Mod CQC",
+ ["Assaul Rifle SA Vz.58 Mod CAR folded"] = "Assaul Rifle SA Vz.58 Mod CAR",
+ ["Assaul Rifle SA Vz.58 Mod folded"] = "Assaul Rifle SA Vz.58 Mod",
+ ["Assaul Rifle SA Vz.58 Mod CQC NATO folded"] = "Assaul Rifle SA Vz.58 Mod CQC NATO",
+ ["Assaul Rifle SA Vz.58 Mod CAR NATO folded"] = "Assaul Rifle SA Vz.58 Mod CAR NATO",
+ ["Assaul Rifle SA Vz.58 Mod NATO folded"] = "Assaul Rifle SA Vz.58 Mod NATO",
+ ["Shotgun VEPR12 MAGPUL (12ga) folded"] = "Shotgun VEPR12 MAGPUL (12ga)",
+ ["Shotgun VEPR12 LB MAGPUL (12ga) folded"] = "Shotgun VEPR12 LB MAGPUL (12ga)",
+ ["Shotgun VEPR12 LB LB MAGPUL (12ga) folded"] = "Shotgun VEPR12 LB LB MAGPUL (12ga)",
 }
  local LUAFoldUnfoldStockStocks = {
  ["m4_butt"] = "m4_butt_folded",
  ["m4_butt_folded"] = "m4_butt",
  ["m4sopmod_butt"] = "m4sopmod_butt_folded",
  ["m4sopmod_butt_folded"] = "m4sopmod_butt",
+ ["Craner_butt4"] = "Craner_butt4_folded",
+ ["Craner_butt4_folded"] = "Craner_butt4",
+ ["Krebs_butt"] = "Krebs_butt_folded",
+ ["Krebs_butt_folded"] = "Krebs_butt",
+ ["Krebs_butt2"] = "Krebs_butt2_folded",
+ ["Krebs_butt2_folded"] = "Krebs_butt2",
+ ["Craner_butt2"] = "Craner_butt2_folded",
+ ["Craner_butt2_folded"] = "Craner_butt2",
+ ["Old_M4_butt"] = "Old_M4_butt_folded",
+ ["Old_M4_butt_folded"] = "Old_M4_butt",
+ ["LVOASstock"] = "LVOASstock_folded",
+ ["LVOASstock_folded"] = "LVOASstock",
+ ["m4sopmod_butt416"] = "m4sopmod_butt416_folded",
+ ["m4sopmod_butt416_folded"] = "m4sopmod_butt416",
+ ["g28stockgrey"] = "g28stockgrey_folded",
+ ["g28stockgrey_folded"] = "g28stockgrey",
+ ["C7A2_butt"] = "C7A2_butt_folded",
+ ["C7A2_butt_folded"] = "C7A2_butt",
+ ["C7A2blk_butt"] = "C7A2blk_butt_folded",
+ ["C7A2blk_butt_folded"] = "C7A2blk_butt",
+ ["t65k2carstock"] = "t65k2carstock_folded",
+ ["t65k2carstock_folded"] = "t65k2carstock",
+ ["Craner_butt3"] = "Craner_butt3_folded",
+ ["Craner_butt3_folded"] = "Craner_butt3",
+ ["m4sopmod_buttgray"] = "m4sopmod_buttgray_folded",
+ ["m4sopmod_buttgray_folded"] = "m4sopmod_buttgray",
+ ["galilace_stock"] = "galilace_stock_folded",
+ ["galilace_stock_folded"] = "galilace_stock",
 }
 
 local function CanFoldStock(item)

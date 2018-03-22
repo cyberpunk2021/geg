@@ -937,6 +937,11 @@ None
 None  "Items\NEW_c7a2BUTT_OPEN.act""boxgeneric.e5b"
 300
 
+"C7A2 BLK Stock"
+None
+None  "Items\NEW_c7a2BUTTblk_open.act""boxgeneric.e5b"
+300
+
 "T65 Stock"
 None
 None  "Items\t65carstock.act""boxgeneric.e5b"

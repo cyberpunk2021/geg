@@ -64,7 +64,7 @@ Material fsightt {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "fnfal_fsight.dds";
+  "fnfal_fsight2.dds";
  }
 }
 

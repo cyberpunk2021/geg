@@ -35699,7 +35699,7 @@ MaxRange		230
 EffectiveRange	67
 RangeCurvature	15
 Balance			0.4
-Unfold			"Shotgun VEPR12 MAGPUL (12ga) folded"
+// Unfold			"Shotgun VEPR12 MAGPUL (12ga) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -35738,7 +35738,7 @@ MaxRange		195
 EffectiveRange	57
 RangeCurvature	15
 Balance			0.4
-Unfold			"Shotgun VEPR12 MAGPUL (12ga)"
+// Unfold			"Shotgun VEPR12 MAGPUL (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -35855,7 +35855,7 @@ MaxRange		260
 EffectiveRange	75
 RangeCurvature	10
 Balance			0.4
-Unfold			"Shotgun VEPR12 LB MAGPUL (12ga) folded"
+// Unfold			"Shotgun VEPR12 LB MAGPUL (12ga) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -35894,7 +35894,7 @@ MaxRange		221
 EffectiveRange	64
 RangeCurvature	10
 Balance			0.4
-Unfold			"Shotgun VEPR12 LB MAGPUL (12ga)"
+// Unfold			"Shotgun VEPR12 LB MAGPUL (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -36011,7 +36011,7 @@ MaxRange		270
 EffectiveRange	83
 RangeCurvature	10
 Balance			0.4
-Unfold			"Shotgun VEPR12 LB LB MAGPUL (12ga) folded"
+// Unfold			"Shotgun VEPR12 LB LB MAGPUL (12ga) folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -36050,7 +36050,7 @@ MaxRange		229
 EffectiveRange	71
 RangeCurvature	10
 Balance			0.4
-Unfold			"Shotgun VEPR12 LB LB MAGPUL (12ga)"
+// Unfold			"Shotgun VEPR12 LB LB MAGPUL (12ga)"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -49874,7 +49874,7 @@ MaxRange		390
 EffectiveRange	105
 RangeCurvature	2.5
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CQC folded"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CQC folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -49913,7 +49913,7 @@ MaxRange		312
 EffectiveRange	84
 RangeCurvature	2.5
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CQC"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CQC"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -49952,7 +49952,7 @@ MaxRange		440
 EffectiveRange	140
 RangeCurvature	2.5
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CAR folded"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CAR folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -49991,7 +49991,7 @@ MaxRange		352
 EffectiveRange	112
 RangeCurvature	2.5
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CAR"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CAR"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50030,7 +50030,7 @@ MaxRange		490
 EffectiveRange	176
 RangeCurvature	2.5
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod folded"
+// Unfold			"Assaul Rifle SA Vz.58 Mod folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50069,7 +50069,7 @@ MaxRange		392
 EffectiveRange	141
 RangeCurvature	2.5
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod"
+// Unfold			"Assaul Rifle SA Vz.58 Mod"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50108,7 +50108,7 @@ MaxRange		450
 EffectiveRange	110
 RangeCurvature	2
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CQC NATO folded"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CQC NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50147,7 +50147,7 @@ MaxRange		360
 EffectiveRange	88
 RangeCurvature	2
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CQC NATO"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CQC NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50186,7 +50186,7 @@ MaxRange		500
 EffectiveRange	147
 RangeCurvature	2
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CAR NATO folded"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CAR NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50225,7 +50225,7 @@ MaxRange		400
 EffectiveRange	118
 RangeCurvature	2
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod CAR NATO"
+// Unfold			"Assaul Rifle SA Vz.58 Mod CAR NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50264,7 +50264,7 @@ MaxRange		550
 EffectiveRange	190
 RangeCurvature	2
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod NATO folded"
+// Unfold			"Assaul Rifle SA Vz.58 Mod NATO folded"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -50303,7 +50303,7 @@ MaxRange		440
 EffectiveRange	152
 RangeCurvature	2
 Balance			0.45
-Unfold			"Assaul Rifle SA Vz.58 Mod NATO"
+// Unfold			"Assaul Rifle SA Vz.58 Mod NATO"
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
 ClipOutSound	"Weapon\ClipOut\clip_out.wav"
 ReLockSound		"Weapon\ReLock\strifle_slide(AKM).wav"
@@ -64197,7 +64197,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\mk18.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
 ITEM "Assault Rifle MK18 (5.56mm) folded"
@@ -64275,7 +64275,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"Krebs_butt"
 ACTOR			"Items\mk18fg.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
 ITEM "Assault Rifle MK18 FG (5.56mm) folded"
