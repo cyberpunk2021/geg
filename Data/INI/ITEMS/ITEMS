@@ -3816,7 +3816,7 @@ Soldier
 "Sniper camouflage"
 Camouflage
 None  "Items\sniper_kit.act""sniperkit.e6b"
-Uniform  "250_sniper.azp"
+Uniform  "250_sniper"
 1000
 
 "Shotgun manual"
@@ -4334,6 +4334,11 @@ None  "Items\confidencial.act""bloc_003.e5b"
 5
 
 "Receipt A-545 Family"
+None
+None  "Items\confidencial.act""bloc_003.e5b"
+5
+
+"Receipt AR15 Stocks"
 None
 None  "Items\confidencial.act""bloc_003.e5b"
 5

@@ -3626,14 +3626,14 @@ Z  0
 X  0
 Y  0
 Z  0
-"Minimi mag (Minimi 5.56/100)"
-X  -52
-Y  0
-Z  0
-"Minimi mag (Minimi 5.56/200)"
-X  -52
-Y  0
-Z  0
+// "Minimi mag (Minimi 5.56/100)"
+// X  -52
+// Y  0
+// Z  0
+// "Minimi mag (Minimi 5.56/200)"
+// X  -52
+// Y  0
+// Z  0
 "Pistol clip (APS/20)"
 X  0
 Y  0
@@ -16670,54 +16670,6 @@ Z  0
 X  0
 Y  -90
 Z  0
-"Ammo box (.22LR HV)"
-X  0
-Y  -90
-Z  0
-"Ammo box (.22LR HP)"
-X  0
-Y  -90
-Z  0
-"Ammo box (.25 ACP HP)"
-X  0
-Y  -90
-Z  0
-"Ammo box 500 (.25 ACP FMJ)"
-X  0
-Y  -90
-Z  0
-"Ammo box (.32 ACP HP)"
-X  0
-Y  -90
-Z  0
-"Ammo box 500 (.380 ACP FMJ)"
-X  0
-Y  -90
-Z  0
-"Ammo box 500 (.380 ACP HP)"
-X  0
-Y  -90
-Z  0
-"Ammo box FMJ 500 (8x22)"
-X  0
-Y  -90
-Z  0
-"Ammo box 500 HLA (Mauser Tokarev)"
-X  0
-Y  -90
-Z  0
-"Ammo box 500 (7.62x25mm FMJ)"
-X  0
-Y  -90
-Z  0
-"Big Ammo box (9x18)"
-X  0
-Y  -90
-Z  0
-"Ammo box 500 HLA (9mm JHP +P+)"
-X  0
-Y  -90
-Z  0
 "M-18 Claymore"
 X  0
 Y  -90
@@ -17539,5 +17491,45 @@ Z  0
 "Niobium ore crate"
 X  0
 Y  90
+Z  0
+"7.62x25mm FMJ"
+X  0
+Y  -90
+Z  0
+"7.62x25mm (7.63mm mauser)"
+X  0
+Y  -90
+Z  0
+"Palinero 7.62x25"
+X  0
+Y  -90
+Z  0
+"China Sport 7.62x25"
+X  0
+Y  -90
+Z  0
+".357 SIG Surplus"
+X  0
+Y  -90
+Z  0
+".357 SIG FMJ"
+X  0
+Y  -90
+Z  0
+".357 SIG AP"
+X  0
+Y  -90
+Z  0
+".357 SIG HP"
+X  0
+Y  -90
+Z  0
+"Ammo .30 Carbine Surplus"
+X  0
+Y  -90
+Z  0
+"Ammo .30 Carbine FMJ"
+X  0
+Y  -90
 Z  0
 END

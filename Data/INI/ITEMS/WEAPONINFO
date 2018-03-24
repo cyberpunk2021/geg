@@ -17523,7 +17523,7 @@ SingleFireTime	0.67
 BurstFireTime	0.08
 SpeedModifier	0.97
 Resource		4500
-DirtResource	260000
+DirtResource	280000
 MisfireProb		0.0018
 HeatCapacity	115
 Single			1
@@ -18021,7 +18021,7 @@ ATT ILauncher	2 "M203""M203PI" blocks Bipod
 ATT Bayonet		0
 ATT Magazine	2 "STANAG 22""STANAG 22 Double"
 StdPlug			"Rifle ammo clip (M1622/30)"
-StdPlug			"m4sopmod_butt"
+StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\swmp15psxLB.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
@@ -19159,7 +19159,7 @@ Resource		1100
 DirtResource	340000
 MisfireProb		0.0059
 HeatCapacity	110
-Single			1
+Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
@@ -19198,7 +19198,7 @@ Resource		1100
 DirtResource	340000
 MisfireProb		0.0059
 HeatCapacity	110
-Single			1
+Single			0
 Burst			1
 CutOff			0
 BurstHitStart	1
@@ -19221,7 +19221,7 @@ ATT Bayonet		0
 ATT Magazine	1 "PPS-43"
 StdPlug			"SMG ammo clip (PPS/35)"
 StdPlug			"type54_buttfolded"
-ACTOR			"Items\type54.act"
+ACTOR			"Items\pps43nova.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -48549,7 +48549,7 @@ ITEM "Assault Rifle Steyr AUG A1 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3600
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.7059
 BurstFireTime	0.0882
 SpeedModifier	1.05
@@ -48587,7 +48587,7 @@ ITEM "Assault Rifle Steyr AUG M203 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3600
-PrepareTime		0.39
+PrepareTime		0.41
 SingleFireTime	0.74
 BurstFireTime	0.0882
 SpeedModifier	1.05
@@ -48669,7 +48669,7 @@ ITEM "Assault Rifle Steyr AUG A2 SR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3550
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.7059
 BurstFireTime	0.0882
 SpeedModifier	1.05
@@ -48712,7 +48712,7 @@ ITEM "Assault Rifle Steyr AUG M203 SR (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3550
-PrepareTime		0.39
+PrepareTime		0.42
 SingleFireTime	0.74
 BurstFireTime	0.0882
 SpeedModifier	1.05
@@ -48756,7 +48756,7 @@ ITEM "Assault Rifle Steyr AUG A3 (5.56mm)"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3600
-PrepareTime		0.37
+PrepareTime		0.40
 SingleFireTime	0.69
 BurstFireTime	0.0882
 SpeedModifier	1.04
@@ -48769,7 +48769,7 @@ Burst			1
 CutOff			0
 BurstHitStart	2
 MaxRange		550
-EffectiveRange	220
+EffectiveRange	210
 RangeCurvature	2
 Balance			0.93
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -48847,7 +48847,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		500
-EffectiveRange	165
+EffectiveRange	160
 RangeCurvature	2
 Balance			0.93
 ClipInSound		"Weapon\ClipIn\clip_in.wav"
@@ -49021,7 +49021,7 @@ ITEM "Assault Rifle Type86S (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3590
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.66
 BurstFireTime	0.1
 SpeedModifier	1.03
@@ -49058,7 +49058,7 @@ ITEM "Assault Rifle Type86S Auto (7.62x39mm)"
 Class			Rifle
 Caliber			"7.62υ39 μμ"
 Weight			3590
-PrepareTime		0.38
+PrepareTime		0.39
 SingleFireTime	0.66
 BurstFireTime	0.1
 SpeedModifier	1.03
@@ -49095,7 +49095,7 @@ ITEM "HS VHS-K2"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3647
-PrepareTime		0.37
+PrepareTime		0.33
 SingleFireTime	0.54
 BurstFireTime	0.07
 SpeedModifier	1
@@ -49169,7 +49169,7 @@ ITEM "HS VHS-D2"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3647
-PrepareTime		0.39
+PrepareTime		0.38
 SingleFireTime	0.54
 BurstFireTime	0.07
 SpeedModifier	1.05
@@ -49206,7 +49206,7 @@ ITEM "HS VHS-D2 FG"
 Class			Rifle
 Caliber			"5.56υ45 μμ"
 Weight			3647
-PrepareTime		0.39
+PrepareTime		0.38
 SingleFireTime	0.52
 BurstFireTime	0.07
 SpeedModifier	1.05
