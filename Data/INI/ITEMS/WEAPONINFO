@@ -3198,7 +3198,7 @@ ATT ILauncher	0
 ATT Bayonet		0
 ATT Magazine	1 "APS"
 StdPlug			"Pistol clip (APS/20)"
-StdPlug			"kc23butt_folded"
+// StdPlug			"kc23butt_folded"
 ACTOR			"Items\aps.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -3278,7 +3278,7 @@ ATT Bayonet		0
 ATT Magazine	1 "APS"
 StdPlug			"Pistol clip (APS/20)"
 StdPlug			"APB Silencer"
-StdPlug			"kc23butt_folded"
+// StdPlug			"kc23butt_folded"
 ACTOR			"Items\apb.act"
 IMAGE			"2x2.e5b"
 HANDS			ahtPistol
@@ -22466,7 +22466,7 @@ ITEM "PM12 folded"
 Class			SMG
 Caliber			"9υ19 μμ"
 Weight			2780
-PrepareTime		0.21
+PrepareTime		0.20
 SingleFireTime	0.59
 BurstFireTime	0.067
 SpeedModifier	1.08
@@ -24274,9 +24274,9 @@ Single			1
 Burst			1
 CutOff			3
 BurstHitStart	1
-MaxRange		190
-EffectiveRange	84
-RangeCurvature	3
+MaxRange		95
+EffectiveRange	52
+RangeCurvature	1.5
 Balance			0.47
 ClipInSound		"Weapon\ClipIn\ump45_clipin.wav"
 ClipOutSound	"Weapon\ClipOut\ump45_clipout.wav"
@@ -58214,7 +58214,7 @@ ATT Magazine	2 "NATO 5.56""5.56 Double"
 StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"m4_butt_folded"
 ACTOR			"Items\Colt_733.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ///////////---------------
@@ -58296,7 +58296,7 @@ StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\Colt_933.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
 ///////-----------------------
@@ -58378,7 +58378,7 @@ StdPlug			"Rifle ammo clip (M16/30)"
 StdPlug			"M16 Handle"
 StdPlug			"m4sopmod_butt_folded"
 ACTOR			"Items\colt_933_grip.act"
-IMAGE			"2x4.e5b"
+IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
 //////////////--------------
@@ -59742,7 +59742,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -59782,7 +59782,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -59822,7 +59822,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -59862,7 +59862,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		0
 ATT Silencer	1 "Supressor - 5,56"
 ATT ILauncher	0
@@ -59938,7 +59938,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -59976,7 +59976,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60015,7 +60015,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60055,7 +60055,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60085,7 +60085,7 @@ Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		550
-EffectiveRange	230
+EffectiveRange	240
 RangeCurvature	2
 Balance			0.53
 // Unfold			"Assault Rifle C7FT B (5.56mm) folded"
@@ -60095,7 +60095,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60135,7 +60135,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60253,7 +60253,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60293,7 +60293,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60333,7 +60333,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod
@@ -60373,7 +60373,7 @@ ReLockSound		"Weapon\ReLock\strifle_slide.wav"
 ShootSound		"Weapon\Shoot\M16A2.wav"
 ATT Laser		2 "WR""WRRifle"
 ATT Light		2 "WR""WRRifle"
-ATT Scope		1 "WR"
+ATT Scope		2 "WR""m16a3"
 ATT Bipod		1 "AssaultBipod" blocks ILauncher
 ATT Silencer	1 "Supressor - 5,56" blocks Bayonet
 ATT ILauncher	2 "M203""M203PI" blocks Bayonet and Bipod

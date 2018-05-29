@@ -104,7 +104,7 @@ Material matmount {
  0.900000, 0.900000, 0.900000;;
  0.000000, 0.000000, 0.000000;;
  TextureFilename {
-  "ak103nova_3mira.dds";
+  "ak103nova_3.dds";
  }
 }
 
