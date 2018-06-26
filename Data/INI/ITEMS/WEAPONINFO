@@ -5835,7 +5835,7 @@ ATT Bipod		0
 ATT Silencer	1 "Std 9mm Para"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "Beretta9mmElite"
+ATT Magazine	1 "Beretta9mm"
 StdPlug			"Pistol clip (BerettaElite 92FS/15)"
 ACTOR			"Items\92elite.act"
 IMAGE			"2x2.e5b"
@@ -8614,7 +8614,7 @@ ATT Bipod		0
 ATT Silencer	1 ".40 (P99)"
 ATT ILauncher	0
 ATT Bayonet		0
-ATT Magazine	1 "Beretta40Elite"
+ATT Magazine	1 "PT100"
 StdPlug			"Pistol clip (BerettaElite .40/12)"
 ACTOR			"Items\92elite.act"
 IMAGE			"2x2.e5b"
@@ -23086,7 +23086,7 @@ StdPlug			"SMG ammo clip (MAC11/32)"
 StdPlug			"MAC_butt"
 ACTOR			"Items\Mac_11.act"
 IMAGE			"2x3.e5b"
-HANDS			ahtPistol
+HANDS			ahtBullPup
 
 ITEM "Submachine-gun MAC-11 (9mm) folded"
 Class			SMG
@@ -23125,7 +23125,7 @@ StdPlug			"SMG ammo clip (MAC11/32)"
 StdPlug			"MAC_butt_folded"
 ACTOR			"Items\Mac_11.act"
 IMAGE			"2x2.e5b"
-HANDS			ahtPistol
+HANDS			ahtBullPup
 
 ITEM "Spectre M4"
 Class			SMG
@@ -50803,7 +50803,7 @@ DirtResource	170000
 MisfireProb		0.0049
 HeatCapacity	115
 Single			1
-Burst			0
+Burst			1
 CutOff			0
 BurstHitStart	1
 MaxRange		750
@@ -56339,7 +56339,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
-ACTOR			"Items\xcrnovacqc.act"
+ACTOR			"Items\xcrnovacqc_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -56378,7 +56378,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
-ACTOR			"Items\xcrnovacqc.act"
+ACTOR			"Items\xcrnovacqc_b.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRifle
 
@@ -56417,7 +56417,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
-ACTOR			"Items\xcrnovacqcfg.act"
+ACTOR			"Items\xcrnovacqcfg_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -56456,7 +56456,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
-ACTOR			"Items\xcrnovacqcfg.act"
+ACTOR			"Items\xcrnovacqcfg_b.act"
 IMAGE			"2x3.e5b"
 HANDS			ahtRG
 
@@ -56495,7 +56495,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
-ACTOR			"Items\xcrnova.act"
+ACTOR			"Items\xcrnova_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -56534,7 +56534,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
-ACTOR			"Items\xcrnova.act"
+ACTOR			"Items\xcrnova_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -56573,7 +56573,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
-ACTOR			"Items\xcrnovafg.act"
+ACTOR			"Items\xcrnovafg_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -56612,7 +56612,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
-ACTOR			"Items\xcrnovafg.act"
+ACTOR			"Items\xcrnovafg_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 
@@ -56651,7 +56651,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
-ACTOR			"Items\xcrnovalb.act"
+ACTOR			"Items\xcrnovalb_b.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRifle
 
@@ -56690,7 +56690,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
-ACTOR			"Items\xcrnovalb.act"
+ACTOR			"Items\xcrnovalb_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRifle
 
@@ -56729,7 +56729,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock"
-ACTOR			"Items\xcrnovalbfg.act"
+ACTOR			"Items\xcrnovalbfg_b.act"
 IMAGE			"2x5.e5b"
 HANDS			ahtRG
 
@@ -56768,7 +56768,7 @@ ATT Bayonet		0
 ATT Magazine	1 "sr25_clip"
 StdPlug			"Rifle ammo clip (SR25\20)"
 StdPlug			"xcrstock_folded"
-ACTOR			"Items\xcrnovalbfg.act"
+ACTOR			"Items\xcrnovalbfg_b.act"
 IMAGE			"2x4.e5b"
 HANDS			ahtRG
 

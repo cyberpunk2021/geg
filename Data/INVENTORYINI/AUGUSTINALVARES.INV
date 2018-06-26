@@ -1,0 +1,1602 @@
+
+NewFormatInventory  
+Stage  1 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  2 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  3 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  4 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  5 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  6 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  7 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  8 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  9 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  10 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  11 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  12 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  13 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  14 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  15 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
+Stage  16 
+Variants  1 
+VARIANT  "Variant 1"1 
+Pockets  1 3 4 5 
+Item  0 0 0 
+Name  "Assault Rifle Galil ARM (5.56mm)"
+SpecificData  
+WeaponInfo  
+CurrentClip  2 5 7 
+Name  "Rifle ammo clip (Galil/50)"
+SpecificData  
+ClipInfo  
+Resource  1 
+BulletsCount  1 0 0 6 
+Name  ".223Aguila FMJ"
+SpecificData  
+AmmoInfo  
+RoundsLeft  50 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 1 1 0 1 0 
+Jammed  0 
+AddonsCount  2 0 0 8 
+Name  "indumil_buttopen"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 0 0 8 
+Name  "Galil bipod folded"
+SpecificData  
+AddonInfo  
+Resource  1 
+BulletsCount  0 
+MasterBone  -1 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+EndOfSpecificData  
+Used  0 
+Prob  1 7 8 6 9 10 11 
+Item  1 0 10 
+Name  "Lighter_cryst_r"
+SpecificData  
+OtherInfo  
+GUID  1501 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  1 1 10 
+Name  "Smoke_serpent"
+SpecificData  
+OtherInfo  
+GUID  1704 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 0 10 
+Name  "Canteen_leath"
+SpecificData  
+OtherInfo  
+GUID  2856 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 
+Item  0 1 10 
+Name  "Money"
+SpecificData  
+OtherInfo  
+GUID  2307 
+HeatAmount  0 
+NumOfUsages  0 
+Card  0 
+Extended  0 
+EndOfSpecificData  
+Used  0 
+Prob  1 2 
+Pins  12 14 13 
+Money  
+RND  25 50 
+END_VARIANT  
+EndStage  
